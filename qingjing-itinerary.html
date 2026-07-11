@@ -828,8 +828,18 @@
 
         .checklist-checkbox-wrapper {
             position: relative;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.8rem;
+            width: 100%;
+            cursor: pointer;
+        }
+
+        .checkbox-square {
+            position: relative;
             width: 20px;
             height: 20px;
+            min-width: 20px;
             margin-top: 3px;
         }
 
@@ -839,6 +849,7 @@
             cursor: pointer;
             height: 0;
             width: 0;
+            z-index: 2;
         }
 
         .checkbox-custom {
@@ -847,6 +858,7 @@
             left: 0;
             height: 20px;
             width: 20px;
+            z-index: 1;
             background-color: transparent;
             border: 2px solid var(--text-muted);
             border-radius: 6px;
@@ -2270,31 +2282,19 @@
                         <h3><i class="fa-solid fa-id-card"></i> 證件與金流</h3>
                         <div class="checklist-items-grid">
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">健保卡 <span class="checklist-text-desc">大人、小孩皆需攜帶</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">健保卡 <span class="checklist-text-desc">大人、小孩皆需攜帶</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">身分證/駕照 <span class="checklist-text-desc">自駕租車/核對身分用</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">身分證/駕照 <span class="checklist-text-desc">自駕租車/核對身分用</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">充足現金 <span class="checklist-text-desc">預備 NT$ 15,000 以上 (清境部分店家僅收現金)</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">充足現金 <span class="checklist-text-desc">預備 NT$ 15,000 以上 (清境部分店家僅收現金)</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">信用卡 <span class="checklist-text-desc">民宿結帳或緊急備用</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">信用卡 <span class="checklist-text-desc">民宿結帳或緊急備用</span></span>
                                 </div>
                             </label>
                         </div>
@@ -2305,45 +2305,27 @@
                         <h3><i class="fa-solid fa-shirt"></i> 衣物防寒</h3>
                         <div class="checklist-items-grid">
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">防風防水三合一外套 <span class="checklist-text-desc">高山傍晚與合歡山極冷</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">防風防水三合一外套 <span class="checklist-text-desc">高山傍晚與合歡山極冷</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">輕便薄外套 <span class="checklist-text-desc">白天防曬防風用</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">輕便薄外套 <span class="checklist-text-desc">白天防曬防風用</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">換洗衣物 <span class="checklist-text-desc">每人準備 4 套衣物</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">換洗衣物 <span class="checklist-text-desc">每人準備 4 套衣物</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">保暖帽 / 圍巾 <span class="checklist-text-desc">合歡山武嶺風大保暖用</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">保暖帽 / 圍巾 <span class="checklist-text-desc">合歡山武嶺風大保暖用</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">好走的運動鞋 <span class="checklist-text-desc">草原及步道健行必備</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">好走的運動鞋 <span class="checklist-text-desc">草原及步道健行必備</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">遮陽帽 <span class="checklist-text-desc">白天紫外線極強</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">遮陽帽 <span class="checklist-text-desc">白天紫外線極強</span></span>
                                 </div>
                             </label>
                         </div>
@@ -2354,45 +2336,27 @@
                         <h3><i class="fa-solid fa-baby"></i> 孩童與個人防護</h3>
                         <div class="checklist-items-grid">
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">兒童保溫瓶 <span class="checklist-text-desc">隨時補充溫水以防感冒</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">兒童保溫瓶 <span class="checklist-text-desc">隨時補充溫水以防感冒</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">防蚊液 & 防蚊貼片 <span class="checklist-text-desc">山區小黑蚊較多</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">防蚊液 & 防蚊貼片 <span class="checklist-text-desc">山區小黑蚊較多</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">雨傘 & 雨衣 <span class="checklist-text-desc">防範午後陣雨</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">雨傘 & 雨衣 <span class="checklist-text-desc">防範午後陣雨</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">防曬乳 <span class="checklist-text-desc">大人、小孩專用防曬</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">防曬乳 <span class="checklist-text-desc">大人、小孩專用防曬</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">濕紙巾 & 乾紙巾 <span class="checklist-text-desc">方便隨時清潔雙手</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">濕紙巾 & 乾紙巾 <span class="checklist-text-desc">方便隨時清潔雙手</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">嬰兒推車 <span class="checklist-text-desc">小瑞士與高空步道無障礙適合推車</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">嬰兒推車 <span class="checklist-text-desc">小瑞士與高空步道無障礙適合推車</span></span>
                                 </div>
                             </label>
                         </div>
@@ -2403,38 +2367,23 @@
                         <h3><i class="fa-solid fa-prescription-bottle-medical"></i> 常備藥品</h3>
                         <div class="checklist-items-grid">
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">小兒感冒糖漿/退燒藥 <span class="checklist-text-desc">高山溫差大預防感冒</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">小兒感冒糖漿/退燒藥 <span class="checklist-text-desc">高山溫差大預防感冒</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">暈車藥 <span class="checklist-text-desc">台14甲山路多彎必備</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">暈車藥 <span class="checklist-text-desc">台14甲山路多彎必備</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">高山症藥品 <span class="checklist-text-desc">前往醫院或藥局諮詢準備</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">高山症藥品 <span class="checklist-text-desc">前往醫院或藥局諮詢準備</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">防蚊蟲咬傷藥膏 <span class="checklist-text-desc">止癢消腫藥膏</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">防蚊蟲咬傷藥膏 <span class="checklist-text-desc">止癢消腫藥膏</span></span>
                                 </div>
                             </label>
                             <label class="checklist-item">
-                                <div class="checklist-checkbox-wrapper">
-                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
-                                    <span class="checkbox-custom"></span>
-                                    <span class="checklist-text">外傷OK繃/優碘乾粉 <span class="checklist-text-desc">預防擦傷</span></span>
+                                <div class="checklist-checkbox-wrapper"><div class="checkbox-square"><input type="checkbox" class="checklist-checkbox" onchange="updateProgress()"><span class="checkbox-custom"></span></div><span class="checklist-text">外傷OK繃/優碘乾粉 <span class="checklist-text-desc">預防擦傷</span></span>
                                 </div>
                             </label>
                         </div>
