@@ -656,8 +656,14 @@
             border-radius: var(--radius-lg);
             padding: 1.8rem;
             height: fit-content;
-            position: sticky;
-            top: 90px;
+            position: relative;
+        }
+
+        @media (min-width: 900px) {
+            .checklist-sidebar {
+                position: sticky;
+                top: 90px;
+            }
         }
 
         .progress-box {
@@ -966,10 +972,16 @@
             border-radius: var(--radius-lg);
             padding: 2.2rem;
             height: fit-content;
-            position: sticky;
-            top: 90px;
+            position: relative;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
             text-align: center;
+        }
+
+        @media (min-width: 900px) {
+            .budget-chart-panel {
+                position: sticky;
+                top: 90px;
+            }
         }
 
         .budget-chart-panel h3 {
