@@ -1,0 +1,2841 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>清境農場四天三夜親子自駕遊行程規劃</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="清境農場四天三夜親子自駕遊詳細行程表。專為2大2小（3歲與6歲孩童）設計的慢活旅行，包含景點導航、防高山症注意事項、行李打包清單及費用估算。">
+    <meta name="keywords" content="清境農場, 親子旅遊, 自駕遊, 合歡山, 武嶺, 埔里, 行程規劃">
+    <meta name="author" content="Antigravity Coding Assistant">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Chart.js for Budget Visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        /* Design System & Variables */
+        :root {
+            --primary: #4ade80; /* Soft emerald green for nature theme */
+            --primary-dark: #22c55e;
+            --primary-glow: rgba(74, 222, 128, 0.4);
+            --secondary: #60a5fa; /* Sky blue */
+            --secondary-dark: #3b82f6;
+            --accent: #fbbf24; /* Warm yellow for sheep/sun */
+            --bg-dark: #0f172a; /* Premium dark navy background */
+            --bg-card: rgba(30, 41, 59, 0.7); /* Translucent glassmorphism card */
+            --border-glow: rgba(255, 255, 255, 0.08);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --font-display: 'Outfit', 'Noto Sans TC', sans-serif;
+            --font-body: 'Noto Sans TC', sans-serif;
+            --radius-lg: 24px;
+            --radius-md: 16px;
+            --radius-sm: 12px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* Base Styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            scrollbar-width: thin;
+            scrollbar-color: var(--primary) var(--bg-dark);
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-dark);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(74, 222, 128, 0.3);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary);
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        /* Premium Parallax Hero */
+        .hero {
+            position: relative;
+            height: 60vh;
+            min-height: 450px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            overflow: hidden;
+            background: linear-gradient(to bottom, rgba(15, 23, 42, 0.3) 0%, rgba(15, 23, 42, 0.95) 100%), 
+                        url('images/qingjing_hero.jpg') center/cover no-repeat;
+            background-attachment: scroll;
+        }
+
+        /* Glassmorphism Hero Panel */
+        .hero-content {
+            background: rgba(15, 23, 42, 0.65);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 3rem;
+            border-radius: var(--radius-lg);
+            border: 1px solid var(--border-glow);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+            max-width: 800px;
+            width: 90%;
+            transform: translateY(20px);
+            animation: slideUp 1s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+        }
+
+        @keyframes slideUp {
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .hero-tag {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--primary);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            display: inline-block;
+            background: rgba(74, 222, 128, 0.15);
+            padding: 6px 16px;
+            border-radius: 50px;
+            border: 1px solid rgba(74, 222, 128, 0.3);
+        }
+
+        .hero h1 {
+            font-family: var(--font-display);
+            font-size: 2.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #ffffff 30%, var(--primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+            letter-spacing: -0.5px;
+            line-height: 1.25;
+        }
+
+        .hero-meta {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 1.5rem;
+        }
+
+        .hero-meta-item {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 8px 16px;
+            border-radius: 50px;
+            border: 1px solid var(--border-glow);
+        }
+
+        .hero-meta-item i {
+            color: var(--primary);
+        }
+
+        /* Navigation Tabs Bar */
+        .nav-tabs {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-glow);
+            padding: 1rem 0;
+            transition: var(--transition);
+        }
+
+        .tabs-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 0 1.5rem;
+            gap: 1rem;
+        }
+
+        .tab-btn {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            font-weight: 600;
+            padding: 0.8rem 1.8rem;
+            cursor: pointer;
+            border-radius: var(--radius-sm);
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            position: relative;
+        }
+
+        .tab-btn:hover {
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .tab-btn.active {
+            color: var(--primary);
+            background: rgba(74, 222, 128, 0.1);
+            border: 1px solid rgba(74, 222, 128, 0.25);
+            box-shadow: 0 0 15px rgba(74, 222, 128, 0.05);
+        }
+
+        /* Main Content Layout */
+        .main-content {
+            max-width: 1200px;
+            margin: 3rem auto;
+            padding: 0 1.5rem;
+        }
+
+        /* View Panels */
+        .tab-panel {
+            display: none;
+            animation: fadeIn 0.6s ease forwards;
+        }
+
+        .tab-panel.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(15px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Weather Quick Bar */
+        .weather-banner {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(147, 51, 234, 0.1) 100%);
+            border: 1px solid rgba(59, 130, 246, 0.25);
+            border-radius: var(--radius-md);
+            padding: 1.2rem 2rem;
+            margin-bottom: 2.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .weather-info {
+            display: flex;
+            align-items: center;
+            gap: 1.2rem;
+        }
+
+        .weather-icon {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 8px rgba(251, 191, 36, 0.3));
+        }
+
+        .weather-text h3 {
+            font-size: 1.15rem;
+            font-weight: 700;
+        }
+
+        .weather-text p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .weather-alert {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            background: rgba(239, 68, 68, 0.15);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            color: #fca5a5;
+            padding: 8px 18px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .weather-alert i {
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.15); }
+        }
+
+        /* ------------------------------
+           ITINERARY (TIMELINE)
+        ------------------------------ */
+        .itinerary-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .day-nav {
+            display: flex;
+            gap: 0.6rem;
+        }
+
+        .day-nav-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-glow);
+            color: var(--text-muted);
+            padding: 8px 16px;
+            border-radius: 50px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .day-nav-btn:hover, .day-nav-btn.active {
+            background: var(--primary);
+            color: var(--bg-dark);
+            border-color: var(--primary);
+            box-shadow: 0 0 12px var(--primary-glow);
+        }
+
+        .action-btns {
+            display: flex;
+            gap: 0.8rem;
+        }
+
+        .action-btn {
+            background: transparent;
+            border: 1px solid var(--border-glow);
+            color: var(--text-main);
+            padding: 8px 16px;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+        }
+
+        .action-btn:hover {
+            background: rgba(255, 255, 255, 0.05);
+            border-color: var(--text-muted);
+        }
+
+        /* Collapsible Day Block */
+        .day-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            margin-bottom: 2.5rem;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            transition: var(--transition);
+        }
+
+        .day-card:hover {
+            border-color: rgba(74, 222, 128, 0.2);
+            box-shadow: 0 15px 40px rgba(74, 222, 128, 0.03);
+        }
+
+        .day-header {
+            padding: 1.8rem 2.2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            background: rgba(255, 255, 255, 0.01);
+            border-bottom: 1px solid var(--border-glow);
+            user-select: none;
+            transition: var(--transition);
+        }
+
+        .day-header:hover {
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .day-title-area {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .day-badge {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: var(--bg-dark);
+            font-family: var(--font-display);
+            font-size: 1.25rem;
+            font-weight: 800;
+            width: 54px;
+            height: 54px;
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 20px rgba(74, 222, 128, 0.2);
+        }
+
+        .day-info h2 {
+            font-size: 1.35rem;
+            font-weight: 700;
+            margin-bottom: 0.2rem;
+        }
+
+        .day-info p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .toggle-icon {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            transition: var(--transition);
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.03);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--border-glow);
+        }
+
+        .day-card.collapsed .toggle-icon {
+            transform: rotate(-90deg);
+        }
+
+        .day-card.collapsed .day-content {
+            max-height: 0;
+            opacity: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+            pointer-events: none;
+        }
+
+        .day-content {
+            padding: 2.2rem;
+            position: relative;
+            transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            max-height: 6000px;
+            opacity: 1;
+        }
+
+        /* Timeline Line */
+        .day-content::before {
+            content: '';
+            position: absolute;
+            top: 2.2rem;
+            bottom: 2.2rem;
+            left: 2.9rem;
+            width: 3px;
+            background: linear-gradient(to bottom, var(--primary) 0%, rgba(96, 165, 250, 0.3) 100%);
+            border-radius: 2px;
+        }
+
+        /* Timeline Item */
+        .timeline-item {
+            position: relative;
+            padding-left: 4.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Timeline Point */
+        .timeline-point {
+            position: absolute;
+            left: 2.2rem;
+            top: 4px;
+            transform: translateX(-50%);
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--bg-dark);
+            border: 4px solid var(--primary);
+            z-index: 2;
+            transition: var(--transition);
+        }
+
+        .timeline-item:hover .timeline-point {
+            background: var(--primary);
+            box-shadow: 0 0 12px var(--primary-glow);
+            transform: translateX(-50%) scale(1.2);
+        }
+
+        .timeline-time {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.3rem;
+            display: inline-block;
+            background: rgba(74, 222, 128, 0.1);
+            padding: 3px 12px;
+            border-radius: 50px;
+            border: 1px solid rgba(74, 222, 128, 0.2);
+        }
+
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 0.6rem;
+        }
+
+        .timeline-title h3 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .timeline-title i {
+            color: var(--secondary);
+            font-size: 1.1rem;
+        }
+
+        .tag-group {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .badge-price {
+            background: rgba(251, 191, 36, 0.12);
+            color: var(--accent);
+            border: 1px solid rgba(251, 191, 36, 0.25);
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: var(--radius-sm);
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .badge-tag {
+            background: rgba(96, 165, 250, 0.12);
+            color: var(--secondary);
+            border: 1px solid rgba(96, 165, 250, 0.25);
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: var(--radius-sm);
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .timeline-body {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .timeline-body p {
+            margin-bottom: 0.4rem;
+        }
+
+        /* Tips for Kids/Driving inside Timeline Card */
+        .timeline-tip-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.04);
+            border-left: 3px solid var(--accent);
+            border-radius: var(--radius-sm);
+            padding: 10px 15px;
+            font-size: 0.88rem;
+            margin-top: 0.8rem;
+            display: flex;
+            gap: 0.6rem;
+            align-items: flex-start;
+        }
+
+        .timeline-tip-card i {
+            color: var(--accent);
+            font-size: 1rem;
+            margin-top: 2px;
+        }
+
+        .timeline-tip-text {
+            color: #e2e8f0;
+        }
+
+        .btn-map {
+            background: rgba(96, 165, 250, 0.1);
+            color: var(--secondary);
+            border: 1px solid rgba(96, 165, 250, 0.3);
+            padding: 6px 14px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            transition: var(--transition);
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 0.4rem;
+        }
+
+        .btn-map:hover {
+            background: var(--secondary);
+            color: var(--bg-dark);
+            border-color: var(--secondary);
+            box-shadow: 0 4px 12px rgba(96, 165, 250, 0.2);
+        }
+
+        /* ------------------------------
+           PACKING CHECKLIST
+        ------------------------------ */
+        .checklist-layout {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2.5rem;
+        }
+
+        @media (min-width: 900px) {
+            .checklist-layout {
+                grid-template-columns: 280px 1fr;
+            }
+        }
+
+        .checklist-sidebar {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 1.8rem;
+            height: fit-content;
+            position: sticky;
+            top: 90px;
+        }
+
+        .progress-box {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .progress-circle-wrap {
+            width: 140px;
+            height: 140px;
+            margin: 0 auto 1rem;
+            position: relative;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 50%;
+            border: 4px solid var(--border-glow);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .progress-value {
+            font-family: var(--font-display);
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1;
+        }
+
+        .progress-label {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .progress-bar-container {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 50px;
+            overflow: hidden;
+            margin-top: 1rem;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(95deg, var(--primary), var(--secondary));
+            border-radius: 50px;
+            transition: var(--transition);
+        }
+
+        .checklist-cat-menu {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .checklist-cat-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            text-align: left;
+            padding: 10px 15px;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: var(--transition);
+        }
+
+        .checklist-cat-btn:hover {
+            background: rgba(255, 255, 255, 0.03);
+            color: var(--text-main);
+        }
+
+        .checklist-cat-btn.active {
+            background: rgba(96, 165, 250, 0.1);
+            color: var(--secondary);
+            border: 1px solid rgba(96, 165, 250, 0.2);
+        }
+
+        .cat-count {
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            padding: 2px 8px;
+            border-radius: 20px;
+        }
+
+        .checklist-cat-btn.active .cat-count {
+            background: var(--secondary);
+            color: var(--bg-dark);
+            font-weight: 700;
+        }
+
+        /* Checklist Cards */
+        .checklist-cards-container {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .checklist-group-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .checklist-group-card h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            border-bottom: 1px solid var(--border-glow);
+            padding-bottom: 0.8rem;
+            color: var(--secondary);
+        }
+
+        .checklist-group-card h3 i {
+            font-size: 1.15rem;
+        }
+
+        .checklist-items-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1rem;
+        }
+
+        @media (min-width: 600px) {
+            .checklist-items-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        /* Customized Checkbox Item */
+        .checklist-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.8rem;
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.02);
+            padding: 12px 16px;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            user-select: none;
+            transition: var(--transition);
+        }
+
+        .checklist-item:hover {
+            background: rgba(255, 255, 255, 0.03);
+            border-color: rgba(96, 165, 250, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .checklist-checkbox-wrapper {
+            position: relative;
+            width: 20px;
+            height: 20px;
+            margin-top: 3px;
+        }
+
+        .checklist-checkbox {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+            height: 0;
+            width: 0;
+        }
+
+        .checkbox-custom {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 20px;
+            width: 20px;
+            background-color: transparent;
+            border: 2px solid var(--text-muted);
+            border-radius: 6px;
+            transition: var(--transition);
+        }
+
+        .checklist-checkbox:checked ~ .checkbox-custom {
+            background-color: var(--primary);
+            border-color: var(--primary);
+        }
+
+        .checkbox-custom::after {
+            content: "";
+            position: absolute;
+            display: none;
+            left: 6px;
+            top: 2px;
+            width: 5px;
+            height: 10px;
+            border: solid var(--bg-dark);
+            border-width: 0 2.5px 2.5px 0;
+            transform: rotate(45deg);
+        }
+
+        .checklist-checkbox:checked ~ .checkbox-custom::after {
+            display: block;
+        }
+
+        .checklist-text {
+            font-size: 0.95rem;
+            color: var(--text-main);
+            transition: var(--transition);
+        }
+
+        .checklist-checkbox:checked ~ .checklist-text {
+            color: var(--text-muted);
+            text-decoration: line-through;
+        }
+
+        .checklist-text-desc {
+            display: block;
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        /* ------------------------------
+           BUDGET EXPENSES
+        ------------------------------ */
+        .budget-layout {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2.5rem;
+        }
+
+        @media (min-width: 900px) {
+            .budget-layout {
+                grid-template-columns: 1fr 450px;
+            }
+        }
+
+        .budget-cards-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .budget-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 1.8rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+            transition: var(--transition);
+        }
+
+        .budget-card:hover {
+            transform: scale(1.01);
+            border-color: rgba(96, 165, 250, 0.2);
+        }
+
+        .budget-card-info {
+            display: flex;
+            align-items: center;
+            gap: 1.2rem;
+        }
+
+        .budget-card-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .budget-card-text h4 {
+            font-size: 1.15rem;
+            font-weight: 700;
+            margin-bottom: 0.15rem;
+        }
+
+        .budget-card-text p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .budget-card-amount {
+            font-family: var(--font-display);
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        /* Interactive Budget Chart panel */
+        .budget-chart-panel {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 2.2rem;
+            height: fit-content;
+            position: sticky;
+            top: 90px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            text-align: center;
+        }
+
+        .budget-chart-panel h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            margin: 0 auto 2rem;
+            width: 250px;
+            height: 250px;
+        }
+
+        .total-budget-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .total-amount-val {
+            font-family: var(--font-display);
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--text-main);
+        }
+
+        .total-amount-lbl {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 4px;
+        }
+
+        /* ------------------------------
+           NOTES & WEATHER
+        ------------------------------ */
+        .notes-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        @media (min-width: 768px) {
+            .notes-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .weather-panel-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+        }
+
+        .weather-panel-card h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            color: var(--secondary);
+            border-bottom: 1px solid var(--border-glow);
+            padding-bottom: 0.8rem;
+        }
+
+        .weather-cards-box {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .weather-card-mini {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.04);
+            border-radius: var(--radius-md);
+            padding: 1.2rem 0.8rem;
+            text-align: center;
+        }
+
+        .weather-card-mini .time-lbl {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            font-weight: 600;
+            margin-bottom: 0.6rem;
+            display: block;
+        }
+
+        .weather-card-mini .temp-lbl {
+            font-family: var(--font-display);
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin: 0.5rem 0;
+            display: block;
+        }
+
+        .weather-card-mini i {
+            font-size: 1.8rem;
+        }
+
+        .weather-card-mini.day i { color: var(--accent); }
+        .weather-card-mini.afternoon i { color: var(--secondary); }
+        .weather-card-mini.night i { color: rgba(147, 51, 234, 0.8); }
+
+        .weather-detail-notes {
+            background: rgba(96, 165, 250, 0.06);
+            border-left: 3px solid var(--secondary);
+            border-radius: var(--radius-sm);
+            padding: 15px;
+            font-size: 0.88rem;
+        }
+
+        .weather-detail-notes h5 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            margin-bottom: 0.4rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .weather-detail-notes p {
+            color: #cbd5e1;
+        }
+
+        /* Notes Card */
+        .notes-list-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+        }
+
+        .notes-list-card h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            color: var(--primary);
+            border-bottom: 1px solid var(--border-glow);
+            padding-bottom: 0.8rem;
+        }
+
+        .note-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.8rem;
+            margin-bottom: 1.2rem;
+            font-size: 0.92rem;
+            line-height: 1.5;
+        }
+
+        .note-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .note-number {
+            background: rgba(74, 222, 128, 0.1);
+            color: var(--primary);
+            font-family: var(--font-display);
+            font-weight: 700;
+            font-size: 0.85rem;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid rgba(74, 222, 128, 0.2);
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        .note-item-text strong {
+            color: #ffffff;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .note-item-text p {
+            color: var(--text-muted);
+        }
+
+        /* ------------------------------
+           FOOTER
+        ------------------------------ */
+        footer {
+            background: #090d16;
+            border-top: 1px solid var(--border-glow);
+            padding: 2.5rem 0;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.88rem;
+            margin-top: 5rem;
+        }
+
+        footer p {
+            margin-bottom: 0.5rem;
+        }
+
+        footer strong {
+            color: var(--primary);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Hero Header -->
+    <div class="hero">
+        <div class="hero-content">
+            <span class="hero-tag">4D3N Itinerary</span>
+            <h1>清境農場親子自駕遊行程</h1>
+            <p style="color: var(--text-muted); margin-bottom: 1.5rem;">2大2小（3歲與6歲孩童）慢活公路旅行，山海美景，親子同樂</p>
+            <div class="hero-meta">
+                <div class="hero-meta-item">
+                    <i class="fa-solid fa-car"></i>
+                    <span>自駕行車</span>
+                </div>
+                <div class="hero-meta-item">
+                    <i class="fa-solid fa-users"></i>
+                    <span>2大2小（3 & 6歲）</span>
+                </div>
+                <div class="hero-meta-item">
+                    <i class="fa-solid fa-wallet"></i>
+                    <span>預算約 NT$ 22,730</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation Tabs Bar -->
+    <div class="nav-tabs" id="navbar">
+        <div class="tabs-container">
+            <button class="tab-btn active" onclick="switchTab(event, 'itinerary')">
+                <i class="fa-solid fa-route"></i> 詳細行程
+            </button>
+            <button class="tab-btn" onclick="switchTab(event, 'packing')">
+                <i class="fa-solid fa-suitcase-rolling"></i> 行前準備
+            </button>
+            <button class="tab-btn" onclick="switchTab(event, 'budget')">
+                <i class="fa-solid fa-dollar-sign"></i> 預算估算
+            </button>
+            <button class="tab-btn" onclick="switchTab(event, 'notes')">
+                <i class="fa-solid fa-circle-exclamation"></i> 注意事項 & 天氣
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Content Area -->
+    <div class="main-content">
+
+        <!-- 1. ITINERARY VIEW PANEL -->
+        <div id="itinerary" class="tab-panel active">
+            
+            <!-- Weather Quick Banner -->
+            <div class="weather-banner">
+                <div class="weather-info">
+                    <div class="weather-icon">
+                        <i class="fa-solid fa-cloud-sun"></i>
+                    </div>
+                    <div class="weather-text">
+                        <h3>清境高山氣候提示</h3>
+                        <p>白天舒適涼爽 (20-25°C)，入夜寒冷需保暖 (15-18°C)</p>
+                    </div>
+                </div>
+                <div class="weather-alert">
+                    <i class="fa-solid fa-cloud-showers-heavy"></i>
+                    <span>午後常有陣雨（13:00 - 16:00），注意攜帶雨具</span>
+                </div>
+            </div>
+
+            <!-- Actions Bar -->
+            <div class="itinerary-actions">
+                <div class="day-nav">
+                    <button class="day-nav-btn active" onclick="scrollToDay(1)">Day 1</button>
+                    <button class="day-nav-btn" onclick="scrollToDay(2)">Day 2</button>
+                    <button class="day-nav-btn" onclick="scrollToDay(3)">Day 3</button>
+                    <button class="day-nav-btn" onclick="scrollToDay(4)">Day 4</button>
+                </div>
+                <div class="action-btns">
+                    <button class="action-btn" onclick="toggleAllDays(false)">
+                        <i class="fa-solid fa-compress-arrows-alt"></i> 全部收合
+                    </button>
+                    <button class="action-btn" onclick="toggleAllDays(true)">
+                        <i class="fa-solid fa-expand-arrows-alt"></i> 全部展開
+                    </button>
+                </div>
+            </div>
+
+            <!-- Day 1 Card -->
+            <div class="day-card" id="day-card-1">
+                <div class="day-header" onclick="toggleDayCard(1)">
+                    <div class="day-title-area">
+                        <div class="day-badge">D1</div>
+                        <div class="day-info">
+                            <h2>台北出發 ➜ 埔里休息 ➜ 清境慢活</h2>
+                            <p>首日行車上山，小瑞士花園漫步，手作巧克力體驗</p>
+                        </div>
+                    </div>
+                    <div class="toggle-icon" id="toggle-icon-1"><i class="fa-solid fa-chevron-up"></i></div>
+                </div>
+                <div class="day-content" id="day-content-1">
+                    
+                    <!-- Timeline D1 -->
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">07:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-car"></i> 台北自駕出發</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag"><i class="fa-solid fa-road"></i> 國3接國6</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>自台北啟程南下。建議路線：國道3號行駛至<strong>霧峰系統交流道 (214K)</strong>，轉入國道6號開至終點（埔里端），下交流道左轉接台14線往霧社方向，再接台14甲線往清境。</p>
+                        </div>
+                        <div class="timeline-tip-card">
+                            <i class="fa-solid fa-lightbulb"></i>
+                            <div class="timeline-tip-text">
+                                <strong>行車叮嚀：</strong> 上山前建議加滿油，山路彎道較多，請保持安全距離，穩速行駛。
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-mug-hot"></i> 泰安服務區</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">停留約 20 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>中途於國道1號泰安服務區（或國3關西服務區）短暫停留。讓小孩上洗手間，伸展身體，補充水分與零食，避免長時間坐車煩躁。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=泰安服務區" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 開啟地圖導航
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-location-dot"></i> 抵達埔里交流道</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">行車約 90 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達埔里交流道。短暫休息10分鐘後，繼續沿著台14線及台14甲線上山。此段山路長約27公里，行車時間約需50-60分鐘。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:20</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-hotel"></i> 抵達清境民宿 Check-in</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">普羅旺斯玫瑰莊園</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達住宿點「清境普羅旺斯玫瑰莊園」辦理登記作業。如房間尚未整理好，可先寄放行李於櫃台，先行外出用餐。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-utensils"></i> 午餐選擇</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">套餐約 $300-$360 / 人</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p><strong>推薦方案 A：紙箱王主題餐廳</strong> (套餐 $360) - 以紙製桌椅、餐具為特色的特色餐廳，餐點美味且充滿童趣，極受小孩歡迎！<br>
+                            <strong>推薦方案 B：國民賓館中西餐廳</strong> (簡餐約 $300) - 口味大眾，停車方便。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境紙箱王" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 紙箱王地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">13:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bed"></i> 民宿進房 / 小孩午睡休息</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>進房拿取鑰匙，安頓行李。強烈建議此時讓3歲與6歲的孩子睡午覺休息（約1.5至2小時），為下半天的活動補充電力，同時也能讓大人在清幽的高山環境中放鬆。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">15:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-tree"></i> 小瑞士花園漫步</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">門票: 全票 $150 / 優惠 $100 / 3歲以下免費</span>
+                                <span class="badge-tag">停留約 1.5 小時</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>漫步於風景如畫的「清境小瑞士花園」，欣賞美麗的歐式花園、落羽松步道與七彩風車。每日整點有壯觀的音樂水舞秀，是拍照及親子散步的首選。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境小瑞士花園" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 小瑞士花園地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">16:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-cookie-bite"></i> Cona's 妮娜巧克力創始店</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">DIY & 點心約 $350-$500</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>前往位於佛羅倫斯山莊旁的妮娜巧克力創始店。這是一棟如童話般的小木屋，可以帶小朋友體驗有趣的<strong>手作巧克力 DIY</strong>，並品嚐精緻的冠軍巧克力與冰淇淋。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=Cona's+清境妮娜巧克力-創始店" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 妮娜巧克力地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">17:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-rotate-left"></i> 回民宿整理</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>返回民宿。傍晚清境溫度開始下降，請為大人及小孩更換保暖衣物（加穿外套），準備前往晚餐。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">18:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-drumstick-bite"></i> 晚餐：珍谷渡假山莊烤雞</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">烤雞約 $600-$700 / 隻</span>
+                                <span class="badge-tag">仁和路218-1號</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>晚餐於民宿附近的「清境珍谷渡假山莊餐廳」享用高山特色料理。推薦香脆多汁的<strong>現烤桶仔雞</strong>，搭配鮮甜的高山時蔬（高麗菜）、炒山豬肉及熱騰騰的香菇雞湯，驅散山間的寒意。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境珍谷渡假山莊" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 珍谷渡假山莊地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">20:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-star"></i> 露台觀星</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>清境海拔高、無光害。若天氣晴朗，可在民宿庭院或陽台仰望滿天星斗，對都會區的孩子來說是難得的高山觀星體驗。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">21:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-moon"></i> 晚安睡覺</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>孩子就寢。清境夏夜氣溫約 15-18°C，睡覺時請注意關好窗戶，並使用民宿提供的電熱毯或被子，避免著涼。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Day 2 Card -->
+            <div class="day-card collapsed" id="day-card-2">
+                <div class="day-header" onclick="toggleDayCard(2)">
+                    <div class="day-title-area">
+                        <div class="day-badge">D2</div>
+                        <div class="day-info">
+                            <h2>青青草原餵羊 ➜ 天空步道健行 ➜ 擺夷大餐</h2>
+                            <p>親近綿羊、觀看剃毛秀與馬術表演，漫步高空步道</p>
+                        </div>
+                    </div>
+                    <div class="toggle-icon" id="toggle-icon-2"><i class="fa-solid fa-chevron-down"></i></div>
+                </div>
+                <div class="day-content" id="day-content-2">
+                    
+                    <!-- Timeline D2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-egg"></i> 民宿元氣早餐</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>在民宿享用熱騰騰的現做早餐，補充足夠的體力，準備迎接今日精采的戶外行程。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:40</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-arrow-right-to-bracket"></i> 前往青青草原（北口）</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">車程約 3 min</span>
+                                <span class="badge-tag">仁和路170號</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>開車往上至青青草原北門停車場。自駕遊建議停在北門附近，或搭乘商圈接駁公車，由海拔較高的「北端入口」進入，下坡步行較省力。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:50</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-ticket"></i> 青青草原購票入園</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">門票共 $500 (2大1小)</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>購票資訊：全票 $200 * 2人 + 兒童票 $100 * 1人 (6歲) + 3歲幼童免費，總共 $500。入園時請在手背上蓋章，當天可憑手章無限次重複進出青青草原與觀山牧區。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-hand-holding-heart"></i> 餵食可愛綿羊</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">飼料 $20 / 牧草 $30</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>購買綿羊飼料或牧草，帶著孩子在綠草如茵的坡地上近距離接觸溫馴的綿羊。引導孩子攤開手掌餵食，體驗綿羊溫柔的觸感，是極佳的生命教育。</p>
+                        </div>
+                        <div class="timeline-tip-card">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                            <div class="timeline-tip-text">
+                                <strong>防羊叮嚀：</strong> 綿羊見到飼料會較主動，請家長牽好3歲幼兒，避免因羊隻推擠而跌倒。
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-scissors"></i> 羊咩咩脫衣秀 (綿羊秀)</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">表演 30 min</span>
+                                <span class="badge-tag">青青草原表演場</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>於青青草原大選秀場觀賞著名的綿羊秀。包含精采的牧羊犬趕羊表演，以及風趣幽默的剪羊毛秀。表演結束後可以排隊與羊群、牛仔合影。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境農場青青草原北門" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 青青草原地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:10</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-horse"></i> 騎馬體驗</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">約 $100-$150 / 次</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>在表演場旁邊設有騎馬體驗區。可以讓6歲的小朋友在工作人員帶領下繞行場地，體驗騎馬的帥氣，家長可在一旁拍照留念。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:45</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-circle-play"></i> 哈薩克馬術秀</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">觀山牧區馬術場</span>
+                                <span class="badge-tag">停留約 30 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>順著步道步行至鄰近的「觀山牧區」，觀賞由專業外籍騎士帶來的馬術特技表演。騎士在奔馳的駿馬上展示站立、翻轉等驚險高難度動作，非常震撼。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bag-shopping"></i> 南商圈散步採買</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>表演結束後，步行出青青草原南門，前往南商圈。這裡聚集許多小吃攤、農特產品店及伴手禮店，可在此稍作休息並選購清境特產。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">12:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bowl-food"></i> 午餐時間</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">約 $100-$150 / 人</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>於南商圈美食廣場享用在地小吃，如大貢丸湯、竹筒飯、高山高麗菜包，或購買國民賓館特製便當，簡單快速又美味。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">13:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-hotel"></i> 回民宿午休</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>返回民宿。讓小孩進行充足的午睡休息（非常重要，避免下午健行體力不支或鬧脾氣），大人亦可稍作歇息或在露台喝咖啡看山景。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">15:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-shoe-prints"></i> 清境高空觀景步道健行</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">門票共 $130 (2大1小)</span>
+                                <span class="badge-tag">全程 1.68 km (下坡)</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>步道入口位於<strong>仁和路186-3號</strong>。全票 $50 * 2人 + 優惠票 $30 * 1人 = $130（3歲免費）。<br>
+                            建議由「故事館端」入口進入往「小瑞士端」單向健行，全程皆為平緩下坡無障礙高架步道。視野極佳，可俯瞰清境草原與綿延的中央山脈群峰，極適合推嬰兒車同行。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境高空觀景步道" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 高空步道地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">16:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-flag-checkered"></i> 步道終點（小瑞士端）</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達步道終點（小瑞士花園端）。可於旁邊的 7-11 或小瑞士商圈買杯飲品休息，隨後散步回民宿或開車返回。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">17:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-house-user"></i> 回民宿整理</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>回房整理，加穿防風保暖外套。高山傍晚氣溫降得極快，不可大意。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">18:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-pepper-hot"></i> 晚餐：清境魯媽媽雲南擺夷料理</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">合菜約 $1,200-$1,800</span>
+                                <span class="badge-tag">必點：錦灑、包包肉</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>朝聖清境最出名的「魯媽媽雲南擺夷料理」（大同村仁和路210-2-1號，海拔2044公尺）。推薦招牌菜：錦灑（豬肉末配高麗菜包著吃，不辣）、包包肉、當歸葉煎蛋等，酸香風味絕佳。</p>
+                        </div>
+                        <div class="timeline-tip-card">
+                            <i class="fa-solid fa-calendar-check"></i>
+                            <div class="timeline-tip-text">
+                                <strong>預約提示：</strong> 魯媽媽不接受網路預訂，必須提早幾天電話預約，或是避開人潮於 17:00 前現場排隊。
+                            </div>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境魯媽媽雲南擺夷料理" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 魯媽媽地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">19:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-rotate-left"></i> 回民宿休息</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>開車返回溫馨的民宿。沐浴更衣，準備明日前進合歡山武嶺的挑戰。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">20:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-moon"></i> 早點入睡</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>明日要早起前往合歡山，請讓小孩提早就寢，確保睡眠充足，以良好的精神狀態上山防範高山症。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Day 3 Card -->
+            <div class="day-card collapsed" id="day-card-3">
+                <div class="day-header" onclick="toggleDayCard(3)">
+                    <div class="day-title-area">
+                        <div class="day-badge">D3</div>
+                        <div class="day-info">
+                            <h2>前進合歡山 ➜ 攻頂武嶺 ➜ 窯烤雞美食 ➜ 牧區散步</h2>
+                            <p>登上公路最高點武嶺，健行平緩步道，下午觀山牧區餵馬</p>
+                        </div>
+                    </div>
+                    <div class="toggle-icon" id="toggle-icon-3"><i class="fa-solid fa-chevron-down"></i></div>
+                </div>
+                <div class="day-content" id="day-content-3">
+                    
+                    <!-- Timeline D3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-egg"></i> 元氣早餐</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>在民宿享用早餐。提醒孩子多喝水，並確認防寒衣物（保暖帽、圍巾、厚外套）與隨身常備藥品皆已帶齊。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:50</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-mountain"></i> 出發前往合歡山</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">車程約 40 min</span>
+                                <span class="badge-tag">台14甲線</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>沿台14甲線一路往合歡山前進。此段路程風景極為壯麗，會經過全台最高的便利商店（富嘉門市），沿途可欣賞奇萊連峰、合歡群峰的巍峨景致。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:20</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-parking"></i> 崑陽休息站</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">海拔 3,070 m</span>
+                                <span class="badge-tag">台14甲線29.7K</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達崑陽休息站。這是進入合歡山區的前哨站，設有停車場與公共廁所。在此短暫停留休息，適應3,000公尺以上的高度與稀薄空氣。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=崑陽休息站" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 崑陽休息站地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:40</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-trophy"></i> 攻頂「武嶺」地標</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">海拔 3,275 m</span>
+                                <span class="badge-tag">台灣公路最高點</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達武嶺觀景台。與全台公路最高點「武嶺」牌樓合影留念。眺望壯麗的綠色箭竹草坡與群山環繞，視野極度震撼。</p>
+                        </div>
+                        <div class="timeline-tip-card">
+                            <i class="fa-solid fa-heart-pulse"></i>
+                            <div class="timeline-tip-text">
+                                <strong>高山症叮嚀：</strong> 3歲和6歲小孩在此海拔活動時，務必放慢腳步，不可奔跑、跳躍，若出現頭暈、想吐或哭鬧，應立刻上車給予溫水，並迅速開車下山降海拔。
+                            </div>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=武嶺" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 武嶺地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-person-walking"></i> 合歡山主峰步道（初體驗）</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">高山漫步約 15 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>合歡主峰步道鋪設水泥路面，坡度平緩好走。帶小朋友往上散步約 10-15 分鐘，體驗走在三千公尺高山稜線的感覺即可，不需攻頂，以防孩子過於勞累或產生高原反應。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-info-circle"></i> 合歡山遊客服務中心</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">喝熱飲 / 參觀</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達合歡山遊客中心。進入室內避風，可以購買熱咖啡、薑茶或熱可可給孩子暖暖身體。參觀高山生態展覽與導覽手冊。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=合歡山遊客服務中心" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 遊客中心地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-arrow-trend-down"></i> 下山返回清境</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>開車起程下山返回清境，山路陡峭，請使用低速檔配合引擎煞車，避免煞車過熱失靈。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:40</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-utensils"></i> 午餐：復古雞餐廳 (清境店)</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">窯烤雞 + 羊奶頭雞湯</span>
+                                <span class="badge-tag">仁和路206-1號</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>午餐於大同村仁和路206-1號的「復古雞餐廳」享用。必點招牌：<strong>果木窯烤復古雞</strong>（皮酥肉嫩多汁）以及養生溫潤的<strong>羊奶頭雞湯</strong>（高山漢方風味，清香甘甜，小孩大人皆宜）。</p>
+                        </div>
+                        <div class="timeline-tip-card">
+                            <i class="fa-solid fa-map-marker-alt"></i>
+                            <div class="timeline-tip-text">
+                                <strong>備選方案：</strong> 亦可前往博望新村的「<strong>好雞婆土雞城</strong>」（博望巷36-3號），招牌為香草烤雞、擺夷豆腐與鳳梨蝦球。兩家均為清境烤雞首選。
+                            </div>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=清境復古雞餐廳" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 復古雞餐廳地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">14:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bed"></i> 回民宿午休</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>返回民宿。上午的高山行程耗費較多體力，此時讓孩子充分午睡補眠，大人亦可放空休息。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">15:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-seedling"></i> 觀山牧區步道散步（餵馬體驗）</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">漫步 60 min</span>
+                                <span class="badge-tag">小孩最愛</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>午後再次進入觀山牧區（憑上午的青青草原手章可免費入園）。帶孩子沿步道散步，購買紅蘿蔔或飼料餵食溫馴的馬匹，是非常受小朋友喜愛的親近動物活動。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">17:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-house"></i> 返回民宿休息</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>返回民宿更換厚重衣物，休息放鬆。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">18:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-utensils"></i> 晚餐時間</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">約 $800-$1,200</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>可預約魯媽媽雲南擺夷料理（若第一天沒吃到），或選擇在民宿享用溫馨火鍋，大量新鮮的高山蔬菜與熱湯能完美暖和身體。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">20:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-star"></i> 滿天星空觀賞</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>在清淨的夜空下再次享受美麗的星空，也可以玩靜態的小遊戲或寫旅行日記。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">21:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bed"></i> 晚安就寢</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>舒適入睡，充足的睡眠可以讓身體獲得完全恢復。</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Day 4 Card -->
+            <div class="day-card collapsed" id="day-card-4">
+                <div class="day-header" onclick="toggleDayCard(4)">
+                    <div class="day-title-area">
+                        <div class="day-badge">D4</div>
+                        <div class="day-info">
+                            <h2>霧社紀念碑 ➜ 埔里酒廠 ➜ 李仔哥爌肉飯 ➜ 台北</h2>
+                            <p>探訪歷史園區，採購伴手禮，享用埔里經典美食後北返</p>
+                        </div>
+                    </div>
+                    <div class="toggle-icon" id="toggle-icon-4"><i class="fa-solid fa-chevron-down"></i></div>
+                </div>
+                <div class="day-content" id="day-content-4">
+                    
+                    <!-- Timeline D4 -->
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">08:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-egg"></i> 早餐與整理</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>享用完民宿最後一頓早餐後，收拾所有行李，仔細檢查是否有遺漏物品。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-key"></i> 民宿退房</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>辦理 Check-out 手續，將行李放置於後車廂。準備告別清境，開車下山。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">09:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-car"></i> 起程下山</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>驅車下山前往霧社地區。沿途開車速度請慢，山路多下坡，使用低速檔確保行車安全。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-monument"></i> 霧社事件紀念公園</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">停留約 30 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>抵達霧社事件紀念公園（莫那魯道抗日紀念碑）。帶著6歲的小朋友認識台灣歷史，參觀莫那魯道烈士塑像及牌樓，拍照留念，體會歷史的莊嚴。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=霧社事件紀念公園" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 紀念公園地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">10:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-store"></i> 霧社老街伴手禮採買</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">選購茶葉 / 水果</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>於霧社街區稍作停留。這裡有多家高山茶葉行，可選購優質的清境高山茶，或採買在地當季的水果（水蜜桃、蘋果等）作為伴手禮。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-location-arrow"></i> 下山抵達埔里</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">行車約 30 min</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>行駛台14線下山抵達埔里市區。此時氣溫會漸漸回升至平地溫度，可將厚外套收起。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">11:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-wine-glass"></i> 埔里酒廠展售中心</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">免費參觀</span>
+                                <span class="badge-tag">必吃：紹興香腸</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>前往歷史悠久的「埔里酒廠」。參觀酒文化館，並在展售中心採買紹興酒蛋、紹興香腸、酒粕面膜、紅麴餅乾等豐富名產伴手禮。非常適合家庭同遊。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=埔里酒廠" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 埔里酒廠地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">12:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-bowl-rice"></i> 午餐：李仔哥爌肉飯</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-price">約 $80-$120 / 人</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>午餐享用埔里必吃經典美食「李仔哥爌肉飯」。肥而不膩、醬香濃郁的爌肉飯搭配香Ｑ米飯，再點一碗味噌湯或排骨酥湯，為這趟旅程畫下完美的句點。</p>
+                        </div>
+                        <a href="https://www.google.com/maps/search/?api=1&query=李仔哥爌肉飯" target="_blank" class="btn-map">
+                            <i class="fa-solid fa-map-location-dot"></i> 李仔哥地圖
+                        </a>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">13:30</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-flag-checkered"></i> 賦歸北返</h3>
+                            </div>
+                            <div class="tag-group">
+                                <span class="badge-tag">國6 ➜ 國3 ➜ 台北</span>
+                                <span class="badge-tag">車程約 2.5 小時</span>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>從埔里端上國道6號，接國道3號北返台北。行車途中若累了，可至清水服務區或關西服務區歇息。</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-point"></div>
+                        <span class="timeline-time">16:00</span>
+                        <div class="timeline-header">
+                            <div class="timeline-title">
+                                <h3><i class="fa-solid fa-house-chimney"></i> 抵達台北（溫馨的家）</h3>
+                            </div>
+                        </div>
+                        <div class="timeline-body">
+                            <p>順利抵達台北，結束這趟愉快、充實又安全的清境親子四天三夜自駕旅程，滿載美好回憶！</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- 2. PACKING CHECKLIST VIEW PANEL -->
+        <div id="packing" class="tab-panel">
+            <div class="checklist-layout">
+                
+                <!-- Sidebar Progress -->
+                <div class="checklist-sidebar">
+                    <div class="progress-box">
+                        <div class="progress-circle-wrap">
+                            <div class="progress-value" id="progressPercent">0%</div>
+                            <div class="progress-label">打包進度</div>
+                        </div>
+                        <p style="font-size: 0.9rem; color: var(--text-muted);" id="progressStatus">已完成 0 / 0 項</p>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" id="progressBar"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Category quick selector -->
+                    <div class="checklist-cat-menu">
+                        <button class="checklist-cat-btn active" onclick="filterChecklist('all')">
+                            <span><i class="fa-solid fa-list-check"></i> 全部類別</span>
+                            <span class="cat-count" id="count-all">0</span>
+                        </button>
+                        <button class="checklist-cat-btn" onclick="filterChecklist('docs')">
+                            <span><i class="fa-solid fa-id-card"></i> 證件與金流</span>
+                            <span class="cat-count" id="count-docs">0</span>
+                        </button>
+                        <button class="checklist-cat-btn" onclick="filterChecklist('clothes')">
+                            <span><i class="fa-solid fa-shirt"></i> 衣物防寒</span>
+                            <span class="cat-count" id="count-clothes">0</span>
+                        </button>
+                        <button class="checklist-cat-btn" onclick="filterChecklist('kids')">
+                            <span><i class="fa-solid fa-baby"></i> 孩童與個人</span>
+                            <span class="cat-count" id="count-kids">0</span>
+                        </button>
+                        <button class="checklist-cat-btn" onclick="filterChecklist('health')">
+                            <span><i class="fa-solid fa-prescription-bottle-medical"></i> 常備藥品</span>
+                            <span class="cat-count" id="count-health">0</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Checklist Items Groups -->
+                <div class="checklist-cards-container">
+                    
+                    <!-- Group 1: 證件與金流 -->
+                    <div class="checklist-group-card" data-cat="docs">
+                        <h3><i class="fa-solid fa-id-card"></i> 證件與金流</h3>
+                        <div class="checklist-items-grid">
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">健保卡 <span class="checklist-text-desc">大人、小孩皆需攜帶</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">身分證/駕照 <span class="checklist-text-desc">自駕租車/核對身分用</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">充足現金 <span class="checklist-text-desc">預備 NT$ 15,000 以上 (清境部分店家僅收現金)</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">信用卡 <span class="checklist-text-desc">民宿結帳或緊急備用</span></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Group 2: 衣物防寒 -->
+                    <div class="checklist-group-card" data-cat="clothes">
+                        <h3><i class="fa-solid fa-shirt"></i> 衣物防寒</h3>
+                        <div class="checklist-items-grid">
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">防風防水三合一外套 <span class="checklist-text-desc">高山傍晚與合歡山極冷</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">輕便薄外套 <span class="checklist-text-desc">白天防曬防風用</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">換洗衣物 <span class="checklist-text-desc">每人準備 4 套衣物</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">保暖帽 / 圍巾 <span class="checklist-text-desc">合歡山武嶺風大保暖用</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">好走的運動鞋 <span class="checklist-text-desc">草原及步道健行必備</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">遮陽帽 <span class="checklist-text-desc">白天紫外線極強</span></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Group 3: 孩童與個人 -->
+                    <div class="checklist-group-card" data-cat="kids">
+                        <h3><i class="fa-solid fa-baby"></i> 孩童與個人防護</h3>
+                        <div class="checklist-items-grid">
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">兒童保溫瓶 <span class="checklist-text-desc">隨時補充溫水以防感冒</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">防蚊液 & 防蚊貼片 <span class="checklist-text-desc">山區小黑蚊較多</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">雨傘 & 雨衣 <span class="checklist-text-desc">防範午後陣雨</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">防曬乳 <span class="checklist-text-desc">大人、小孩專用防曬</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">濕紙巾 & 乾紙巾 <span class="checklist-text-desc">方便隨時清潔雙手</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">嬰兒推車 <span class="checklist-text-desc">小瑞士與高空步道無障礙適合推車</span></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Group 4: 藥品 -->
+                    <div class="checklist-group-card" data-cat="health">
+                        <h3><i class="fa-solid fa-prescription-bottle-medical"></i> 常備藥品</h3>
+                        <div class="checklist-items-grid">
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">小兒感冒糖漿/退燒藥 <span class="checklist-text-desc">高山溫差大預防感冒</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">暈車藥 <span class="checklist-text-desc">台14甲山路多彎必備</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">高山症藥品 <span class="checklist-text-desc">前往醫院或藥局諮詢準備</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">防蚊蟲咬傷藥膏 <span class="checklist-text-desc">止癢消腫藥膏</span></span>
+                                </div>
+                            </label>
+                            <label class="checklist-item">
+                                <div class="checklist-checkbox-wrapper">
+                                    <input type="checkbox" class="checklist-checkbox" onchange="updateProgress()">
+                                    <span class="checkbox-custom"></span>
+                                    <span class="checklist-text">外傷OK繃/優碘乾粉 <span class="checklist-text-desc">預防擦傷</span></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- 3. BUDGET ESTIMATION VIEW PANEL -->
+        <div id="budget" class="tab-panel">
+            <div class="budget-layout">
+                
+                <!-- Budget Cards list -->
+                <div class="budget-cards-container">
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(74, 222, 128, 0.1); color: var(--primary);">
+                                <i class="fa-solid fa-house-chimney-window"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>住宿費用</h4>
+                                <p>清境普羅旺斯玫瑰莊園 溫馨四人房 (3晚)</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 11,700</div>
+                    </div>
+
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(96, 165, 250, 0.1); color: var(--secondary);">
+                                <i class="fa-solid fa-gas-pump"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>油資與過路費</h4>
+                                <p>台北至清境、合歡山來回行車油資與國道收費</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 1,200</div>
+                    </div>
+
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(251, 191, 36, 0.1); color: var(--accent);">
+                                <i class="fa-solid fa-ticket-simple"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>景點門票</h4>
+                                <p>青青草原、高空觀景步道、小瑞士花園門票總計</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 1,030</div>
+                    </div>
+
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(244, 63, 94, 0.1); color: #f43f5e;">
+                                <i class="fa-solid fa-utensils"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>餐飲美食</h4>
+                                <p>魯媽媽擺夷料理、烤雞、李仔哥爌肉飯與日常餐食</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 5,800</div>
+                    </div>
+
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(168, 85, 247, 0.1); color: #a855f7;">
+                                <i class="fa-solid fa-gift"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>伴手禮採購</h4>
+                                <p>高山茶、埔里酒廠特產、手作巧克力等名產買賣</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 1,500</div>
+                    </div>
+
+                    <div class="budget-card">
+                        <div class="budget-card-info">
+                            <div class="budget-card-icon" style="background: rgba(148, 163, 184, 0.1); color: var(--text-muted);">
+                                <i class="fa-solid fa-circle-ellipsis"></i>
+                            </div>
+                            <div class="budget-card-text">
+                                <h4>雜支與備用金</h4>
+                                <p>購買羊飼料、騎馬體驗、其他應急花費</p>
+                            </div>
+                        </div>
+                        <div class="budget-card-amount">NT$ 500</div>
+                    </div>
+                </div>
+
+                <!-- Budget Chart Panel -->
+                <div class="budget-chart-panel">
+                    <h3>預算花費比例</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="budgetChart"></canvas>
+                        <div class="total-budget-overlay">
+                            <span class="total-amount-val">$22,730</span>
+                            <span class="total-amount-lbl">總預算估算</span>
+                        </div>
+                    </div>
+                    <div style="text-align: left; font-size: 0.88rem; color: var(--text-muted); background: rgba(255,255,255,0.02); padding: 15px; border-radius: var(--radius-sm);">
+                        <p style="margin-bottom: 5px;"><i class="fa-solid fa-circle-info" style="color: var(--primary);"></i> <strong>省錢小撇步：</strong></p>
+                        <p>1. 青青草原門票與高空步道可在「南投好好玩」購買電子套票，有折扣優惠。<br>
+                        2. 避開假日的餐飲人潮提早用餐，可以節省等待時間與停車費。</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- 4. NOTES & WEATHER VIEW PANEL -->
+        <div id="notes" class="tab-panel">
+            <div class="notes-grid">
+                
+                <!-- Weather info panel -->
+                <div class="weather-panel-card">
+                    <h3><i class="fa-solid fa-umbrella-sun"></i> 清境高山天氣資訊</h3>
+                    
+                    <div class="weather-cards-box">
+                        <div class="weather-card-mini day">
+                            <span class="time-lbl">白天 (Comfort)</span>
+                            <i class="fa-solid fa-sun"></i>
+                            <span class="temp-lbl">20 - 25°C</span>
+                            <p style="font-size: 0.75rem; color: var(--text-muted);">紫外線強烈，舒適防曬</p>
+                        </div>
+                        <div class="weather-card-mini afternoon">
+                            <span class="time-lbl">午後 (Rainy)</span>
+                            <i class="fa-solid fa-cloud-showers-heavy"></i>
+                            <span class="temp-lbl">易陣雨</span>
+                            <p style="font-size: 0.75rem; color: var(--text-muted);">13:00 - 16:00 易雨</p>
+                        </div>
+                        <div class="weather-card-mini night">
+                            <span class="time-lbl">入夜 (Cold)</span>
+                            <i class="fa-solid fa-moon"></i>
+                            <span class="temp-lbl">15 - 18°C</span>
+                            <p style="font-size: 0.75rem; color: var(--text-muted);">氣溫驟降，注意防風</p>
+                        </div>
+                    </div>
+
+                    <div class="weather-detail-notes">
+                        <h5><i class="fa-solid fa-triangle-exclamation" style="color: var(--accent);"></i> 特別注意</h5>
+                        <p style="margin-bottom: 8px;">清境與合歡山海拔較高（1,700-3,200公尺），天氣變化迅速。午後常有短暫對流雨，務必隨身攜帶折疊雨傘或輕便雨衣。</p>
+                        <p>山上紫外線極度強烈，極易曬傷。請幫孩子準備<strong>防曬帽、防曬乳</strong>，並多喝水防止脫水。</p>
+                    </div>
+                </div>
+
+                <!-- Notes list card -->
+                <div class="notes-list-card">
+                    <h3><i class="fa-solid fa-triangle-exclamation"></i> 旅行貼心提醒</h3>
+                    
+                    <div class="note-item">
+                        <div class="note-number">1</div>
+                        <div class="note-item-text">
+                            <strong>行車車況檢查與預防暈車</strong>
+                            <p>山路崎嶇，從埔里到清境的台14甲線彎道多。上山前請檢查煞車與胎壓，給容易暈車的孩子提早 30 分鐘吃暈車藥，備妥嘔吐袋與濕紙巾。</p>
+                        </div>
+                    </div>
+
+                    <div class="note-item">
+                        <div class="note-number">2</div>
+                        <div class="note-item-text">
+                            <strong>人氣餐廳提早預約</strong>
+                            <p>清境名店如「魯媽媽擺夷料理」、「復古雞餐廳」等假日人潮眾多。強烈建議提早打電話預訂座位，以免排隊過長影響孩子作息。</p>
+                        </div>
+                    </div>
+
+                    <div class="note-item">
+                        <div class="note-number">3</div>
+                        <div class="note-item-text">
+                            <strong>嚴防高山症 (武嶺)</strong>
+                            <p>武嶺海拔 3,275 公尺，空氣較為稀薄。3歲和6歲小孩在此活動時切忌奔跑跑跳。若發現孩子出現頭痛、嘔吐、無力或哭鬧不停，請立刻給予溫開水上車休息，並迅速開車下撤至清境或埔里。</p>
+                        </div>
+                    </div>
+
+                    <div class="note-item">
+                        <div class="note-number">4</div>
+                        <div class="note-item-text">
+                            <strong>洋蔥式穿法應對大溫差</strong>
+                            <p>山區清晨與入夜寒冷，白天在太陽照射下則相對炎熱。請採用「排汗內衣 + 保暖薄外套 + 防風保暖厚外套」的洋蔥式穿衣法，隨時增減衣物避免著涼。</p>
+                        </div>
+                    </div>
+
+                    <div class="note-item">
+                        <div class="note-number">5</div>
+                        <div class="note-item-text">
+                            <strong>綿羊秀與馬術秀卡位</strong>
+                            <p>暑假期間活動人潮眾多，清境農場的綿羊秀與馬術特技秀建議提早 30-40 分鐘前往表演場地卡位，以便搶到視野好、有陰涼遮蔽的觀賞座位。</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>清境農場親子自駕遊行程規劃表 &copy; 2026. All rights reserved.</p>
+        <p>祝您與家人有一趟<strong>安全、溫馨又充實</strong>的美好旅行！</p>
+    </footer>
+
+    <!-- Interactive Logic Scripts -->
+    <script>
+        // Switch between tabs
+        function switchTab(evt, tabId) {
+            // Hide all tab panels
+            const panels = document.querySelectorAll('.tab-panel');
+            panels.forEach(panel => panel.classList.remove('active'));
+
+            // Remove active class from all buttons
+            const buttons = document.querySelectorAll('.tab-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+
+            // Show active panel and button
+            document.getElementById(tabId).classList.add('active');
+            evt.currentTarget.classList.add('active');
+
+            // Scroll to navigation bar top on mobile for better UX
+            if(window.innerWidth < 768) {
+                document.getElementById('navbar').scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        // Toggle individual Day Card collapse state
+        function toggleDayCard(dayNum) {
+            const card = document.getElementById(`day-card-${dayNum}`);
+            const icon = document.getElementById(`toggle-icon-${dayNum}`).querySelector('i');
+            
+            card.classList.toggle('collapsed');
+            if (card.classList.contains('collapsed')) {
+                icon.className = 'fa-solid fa-chevron-down';
+            } else {
+                icon.className = 'fa-solid fa-chevron-up';
+            }
+        }
+
+        // Toggle all day cards at once
+        function toggleAllDays(expand) {
+            for(let i = 1; i <= 4; i++) {
+                const card = document.getElementById(`day-card-${i}`);
+                const icon = document.getElementById(`toggle-icon-${i}`).querySelector('i');
+                if(expand) {
+                    card.classList.remove('collapsed');
+                    icon.className = 'fa-solid fa-chevron-up';
+                } else {
+                    card.classList.add('collapsed');
+                    icon.className = 'fa-solid fa-chevron-down';
+                }
+            }
+        }
+
+        // Scroll to specific day card and expand it
+        function scrollToDay(dayNum) {
+            // Deactivate other sub-navigation day buttons
+            const subNavBtns = document.querySelectorAll('.day-nav-btn');
+            subNavBtns.forEach((btn, idx) => {
+                if(idx === (dayNum - 1)) btn.classList.add('active');
+                else btn.classList.remove('active');
+            });
+
+            // Expand the selected day card
+            const card = document.getElementById(`day-card-${dayNum}`);
+            card.classList.remove('collapsed');
+            document.getElementById(`toggle-icon-${dayNum}`).querySelector('i').className = 'fa-solid fa-chevron-up';
+
+            // Scroll to the card
+            card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        // Checklist Categories Filter
+        function filterChecklist(category) {
+            // Update active menu tab
+            const catBtns = document.querySelectorAll('.checklist-cat-btn');
+            catBtns.forEach(btn => btn.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+
+            // Toggle card visibility
+            const cards = document.querySelectorAll('.checklist-group-card');
+            cards.forEach(card => {
+                if(category === 'all' || card.getAttribute('data-cat') === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        // Dynamic Packing Checklist State Persistence & Progress Tracker
+        const totalItems = document.querySelectorAll('.checklist-checkbox').length;
+        
+        // Load checkbox states from LocalStorage on load
+        function loadChecklistState() {
+            const checkboxes = document.querySelectorAll('.checklist-checkbox');
+            checkboxes.forEach((cb, idx) => {
+                const savedState = localStorage.getItem(`packed_item_${idx}`);
+                if(savedState === 'true') {
+                    cb.checked = true;
+                }
+            });
+            updateProgress();
+            updateCategoryCounts();
+        }
+
+        // Save states and recalculate progress bar
+        function updateProgress() {
+            const checkboxes = document.querySelectorAll('.checklist-checkbox');
+            let checkedCount = 0;
+            
+            checkboxes.forEach((cb, idx) => {
+                localStorage.setItem(`packed_item_${idx}`, cb.checked);
+                if(cb.checked) checkedCount++;
+            });
+
+            const percent = totalItems > 0 ? Math.round((checkedCount / totalItems) * 100) : 0;
+            
+            // Update progress circle & progress bar width
+            document.getElementById('progressPercent').innerText = `${percent}%`;
+            document.getElementById('progressStatus').innerText = `已完成 ${checkedCount} / ${totalItems} 項`;
+            document.getElementById('progressBar').style.width = `${percent}%`;
+
+            updateCategoryCounts();
+        }
+
+        // Update item count badge on categories
+        function updateCategoryCounts() {
+            // Total
+            const totalChecked = document.querySelectorAll('.checklist-checkbox:checked').length;
+            document.getElementById('count-all').innerText = `${totalChecked}/${totalItems}`;
+
+            const categories = ['docs', 'clothes', 'kids', 'health'];
+            categories.forEach(cat => {
+                const groupCard = document.querySelector(`.checklist-group-card[data-cat="${cat}"]`);
+                const groupCheckboxes = groupCard.querySelectorAll('.checklist-checkbox');
+                const groupTotal = groupCheckboxes.length;
+                const groupChecked = groupCard.querySelectorAll('.checklist-checkbox:checked').length;
+                document.getElementById(`count-${cat}`).innerText = `${groupChecked}/${groupTotal}`;
+            });
+        }
+
+        // Render Premium Chart.js Donut chart for budget breakdown
+        function renderBudgetChart() {
+            const ctx = document.getElementById('budgetChart').getContext('2d');
+            
+            // Gradient fill effect for chart sectors
+            const chartData = {
+                labels: ['住宿費用', '油資/過路費', '門票費用', '餐飲美食', '伴手禮採購', '雜支備用'],
+                datasets: [{
+                    data: [11700, 1200, 1030, 5800, 1500, 500],
+                    backgroundColor: [
+                        '#4ade80', // green
+                        '#60a5fa', // blue
+                        '#fbbf24', // yellow
+                        '#f43f5e', // rose
+                        '#a855f7', // purple
+                        '#94a3b8'  // gray
+                    ],
+                    borderWidth: 2,
+                    borderColor: '#0f172a',
+                    hoverOffset: 12
+                }]
+            };
+
+            const myChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: chartData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false // We use the custom sidebar cards as legend
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed !== null) {
+                                        label += new Intl.NumberFormat('zh-TW', { style: 'currency', currency: 'TWD', maximumFractionDigits: 0 }).format(context.parsed);
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    },
+                    cutout: '75%' // Thinner ring for premium look
+                }
+            });
+        }
+
+        // Window load initialization
+        window.addEventListener('DOMContentLoaded', () => {
+            loadChecklistState();
+            renderBudgetChart();
+            
+            // Auto expand first day on load, keep others collapsed
+            toggleDayCard(1);
+        });
+
+        // Sticky Navbar subtle shadows on scroll
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 200) {
+                navbar.style.boxShadow = '0 10px 30px rgba(0, 0, 0, 0.3)';
+                navbar.style.background = 'rgba(9, 13, 22, 0.95)';
+            } else {
+                navbar.style.boxShadow = 'none';
+                navbar.style.background = 'rgba(15, 23, 42, 0.85)';
+            }
+        });
+    </script>
+</body>
+</html>
