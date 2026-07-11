@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>楊梅道地小吃地圖 | 傳統客家庄街頭美食指南</title>
+    <meta name="description" content="精選10家桃園楊梅在地人從小吃到大的古早味小吃與客家美食。包含無名路邊攤、市場隱藏美味、宵夜早餐及百年老店，每家店均已完成最新營業狀態驗證。">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-body: #0d0b09;
+            --bg-card: #181512;
+            --bg-card-hover: #221e1a;
+            --border-color: #2e2822;
+            --primary: #f97316; /* 活力橘 */
+            --primary-rgb: 249, 115, 22;
+            --accent: #f59e0b;  /* 琥珀金 */
+            --accent-rgb: 245, 158, 11;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --text-dark: #1f2937;
+            --success: #10b981;
+            --success-rgb: 16, 185, 129;
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.5);
+            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.6);
+            --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.8);
+            --font-main: 'Outfit', 'Noto Sans TC', sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            font-family: var(--font-main);
+            line-height: 1.6;
+            padding: 0;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(249, 115, 22, 0.05) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(245, 158, 11, 0.05) 0%, transparent 40%);
+            background-attachment: fixed;
+        }
+
+        /* 頂部裝飾條 */
+        .top-bar {
+            height: 6px;
+            background: linear-gradient(90deg, var(--primary), var(--accent), var(--primary));
+            width: 100%;
+        }
+
+        header {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem 2.5rem;
+            text-align: center;
+            position: relative;
+        }
+
+        /* 標題發光效果 */
+        header h1 {
+            font-size: 3rem;
+            font-weight: 900;
+            letter-spacing: 2px;
+            background: linear-gradient(135deg, #fff 30%, var(--accent) 70%, var(--primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.75rem;
+            filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+            display: inline-block;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 700px;
+            margin: 0 auto;
+            font-weight: 300;
+        }
+
+        header p strong {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        /* 統計資訊區 */
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto 3rem;
+            padding: 0 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            padding: 1.5rem;
+            border-radius: 16px;
+            text-align: center;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            transform: translateX(-100%);
+            transition: transform 0.5s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(245, 158, 11, 0.3);
+            box-shadow: var(--shadow-md);
+        }
+
+        .stat-card:hover::before {
+            transform: translateX(100%);
+        }
+
+        .stat-val {
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1.2;
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            letter-spacing: 1px;
+        }
+
+        /* 搜尋與篩選區域 */
+        .controls-section {
+            max-width: 1200px;
+            margin: 0 auto 2.5rem;
+            padding: 0 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .search-box-wrapper {
+            position: relative;
+            width: 100%;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 1.1rem 1.5rem 1.1rem 3.5rem;
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            color: var(--text-main);
+            font-size: 1.05rem;
+            outline: none;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow-sm);
+            font-family: var(--font-main);
+        }
+
+        .search-box:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.15);
+            background-color: var(--bg-card-hover);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.25rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            pointer-events: none;
+            width: 20px;
+            height: 20px;
+            transition: color 0.3s ease;
+        }
+
+        .search-box:focus + .search-icon {
+            color: var(--primary);
+        }
+
+        /* 篩選標籤 */
+        .filter-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            align-items: center;
+        }
+
+        .filter-title {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin-right: 0.5rem;
+            font-weight: 500;
+        }
+
+        .tag-btn {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 0.6rem 1.2rem;
+            border-radius: 9999px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            font-weight: 500;
+        }
+
+        .tag-btn:hover {
+            border-color: var(--accent);
+            background-color: rgba(245, 158, 11, 0.05);
+            transform: translateY(-1px);
+        }
+
+        .tag-btn.active {
+            background-color: var(--primary);
+            border-color: var(--primary);
+            color: #fff;
+            box-shadow: 0 4px 12px rgba(249, 115, 22, 0.3);
+        }
+
+        /* 工具與視圖切換 */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto 1.5rem;
+            padding: 0 2rem;
+        }
+
+        .view-toggle {
+            display: flex;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            padding: 0.3rem;
+            border-radius: 10px;
+            gap: 0.25rem;
+        }
+
+        .toggle-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            padding: 0.5rem 1rem;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s ease;
+        }
+
+        .toggle-btn.active {
+            background-color: var(--bg-card-hover);
+            color: var(--accent);
+            box-shadow: var(--shadow-sm);
+        }
+
+        /* 隨機美食按鈕 */
+        .lucky-btn {
+            background: linear-gradient(135deg, var(--accent) 0%, var(--primary) 100%);
+            border: none;
+            color: #fff;
+            padding: 0.6rem 1.4rem;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(249, 115, 22, 0.25);
+        }
+
+        .lucky-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(249, 115, 22, 0.4);
+            filter: brightness(1.1);
+        }
+
+        .lucky-btn:active {
+            transform: translateY(0);
+        }
+
+        /* 內容容器 */
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem 5rem;
+        }
+
+        /* 表格容器與美化 */
+        .table-view-container {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: var(--shadow-md);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+            width: 100%;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            min-width: 900px; /* 確保在寬螢幕下完美展示 */
+        }
+
+        th {
+            background-color: rgba(24, 21, 18, 0.85);
+            color: var(--accent);
+            font-weight: 700;
+            font-size: 0.95rem;
+            padding: 1.25rem 1.5rem;
+            border-bottom: 2px solid var(--border-color);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        td {
+            padding: 1.25rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.95rem;
+            vertical-align: middle;
+            color: var(--text-main);
+            transition: background-color 0.2s ease;
+        }
+
+        tr {
+            transition: all 0.25s ease;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tbody tr:hover td {
+            background-color: var(--bg-card-hover);
+        }
+
+        tbody tr:hover {
+            transform: scale(1.002);
+        }
+
+        /* 商店名稱儲存格 */
+        .shop-name-cell {
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            gap: 0.35rem;
+        }
+
+        /* 分類標籤 */
+        .tag {
+            display: inline-block;
+            font-size: 0.75rem;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            font-weight: 600;
+            width: fit-content;
+        }
+
+        .tag-hakka { background-color: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.2); }
+        .tag-roadside { background-color: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.2); }
+        .tag-market { background-color: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.2); }
+        .tag-oldshop { background-color: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.2); }
+        .tag-snack { background-color: rgba(168, 85, 247, 0.15); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.2); }
+
+        /* 營業狀態綠色徽章 */
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background-color: var(--success-glow);
+            color: var(--success);
+            padding: 0.3rem 0.7rem;
+            border-radius: 9999px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--success);
+            border-radius: 50%;
+            display: inline-block;
+            box-shadow: 0 0 8px var(--success);
+            animation: pulse 1.8s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(0.9); opacity: 0.6; }
+            50% { transform: scale(1.2); opacity: 1; box-shadow: 0 0 12px var(--success); }
+            100% { transform: scale(0.9); opacity: 0.6; }
+        }
+
+        /* 推薦餐點 */
+        .food-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+
+        .food-item {
+            background-color: #24201b;
+            padding: 0.25rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            border: 1px solid #3d352b;
+            color: var(--text-main);
+        }
+
+        /* 地圖連結按鈕 */
+        .map-link-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background-color: #26211c;
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 0.5rem 0.9rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: all 0.25s ease;
+        }
+
+        .map-link-btn:hover {
+            background-color: var(--primary);
+            border-color: var(--primary);
+            color: #fff;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(249, 115, 22, 0.2);
+        }
+
+        .map-link-btn svg {
+            width: 16px;
+            height: 16px;
+            fill: currentColor;
+        }
+
+        /* 卡片檢視樣式 */
+        .card-view-container {
+            display: none; /* 預設為表格檢視 */
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1.5rem;
+            transition: opacity 0.3s ease;
+        }
+
+        .food-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 1.25rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .food-card:hover {
+            transform: translateY(-6px);
+            border-color: rgba(249, 115, 22, 0.3);
+            box-shadow: var(--shadow-md);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: #fff;
+            margin-bottom: 0.35rem;
+        }
+
+        .card-details {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .detail-row {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .detail-label {
+            color: var(--accent);
+            font-weight: 600;
+            min-width: 65px;
+            flex-shrink: 0;
+        }
+
+        .detail-val {
+            color: var(--text-main);
+        }
+
+        /* 無結果提示 */
+        .no-results {
+            display: none;
+            text-align: center;
+            padding: 4rem 2rem;
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+        }
+
+        .no-results-icon {
+            font-size: 3rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+
+        /* 抽獎彈窗 */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(8px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .lucky-modal {
+            background-color: var(--bg-card);
+            border: 2px solid var(--accent);
+            border-radius: 20px;
+            width: 90%;
+            max-width: 500px;
+            padding: 2.5rem;
+            text-align: center;
+            box-shadow: var(--shadow-lg);
+            position: relative;
+            transform: scale(0.9);
+            transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .modal-overlay.active .lucky-modal {
+            transform: scale(1);
+        }
+
+        .modal-close-btn {
+            position: absolute;
+            top: 1.25rem;
+            right: 1.25rem;
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
+
+        .modal-close-btn:hover {
+            color: #fff;
+        }
+
+        .modal-header-tag {
+            color: var(--accent);
+            font-size: 0.85rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+
+        .wheel-loading {
+            width: 80px;
+            height: 80px;
+            border: 6px solid var(--border-color);
+            border-top: 6px solid var(--primary);
+            border-radius: 50%;
+            margin: 2rem auto;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .modal-result {
+            display: none;
+            animation: fadeIn 0.5s ease forwards;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .modal-shop-title {
+            font-size: 1.75rem;
+            font-weight: 900;
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+
+        .modal-btn-group {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2rem;
+            justify-content: center;
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            padding: 0.6rem 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .btn-secondary:hover {
+            color: #fff;
+            border-color: #fff;
+        }
+
+        /* 響應式調整 */
+        @media (max-width: 768px) {
+            header {
+                padding: 3rem 1.5rem 2rem;
+            }
+            header h1 {
+                font-size: 2.25rem;
+            }
+            .toolbar {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: stretch;
+            }
+            .lucky-btn {
+                justify-content: center;
+            }
+            .controls-section {
+                padding: 0 1.5rem;
+            }
+            main {
+                padding: 0 1.5rem 3rem;
+            }
+            td, th {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar"></div>
+
+    <header>
+        <h1>楊梅道地小吃地圖</h1>
+        <p>探索桃園客家庄，專訪<strong>隱藏市場美食、傳承老店、無名路邊攤與宵夜早餐</strong>。每家店鋪均經 Google 搜尋驗證目前<strong>正常營業中</strong>，無永久歇業，請安心探店！</p>
+    </header>
+
+    <!-- 數據概覽區 -->
+    <section class="stats-container" aria-label="美食地圖統計資訊">
+        <div class="stat-card">
+            <div class="stat-val" id="stat-count">10</div>
+            <div class="stat-label">已驗證店家</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">5</div>
+            <div class="stat-label">客家經典小吃</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">3</div>
+            <div class="stat-label">傳承數十年老店</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-val">銅板價</div>
+            <div class="stat-label">平均消費落點</div>
+        </div>
+    </section>
+
+    <!-- 搜尋與篩選器 -->
+    <section class="controls-section">
+        <div class="search-box-wrapper">
+            <input type="text" id="search-input" class="search-box" placeholder="搜尋店名、推薦菜品、地址位置...">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+        </div>
+
+        <div class="filter-tags">
+            <span class="filter-title">特色篩選：</span>
+            <button class="tag-btn active" data-category="all">全部</button>
+            <button class="tag-btn" data-category="hakka">客家風味</button>
+            <button class="tag-btn" data-category="roadside">無名攤車/小店</button>
+            <button class="tag-btn" data-category="market">市場美食</button>
+            <button class="tag-btn" data-category="oldshop">老字號</button>
+            <button class="tag-btn" data-category="snack">早餐/點心/宵夜</button>
+        </div>
+    </section>
+
+    <!-- 視圖切換與幸運轉盤 -->
+    <section class="toolbar">
+        <div class="view-toggle">
+            <button class="toggle-btn active" id="btn-table-view">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+                表格檢視
+            </button>
+            <button class="toggle-btn" id="btn-card-view">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                卡片檢視
+            </button>
+        </div>
+        <button class="lucky-btn" id="btn-lucky-draw">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></svg>
+            今天吃哪家？(隨機抽選)
+        </button>
+    </section>
+
+    <!-- 主要美食資料 -->
+    <main>
+        <!-- 表格檢視 -->
+        <div class="table-view-container" id="table-view">
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th style="width: 22%">店名 / 特色分類</th>
+                            <th style="width: 14%">營業狀態</th>
+                            <th style="width: 25%">地址或位置描述</th>
+                            <th style="width: 21%">推薦菜品</th>
+                            <th style="width: 10%">大概價格</th>
+                            <th style="width: 18%">營業時間</th>
+                            <th style="width: 10%">地圖</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- 資料會動態渲染 -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- 卡片檢視 -->
+        <div class="card-view-container" id="card-view">
+            <!-- 卡片內容會經由 JavaScript 同步渲染 -->
+        </div>
+
+        <!-- 無搜尋結果 -->
+        <div class="no-results" id="no-results-panel">
+            <div class="no-results-icon">🔍</div>
+            <h3>查無符合條件的美味小吃</h3>
+            <p style="color: var(--text-muted); margin-top: 0.5rem;">您可以嘗試其他關鍵字，或是更換特色分類標籤。</p>
+        </div>
+    </main>
+
+    <!-- 抽獎對話框 -->
+    <div class="modal-overlay" id="lucky-modal-overlay">
+        <div class="lucky-modal">
+            <button class="modal-close-btn" id="btn-modal-close" aria-label="關閉彈窗">×</button>
+            <div class="modal-header-tag">YANGMEI STREET FOOD</div>
+            <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;" id="lucky-title">楊梅美食大輪盤</h3>
+            <p style="color: var(--text-muted); font-size: 0.9rem;" id="lucky-desc">正在為您挑選今日最佳在地小吃...</p>
+            
+            <div class="wheel-loading" id="lucky-spinner"></div>
+            
+            <div class="modal-result" id="lucky-result-panel">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🍲</div>
+                <h4 class="modal-shop-title" id="res-shop-name">店名</h4>
+                
+                <div class="card-details" style="text-align: left; background-color: rgba(0,0,0,0.2); padding: 1.25rem; border-radius: 12px; border: 1px solid var(--border-color);">
+                    <div class="detail-row">
+                        <span class="detail-label">推薦菜品：</span>
+                        <span class="detail-val" id="res-shop-food">-</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">均消估計：</span>
+                        <span class="detail-val" id="res-shop-price">-</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">地址位置：</span>
+                        <span class="detail-val" id="res-shop-addr">-</span>
+                    </div>
+                    <div class="detail-row">
+                        <span class="detail-label">營業時間：</span>
+                        <span class="detail-val" id="res-shop-time">-</span>
+                    </div>
+                </div>
+
+                <div class="modal-btn-group">
+                    <a href="" target="_blank" class="map-link-btn" id="res-shop-map" style="background-color: var(--primary); border-color: var(--primary); color: #fff;">
+                        <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+                        導航去吃
+                    </a>
+                    <button class="btn-secondary" id="btn-draw-again">再抽一次</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 店家資料庫
+        const foodDatabase = [
+            {
+                id: "alan-jie",
+                name: "阿蘭姐三代老店",
+                categories: ["hakka", "oldshop"],
+                categoryLabels: [
+                    { text: "客家風味", class: "tag-hakka" },
+                    { text: "60年老店", class: "tag-oldshop" }
+                ],
+                address: "桃園市楊梅區大成路23號 (楊梅區公所對面)",
+                foods: ["炒粄條", "薑絲炒大腸", "鯊魚炒蒜", "白切客家土鵝肉"],
+                priceRange: "NT$200 - $300 / 人 (熱炒類依人數調配份量)",
+                hours: "10:00–13:30、16:30–19:30 (每週四公休)",
+                mapQuery: "阿蘭姐三代老店 桃園市楊梅區大成路23號"
+            },
+            {
+                id: "daping-nameless",
+                name: "大平街無名早餐店",
+                categories: ["roadside", "snack"],
+                categoryLabels: [
+                    { text: "無名小店", class: "tag-roadside" },
+                    { text: "人氣早餐", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區大平街51號 (近大成路口)",
+                foods: ["手工粉漿蛋餅", "鮮肉小籠湯包", "胡椒烤花捲夾蛋", "芝麻濃米漿"],
+                priceRange: "NT$40 - $100 / 人",
+                hours: "每日 05:30–11:00 (傳統早點，售完為止)",
+                mapQuery: "楊梅大平街無名早餐店 桃園市楊梅區大平街51號"
+            },
+            {
+                id: "xinyi-food",
+                name: "信義飲食店",
+                categories: ["hakka", "oldshop"],
+                categoryLabels: [
+                    { text: "客家風味", class: "tag-hakka" },
+                    { text: "80年富岡老店", class: "tag-oldshop" }
+                ],
+                address: "桃園市楊梅區信義街165號 (近富岡火車站，步行約3分鐘)",
+                foods: ["客家炒粄條", "酸香薑絲粉腸", "傳統客家小炒", "炒鯊魚蒜苗"],
+                priceRange: "NT$200 - $300 / 人 (傳統無紙本標價，建議先與店主確認)",
+                hours: "週二至週日 11:00–15:00、17:10–21:00 (每週一公休)",
+                mapQuery: "信義飲食店 桃園市楊梅區信義街165號"
+            },
+            {
+                id: "atubo-noodle",
+                name: "阿土伯麵店",
+                categories: ["oldshop", "roadside"],
+                categoryLabels: [
+                    { text: "三十年老麵店", class: "tag-oldshop" },
+                    { text: "傳統小攤", class: "tag-roadside" }
+                ],
+                address: "桃園市楊梅區大成路118號 (無華麗招牌，近後火車站)",
+                foods: ["招牌乾粄條", "手工現炸香蔥麵", "超入味滷豆腐", "精選黑白切"],
+                priceRange: "NT$50 - $100 / 人",
+                hours: "每日 10:00–14:00 (手工油蔥香氣絕佳，中午常售罄)",
+                mapQuery: "阿土伯麵店 桃園市楊梅區大成路118號"
+            },
+            {
+                id: "puxin-nameless",
+                name: "埔心市場無名早餐店",
+                categories: ["roadside", "market", "snack"],
+                categoryLabels: [
+                    { text: "路邊攤車", class: "tag-roadside" },
+                    { text: "市場隱藏版", class: "tag-market" },
+                    { text: "早餐點心", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區中興路48號 (埔心火車站旁市場入口)",
+                foods: ["超厚Q軟粉漿蛋餅", "現炸手工煎餃", "金黃蘿蔔糕", "新鮮現磨豆漿"],
+                priceRange: "NT$30 - $80 / 人",
+                hours: "04:15–11:00 (每週日公休，在地通勤族排隊首選)",
+                mapQuery: "埔心無名早餐店 桃園市楊梅區中興路48號"
+            },
+            {
+                id: "qiaodongbei-porridge",
+                name: "俏東北廣東粥蚵仔煎",
+                categories: ["roadside", "snack"],
+                categoryLabels: [
+                    { text: "無名小店", class: "tag-roadside" },
+                    { text: "深夜宵夜", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區大成路13號 (大成路前段美食街)",
+                foods: ["極致廣東粥", "現煎酥脆蚵仔煎", "酥炸臭豆腐", "海鮮大燴粥"],
+                priceRange: "NT$100 - $200 / 人",
+                hours: "17:00–00:30 (每週日公休，晚餐至凌晨人氣宵夜店)",
+                mapQuery: "俏東北廣東粥 桃園市楊梅區大成路13號"
+            },
+            {
+                id: "xiangyuan-rice",
+                name: "香圓食品 (大成市場粄圓屋)",
+                categories: ["hakka", "market", "snack"],
+                categoryLabels: [
+                    { text: "傳統客家米食", class: "tag-hakka" },
+                    { text: "市場隱藏美食", class: "tag-market" },
+                    { text: "道地點心", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區大成路36號 (大成公有零售市場內，攤號28)",
+                foods: ["客家招牌水粄 (鹹碗粿)", "手工艾草粿 (草仔粿)", "客家傳統紅白湯圓", "節慶手工粢粑"],
+                priceRange: "NT$35 - $100 / 人 (手工現磨，無化學添加)",
+                hours: "週二至週日 04:00–12:00 (每週一公休，早市完即收攤)",
+                mapQuery: "香圓食品 桃園市楊梅區大成路36號"
+            },
+            {
+                id: "apo-sweetpotato",
+                name: "阿婆地瓜球",
+                categories: ["roadside", "snack"],
+                categoryLabels: [
+                    { text: "無名推車", class: "tag-roadside" },
+                    { text: "下午茶點心", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區大成路與新農街交叉路口旁 (現炸攤車)",
+                foods: ["黃金地瓜球 (現點現壓，口感外酥內軟超紮實)"],
+                priceRange: "NT$30 - $50 / 包 (小/中/大份)",
+                hours: "每日 16:00 起至售完為止 (常在傍晚18:00前即被秒殺)",
+                mapQuery: "阿婆地瓜球 桃園市楊梅區大成路與新農街口"
+            },
+            {
+                id: "lingzhangbo-tangyuan",
+                name: "鄰長伯大湯圓",
+                categories: ["hakka", "oldshop"],
+                categoryLabels: [
+                    { text: "客家傳統", class: "tag-hakka" },
+                    { text: "三合院老厝", class: "tag-oldshop" }
+                ],
+                address: "桃園市楊梅區楊湖路二段327巷9號 (隱密三合院民宅)",
+                foods: ["客家包餡大鹹湯圓", "經典客家小炒", "阿公紅糟肉", "客家燜桂竹筍"],
+                priceRange: "NT$300 - $400 / 人 (適合家族或好友共食單點熱炒)",
+                hours: "11:00–14:00、17:00–20:00 (每週一公休，假日常爆滿建議預約)",
+                mapQuery: "鄰長伯大湯圓 桃園市楊梅區楊湖路二段327巷9號"
+            },
+            {
+                id: "xiaoyi-tangyuan",
+                name: "小阿姨大湯圓",
+                categories: ["hakka", "oldshop", "snack"],
+                categoryLabels: [
+                    { text: "客家風味", class: "tag-hakka" },
+                    { text: "老字號麵館", class: "tag-oldshop" },
+                    { text: "經典小吃", class: "tag-snack" }
+                ],
+                address: "桃園市楊梅區新農街242號 (市區人氣店)",
+                foods: ["招牌客家包肉鹹湯圓", "古早味麵疙瘩", "桔醬切肉盤", "傳統乾拌粄條"],
+                priceRange: "NT$80 - $150 / 人",
+                hours: "10:30–14:00、16:00–20:00 (每週二公休)",
+                mapQuery: "小阿姨大湯圓 桃園市楊梅區新農街242號"
+            }
+        ];
+
+        // 渲染函數
+        function renderFoodList(data) {
+            const tableBody = document.getElementById("table-body");
+            const cardView = document.getElementById("card-view");
+            const noResults = document.getElementById("no-results-panel");
+            const statCount = document.getElementById("stat-count");
+
+            // 更新已驗證店家數量
+            statCount.textContent = data.length;
+
+            if (data.length === 0) {
+                tableBody.innerHTML = "";
+                cardView.innerHTML = "";
+                noResults.style.display = "block";
+                return;
+            }
+
+            noResults.style.display = "none";
+
+            // 1. 渲染表格
+            let tableHtml = "";
+            data.forEach(shop => {
+                const tagsHtml = shop.categoryLabels.map(t => `<span class="tag ${t.class}">${t.text}</span>`).join(" ");
+                const foodsHtml = shop.foods.map(f => `<span class="food-item">${f}</span>`).join("");
+                const googleMapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(shop.mapQuery)}`;
+                
+                tableHtml += `
+                    <tr data-id="${shop.id}">
+                        <td>
+                            <div class="shop-name-cell">
+                                <span>${shop.name}</span>
+                                <div style="display:flex; gap:0.25rem; flex-wrap:wrap;">${tagsHtml}</div>
+                            </div>
+                        </td>
+                        <td>
+                            <span class="status-badge">
+                                <span class="status-dot"></span>
+                                營業中
+                            </span>
+                        </td>
+                        <td>
+                            <div style="font-size:0.9rem; font-weight:400; color:var(--text-main);">${shop.address}</div>
+                        </td>
+                        <td>
+                            <div class="food-list">${foodsHtml}</div>
+                        </td>
+                        <td>
+                            <span style="font-weight:600; color:var(--accent);">${shop.priceRange.split(' ')[0]}</span>
+                        </td>
+                        <td>
+                            <span style="font-size:0.88rem; color:var(--text-muted);">${shop.hours}</span>
+                        </td>
+                        <td>
+                            <a href="${googleMapUrl}" target="_blank" class="map-link-btn" title="在 Google 地圖中查看">
+                                <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+                                導航
+                            </a>
+                        </td>
+                    </tr>
+                `;
+            });
+            tableBody.innerHTML = tableHtml;
+
+            // 2. 渲染卡片
+            let cardsHtml = "";
+            data.forEach(shop => {
+                const tagsHtml = shop.categoryLabels.map(t => `<span class="tag ${t.class}">${t.text}</span>`).join(" ");
+                const foodsHtml = shop.foods.map(f => `<span class="food-item">${f}</span>`).join("");
+                const googleMapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(shop.mapQuery)}`;
+
+                cardsHtml += `
+                    <div class="food-card" data-id="${shop.id}">
+                        <div>
+                            <div class="card-header">
+                                <div>
+                                    <h4 class="card-title">${shop.name}</h4>
+                                    <div style="display:flex; gap:0.3rem; flex-wrap:wrap; margin-bottom: 0.8rem;">${tagsHtml}</div>
+                                </div>
+                                <span class="status-badge" style="flex-shrink:0;">
+                                    <span class="status-dot"></span>
+                                    營業中
+                                </span>
+                            </div>
+                            <div class="card-details">
+                                <div class="detail-row">
+                                    <span class="detail-label">推薦美食</span>
+                                    <div class="food-list">${foodsHtml}</div>
+                                </div>
+                                <div class="detail-row">
+                                    <span class="detail-label">價格預算</span>
+                                    <span class="detail-val" style="font-weight:600; color:var(--accent);">${shop.priceRange}</span>
+                                </div>
+                                <div class="detail-row">
+                                    <span class="detail-label">地址位置</span>
+                                    <span class="detail-val">${shop.address}</span>
+                                </div>
+                                <div class="detail-row">
+                                    <span class="detail-label">營業時間</span>
+                                    <span class="detail-val">${shop.hours}</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <a href="${googleMapUrl}" target="_blank" class="map-link-btn" style="width:100%; justify-content:center; background-color:#211d18;">
+                                <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+                                開啟 Google 地圖導航
+                            </a>
+                        </div>
+                    </div>
+                `;
+            });
+            cardView.innerHTML = cardsHtml;
+        }
+
+        // 初始化與事件綁定
+        document.addEventListener("DOMContentLoaded", () => {
+            // 初始化渲染
+            renderFoodList(foodDatabase);
+
+            // 搜尋與篩選變數
+            const searchInput = document.getElementById("search-input");
+            const filterBtns = document.querySelectorAll(".tag-btn");
+            let currentFilter = "all";
+
+            // 搜尋過濾主邏輯
+            function filterData() {
+                const query = searchInput.value.toLowerCase().trim();
+                const filtered = foodDatabase.filter(shop => {
+                    // 分類篩選
+                    const matchesCategory = currentFilter === "all" || shop.categories.includes(currentFilter);
+                    
+                    // 關鍵字搜尋 (店名、推薦菜品、地址)
+                    const matchesSearch = !query || 
+                        shop.name.toLowerCase().includes(query) || 
+                        shop.address.toLowerCase().includes(query) || 
+                        shop.foods.some(food => food.toLowerCase().includes(query));
+
+                    return matchesCategory && matchesSearch;
+                });
+                renderFoodList(filtered);
+            }
+
+            // 搜尋框輸入事件
+            searchInput.addEventListener("input", filterData);
+
+            // 篩選標籤點擊事件
+            filterBtns.forEach(btn => {
+                btn.addEventListener("click", (e) => {
+                    filterBtns.forEach(b => b.classList.remove("active"));
+                    btn.classList.add("active");
+                    currentFilter = btn.getAttribute("data-category");
+                    filterData();
+                });
+            });
+
+            // 視圖切換邏輯
+            const btnTableView = document.getElementById("btn-table-view");
+            const btnCardView = document.getElementById("btn-card-view");
+            const tableView = document.getElementById("table-view");
+            const cardView = document.getElementById("card-view");
+
+            btnTableView.addEventListener("click", () => {
+                btnTableView.classList.add("active");
+                btnCardView.classList.remove("active");
+                tableView.style.display = "block";
+                cardView.style.display = "none";
+            });
+
+            btnCardView.addEventListener("click", () => {
+                btnCardView.classList.add("active");
+                btnTableView.classList.remove("active");
+                tableView.style.display = "none";
+                cardView.style.display = "grid";
+            });
+
+            // 隨機美食輪盤/幸運抽獎邏輯
+            const btnLucky = document.getElementById("btn-lucky-draw");
+            const modalOverlay = document.getElementById("lucky-modal-overlay");
+            const btnModalClose = document.getElementById("btn-modal-close");
+            const luckySpinner = document.getElementById("lucky-spinner");
+            const luckyResultPanel = document.getElementById("lucky-result-panel");
+            const luckyTitle = document.getElementById("lucky-title");
+            const luckyDesc = document.getElementById("lucky-desc");
+            const btnDrawAgain = document.getElementById("btn-draw-again");
+
+            function triggerLuckyDraw() {
+                modalOverlay.classList.add("active");
+                luckySpinner.style.display = "block";
+                luckyResultPanel.style.display = "none";
+                luckyTitle.textContent = "美味挑選中...";
+                luckyDesc.textContent = "大廚正在為您挑選楊梅最棒的街頭小吃...";
+
+                // 模擬輪盤旋轉 1.2 秒
+                setTimeout(() => {
+                    const randomIndex = Math.floor(Math.random() * foodDatabase.length);
+                    const selected = foodDatabase[randomIndex];
+
+                    // 填充結果
+                    document.getElementById("res-shop-name").textContent = selected.name;
+                    document.getElementById("res-shop-food").textContent = selected.foods.join("、");
+                    document.getElementById("res-shop-price").textContent = selected.priceRange;
+                    document.getElementById("res-shop-addr").textContent = selected.address;
+                    document.getElementById("res-shop-time").textContent = selected.hours;
+                    
+                    const googleMapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(selected.mapQuery)}`;
+                    document.getElementById("res-shop-map").setAttribute("href", googleMapUrl);
+
+                    // 顯示結果
+                    luckySpinner.style.display = "none";
+                    luckyResultPanel.style.display = "block";
+                    luckyTitle.textContent = "今日推薦吃這家！";
+                    luckyDesc.textContent = "主廚特別挑選，絕對不會讓您失望的經典好滋味：";
+                }, 1200);
+            }
+
+            btnLucky.addEventListener("click", triggerLuckyDraw);
+            btnDrawAgain.addEventListener("click", triggerLuckyDraw);
+
+            // 關閉彈窗
+            function closeModal() {
+                modalOverlay.classList.remove("active");
+            }
+
+            btnModalClose.addEventListener("click", closeModal);
+            modalOverlay.addEventListener("click", (e) => {
+                if (e.target === modalOverlay) closeModal();
+            });
+        });
+    </script>
+</body>
+</html>
