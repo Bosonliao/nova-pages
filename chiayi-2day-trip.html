@@ -1,0 +1,2386 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>嘉義兩天一夜輕旅行攻略</title>
+  <meta name="description" content="最精美的嘉義兩天一夜旅遊攻略！包含詳盡的文青行程規劃、熱門住宿推薦、必吃美食互動地圖與常見問答，助您輕鬆規劃一趟充滿檜木香氣與在地美味的嘉義之旅。">
+  
+  <!-- Google Fonts: Outfit & Noto Sans TC -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+  <style>
+    /* CSS Variables for Light/Dark Themes */
+    :root {
+      --bg-primary: #f8fafc;
+      --bg-secondary: #ffffff;
+      --text-primary: #0f172a;
+      --text-secondary: #475569;
+      --accent-color: #1b4332; /* Alishan Forest Green */
+      --accent-color-rgb: 27, 67, 50;
+      --accent-hover: #2d6a4f;
+      --accent-light: #e8f5e9;
+      --highlight-color: #e67e22; /* Sunset Orange */
+      --border-color: #e2e8f0;
+      --card-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+      --card-shadow-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      --map-bg: #f1f5f9;
+      --map-road: #cbd5e1;
+      --map-label: #64748b;
+      --active-tab-bg: #1b4332;
+      --active-tab-text: #ffffff;
+      --header-overlay: linear-gradient(135deg, rgba(27, 67, 50, 0.95) 0%, rgba(45, 106, 79, 0.9) 100%);
+    }
+
+    body.dark-theme {
+      --bg-primary: #090d16;
+      --bg-secondary: #111827;
+      --text-primary: #f9fafb;
+      --text-secondary: #9ca3af;
+      --accent-color: #52b788; /* Mint Green */
+      --accent-color-rgb: 82, 183, 136;
+      --accent-hover: #74c69d;
+      --accent-light: #182e25;
+      --highlight-color: #f39c12;
+      --border-color: #1f2937;
+      --card-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+      --card-shadow-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.4), 0 10px 10px -5px rgba(0, 0, 0, 0.3);
+      --map-bg: #1e293b;
+      --map-road: #334155;
+      --map-label: #94a3b8;
+      --active-tab-bg: #52b788;
+      --active-tab-text: #090d16;
+      --header-overlay: linear-gradient(135deg, rgba(9, 13, 22, 0.95) 0%, rgba(24, 46, 37, 0.9) 100%);
+    }
+
+    /* Core Styles */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      font-family: 'Noto Sans TC', 'Outfit', sans-serif;
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    /* Utility Styles */
+    .section-title {
+      font-size: 2.25rem;
+      font-weight: 800;
+      text-align: center;
+      margin-bottom: 1rem;
+      position: relative;
+      color: var(--text-primary);
+    }
+
+    .section-title::after {
+      content: '';
+      display: block;
+      width: 60px;
+      height: 4px;
+      background: var(--accent-color);
+      margin: 0.75rem auto 0;
+      border-radius: 2px;
+    }
+
+    .section-subtitle {
+      font-size: 1.1rem;
+      color: var(--text-secondary);
+      text-align: center;
+      margin-bottom: 3rem;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.25rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Hero Banner */
+    header {
+      position: relative;
+      background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600"><rect width="1200" height="600" fill="%231b4332"/><path d="M 0 300 Q 300 200 600 300 T 1200 300 L 1200 600 L 0 600 Z" fill="%232d6a4f" opacity="0.3"/><path d="M 0 400 Q 400 300 800 400 T 1200 400 L 1200 600 L 0 600 Z" fill="%2340916c" opacity="0.2"/><circle cx="950" cy="180" r="80" fill="%23e67e22" opacity="0.75"/></svg>') no-repeat center center;
+      background-size: cover;
+      padding: 8rem 0 6rem 0;
+      color: #ffffff;
+      text-align: center;
+      overflow: hidden;
+    }
+
+    header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--header-overlay);
+      z-index: 1;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+
+    .hero-content h1 {
+      font-size: 3.5rem;
+      font-weight: 900;
+      letter-spacing: -0.05em;
+      margin-bottom: 1.5rem;
+      line-height: 1.2;
+      text-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+
+    .hero-content p {
+      font-size: 1.35rem;
+      font-weight: 300;
+      opacity: 0.95;
+      margin-bottom: 2.5rem;
+      text-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    }
+
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-top: 2rem;
+    }
+
+    .stat-badge {
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      padding: 0.5rem 1.25rem;
+      border-radius: 12px;
+      font-size: 0.95rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    }
+
+    /* Floating Leaves animation for Wow effect */
+    .leaf-decorator {
+      position: absolute;
+      top: 20%;
+      left: 10%;
+      width: 40px;
+      height: 40px;
+      opacity: 0.3;
+      z-index: 1;
+      animation: float-slow 8s infinite ease-in-out;
+      fill: #fff;
+    }
+
+    .leaf-decorator.right {
+      left: auto;
+      right: 10%;
+      top: 40%;
+      animation-delay: 2s;
+    }
+
+    @keyframes float-slow {
+      0%, 100% { transform: translateY(0) rotate(0deg); }
+      50% { transform: translateY(-20px) rotate(15deg); }
+    }
+
+    /* Floating Theme Toggle */
+    .theme-toggle-btn {
+      position: fixed;
+      top: 1.5rem;
+      right: 1.5rem;
+      background: rgba(255, 255, 255, 0.9);
+      color: #0f172a;
+      border: none;
+      width: 3rem;
+      height: 3rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+      z-index: 100;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+
+    body.dark-theme .theme-toggle-btn {
+      background: rgba(17, 24, 39, 0.9);
+      color: #f9fafb;
+      border: 1px solid #1f2937;
+    }
+
+    .theme-toggle-btn:hover {
+      transform: scale(1.1);
+    }
+
+    .theme-toggle-btn svg {
+      width: 1.5rem;
+      height: 1.5rem;
+      fill: currentColor;
+    }
+
+    /* Sticky Navigation */
+    nav {
+      position: sticky;
+      top: 0;
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(12px) saturate(180%);
+      -webkit-backdrop-filter: blur(12px) saturate(180%);
+      border-bottom: 1px solid var(--border-color);
+      z-index: 50;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    }
+
+    body.dark-theme nav {
+      background: rgba(17, 24, 39, 0.8);
+    }
+
+    .nav-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 4rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    .logo {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--accent-color);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 2rem;
+    }
+
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      padding: 0.5rem 0;
+      position: relative;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--accent-color);
+    }
+
+    .nav-links a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background-color: var(--accent-color);
+      transition: width 0.3s ease;
+    }
+
+    .nav-links a:hover::after, .nav-links a.active::after {
+      width: 100%;
+    }
+
+    /* Section Padding */
+    section {
+      padding: 6rem 0;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    /* Itinerary Section (行程規劃) */
+    .itinerary-selector {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 3rem;
+      background: var(--bg-secondary);
+      padding: 0.5rem;
+      border-radius: 16px;
+      max-width: 320px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+    }
+
+    .itinerary-selector button {
+      flex: 1;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 12px;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .itinerary-selector button.active {
+      background: var(--active-tab-bg);
+      color: var(--active-tab-text);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .timeline-container {
+      position: relative;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1rem 0;
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(15px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .timeline-container::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 2rem;
+      width: 4px;
+      background: var(--border-color);
+      border-radius: 2px;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 3.5rem;
+      padding-left: 5rem;
+    }
+
+    .timeline-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .timeline-badge {
+      position: absolute;
+      left: 0.75rem;
+      top: 0.25rem;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      background: var(--bg-secondary);
+      border: 4px solid var(--accent-color);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+      box-shadow: 0 0 0 4px var(--bg-primary);
+    }
+
+    .timeline-badge svg {
+      width: 1.1rem;
+      height: 1.1rem;
+      color: var(--accent-color);
+    }
+
+    .timeline-card {
+      background: var(--bg-secondary);
+      border-radius: 20px;
+      padding: 2rem;
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .timeline-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--card-shadow-hover);
+    }
+
+    .timeline-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .timeline-time {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--highlight-color);
+      font-family: 'Outfit', sans-serif;
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .timeline-time svg {
+      width: 1.2rem;
+      height: 1.2rem;
+    }
+
+    .timeline-title {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-top: 0.25rem;
+    }
+
+    .timeline-body {
+      font-size: 1rem;
+      color: var(--text-secondary);
+      margin-bottom: 1.5rem;
+    }
+
+    .timeline-tip {
+      background-color: var(--accent-light);
+      border-left: 4px solid var(--accent-color);
+      padding: 1rem;
+      border-radius: 0 12px 12px 0;
+      font-size: 0.95rem;
+      color: var(--text-primary);
+      display: flex;
+      gap: 0.5rem;
+      align-items: flex-start;
+    }
+
+    .timeline-tip svg {
+      width: 1.2rem;
+      height: 1.2rem;
+      color: var(--accent-color);
+      flex-shrink: 0;
+      margin-top: 0.15rem;
+    }
+
+    /* Accommodations Section (住宿推薦) */
+    .accommodation-controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .hotel-filters {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      padding: 0.5rem 1.25rem;
+      border: 1px solid var(--border-color);
+      border-radius: 9999px;
+      background: var(--bg-secondary);
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent-color);
+      color: var(--active-tab-text);
+      border-color: var(--accent-color);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    }
+
+    .search-wrapper {
+      position: relative;
+      width: 100%;
+      max-width: 320px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.65rem 1rem 0.65rem 2.5rem;
+      border: 1px solid var(--border-color);
+      border-radius: 9999px;
+      background: var(--bg-secondary);
+      color: var(--text-primary);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent-color);
+      box-shadow: 0 0 0 3px rgba(var(--accent-color-rgb), 0.15);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 1.1rem;
+      height: 1.1rem;
+      color: var(--text-secondary);
+    }
+
+    .table-wrapper {
+      background: var(--bg-secondary);
+      border-radius: 20px;
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+      overflow-x: auto;
+      margin-bottom: 2rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      min-width: 750px;
+    }
+
+    th {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+      padding: 1.25rem 1.5rem;
+      font-weight: 700;
+      font-size: 0.95rem;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    body.dark-theme th {
+      background-color: rgba(var(--accent-color-rgb), 0.2);
+    }
+
+    td {
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid var(--border-color);
+      color: var(--text-primary);
+      font-size: 0.95rem;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr {
+      transition: background-color 0.2s;
+    }
+
+    tr.hidden {
+      display: none !important;
+    }
+
+    tr:hover {
+      background-color: rgba(var(--accent-color-rgb), 0.02);
+    }
+
+    .hotel-name {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: var(--text-primary);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hotel-tag {
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: var(--accent-color);
+      background-color: var(--accent-light);
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      align-self: flex-start;
+      margin-top: 0.35rem;
+    }
+
+    .rating-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      background-color: #fef3c7;
+      color: #d97706;
+      padding: 0.25rem 0.6rem;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 0.85rem;
+    }
+
+    body.dark-theme .rating-badge {
+      background-color: rgba(217, 119, 6, 0.2);
+      color: #fbbf24;
+    }
+
+    .rating-badge svg {
+      width: 0.9rem;
+      height: 0.9rem;
+    }
+
+    .recommend-index {
+      color: #fbbf24;
+      font-size: 1.1rem;
+      letter-spacing: 0.1em;
+    }
+
+    /* Food Section (必吃美食地圖) */
+    .food-layout {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 2.5rem;
+      align-items: start;
+    }
+
+    @media (max-width: 992px) {
+      .food-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .map-column {
+      position: sticky;
+      top: 6rem;
+      background: var(--bg-secondary);
+      border-radius: 24px;
+      padding: 1.5rem;
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+    }
+
+    .map-header {
+      margin-bottom: 1.25rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .map-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--accent-color);
+    }
+
+    .map-title svg {
+      width: 1.35rem;
+      height: 1.35rem;
+    }
+
+    .map-legend {
+      display: flex;
+      gap: 0.75rem;
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      flex-wrap: wrap;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .legend-color {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+
+    .map-container {
+      background-color: var(--map-bg);
+      border-radius: 16px;
+      border: 1px solid var(--border-color);
+      overflow: hidden;
+      aspect-ratio: 5/4;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .chiayi-map-svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    /* Map SVGs styles */
+    .road-label {
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      pointer-events: none;
+      fill: var(--map-label);
+    }
+
+    /* Map Pin Interactive Elements */
+    .map-pin {
+      cursor: pointer;
+      transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.3s;
+    }
+
+    .map-pin.filtered-out {
+      opacity: 0.15;
+      pointer-events: none;
+    }
+
+    .pin-shape {
+      stroke: #ffffff;
+      stroke-width: 1.5px;
+      transition: stroke-width 0.2s, filter 0.2s;
+    }
+
+    .map-pin:hover .pin-shape {
+      stroke-width: 2.5px;
+      filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));
+    }
+
+    /* Pin Labels: Hidden by default, shown on hover/active */
+    .pin-label-group {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s, transform 0.2s;
+      transform: translateY(4px);
+    }
+
+    .pin-label-bg {
+      fill: var(--text-primary);
+    }
+
+    .pin-label-text {
+      fill: var(--bg-secondary);
+      font-size: 8.5px;
+      font-weight: bold;
+      text-anchor: middle;
+    }
+
+    .map-pin:hover .pin-label-group, 
+    .map-pin.active .pin-label-group {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Active pin styling */
+    .map-pin.active {
+      z-index: 100;
+    }
+
+    /* Ground ripple animation for active pin */
+    .pin-ripple {
+      fill: var(--pin-color);
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .map-pin.active .pin-ripple {
+      animation: ripple-pulse 1.5s infinite;
+    }
+
+    @keyframes ripple-pulse {
+      0% {
+        r: 4px;
+        opacity: 0.6;
+      }
+      100% {
+        r: 18px;
+        opacity: 0;
+      }
+    }
+
+    .map-pin.active .pin-marker {
+      animation: pin-bounce 0.6s infinite alternate ease-in-out;
+    }
+
+    @keyframes pin-bounce {
+      0% {
+        transform: translateY(0);
+      }
+      100% {
+        transform: translateY(-6px);
+      }
+    }
+
+    .map-pin.pin-attraction { --pin-color: #2d6a4f; }
+    .map-pin.pin-chicken { --pin-color: #e67e22; }
+    .map-pin.pin-food { --pin-color: #d63031; }
+    .map-pin.pin-dessert { --pin-color: #9b59b6; }
+
+    .pin-shape {
+      fill: var(--pin-color);
+    }
+
+    /* Food Cards Column */
+    .food-list-column {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .food-filter-tabs {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.25rem;
+      scrollbar-width: thin;
+    }
+
+    .food-filter-tabs::-webkit-scrollbar {
+      height: 4px;
+    }
+
+    .food-filter-tabs::-webkit-scrollbar-thumb {
+      background-color: var(--border-color);
+      border-radius: 4px;
+    }
+
+    .food-tab-btn {
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      background: var(--bg-secondary);
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+
+    .food-tab-btn.active {
+      background: var(--accent-color);
+      color: var(--active-tab-text);
+      border-color: var(--accent-color);
+    }
+
+    .food-cards-container {
+      max-height: 520px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+      padding-right: 0.5rem;
+      scrollbar-width: thin;
+      scroll-behavior: smooth;
+    }
+
+    .food-cards-container::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .food-cards-container::-webkit-scrollbar-thumb {
+      background-color: var(--border-color);
+      border-radius: 3px;
+    }
+
+    .food-card {
+      background: var(--bg-secondary);
+      border-radius: 20px;
+      padding: 1.5rem;
+      box-shadow: var(--card-shadow);
+      border: 2px solid transparent;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      cursor: pointer;
+      position: relative;
+      transition: all 0.3s;
+    }
+
+    .food-card::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 6px;
+      background-color: var(--pin-color, var(--accent-color));
+      border-radius: 20px 0 0 20px;
+    }
+
+    .food-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--card-shadow-hover);
+    }
+
+    .food-card.card-highlight {
+      border-color: var(--highlight-color);
+      background-color: rgba(var(--accent-color-rgb), 0.03);
+      animation: pulse-highlight 2s ease;
+    }
+
+    @keyframes pulse-highlight {
+      0% { box-shadow: 0 0 0 0px rgba(230, 126, 34, 0.4); }
+      50% { box-shadow: 0 0 0 8px rgba(230, 126, 34, 0.4); }
+      100% { box-shadow: 0 0 0 0px rgba(230, 126, 34, 0); }
+    }
+
+    .food-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-left: 0.5rem;
+    }
+
+    .food-card-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .food-card-meta {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.25rem;
+    }
+
+    .food-address {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      margin-left: 0.5rem;
+    }
+
+    .food-address svg {
+      width: 0.95rem;
+      height: 0.95rem;
+    }
+
+    .food-intro {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      margin-left: 0.5rem;
+    }
+
+    .food-recommend {
+      background-color: var(--accent-light);
+      padding: 0.75rem 1rem;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      color: var(--text-primary);
+      margin-left: 0.5rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .food-recommend span {
+      color: var(--highlight-color);
+      font-weight: 700;
+    }
+
+    .food-card-action {
+      background: none;
+      border: 1px solid var(--accent-color);
+      color: var(--accent-color);
+      padding: 0.45rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      align-self: flex-start;
+      margin-left: 0.5rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      transition: all 0.2s;
+    }
+
+    .food-card-action:hover {
+      background: var(--accent-color);
+      color: var(--active-tab-text);
+    }
+
+    /* FAQ Section (常見問答) */
+    .faq-wrapper {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    .faq-card {
+      background: var(--bg-secondary);
+      border-radius: 16px;
+      box-shadow: var(--card-shadow);
+      border: 1px solid var(--border-color);
+      overflow: hidden;
+      cursor: pointer;
+      transition: box-shadow 0.3s;
+    }
+
+    .faq-card:hover {
+      box-shadow: var(--card-shadow-hover);
+    }
+
+    .faq-question {
+      padding: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: var(--text-primary);
+      gap: 1rem;
+      user-select: none;
+    }
+
+    .faq-question-text {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .faq-icon-q {
+      background: var(--accent-light);
+      color: var(--accent-color);
+      width: 1.75rem;
+      height: 1.75rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.85rem;
+      flex-shrink: 0;
+    }
+
+    .faq-arrow {
+      width: 1.25rem;
+      height: 1.25rem;
+      color: var(--text-secondary);
+      transition: transform 0.3s;
+    }
+
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s cubic-bezier(0, 1, 0, 1);
+      padding: 0 1.5rem;
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+      border-top: 1px solid transparent;
+    }
+
+    .faq-card.open .faq-answer {
+      max-height: 500px;
+      padding: 1.5rem;
+      border-top: 1px solid var(--border-color);
+      transition: max-height 0.5s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+    }
+
+    .faq-card.open .faq-arrow {
+      transform: rotate(180deg);
+      color: var(--accent-color);
+    }
+
+    /* Footer Section */
+    footer {
+      background-color: #0f172a;
+      color: #94a3b8;
+      padding: 4rem 0 2rem 0;
+      text-align: center;
+      font-size: 0.9rem;
+      border-top: none;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: #94a3b8;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .footer-links a:hover {
+      color: #ffffff;
+    }
+
+    .footer-divider {
+      width: 100%;
+      height: 1px;
+      background-color: #1e293b;
+      margin: 2rem 0;
+    }
+
+    .copyright {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    /* Responsive Styles */
+    @media (max-width: 768px) {
+      header {
+        padding: 6rem 0 4rem 0;
+      }
+
+      .hero-content h1 {
+        font-size: 2.25rem;
+      }
+
+      .hero-content p {
+        font-size: 1.1rem;
+      }
+
+      .section-title {
+        font-size: 1.75rem;
+      }
+
+      .nav-links {
+        display: none;
+      }
+
+      .timeline-container::before {
+        left: 1.25rem;
+      }
+
+      .timeline-item {
+        padding-left: 3rem;
+      }
+
+      .timeline-badge {
+        left: 0;
+        width: 2rem;
+        height: 2rem;
+      }
+
+      .timeline-card {
+        padding: 1.5rem;
+      }
+
+      .accommodation-controls {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .search-wrapper {
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Theme Toggle Button -->
+  <button class="theme-toggle-btn" id="theme-toggle" onclick="toggleTheme()" aria-label="切換深淺色模式">
+    <svg id="theme-sun-icon" viewBox="0 0 24 24" style="display: block;">
+      <path d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zM2 13h2c.55 0 1-.45 1-1s-.45-1-1-1H2c-.55 0-1 .45-1 1s.45 1 1 1zm18 0h2c.55 0 1-.45 1-1s-.45-1-1-1h-2c-.55 0-1 .45-1 1s.45 1 1 1zM11 2v2c0 .55.45 1 1 1s1-.45 1-1V2c0-.55-.45-1-1-1s-1 .45-1 1zm0 18v2c0 .55.45 1 1 1s1-.45 1-1v-2c0-.55-.45-1-1-1s-1 .45-1 1zM5.99 4.58c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41L5.99 4.58zm12.37 12.37c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41l-1.06-1.06zm1.06-10.96c.39-.39.39-1.03 0-1.41s-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06zM7.05 18.01c.39-.39.39-1.03 0-1.41s-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41l1.06-1.06z"/>
+    </svg>
+    <svg id="theme-moon-icon" viewBox="0 0 24 24" style="display: none;">
+      <path d="M9.37 5.51c-.18-.64-.93-.86-1.42-.43A9.004 9.004 0 0012 21a9.004 9.004 0 008.92-7.95c.08-.63-.64-1.07-1.18-.75A7.001 7.001 0 019.37 5.51z"/>
+    </svg>
+  </button>
+
+  <!-- Hero Section -->
+  <header>
+    <!-- SVGs decor -->
+    <svg class="leaf-decorator" viewBox="0 0 24 24"><path d="M17 8C8 10 7 20 7 20s10-1 12-9c1.5-6-2-3-2-3z"/></svg>
+    <svg class="leaf-decorator right" viewBox="0 0 24 24"><path d="M17 8C8 10 7 20 7 20s10-1 12-9c1.5-6-2-3-2-3z"/></svg>
+    
+    <div class="hero-content">
+      <span class="badge" style="background-color: var(--highlight-color); color: white; margin-bottom: 1.5rem;">Chiayi Travel Guide</span>
+      <h1>嘉義兩天一夜輕旅行攻略</h1>
+      <p>慢活、美食與日式老屋的文青風邂逅。跟著這份精心設計的行程，探索這座充滿檜木香氣的小城。</p>
+      
+      <div class="hero-stats">
+        <div class="stat-badge">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+          </svg>
+          旅行天數：2 天 1 夜
+        </div>
+        <div class="stat-badge">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10"></circle><path d="M16.2 7.8l-2 5.6-5.6 2 2-5.6 5.6-2z"></path>
+          </svg>
+          推薦交通：機車 / YouBike 2.0
+        </div>
+        <div class="stat-badge">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+          </svg>
+          預算區間：中等 (約 NT$ 4,000 / 人)
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sticky Navigation -->
+  <nav id="navbar">
+    <div class="nav-container">
+      <a href="#" class="logo">
+        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+          <path d="M12 2L2 22h20L12 2z"/>
+        </svg>
+        嘉義輕旅行
+      </a>
+      <div class="nav-links">
+        <a href="#itinerary" class="active" id="nav-itinerary">行程規劃</a>
+        <a href="#accommodation" id="nav-accommodation">住宿推薦</a>
+        <a href="#food-map" id="nav-food-map">必吃美食</a>
+        <a href="#faq" id="nav-faq">常見問答</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Itinerary Section -->
+  <section id="itinerary">
+    <div class="container">
+      <h2 class="section-title">行程規劃</h2>
+      <p class="section-subtitle">精心編排的慢活路線，不急不徐地把嘉義最美的日治古蹟與熱鬧夜市一網打盡。</p>
+
+      <div class="itinerary-selector">
+        <button id="btn-day-1" class="active" onclick="switchDay(1)">第一天：歷史文藝</button>
+        <button id="btn-day-2" onclick="switchDay(2)">第二天：老街綠意</button>
+      </div>
+
+      <!-- Day 1 Timeline -->
+      <div id="timeline-day-1" class="timeline-container">
+        <!-- Stop 1 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3C13 6.8 11.5 6 9 6H2v11h17z"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                09:30 - 10:00
+              </div>
+              <span class="badge">交通起點</span>
+            </div>
+            <h3 class="timeline-title">抵達嘉義 & 租車出發</h3>
+            <div class="timeline-body">
+              抵達嘉義火車站後，於前站周邊租借機車或汽車，這是探索嘉義市區最便利的移動方式。準備開啟兩天的漫遊！
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>在地小提醒：</strong> 嘉義市區假日車流量大，路邊停車位不易尋找，推薦租用機車或騎乘 YouBike 2.0，機動性最佳！</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 2 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                10:00 - 12:00
+              </div>
+              <span class="badge">日式風情</span>
+            </div>
+            <h3 class="timeline-title">檜意森活村 (Hinoki Village)</h3>
+            <div class="timeline-body">
+              全台灣保存最完整的日式檜木官舍建築群。漫步在古色古香的木造建築中，空氣裡隱約散發著檜木香。園區內有豐富的文創小店、日式甜點、福義軒伴手禮店以及唯美的和服體驗。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>打卡秘笈：</strong> 穿過京都感的鳥居與日式庭園，建議預約 1 小時和服/浴衣體驗，穿梭在檜木屋舍中拍照，非常出片！</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 3 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                12:00 - 14:30
+              </div>
+              <span class="badge">藝術午餐</span>
+            </div>
+            <h3 class="timeline-title">嘉義市立美術館 & 周邊午餐</h3>
+            <div class="timeline-body">
+              由舊菸酒公賣局改建的美術館，融合了日治時期的折衷主義磚牆與現代感十足的挑高木構造與玻璃帷幕，是文青必訪地標。午餐可在美術館周邊享用經典火雞肉飯。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>參觀指南：</strong> 美術館週一休館，一般門票僅需 50 元。中庭大面積的玻璃窗倒映著日光，是熱門的拍照視角。</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 4 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 22s2-4 10-4 10 4 10 4M12 2v12"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                14:30 - 17:00
+              </div>
+              <span class="badge">古蹟公園</span>
+            </div>
+            <h3 class="timeline-title">昭和十八 J18 & 射日塔</h3>
+            <div class="timeline-body">
+              位於嘉義公園內。昭和十八前身為「嘉義神社社務所」，為市定古蹟，館內有濃濃日本味。隨後可前往公園中央、高 62 公尺的射日塔，登頂眺望整座嘉義市的迷人全景。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>消費折抵：</strong> 昭和十八門票可折抵內部文創商品或餐飲消費，推薦在裡面喝杯日式煎茶配特色糕點。</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 5 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                17:30 - 20:30
+              </div>
+              <span class="badge">美食盛宴</span>
+            </div>
+            <h3 class="timeline-title">文化路夜市 & 經典美食</h3>
+            <div class="timeline-body">
+              嘉義最熱鬧的精華區。這裡有紅透半邊天的「林聰明沙鍋魚頭」、必排隊的飲料名物「源興御香屋」，還有傳統的「阿娥豆花」。豐富多樣的在地小吃保證讓你飽足而歸。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>排隊攻略：</strong> 林聰明沙鍋魚頭假日人潮非常驚人，建議傍晚五點左右一抵達就先去抽號碼牌，接著在等候時間前往御香屋買杯葡萄柚綠茶邊喝邊逛！</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Day 2 Timeline -->
+      <div id="timeline-day-2" class="timeline-container" style="display: none;">
+        <!-- Stop 1 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                09:00 - 10:30
+              </div>
+              <span class="badge">鐵道巡禮</span>
+            </div>
+            <h3 class="timeline-title">阿里山森林鐵路車庫園區</h3>
+            <div class="timeline-body">
+              這是林鐵火車的「心臟大本營」，園區內綠木扶疏，近距離停放著退役的日製蒸汽火車頭、老客車車廂、轉車台等。鐵道迷與攝影愛好者絕不能錯過的戶外綠色博物館。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>入園須知：</strong> 園區免費參觀，可在林蔭軌道旁漫步拍照。注意請勿攀爬退役展示火車喔！</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 2 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                10:30 - 12:00
+              </div>
+              <span class="badge">國定古蹟</span>
+            </div>
+            <h3 class="timeline-title">獄政博物館 (嘉義舊監獄)</h3>
+            <div class="timeline-body">
+              創建於日治大正時期，是台灣唯一完整保存至今的日治時期監獄遺址。其放射狀的「賓夕法尼亞式」扇形監獄結構極具歷史建築價值。穿過厚重木門，了解往昔的監獄生活史。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>預約提醒：</strong> 舊監獄目前以「定時導覽」方式開放，每日有固定場次（如 10:30、13:30），由專業導覽志工帶入參觀，規劃行程時要算準時間！</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 3 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                12:00 - 14:00
+              </div>
+              <span class="badge">老市場午餐</span>
+            </div>
+            <h3 class="timeline-title">東市場美食巡禮</h3>
+            <div class="timeline-body">
+              嘉義人的「大廚房」，擁有百年歷史的傳統市場。裡面隱藏著許多超級實惠的老字號小吃：鮮甜無料的「王家祖傳牛雜湯」、超香的「袁家筒仔米糕」、金黃酥脆的「網絲肉捲」以及古早味粉條冰。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>營業時間：</strong> 東市場內大多是早午餐攤位，通常到下午一點至兩點就會陸續收攤，建議中午 12 點前抵達才能大飽口福。</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 4 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                14:00 - 16:00
+              </div>
+              <span class="badge">文創展覽</span>
+            </div>
+            <h3 class="timeline-title">嘉義文化創意產業園區 (舊嘉義酒廠)</h3>
+            <div class="timeline-body">
+              位於火車站旁，由台灣最早生產高粱酒的舊酒廠改建。園區保留了高聳的煙囪、鍋爐室與大型釀酒機具，轉化為展覽空間、手作DIY教室、特色咖啡館。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>文創伴手禮：</strong> 假日經常有戶外市集，可以挑選精緻的文青手工藝品或喝杯下午茶，享受午後的靜謐時光。</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Stop 5 -->
+        <div class="timeline-item">
+          <div class="timeline-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 22h20L12 2z"/></svg>
+          </div>
+          <div class="timeline-card">
+            <div class="timeline-header">
+              <div class="timeline-time">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                16:00 - 18:00
+              </div>
+              <span class="badge">潭畔夕陽</span>
+            </div>
+            <h3 class="timeline-title">蘭潭風景區 & 月影潭心</h3>
+            <div class="timeline-body">
+              嘉義人的後花園，湖光山色美不勝收。座落於蘭潭畔的「月影潭心」是由藝術家打造的鋁片鏤空編織鳥巢狀藝術裝置，傍晚時分落日餘暉映照，入夜點燈後更顯魔幻迷人。
+            </div>
+            <div class="timeline-tip">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              <div><strong>完美收尾：</strong> 推薦在接近黃昏前抵達，租台 YouBike 環湖，吹著徐徐涼風欣賞晚霞。若晚點離開，還能觀賞盛大的蘭潭音樂噴泉水舞秀！</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Accommodations Section -->
+  <section id="accommodation">
+    <div class="container">
+      <h2 class="section-title">精選住宿推薦</h2>
+      <p class="section-subtitle">無論是想體驗頂樓無邊際泳池的文青網美飯店，還是預算實惠、近夜市或車站的商務旅館，這裡都為你挑選好了。</p>
+
+      <div class="accommodation-controls">
+        <div class="hotel-filters">
+          <button class="filter-btn active" onclick="filterHotels('all')">顯示全部</button>
+          <button class="filter-btn" onclick="filterHotels('design')">設計文青</button>
+          <button class="filter-btn" onclick="filterHotels('business')">國際商務</button>
+          <button class="filter-btn" onclick="filterHotels('family')">親子推薦</button>
+        </div>
+        
+        <div class="search-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="hotel-search" class="search-input" placeholder="搜尋飯店名稱或特色..." oninput="searchHotels()">
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table id="hotel-table">
+          <thead>
+            <tr>
+              <th style="width: 25%;">飯店名稱 / 類型</th>
+              <th style="width: 15%;">地理位置</th>
+              <th style="width: 30%;">特色重點</th>
+              <th style="width: 12%;">價位區間</th>
+              <th style="width: 8%;">評分</th>
+              <th style="width: 10%;">推薦指數</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr data-category="design" class="hotel-row">
+              <td>
+                <span class="hotel-name">
+                  承億文旅 - 桃城茶樣子
+                  <span class="hotel-tag">設計文青</span>
+                </span>
+              </td>
+              <td>東區 (近嘉義公園)</td>
+              <td>以「茶」為主題的文創設計旅店。頂樓擁有極美的無邊際泳池與酒吧，客房內提供茶香泡湯包。</td>
+              <td>NT$ 3,200 - 6,000</td>
+              <td>
+                <span class="rating-badge">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                  4.7
+                </span>
+              </td>
+              <td class="recommend-index">★★★★★</td>
+            </tr>
+            <tr data-category="design" class="hotel-row">
+              <td>
+                <span class="hotel-name">
+                  嘉義蘭桂坊花園酒店
+                  <span class="hotel-tag">設計文青</span>
+                </span>
+              </td>
+              <td>東區 (文化路夜市旁)</td>
+              <td>地理位置極佳，大廳擺設老闆私人珍藏的檜木古董家具，風格典雅古樸。房間乾淨現代。</td>
+              <td>NT$ 2,500 - 4,500</td>
+              <td>
+                <span class="rating-badge">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                  4.6
+                </span>
+              </td>
+              <td class="recommend-index">★★★★★</td>
+            </tr>
+            <tr data-category="business" class="hotel-row">
+              <td>
+                <span class="hotel-name">
+                  嘉義智選假日酒店
+                  <span class="hotel-tag">國際商務</span>
+                </span>
+              </td>
+              <td>西區 (近嘉義火車站)</td>
+              <td>洲際酒店集團旗下品牌。設施新穎，設計現代化，提供舒適安靜的睡眠環境，並隨附精緻早餐。</td>
+              <td>NT$ 2,800 - 4,800</td>
+              <td>
+                <span class="rating-badge">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                  4.5
+                </span>
+              </td>
+              <td class="recommend-index">★★★★☆</td>
+            </tr>
+            <tr data-category="family" class="hotel-row">
+              <td>
+                <span class="hotel-name">
+                  嘉義亮點旅店
+                  <span class="hotel-tag">親子推薦</span>
+                </span>
+              </td>
+              <td>西區 (近火車站步行5分)</td>
+              <td>融入大量藝術裝置的輕工業風旅店。館內設有兒童專屬遊戲室、戶外溜滑梯，並提供舒適寬敞的四人家庭房。</td>
+              <td>NT$ 2,000 - 3,500</td>
+              <td>
+                <span class="rating-badge">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                  4.3
+                </span>
+              </td>
+              <td class="recommend-index">★★★★☆</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Food Map Section -->
+  <section id="food-map">
+    <div class="container">
+      <h2 class="section-title">必吃美食地圖</h2>
+      <p class="section-subtitle">嘉義是知名的美食之都，點擊地圖上的地標大頭針，或在右側卡片列表點選，即可進行雙向互動與導覽！</p>
+
+      <div class="food-layout">
+        <!-- Map Column -->
+        <div class="map-column" id="map-container">
+          <div class="map-header">
+            <span class="map-title">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              嘉義市區互動地圖
+            </span>
+            <div class="map-legend">
+              <div class="legend-item"><span class="legend-color" style="background-color: #d63031;"></span>必吃主食</div>
+              <div class="legend-item"><span class="legend-color" style="background-color: #e67e22;"></span>火雞肉飯</div>
+              <div class="legend-item"><span class="legend-color" style="background-color: #9b59b6;"></span>甜點飲料</div>
+              <div class="legend-item"><span class="legend-color" style="background-color: #2d6a4f;"></span>經典景點</div>
+            </div>
+          </div>
+          
+          <div class="map-container">
+            <svg class="chiayi-map-svg" viewBox="0 0 600 360">
+              <defs>
+                <pattern id="map-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+                  <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(0,0,0,0.04)" stroke-width="1"/>
+                </pattern>
+              </defs>
+              <rect width="100%" height="100%" fill="var(--map-bg)"/>
+              <rect width="100%" height="100%" fill="url(#map-grid)"/>
+              
+              <!-- Areas and Parks (Background decor) -->
+              <!-- Hinoki Village Area -->
+              <rect x="420" y="40" width="80" height="50" rx="10" fill="var(--accent-light)" opacity="0.6"/>
+              <text x="460" y="68" font-size="9" fill="var(--accent-color)" font-weight="700" text-anchor="middle" pointer-events="none">檜木建築群</text>
+              <!-- Art Museum Area -->
+              <rect x="100" y="195" width="45" height="40" rx="6" fill="var(--accent-light)" opacity="0.6"/>
+              
+              <!-- Major Roads -->
+              <!-- Linsen West/East Road -->
+              <line x1="60" y1="80" x2="540" y2="80" stroke="var(--map-road)" stroke-width="12" stroke-linecap="round"/>
+              <text x="140" y="84" class="road-label" font-size="9" text-anchor="middle">林森西路</text>
+              <text x="490" y="84" class="road-label" font-size="9" text-anchor="middle">林森東路</text>
+              
+              <!-- Zhongshan Road -->
+              <line x1="60" y1="180" x2="540" y2="180" stroke="var(--map-road)" stroke-width="12" stroke-linecap="round"/>
+              <text x="140" y="184" class="road-label" font-size="9" text-anchor="middle">中山路 (往火車站)</text>
+              <text x="470" y="184" class="road-label" font-size="9" text-anchor="middle">中山路</text>
+              
+              <!-- Wenhua Road -->
+              <line x1="260" y1="40" x2="260" y2="320" stroke="var(--map-road)" stroke-width="12" stroke-linecap="round"/>
+              <text x="256" y="120" class="road-label" font-size="9" text-anchor="middle" transform="rotate(-90 256 120)">文化路</text>
+              <text x="256" y="270" class="road-label" font-size="9" font-weight="bold" fill="var(--highlight-color)" text-anchor="middle" transform="rotate(-90 256 270)">文化路夜市商圈</text>
+              
+              <!-- Secondary Streets -->
+              <!-- Guohua Street -->
+              <line x1="200" y1="40" x2="200" y2="320" stroke="var(--map-road)" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+              <!-- Gongrong Street -->
+              <line x1="380" y1="40" x2="380" y2="320" stroke="var(--map-road)" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+              
+              <!-- Roundabout Fountain -->
+              <circle cx="260" cy="180" r="18" fill="var(--map-bg)" stroke="var(--map-road)" stroke-width="6"/>
+              <circle cx="260" cy="180" r="6" fill="var(--highlight-color)" opacity="0.8"/>
+              <text x="260" y="157" font-size="9" font-weight="700" fill="var(--text-primary)" text-anchor="middle">中央噴水圓環</text>
+
+              <!-- Chiayi Train Station Icon -->
+              <g transform="translate(60, 180)">
+                <rect x="-16" y="-12" width="32" height="24" rx="6" fill="#1b4332" stroke="#ffffff" stroke-width="1"/>
+                <text x="0" y="4" font-size="9" fill="#ffffff" font-weight="bold" text-anchor="middle">車站</text>
+              </g>
+
+              <!-- Interactive Pins -->
+              <!-- 1. Smart Fish -->
+              <g class="map-pin pin-food" id="pin-smart-fish" data-id="smart-fish" data-category="must-eat" transform="translate(300, 220)" onclick="selectLocation('smart-fish')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-45" y="-52" width="90" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">林聰明沙鍋魚頭</text>
+                </g>
+              </g>
+
+              <!-- 2. Yu Xiang Wu -->
+              <g class="map-pin pin-dessert" id="pin-yu-xiang-wu" data-id="yu-xiang-wu" data-category="dessert" transform="translate(235, 195)" onclick="selectLocation('yu-xiang-wu')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-40" y="-52" width="80" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">源興御香屋</text>
+                </g>
+              </g>
+
+              <!-- 3. Liu Li Zhang -->
+              <g class="map-pin pin-chicken" id="pin-liu-li-zhang" data-id="liu-li-zhang" data-category="chicken-rice" transform="translate(380, 160)" onclick="selectLocation('liu-li-zhang')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-40" y="-52" width="80" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">劉里長雞肉飯</text>
+                </g>
+              </g>
+
+              <!-- 4. Ar-E Douhua -->
+              <g class="map-pin pin-dessert" id="pin-a-e-douhua" data-id="a-e-douhua" data-category="dessert" transform="translate(280, 260)" onclick="selectLocation('a-e-douhua')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-35" y="-52" width="70" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">阿娥豆花</text>
+                </g>
+              </g>
+
+              <!-- 5. Cat's Tail -->
+              <g class="map-pin pin-dessert" id="pin-cats-tail" data-id="cats-tail" data-category="dessert" transform="translate(400, 120)" onclick="selectLocation('cats-tail')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-40" y="-52" width="80" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">貓尾巴麵包店</text>
+                </g>
+              </g>
+
+              <!-- 6. East Market -->
+              <g class="map-pin pin-food" id="pin-east-market" data-id="east-market" data-category="must-eat" transform="translate(360, 240)" onclick="selectLocation('east-market')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-35" y="-52" width="70" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">東市場美食</text>
+                </g>
+              </g>
+
+              <!-- 7. Art Museum -->
+              <g class="map-pin pin-attraction" id="pin-art-museum" data-id="art-museum" data-category="attraction" transform="translate(120, 215)" onclick="selectLocation('art-museum')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-45" y="-52" width="90" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">嘉義市立美術館</text>
+                </g>
+              </g>
+
+              <!-- 8. Hinoki Village -->
+              <g class="map-pin pin-attraction" id="pin-hinoki-village" data-id="hinoki-village" data-category="attraction" transform="translate(450, 70)" onclick="selectLocation('hinoki-village')">
+                <circle cx="0" cy="0" r="6" class="pin-ripple"/>
+                <g class="pin-marker">
+                  <path d="M 0 0 C -8 -10 -10 -15 -10 -20 C -10 -27 -5 -32 0 -32 C 5 -32 10 -27 10 -20 C 10 -15 8 -10 0 0 Z" class="pin-shape"/>
+                  <circle cx="0" cy="-20" r="3.5" fill="#fff"/>
+                </g>
+                <g class="pin-label-group">
+                  <rect x="-40" y="-52" width="80" height="18" rx="4" class="pin-label-bg"/>
+                  <text x="0" y="-40" class="pin-label-text">檜意森活村</text>
+                </g>
+              </g>
+            </svg>
+          </div>
+        </div>
+
+        <!-- Food List Column -->
+        <div class="food-list-column">
+          <!-- Filters -->
+          <div class="food-filter-tabs">
+            <button class="food-tab-btn active" id="food-tab-all" onclick="filterFood('all')">全部</button>
+            <button class="food-tab-btn" id="food-tab-chicken-rice" onclick="filterFood('chicken-rice')">火雞肉飯</button>
+            <button class="food-tab-btn" id="food-tab-must-eat" onclick="filterFood('must-eat')">經典必吃</button>
+            <button class="food-tab-btn" id="food-tab-dessert" onclick="filterFood('dessert')">甜點飲料</button>
+            <button class="food-tab-btn" id="food-tab-attraction" onclick="filterFood('attraction')">推薦景點</button>
+          </div>
+
+          <!-- Cards Scrollable -->
+          <div class="food-cards-container" id="food-cards-container">
+            
+            <!-- Card 1 -->
+            <div class="food-card" id="card-smart-fish" data-category="must-eat" style="--pin-color: #d63031;" onclick="highlightPinFromCard('smart-fish')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  林聰明沙鍋魚頭
+                  <span class="badge" style="background-color: rgba(214, 48, 49, 0.1); color: #d63031;">經典必吃</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.5
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                熬煮十多個小時的豬大骨濃郁高湯，配上特製沙茶、大白菜、豆腐、扁魚與金黃酥炸的草魚肉。香氣四溢、帶點微辣，是嘉義名聲響亮的代表美食。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>沙鍋菜＋魚肉、冬粉</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區中正路 361 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('smart-fish')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="food-card" id="card-yu-xiang-wu" data-category="dessert" style="--pin-color: #9b59b6;" onclick="highlightPinFromCard('yu-xiang-wu')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  源興御香屋
+                  <span class="badge" style="background-color: rgba(155, 89, 182, 0.1); color: #9b59b6;">甜點飲料</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.7
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                嘉義傳奇排隊飲料店，位於圓環旁。每杯都含有極豐富的紅鑽葡萄柚果肉，搭配優質綠茶與甘甜的梅子，微酸微甜，滋味無比清爽消暑。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>紅鑽葡萄柚綠茶 (半糖少冰加話梅)</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市西區中山路 321 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('yu-xiang-wu')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="food-card" id="card-liu-li-zhang" data-category="chicken-rice" style="--pin-color: #e67e22;" onclick="highlightPinFromCard('liu-li-zhang')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  劉里長火雞肉飯
+                  <span class="badge" style="background-color: rgba(230, 126, 34, 0.1); color: #e67e22;">火雞肉飯</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.3
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                嘉義最負盛名的老字號雞肉飯之一。顆顆分明、熟度適中的Ｑ彈白飯，淋上帶有香濃油蔥酥的特製醬汁，舖上豐滿的火雞肉片，香氣濃郁，口感層次極佳。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>火雞肉片飯 ＋ 半熟荷包蛋</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區公明路 258 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('liu-li-zhang')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="food-card" id="card-a-e-douhua" data-category="dessert" style="--pin-color: #9b59b6;" onclick="highlightPinFromCard('a-e-douhua')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  阿娥豆花
+                  <span class="badge" style="background-color: rgba(155, 89, 182, 0.1); color: #9b59b6;">甜點飲料</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.4
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                延平街上的傳統豆花老攤。打破傳統使用糖水的作法，阿娥是以香濃的「冰豆漿」為湯底，豆花本體綿密軟嫩，入口即化，帶有天然豆香。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>花生豆漿豆花 ＋ 熱油條 (沾著吃最道地)</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區延平街 233 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('a-e-douhua')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="food-card" id="card-cats-tail" data-category="dessert" style="--pin-color: #9b59b6;" onclick="highlightPinFromCard('cats-tail')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  貓尾巴麵包店
+                  <span class="badge" style="background-color: rgba(155, 89, 182, 0.1); color: #9b59b6;">甜點飲料</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.2
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                深受在地人喜愛的西點麵包店。以多達十幾種口味的「爆漿大泡芙」聞名。外皮酥脆香脆，內餡的卡士達鮮奶油冰涼、濃郁卻不甜膩，性價比極高。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>起司泡芙、巧克力泡芙 (下午出爐秒殺)</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區民族路 25 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('cats-tail')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="food-card" id="card-east-market" data-category="must-eat" style="--pin-color: #d63031;" onclick="highlightPinFromCard('east-market')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  東市場百年牛雜湯
+                  <span class="badge" style="background-color: rgba(214, 48, 49, 0.1); color: #d63031;">經典必吃</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.6
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                位於東市場的「王家祖傳牛雜湯」已傳承百年。大鐵鍋中翻滾著新鮮的牛雜，包含牛胃、牛腸、牛心等，湯頭用牛骨精燉，清澈卻無比甘醇鮮甜，且無腥味。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                推薦必點：<span>綜合牛雜湯 (湯頭可免費續加)</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區東市場飲食區 13 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('east-market')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 7 -->
+            <div class="food-card" id="card-art-museum" data-category="attraction" style="--pin-color: #2d6a4f;" onclick="highlightPinFromCard('art-museum')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  嘉義市立美術館
+                  <span class="badge" style="background-color: rgba(45, 106, 79, 0.1); color: #2d6a4f;">經典景點</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.5
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                將昔日古老菸酒公賣局的紅磚立面與具有環保精神的集成材木造、大片採光玻璃帷幕完美拼接。展出眾多本土藝術家之作，並設有美感書店，是嘉義極具文青氣質的靈魂地標。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                必看重點：<span>古典紅磚公賣局歷史大樓、木構挑高中庭</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市西區廣寧街 101 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('art-museum')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+            <!-- Card 8 -->
+            <div class="food-card" id="card-hinoki-village" data-category="attraction" style="--pin-color: #2d6a4f;" onclick="highlightPinFromCard('hinoki-village')">
+              <div class="food-card-header">
+                <h3 class="food-card-title">
+                  檜意森活村
+                  <span class="badge" style="background-color: rgba(45, 106, 79, 0.1); color: #2d6a4f;">經典景點</span>
+                </h3>
+                <div class="food-card-meta">
+                  <span class="rating-badge">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+                    4.4
+                  </span>
+                </div>
+              </div>
+              <div class="food-intro">
+                佔地約3.4公頃的日式木造官舍群。此處在日治時期是阿里山林業開發的員工宿舍，現今活化為大型文創聚落。庭院、木造平房、枯山水景觀，流露悠閒的日本京都風情。
+              </div>
+              <div class="food-recommend">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                必看重點：<span>檜町和服體驗、皇家官舍舊址、特色茶舖</span>
+              </div>
+              <div class="food-address">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                地址：嘉義市東區林森東路 382 號
+              </div>
+              <button class="food-card-action" onclick="event.stopPropagation(); selectLocation('hinoki-village')">
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                在地圖中定位
+              </button>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section id="faq">
+    <div class="container">
+      <h2 class="section-title">常見問答 FAQ</h2>
+      <p class="section-subtitle">為你整理旅人前往嘉義最常遇到的交通、美食與行程安排疑問，一次解開困惑！</p>
+
+      <div class="faq-wrapper">
+        <!-- FAQ 1 -->
+        <div class="faq-card" onclick="toggleFaq(this)">
+          <div class="faq-question">
+            <span class="faq-question-text">
+              <span class="faq-icon-q">Q</span>
+              嘉義市區交通推薦什麼方式？
+            </span>
+            <svg class="faq-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </div>
+          <div class="faq-answer">
+            嘉義市區景點距離都相當近（多在方圓3公里內），<strong>租借機車</strong>是機動性最高、最方便停車的首選。此外，嘉義市內建置了非常密集的 <strong>YouBike 2.0</strong> 租借站，搭配騎乘亦是綠色漫遊的絕佳管道。若開車前往，要注意假日熱門景點（如文化路夜市、檜意森活村）周邊路邊車位較難找，建議先將愛車停放在外圍的大型停車場後再步行或租車前行。
+          </div>
+        </div>
+
+        <!-- FAQ 2 -->
+        <div class="faq-card" onclick="toggleFaq(this)">
+          <div class="faq-question">
+            <span class="faq-question-text">
+              <span class="faq-icon-q">Q</span>
+              嘉義火雞肉飯那麼多，到底哪一家最好吃？
+            </span>
+            <svg class="faq-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </div>
+          <div class="faq-answer">
+            嘉義的火雞肉飯百家爭鳴，且各具特色！例如<strong>「劉里長」</strong>醬汁帶有鹹甜油蔥酥香；<strong>「阿溪」</strong>油香滿溢，限量雞片飯更是秒殺；<strong>「阿宏師」</strong>肉質軟嫩，醬油香氣鮮美；<strong>「和平老店」</strong>價格平實、肉汁飽滿，深得在地人喜愛。建議可以跟旅伴多點幾家小份分食，找到自己心目中最完美的靈魂風味！
+          </div>
+        </div>
+
+        <!-- FAQ 3 -->
+        <div class="faq-card" onclick="toggleFaq(this)">
+          <div class="faq-question">
+            <span class="faq-question-text">
+              <span class="faq-icon-q">Q</span>
+              兩天一夜的時間，足夠順便去阿里山嗎？
+            </span>
+            <svg class="faq-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </div>
+          <div class="faq-answer">
+            如果是以「阿里山國家森林遊樂區」為目標，兩天一夜行程會<strong>非常緊湊</strong>。從嘉義市區開車或搭乘阿里山林鐵前往園區，單程都需要 2 ~ 2.5 小時，扣除往返路程，留在山上的時間所剩無幾。因此，建議兩天一夜的行程專注於「嘉義市區與近郊小旅行」（如本次規劃）；若要規劃阿里山，建議至少安排<strong>三天兩夜</strong>，或挑選一天報名專車接送的一日遊行程，才能玩得深入又安全。
+          </div>
+        </div>
+
+        <!-- FAQ 4 -->
+        <div class="faq-card" onclick="toggleFaq(this)">
+          <div class="faq-question">
+            <span class="faq-question-text">
+              <span class="faq-icon-q">Q</span>
+              嘉義有哪些必買的伴手禮？
+            </span>
+            <svg class="faq-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </div>
+          <div class="faq-answer">
+            除了帶回滿滿的美食回憶，嘉義的代表伴手禮有：<strong>「福義軒」</strong>手工蛋捲與博餅（建議前往檜意森活村門市或本店選購）、<strong>「林聰明」</strong>砂鍋魚頭冷凍包與拌麵、老字號<strong>「恩典酥」</strong>、<strong>「貓尾巴」</strong>的各式美味小點，以及位於檜意森活村內販售的阿里山高山茶茶禮盒與在地文創商品，都很適合帶回去送給親友喔。
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer-links">
+        <a href="#itinerary">行程規劃</a>
+        <a href="#accommodation">住宿推薦</a>
+        <a href="#food-map">必吃美食</a>
+        <a href="#faq">常見問答</a>
+      </div>
+      <div class="footer-divider"></div>
+      <div class="copyright">
+        <p>© 2026 嘉義兩天一夜輕旅行攻略。保留所有權利。</p>
+        <p style="font-size: 0.8rem; opacity: 0.6; margin-top: 0.25rem;">精心打造以提供最佳文青旅行美學指南</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Navigation highlighting on scroll
+    window.addEventListener('scroll', () => {
+      const sections = document.querySelectorAll('section');
+      const navLinks = document.querySelectorAll('.nav-links a');
+      
+      let currentSectionId = '';
+      sections.forEach(section => {
+        const sectionTop = section.offsetTop - 100;
+        if (window.scrollY >= sectionTop) {
+          currentSectionId = section.getAttribute('id');
+        }
+      });
+
+      navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href') === `#${currentSectionId}`) {
+          link.classList.add('active');
+        }
+      });
+    });
+
+    // Dark Mode Toggle Logic
+    function toggleTheme() {
+      const body = document.body;
+      const isDark = body.classList.toggle('dark-theme');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      updateThemeIcon(isDark);
+    }
+
+    function updateThemeIcon(isDark) {
+      const sunIcon = document.getElementById('theme-sun-icon');
+      const moonIcon = document.getElementById('theme-moon-icon');
+      if (isDark) {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'block';
+      } else {
+        sunIcon.style.display = 'block';
+        moonIcon.style.display = 'none';
+      }
+    }
+
+    // Set initial theme on load
+    window.addEventListener('DOMContentLoaded', () => {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark') {
+        document.body.classList.add('dark-theme');
+        updateThemeIcon(true);
+      } else {
+        updateThemeIcon(false);
+      }
+    });
+
+    // Switch Itinerary Day Tab
+    function switchDay(day) {
+      const btn1 = document.getElementById('btn-day-1');
+      const btn2 = document.getElementById('btn-day-2');
+      const tl1 = document.getElementById('timeline-day-1');
+      const tl2 = document.getElementById('timeline-day-2');
+
+      if (day === 1) {
+        btn1.classList.add('active');
+        btn2.classList.remove('active');
+        tl1.style.display = 'block';
+        tl2.style.display = 'none';
+      } else {
+        btn1.classList.remove('active');
+        btn2.classList.add('active');
+        tl1.style.display = 'none';
+        tl2.style.display = 'block';
+      }
+    }
+
+    // Hotel Filters
+    function filterHotels(category) {
+      // Update filter buttons active state
+      const buttons = document.querySelectorAll('.hotel-filters .filter-btn');
+      buttons.forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      const rows = document.querySelectorAll('.hotel-row');
+      rows.forEach(row => {
+        if (category === 'all' || row.dataset.category === category) {
+          row.classList.remove('hidden');
+        } else {
+          row.classList.add('hidden');
+        }
+      });
+      // Clear search when switching tabs to avoid confusion
+      document.getElementById('hotel-search').value = '';
+    }
+
+    // Hotel Search
+    function searchHotels() {
+      const query = document.getElementById('hotel-search').value.toLowerCase();
+      const rows = document.querySelectorAll('.hotel-row');
+      
+      // Deactivate specific tab filters when searching
+      const buttons = document.querySelectorAll('.hotel-filters .filter-btn');
+      buttons.forEach(btn => {
+        if(btn.textContent.includes('全部')) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+
+      rows.forEach(row => {
+        const text = row.textContent.toLowerCase();
+        if (text.includes(query)) {
+          row.classList.remove('hidden');
+        } else {
+          row.classList.add('hidden');
+        }
+      });
+    }
+
+    // Interactive Food Map Logic
+    function selectLocation(id) {
+      // 1. Deactivate all pins
+      document.querySelectorAll('.map-pin').forEach(pin => pin.classList.remove('active'));
+      
+      // 2. Activate selected pin
+      const pin = document.getElementById(`pin-${id}`);
+      if (pin) {
+        pin.classList.add('active');
+        // Bring active pin to front by appending it to container
+        pin.parentNode.appendChild(pin);
+      }
+      
+      // 3. Highlight corresponding card
+      document.querySelectorAll('.food-card').forEach(card => card.classList.remove('card-highlight'));
+      const card = document.getElementById(`card-${id}`);
+      if (card) {
+        card.classList.add('card-highlight');
+        // Scroll card into view
+        card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    function highlightPinFromCard(id) {
+      // 1. Deactivate all pins
+      document.querySelectorAll('.map-pin').forEach(pin => pin.classList.remove('active'));
+      
+      // 2. Activate selected pin
+      const pin = document.getElementById(`pin-${id}`);
+      if (pin) {
+        pin.classList.add('active');
+        pin.parentNode.appendChild(pin);
+        
+        // If on mobile (screen width < 992px), scroll up to the map so user can see it
+        if (window.innerWidth < 992) {
+          document.getElementById('map-container').scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }
+
+    // Food Category Filtering
+    function filterFood(category) {
+      // Update food filter buttons active state
+      const buttons = document.querySelectorAll('.food-tab-btn');
+      buttons.forEach(btn => btn.classList.remove('active'));
+      document.getElementById(`food-tab-${category}`).classList.add('active');
+
+      const cards = document.querySelectorAll('.food-card');
+      const pins = document.querySelectorAll('.map-pin');
+
+      cards.forEach(card => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = 'grid';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      pins.forEach(pin => {
+        if (category === 'all' || pin.dataset.category === category) {
+          pin.classList.remove('filtered-out');
+        } else {
+          pin.classList.add('filtered-out');
+          pin.classList.remove('active'); // deactivate filtered out pins
+        }
+      });
+    }
+
+    // FAQ Accordion Toggle
+    function toggleFaq(card) {
+      const isOpen = card.classList.contains('open');
+      
+      // Close all other FAQs first for accordion behavior
+      document.querySelectorAll('.faq-card').forEach(item => {
+        item.classList.remove('open');
+      });
+
+      if (!isOpen) {
+        card.classList.add('open');
+      }
+    }
+  </script>
+</body>
+</html>
