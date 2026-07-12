@@ -69,7 +69,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-tag.michelin{background:#fff9c4;color:#b71c1c;border:1px solid #fbc02d;font-weight:600;}
 .food-cat-btn.popular-filter{background:#ff6f00;color:#fff;border-color:#ff6f00;}
 .food-cat-btn.michelin-filter{background:#b71c1c;color:#fff;border-color:#b71c1c;}
-.food-cat-btn.foot-filter{background:#00897b;color:#fff;border-color:#00897b;}
+.food-tag.footsoak{background:#e0f2f1;color:#00695c;border:1px solid #00897b;}
 
 .stay-card{background:#fff;border-radius:12px;padding:14px;margin-bottom:10px;box-shadow:0 2px 6px rgba(0,0,0,.04);border-left:3px solid #4caf50;display:flex;align-items:flex-start;gap:10px;}
 .stay-card .stay-info{flex:1;min-width:0;}
@@ -78438,7 +78438,7 @@ function renderTab(routes,food,stay,spots,indoor,souvenirs){
     food.forEach(f=>{(f.categories||['其他']).forEach(c=>allCats.add(c))});
     const catList = Array.from(allCats);
     // Category filter bar
-    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button><button class="food-cat-btn foot-filter" onclick="filterFootSoak(this)">🦶 泡腳咖啡</button>';
+    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button>';
     catList.forEach(c=>{
       catBar += `<button class="food-cat-btn" onclick="filterFood(this,'${c}')">${c}</button>`;
     });
@@ -78467,16 +78467,18 @@ function renderTab(routes,food,stay,spots,indoor,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
-        const michelinTag = f.michelin === 'bib' ? '<span class="food-tag michelin">👩‍🍳 必比登</span>' : '';
-        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${f.michelin==='bib'?1:0}" data-footsoak="${(f.description||'').includes('泡腳')||(f.name||'').includes('泡腳')?1:0}">
-          <div class="icon">🍴</div>
-          <div class="info">
-            <div class="name">${f.name}${ratingHtml}</div>
-            <div class="food-tags">${michelinTag}${popularTag}${cats}</div>
-            ${f.description?`<div class="desc">${f.description}</div>`:''}
-          </div>
-          <a class="glink" href="${link}" target="_blank">📍 導航</a>
-        </div>`;
+        const michelinTag = f.michelin === 'bib' ? '\u003cspan class="food-tag michelin"\u003e\ud83d\udc69\u200d\ud83c\udf73 \u5fc5\u6bd4\u767b\u003c/span\u003e' : '';
+        const isFootSoak = (f.description||'').includes('\u6ce1\u8173')||(f.name||'').includes('\u6ce1\u8173');
+        const footSoakTag = isFootSoak ? '\u003cspan class="food-tag footsoak"\u003e\ud83e\uddb6 \u6ce1\u8173\u5496\u5561\u003c/span\u003e' : '';
+        return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${f.michelin==='bib'?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
+          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
+          \u003cdiv class="info"\u003e
+            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e
+            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${cats}\u003c/div\u003e
+            ${f.description?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
+          \u003c/div\u003e
+          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
+        \u003c/div\u003e`;
       }).join('');
       return `<div class="area-group">
         <div class="area-header" onclick="toggleArea('${id}')">
