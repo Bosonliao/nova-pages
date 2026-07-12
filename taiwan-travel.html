@@ -211,16 +211,17 @@ function render(){
       <input class="search-bar" placeholder="搜尋景點、美食..." oninput="filterSearch(this.value)">
       <div class="tabs">
         <div class="tab ${currentTab==='routes'?'active':''}" onclick="selectTab('routes')">🛣️ 路線 (${routes.length})</div>
+        <div class="tab ${currentTab==='spots'?'active':''}" onclick="selectTab('spots')">📸 景點 (${(d.spots||[]).length})</div>
         <div class="tab ${currentTab==='food'?'active':''}" onclick="selectTab('food')">🍜 美食 (${food.length})</div>
         <div class="tab ${currentTab==='stay'?'active':''}" onclick="selectTab('stay')">🏨 住宿 (${stay.length})</div>
       </div>
-      <div id="tab-content">${renderTab(routes,food,stay)}</div>
+      <div id="tab-content">${renderTab(routes,food,stay,d.spots||[])}</div>
     </div>
   `;
   document.getElementById('content').innerHTML = html;
 }
 
-function renderTab(routes,food,stay){
+function renderTab(routes,food,stay,spots){
   if(currentTab==='routes'){
     if(!routes.length) return '<p style="color:#999;padding:20px;">尚無路線資料</p>';
     return routes.map((r,i)=>{
@@ -279,6 +280,38 @@ function renderTab(routes,food,stay){
       </div>`;
     }).join('');
   }
+  if(currentTab==='spots'){
+    if(!spots.length) return '<p style="color:#999;padding:20px;">尚無景點資料</p>';
+    const groups = {};
+    spots.forEach(s=>{
+      const area = s.area || '其他';
+      if(!groups[area]) groups[area] = [];
+      groups[area].push(s);
+    });
+    return Object.keys(groups).map(area=>{
+      const items = groups[area];
+      const id = 'spot-area-' + area.replace(/[^a-zA-Z0-9]/g,'');
+      const cards = items.map(s=>{
+        const link = gmapLink(s.name, currentCounty + ' ' + area);
+        return `<div class="food-card">
+          <div class="icon">📸</div>
+          <div class="info">
+            <div class="name">${s.name}</div>
+            ${s.description?`<div class="desc">${s.description}</div>`:''}
+          </div>
+          <a class="glink" href="${link}" target="_blank">📍 導航</a>
+        </div>`;
+      }).join('');
+      return `<div class="area-group">
+        <div class="area-header" onclick="toggleArea('${id}')">
+          <span class="area-arrow" id="arrow-${id}">▼</span>
+          <span class="area-title">📍 ${area}</span>
+          <span class="area-count">${items.length} 個</span>
+        </div>
+        <div class="area-body" id="${id}">${cards}</div>
+      </div>`;
+    }).join('');
+  }
   if(currentTab==='stay'){
     if(!stay.length) return '<p style="color:#999;padding:20px;">尚無住宿資料</p>';
     return stay.map(s=>{
@@ -298,13 +331,14 @@ function renderTab(routes,food,stay){
 function filterSearch(q){
   q = q.toLowerCase().trim();
   const d = DATA[currentCounty];
-  let routes = d.routes||[], food = d.food||[], stay = d.stay||[];
+  let routes = d.routes||[], food = d.food||[], stay = d.stay||[], spots = d.spots||[];
   if(q){
     routes = routes.filter(r=>(r.name||'').toLowerCase().includes(q)||(r.stops||[]).join(' ').toLowerCase().includes(q));
     food = food.filter(f=>(f.name||'').toLowerCase().includes(q)||(f.description||'').toLowerCase().includes(q));
     stay = stay.filter(s=>(s.name||'').toLowerCase().includes(q)||(s.description||'').toLowerCase().includes(q));
+    spots = spots.filter(s=>(s.name||'').toLowerCase().includes(q));
   }
-  document.getElementById('tab-content').innerHTML = renderTab(routes,food,stay);
+  document.getElementById('tab-content').innerHTML = renderTab(routes,food,stay,spots);
 }
 
 ORDER.forEach(c=>{
