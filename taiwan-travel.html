@@ -66,7 +66,9 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:3px;}
 .food-tag{font-size:10px;background:#f5f5f5;color:#888;border-radius:4px;padding:1px 6px;}
 .food-tag.popular{background:#fff3e0;color:#e65100;border:1px solid #ffb74d;}
+.food-tag.michelin{background:#fff9c4;color:#b71c1c;border:1px solid #fbc02d;font-weight:600;}
 .food-cat-btn.popular-filter{background:#ff6f00;color:#fff;border-color:#ff6f00;}
+.food-cat-btn.michelin-filter{background:#b71c1c;color:#fff;border-color:#b71c1c;}
 
 .stay-card{background:#fff;border-radius:12px;padding:14px;margin-bottom:10px;box-shadow:0 2px 6px rgba(0,0,0,.04);border-left:3px solid #4caf50;display:flex;align-items:flex-start;gap:10px;}
 .stay-card .stay-info{flex:1;min-width:0;}
@@ -1016,7 +1018,8 @@ const DATA = {
         "reviews": 388,
         "categories": [
           "飲品/茶咖啡"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "青嬌膠原麵館",
@@ -1172,7 +1175,8 @@ const DATA = {
         "reviews": 11467,
         "categories": [
           "其他"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "滿來溫泉拉麵",
@@ -1411,7 +1415,8 @@ const DATA = {
         "reviews": 13097,
         "categories": [
           "麵食"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "北投矮仔財滷肉飯",
@@ -4688,7 +4693,8 @@ const DATA = {
           "米食",
           "麵食",
           "中式/台菜"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "竹蓮什錦麵",
@@ -4824,7 +4830,8 @@ const DATA = {
         "categories": [
           "麵食",
           "中式/台菜"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "內灣戲院人文客家餐廳",
@@ -13282,7 +13289,8 @@ const DATA = {
         "reviews": 6239,
         "categories": [
           "其他"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "駁二大禮市場雞排",
@@ -13304,7 +13312,8 @@ const DATA = {
         "categories": [
           "米食",
           "中式/台菜"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "左營果貿吳媽媽雞絲麵",
@@ -13375,7 +13384,8 @@ const DATA = {
         "reviews": 6047,
         "categories": [
           "中式/台菜"
-        ]
+        ],
+        "michelin": "bib"
       },
       {
         "name": "岡山豆瓣醬",
@@ -18334,6 +18344,26 @@ function filterPopular(btn){
   });
 }
 
+function filterMichelin(btn){
+  document.querySelectorAll('.food-cat-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.food-card').forEach(card=>{
+    if(card.dataset.michelin === '1'){
+      card.style.display = '';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+  document.querySelectorAll('.area-group').forEach(group=>{
+    const visible = group.querySelectorAll('.food-card:not([style*="display: none"])');
+    if(visible.length === 0){
+      group.style.display = 'none';
+    } else {
+      group.style.display = '';
+    }
+  });
+}
+
 function render(){
   const d = DATA[currentCounty];
   const routes = d.routes||[];
@@ -18399,7 +18429,7 @@ function renderTab(routes,food,stay,spots,indoor,cafes,souvenirs){
     food.forEach(f=>{(f.categories||['其他']).forEach(c=>allCats.add(c))});
     const catList = Array.from(allCats);
     // Category filter bar
-    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button><button class="food-cat-btn popular-filter" onclick="filterPopular(this)">🔥 人氣美食</button>';
+    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button><button class="food-cat-btn michelin-filter" onclick="filterMichelin(this)">👩‍🍳 必比登</button><button class="food-cat-btn popular-filter" onclick="filterPopular(this)">🔥 人氣美食</button>';
     catList.forEach(c=>{
       catBar += `<button class="food-cat-btn" onclick="filterFood(this,'${c}')">${c}</button>`;
     });
@@ -18428,11 +18458,12 @@ function renderTab(routes,food,stay,spots,indoor,cafes,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
-        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}">
+        const michelinTag = f.michelin === 'bib' ? '<span class="food-tag michelin">👩‍🍳 必比登</span>' : '';
+        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${f.michelin==='bib'?1:0}">
           <div class="icon">🍴</div>
           <div class="info">
             <div class="name">${f.name}${ratingHtml}</div>
-            <div class="food-tags">${popularTag}${cats}</div>
+            <div class="food-tags">${michelinTag}${popularTag}${cats}</div>
             ${f.description?`<div class="desc">${f.description}</div>`:''}
           </div>
           <a class="glink" href="${link}" target="_blank">📍 導航</a>
