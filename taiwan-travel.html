@@ -37762,7 +37762,7 @@ function renderTab(routes,food,stay,spots,indoor,souvenirs){
     food.forEach(f=>{(f.categories||['其他']).forEach(c=>allCats.add(c))});
     const catList = Array.from(allCats);
     // Category filter bar
-    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button><button class="food-cat-btn michelin-filter" onclick="filterMichelin(this)">👩‍🍳 必比登</button><button class="food-cat-btn popular-filter" onclick="filterPopular(this)">🔥 人氣美食</button><button class="food-cat-btn foot-filter" onclick="filterFootSoak(this)">🦶 泡腳咖啡</button>';
+    let catBar = '<div class="food-cat-bar"><button class="food-cat-btn active" onclick="filterFood(this,\'\')">全部</button><button class="food-cat-btn foot-filter" onclick="filterFootSoak(this)">🦶 泡腳咖啡</button>';
     catList.forEach(c=>{
       catBar += `<button class="food-cat-btn" onclick="filterFood(this,'${c}')">${c}</button>`;
     });
