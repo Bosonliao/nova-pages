@@ -136,7 +136,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
     <div class="sub">全台景點 · 美食 · 住宿</div>
   </div>
   <div class="nav-section">北部</div>
-<div class="nav-item" data-county="基隆" onclick="selectCounty('基隆')"><span>基隆</span><span class="badge" id="badge-基隆"></span></div><div class="nav-item" data-county="雙北" onclick="selectCounty('雙北')"><span>雙北</span><span class="badge" id="badge-雙北"></span></div><div class="nav-item" data-county="宜蘭" onclick="selectCounty('宜蘭')"><span>宜蘭</span><span class="badge" id="badge-宜蘭"></span></div><div class="nav-item" data-county="桃園" onclick="selectCounty('桃園')"><span>桃園</span><span class="badge" id="badge-桃園"></span></div><div class="nav-item" data-county="新竹" onclick="selectCounty('新竹')"><span>新竹</span><span class="badge" id="badge-新竹"></span></div><div class="nav-item" data-county="苗栗" onclick="selectCounty('苗栗')"><span>苗栗</span><span class="badge" id="badge-苗栗"></span></div>
+<div class="nav-item" data-county="基隆" onclick="selectCounty('基隆')"><span>基隆</span><span class="badge" id="badge-基隆"></span></div><div class="nav-item" data-county="台北" onclick="selectCounty('台北')"><span>台北</span><span class="badge" id="badge-台北"></span></div><div class="nav-item" data-county="新北" onclick="selectCounty('新北')"><span>新北</span><span class="badge" id="badge-新北"></span></div><div class="nav-item" data-county="宜蘭" onclick="selectCounty('宜蘭')"><span>宜蘭</span><span class="badge" id="badge-宜蘭"></span></div><div class="nav-item" data-county="桃園" onclick="selectCounty('桃園')"><span>桃園</span><span class="badge" id="badge-桃園"></span></div><div class="nav-item" data-county="新竹" onclick="selectCounty('新竹')"><span>新竹</span><span class="badge" id="badge-新竹"></span></div><div class="nav-item" data-county="苗栗" onclick="selectCounty('苗栗')"><span>苗栗</span><span class="badge" id="badge-苗栗"></span></div>
   <div class="nav-section">中部</div>
 <div class="nav-item" data-county="台中" onclick="selectCounty('台中')"><span>台中</span><span class="badge" id="badge-台中"></span></div><div class="nav-item" data-county="南投" onclick="selectCounty('南投')"><span>南投</span><span class="badge" id="badge-南投"></span></div><div class="nav-item" data-county="彰化" onclick="selectCounty('彰化')"><span>彰化</span><span class="badge" id="badge-彰化"></span></div><div class="nav-item" data-county="雲林" onclick="selectCounty('雲林')"><span>雲林</span><span class="badge" id="badge-雲林"></span></div><div class="nav-item" data-county="嘉義" onclick="selectCounty('嘉義')"><span>嘉義</span><span class="badge" id="badge-嘉義"></span></div><div class="nav-item" data-county="台南" onclick="selectCounty('台南')"><span>台南</span><span class="badge" id="badge-台南"></span></div>
   <div class="nav-section">南部</div>
@@ -727,7 +727,7 @@ const DATA = {
       }
     ]
   },
-  "雙北": {
+  "台北": {
     "routes": [
       {
         "name": "台北最經典101一日遊",
@@ -841,18 +841,6 @@ const DATA = {
           "烏來溫泉泡湯"
         ],
         "description": "新北景點"
-      },
-      {
-        "name": "九份一日遊",
-        "stops": [
-          "陰陽海",
-          "黃金瀑布",
-          "黃金博物館",
-          "不厭亭",
-          "九份老街",
-          "九份住一晚"
-        ],
-        "description": "新北景點，黃金山城"
       },
       {
         "name": "淡水一日遊",
@@ -973,80 +961,6 @@ const DATA = {
         ]
       },
       {
-        "name": "吳記北平餡餅",
-        "description": "新莊超人氣餡餅店，半煎炸方式現點現包，開店預約排到3小時後",
-        "area": "板橋",
-        "rating": 4.4,
-        "reviews": 357,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "金合和糕餅",
-        "description": "新莊廟街百年老店傳承四代，台式貝果鹹光餅9點出爐就搶光",
-        "area": "板橋",
-        "rating": 4.5,
-        "reviews": 436,
-        "categories": [
-          "早餐/早午餐",
-          "中式/台菜"
-        ]
-      },
-      {
-        "name": "熊越岳拉麵",
-        "description": "新莊最強拉麵，淡麗系醬油拉麵清爽如山巖藍天",
-        "area": "板橋",
-        "rating": 4.6,
-        "reviews": 3158,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "板橋汕頭牛肉麵",
-        "description": "板橋60年汕頭牛肉麵，清燉湯頭鮮甜，牛肉軟嫩",
-        "area": "板橋",
-        "rating": 4.8,
-        "reviews": 377,
-        "categories": [
-          "麵食",
-          "中式/台菜"
-        ]
-      },
-      {
-        "name": "三重今大滷肉飯",
-        "description": "三重最強滷肉飯，肥瘦相間肉燥香濃，配筍絲排骨湯",
-        "area": "三重/蘆洲",
-        "rating": 4.3,
-        "reviews": 17925,
-        "categories": [
-          "米食"
-        ]
-      },
-      {
-        "name": "霸天薑母鴨",
-        "description": "淡水必吃羊肉爐加薑母鴨，食尚玩家推薦暖胃美食",
-        "area": "淡水",
-        "rating": 4,
-        "reviews": 147,
-        "categories": [
-          "火鍋",
-          "中式/台菜"
-        ]
-      },
-      {
-        "name": "九份阿妹茶樓",
-        "description": "九份老街最具代表性茶樓，俯瞰山城海景，芋圓茶飲必點",
-        "area": "九份",
-        "rating": 4,
-        "reviews": 5878,
-        "categories": [
-          "甜品/冰品",
-          "飲品/茶咖啡"
-        ]
-      },
-      {
         "name": "士林夜市大餅包小餅",
         "description": "士林夜市經典小吃，酥脆餅皮包入各式餡料，排隊必買",
         "area": "士林/北投",
@@ -1087,78 +1001,6 @@ const DATA = {
         "categories": [
           "麵食",
           "中式/台菜"
-        ]
-      },
-      {
-        "name": "老牌阿給",
-        "description": "淡水阿給創始老店，50年歷史，油豆腐塞冬粉以魚漿封口，淋上獨門香辣醬，真理街上必吃",
-        "area": "淡水",
-        "rating": 4.2,
-        "reviews": 3762,
-        "categories": [
-          "其他"
-        ]
-      },
-      {
-        "name": "淡水老牌可口魚丸",
-        "description": "淡水老街馬偕銅像旁，綜合湯加肉包一套50元，肉包內餡鮮肉搭配魚丸湯超划算",
-        "area": "淡水",
-        "rating": 4,
-        "reviews": 2251,
-        "categories": [
-          "其他"
-        ]
-      },
-      {
-        "name": "阿香魩仔魚烤鳥蛋",
-        "description": "淡水老街中後段排隊名攤，主打保證魩仔魚的烤鳥蛋，一口一個鮮香",
-        "area": "淡水",
-        "rating": 4.4,
-        "reviews": 186,
-        "categories": [
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "福哥石頭餅",
-        "description": "淡水英專路清水街古早味，印尼貴族點心50款口味混搭，均一價30元現點現做",
-        "area": "淡水",
-        "rating": 4.6,
-        "reviews": 906,
-        "categories": [
-          "其他"
-        ]
-      },
-      {
-        "name": "三重阿田油飯",
-        "description": "三重在地人早午餐，傳承交棒女兒復活回歸，早上7點就大排長龍，每人限購3斤",
-        "area": "三重/蘆洲",
-        "rating": 4,
-        "reviews": 1258,
-        "categories": [
-          "米食",
-          "早餐/早午餐"
-        ]
-      },
-      {
-        "name": "蘆洲樂福麵線",
-        "description": "蘆洲長安街巷弄隱藏版美食，鮮蚵大腸雞丁綜合口味，獨家特調蒜泥醬超特別，早上七點就開",
-        "area": "三重/蘆洲",
-        "rating": 4.8,
-        "reviews": 790,
-        "categories": [
-          "麵食",
-          "海鮮"
-        ]
-      },
-      {
-        "name": "三重陳記蔥油餅",
-        "description": "文化北路平價排隊蔥油餅，一份20元加蛋25元，外酥內Q蔥香滿溢，捷運三重國小站旁",
-        "area": "三重/蘆洲",
-        "rating": 4.3,
-        "reviews": 442,
-        "categories": [
-          "麵食"
         ]
       },
       {
@@ -1308,183 +1150,6 @@ const DATA = {
           "小吃/夜市",
           "飲品/茶咖啡",
           "中式/台菜"
-        ]
-      },
-      {
-        "name": "板橋高記生炒鱔魚",
-        "description": "板橋黃石市場必吃，生炒鱔魚意麵鑊氣十足，鱔魚脆甜搭配酸甜醬汁超開胃",
-        "area": "板橋",
-        "rating": 4.2,
-        "reviews": 5873,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "新店碧潭臭豆腐",
-        "description": "新店碧潭周邊臭豆腐外酥內嫩配自製泡菜碧潭散步必吃",
-        "area": "新店",
-        "rating": 4.7,
-        "reviews": 108,
-        "categories": [
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "新店牛肉麵",
-        "description": "新店建國路上牛肉麵店紅燒湯頭濃郁牛肉軟嫩在地老店",
-        "area": "新店",
-        "rating": 4.7,
-        "reviews": 206,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "新店安坑客家麵",
-        "description": "新店安坑客家聚落客家粄條炒麵福菜湯客家道地味",
-        "area": "新店",
-        "rating": 4,
-        "reviews": 150,
-        "categories": [
-          "麵食",
-          "中式/台菜"
-        ]
-      },
-      {
-        "name": "新店烏來溫泉區山產",
-        "description": "新店烏來溫泉區原民風味餐烤山豬肉馬告雞湯泡湯後必吃",
-        "area": "新店",
-        "rating": 4.3,
-        "reviews": 1156,
-        "categories": [
-          "其他"
-        ]
-      },
-      {
-        "name": "新店七張小吃",
-        "description": "新店七張站周邊小吃攤肉燥飯碗粿羹湯古早味集中地",
-        "area": "新店",
-        "rating": 4.3,
-        "reviews": 3797,
-        "categories": [
-          "米食",
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "三峽金牛角",
-        "description": "三峽必買伴手禮金牛角奶油麵包外酥內軟牛角造型超可愛",
-        "area": "三峽/鶯歌",
-        "rating": 4,
-        "reviews": 1610,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "三峽老街小吃",
-        "description": "三峽老街周邊傳統小吃攤肉圓米糕羹湯古早味集中地",
-        "area": "三峽/鶯歌",
-        "rating": 4.5,
-        "reviews": 480,
-        "categories": [
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "鶯歌陶瓷老街麵線",
-        "description": "鶯歌陶瓷老街周邊麵線攤大腸蚵仔麵線料多實在銅板價",
-        "area": "三峽/鶯歌",
-        "rating": 4.2,
-        "reviews": 26539,
-        "categories": [
-          "麵食",
-          "海鮮",
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "鶯歌阿婆壽司",
-        "description": "鶯歌老街人氣壽司店平價握壽司配味噌湯古早味必吃",
-        "area": "三峽/鶯歌",
-        "rating": 4.1,
-        "reviews": 21790,
-        "categories": [
-          "日式"
-        ]
-      },
-      {
-        "name": "三峽鶯歌交界烤肉",
-        "description": "三峽鶯歌交界處烤肉店現烤肉串配啤酒宵夜熱點",
-        "area": "三峽/鶯歌",
-        "rating": 4.4,
-        "reviews": 141,
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "新莊蓮花泰式小吃店",
-        "description": "新莊頭前庄站平價泰式料理天花板月亮蝦餅椒麻雞打拋豬Google 4.3星",
-        "area": "新莊/五股",
-        "rating": 4.2,
-        "reviews": 2702,
-        "categories": [
-          "海鮮",
-          "異國料理"
-        ]
-      },
-      {
-        "name": "新莊牛肉麵",
-        "description": "新莊在地牛肉麵店紅燒湯頭濃郁牛肉軟嫩配酸菜小菜",
-        "area": "新莊/五股",
-        "rating": 4.8,
-        "reviews": 587,
-        "categories": [
-          "麵食"
-        ]
-      },
-      {
-        "name": "五股工業區便當街",
-        "description": "五股工業區周邊便當一條街勞工美食CP值高份量大選擇多",
-        "area": "新莊/五股",
-        "rating": 4.5,
-        "reviews": 373,
-        "categories": [
-          "米食"
-        ]
-      },
-      {
-        "name": "五股觀音山土雞城",
-        "description": "五股觀音山周邊土雞城放山雞炒野菜景觀用餐健行後必吃",
-        "area": "新莊/五股",
-        "rating": 4,
-        "reviews": 1030,
-        "categories": [
-          "其他"
-        ]
-      },
-      {
-        "name": "林口長庚醫院周邊小吃",
-        "description": "林口長庚醫院周邊小吃攤肉燥飯麵食羹湯學生和醫護愛店",
-        "area": "林口/泰山",
-        "rating": 4.6,
-        "reviews": 500,
-        "categories": [
-          "米食",
-          "麵食",
-          "小吃/夜市"
-        ]
-      },
-      {
-        "name": "泰山夜市小吃",
-        "description": "泰山夜市多樣小吃攤臭豆腐烤肉串地瓜球銅板美食",
-        "area": "林口/泰山",
-        "rating": 4.1,
-        "reviews": 4479,
-        "categories": [
-          "小吃/夜市"
         ]
       },
       {
@@ -1867,168 +1532,6 @@ const DATA = {
         "categories": [
           "小吃/夜市",
           "麵食"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "阿爸の芋圓",
-        "description": "招牌芋見泥蔗片冰，結合芋泥、芋圓、湯圓與甘蔗冰",
-        "area": "板橋區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "甜品/冰品",
-          "飲品/茶咖啡"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "大碗公當歸羊肉",
-        "description": "當歸湯底羊肉鍋與熱炒小菜",
-        "area": "永和區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "火鍋",
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "店小二",
-        "description": "滷肉飯與台式家常菜",
-        "area": "三重區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "米食",
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "客家小館",
-        "description": "客家小炒、梅干扣肉等傳統客家料理",
-        "area": "中和區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "光興腿庫",
-        "description": "滷腿庫、豬腳與大腸便當，附自製小魚乾辣椒醬",
-        "area": "板橋區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "米食",
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "珍品餐飲坊",
-        "description": "台式熱炒與經濟合菜",
-        "area": "土城區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "賴岡山羊肉",
-        "description": "清燉與紅燒羊肉湯，搭配滷味與白飯",
-        "area": "淡水區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜",
-          "火鍋"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "三姐妹農家樂",
-        "description": "家常熱炒與鄉土菜餚",
-        "area": "三芝區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "山東小館",
-        "description": "山東餃子、蔥油餅與家常麵食",
-        "area": "新店區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "麵食",
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "上好雞肉",
-        "description": "白斬雞、雞湯與熱炒小菜",
-        "area": "林口區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "宋朝",
-        "description": "中式合菜與湯品",
-        "area": "板橋區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "超人鱸魚",
-        "description": "招牌清蒸鱸魚與魚湯料理",
-        "area": "三重區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "海鮮",
-          "中式/台菜"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "蔡家牛肉麵",
-        "description": "清燉、紅燒牛肉麵與手工麵條",
-        "area": "永和區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "麵食"
-        ],
-        "michelin": "bib"
-      },
-      {
-        "name": "葉家藥燉排骨",
-        "description": "中藥燉排骨湯與小吃",
-        "area": "三重區",
-        "rating": null,
-        "reviews": null,
-        "categories": [
-          "中式/台菜",
-          "小吃/夜市"
         ],
         "michelin": "bib"
       },
@@ -2585,62 +2088,6 @@ const DATA = {
         "categories": [
           "飲品/茶咖啡"
         ]
-      },
-      {
-        "name": "手作烘焙坊 Boulangerie",
-        "area": "板橋區",
-        "description": "板橋巷弄手作麵包甜點咖啡店",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "Library Coffee 圖書咖啡",
-        "area": "淡水區",
-        "description": "淡水老街旁書香咖啡館，河景下午茶",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "九份茶坊",
-        "area": "瑞芳區",
-        "description": "九份老街茶館，山城海景配手作茶飲",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "Amoroso阿莫羅索咖啡",
-        "area": "三峽區",
-        "description": "三峽老街旁義式咖啡，自家烘焙",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "山屋咖啡",
-        "area": "瑞芳區",
-        "description": "九份山城景觀咖啡，望海喝手沖",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
-      },
-      {
-        "name": "蛋蛋工房",
-        "area": "鶯歌區",
-        "description": "鶯歌老街甜點店，手工蛋捲與下午茶",
-        "categories": [
-          "甜品/冰品"
-        ]
-      },
-      {
-        "name": "Le beau café 婚",
-        "area": "林口區",
-        "description": "林口質感咖啡廳，法式甜點與花藝",
-        "categories": [
-          "飲品/茶咖啡"
-        ]
       }
     ],
     "stay": [
@@ -2651,10 +2098,6 @@ const DATA = {
       {
         "name": "西門町住宿",
         "description": "7間超夯西門飯店旅館，便宜近捷運"
-      },
-      {
-        "name": "九份住宿",
-        "description": "10間激推九份民宿飯店，金瓜石、九份老街海景"
       },
       {
         "name": "淡水住宿",
@@ -2692,7 +2135,7 @@ const DATA = {
     ],
     "spots": [
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "國父紀念館",
         "area": "台北最經典101",
         "rating": 4.5,
@@ -2700,7 +2143,7 @@ const DATA = {
         "description": "紀念國父孫中山，台北文青展演空間"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "四四南村",
         "area": "台北最經典101",
         "rating": 4.4,
@@ -2708,7 +2151,7 @@ const DATA = {
         "description": "台灣第一眷村，簡單市集與古蹟"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "吉米月亮公車",
         "area": "台北最經典101",
         "rating": 4.3,
@@ -2716,7 +2159,7 @@ const DATA = {
         "description": "幾米裝置藝術，月亮公車打卡熱點"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "台北101觀景台/象山夜景",
         "area": "台北最經典101",
         "rating": 4.5,
@@ -2724,7 +2167,7 @@ const DATA = {
         "description": "台北地標觀景台，俯瞰台北全景"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "總統府",
         "area": "總統府＆華山文創",
         "rating": 4.4,
@@ -2732,7 +2175,7 @@ const DATA = {
         "description": "台灣最高權力中心，巴洛克建築地標"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "華山文創園區",
         "area": "總統府＆華山文創",
         "rating": 4.5,
@@ -2740,7 +2183,7 @@ const DATA = {
         "description": "酒廠改建文創園區，展演市集齊聚"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "台灣博物館",
         "area": "總統府＆華山文創",
         "rating": 4.5,
@@ -2748,7 +2191,7 @@ const DATA = {
         "description": "台灣最古老博物館，自然史常設展"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "228公園",
         "area": "總統府＆華山文創",
         "rating": 4.2,
@@ -2756,7 +2199,7 @@ const DATA = {
         "description": "台北市中心公園，歷史紀念與休憩"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "松山文創園區",
         "area": "松山文創＆中正紀念堂",
         "rating": 4.4,
@@ -2764,7 +2207,7 @@ const DATA = {
         "description": "菸廠改建文創聚落，展覽市集不斷"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "中正紀念堂",
         "area": "松山文創＆中正紀念堂",
         "rating": 4.5,
@@ -2772,7 +2215,7 @@ const DATA = {
         "description": "紀念蔣中正的國家級建築，衛兵交接必看"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "袖珍博物館",
         "area": "松山文創＆中正紀念堂",
         "rating": 4.4,
@@ -2780,7 +2223,7 @@ const DATA = {
         "description": "亞洲首座袖珍藝術主題博物館"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "寧夏夜市",
         "area": "松山文創＆中正紀念堂",
         "rating": 4.2,
@@ -2788,7 +2231,7 @@ const DATA = {
         "description": "台北最受好評夜市，古早味小吃天堂"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "北投市場",
         "area": "北投溫泉",
         "rating": 4.1,
@@ -2796,7 +2239,7 @@ const DATA = {
         "description": "北投在地市場，溫泉之旅必訪"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "新北投車站",
         "area": "北投溫泉",
         "rating": 4.4,
@@ -2804,7 +2247,7 @@ const DATA = {
         "description": "百年木造車站，溫泉鄉入口地標"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "北投圖書館",
         "area": "北投溫泉",
         "rating": 4.6,
@@ -2812,7 +2255,7 @@ const DATA = {
         "description": "全台最美綠建築圖書館，森林中閱讀"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "溫泉博物館",
         "area": "北投溫泉",
         "rating": 4.5,
@@ -2820,7 +2263,7 @@ const DATA = {
         "description": "百年溫泉浴場改建，北投歷史見證"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "地熱谷",
         "area": "北投溫泉",
         "rating": 4.6,
@@ -2828,7 +2271,7 @@ const DATA = {
         "description": "溫泉源頭硫磺蒸氣，免費煮蛋體驗"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "硫磺谷",
         "area": "北投溫泉",
         "rating": 4.4,
@@ -2836,7 +2279,7 @@ const DATA = {
         "description": "硫磺地熱景觀，溫泉步道免費泡腳"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "北投溫泉飯店泡湯",
         "area": "北投溫泉",
         "rating": 4.1,
@@ -2844,7 +2287,7 @@ const DATA = {
         "description": "北投溫泉鄉，百年泡湯文化體驗"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "竹子湖採海芋/繡球花",
         "area": "陽明山賞花",
         "rating": 4.3,
@@ -2852,7 +2295,7 @@ const DATA = {
         "description": "陽明山花季限定，海芋繡球花海"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "小油坑",
         "area": "陽明山賞花",
         "rating": 4.6,
@@ -2860,7 +2303,7 @@ const DATA = {
         "description": "陽明山火山噴氣孔，硫磺地質奇觀"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "擎天崗",
         "area": "陽明山賞花",
         "rating": 4.6,
@@ -2868,7 +2311,7 @@ const DATA = {
         "description": "陽明山草原牛群，台北最美高地草原"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "冷水坑",
         "area": "陽明山賞花",
         "rating": null,
@@ -2876,7 +2319,7 @@ const DATA = {
         "description": "陽明山免費溫泉池，登山休息站"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "夢幻湖",
         "area": "陽明山賞花",
         "rating": 4.4,
@@ -2884,7 +2327,7 @@ const DATA = {
         "description": "陽明山高山湖泊，生態保護區"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "陽明山溫泉泡湯",
         "area": "陽明山賞花",
         "rating": 4.1,
@@ -2892,7 +2335,7 @@ const DATA = {
         "description": "陽明山溫泉區，台北最近泡湯勝地"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "剝皮寮",
         "area": "古蹟＆潮流衝突",
         "rating": 4.2,
@@ -2900,7 +2343,7 @@ const DATA = {
         "description": "萬華歷史街區，清代建築活保存"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "龍山寺",
         "area": "古蹟＆潮流衝突",
         "rating": 4.5,
@@ -2908,7 +2351,7 @@ const DATA = {
         "description": "台北最古老寺廟，國定古蹟信仰中心"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "西門町商圈",
         "area": "古蹟＆潮流衝突",
         "rating": 4.4,
@@ -2916,7 +2359,7 @@ const DATA = {
         "description": "台北年輕潮流聖地，西門紅樓地標"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "西門町住一晚",
         "area": "古蹟＆潮流衝突",
         "rating": 4.9,
@@ -2924,7 +2367,7 @@ const DATA = {
         "description": "西門町住宿體驗，夜生活不間斷"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "台灣大學",
         "area": "台灣第一學府知性",
         "rating": 4.6,
@@ -2932,7 +2375,7 @@ const DATA = {
         "description": "台灣第一學府，椰林大道校園美景"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "自來水博物館",
         "area": "台灣第一學府知性",
         "rating": 4.3,
@@ -2940,7 +2383,7 @@ const DATA = {
         "description": "巴洛克式自來水廠建築，婚紗熱點"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "寶藏巖",
         "area": "台灣第一學府知性",
         "rating": 4.3,
@@ -2948,7 +2391,7 @@ const DATA = {
         "description": "違建聚落改建藝術村，河岸山城"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "公館商圈",
         "area": "台灣第一學府知性",
         "rating": 4.2,
@@ -2956,7 +2399,7 @@ const DATA = {
         "description": "台大旁學生商圈，美食小吃聚集"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "故宮/兒童樂園",
         "area": "故宮親子寓教於樂",
         "rating": 4.6,
@@ -2964,7 +2407,7 @@ const DATA = {
         "description": "世界級中華文物典藏，必看翠玉白菜"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "科學教育館/天文科學教育館",
         "area": "故宮親子寓教於樂",
         "rating": 4.6,
@@ -2972,7 +2415,7 @@ const DATA = {
         "description": "互動科學展覽與天文館，親子首選"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "士林夜市",
         "area": "故宮親子寓教於樂",
         "rating": 4.1,
@@ -2980,7 +2423,7 @@ const DATA = {
         "description": "台北最大夜市，多樣小吃與遊戲"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "動物園",
         "area": "動物園、貓空親子",
         "rating": 4.6,
@@ -2988,7 +2431,7 @@ const DATA = {
         "description": "亞洲最大動物園，貓熊企鵝明星動物"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "貓空一日遊",
         "area": "動物園、貓空親子",
         "rating": 4.5,
@@ -2996,7 +2439,7 @@ const DATA = {
         "description": "搭纜車上貓空品茶，台北茶鄉體驗"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "迪化街",
         "area": "大稻埕行天宮古蹟",
         "rating": null,
@@ -3004,13 +2447,13 @@ const DATA = {
         "description": "台北最古老商街，中藥乾貨南北貨集散"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "大稻埕",
         "area": "大稻埕行天宮古蹟",
         "description": "清末台北商業重心，懷舊文創復興"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "行天宮",
         "area": "大稻埕行天宮古蹟",
         "rating": 4.7,
@@ -3018,212 +2461,12 @@ const DATA = {
         "description": "台北知名關帝廟，收驚信仰熱門"
       },
       {
-        "county": "雙北",
+        "county": "台北",
         "name": "永康商圈",
         "area": "大稻埕行天宮古蹟",
         "rating": 4.2,
         "reviews": 1739,
         "description": "芒果冰牛肉麵發源地，文青美食街"
-      },
-      {
-        "county": "雙北",
-        "name": "碧潭",
-        "area": "碧潭＆烏來",
-        "rating": null,
-        "reviews": null,
-        "description": "新店碧潭吊橋，湖景划船悠閒"
-      },
-      {
-        "county": "雙北",
-        "name": "烏來老街",
-        "area": "碧潭＆烏來",
-        "rating": 4.2,
-        "reviews": 28052,
-        "description": "原住民老街，溫泉瀑布山產美食"
-      },
-      {
-        "county": "雙北",
-        "name": "烏來台車",
-        "area": "碧潭＆烏來",
-        "rating": 4.4,
-        "reviews": 3950,
-        "description": "人力台車改建觀光軌道，山林體驗"
-      },
-      {
-        "county": "雙北",
-        "name": "烏來瀑布",
-        "area": "碧潭＆烏來",
-        "rating": 4.3,
-        "reviews": 18352,
-        "description": "烏來招牌瀑布，雲仙纜車觀景"
-      },
-      {
-        "county": "雙北",
-        "name": "烏來溫泉泡湯",
-        "area": "碧潭＆烏來",
-        "rating": 4.5,
-        "reviews": 1884,
-        "description": "烏來碳酸溫泉，泰雅族原鄉泡湯"
-      },
-      {
-        "county": "雙北",
-        "name": "陰陽海",
-        "area": "九份",
-        "rating": 4.4,
-        "reviews": 7225,
-        "description": "金瓜石陰陽海奇景，礦物染色海岸"
-      },
-      {
-        "county": "雙北",
-        "name": "黃金瀑布",
-        "area": "九份",
-        "rating": 4.4,
-        "reviews": 13614,
-        "description": "金瓜石礦物瀑布，黃褐色奇觀"
-      },
-      {
-        "county": "雙北",
-        "name": "黃金博物館",
-        "area": "九份",
-        "rating": 4.2,
-        "reviews": 19007,
-        "description": "金瓜石採金歷史，黃金館必訪"
-      },
-      {
-        "county": "雙北",
-        "name": "不厭亭",
-        "area": "九份",
-        "rating": 4.6,
-        "reviews": 10556,
-        "description": "寂寞公路美景，雙溪瑞芳交界秘境"
-      },
-      {
-        "county": "雙北",
-        "name": "九份老街",
-        "area": "九份",
-        "rating": 4.3,
-        "reviews": 107645,
-        "description": "山城老街蜿蜒石階，茶香與懷舊氛圍"
-      },
-      {
-        "county": "雙北",
-        "name": "九份住一晚",
-        "area": "九份",
-        "rating": 4.6,
-        "reviews": 265,
-        "description": "九份山城住宿，夜景海景第一排"
-      },
-      {
-        "county": "雙北",
-        "name": "淡水老街",
-        "area": "淡水",
-        "rating": 4.4,
-        "reviews": 33831,
-        "description": "河畔老街散步，夕陽阿給魚丸湯"
-      },
-      {
-        "county": "雙北",
-        "name": "小白宮",
-        "area": "淡水",
-        "rating": 4.2,
-        "reviews": 4547,
-        "description": "淡水前清稅務司官邸，白牆殖民建築"
-      },
-      {
-        "county": "雙北",
-        "name": "淡水紅毛城",
-        "area": "淡水",
-        "rating": 4.4,
-        "reviews": 16425,
-        "description": "台灣最古老城堡，三百多年歷史地標"
-      },
-      {
-        "county": "雙北",
-        "name": "漁人碼頭",
-        "area": "淡水",
-        "rating": 4.5,
-        "reviews": 1686,
-        "description": "淡水漁人碼頭，情人橋夕陽絕美"
-      },
-      {
-        "county": "雙北",
-        "name": "淡水住一晚",
-        "area": "淡水",
-        "rating": 4.1,
-        "reviews": 1172,
-        "description": "淡水河畔住宿，夕陽夜景盡收眼底"
-      },
-      {
-        "county": "雙北",
-        "name": "猴硐貓村",
-        "area": "平溪",
-        "rating": null,
-        "reviews": null,
-        "description": "貓咪聚集村落，貓奴朝聖地"
-      },
-      {
-        "county": "雙北",
-        "name": "十分老街",
-        "area": "平溪",
-        "rating": 4.3,
-        "reviews": 52007,
-        "description": "天燈發源地，鐵軌穿街過火車頭上"
-      },
-      {
-        "county": "雙北",
-        "name": "十分瀑布",
-        "area": "平溪",
-        "rating": 4.5,
-        "reviews": 28814,
-        "description": "台灣版尼加拉瀑布，平溪最大瀑布"
-      },
-      {
-        "county": "雙北",
-        "name": "平溪老街",
-        "area": "平溪",
-        "rating": 4.5,
-        "reviews": 828,
-        "description": "天燈故鄉老街，放天燈祈福體驗"
-      },
-      {
-        "county": "雙北",
-        "name": "菁桐老街",
-        "area": "平溪",
-        "rating": 4.2,
-        "reviews": 3131,
-        "description": "平溪線終點站，木造車站懷舊"
-      },
-      {
-        "county": "雙北",
-        "name": "石碇千鳥湖",
-        "area": "石碇＆深坑",
-        "rating": 4.3,
-        "reviews": 2502,
-        "description": "翡翠水庫上游湖泊，山湖秘境"
-      },
-      {
-        "county": "雙北",
-        "name": "石碇老街",
-        "area": "石碇＆深坑",
-        "rating": 4,
-        "reviews": 11620,
-        "description": "山城老街，豆腐美食與吊腳樓"
-      },
-      {
-        "county": "雙北",
-        "name": "許家手工麵線",
-        "area": "石碇＆深坑",
-        "rating": 4.4,
-        "reviews": 994,
-        "description": "石碇手工麵線，百年傳統技藝"
-      },
-      {
-        "county": "雙北",
-        "name": "深坑老街",
-        "area": "石碇＆深坑",
-        "rating": 4.2,
-        "reviews": 56504,
-        "description": "豆腐老街，臭豆腐麻辣豆腐必吃"
       }
     ],
     "indoor": [
@@ -3310,7 +2553,805 @@ const DATA = {
         "description": "亞洲首座袖珍藝術主題博物館",
         "rating": 4.4,
         "reviews": 6480
+      }
+    ],
+    "souvenirs": [
+      {
+        "name": "佳德糕餅",
+        "area": "台北市松山區",
+        "description": "台北名產鳳梨酥，年節送禮熱門"
       },
+      {
+        "name": "維格餅家",
+        "area": "台北市北投區",
+        "description": "鳳梨酥名店，伴手禮排行榜常客"
+      },
+      {
+        "name": "台北犁記糕餅",
+        "area": "大同區",
+        "description": "百年老店，綠豆椪和咖哩餅必買"
+      },
+      {
+        "name": "新東陽",
+        "area": "台北市",
+        "description": "肉鬆肉乾老牌，台灣伴手禮代表"
+      },
+      {
+        "name": "老天祿滷味",
+        "area": "西門町",
+        "description": "西門町老牌滷味，鴨舌頭最出名"
+      }
+    ]
+  },
+  "新北": {
+    "routes": [
+      {
+        "name": "九份一日遊",
+        "stops": [
+          "陰陽海",
+          "黃金瀑布",
+          "黃金博物館",
+          "不厭亭",
+          "九份老街",
+          "九份住一晚"
+        ],
+        "description": "新北景點，黃金山城"
+      }
+    ],
+    "food": [
+      {
+        "name": "吳記北平餡餅",
+        "description": "新莊超人氣餡餅店，半煎炸方式現點現包，開店預約排到3小時後",
+        "area": "板橋",
+        "rating": 4.4,
+        "reviews": 357,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "金合和糕餅",
+        "description": "新莊廟街百年老店傳承四代，台式貝果鹹光餅9點出爐就搶光",
+        "area": "板橋",
+        "rating": 4.5,
+        "reviews": 436,
+        "categories": [
+          "早餐/早午餐",
+          "中式/台菜"
+        ]
+      },
+      {
+        "name": "熊越岳拉麵",
+        "description": "新莊最強拉麵，淡麗系醬油拉麵清爽如山巖藍天",
+        "area": "板橋",
+        "rating": 4.6,
+        "reviews": 3158,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "板橋汕頭牛肉麵",
+        "description": "板橋60年汕頭牛肉麵，清燉湯頭鮮甜，牛肉軟嫩",
+        "area": "板橋",
+        "rating": 4.8,
+        "reviews": 377,
+        "categories": [
+          "麵食",
+          "中式/台菜"
+        ]
+      },
+      {
+        "name": "三重今大滷肉飯",
+        "description": "三重最強滷肉飯，肥瘦相間肉燥香濃，配筍絲排骨湯",
+        "area": "三重/蘆洲",
+        "rating": 4.3,
+        "reviews": 17925,
+        "categories": [
+          "米食"
+        ]
+      },
+      {
+        "name": "霸天薑母鴨",
+        "description": "淡水必吃羊肉爐加薑母鴨，食尚玩家推薦暖胃美食",
+        "area": "淡水",
+        "rating": 4,
+        "reviews": 147,
+        "categories": [
+          "火鍋",
+          "中式/台菜"
+        ]
+      },
+      {
+        "name": "九份阿妹茶樓",
+        "description": "九份老街最具代表性茶樓，俯瞰山城海景，芋圓茶飲必點",
+        "area": "九份",
+        "rating": 4,
+        "reviews": 5878,
+        "categories": [
+          "甜品/冰品",
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "老牌阿給",
+        "description": "淡水阿給創始老店，50年歷史，油豆腐塞冬粉以魚漿封口，淋上獨門香辣醬，真理街上必吃",
+        "area": "淡水",
+        "rating": 4.2,
+        "reviews": 3762,
+        "categories": [
+          "其他"
+        ]
+      },
+      {
+        "name": "淡水老牌可口魚丸",
+        "description": "淡水老街馬偕銅像旁，綜合湯加肉包一套50元，肉包內餡鮮肉搭配魚丸湯超划算",
+        "area": "淡水",
+        "rating": 4,
+        "reviews": 2251,
+        "categories": [
+          "其他"
+        ]
+      },
+      {
+        "name": "阿香魩仔魚烤鳥蛋",
+        "description": "淡水老街中後段排隊名攤，主打保證魩仔魚的烤鳥蛋，一口一個鮮香",
+        "area": "淡水",
+        "rating": 4.4,
+        "reviews": 186,
+        "categories": [
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "福哥石頭餅",
+        "description": "淡水英專路清水街古早味，印尼貴族點心50款口味混搭，均一價30元現點現做",
+        "area": "淡水",
+        "rating": 4.6,
+        "reviews": 906,
+        "categories": [
+          "其他"
+        ]
+      },
+      {
+        "name": "三重阿田油飯",
+        "description": "三重在地人早午餐，傳承交棒女兒復活回歸，早上7點就大排長龍，每人限購3斤",
+        "area": "三重/蘆洲",
+        "rating": 4,
+        "reviews": 1258,
+        "categories": [
+          "米食",
+          "早餐/早午餐"
+        ]
+      },
+      {
+        "name": "蘆洲樂福麵線",
+        "description": "蘆洲長安街巷弄隱藏版美食，鮮蚵大腸雞丁綜合口味，獨家特調蒜泥醬超特別，早上七點就開",
+        "area": "三重/蘆洲",
+        "rating": 4.8,
+        "reviews": 790,
+        "categories": [
+          "麵食",
+          "海鮮"
+        ]
+      },
+      {
+        "name": "三重陳記蔥油餅",
+        "description": "文化北路平價排隊蔥油餅，一份20元加蛋25元，外酥內Q蔥香滿溢，捷運三重國小站旁",
+        "area": "三重/蘆洲",
+        "rating": 4.3,
+        "reviews": 442,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "板橋高記生炒鱔魚",
+        "description": "板橋黃石市場必吃，生炒鱔魚意麵鑊氣十足，鱔魚脆甜搭配酸甜醬汁超開胃",
+        "area": "板橋",
+        "rating": 4.2,
+        "reviews": 5873,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "新店碧潭臭豆腐",
+        "description": "新店碧潭周邊臭豆腐外酥內嫩配自製泡菜碧潭散步必吃",
+        "area": "新店",
+        "rating": 4.7,
+        "reviews": 108,
+        "categories": [
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "新店牛肉麵",
+        "description": "新店建國路上牛肉麵店紅燒湯頭濃郁牛肉軟嫩在地老店",
+        "area": "新店",
+        "rating": 4.7,
+        "reviews": 206,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "新店安坑客家麵",
+        "description": "新店安坑客家聚落客家粄條炒麵福菜湯客家道地味",
+        "area": "新店",
+        "rating": 4,
+        "reviews": 150,
+        "categories": [
+          "麵食",
+          "中式/台菜"
+        ]
+      },
+      {
+        "name": "新店烏來溫泉區山產",
+        "description": "新店烏來溫泉區原民風味餐烤山豬肉馬告雞湯泡湯後必吃",
+        "area": "新店",
+        "rating": 4.3,
+        "reviews": 1156,
+        "categories": [
+          "其他"
+        ]
+      },
+      {
+        "name": "新店七張小吃",
+        "description": "新店七張站周邊小吃攤肉燥飯碗粿羹湯古早味集中地",
+        "area": "新店",
+        "rating": 4.3,
+        "reviews": 3797,
+        "categories": [
+          "米食",
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "三峽金牛角",
+        "description": "三峽必買伴手禮金牛角奶油麵包外酥內軟牛角造型超可愛",
+        "area": "三峽/鶯歌",
+        "rating": 4,
+        "reviews": 1610,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "三峽老街小吃",
+        "description": "三峽老街周邊傳統小吃攤肉圓米糕羹湯古早味集中地",
+        "area": "三峽/鶯歌",
+        "rating": 4.5,
+        "reviews": 480,
+        "categories": [
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "鶯歌陶瓷老街麵線",
+        "description": "鶯歌陶瓷老街周邊麵線攤大腸蚵仔麵線料多實在銅板價",
+        "area": "三峽/鶯歌",
+        "rating": 4.2,
+        "reviews": 26539,
+        "categories": [
+          "麵食",
+          "海鮮",
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "鶯歌阿婆壽司",
+        "description": "鶯歌老街人氣壽司店平價握壽司配味噌湯古早味必吃",
+        "area": "三峽/鶯歌",
+        "rating": 4.1,
+        "reviews": 21790,
+        "categories": [
+          "日式"
+        ]
+      },
+      {
+        "name": "三峽鶯歌交界烤肉",
+        "description": "三峽鶯歌交界處烤肉店現烤肉串配啤酒宵夜熱點",
+        "area": "三峽/鶯歌",
+        "rating": 4.4,
+        "reviews": 141,
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "新莊蓮花泰式小吃店",
+        "description": "新莊頭前庄站平價泰式料理天花板月亮蝦餅椒麻雞打拋豬Google 4.3星",
+        "area": "新莊/五股",
+        "rating": 4.2,
+        "reviews": 2702,
+        "categories": [
+          "海鮮",
+          "異國料理"
+        ]
+      },
+      {
+        "name": "新莊牛肉麵",
+        "description": "新莊在地牛肉麵店紅燒湯頭濃郁牛肉軟嫩配酸菜小菜",
+        "area": "新莊/五股",
+        "rating": 4.8,
+        "reviews": 587,
+        "categories": [
+          "麵食"
+        ]
+      },
+      {
+        "name": "五股工業區便當街",
+        "description": "五股工業區周邊便當一條街勞工美食CP值高份量大選擇多",
+        "area": "新莊/五股",
+        "rating": 4.5,
+        "reviews": 373,
+        "categories": [
+          "米食"
+        ]
+      },
+      {
+        "name": "五股觀音山土雞城",
+        "description": "五股觀音山周邊土雞城放山雞炒野菜景觀用餐健行後必吃",
+        "area": "新莊/五股",
+        "rating": 4,
+        "reviews": 1030,
+        "categories": [
+          "其他"
+        ]
+      },
+      {
+        "name": "林口長庚醫院周邊小吃",
+        "description": "林口長庚醫院周邊小吃攤肉燥飯麵食羹湯學生和醫護愛店",
+        "area": "林口/泰山",
+        "rating": 4.6,
+        "reviews": 500,
+        "categories": [
+          "米食",
+          "麵食",
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "泰山夜市小吃",
+        "description": "泰山夜市多樣小吃攤臭豆腐烤肉串地瓜球銅板美食",
+        "area": "林口/泰山",
+        "rating": 4.1,
+        "reviews": 4479,
+        "categories": [
+          "小吃/夜市"
+        ]
+      },
+      {
+        "name": "阿爸の芋圓",
+        "description": "招牌芋見泥蔗片冰，結合芋泥、芋圓、湯圓與甘蔗冰",
+        "area": "板橋區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "甜品/冰品",
+          "飲品/茶咖啡"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "大碗公當歸羊肉",
+        "description": "當歸湯底羊肉鍋與熱炒小菜",
+        "area": "永和區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "火鍋",
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "店小二",
+        "description": "滷肉飯與台式家常菜",
+        "area": "三重區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "米食",
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "客家小館",
+        "description": "客家小炒、梅干扣肉等傳統客家料理",
+        "area": "中和區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "光興腿庫",
+        "description": "滷腿庫、豬腳與大腸便當，附自製小魚乾辣椒醬",
+        "area": "板橋區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "米食",
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "珍品餐飲坊",
+        "description": "台式熱炒與經濟合菜",
+        "area": "土城區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "賴岡山羊肉",
+        "description": "清燉與紅燒羊肉湯，搭配滷味與白飯",
+        "area": "淡水區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜",
+          "火鍋"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "三姐妹農家樂",
+        "description": "家常熱炒與鄉土菜餚",
+        "area": "三芝區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "山東小館",
+        "description": "山東餃子、蔥油餅與家常麵食",
+        "area": "新店區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "麵食",
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "上好雞肉",
+        "description": "白斬雞、雞湯與熱炒小菜",
+        "area": "林口區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "宋朝",
+        "description": "中式合菜與湯品",
+        "area": "板橋區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "超人鱸魚",
+        "description": "招牌清蒸鱸魚與魚湯料理",
+        "area": "三重區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "海鮮",
+          "中式/台菜"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "蔡家牛肉麵",
+        "description": "清燉、紅燒牛肉麵與手工麵條",
+        "area": "永和區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "麵食"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "葉家藥燉排骨",
+        "description": "中藥燉排骨湯與小吃",
+        "area": "三重區",
+        "rating": null,
+        "reviews": null,
+        "categories": [
+          "中式/台菜",
+          "小吃/夜市"
+        ],
+        "michelin": "bib"
+      },
+      {
+        "name": "手作烘焙坊 Boulangerie",
+        "area": "板橋區",
+        "description": "板橋巷弄手作麵包甜點咖啡店",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "Library Coffee 圖書咖啡",
+        "area": "淡水區",
+        "description": "淡水老街旁書香咖啡館，河景下午茶",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "九份茶坊",
+        "area": "瑞芳區",
+        "description": "九份老街茶館，山城海景配手作茶飲",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "Amoroso阿莫羅索咖啡",
+        "area": "三峽區",
+        "description": "三峽老街旁義式咖啡，自家烘焙",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "山屋咖啡",
+        "area": "瑞芳區",
+        "description": "九份山城景觀咖啡，望海喝手沖",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      },
+      {
+        "name": "蛋蛋工房",
+        "area": "鶯歌區",
+        "description": "鶯歌老街甜點店，手工蛋捲與下午茶",
+        "categories": [
+          "甜品/冰品"
+        ]
+      },
+      {
+        "name": "Le beau café 婚",
+        "area": "林口區",
+        "description": "林口質感咖啡廳，法式甜點與花藝",
+        "categories": [
+          "飲品/茶咖啡"
+        ]
+      }
+    ],
+    "stay": [
+      {
+        "name": "九份住宿",
+        "description": "10間激推九份民宿飯店，金瓜石、九份老街海景"
+      }
+    ],
+    "tips": "",
+    "image_slides": [],
+    "spots": [
+      {
+        "county": "新北",
+        "name": "碧潭",
+        "area": "碧潭＆烏來",
+        "rating": null,
+        "reviews": null,
+        "description": "新店碧潭吊橋，湖景划船悠閒"
+      },
+      {
+        "county": "新北",
+        "name": "烏來老街",
+        "area": "碧潭＆烏來",
+        "rating": 4.2,
+        "reviews": 28052,
+        "description": "原住民老街，溫泉瀑布山產美食"
+      },
+      {
+        "county": "新北",
+        "name": "烏來台車",
+        "area": "碧潭＆烏來",
+        "rating": 4.4,
+        "reviews": 3950,
+        "description": "人力台車改建觀光軌道，山林體驗"
+      },
+      {
+        "county": "新北",
+        "name": "烏來瀑布",
+        "area": "碧潭＆烏來",
+        "rating": 4.3,
+        "reviews": 18352,
+        "description": "烏來招牌瀑布，雲仙纜車觀景"
+      },
+      {
+        "county": "新北",
+        "name": "烏來溫泉泡湯",
+        "area": "碧潭＆烏來",
+        "rating": 4.5,
+        "reviews": 1884,
+        "description": "烏來碳酸溫泉，泰雅族原鄉泡湯"
+      },
+      {
+        "county": "新北",
+        "name": "陰陽海",
+        "area": "九份",
+        "rating": 4.4,
+        "reviews": 7225,
+        "description": "金瓜石陰陽海奇景，礦物染色海岸"
+      },
+      {
+        "county": "新北",
+        "name": "黃金瀑布",
+        "area": "九份",
+        "rating": 4.4,
+        "reviews": 13614,
+        "description": "金瓜石礦物瀑布，黃褐色奇觀"
+      },
+      {
+        "county": "新北",
+        "name": "黃金博物館",
+        "area": "九份",
+        "rating": 4.2,
+        "reviews": 19007,
+        "description": "金瓜石採金歷史，黃金館必訪"
+      },
+      {
+        "county": "新北",
+        "name": "不厭亭",
+        "area": "九份",
+        "rating": 4.6,
+        "reviews": 10556,
+        "description": "寂寞公路美景，雙溪瑞芳交界秘境"
+      },
+      {
+        "county": "新北",
+        "name": "九份老街",
+        "area": "九份",
+        "rating": 4.3,
+        "reviews": 107645,
+        "description": "山城老街蜿蜒石階，茶香與懷舊氛圍"
+      },
+      {
+        "county": "新北",
+        "name": "九份住一晚",
+        "area": "九份",
+        "rating": 4.6,
+        "reviews": 265,
+        "description": "九份山城住宿，夜景海景第一排"
+      },
+      {
+        "county": "新北",
+        "name": "淡水老街",
+        "area": "淡水",
+        "rating": 4.4,
+        "reviews": 33831,
+        "description": "河畔老街散步，夕陽阿給魚丸湯"
+      },
+      {
+        "county": "新北",
+        "name": "小白宮",
+        "area": "淡水",
+        "rating": 4.2,
+        "reviews": 4547,
+        "description": "淡水前清稅務司官邸，白牆殖民建築"
+      },
+      {
+        "county": "新北",
+        "name": "淡水紅毛城",
+        "area": "淡水",
+        "rating": 4.4,
+        "reviews": 16425,
+        "description": "台灣最古老城堡，三百多年歷史地標"
+      },
+      {
+        "county": "新北",
+        "name": "漁人碼頭",
+        "area": "淡水",
+        "rating": 4.5,
+        "reviews": 1686,
+        "description": "淡水漁人碼頭，情人橋夕陽絕美"
+      },
+      {
+        "county": "新北",
+        "name": "淡水住一晚",
+        "area": "淡水",
+        "rating": 4.1,
+        "reviews": 1172,
+        "description": "淡水河畔住宿，夕陽夜景盡收眼底"
+      },
+      {
+        "county": "新北",
+        "name": "猴硐貓村",
+        "area": "平溪",
+        "rating": null,
+        "reviews": null,
+        "description": "貓咪聚集村落，貓奴朝聖地"
+      },
+      {
+        "county": "新北",
+        "name": "十分老街",
+        "area": "平溪",
+        "rating": 4.3,
+        "reviews": 52007,
+        "description": "天燈發源地，鐵軌穿街過火車頭上"
+      },
+      {
+        "county": "新北",
+        "name": "十分瀑布",
+        "area": "平溪",
+        "rating": 4.5,
+        "reviews": 28814,
+        "description": "台灣版尼加拉瀑布，平溪最大瀑布"
+      },
+      {
+        "county": "新北",
+        "name": "平溪老街",
+        "area": "平溪",
+        "rating": 4.5,
+        "reviews": 828,
+        "description": "天燈故鄉老街，放天燈祈福體驗"
+      },
+      {
+        "county": "新北",
+        "name": "菁桐老街",
+        "area": "平溪",
+        "rating": 4.2,
+        "reviews": 3131,
+        "description": "平溪線終點站，木造車站懷舊"
+      },
+      {
+        "county": "新北",
+        "name": "石碇千鳥湖",
+        "area": "石碇＆深坑",
+        "rating": 4.3,
+        "reviews": 2502,
+        "description": "翡翠水庫上游湖泊，山湖秘境"
+      },
+      {
+        "county": "新北",
+        "name": "石碇老街",
+        "area": "石碇＆深坑",
+        "rating": 4,
+        "reviews": 11620,
+        "description": "山城老街，豆腐美食與吊腳樓"
+      },
+      {
+        "county": "新北",
+        "name": "許家手工麵線",
+        "area": "石碇＆深坑",
+        "rating": 4.4,
+        "reviews": 994,
+        "description": "石碇手工麵線，百年傳統技藝"
+      },
+      {
+        "county": "新北",
+        "name": "深坑老街",
+        "area": "石碇＆深坑",
+        "rating": 4.2,
+        "reviews": 56504,
+        "description": "豆腐老街，臭豆腐麻辣豆腐必吃"
+      }
+    ],
+    "indoor": [
       {
         "name": "新北市立十三行博物館",
         "area": "新北八里",
@@ -3348,31 +3389,6 @@ const DATA = {
       }
     ],
     "souvenirs": [
-      {
-        "name": "佳德糕餅",
-        "area": "台北市松山區",
-        "description": "台北名產鳳梨酥，年節送禮熱門"
-      },
-      {
-        "name": "維格餅家",
-        "area": "台北市北投區",
-        "description": "鳳梨酥名店，伴手禮排行榜常客"
-      },
-      {
-        "name": "台北犁記糕餅",
-        "area": "大同區",
-        "description": "百年老店，綠豆椪和咖哩餅必買"
-      },
-      {
-        "name": "新東陽",
-        "area": "台北市",
-        "description": "肉鬆肉乾老牌，台灣伴手禮代表"
-      },
-      {
-        "name": "老天祿滷味",
-        "area": "西門町",
-        "description": "西門町老牌滷味，鴨舌頭最出名"
-      },
       {
         "name": "烘皇焦糖鮮乳蛋捲",
         "area": "新北市鶯歌區",
@@ -19984,7 +20000,7 @@ const DATA = {
     ]
   }
 };
-const ORDER = ["基隆", "雙北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
+const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
 let currentCounty = '基隆';
 let currentTab = 'routes';
 
