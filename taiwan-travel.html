@@ -47,7 +47,10 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-card{background:#fff;border-radius:12px;padding:14px;margin-bottom:10px;box-shadow:0 2px 6px rgba(0,0,0,.04);display:flex;align-items:flex-start;gap:10px;}
 .food-card .icon{font-size:20px;flex-shrink:0;}
 .food-card .info{flex:1;min-width:0;}
-.food-card .name{font-weight:600;color:#e65100;font-size:14px;}
+.food-card .name{font-weight:600;color:#e65100;font-size:14px;display:flex;align-items:center;gap:6px;flex-wrap:wrap;}
+.food-card .rating{display:inline-flex;align-items:center;gap:2px;background:#fff3e0;border-radius:8px;padding:1px 6px;font-size:11px;font-weight:600;color:#e65100;}
+.food-card .rating .stars{color:#ffa726;}
+.food-card .reviews{font-size:11px;color:#999;font-weight:400;}
 .food-card .desc{font-size:12px;color:#777;margin-top:2px;}
 .food-card .glink{flex-shrink:0;font-size:12px;color:#1a73e8;text-decoration:none;background:#e8f0fe;border-radius:6px;padding:4px 10px;white-space:nowrap;}
 .food-card .glink:hover{background:#d2e3fc;}
@@ -250,10 +253,20 @@ function renderTab(routes,food,stay){
       const id = 'area-' + area.replace(/[^a-zA-Z0-9]/g,'');
       const cards = items.map(f=>{
         const link = gmapLink(f.name, currentCounty + ' ' + area);
+        let ratingHtml = '';
+        if(f.rating !== null && f.rating !== undefined){
+          const stars = '★'.repeat(Math.round(f.rating));
+          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
+          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          if(f.reviews !== null && f.reviews !== undefined){
+            ratingHtml += ` <span class="reviews">(${f.reviews}則)</span>`;
+          }
+          ratingHtml += `</span>`;
+        }
         return `<div class="food-card">
           <div class="icon">🍴</div>
           <div class="info">
-            <div class="name">${f.name}</div>
+            <div class="name">${f.name}${ratingHtml}</div>
             ${f.description?`<div class="desc">${f.description}</div>`:''}
           </div>
           <a class="glink" href="${link}" target="_blank">📍 導航</a>
