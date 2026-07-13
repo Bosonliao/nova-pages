@@ -28,9 +28,11 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 
 .main{flex:1;overflow-y:auto;padding:24px 32px;}
 .main-header{margin-bottom:20px;}
+.main-header{position:relative;}
 .main-header h2{font-size:26px;color:#1a237e;font-weight:700;}
 .main-header .tips{background:#e8eaf6;border-radius:8px;padding:8px 14px;margin-top:8px;font-size:13px;color:#3949ab;}
 .main-header .tips::before{content:"💡 ";}
+.update-time{position:absolute;top:0;right:0;font-size:11px;color:#999;background:#f5f5f5;border-radius:6px;padding:3px 10px;}
 
 .stats{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap;}
 .stat-card{background:#fff;border-radius:12px;padding:14px 20px;box-shadow:0 2px 8px rgba(0,0,0,.06);text-align:center;min-width:90px;}
@@ -997,7 +999,7 @@ const DATA = {
       },
       {
         "name": "聖托里尼海景餐廳",
-        "description": "",
+        "description": "設有露台的歐風休閒餐廳，可欣賞水景，供應披薩、義大利麵、肉類餐點與甜點。",
         "area": "信義區",
         "rating": 4.1,
         "reviews": 2621,
@@ -1876,7 +1878,7 @@ const DATA = {
       },
       {
         "name": "三姐妹餐飲店",
-        "description": "",
+        "description": "台式餐廳",
         "area": "仁愛區",
         "rating": 4.1,
         "reviews": 2599,
@@ -2509,7 +2511,7 @@ const DATA = {
       },
       {
         "name": "遠東賴家水煎包",
-        "description": "",
+        "description": "採開放式空間的樸實店面，周圍熙熙攘攘，供應傳統水煎包。",
         "area": "仁愛區",
         "rating": 4.3,
         "reviews": 2393,
@@ -3044,7 +3046,7 @@ const DATA = {
       },
       {
         "name": "遠東泡泡冰",
-        "description": "",
+        "description": "採木質裝潢的舒適店鋪，專賣各種新鮮水果口味的泡泡冰。",
         "area": "仁愛區",
         "rating": 4.3,
         "reviews": 2440,
@@ -3164,7 +3166,7 @@ const DATA = {
       },
       {
         "name": "狸小路燒肉專賣店基隆廟口店",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2414,
@@ -5734,7 +5736,7 @@ const DATA = {
       },
       {
         "name": "— LAX 慵懶 — 貓空 ｜",
-        "description": "",
+        "description": "餐廳",
         "area": "文山區",
         "rating": 4.6,
         "reviews": 2494,
@@ -5754,7 +5756,7 @@ const DATA = {
       },
       {
         "name": "渣男TaiwanBistro 木柵二渣",
-        "description": "",
+        "description": "居酒屋",
         "area": "文山區",
         "rating": 4.8,
         "reviews": 2555,
@@ -5774,7 +5776,7 @@ const DATA = {
       },
       {
         "name": "ConfitRémi 黑米",
-        "description": "",
+        "description": "裝飾溫馨的愜意餐廳，供應現代義大利料理和披薩。",
         "area": "文山區",
         "rating": 4.5,
         "reviews": 2518,
@@ -5894,7 +5896,7 @@ const DATA = {
       },
       {
         "name": "貓空清泉山莊 景點餐廳",
-        "description": "",
+        "description": "中式餐廳",
         "area": "文山區",
         "rating": 4.5,
         "reviews": 2429,
@@ -6115,7 +6117,7 @@ const DATA = {
       },
       {
         "name": "三燔北投 Mihan Beitou",
-        "description": "",
+        "description": "日式餐廳",
         "area": "北投區",
         "rating": 4.9,
         "reviews": 2593,
@@ -6135,7 +6137,7 @@ const DATA = {
       },
       {
         "name": "荷麵亭 HASUMENTEI 北投店",
-        "description": "",
+        "description": "拉麵店",
         "area": "北投區",
         "rating": 4.8,
         "reviews": 2399,
@@ -6175,7 +6177,7 @@ const DATA = {
       },
       {
         "name": "谷炭燒肉/北投美食 北投燒肉 北投餐廳 石牌美食 石牌燒肉 石牌餐廳",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "北投區",
         "rating": 4.8,
         "reviews": 2400,
@@ -6571,7 +6573,7 @@ const DATA = {
       },
       {
         "name": "粵亮廣式料理",
-        "description": "",
+        "description": "廣東菜餐廳",
         "area": "南港區",
         "rating": 4.3,
         "reviews": 2405,
@@ -6752,7 +6754,7 @@ const DATA = {
       },
       {
         "name": "青樓中式餐酒館",
-        "description": "",
+        "description": "裝飾溫馨的舒適餐廳，提供烤鴨料理，還有海鮮與熱炒料理。",
         "area": "松山區",
         "rating": 4.7,
         "reviews": 2634,
@@ -7753,7 +7755,7 @@ const DATA = {
       },
       {
         "name": "囍聚精緻鍋物",
-        "description": "",
+        "description": "舒適的餐廳，提供家常海鮮料理、湯品、飯類和魚子醬。",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2554,
@@ -7887,7 +7889,7 @@ const DATA = {
       },
       {
         "name": "先進海產店",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2455,
@@ -8047,7 +8049,7 @@ const DATA = {
       },
       {
         "name": "33區熱炒生猛海鮮",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "其他",
         "rating": 4,
         "reviews": 2471,
@@ -8077,7 +8079,7 @@ const DATA = {
       },
       {
         "name": "海九澎湖海鮮餐廳",
-        "description": "",
+        "description": "布置溫馨的傳統餐廳，供應在澎湖水域捕獲的海鮮。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2612,
@@ -8464,7 +8466,7 @@ const DATA = {
       },
       {
         "name": "無聊咖啡 AMBI-CAFE",
-        "description": "",
+        "description": "咖啡廳",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2603,
@@ -10141,7 +10143,7 @@ const DATA = {
       },
       {
         "name": "이집_這家韓式烤肉 2號店_忠孝店",
-        "description": "",
+        "description": "韓式燒烤料理餐廳",
         "area": "其他",
         "rating": 4.8,
         "reviews": 2511,
@@ -10215,7 +10217,7 @@ const DATA = {
       },
       {
         "name": "大腕燒肉專門店",
-        "description": "",
+        "description": "氣氛悠閒的餐廳，供應日式烤肉、啤酒、雞尾酒和清酒。",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2438,
@@ -10426,7 +10428,7 @@ const DATA = {
       },
       {
         "name": "N°168 牛排館（大直本館）",
-        "description": "",
+        "description": "牛排館",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2541,
@@ -10547,7 +10549,7 @@ const DATA = {
       },
       {
         "name": "傑克兄弟牛排 臺北信義店｜JACK BROTHERS STEAKHOUSE Taipei Xinyi",
-        "description": "",
+        "description": "播放老歌的休閒市景餐廳，供應美式牛排。",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2634,
@@ -10608,7 +10610,7 @@ const DATA = {
       },
       {
         "name": "瀧厚炙燒熟成牛排 台北.信義ATT店",
-        "description": "",
+        "description": "牛排館",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2410,
@@ -11399,7 +11401,7 @@ const DATA = {
       },
       {
         "name": "豐盛食堂",
-        "description": "",
+        "description": "樸實的餐廳，供應簡單的自製料理。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2538,
@@ -12530,7 +12532,7 @@ const DATA = {
       },
       {
         "name": "龍泉深海鮮魚湯",
-        "description": "",
+        "description": "餐廳",
         "area": "大安區",
         "rating": 4.1,
         "reviews": 2435,
@@ -12915,7 +12917,7 @@ const DATA = {
       },
       {
         "name": "公館水岸廣場",
-        "description": "",
+        "description": "這條河濱大道是散步及騎乘自行車的熱門景點，沿路設有酒吧和露天咖啡座，入夜後燈火通明。",
         "area": "中正區",
         "rating": 4.3,
         "reviews": 2527,
@@ -12956,7 +12958,7 @@ const DATA = {
       },
       {
         "name": "阿薄郎薄皮餃子－公館店",
-        "description": "",
+        "description": "日式餐廳",
         "area": "中正區",
         "rating": 4.6,
         "reviews": 2535,
@@ -13539,7 +13541,7 @@ const DATA = {
       },
       {
         "name": "蕭記大餛飩",
-        "description": "",
+        "description": "小吃店",
         "area": "北投區",
         "rating": 4.1,
         "reviews": 2492,
@@ -13713,7 +13715,7 @@ const DATA = {
       },
       {
         "name": "越鄉越南美食館",
-        "description": "",
+        "description": "越南餐廳",
         "area": "士林區",
         "rating": 4.3,
         "reviews": 2615,
@@ -15113,7 +15115,7 @@ const DATA = {
       },
       {
         "name": "起家厝Khi Ke Tshù CAFÉ",
-        "description": "",
+        "description": "設有露台的工業風新潮早午餐店，提供西式料理、咖啡和啤酒。",
         "area": "板橋區",
         "rating": 4.1,
         "reviews": 2591,
@@ -15153,7 +15155,7 @@ const DATA = {
       },
       {
         "name": "五円·ご緣",
-        "description": "",
+        "description": "韓國餐廳",
         "area": "三重區",
         "rating": 4.8,
         "reviews": 2556,
@@ -15283,7 +15285,7 @@ const DATA = {
       },
       {
         "name": "滿築 Man Zhu Hot Pot 極品鍋物",
-        "description": "",
+        "description": "質樸的餐廳，供應海鮮、肉類、蔬菜火鍋及冰淇淋。",
         "area": "三重區",
         "rating": 4.8,
         "reviews": 2580,
@@ -16037,7 +16039,7 @@ const DATA = {
       },
       {
         "name": "鹿角公園",
-        "description": "",
+        "description": "時髦的店面，充滿當代風格，供應義大利麵、披薩、咖啡和鬆餅，提供戶外座位區。",
         "area": "土城區",
         "rating": 4.2,
         "reviews": 2436,
@@ -16540,7 +16542,7 @@ const DATA = {
       },
       {
         "name": "Teaday喝茶天-茶家食堂-鶯歌",
-        "description": "",
+        "description": "餐廳",
         "area": "鶯歌區",
         "rating": 4.3,
         "reviews": 2419,
@@ -16590,7 +16592,7 @@ const DATA = {
       },
       {
         "name": "Tina廚房(鶯歌店)",
-        "description": "",
+        "description": "餐廳",
         "area": "鶯歌區",
         "rating": 4.3,
         "reviews": 2505,
@@ -16885,7 +16887,7 @@ const DATA = {
       },
       {
         "name": "4F小飯館",
-        "description": "",
+        "description": "時尚餐廳，供應義大利麵、海鮮和燉飯等歐式美食，另也提供牛排和甜點。",
         "area": "淡水區",
         "rating": 4.7,
         "reviews": 2551,
@@ -17497,7 +17499,7 @@ const DATA = {
       },
       {
         "name": "大庭牛肉麵",
-        "description": "",
+        "description": "熱鬧的樸實中式餐館，專門供應牛肉料理。",
         "area": "板橋區",
         "rating": 4.1,
         "reviews": 2446,
@@ -17720,7 +17722,7 @@ const DATA = {
       },
       {
         "name": "XO SHABU SHABU板橋店",
-        "description": "",
+        "description": "火鍋店",
         "area": "板橋區",
         "rating": 4.9,
         "reviews": 2504,
@@ -18054,7 +18056,7 @@ const DATA = {
       },
       {
         "name": "臨洋港生猛活海鮮(中和店)",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "中和區",
         "rating": 4.1,
         "reviews": 2551,
@@ -18286,7 +18288,7 @@ const DATA = {
       },
       {
         "name": "HoneyWood Cafe",
-        "description": "",
+        "description": "咖啡館",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2432,
@@ -19762,7 +19764,7 @@ const DATA = {
       },
       {
         "name": "町燒酒食",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "板橋區",
         "rating": 4.8,
         "reviews": 2619,
@@ -19952,7 +19954,7 @@ const DATA = {
       },
       {
         "name": "米炭火燒肉小酒館",
-        "description": "",
+        "description": "燒烤料理餐廳",
         "area": "三重區",
         "rating": 4.8,
         "reviews": 2621,
@@ -20195,7 +20197,7 @@ const DATA = {
       },
       {
         "name": "小時厚牛排-新北永和店",
-        "description": "",
+        "description": "牛排館",
         "area": "永和區",
         "rating": 4.3,
         "reviews": 2582,
@@ -20235,7 +20237,7 @@ const DATA = {
       },
       {
         "name": "大夜市牛排",
-        "description": "",
+        "description": "熱鬧愜意的工業風餐館，專賣份量豐盛的牛排餐點。",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2548,
@@ -20398,7 +20400,7 @@ const DATA = {
       },
       {
         "name": "六堆伙房板橋新埔店",
-        "description": "",
+        "description": "中式餐廳",
         "area": "板橋區",
         "rating": 4.2,
         "reviews": 2450,
@@ -21378,7 +21380,7 @@ const DATA = {
       },
       {
         "name": "喫尤平價鐵板燒 - 湳雅店",
-        "description": "",
+        "description": "日式餐廳",
         "area": "板橋區",
         "rating": 4.5,
         "reviews": 2543,
@@ -22853,7 +22855,7 @@ const DATA = {
       },
       {
         "name": "兄弟食堂",
-        "description": "",
+        "description": "台式餐廳",
         "area": "金山區",
         "rating": 4.1,
         "reviews": 2592,
@@ -22959,7 +22961,7 @@ const DATA = {
       },
       {
         "name": "長榮小吃(小吃店）",
-        "description": "",
+        "description": "小吃店",
         "area": "瑞芳區",
         "rating": 4.5,
         "reviews": 2556,
@@ -24370,7 +24372,7 @@ const DATA = {
       },
       {
         "name": "菜菜子",
-        "description": "",
+        "description": "愜意的小巧餐廳，專賣義大利麵、沙拉、湯品及三明治。",
         "area": "宜蘭市",
         "rating": 4.9,
         "reviews": 2570,
@@ -24756,7 +24758,7 @@ const DATA = {
       },
       {
         "name": "添喜海鮮小吃",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2509,
@@ -26090,7 +26092,7 @@ const DATA = {
       },
       {
         "name": "ONI HOTPOT 鬼椒一番鍋｜宜蘭",
-        "description": "",
+        "description": "火鍋店",
         "area": "其他",
         "rating": 4.7,
         "reviews": 2430,
@@ -26669,7 +26671,7 @@ const DATA = {
       },
       {
         "name": "黑宅 Black House",
-        "description": "",
+        "description": "採用工業時尚風裝潢的餐廳，供應咖啡、茶飲、三明治、漢堡和點心。",
         "area": "頭城鎮",
         "rating": 4.4,
         "reviews": 2641,
@@ -26892,7 +26894,7 @@ const DATA = {
       },
       {
         "name": "大麵章",
-        "description": "",
+        "description": "麵店",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2486,
@@ -26952,7 +26954,7 @@ const DATA = {
       },
       {
         "name": "火生餛飩麵店",
-        "description": "",
+        "description": "採臨櫃點餐的簡約餐館，專賣麻醬麵和餛飩湯。",
         "area": "其他",
         "rating": 4,
         "reviews": 2470,
@@ -27546,7 +27548,7 @@ const DATA = {
       },
       {
         "name": "喜拉朵複合式早餐",
-        "description": "",
+        "description": "色彩繽紛的愜意餐廳，供應蛋料理、三明治和咖啡。",
         "area": "礁溪鄉",
         "rating": 4.3,
         "reviews": 2554,
@@ -28023,7 +28025,7 @@ const DATA = {
       },
       {
         "name": "煎烤官到府代客烤肉｜外燴烤肉車｜專業烤肉外燴｜烤肉食材宅配｜宜蘭總倉",
-        "description": "",
+        "description": "餐廳",
         "area": "五結鄉",
         "rating": 5,
         "reviews": 2464,
@@ -28780,7 +28782,7 @@ const DATA = {
       },
       {
         "name": "麻二記市井火鍋",
-        "description": "",
+        "description": "餐廳",
         "area": "羅東鎮",
         "rating": 4.9,
         "reviews": 2598,
@@ -29582,7 +29584,7 @@ const DATA = {
       },
       {
         "name": "頭城車站阿伯炸蛋蔥油餅（搬遷-頭城鎮和平街131號-頭城火車站直走約3分鐘）",
-        "description": "",
+        "description": "餐廳",
         "area": "頭城鎮",
         "rating": 4.3,
         "reviews": 2421,
@@ -29662,7 +29664,7 @@ const DATA = {
       },
       {
         "name": "正宗豆腐岬活海鮮（創始店）",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "蘇澳鎮",
         "rating": 4.1,
         "reviews": 2506,
@@ -31711,7 +31713,7 @@ const DATA = {
       },
       {
         "name": "檸檬草美食茶房 桃園店",
-        "description": "",
+        "description": "亞洲風味餐廳",
         "area": "桃園區",
         "rating": 4.3,
         "reviews": 2445,
@@ -31801,7 +31803,7 @@ const DATA = {
       },
       {
         "name": "WoodHouse 木宅餐館",
-        "description": "",
+        "description": "美式餐廳",
         "area": "中壢區",
         "rating": 4.4,
         "reviews": 2579,
@@ -32243,7 +32245,7 @@ const DATA = {
       },
       {
         "name": "Cafe' de M&L李．西餐廳/李西",
-        "description": "",
+        "description": "簡約的工業風餐廳，提供以義大利麵和肉類菜餚為主的無國界菜單以及甜點",
         "area": "蘆竹區",
         "rating": 4.2,
         "reviews": 2609,
@@ -33091,7 +33093,7 @@ const DATA = {
       },
       {
         "name": "老師傅牛肉麵",
-        "description": "",
+        "description": "充滿時尚氛圍的工業風人氣麵館，專門供應牛肉料理。",
         "area": "中壢區",
         "rating": 4.4,
         "reviews": 2416,
@@ -33351,7 +33353,7 @@ const DATA = {
       },
       {
         "name": "上官木桶鍋 桃園藝文旗艦店",
-        "description": "",
+        "description": "火鍋店",
         "area": "其他",
         "rating": 4.9,
         "reviews": 2637,
@@ -34050,7 +34052,7 @@ const DATA = {
       },
       {
         "name": "HoneyWood Cafe",
-        "description": "",
+        "description": "咖啡館",
         "area": "平鎮區",
         "rating": 4.3,
         "reviews": 2432,
@@ -34385,7 +34387,7 @@ const DATA = {
       },
       {
         "name": "慢食堂",
-        "description": "",
+        "description": "樸實的餐廳，供應抹茶和紅豆等多種口味的特色甜品。",
         "area": "其他",
         "rating": 4.6,
         "reviews": 2441,
@@ -34468,7 +34470,7 @@ const DATA = {
       },
       {
         "name": "山の狼便當",
-        "description": "",
+        "description": "中式餐廳",
         "area": "中壢區",
         "rating": 4.2,
         "reviews": 2509,
@@ -34569,7 +34571,7 @@ const DATA = {
       },
       {
         "name": "海童日式料理",
-        "description": "",
+        "description": "日式餐廳",
         "area": "其他",
         "rating": 4.7,
         "reviews": 2626,
@@ -34901,7 +34903,7 @@ const DATA = {
       },
       {
         "name": "Baker Street 貝克街早午餐",
-        "description": "",
+        "description": "餐廳",
         "area": "中壢區",
         "rating": 4.3,
         "reviews": 2552,
@@ -35791,7 +35793,7 @@ const DATA = {
       },
       {
         "name": "御鼎牛排創意料理",
-        "description": "",
+        "description": "餐廳",
         "area": "中壢區",
         "rating": 4.8,
         "reviews": 2522,
@@ -36154,7 +36156,7 @@ const DATA = {
       },
       {
         "name": "大江屋客家美食館",
-        "description": "",
+        "description": "中式餐廳",
         "area": "龍潭區",
         "rating": 4.2,
         "reviews": 2595,
@@ -36264,7 +36266,7 @@ const DATA = {
       },
       {
         "name": "新梅龍鎮",
-        "description": "",
+        "description": "裝潢溫馨的愜意餐廳，供應傳統台灣料理。",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2392,
@@ -36647,7 +36649,7 @@ const DATA = {
       },
       {
         "name": "大夜市牛排",
-        "description": "",
+        "description": "熱鬧愜意的工業風餐館，專賣份量豐盛的牛排餐點。",
         "area": "中壢區",
         "rating": 4.2,
         "reviews": 2548,
@@ -36919,7 +36921,7 @@ const DATA = {
       },
       {
         "name": "大竹夜市",
-        "description": "",
+        "description": "市場",
         "area": "蘆竹區",
         "rating": 4,
         "reviews": 2642,
@@ -37677,7 +37679,7 @@ const DATA = {
       },
       {
         "name": "The畔 cafe&dining",
-        "description": "",
+        "description": "義大利餐廳",
         "area": "龍潭區",
         "rating": 4.6,
         "reviews": 2555,
@@ -37878,7 +37880,7 @@ const DATA = {
       },
       {
         "name": "松葉園 人文景觀餐廳",
-        "description": "",
+        "description": "中式餐廳",
         "area": "龍潭區",
         "rating": 4.4,
         "reviews": 2594,
@@ -37938,7 +37940,7 @@ const DATA = {
       },
       {
         "name": "邸家咖啡 Deja Brew",
-        "description": "",
+        "description": "早午餐餐廳",
         "area": "龍潭區",
         "rating": 4.7,
         "reviews": 2592,
@@ -39897,7 +39899,7 @@ const DATA = {
       },
       {
         "name": "硬派主廚的軟嫩料理-東門市場",
-        "description": "",
+        "description": "氣氛悠閒的小巧餐廳，供應湯品、燉肉和燒肉料理。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2565,
@@ -40094,7 +40096,7 @@ const DATA = {
       },
       {
         "name": "天吉屋 竹北遠百店",
-        "description": "",
+        "description": "日式餐廳",
         "area": "竹北市",
         "rating": 4.8,
         "reviews": 2634,
@@ -40368,7 +40370,7 @@ const DATA = {
       },
       {
         "name": "潛園五行湯麵",
-        "description": "",
+        "description": "素食餐廳",
         "area": "竹東鎮",
         "rating": 4.3,
         "reviews": 2444,
@@ -40680,7 +40682,7 @@ const DATA = {
       },
       {
         "name": "段純貞牛肉麵-創始店",
-        "description": "",
+        "description": "中式麵館",
         "area": "北區",
         "rating": 4.2,
         "reviews": 2509,
@@ -40800,7 +40802,7 @@ const DATA = {
       },
       {
         "name": "文化城牛肉麵",
-        "description": "",
+        "description": "台式餐廳",
         "area": "竹北市",
         "rating": 4.2,
         "reviews": 2555,
@@ -40830,7 +40832,7 @@ const DATA = {
       },
       {
         "name": "璽子牛肉麵（竹北店）",
-        "description": "",
+        "description": "設有小型露台的平實連鎖店，專門供應牛肉麵與斤餅。",
         "area": "竹北市",
         "rating": 4.1,
         "reviews": 2638,
@@ -40971,7 +40973,7 @@ const DATA = {
       },
       {
         "name": "嗑肉石鍋-新竹西門店(二代店)",
-        "description": "",
+        "description": "火鍋店",
         "area": "北區",
         "rating": 4.7,
         "reviews": 2635,
@@ -41463,7 +41465,7 @@ const DATA = {
       },
       {
         "name": "時覓 海鮮丼飯專門店",
-        "description": "",
+        "description": "日式餐廳",
         "area": "北區",
         "rating": 4.9,
         "reviews": 2419,
@@ -41933,7 +41935,7 @@ const DATA = {
       },
       {
         "name": "老黃豬腳大王",
-        "description": "",
+        "description": "台式餐廳",
         "area": "北區",
         "rating": 4.2,
         "reviews": 2392,
@@ -41954,7 +41956,7 @@ const DATA = {
       },
       {
         "name": "金佳脆皮臭豆腐",
-        "description": "",
+        "description": "附設小型座位區的平實小吃攤，供應豆腐和素食料理。",
         "area": "北區",
         "rating": 4.4,
         "reviews": 2584,
@@ -42187,7 +42189,7 @@ const DATA = {
       },
       {
         "name": "賞壽司",
-        "description": "",
+        "description": "日式餐廳",
         "area": "北區",
         "rating": 4.8,
         "reviews": 2530,
@@ -42533,7 +42535,7 @@ const DATA = {
       },
       {
         "name": "歐浮找餐-竹科店(新莊街美食\竹科人必吃早午餐\關新路美食\關新路早午餐\水耕菜早午餐專賣）",
-        "description": "",
+        "description": "早午餐餐廳",
         "area": "東區",
         "rating": 4.6,
         "reviews": 2482,
@@ -43218,7 +43220,7 @@ const DATA = {
       },
       {
         "name": "姜滿堂존맛탱 新竹巨城店",
-        "description": "",
+        "description": "韓式燒烤料理餐廳",
         "area": "東區",
         "rating": 4.5,
         "reviews": 2437,
@@ -43626,7 +43628,7 @@ const DATA = {
       },
       {
         "name": "小時厚牛排-新竹光復店",
-        "description": "",
+        "description": "Informal all-you-can-eat outfit providing steak, ramen noodles, seafood & other familiar dishes.",
         "area": "東區",
         "rating": 4.1,
         "reviews": 2399,
@@ -43798,7 +43800,7 @@ const DATA = {
       },
       {
         "name": "老頭擺客家菜",
-        "description": "",
+        "description": "中式餐廳",
         "area": "北埔鄉",
         "rating": 4.2,
         "reviews": 2623,
@@ -44391,7 +44393,7 @@ const DATA = {
       },
       {
         "name": "享來初",
-        "description": "",
+        "description": "愜意的日式小吃攤，供應豐盛的家常料理和生啤酒。",
         "area": "北區",
         "rating": 4.3,
         "reviews": 2631,
@@ -44662,7 +44664,7 @@ const DATA = {
       },
       {
         "name": "【李鐵柱麻辣茶鍋】台灣麻辣茶鍋創始品牌 | 竹北店｜麻辣火鍋推薦｜茶湯火鍋｜竹北美食｜竹北火鍋推薦｜網友推薦火鍋店｜寵物友善火鍋店｜聚餐餐廳",
-        "description": "",
+        "description": "餐廳",
         "area": "竹北市",
         "rating": 4.6,
         "reviews": 2495,
@@ -46413,7 +46415,7 @@ const DATA = {
       },
       {
         "name": "龍來小館",
-        "description": "",
+        "description": "餐廳",
         "area": "頭份市",
         "rating": 4.6,
         "reviews": 2470,
@@ -46726,7 +46728,7 @@ const DATA = {
       },
       {
         "name": "吉祥樓餐廳《苗栗三義客家美食餐廳.客家菜.客家料理.特色美食.必吃美食》",
-        "description": "",
+        "description": "中式餐廳",
         "area": "三義鄉",
         "rating": 4.4,
         "reviews": 2461,
@@ -46746,7 +46748,7 @@ const DATA = {
       },
       {
         "name": "叁代堂",
-        "description": "",
+        "description": "中式餐廳",
         "area": "三義鄉",
         "rating": 4.4,
         "reviews": 2505,
@@ -46766,7 +46768,7 @@ const DATA = {
       },
       {
         "name": "新月梧桐三義店",
-        "description": "",
+        "description": "中式餐廳",
         "area": "三義鄉",
         "rating": 4.1,
         "reviews": 2486,
@@ -47623,7 +47625,7 @@ const DATA = {
       },
       {
         "name": "老余牛家莊",
-        "description": "",
+        "description": "火鍋店",
         "area": "後龍鎮",
         "rating": 4.4,
         "reviews": 2427,
@@ -47826,7 +47828,7 @@ const DATA = {
       },
       {
         "name": "後龍太興活海鮮餐廳",
-        "description": "",
+        "description": "餐廳",
         "area": "後龍鎮",
         "rating": 4.1,
         "reviews": 2577,
@@ -48049,7 +48051,7 @@ const DATA = {
       },
       {
         "name": "Doo Coffee寵物友善景觀咖啡廳",
-        "description": "",
+        "description": "咖啡館",
         "area": "公館鄉",
         "rating": 4.6,
         "reviews": 2537,
@@ -49751,7 +49753,7 @@ const DATA = {
       },
       {
         "name": "建國夜市",
-        "description": "",
+        "description": "市場",
         "area": "頭份市",
         "rating": 4.1,
         "reviews": 2454,
@@ -52325,7 +52327,7 @@ const DATA = {
       },
       {
         "name": "森林小徑 大墩店",
-        "description": "",
+        "description": "裝潢時髦的素雅餐廳，供應各種西式料理、甜點和咖啡。",
         "area": "西屯區",
         "rating": 4.7,
         "reviews": 2626,
@@ -52705,7 +52707,7 @@ const DATA = {
       },
       {
         "name": "嵩 sung 台中美村",
-        "description": "",
+        "description": "餐廳",
         "area": "西區",
         "rating": 4.7,
         "reviews": 2442,
@@ -52927,7 +52929,7 @@ const DATA = {
       },
       {
         "name": "亞丁尼義式麵屋 工學店",
-        "description": "",
+        "description": "義大利餐廳",
         "area": "南區",
         "rating": 4.6,
         "reviews": 2482,
@@ -53178,7 +53180,7 @@ const DATA = {
       },
       {
         "name": "小春Koharu 大里旗艦店",
-        "description": "",
+        "description": "餐廳",
         "area": "大里區",
         "rating": 4.5,
         "reviews": 2516,
@@ -53581,7 +53583,7 @@ const DATA = {
       },
       {
         "name": "隱園|無味精牛肉麵丨整尾鰻魚飯|海味小卷麵線|無刺虱目魚麵線|超嫩當歸鴨麵線丨超大隻鮮蝦餛飩麵麵",
-        "description": "",
+        "description": "餐廳",
         "area": "清水區",
         "rating": 4.9,
         "reviews": 2429,
@@ -53663,7 +53665,7 @@ const DATA = {
       },
       {
         "name": "福宴國際創意美食餐廳",
-        "description": "",
+        "description": "空間寬敞的餐廳，提供各式湯品、海鮮及傳統料理。",
         "area": "清水區",
         "rating": 4.2,
         "reviews": 2627,
@@ -53886,7 +53888,7 @@ const DATA = {
       },
       {
         "name": "亦馬いま鍋物",
-        "description": "",
+        "description": "火鍋店",
         "area": "沙鹿區",
         "rating": 4.9,
         "reviews": 2474,
@@ -54843,7 +54845,7 @@ const DATA = {
       },
       {
         "name": "十二段鍋物堂｜逢甲店",
-        "description": "",
+        "description": "火鍋店",
         "area": "其他",
         "rating": 4.8,
         "reviews": 2462,
@@ -55175,7 +55177,7 @@ const DATA = {
       },
       {
         "name": "教父海鮮市場",
-        "description": "",
+        "description": "批發商",
         "area": "其他",
         "rating": 4.9,
         "reviews": 2574,
@@ -55305,7 +55307,7 @@ const DATA = {
       },
       {
         "name": "kafeD",
-        "description": "",
+        "description": "食品專賣店",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2513,
@@ -55669,7 +55671,7 @@ const DATA = {
       },
       {
         "name": "阿棋 三代福州意麵老店",
-        "description": "",
+        "description": "餐廳",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2612,
@@ -55720,7 +55722,7 @@ const DATA = {
       },
       {
         "name": "天天饅頭",
-        "description": "",
+        "description": "簡樸的餐車，供應搭配紅豆內餡的手工饅頭。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2453,
@@ -55875,7 +55877,7 @@ const DATA = {
       },
       {
         "name": "王爺王肉羹(總店)/台中水湳美食/水湳中央公園美食/水湳早午餐/restaurants",
-        "description": "",
+        "description": "早午餐餐廳",
         "area": "其他",
         "rating": 4.6,
         "reviews": 2476,
@@ -56206,7 +56208,7 @@ const DATA = {
       },
       {
         "name": "花囍家日式料理製研所(站前店）",
-        "description": "",
+        "description": "小巧溫馨的餐廳，在簡約的用餐環境中供應傳統日本料理。",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2580,
@@ -56662,7 +56664,7 @@ const DATA = {
       },
       {
         "name": "剛好冰果室",
-        "description": "",
+        "description": "甜點專賣店",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2420,
@@ -57071,7 +57073,7 @@ const DATA = {
       },
       {
         "name": "大股 熟成燒肉專門-台中公益店(原台中大安店)",
-        "description": "",
+        "description": "燈光昏暗的簡約日式餐廳，供應各種肉類料理，並設有桌面爐台與清酒販賣機。",
         "area": "其他",
         "rating": 4.8,
         "reviews": 2564,
@@ -57404,7 +57406,7 @@ const DATA = {
       },
       {
         "name": "泰德牛排",
-        "description": "",
+        "description": "環境明亮的平實牛排館，供應雞肉、豬肉、牛肉餐點和海鮮料理。",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2396,
@@ -57504,7 +57506,7 @@ const DATA = {
       },
       {
         "name": "茹絲葵經典牛排館",
-        "description": "",
+        "description": "高檔的連鎖牛排館，饕客可在優雅的環境中享用佐以奶油且滋滋作響的牛肉",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2395,
@@ -58276,7 +58278,7 @@ const DATA = {
       },
       {
         "name": "山下公園 ラーメン",
-        "description": "",
+        "description": "拉麵店",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2565,
@@ -58789,7 +58791,7 @@ const DATA = {
       },
       {
         "name": "手工臭豆腐",
-        "description": "",
+        "description": "韓國餐廳",
         "area": "北區",
         "rating": 4.3,
         "reviews": 2492,
@@ -59842,7 +59844,7 @@ const DATA = {
       },
       {
         "name": "東勢牛稼莊",
-        "description": "",
+        "description": "這間氣氛輕鬆的餐廳設有露台，供應牛肉與特色內臟料理。",
         "area": "東勢區",
         "rating": 4,
         "reviews": 2442,
@@ -60494,7 +60496,7 @@ const DATA = {
       },
       {
         "name": "來來牛排(原沙鹿市場口)",
-        "description": "",
+        "description": "牛排館",
         "area": "沙鹿區",
         "rating": 4.4,
         "reviews": 2421,
@@ -63469,7 +63471,7 @@ const DATA = {
       },
       {
         "name": "火鍋世家草屯尊爵店",
-        "description": "",
+        "description": "火鍋店",
         "area": "草屯鎮",
         "rating": 4.9,
         "reviews": 2423,
@@ -63479,7 +63481,7 @@ const DATA = {
       },
       {
         "name": "五鮮級鍋物專賣 南投草屯店",
-        "description": "",
+        "description": "火鍋店",
         "area": "草屯鎮",
         "rating": 4.7,
         "reviews": 2473,
@@ -63947,7 +63949,7 @@ const DATA = {
       },
       {
         "name": "隨意食堂",
-        "description": "",
+        "description": "餐廳",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2585,
@@ -64604,7 +64606,7 @@ const DATA = {
       },
       {
         "name": "中興新村第三市場",
-        "description": "",
+        "description": "市場",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2551,
@@ -67988,7 +67990,7 @@ const DATA = {
       },
       {
         "name": "濠誠活海產京川菜麵食餐廳",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "鹿港鎮",
         "rating": 4.4,
         "reviews": 2403,
@@ -68099,7 +68101,7 @@ const DATA = {
       },
       {
         "name": "鹿港肉焿泉",
-        "description": "",
+        "description": "台式餐廳",
         "area": "鹿港鎮",
         "rating": 4,
         "reviews": 2451,
@@ -68109,7 +68111,7 @@ const DATA = {
       },
       {
         "name": "海總派對-員林旗艦店",
-        "description": "",
+        "description": "餐廳",
         "area": "員林市",
         "rating": 4.9,
         "reviews": 2467,
@@ -68616,7 +68618,7 @@ const DATA = {
       },
       {
         "name": "小蔡的ALL BLUE-公仔主題餐廳",
-        "description": "",
+        "description": "擺設大量公仔的新奇餐廳，供應經典高湯和港式飲茶套餐。",
         "area": "和美鎮",
         "rating": 4.8,
         "reviews": 2513,
@@ -69595,7 +69597,7 @@ const DATA = {
       },
       {
         "name": "盅龐水產 旗艦店",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2556,
@@ -69725,7 +69727,7 @@ const DATA = {
       },
       {
         "name": "木生海鮮會館",
-        "description": "",
+        "description": "樸實的餐廳，專門供應海鮮料理、共享餐點與湯品。",
         "area": "鹿港鎮",
         "rating": 4.1,
         "reviews": 2600,
@@ -69910,7 +69912,7 @@ const DATA = {
       },
       {
         "name": "右舍咖啡",
-        "description": "",
+        "description": "明亮且時髦的磚砌咖啡廳，設有藏書量豐富的書架，供應特色咖啡。",
         "area": "員林市",
         "rating": 4.5,
         "reviews": 2412,
@@ -70389,7 +70391,7 @@ const DATA = {
       },
       {
         "name": "富山日本料理",
-        "description": "",
+        "description": "座無虛席的寬敞餐廳，專門供應經典日式料理。",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2511,
@@ -70459,7 +70461,7 @@ const DATA = {
       },
       {
         "name": "くら寿司 藏壽司 彰化中華西路店",
-        "description": "",
+        "description": "壽司店",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2534,
@@ -71936,7 +71938,7 @@ const DATA = {
       },
       {
         "name": "員林第一市場",
-        "description": "",
+        "description": "市場",
         "area": "員林市",
         "rating": 4.1,
         "reviews": 2424,
@@ -72973,7 +72975,7 @@ const DATA = {
       },
       {
         "name": "陽光老店 爌肉飯",
-        "description": "",
+        "description": "環境簡樸的路邊攤，供應米飯料理、滷肉和其他家常美食。",
         "area": "二林鎮",
         "rating": 4.1,
         "reviews": 2601,
@@ -74869,7 +74871,7 @@ const DATA = {
       },
       {
         "name": "叁記傳食-斗六創始店 （叁記刈包）",
-        "description": "",
+        "description": "中式餐廳",
         "area": "斗六市",
         "rating": 4.8,
         "reviews": 2455,
@@ -74960,7 +74962,7 @@ const DATA = {
       },
       {
         "name": "侍悟丸迴轉壽司斗六店",
-        "description": "",
+        "description": "日式餐廳",
         "area": "斗六市",
         "rating": 4.5,
         "reviews": 2633,
@@ -75270,7 +75272,7 @@ const DATA = {
       },
       {
         "name": "斗南米糕甲（無固定休息日）",
-        "description": "",
+        "description": "台式餐廳",
         "area": "斗南鎮",
         "rating": 4.4,
         "reviews": 2590,
@@ -76116,7 +76118,7 @@ const DATA = {
       },
       {
         "name": "億品鍋虎尾店 - 雲林 人氣小火鍋餐廳 平價個人鍋 必吃麻辣鍋 牛奶鍋 藥膳鍋 高cp值海陸鍋 特色湯底鍋物 朋友聚餐首選 虎尾商圈美食 ptt推薦",
-        "description": "",
+        "description": "火鍋店",
         "area": "虎尾鎮",
         "rating": 4.7,
         "reviews": 2475,
@@ -76176,7 +76178,7 @@ const DATA = {
       },
       {
         "name": "三國饌鴛鴦麻辣鍋-虎尾中正旗艦店",
-        "description": "",
+        "description": "火鍋店",
         "area": "虎尾鎮",
         "rating": 4.7,
         "reviews": 2470,
@@ -77634,7 +77636,7 @@ const DATA = {
       },
       {
         "name": "土庫驛可可莊園",
-        "description": "",
+        "description": "巧克力專賣店",
         "area": "土庫鎮",
         "rating": 4.2,
         "reviews": 2546,
@@ -79895,7 +79897,7 @@ const DATA = {
       },
       {
         "name": "華山觀止-虫二行館",
-        "description": "",
+        "description": "當代風山景飯店提供附陽台的簡約客房，並供應早餐。",
         "area": "古坑鄉",
         "rating": 4.5,
         "reviews": 2621,
@@ -81374,7 +81376,7 @@ const DATA = {
       },
       {
         "name": "廢溫室Greenhouse café",
-        "description": "",
+        "description": "綠意盎然的悠閒聚會處，提供泛亞美食、甜點，以及奶茶和咖啡。",
         "area": "東區",
         "rating": 4.2,
         "reviews": 2473,
@@ -82266,7 +82268,7 @@ const DATA = {
       },
       {
         "name": "阿里山火雞肉飯",
-        "description": "",
+        "description": "雞肉料理餐廳",
         "area": "西區",
         "rating": 4,
         "reviews": 2403,
@@ -83939,7 +83941,7 @@ const DATA = {
       },
       {
         "name": "一見日本料理",
-        "description": "",
+        "description": "日式餐廳",
         "area": "太保市",
         "rating": 4.6,
         "reviews": 2412,
@@ -84522,7 +84524,7 @@ const DATA = {
       },
       {
         "name": "劉湯圓甜酒釀燒冷冰",
-        "description": "",
+        "description": "環境舒適的簡樸餐廳，供應各種口味的湯圓和刨冰。",
         "area": "東區",
         "rating": 4.3,
         "reviews": 2497,
@@ -84764,7 +84766,7 @@ const DATA = {
       },
       {
         "name": "燒肉觀止",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "西區",
         "rating": 4.6,
         "reviews": 2499,
@@ -85671,7 +85673,7 @@ const DATA = {
       },
       {
         "name": "福源肉粽 總店",
-        "description": "",
+        "description": "小吃店",
         "area": "西區",
         "rating": 4.2,
         "reviews": 2417,
@@ -86411,7 +86413,7 @@ const DATA = {
       },
       {
         "name": "大林夜市",
-        "description": "",
+        "description": "市場",
         "area": "大林鎮",
         "rating": 4.4,
         "reviews": 2645,
@@ -88234,7 +88236,7 @@ const DATA = {
       },
       {
         "name": "Second Floor 貳樓台南店",
-        "description": "",
+        "description": "美式餐廳",
         "area": "中西區",
         "rating": 4.5,
         "reviews": 2446,
@@ -89835,7 +89837,7 @@ const DATA = {
       },
       {
         "name": "聚 日式鍋物 台南永康中華店",
-        "description": "",
+        "description": "火鍋店",
         "area": "其他",
         "rating": 4.9,
         "reviews": 2582,
@@ -89969,7 +89971,7 @@ const DATA = {
       },
       {
         "name": "敝姓鍋 - 台南海安店-台南北區熱門鍋物|特色火鍋|必吃火鍋|平價火鍋|人氣鍋物|火鍋推薦|火鍋首選|家庭/公司生日聚餐",
-        "description": "",
+        "description": "火鍋店",
         "area": "其他",
         "rating": 4.9,
         "reviews": 2605,
@@ -90898,7 +90900,7 @@ const DATA = {
       },
       {
         "name": "阿和肉燥飯",
-        "description": "",
+        "description": "擁有戶外座位區的簡約餐館，提供舒適自在的氛圍和豐盛的餐點。",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2546,
@@ -90938,7 +90940,7 @@ const DATA = {
       },
       {
         "name": "阿龍意麵",
-        "description": "",
+        "description": "麵店",
         "area": "其他",
         "rating": 4.1,
         "reviews": 2497,
@@ -90989,7 +90991,7 @@ const DATA = {
       },
       {
         "name": "冠津海鮮粥",
-        "description": "",
+        "description": "餐廳",
         "area": "其他",
         "rating": 4.6,
         "reviews": 2453,
@@ -91019,7 +91021,7 @@ const DATA = {
       },
       {
         "name": "福昇小食鱔魚意麵",
-        "description": "",
+        "description": "小吃店",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2557,
@@ -91150,7 +91152,7 @@ const DATA = {
       },
       {
         "name": "水恃 日式料理",
-        "description": "",
+        "description": "風格時髦的餐廳，主打壽司及生魚片等傳統日式料理。",
         "area": "其他",
         "rating": 4.8,
         "reviews": 2601,
@@ -91220,7 +91222,7 @@ const DATA = {
       },
       {
         "name": "穆木 Mummu 臺灣魚生魚片",
-        "description": "",
+        "description": "日式餐廳",
         "area": "其他",
         "rating": 4.8,
         "reviews": 2400,
@@ -92358,7 +92360,7 @@ const DATA = {
       },
       {
         "name": "焦糖楓串燒 /台南中正直營店",
-        "description": "",
+        "description": "烤肉串店",
         "area": "其他",
         "rating": 4.7,
         "reviews": 2556,
@@ -93148,7 +93150,7 @@ const DATA = {
       },
       {
         "name": "新永華夜市",
-        "description": "",
+        "description": "這座每週營業兩日的夜市售有湯麵、雞肉串和冰淇淋，另有街頭表演。",
         "area": "安平區",
         "rating": 4.2,
         "reviews": 2426,
@@ -93333,7 +93335,7 @@ const DATA = {
       },
       {
         "name": "七誠米粿",
-        "description": "",
+        "description": "小吃店",
         "area": "中西區",
         "rating": 4,
         "reviews": 2404,
@@ -93913,7 +93915,7 @@ const DATA = {
       },
       {
         "name": "麻豆阿榮牛肉湯-總店",
-        "description": "",
+        "description": "陳設簡約的餐廳，供應傳統牛肉湯、飯食與大份量煎蛋料理。",
         "area": "麻豆區",
         "rating": 4.3,
         "reviews": 2629,
@@ -97384,7 +97386,7 @@ const DATA = {
       },
       {
         "name": "食光約定",
-        "description": "",
+        "description": "日式餐廳",
         "area": "左營區",
         "rating": 4.7,
         "reviews": 2497,
@@ -97587,7 +97589,7 @@ const DATA = {
       },
       {
         "name": "蒸鮮腸粉港式飲茶 義享店",
-        "description": "",
+        "description": "氣氛輕鬆的寬敞餐廳，供應傳統中式料理。",
         "area": "鼓山區",
         "rating": 4.7,
         "reviews": 2621,
@@ -97697,7 +97699,7 @@ const DATA = {
       },
       {
         "name": "魚小二高雄店(最後收客00:30,可用餐到1:45)",
-        "description": "",
+        "description": "居酒屋",
         "area": "前金區",
         "rating": 4.7,
         "reviews": 2414,
@@ -97737,7 +97739,7 @@ const DATA = {
       },
       {
         "name": "GIEN JIA 挑食",
-        "description": "",
+        "description": "工業風的現代餐廳，供應源自西式料理的獨特佳餚和飲料。",
         "area": "前金區",
         "rating": 4.2,
         "reviews": 2496,
@@ -98013,7 +98015,7 @@ const DATA = {
       },
       {
         "name": "老賈小館庭園餐廳",
-        "description": "",
+        "description": "餐廳",
         "area": "鳳山區",
         "rating": 4.2,
         "reviews": 2429,
@@ -98164,7 +98166,7 @@ const DATA = {
       },
       {
         "name": "老夫子小館-岡山店",
-        "description": "",
+        "description": "樸實的餐廳，供應傳統家常肉類、海鮮和蔬菜料理。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2429,
@@ -98467,7 +98469,7 @@ const DATA = {
       },
       {
         "name": "阿香的廚房 Ibu Kitchen",
-        "description": "",
+        "description": "亞洲風味餐廳",
         "area": "美濃區",
         "rating": 4.4,
         "reviews": 2517,
@@ -99341,7 +99343,7 @@ const DATA = {
       },
       {
         "name": "貳堂鍋物",
-        "description": "",
+        "description": "工業時尚風休閒餐廳，專門供應火鍋料理，並提供外帶選項。",
         "area": "苓雅區",
         "rating": 4.5,
         "reviews": 2645,
@@ -99432,7 +99434,7 @@ const DATA = {
       },
       {
         "name": "華寧麻辣火鍋",
-        "description": "",
+        "description": "火鍋店",
         "area": "左營區",
         "rating": 4.8,
         "reviews": 2525,
@@ -99662,7 +99664,7 @@ const DATA = {
       },
       {
         "name": "海天下海產餐廳",
-        "description": "",
+        "description": "海鮮餐廳",
         "area": "新興區",
         "rating": 4.4,
         "reviews": 2396,
@@ -100172,7 +100174,7 @@ const DATA = {
       },
       {
         "name": "正牌白糖粿",
-        "description": "",
+        "description": "老字號小吃攤，專門供應油炸點心、芝麻球和其他傳統街頭小吃。",
         "area": "苓雅區",
         "rating": 4.6,
         "reviews": 2550,
@@ -100375,7 +100377,7 @@ const DATA = {
       },
       {
         "name": "阿英排骨飯",
-        "description": "",
+        "description": "餐廳",
         "area": "鹽埕區",
         "rating": 4.1,
         "reviews": 2631,
@@ -100515,7 +100517,7 @@ const DATA = {
       },
       {
         "name": "十三巷手作壽司",
-        "description": "",
+        "description": "裝潢簡約的樸實餐廳，專門供應日式啤酒和輕食。",
         "area": "三民區",
         "rating": 4.6,
         "reviews": 2575,
@@ -100646,7 +100648,7 @@ const DATA = {
       },
       {
         "name": "高雄幕府壽司英雄店",
-        "description": "",
+        "description": "壽司店",
         "area": "苓雅區",
         "rating": 4.6,
         "reviews": 2486,
@@ -101361,7 +101363,7 @@ const DATA = {
       },
       {
         "name": "行事燒仙草紅心粉圓-苓雅燒仙草推薦|必吃甜品|人氣甜品|辦公室下午茶|必吃冰品|人氣冰店|刨冰推薦|嫩仙草推薦",
-        "description": "",
+        "description": "甜品餐廳",
         "area": "苓雅區",
         "rating": 4.1,
         "reviews": 2418,
@@ -106415,7 +106417,7 @@ const DATA = {
       },
       {
         "name": "隆興汕頭火鍋",
-        "description": "",
+        "description": "熱鬧的樸實餐廳，供應傳統火鍋。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2443,
@@ -106869,7 +106871,7 @@ const DATA = {
       },
       {
         "name": "永鑫海鮮餐廳",
-        "description": "",
+        "description": "餐廳",
         "area": "林邊鄉",
         "rating": 4,
         "reviews": 2396,
@@ -107296,7 +107298,7 @@ const DATA = {
       },
       {
         "name": "愛家臭豆腐",
-        "description": "",
+        "description": "小吃店",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2543,
@@ -108015,7 +108017,7 @@ const DATA = {
       },
       {
         "name": "阿基伯冰店",
-        "description": "",
+        "description": "甜點專賣店",
         "area": "萬丹鄉",
         "rating": 4.3,
         "reviews": 2464,
@@ -108338,7 +108340,7 @@ const DATA = {
       },
       {
         "name": "饌 日式燒肉放題 對面停車非特約《開車請導航「廣東南路停車場」》",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "其他",
         "rating": 4.3,
         "reviews": 2463,
@@ -109821,7 +109823,7 @@ const DATA = {
       },
       {
         "name": "萬大補乳室",
-        "description": "",
+        "description": "餐廳",
         "area": "萬丹鄉",
         "rating": 4.8,
         "reviews": 2465,
@@ -111363,7 +111365,7 @@ const DATA = {
       },
       {
         "name": "小木屋玉里麵",
-        "description": "",
+        "description": "中式麵館",
         "area": "其他",
         "rating": 4.2,
         "reviews": 2495,
@@ -112791,7 +112793,7 @@ const DATA = {
       },
       {
         "name": "邊境法式點心坊",
-        "description": "",
+        "description": "時尚咖啡店，玻璃櫃中有許多精緻的法式糕點與甜點。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2591,
@@ -113118,7 +113120,7 @@ const DATA = {
       },
       {
         "name": "花本家壽司",
-        "description": "",
+        "description": "平實的日式餐館，供應壽司捲、握壽司、丼飯、海鮮料理、麵食與湯品。",
         "area": "吉安鄉",
         "rating": 4.1,
         "reviews": 2555,
@@ -114354,7 +114356,7 @@ const DATA = {
       },
       {
         "name": "WoodHouse 木宅餐館",
-        "description": "",
+        "description": "美式餐廳",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2579,
@@ -114464,7 +114466,7 @@ const DATA = {
       },
       {
         "name": "遺忘的故鄉 月廬食堂",
-        "description": "",
+        "description": "雞肉料理餐廳",
         "area": "鳳林鎮",
         "rating": 4.4,
         "reviews": 2534,
@@ -116669,7 +116671,7 @@ const DATA = {
       },
       {
         "name": "井碳吉炭火燒肉餐廳 ｜ 台東美食",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "台東市",
         "rating": 4.9,
         "reviews": 2521,
@@ -117538,7 +117540,7 @@ const DATA = {
       },
       {
         "name": "樂烤和牛-台東店｜台東美食｜燒烤吃到飽",
-        "description": "",
+        "description": "日式燒肉餐廳",
         "area": "其他",
         "rating": 4.5,
         "reviews": 2424,
@@ -118254,7 +118256,7 @@ const DATA = {
       },
       {
         "name": "台東連城記地瓜酥(正氣門市)",
-        "description": "",
+        "description": "小吃店",
         "area": "其他",
         "rating": 4.9,
         "reviews": 2514,
@@ -121280,7 +121282,7 @@ const DATA = {
       },
       {
         "name": "海九澎湖海鮮餐廳",
-        "description": "",
+        "description": "布置溫馨的傳統餐廳，供應在澎湖水域捕獲的海鮮。",
         "area": "其他",
         "rating": 4.4,
         "reviews": 2612,
@@ -121644,7 +121646,7 @@ const DATA = {
       },
       {
         "name": "澎湖-回家炸粿",
-        "description": "",
+        "description": "小吃店",
         "area": "白沙鄉",
         "rating": 4.1,
         "reviews": 2477,
@@ -121916,7 +121918,7 @@ const DATA = {
       },
       {
         "name": "海童日式料理",
-        "description": "",
+        "description": "日式餐廳",
         "area": "其他",
         "rating": 4.7,
         "reviews": 2626,
@@ -124194,7 +124196,8 @@ const DATA = {
         "description": "馬祖特產淡菜乾海鮮伴手"
       }
     ]
-  }
+  },
+  "_updatedAt": "2026-07-13 08:55"
 };
 const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
 let currentCounty = '基隆';
@@ -124388,6 +124391,7 @@ function render(){
       <div class="main-header">
         <h2>${currentCounty}</h2>
         ${tips?`<div class="tips">${tips}</div>`:''}
+        <div class="update-time">更新於 ${DATA._updatedAt || '未知'}</div>
       </div>
       ${galleryHtml}
       <input class="search-bar" placeholder="搜尋景點、美食..." oninput="filterSearch(this.value)">
