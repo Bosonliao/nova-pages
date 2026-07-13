@@ -124254,23 +124254,41 @@ function filterRoute(btn, tag){
 function filterArea(btn, area){
   document.querySelectorAll('.area-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
+  // Get current active cat filter
+  const activeCatBtn = document.querySelector('.food-cat-btn:not(.area-btn).active');
+  const activeCat = activeCatBtn ? activeCatBtn.textContent.trim() : '';
+  // Filter area groups and cards by BOTH area AND cat
   document.querySelectorAll('.area-group').forEach(group=>{
-    if(!area || group.dataset.area === area){
+    if(!area || area==='全區' || group.dataset.area === area){
       group.style.display = '';
     } else {
       group.style.display = 'none';
     }
   });
+  if(activeCat){
+    document.querySelectorAll('.food-card').forEach(card=>{
+      const cats = (card.dataset.cats||'').split(',');
+      if(!cats.includes(activeCat)){
+        card.style.display = 'none';
+      }
+    });
+  }
 }
 
 function filterFood(btn, cat){
-  // Toggle active button
-  document.querySelectorAll('.food-cat-btn').forEach(b=>b.classList.remove('active'));
+  // Toggle active cat button only (NOT area buttons)
+  document.querySelectorAll('.food-cat-btn:not(.area-btn)').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
-  // Filter cards
+  // Get current active area filter
+  const activeAreaBtn = document.querySelector('.area-btn.active');
+  const activeArea = activeAreaBtn ? activeAreaBtn.textContent.trim() : '';
+  // Filter cards by BOTH cat AND area
   document.querySelectorAll('.food-card').forEach(card=>{
     const cats = (card.dataset.cats||'').split(',');
-    if(!cat || cats.includes(cat)){
+    const cardArea = card.closest('.area-group') ? card.closest('.area-group').dataset.area : '';
+    const catMatch = !cat || cats.includes(cat);
+    const areaMatch = !activeArea || activeArea==='全區' || cardArea === activeArea;
+    if(catMatch && areaMatch){
       card.style.display = '';
     } else {
       card.style.display = 'none';
@@ -124288,7 +124306,7 @@ function filterFood(btn, cat){
 }
 
 function filterFootSoak(btn){
-  document.querySelectorAll('.food-cat-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.food-cat-btn:not(.area-btn)').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   document.querySelectorAll('.food-card').forEach(card=>{
     if(card.dataset.footsoak === '1'){
@@ -124308,7 +124326,7 @@ function filterFootSoak(btn){
 }
 
 function filterPopular(btn){
-  document.querySelectorAll('.food-cat-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.food-cat-btn:not(.area-btn)').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   document.querySelectorAll('.food-card').forEach(card=>{
     if(card.dataset.popular === '1'){
@@ -124328,7 +124346,7 @@ function filterPopular(btn){
 }
 
 function filterMichelin(btn){
-  document.querySelectorAll('.food-cat-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.food-cat-btn:not(.area-btn)').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   document.querySelectorAll('.food-card').forEach(card=>{
     if(card.dataset.michelin === '1'){
