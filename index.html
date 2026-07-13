@@ -126744,7 +126744,7 @@ function renderTab(routes,food,stay,spots,indoor,souvenirs){
     // Collect all categories
     const allCats = new Set();
     food.forEach(f=>{(f.categories||['其他']).forEach(c=>allCats.add(c))});
-    const catList = Array.from(allCats);
+    const catOrder = ['中式','西式','日式','異國','甜食','咖啡廳','火鍋','素食']; const catList = [...catOrder.filter(c=>allCats.has(c)), ...Array.from(allCats).filter(c=>!catOrder.includes(c))];
     // Collect areas
     const allAreas = new Set();
     food.forEach(f=>{allAreas.add(f.area||'其他')});
