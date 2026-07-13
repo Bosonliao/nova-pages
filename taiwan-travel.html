@@ -124794,8 +124794,15 @@ function renderTab(routes,food,stay,spots,indoor,souvenirs){
       catBar += `<button class="food-cat-btn" onclick="filterFood(this,'${c}')">${c}</button>`;
     });
     catBar += '</div>';
+    // Sort food: popular (4★+1000 reviews) first, then by reviews desc
+    const sortedFood = [...food].sort((a,b)=>{
+      const aPop = (a.rating>=4.0 && a.reviews>=1000) ? 1 : 0;
+      const bPop = (b.rating>=4.0 && b.reviews>=1000) ? 1 : 0;
+      if(bPop !== aPop) return bPop - aPop;
+      return (b.reviews||0) - (a.reviews||0);
+    });
     const groups = {};
-    food.forEach(f=>{
+    sortedFood.forEach(f=>{
       const area = f.area || '其他';
       if(!groups[area]) groups[area] = [];
       groups[area].push(f);
