@@ -124260,6 +124260,8 @@ function filterArea(btn, area){
   // Get current active cat filter
   const activeCatBtn = document.querySelector('.food-cat-btn:not(.area-btn).active');
   const activeCat = activeCatBtn ? activeCatBtn.textContent.trim() : '';
+  // Reset all cards first
+  document.querySelectorAll('.food-card').forEach(card=>{card.style.display='';});
   // Filter area groups and cards by BOTH area AND cat
   document.querySelectorAll('.area-group').forEach(group=>{
     if(!area || area==='全區' || group.dataset.area === area){
@@ -124268,7 +124270,7 @@ function filterArea(btn, area){
       group.style.display = 'none';
     }
   });
-  if(activeCat){
+  if(activeCat && activeCat !== '全部'){
     document.querySelectorAll('.food-card').forEach(card=>{
       const cats = (card.dataset.cats||'').split(',');
       if(!cats.includes(activeCat)){
@@ -124276,6 +124278,14 @@ function filterArea(btn, area){
       }
     });
   }
+  // Hide empty area groups
+  document.querySelectorAll('.area-group').forEach(group=>{
+    const visible = group.querySelectorAll('.food-card:not([style*="display: none"])');
+    if(visible.length === 0){
+      group.style.display = 'none';
+    }
+  });
+}
 }
 
 function filterFood(btn, cat){
