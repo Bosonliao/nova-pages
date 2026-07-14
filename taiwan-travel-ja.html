@@ -170,7 +170,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 </style>
 </head>
 <body>
-<button class="hamburger" id="hamburger" onclick="toggleSidebar()"><span class="ham-icon">☰</span><span class="ham-text" id="hamText">基隆</span><span class="ham-arrow">▾ 県を選択</span></button>
+<button class="hamburger" id="hamburger" onclick="toggleSidebar()"><span class="ham-icon">☰</span><span class="ham-text" id="hamText">台北</span><span class="ham-arrow">▾ 県を選択</span></button>
 <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
 <div class="sidebar" id="sidebar">
   <div class="sidebar-header">
@@ -220,7 +220,7 @@ fetch('data-ja.json')
   .catch(e => { console.error('Failed to load data:', e); document.body.innerHTML = '<p style="padding:2rem;text-align:center">データの読み込みに失敗しました。再読み込みしてください。</p>'; });
 
 const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
-let currentCounty = '基隆';
+let currentCounty = '台北';
 let currentTab = 'routes';
 
 function gmapLink(query, county){
