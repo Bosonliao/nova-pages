@@ -373,6 +373,8 @@
     color: var(--gray);
     margin: 16px 0 8px;
   }
+  .tab .count{font-size:12px;color:#999;font-weight:400;margin-left:2px;}
+  .tab.active .count{color:var(--teal-dark);font-weight:600;}
 </style>
 </head>
 <body>
@@ -382,7 +384,7 @@
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 11:33</div>
+  <div class="update-time">最後更新：2026-07-14 11:35</div>
 </div>
 
 <!-- Search -->
@@ -393,14 +395,14 @@
 
 <!-- Tabs -->
 <div class="tabs" id="tabs">
-  <div class="tab active" data-filter="all">全部</div>
-  <div class="tab" data-filter="coffee">☕ 咖啡</div>
-  <div class="tab" data-filter="brunch">🍳 早午餐</div>
-  <div class="tab" data-filter="dinner">🍽️ 晚餐</div>
-  <div class="tab" data-filter="snack">🌮 輕食</div>
-  <div class="tab" data-filter="bar">🍸 酒吧</div>
-  <div class="tab" data-filter="spot">📍 景點</div>
-  <div class="tab" data-filter="route">🚶 路線</div>
+  <div class="tab active" data-filter="all">全部 <span class="count" id="cnt-all"></span></div>
+  <div class="tab" data-filter="coffee">☕ 咖啡 <span class="count" id="cnt-coffee"></span></div>
+  <div class="tab" data-filter="brunch">🍳 早午餐 <span class="count" id="cnt-brunch"></span></div>
+  <div class="tab" data-filter="dinner">🍽️ 餐廳 <span class="count" id="cnt-dinner"></span></div>
+  <div class="tab" data-filter="snack">🌮 輕食 <span class="count" id="cnt-snack"></span></div>
+  <div class="tab" data-filter="bar">🍸 酒吧 <span class="count" id="cnt-bar"></span></div>
+  <div class="tab" data-filter="spot">📍 景點 <span class="count" id="cnt-spot"></span></div>
+  <div class="tab" data-filter="route">🚶 路線 <span class="count">4</span></div>
 </div>
 
 <!-- Route Section (shown when route tab active) -->
@@ -674,6 +676,15 @@ const tabsContainer = document.getElementById('tabs');
 const noResults = document.getElementById('noResults');
 const resultCount = document.getElementById('resultCount');
 const routeSection = document.getElementById('routeSection');
+
+// Count categories
+const catCounts = {};
+DATA.forEach(item => { catCounts[item.cat] = (catCounts[item.cat] || 0) + 1; });
+document.getElementById('cnt-all').textContent = `(${DATA.length})`;
+['coffee','brunch','dinner','snack','bar','spot'].forEach(c => {
+  const el = document.getElementById('cnt-' + c);
+  if (el) el.textContent = `(${catCounts[c] || 0})`;
+});
 
 let activeFilter = 'all';
 let searchTerm = '';
