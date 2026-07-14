@@ -542,11 +542,11 @@ function renderTab(routes,food,spots,indoor,souvenirs){
       const noAreaCards = noArea.map(f=>{
         const link = gmapLink(f.name, currentCounty);
         let ratingHtml = '';
-        if(f.rating !== null && f.rating !== undefined){
+        if(f.rating !== null && f.rating !== undefined && f.rating > 0){
           const stars = '★'.repeat(Math.round(f.rating));
           const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
           ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
-          if(f.reviews !== null && f.reviews !== undefined){
+          if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}件)</span>`;
           }
           ratingHtml += `</span>`;
@@ -568,11 +568,11 @@ function renderTab(routes,food,spots,indoor,souvenirs){
       const cards = items.map(f=>{
         const link = gmapLink(f.name, currentCounty + ' ' + area);
         let ratingHtml = '';
-        if(f.rating !== null && f.rating !== undefined){
+        if(f.rating !== null && f.rating !== undefined && f.rating > 0){
           const stars = '★'.repeat(Math.round(f.rating));
           const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
           ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
-          if(f.reviews !== null && f.reviews !== undefined){
+          if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}件)</span>`;
           }
           ratingHtml += `</span>`;
