@@ -191,6 +191,23 @@
   .google-link:hover {
     color: var(--coral);
   }
+  .award-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 6px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .award-badge.chef-hat {
+    background: #1a237e;
+    color: #ffd700;
+  }
+  .award-badge.michelin {
+    background: #b71c1c;
+    color: #fff;
+  }
   .card:hover {
     box-shadow: var(--shadow-hover);
     transform: translateY(-2px);
@@ -384,7 +401,7 @@
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 11:35</div>
+  <div class="update-time">最後更新：2026-07-14 11:37</div>
 </div>
 
 <!-- Search -->
@@ -497,12 +514,12 @@ const DATA = [
   { name: "Janus Deli", cat: "brunch", tag: "三明治", desc: "Gold Coast 人氣三明治專賣，首進布里斯本 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Janus+Deli+West+End+Brisbane" },
 
   // 🍽️ 晚餐
-  { name: "Layla", cat: "dinner", tag: "中東料理", desc: "中東料理，異國風味的夜晚選擇", rating: 4.2, reviews: 14, googleUrl: "https://www.google.com/maps/search/Layla+West+End+Brisbane" },
-  { name: "Rich + Rare", cat: "dinner", tag: "牛排", desc: "牛排專賣，肉食愛好者天堂", rating: 4.8, reviews: 3310, popular: true, googleUrl: "https://www.google.com/maps/search/Rich+++Rare+West+End+Brisbane" },
+  { name: "Layla", cat: "dinner", tag: "中東料理", desc: "中東料理，異國風味的夜晚選擇", rating: 4.2, reviews: 14, googleUrl: "https://www.google.com/maps/search/Layla+West+End+Brisbane", award: "chef_hat" },
+  { name: "Rich + Rare", cat: "dinner", tag: "牛排", desc: "牛排專賣，肉食愛好者天堂", rating: 4.8, reviews: 3310, popular: true, googleUrl: "https://www.google.com/maps/search/Rich+++Rare+West+End+Brisbane", award: "chef_hat" },
   { name: "Pilloni", cat: "dinner", tag: "義大利薩丁尼亞", desc: "義大利薩丁尼亞料理，道地島嶼風味", rating: 4.7, reviews: 6, googleUrl: "https://www.google.com/maps/search/Pilloni+West+End+Brisbane" },
   { name: "Yamas", cat: "dinner", tag: "希臘海鮮", desc: "希臘海鮮料理，新鮮直送", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Yamas+West+End+Brisbane" },
   { name: "Bar Francine", cat: "dinner", tag: "歐風料理", desc: "歐風料理 + 澳洲葡萄酒搭配", rating: 4.7, reviews: 230, googleUrl: "https://www.google.com/maps/search/Bar+Francine+West+End+Brisbane" },
-  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，精緻日式壽司", rating: 4.8, reviews: 144, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane" },
+  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，精緻日式壽司", rating: 4.8, reviews: 144, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane", award: "michelin_cred" },
   { name: "Vela", cat: "dinner", tag: "亞洲精緻", desc: "亞洲精緻料理，融合現代技法", rating: 4.6, reviews: 255, googleUrl: "https://www.google.com/maps/search/Vela+West+End+Brisbane" },
   { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界", rating: 4.4, reviews: 744, popular: true, googleUrl: "https://www.google.com/maps/search/Zazu+West+End+Brisbane" },
   { name: "Don Gino Trattoria", cat: "dinner", tag: "西西里義式", desc: "西西里風味義式餐廳 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Don+Gino+Trattoria+West+End+Brisbane" },
@@ -578,7 +595,7 @@ const DATA = [
   { name: "Nodo", cat: "snack", tag: "無麩質甜甜圈", desc: "無麩質甜甜圈專賣，手工烘焙方式製作，West Village內", rating: 4.5, reviews: 380, googleUrl: "https://www.google.com/maps/search/Nodo+West+End+Brisbane" },
   { name: "Dello Mano", cat: "snack", tag: "手工布朗尼", desc: "West End廚房工作室兼店面，手工布朗尼和蛋糕，巴黎街5號", rating: 4.6, reviews: 95, googleUrl: "https://www.google.com/maps/search/Dello+Mano+West+End+Brisbane" },
   { name: "Donut Boyz", cat: "snack", tag: "貨櫃屋甜甜圈", desc: "貨櫃屋出來的高概念甜甜圈，Boundary與Mollison轉角", rating: 4.4, reviews: 210, googleUrl: "https://www.google.com/maps/search/Donut+Boyz+West+End+Brisbane" },
-  { name: "Ippin Japanese Dining", cat: "dinner", tag: "日式主廚帽", desc: "West Village內的主廚帽日料，4.7星Google評分，清酒與日本威士忌酒單", rating: 4.7, reviews: 1400, popular: true, googleUrl: "https://www.google.com/maps/search/Ippin+Japanese+Dining+West+End+Brisbane" },
+  { name: "Ippin Japanese Dining", cat: "dinner", tag: "日式主廚帽", desc: "West Village內的主廚帽日料，4.7星Google評分，清酒與日本威士忌酒單", rating: 4.7, reviews: 1400, popular: true, googleUrl: "https://www.google.com/maps/search/Ippin+Japanese+Dining+West+End+Brisbane", award: "chef_hat" },
   { name: "Italian Street Kitchen", cat: "dinner", tag: "義式料理", desc: "West Village內的義式餐廳，感受義大利美食的精髓", rating: 4.3, reviews: 260, googleUrl: "https://www.google.com/maps/search/Italian+Street+Kitchen+West+End+Brisbane" },
   { name: "Betty's Burgers", cat: "snack", tag: "1950s漢堡", desc: "1950年代風格的澳洲漢堡 shack，West Village美食區", rating: 4.2, reviews: 580, popular: true, googleUrl: "https://www.google.com/maps/search/Betty's+Burgers+West+End+Brisbane" },
   { name: "Cheeky Poke", cat: "snack", tag: "夏威夷 Poke", desc: "West Village內的夏威夷 Poke Bowl 專賣", rating: 4.3, reviews: 150, googleUrl: "https://www.google.com/maps/search/Cheeky+Poke+West+End+Brisbane" },
@@ -734,11 +751,14 @@ function render() {
     const popularBadge = item.popular ? '<span class="popular-badge">🔥 人氣</span>' : '';
     const popularClass = item.popular ? ' popular' : '';
     const linkIcon = item.googleUrl ? '<a class="google-link" href="' + item.googleUrl + '" target="_blank" title="Google Maps">📍</a>' : '';
+    let awardBadge = '';
+    if (item.award === 'chef_hat') awardBadge = '<span class="award-badge chef-hat">🎩 Chef Hat</span>';
+    if (item.award === 'michelin_cred') awardBadge = '<span class="award-badge michelin">⭐ Michelin Cred</span>';
     return `
     <div class="card${popularClass}" data-cat="${item.cat}">
       <div class="card-head">
         <div>
-          <div class="card-name">${item.name} ${popularBadge} ${linkIcon}</div>
+          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${linkIcon}</div>
           ${ratingHtml}
         </div>
         <span class="card-tag">${item.tag}</span>
