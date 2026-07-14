@@ -382,7 +382,7 @@
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 11:28</div>
+  <div class="update-time">最後更新：2026-07-14 11:32</div>
 </div>
 
 <!-- Search -->
@@ -475,14 +475,14 @@
 <script>
 const DATA = [
   // ☕ 咖啡
-  { name: "Blackstar Coffee Roasters", cat: "coffee", tag: "咖啡烘焙", desc: "當地烘焙名店，West End 咖啡文化的標誌", rating: 4.5, reviews: 727, googleUrl: "https://www.google.com/maps/search/Blackstar+Coffee+Roasters+West+End+Brisbane" },
+  { name: "Blackstar Coffee Roasters", cat: "coffee", tag: "咖啡烘焙", desc: "當地烘焙名店，West End 咖啡文化的標誌", rating: 4.5, reviews: 727, googleUrl: "https://www.google.com/maps/search/Blackstar+Coffee+Roasters+West+End+Brisbane" , popular: true },
   { name: "Veneziano Coffee Roasters", cat: "coffee", tag: "精品咖啡", desc: "精品咖啡烘焙，追求品質的行家首選", rating: 4.4, reviews: 453, googleUrl: "https://www.google.com/maps/search/Veneziano+Coffee+Roasters+West+End+Brisbane" },
-  { name: "West End Coffee House", cat: "coffee", tag: "社區咖啡", desc: "社區咖啡 hub，也賣泰式街頭美食", rating: 4.8, reviews: 719, googleUrl: "https://www.google.com/maps/search/West+End+Coffee+House+West+End+Brisbane" },
+  { name: "West End Coffee House", cat: "coffee", tag: "社區咖啡", desc: "社區咖啡 hub，也賣泰式街頭美食", rating: 4.8, reviews: 719, googleUrl: "https://www.google.com/maps/search/West+End+Coffee+House+West+End+Brisbane" , popular: true },
   { name: "GoodGood", cat: "coffee", tag: "單品咖啡", desc: "單品咖啡文化，精品手沖愛好者必訪", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/GoodGood+West+End+Brisbane" },
 
   // 🍳 早午餐
   { name: "Morning After", cat: "brunch", tag: "健康早午餐", desc: "健康又 indulgent 的有趣菜單", rating: 4.3, reviews: 1073, popular: true, googleUrl: "https://www.google.com/maps/search/Morning+After+West+End+Brisbane" },
-  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思，Bangladeshi-Fusion", rating: 4.9, reviews: 28, popular: true, googleUrl: "https://www.google.com/maps/search/Café+Disco+West+End+Brisbane" },
+  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思，Bangladeshi-Fusion", rating: 4.9, reviews: 28, googleUrl: "https://www.google.com/maps/search/Café+Disco+West+End+Brisbane" },
   { name: "Second Rodeo", cat: "brunch", tag: "Tex-Mex", desc: "Tex-Mex 早午餐：breakfast tacos, huevos rancheros", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Second+Rodeo+West+End+Brisbane" },
   { name: "Semi Semi", cat: "brunch", tag: "日式義式融合", desc: "日式 + 義式融合，三明治 + 抹茶", rating: 4.6, reviews: 128, googleUrl: "https://www.google.com/maps/search/Semi+Semi+West+End+Brisbane" },
   { name: "Gun Shop Café", cat: "brunch", tag: "老字號", desc: "West End 老字號，招牌 potato & fetta hash cakes", rating: 4.2, reviews: 350, googleUrl: "https://www.google.com/maps/search/Gun+Shop+Café+West+End+Brisbane" },
@@ -500,7 +500,7 @@ const DATA = [
   { name: "Pilloni", cat: "dinner", tag: "義大利薩丁尼亞", desc: "義大利薩丁尼亞料理，道地島嶼風味", rating: 4.7, reviews: 6, googleUrl: "https://www.google.com/maps/search/Pilloni+West+End+Brisbane" },
   { name: "Yamas", cat: "dinner", tag: "希臘海鮮", desc: "希臘海鮮料理，新鮮直送", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Yamas+West+End+Brisbane" },
   { name: "Bar Francine", cat: "dinner", tag: "歐風料理", desc: "歐風料理 + 澳洲葡萄酒搭配", rating: 4.7, reviews: 230, googleUrl: "https://www.google.com/maps/search/Bar+Francine+West+End+Brisbane" },
-  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，米其林級壽司", rating: 4.8, reviews: 144, popular: true, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane" },
+  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，米其林級壽司", rating: 4.8, reviews: 144, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane" },
   { name: "Vela", cat: "dinner", tag: "亞洲精緻", desc: "亞洲精緻料理，融合現代技法", rating: 4.6, reviews: 255, googleUrl: "https://www.google.com/maps/search/Vela+West+End+Brisbane" },
   { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界", rating: 4.4, reviews: 744, popular: true, googleUrl: "https://www.google.com/maps/search/Zazu+West+End+Brisbane" },
   { name: "Don Gino Trattoria", cat: "dinner", tag: "西西里義式", desc: "西西里風味義式餐廳 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Don+Gino+Trattoria+West+End+Brisbane" },
@@ -521,9 +521,9 @@ const DATA = [
   // 🍸 酒吧
   { name: "Archive Beer Boutique", cat: "bar", tag: "精釀啤酒", desc: "80+ 精釀啤酒，啤酒愛好者天堂", rating: 4.3, reviews: 1100, popular: true, googleUrl: "https://www.google.com/maps/search/Archive+Beer+Boutique+West+End+Brisbane" },
   { name: "Catchment Brewing Co.", cat: "bar", tag: "精釀啤酒廠", desc: "精釀啤酒廠，現釀新鮮直送", rating: 4.1, reviews: 280, googleUrl: "https://www.google.com/maps/search/Catchment+Brewing+Co.+West+End+Brisbane" },
-  { name: "Brisbane Brewing Co.", cat: "bar", tag: "精釀啤酒", desc: "布里斯本本地精釀啤酒", rating: 4.5, reviews: 958, googleUrl: "https://www.google.com/maps/search/Brisbane+Brewing+Co.+West+End+Brisbane" },
-  { name: "The Boundary Hotel", cat: "bar", tag: "歷史酒吧", desc: "1864 年歷史酒吧，live music + woodfired pizza", rating: 3.9, reviews: 1669, popular: true, googleUrl: "https://www.google.com/maps/search/The+Boundary+Hotel+West+End+Brisbane" },
-  { name: "Covent Garden", cat: "bar", tag: "琴酒", desc: "500+ 琴酒，澳洲最大琴酒選擇之一", rating: 4.7, reviews: 500, googleUrl: "https://www.google.com/maps/search/Covent+Garden+West+End+Brisbane" },
+  { name: "Brisbane Brewing Co.", cat: "bar", tag: "精釀啤酒", desc: "布里斯本本地精釀啤酒", rating: 4.5, reviews: 958, googleUrl: "https://www.google.com/maps/search/Brisbane+Brewing+Co.+West+End+Brisbane" , popular: true },
+  { name: "The Boundary Hotel", cat: "bar", tag: "歷史酒吧", desc: "1864 年歷史酒吧，live music + woodfired pizza", rating: 3.9, reviews: 1669, googleUrl: "https://www.google.com/maps/search/The+Boundary+Hotel+West+End+Brisbane" },
+  { name: "Covent Garden", cat: "bar", tag: "琴酒", desc: "500+ 琴酒，澳洲最大琴酒選擇之一", rating: 4.7, reviews: 500, googleUrl: "https://www.google.com/maps/search/Covent+Garden+West+End+Brisbane" , popular: true },
   { name: "Cobbler", cat: "bar", tag: "威士忌雞尾酒", desc: "威士忌 + 雞尾酒，品飲靜謐空間", rating: 4.7, reviews: 870, popular: true, googleUrl: "https://www.google.com/maps/search/Cobbler+West+End+Brisbane" },
   { name: "The Bearded Lady", cat: "bar", tag: "Live music", desc: "Live music酒吧，音樂人聚集地", rating: 4.6, reviews: 5, googleUrl: "https://www.google.com/maps/search/The+Bearded+Lady+West+End+Brisbane" },
   { name: "West Room", cat: "bar", tag: "Live music", desc: "Live music，本地樂團演出", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/West+Room+West+End+Brisbane" },
@@ -541,11 +541,11 @@ const DATA = [
   { name: "West End Ferry Terminal", cat: "spot", tag: "渡輪站", desc: "搭渡輪遊河，欣賞布里斯本河景", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/West+End+Ferry+Terminal+West+End+Brisbane" },
   { name: "Davies Park", cat: "spot", tag: "河畔公園", desc: "河畔公園，週末市集與野餐勝地", rating: 4.5, reviews: 6, googleUrl: "https://www.google.com/maps/search/Davies+Park+West+End+Brisbane" },
   { name: "Kurilpa Library", cat: "spot", tag: "歷史圖書館", desc: "歷史圖書館 (1929)，社區文化地標", rating: 3.2, reviews: 6, googleUrl: "https://www.google.com/maps/search/Kurilpa+Library+West+End+Brisbane" },
-  { name: "Soak Bathhouse", cat: "spot", tag: "屋頂浴池", desc: "屋頂浴池，城市中放鬆身心", rating: 4.6, reviews: 1891, googleUrl: "https://www.google.com/maps/search/Soak+Bathhouse+West+End+Brisbane" },
+  { name: "Soak Bathhouse", cat: "spot", tag: "屋頂浴池", desc: "屋頂浴池，城市中放鬆身心", rating: 4.6, reviews: 1891, googleUrl: "https://www.google.com/maps/search/Soak+Bathhouse+West+End+Brisbane" , popular: true },
   { name: "Brisbane Distillery", cat: "spot", tag: "蒸餾廠", desc: "本地蒸餾廠，琴酒與烈酒品鑑", rating: 4.8, reviews: 200, googleUrl: "https://www.google.com/maps/search/Brisbane+Distillery+West+End+Brisbane" },
   { name: "West End Park Cafe", cat: "spot", tag: "公園咖啡", desc: "公園裡的咖啡館，綠意伴杯", rating: 4.5, reviews: 200, googleUrl: "https://www.google.com/maps/search/West+End+Park+Cafe+West+End+Brisbane" },
   { name: "Boundary Street Markets", cat: "spot", tag: "市集", desc: "Boundary Street 市集，週末文青必逛", rating: 4.1, reviews: 200, googleUrl: "https://www.google.com/maps/search/Boundary+Street+Markets+West+End+Brisbane" },
-  { name: "West Village", cat: "spot", tag: "混合零售", desc: "混合零售住宅區，新舊融合的社區空間", rating: 4.6, reviews: 1107, googleUrl: "https://www.google.com/maps/search/West+Village+West+End+Brisbane" },
+  { name: "West Village", cat: "spot", tag: "混合零售", desc: "混合零售住宅區，新舊融合的社區空間", rating: 4.6, reviews: 1107, googleUrl: "https://www.google.com/maps/search/West+Village+West+End+Brisbane" , popular: true },
   { name: "West End Electric", cat: "spot", tag: "劇場表演", desc: "劇場表演，地下藝文能量", rating: 4.7, reviews: 144, googleUrl: "https://www.google.com/maps/search/West+End+Electric+West+End+Brisbane" },
 
   // ===== 新增 117 家店 =====
