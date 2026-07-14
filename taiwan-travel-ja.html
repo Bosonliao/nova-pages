@@ -769,7 +769,7 @@ function initApp(){
       badge.textContent = (d.routes||[]).length;
     }
   });
-  selectCounty('基隆');
+  selectCounty('台北');
   // Pulse hint on load to draw attention to county selector
   setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
 }
