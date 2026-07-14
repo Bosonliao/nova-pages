@@ -277,6 +277,75 @@
     font-size: 0.7rem;
   }
 
+  /* Route cards */
+  .route-section {
+    max-width: 820px;
+    margin: 0 auto 20px;
+    padding: 0 16px;
+  }
+  .route-section h2 {
+    font-size: 1.15rem;
+    color: var(--navy);
+    margin-bottom: 12px;
+    text-align: center;
+  }
+  .route-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 14px;
+  }
+  .route-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    box-shadow: var(--shadow);
+    border-top: 4px solid var(--teal);
+    transition: transform .2s, box-shadow .2s;
+  }
+  .route-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+  }
+  .route-card.route-morning { border-top-color: #FFB74D; }
+  .route-card.route-food { border-top-color: var(--coral); }
+  .route-card.route-night { border-top-color: #5C6BC0; }
+  .route-card.route-creative { border-top-color: #66BB6A; }
+  .route-card h3 {
+    font-size: 1rem;
+    color: var(--navy);
+    margin-bottom: 6px;
+  }
+  .route-card .route-meta {
+    font-size: 0.75rem;
+    color: var(--gray);
+    margin-bottom: 8px;
+  }
+  .route-card .route-steps {
+    font-size: 0.82rem;
+    color: var(--gray);
+    line-height: 1.6;
+  }
+  .route-card .route-steps .step {
+    padding: 2px 0;
+    padding-left: 22px;
+    position: relative;
+  }
+  .route-card .route-steps .step::before {
+    content: attr(data-num);
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--teal-light);
+    color: var(--navy);
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 16px;
+  }
+
   /* Count badge */
   .result-count {
     text-align: center;
@@ -310,6 +379,61 @@
   <div class="tab" data-filter="snack">🌮 輕食</div>
   <div class="tab" data-filter="bar">🍸 酒吧</div>
   <div class="tab" data-filter="spot">📍 景點</div>
+  <div class="tab" data-filter="route">🚶 路線</div>
+</div>
+
+<!-- Route Section (shown when route tab active) -->
+<div class="route-section" id="routeSection" style="display:none;">
+  <h2>🚶 West End 散步路線推薦</h2>
+  <div class="route-grid">
+    <div class="route-card route-morning">
+      <h3>☀️ 晨光咖啡散步</h3>
+      <div class="route-meta">⏱️ 約 2 小時 | 🚶 約 1.5km | 從 Davies Park 出發</div>
+      <div class="route-steps">
+        <div class="step" data-num="1">Davies Park 河畔散步，週六逛 West End Markets</div>
+        <div class="step" data-num="2">Blackstar Coffee Roasters 喝杯手沖</div>
+        <div class="step" data-num="3">沿 Boundary St 走，逛 West Village 混合零售區</div>
+        <div class="step" data-num="4">Morning After 或 Café Disco 吃早午餐</div>
+        <div class="step" data-num="5">Thomas Dixon Centre 看昆士蘭芭蕾舞團駐地</div>
+      </div>
+    </div>
+    <div class="route-card route-food">
+      <h3>🌍 環球美食半日遊</h3>
+      <div class="route-meta">⏱️ 約 4 小時 | 🚶 約 2km | 從 Hardgrave Rd 出發</div>
+      <div class="route-steps">
+        <div class="step" data-num="1">Semi Semi 日式義式融合三明治</div>
+        <div class="step" data-num="2">Trang 越南料理（4.6⭐ 1500評）</div>
+        <div class="step" data-num="3">Little Greek Taverna 希臘家庭餐（4.4⭐ 1381評）</div>
+        <div class="step" data-num="4">Mama Taco 墨西哥塔可</div>
+        <div class="step" data-num="5">Caravanserai 土耳其河景餐廳</div>
+        <div class="step" data-num="6">Lefkas 希臘料理，招牌 saganaki（4.6⭐ 1590評）</div>
+      </div>
+    </div>
+    <div class="route-card route-night">
+      <h3>🌙 夜生活巡禮</h3>
+      <div class="route-meta">⏱️ 約 3 小時 | 🚶 約 1km | 從 Boundary St 出發</div>
+      <div class="route-steps">
+        <div class="step" data-num="1">Archive Beer Boutique 80+ 精釀啤酒</div>
+        <div class="step" data-num="2">Catchment Brewing Co. 現釀啤酒</div>
+        <div class="step" data-num="3">Covent Garden 500+ 琴酒選擇</div>
+        <div class="step" data-num="4">Cobbler 威士忌 + 雞尾酒</div>
+        <div class="step" data-num="5">The Bearded Lady Live music</div>
+        <div class="step" data-num="6">Jungle Bar Tiki 熱帶島嶼風情</div>
+      </div>
+    </div>
+    <div class="route-card route-creative">
+      <h3>🎨 文青藝術午後</h3>
+      <div class="route-meta">⏱️ 約 3 小時 | 🚶 約 2.5km | 從 Kurilpa Bridge 出發</div>
+      <div class="route-steps">
+        <div class="step" data-num="1">Kurilpa Bridge 步行過橋欣賞河景</div>
+        <div class="step" data-num="2">West End Electric 劇場表演</div>
+        <div class="step" data-num="3">Brisbane Distillery 琴酒品鑑</div>
+        <div class="step" data-num="4">探索街頭藝術與塗鴉巷弄</div>
+        <div class="step" data-num="5">Soak Bathhouse 屋頂浴池放鬆</div>
+        <div class="step" data-num="6">Vela 或 Zazu 亞洲精緻晚餐收尾</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Result count -->
@@ -409,11 +533,23 @@ const searchBox = document.getElementById('searchBox');
 const tabsContainer = document.getElementById('tabs');
 const noResults = document.getElementById('noResults');
 const resultCount = document.getElementById('resultCount');
+const routeSection = document.getElementById('routeSection');
 
 let activeFilter = 'all';
 let searchTerm = '';
 
 function render() {
+  // Route tab: show routes, hide grid
+  if (activeFilter === 'route') {
+    routeSection.style.display = 'block';
+    grid.style.display = 'none';
+    noResults.style.display = 'none';
+    resultCount.textContent = '4 條推薦路線';
+    return;
+  }
+  routeSection.style.display = 'none';
+  grid.style.display = 'grid';
+
   const filtered = DATA.filter(item => {
     const matchCat = activeFilter === 'all' || item.cat === activeFilter;
     const matchSearch = !searchTerm ||
@@ -467,6 +603,8 @@ tabsContainer.addEventListener('click', e => {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   tab.classList.add('active');
   activeFilter = tab.dataset.filter;
+  searchTerm = '';
+  searchBox.value = '';
   render();
 });
 
