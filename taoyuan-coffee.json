@@ -1,0 +1,542 @@
+[
+  {
+    "name": "萃99'Caffee 新農旗艦店",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "建商經營的玻璃屋咖啡廳，附設停車場，餐點份量充足",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區新農街620號"
+  },
+  {
+    "name": "萃99'Caffee 水美店",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "由iF設計獎得主設計的質感咖啡廳，提供拿鐵、美式及甜點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區楊新路一段308號"
+  },
+  {
+    "name": "旅人咖啡館 楊梅店",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "老屋改造的咖啡館，融合客家文化元素，提供早午餐與咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區新成路"
+  },
+  {
+    "name": "在這 coffee x sweets",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "社區巷弄內的小巧溫馨咖啡廳，甜點評價好，內用不限時",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區"
+  },
+  {
+    "name": "遜咖啡 Xun Cafe",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "2024年開幕的楊梅咖啡店，提供燉飯、咖啡與焦糖布丁",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區"
+  },
+  {
+    "name": "麥売珈琲洋食菓子",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "近楊梅車站的日系咖啡廳，提供餐點、咖啡豆販售及客製化蛋糕服務",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區新成路23號"
+  },
+  {
+    "name": "野也Cafe",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "半山腰住宅區內的獨棟韓系咖啡廳，寵物友善，有伯恩山犬店狗",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區裕成路139號"
+  },
+  {
+    "name": "找一個地方",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "隱藏山城社區的秘境咖啡廳，森林系木質空間，每週僅開四天",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區裕成路158巷2弄57號"
+  },
+  {
+    "name": "白木咖啡 Baimu Cafe",
+    "area": "楊梅",
+    "categories": ["咖啡廳"],
+    "desc": "巷弄內的植感風咖啡廳，提供手作麵包與咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市楊梅區"
+  },
+  {
+    "name": "Come True成真咖啡 桃園藝文町店",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "日式警察宿舍改建，提供創意咖啡與早午餐，鄰近桃園火車站",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區77藝文町"
+  },
+  {
+    "name": "鹿點咖啡 Luna桃園店",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "虎頭山下老宅改造的咖啡廳，2013年創立的獨立咖啡品牌",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區成功路三段"
+  },
+  {
+    "name": "野陌咖啡館 Yermo.eatery",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "2025新開幕的廢墟風老宅咖啡廳，提供早午餐、義大利麵、燉飯",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區新埔三街46號"
+  },
+  {
+    "name": "Two Five Café",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "中路特區文青植物系咖啡餐館，提供早午餐、鬆餅與手作蛋糕，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區大興西路三段255號"
+  },
+  {
+    "name": "啡蒔 Verse Cafe by Minorcode",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "質感咖啡廳，提供奶油冰滴咖啡、燕麥拿鐵與早午餐",
+    "rating": 3.9,
+    "reviews": 498,
+    "address": "桃園市桃園區同德十一街45號"
+  },
+  {
+    "name": "Söt cafe Rivulet 浮島溪",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "小檜溪重劃區的歐風質感咖啡廳，提供輕食、義大利麵、燉飯與甜點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區"
+  },
+  {
+    "name": "吾人知曉陶甕煎焙咖啡",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "自家烘焙咖啡館，陶甕煎焙，提供單品咖啡與蔬食選項",
+    "rating": 4.6,
+    "reviews": 215,
+    "address": "桃園市桃園區民富十七街12號"
+  },
+  {
+    "name": "相寓咖啡 Lumi Haven",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "中路特區巷弄內極簡療癒系咖啡館，老闆是心理師，提供甜點與咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區文中一路"
+  },
+  {
+    "name": "朝顏屋3.2K",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "桃林鐵路步道內的森林系早午餐咖啡廳，可訂位、寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區三元街"
+  },
+  {
+    "name": "蒔伍咖啡",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "中平商圈2024年新開的咖啡館，提供現點現炒義大利麵與手作甜點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區宏昌一街21號"
+  },
+  {
+    "name": "癒珈琲店 IYASHI COFFEE",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "藝文特區質感咖啡廳，專業手沖咖啡與精緻甜點，提供咖啡粉試聞體驗",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市桃園區"
+  },
+  {
+    "name": "艾提咖啡",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "民生路巷內的小餐館風格咖啡廳",
+    "rating": 4.8,
+    "reviews": null,
+    "address": "桃園市桃園區民生路55巷20號"
+  },
+  {
+    "name": "Drip Note COFFEE 滴音咖啡",
+    "area": "桃園區",
+    "categories": ["咖啡廳"],
+    "desc": "桃園知名咖啡廳，在2468家咖啡館中排名第17",
+    "rating": null,
+    "reviews": 181,
+    "address": "桃園市桃園區"
+  },
+  {
+    "name": "布納咖啡館 中壢館",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中壢新生路不限時咖啡館，提供義式麵食、燉飯與早午餐，空間寬敞",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區新生路89號"
+  },
+  {
+    "name": "鬍莉咖啡 Roulez-Vous Café",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中平商圈巷弄咖啡廳，老闆為前香港時尚媒體人，招牌芭樂美式與蘋果肉桂奶油捲",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區中平商圈"
+  },
+  {
+    "name": "時常咖啡 Often coffee",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "英倫復古風咖啡廳，有復古旋轉門，提供早午餐、燉飯、義大利麵，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區"
+  },
+  {
+    "name": "Focus on Flavor 2",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中原大學旁的咖啡廳，牆上有巨大黑手裝置藝術，55元美式咖啡平價",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區大仁一街"
+  },
+  {
+    "name": "旿野曜初Café Brunch",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "龍岡巷弄質感系咖啡廳，提供早午餐、燉飯、義大利麵，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區龍岡"
+  },
+  {
+    "name": "彩虹糖咖啡",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "龍岡路上植物系咖啡廳，SCA國際咖啡金杯師與烘焙師雙重認證，提供手沖精品咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區龍岡路"
+  },
+  {
+    "name": "遇見咖啡",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "自家烘焙咖啡豆專賣店，提供手沖咖啡、器具、濾掛咖啡與簡餐",
+    "rating": 4.7,
+    "reviews": 313,
+    "address": "桃園市中壢區民權路364號"
+  },
+  {
+    "name": "甯咖啡 自家烘焙",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "自家烘焙咖啡店，提供美式咖啡、甜點，老闆親切",
+    "rating": 4.8,
+    "reviews": 275,
+    "address": "桃園市中壢區大仁五街12號"
+  },
+  {
+    "name": "Rubato cafe 任性咖啡",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中壢市區小型咖啡廳，空間不大座位不多，有娃娃裝飾",
+    "rating": 4.8,
+    "reviews": 37,
+    "address": "桃園市中壢區中山路191號"
+  },
+  {
+    "name": "玩逗樹咖啡 中原店",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中原大學旁桌遊主題咖啡廳，提供早午餐、簡餐、調酒、駐唱，寵物友善",
+    "rating": 4.8,
+    "reviews": 852,
+    "address": "桃園市中壢區新中北路526號"
+  },
+  {
+    "name": "突奌咖啡喵 Top-Point Café",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中壢貓咪咖啡廳，提供義式料理與輕食",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區後站"
+  },
+  {
+    "name": "Yang咖啡 永興店",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "中壢永興街咖啡專賣店",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區永興街12號"
+  },
+  {
+    "name": "喬治的咖啡 George's Coffee",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "新明夜市附近的自家烘焙咖啡館，咖啡專賣",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區"
+  },
+  {
+    "name": "養親轅咖啡 Jodie Ho Cafe",
+    "area": "中壢",
+    "categories": ["咖啡廳"],
+    "desc": "百年老藥櫃中藥漢方咖啡館，提供漢方茶、手沖咖啡與手作甜點，有貓咪店長",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市中壢區近健行科大"
+  },
+  {
+    "name": "Degrees° café 度°",
+    "area": "平鎮",
+    "categories": ["咖啡廳"],
+    "desc": "平鎮環南路商辦大樓一樓咖啡廳，環境明亮寬敞，親子友善，內用低消一杯飲品",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市平鎮區環南路"
+  },
+  {
+    "name": "CAFE!N 硬咖啡 桃園總廠店",
+    "area": "平鎮",
+    "categories": ["咖啡廳"],
+    "desc": "平鎮工業區內百坪大空間純白系質感咖啡店，由源友咖啡轉型",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市平鎮區工業五路8號"
+  },
+  {
+    "name": "HoneyWood Cafe 晶麒莊園",
+    "area": "平鎮",
+    "categories": ["咖啡廳"],
+    "desc": "平鎮歐風教堂風格咖啡廳",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市平鎮區"
+  },
+  {
+    "name": "三宅咖啡",
+    "area": "八德",
+    "categories": ["咖啡廳"],
+    "desc": "八德日式復古老宅咖啡廳，有榻榻米座位區，提供當日限定甜點與單品咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市八德區"
+  },
+  {
+    "name": "旅人咖啡館 八德店",
+    "area": "八德",
+    "categories": ["咖啡廳"],
+    "desc": "興仁夜市旁老宅咖啡廳，前身為八塊畫室，提供早午餐、披薩、燉飯",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市八德區"
+  },
+  {
+    "name": "FIH Café 幸蘊坊",
+    "area": "八德",
+    "categories": ["咖啡廳"],
+    "desc": "八德興仁花園夜市附近，寵物友善，提供手作甜點、咖啡、調酒，不收服務費",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市八德區"
+  },
+  {
+    "name": "ふふや FuFuya",
+    "area": "八德",
+    "categories": ["咖啡廳"],
+    "desc": "2026新開幕八德韓系咖啡廳，木質調氛圍，有柯基與貓咪店寵，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市八德區介壽路二段133巷117號"
+  },
+  {
+    "name": "鹿麓五金咖啡 RULU Café",
+    "area": "龜山",
+    "categories": ["咖啡廳"],
+    "desc": "龜山忠義路特色咖啡廳，一半空間展示五金，提供咖啡與甜點",
+    "rating": 4.7,
+    "reviews": 246,
+    "address": "桃園市龜山區忠義路二段638巷22號"
+  },
+  {
+    "name": "TEN THOUSAND 林口長庚店",
+    "area": "龜山",
+    "categories": ["咖啡廳"],
+    "desc": "龜山長庚商圈咖啡廳，提供雪梨淺焙咖啡與甜點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龜山區公西里"
+  },
+  {
+    "name": "茉莉咖啡 2號店",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "龍潭稻田旁木質植栽系咖啡廳，寵物友善，有戶外座席",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區中正路三坑段525之1號"
+  },
+  {
+    "name": "鹿點咖啡 千瀑店",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "龍潭千層瀑布旁的景觀咖啡廳，有免費玩水區，提供咖啡與鬆餅",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區"
+  },
+  {
+    "name": "鹿途咖啡 LU·TU",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "龍潭蕨類綠意環繞的植物系早午餐咖啡廳，從平鎮搬遷至龍潭",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區"
+  },
+  {
+    "name": "見山景觀咖啡餐廳",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "乳姑山夜景景觀咖啡廳，270度視野可眺覽雙北百萬夜景與夕陽",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區乳姑山"
+  },
+  {
+    "name": "貓禾咖啡館",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "乳姑山景觀咖啡廳，有露天泡泡屋座位，八隻店貓陪伴，可看夜景",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區乳姑山"
+  },
+  {
+    "name": "茉莉花園 café",
+    "area": "龍潭",
+    "categories": ["咖啡廳"],
+    "desc": "三坑老街附近多肉植物花園咖啡館，鄉村風格，提供手沖與義式咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市龍潭區三坑老街附近"
+  },
+  {
+    "name": "豆趣咖啡",
+    "area": "蘆竹",
+    "categories": ["咖啡廳"],
+    "desc": "台茂附近不限時自家烘焙咖啡廳，工業風混日式雜貨風，附設停車場",
+    "rating": 4.5,
+    "reviews": null,
+    "address": "桃園市蘆竹區南山路一段"
+  },
+  {
+    "name": "橙夕咖啡 Afterglow Cafe",
+    "area": "大園",
+    "categories": ["咖啡廳"],
+    "desc": "竹圍漁港旁韓系海景咖啡廳，可看夕陽與飛機，提供咖啡與甜點，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大園區漁港路512號4樓"
+  },
+  {
+    "name": "第三航廈咖啡廳",
+    "area": "大園",
+    "categories": ["咖啡廳"],
+    "desc": "大園看飛機咖啡廳，鄰近機場南跑道，營業至凌晨12點，提供鬆餅",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大園區"
+  },
+  {
+    "name": "航空港360景觀旋轉餐廳",
+    "area": "大園",
+    "categories": ["咖啡廳"],
+    "desc": "竹圍漁港漁業大樓5樓，360度旋轉觀景台，可邊用餐邊欣賞海景與飛機起降",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大園區竹圍漁港"
+  },
+  {
+    "name": "愛琴海海岸咖啡廳",
+    "area": "新屋",
+    "categories": ["咖啡廳"],
+    "desc": "新屋區海岸景觀咖啡廳，可看海景",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市新屋區"
+  },
+  {
+    "name": "聖多里尼海岸咖啡廳",
+    "area": "新屋",
+    "categories": ["咖啡廳"],
+    "desc": "新屋區海岸景觀餐廳，提供咖啡與餐點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市新屋區中山西路三段1165號2樓"
+  },
+  {
+    "name": "引路咖啡 大溪旗艦店",
+    "area": "大溪",
+    "categories": ["咖啡廳"],
+    "desc": "大溪老宅咖啡廳，天井採光，提供藝伎義式咖啡、單品手沖與甜點",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大溪區"
+  },
+  {
+    "name": "秋旭",
+    "area": "大溪",
+    "categories": ["咖啡廳"],
+    "desc": "大溪老街旁老宅廢墟風咖啡廳，有庭院與紅磚牆，二樓為植栽選物店，寵物友善",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大溪區中山路53號"
+  },
+  {
+    "name": "環湖咖啡2號店",
+    "area": "大溪",
+    "categories": ["咖啡廳"],
+    "desc": "石門水庫湖景咖啡廳，日式景觀餐廳，提供定食、甜點與手沖咖啡",
+    "rating": null,
+    "reviews": null,
+    "address": "桃園市大溪區石門水庫"
+  }
+]
