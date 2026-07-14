@@ -200,12 +200,12 @@ function loadCityMap(city){
 }
 
 function hasTag(f,t){if(!f.tags)return false;if(Array.isArray(f.tags))return f.tags.includes(t);return !!f.tags[t];}
-const DATA = let DATA = {};
+let DATA = {};
 // Load data from external JSON
 fetch('data-ja.json')
   .then(r => r.json())
   .then(d => { DATA = d; initApp(); })
-  .catch(e => { console.error('Failed to load data:', e); document.body.innerHTML = '<p style="padding:2rem;text-align:center">データの読み込みに失敗しました。再読み込みしてください。</p>'; });;
+  .catch(e => { console.error('Failed to load data:', e); document.body.innerHTML = '<p style="padding:2rem;text-align:center">データの読み込みに失敗しました。再読み込みしてください。</p>'; });
 
 const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
 let currentCounty = '基隆';
