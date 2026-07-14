@@ -596,7 +596,7 @@ function renderTab(routes,food,spots,indoor,souvenirs){
             \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
-            ${(f.dishes&&f.dishes.length)?`\u003cdiv class="dishes-btn" onclick="toggleDishes(this.parentElement)"\u003e\ud83c\udf74 推薦品項\u003c/div\u003e\u003cdiv class="dishes-list"\u003e${f.dishes.map(d=\u003e`\u003cdiv class="dish-item"\u003e\u003cspan class="dish-name"\u003e${d.name}\u003c/span\u003e \u003cspan class="dish-desc"\u003e${d.desc}\u003c/span\u003e\u003c/div\u003e`).join('')}\u003c/div\u003e`:''}
+            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}
           \u003c/div\u003e
           \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
         \u003c/div\u003e`;
