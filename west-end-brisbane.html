@@ -232,6 +232,14 @@
     background: #b71c1c;
     color: #fff;
   }
+  .award-badge.broadsheet {
+    background: #1565c0;
+    color: #fff;
+  }
+  .award-badge.gt {
+    background: #2e7d32;
+    color: #fff;
+  }
   .card:hover {
     box-shadow: var(--shadow-hover);
     transform: translateY(-2px);
@@ -426,7 +434,7 @@
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 12:07</div>
+  <div class="update-time">最後更新：2026-07-14 12:22</div>
 </div>
 
 <!-- Search -->
@@ -525,7 +533,7 @@ const DATA = [
 
   // 🍳 早午餐
   { name: "Morning After", cat: "brunch", tag: "健康早午餐", desc: "健康又 indulgent 的有趣菜單", rating: 4.3, reviews: 1073, popular: true, googleUrl: "https://www.google.com/maps/search/Morning+After+West+End+Brisbane" },
-  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思，Bangladeshi-Fusion", rating: 4.9, reviews: 28, googleUrl: "https://www.google.com/maps/search/Café+Disco+West+End+Brisbane" },
+  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思，Bangladeshi-Fusion", rating: 4.9, reviews: 28, googleUrl: "https://www.google.com/maps/search/Café+Disco+West+End+Brisbane", award: "broadsheet" },
   { name: "Second Rodeo", cat: "brunch", tag: "Tex-Mex", desc: "Tex-Mex 早午餐：breakfast tacos, huevos rancheros", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Second+Rodeo+West+End+Brisbane" },
   { name: "Semi Semi", cat: "brunch", tag: "日式義式融合", desc: "日式 + 義式融合，三明治 + 抹茶", rating: 4.6, reviews: 128, googleUrl: "https://www.google.com/maps/search/Semi+Semi+West+End+Brisbane" },
   { name: "Gun Shop Café", cat: "brunch", tag: "老字號", desc: "West End 老字號，招牌 potato & fetta hash cakes", rating: 4.2, reviews: 350, googleUrl: "https://www.google.com/maps/search/Gun+Shop+Café+West+End+Brisbane" },
@@ -543,11 +551,11 @@ const DATA = [
   { name: "Pilloni", cat: "dinner", tag: "義大利薩丁尼亞", desc: "義大利薩丁尼亞料理，道地島嶼風味", rating: 4.7, reviews: 6, googleUrl: "https://www.google.com/maps/search/Pilloni+West+End+Brisbane" },
   { name: "Yamas", cat: "dinner", tag: "希臘海鮮", desc: "希臘海鮮料理，新鮮直送", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Yamas+West+End+Brisbane" },
   { name: "Bar Francine", cat: "dinner", tag: "歐風料理", desc: "歐風料理 + 澳洲葡萄酒搭配", rating: 4.7, reviews: 230, googleUrl: "https://www.google.com/maps/search/Bar+Francine+West+End+Brisbane" },
-  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，精緻日式壽司", rating: 4.8, reviews: 144, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane", award: "michelin_cred" },
+  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，精緻日式壽司", rating: 4.8, reviews: 144, googleUrl: "https://www.google.com/maps/search/+81+Sushi+Kappo+West+End+Brisbane", award: "michelin_cred", award2: "broadsheet" },
   { name: "Vela", cat: "dinner", tag: "亞洲精緻", desc: "亞洲精緻料理，融合現代技法", rating: 4.6, reviews: 255, googleUrl: "https://www.google.com/maps/search/Vela+West+End+Brisbane" },
   { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界", rating: 4.4, reviews: 744, popular: true, googleUrl: "https://www.google.com/maps/search/Zazu+West+End+Brisbane" },
   { name: "Don Gino Trattoria", cat: "dinner", tag: "西西里義式", desc: "西西里風味義式餐廳 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Don+Gino+Trattoria+West+End+Brisbane" },
-  { name: "Venner", cat: "dinner", tag: "北歐餐廳", desc: "北歐風餐廳，發酵與土地連結 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Venner+West+End+Brisbane" },
+  { name: "Venner", cat: "dinner", tag: "北歐餐廳", desc: "北歐風餐廳，發酵與土地連結 (2026新開)", rating: null, reviews: null, googleUrl: "https://www.google.com/maps/search/Venner+West+End+Brisbane", award: "gourmet_traveller" },
 
   // 🌮 輕食
   { name: "Mama Taco", cat: "snack", tag: "墨西哥", desc: "墨西哥料理，隨性美味的塔可", rating: 4.7, reviews: 285, googleUrl: "https://www.google.com/maps/search/Mama+Taco+West+End+Brisbane" },
@@ -777,11 +785,17 @@ function render() {
     let awardBadge = '';
     if (item.award === 'chef_hat') awardBadge = '<span class="award-badge chef-hat">🎩 Chef Hat</span>';
     if (item.award === 'michelin_cred') awardBadge = '<span class="award-badge michelin">⭐ Michelin Cred</span>';
+    if (item.award === 'broadsheet') awardBadge = '<span class="award-badge broadsheet">📰 Broadsheet</span>';
+    if (item.award === 'gourmet_traveller') awardBadge = '<span class="award-badge gt">✍️ GT Review</span>';
+    let award2Badge = '';
+    if (item.award2 === 'chef_hat') award2Badge = '<span class="award-badge chef-hat">🎩 Chef Hat</span>';
+    if (item.award2 === 'broadsheet') award2Badge = '<span class="award-badge broadsheet">📰 Broadsheet</span>';
+    if (item.award2 === 'gourmet_traveller') award2Badge = '<span class="award-badge gt">✍️ GT Review</span>';
     return `
     <div class="card${popularClass}" data-cat="${item.cat}">
       <div class="card-head">
         <div>
-          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${linkIcon}</div>
+          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${award2Badge} ${linkIcon}</div>
           ${ratingHtml}
         </div>
         <span class="card-tag">${item.tag}</span>
