@@ -153,6 +153,24 @@
     flex-direction: column;
     gap: 8px;
   }
+  .card.popular {
+    border-left: 4px solid #ff6f00;
+    background: linear-gradient(90deg, #fff8e1 0%, #ffffff 40%);
+  }
+  .card.popular .card-name {
+    color: #e65100;
+  }
+  .popular-badge {
+    display: inline-block;
+    background: #ff6f00;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 6px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
   .card:hover {
     box-shadow: var(--shadow-hover);
     transform: translateY(-2px);
@@ -318,52 +336,58 @@ const DATA = [
   { name: "GoodGood", cat: "coffee", tag: "單品咖啡", desc: "單品咖啡文化，精品手沖愛好者必訪", rating: null, reviews: null },
 
   // 🍳 早午餐
-  { name: "Morning After", cat: "brunch", tag: "健康早午餐", desc: "健康又 indulgent 的有趣菜單", rating: 4.3, reviews: 1073 },
-  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思", rating: 4.9, reviews: 28 },
+  { name: "Morning After", cat: "brunch", tag: "健康早午餐", desc: "健康又 indulgent 的有趣菜單", rating: 4.3, reviews: 1073, popular: true },
+  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思，Bangladeshi-Fusion", rating: 4.9, reviews: 28, popular: true },
   { name: "Second Rodeo", cat: "brunch", tag: "Tex-Mex", desc: "Tex-Mex 早午餐：breakfast tacos, huevos rancheros", rating: null, reviews: null },
   { name: "Semi Semi", cat: "brunch", tag: "日式義式融合", desc: "日式 + 義式融合，三明治 + 抹茶", rating: 4.6, reviews: 128 },
   { name: "Gun Shop Café", cat: "brunch", tag: "老字號", desc: "West End 老字號，招牌 potato & fetta hash cakes", rating: 4.2, reviews: 350 },
   { name: "Lokal + Co", cat: "brunch", tag: "北歐風", desc: "北歐風現代季節料理", rating: null, reviews: null },
-  { name: "Picnic", cat: "brunch", tag: "全日早午餐", desc: "全日早午餐，悠閒氛圍", rating: 4.1, reviews: 812 },
+  { name: "Picnic", cat: "brunch", tag: "全日早午餐", desc: "全日早午餐，悠閒氛圍", rating: 4.1, reviews: 812, popular: true },
   { name: "Tom's Kitchen", cat: "brunch", tag: "餐廳", desc: "Thomas Dixon Centre 裡的餐廳", rating: 3.0, reviews: 1 },
   { name: "Good Thing", cat: "brunch", tag: "現代早午餐", desc: "現代早午餐 + 精緻蛋糕", rating: null, reviews: null },
   { name: "Alphabet Café", cat: "brunch", tag: "小而美", desc: "小而美的社區咖啡館", rating: 4.8, reviews: 207 },
+  { name: "Süreyya Kahve", cat: "brunch", tag: "營養咖啡", desc: "營養導向咖啡館，健康與傳承的結合 (2026新開)", rating: null, reviews: null },
+  { name: "Janus Deli", cat: "brunch", tag: "三明治", desc: "Gold Coast 人氣三明治專賣，首進布里斯本 (2026新開)", rating: null, reviews: null },
 
   // 🍽️ 晚餐
   { name: "Layla", cat: "dinner", tag: "中東料理", desc: "中東料理，異國風味的夜晚選擇", rating: 4.2, reviews: 14 },
-  { name: "Rich + Rare", cat: "dinner", tag: "牛排", desc: "布里斯本最佳牛排，肉食愛好者天堂", rating: 4.8, reviews: 3310 },
+  { name: "Rich + Rare", cat: "dinner", tag: "牛排", desc: "布里斯本最佳牛排，肉食愛好者天堂", rating: 4.8, reviews: 3310, popular: true },
   { name: "Pilloni", cat: "dinner", tag: "義大利薩丁尼亞", desc: "義大利薩丁尼亞料理，道地島嶼風味", rating: 4.7, reviews: 6 },
   { name: "Yamas", cat: "dinner", tag: "希臘海鮮", desc: "希臘海鮮料理，新鮮直送", rating: null, reviews: null },
   { name: "Bar Francine", cat: "dinner", tag: "歐風料理", desc: "歐風料理 + 澳洲葡萄酒搭配", rating: 4.7, reviews: 230 },
-  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "日式 kappo 料理，職人精神", rating: 4.8, reviews: 144 },
+  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "12 座位 omakase，$450 套餐，米其林級壽司", rating: 4.8, reviews: 144, popular: true },
   { name: "Vela", cat: "dinner", tag: "亞洲精緻", desc: "亞洲精緻料理，融合現代技法", rating: 4.6, reviews: 255 },
-  { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界", rating: 4.4, reviews: 744 },
+  { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界", rating: 4.4, reviews: 744, popular: true },
+  { name: "Don Gino Trattoria", cat: "dinner", tag: "西西里義式", desc: "西西里風味義式餐廳 (2026新開)", rating: null, reviews: null },
+  { name: "Venner", cat: "dinner", tag: "北歐餐廳", desc: "北歐風餐廳，發酵與土地連結 (2026新開)", rating: null, reviews: null },
 
   // 🌮 輕食
   { name: "Mama Taco", cat: "snack", tag: "墨西哥", desc: "墨西哥料理，隨性美味的塔可", rating: 4.7, reviews: 285 },
   { name: "Caravanserai", cat: "snack", tag: "土耳其", desc: "土耳其餐廳，河景伴餐", rating: 4.4, reviews: 280 },
-  { name: "Goodtime", cat: "snack", tag: "澳式 yum-cha", desc: "澳式 yum-cha + natural wine", rating: 4.6, reviews: 1581 },
+  { name: "Goodtime", cat: "snack", tag: "澳式 yum-cha", desc: "澳式 yum-cha + natural wine", rating: 4.6, reviews: 1581, popular: true },
   { name: "Bird's Nest Yakitori", cat: "snack", tag: "日式串燒", desc: "日式串燒，炭火慢烤", rating: 4.3, reviews: 380 },
   { name: "Izakaya Goku", cat: "snack", tag: "日式居酒屋", desc: "日式居酒屋，下班放鬆好去處", rating: 4.4, reviews: 200 },
-  { name: "Trang", cat: "snack", tag: "越南料理", desc: "越南料理，道式東南亞風味", rating: 4.6, reviews: 1500 },
+  { name: "Trang", cat: "snack", tag: "越南料理", desc: "越南料理，道地東南亞風味", rating: 4.6, reviews: 1500, popular: true },
   { name: "Quan Thanh", cat: "snack", tag: "越南料理", desc: "越南料理，河粉與越式經典", rating: 4.3, reviews: 50 },
-  { name: "Little Greek Taverna", cat: "snack", tag: "希臘家庭", desc: "傳統希臘家庭餐廳，溫馨家常味", rating: 4.4, reviews: 1381 },
-  { name: "Nostimo (Greek Club)", cat: "snack", tag: "希臘 banquet", desc: "希臘 banquet，豐盛共享盛宴", rating: 4.5, reviews: 1758 },
-  { name: "Lefkas", cat: "snack", tag: "希臘料理", desc: "希臘料理，招牌 grilled saganaki", rating: 4.6, reviews: 1590 },
+  { name: "Little Greek Taverna", cat: "snack", tag: "希臘家庭", desc: "傳統希臘家庭餐廳，溫馨家常味", rating: 4.4, reviews: 1381, popular: true },
+  { name: "Nostimo (Greek Club)", cat: "snack", tag: "希臘 banquet", desc: "希臘 banquet，豐盛共享盛宴", rating: 4.5, reviews: 1758, popular: true },
+  { name: "Lefkas", cat: "snack", tag: "希臘料理", desc: "希臘料理，招牌 grilled saganaki", rating: 4.6, reviews: 1590, popular: true },
 
   // 🍸 酒吧
-  { name: "Archive Beer Boutique", cat: "bar", tag: "精釀啤酒", desc: "80+ 精釀啤酒，啤酒愛好者天堂", rating: 4.3, reviews: 1100 },
+  { name: "Archive Beer Boutique", cat: "bar", tag: "精釀啤酒", desc: "80+ 精釀啤酒，啤酒愛好者天堂", rating: 4.3, reviews: 1100, popular: true },
   { name: "Catchment Brewing Co.", cat: "bar", tag: "精釀啤酒廠", desc: "精釀啤酒廠，現釀新鮮直送", rating: 4.1, reviews: 280 },
   { name: "Brisbane Brewing Co.", cat: "bar", tag: "精釀啤酒", desc: "布里斯本本地精釀啤酒", rating: 4.5, reviews: 958 },
-  { name: "The Boundary Hotel", cat: "bar", tag: "歷史酒吧", desc: "1864 年歷史酒吧，live music + woodfired pizza", rating: 3.9, reviews: 1669 },
+  { name: "The Boundary Hotel", cat: "bar", tag: "歷史酒吧", desc: "1864 年歷史酒吧，live music + woodfired pizza", rating: 3.9, reviews: 1669, popular: true },
   { name: "Covent Garden", cat: "bar", tag: "琴酒", desc: "500+ 琴酒，澳洲最大琴酒選擇之一", rating: 4.7, reviews: 500 },
-  { name: "Cobbler", cat: "bar", tag: "威士忌雞尾酒", desc: "威士忌 + 雞尾酒，品飲靜謐空間", rating: 4.7, reviews: 870 },
+  { name: "Cobbler", cat: "bar", tag: "威士忌雞尾酒", desc: "威士忌 + 雞尾酒，品飲靜謐空間", rating: 4.7, reviews: 870, popular: true },
   { name: "The Bearded Lady", cat: "bar", tag: "Live music", desc: "Live music酒吧，音樂人聚集地", rating: 4.6, reviews: 5 },
   { name: "West Room", cat: "bar", tag: "Live music", desc: "Live music，本地樂團演出", rating: null, reviews: null },
   { name: "Loft West End", cat: "bar", tag: "Live music", desc: "Live music，頂樓氛圍", rating: 3.0, reviews: 2 },
-  { name: "The End", cat: "bar", tag: "酒吧", desc: "West End 社區酒吧", rating: null, reviews: null },
-  { name: "Bosc", cat: "bar", tag: "酒吧", desc: "風格酒吧，夜晚小酌", rating: 4.7, reviews: 244 },
-  { name: "Jungle Bar", cat: "bar", tag: "Tiki 酒吧", desc: "Tiki 酒吧，熱帶島嶼風情", rating: 4.5, reviews: 300 },
+  { name: "The End", cat: "bar", tag: "爵士酒吧", desc: "爵士酒吧，夜晚放鬆", rating: null, reviews: null },
+  { name: "Bosc", cat: "bar", tag: "酒吧", desc: "風格酒吧，夜晚小酌 (已結業)", rating: 4.7, reviews: 244 },
+  { name: "Jungle Bar", cat: "bar", tag: "Tiki 酒吧", desc: "Brisbane 原創 Tiki 酒吧，熱帶島嶼風情", rating: 4.5, reviews: 300 },
+  { name: "Intermission", cat: "bar", tag: "劇院酒吧", desc: "Strut & Fret 劇院酒吧+餐廳，Boundary St (2026新開)", rating: null, reviews: null },
+  { name: "Goldie's Tavern", cat: "bar", tag: "英式酒吧", desc: "英式運動酒吧，pub classics (即將開幕)", rating: null, reviews: null },
 
   // 📍 景點
   { name: "Montague Markets", cat: "spot", tag: "河畔商場", desc: "河畔生活購物中心，採買與美食一站滿足", rating: null, reviews: null },
@@ -397,9 +421,9 @@ function render() {
       item.desc.toLowerCase().includes(searchTerm) ||
       item.tag.toLowerCase().includes(searchTerm);
     return matchCat && matchSearch;
-  });
+ });
 
-  resultCount.textContent = `共 ${filtered.length} 項結果`;
+ resultCount.textContent = `共 ${filtered.length} 項結果`;
 
   if (filtered.length === 0) {
     grid.innerHTML = '';
@@ -408,15 +432,25 @@ function render() {
   }
   noResults.style.display = 'none';
 
+  // Sort: popular first, then by reviews
+  filtered.sort((a, b) => {
+    const aPop = a.popular ? 1 : 0;
+    const bPop = b.popular ? 1 : 0;
+    if (aPop !== bPop) return bPop - aPop;
+    return (b.reviews || 0) - (a.reviews || 0);
+  });
+
   grid.innerHTML = filtered.map(item => {
     const ratingHtml = item.rating
       ? `<div class="card-rating"><span class="stars">⭐ ${item.rating.toFixed(1)}</span> (${item.reviews})</div>`
       : '';
+    const popularBadge = item.popular ? '<span class="popular-badge">🔥 人氣</span>' : '';
+    const popularClass = item.popular ? ' popular' : '';
     return `
-    <div class="card" data-cat="${item.cat}">
+    <div class="card${popularClass}" data-cat="${item.cat}">
       <div class="card-head">
         <div>
-          <div class="card-name">${item.name}</div>
+          <div class="card-name">${item.name} ${popularBadge}</div>
           ${ratingHtml}
         </div>
         <span class="card-tag">${item.tag}</span>
