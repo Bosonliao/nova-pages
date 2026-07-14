@@ -451,13 +451,13 @@
 
 <!-- Tabs -->
 <div class="tabs" id="tabs">
-  <div class="tab active" data-filter="coffee">☕ 咖啡 <span class="count" id="cnt-coffee"></span></div>
+  <div class="tab active" data-filter="route">🚶 路線 <span class="count">4</span></div>
+  <div class="tab" data-filter="coffee">☕ 咖啡 <span class="count" id="cnt-coffee"></span></div>
   <div class="tab" data-filter="brunch">🍳 早午餐 <span class="count" id="cnt-brunch"></span></div>
   <div class="tab" data-filter="dinner">🍽️ 餐廳 <span class="count" id="cnt-dinner"></span></div>
   <div class="tab" data-filter="snack">🌮 輕食 <span class="count" id="cnt-snack"></span></div>
   <div class="tab" data-filter="bar">🍸 酒吧 <span class="count" id="cnt-bar"></span></div>
   <div class="tab" data-filter="spot">📍 景點 <span class="count" id="cnt-spot"></span></div>
-  <div class="tab" data-filter="route">🚶 路線 <span class="count">4</span></div>
 </div>
 
 <!-- Route Section (shown when route tab active) -->
@@ -740,7 +740,7 @@ DATA.forEach(item => { catCounts[item.cat] = (catCounts[item.cat] || 0) + 1; });
   if (el) el.textContent = `(${catCounts[c] || 0})`;
 });
 
-let activeFilter = 'coffee';
+let activeFilter = 'route';
 let searchTerm = '';
 
 function render() {
