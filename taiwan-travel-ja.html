@@ -157,6 +157,13 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-card .rating{display:inline-flex;align-items:center;gap:4px;margin-left:8px;font-size:12px;}
 .food-card .stars{color:#ffc107;letter-spacing:1px;}
 .food-card .reviews{color:#999;font-size:11px;}
+.food-card .dishes-btn{display:inline-block;margin-top:6px;padding:3px 10px;background:#fff3e0;border:1px solid #ffb74d;border-radius:12px;font-size:12px;color:#e65100;cursor:pointer;user-select:none;transition:all .2s;}
+.food-card .dishes-btn:hover{background:#ffe0b2;}
+.food-card .dishes-list{display:none;margin-top:6px;padding:8px 12px;background:#fffde7;border-radius:8px;border-left:3px solid #fbc02d;}
+.food-card .dishes-list.show{display:block;}
+.food-card .dish-item{font-size:13px;color:#5d4037;margin:4px 0;line-height:1.5;}
+.food-card .dish-item .dish-name{font-weight:600;color:#e65100;}
+.food-card .dish-item .dish-desc{color:#795548;font-size:12px;}
 
 .tab .count{font-size:12px;color:#999;font-weight:400;margin-left:2px;}
 .tab.active .count{color:#1a237e;font-weight:600;}
@@ -225,6 +232,11 @@ let currentTab = 'routes';
 
 function gmapLink(query, county){
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query + ' ' + county)}`;
+}
+
+function toggleDishes(card){
+  const list = card.querySelector('.dishes-list');
+  if(list) list.classList.toggle('show');
 }
 
 function toggleSidebar(){
@@ -556,7 +568,7 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人気</span>' : '';
         const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `\u003cdiv class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0"\u003e\n          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e\n          \u003cdiv class="info"\u003e\n            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e\n            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${sstcTag}${cats}\u003c/div\u003e\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}\n          \u003c/div\u003e\n          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\n        \u003c/div\u003e`;
+        return `\u003cdiv class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0"\u003e\n          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e\n          \u003cdiv class="info"\u003e\n            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e\n            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${sstcTag}${cats}\u003c/div\u003e\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}\n            ${(f.dishes&&f.dishes.length)?`\u003cdiv class="dishes-btn" onclick="toggleDishes(this.parentElement.parentElement)"\u003e🍽 おすすめメニュー\u003c/div\u003e\u003cdiv class="dishes-list"\u003e${f.dishes.map(d=\u003e`\u003cdiv class="dish-item"\u003e\u003cspan class="dish-name"\u003e${d.name}\u003c/span\u003e \u003cspan class="dish-desc"\u003e${d.desc}\u003c/span\u003e\u003c/div\u003e`).join('')}\u003c/div\u003e`:''}\n          \u003c/div\u003e\n          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\n        \u003c/div\u003e`;
       }).join('');
       noAreaHtml = `<div class="area-group" data-area="">
         <div class="area-body">${noAreaCards}</div>
@@ -590,6 +602,7 @@ function renderTab(routes,food,spots,indoor,souvenirs){
             \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
+            ${(f.dishes&&f.dishes.length)?`\u003cdiv class="dishes-btn" onclick="toggleDishes(this.parentElement)"\u003e\ud83c\udf74 \u304a\u3059\u3059\u3081\u30e1\u30cb\u30e5\u30fc\u003c/div\u003e\u003cdiv class="dishes-list"\u003e${f.dishes.map(d=\u003e`\u003cdiv class="dish-item"\u003e\u003cspan class="dish-name"\u003e${d.name}\u003c/span\u003e \u003cspan class="dish-desc"\u003e${d.desc}\u003c/span\u003e\u003c/div\u003e`).join('')}\u003c/div\u003e`:''}
           \u003c/div\u003e
           \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
         \u003c/div\u003e`;
