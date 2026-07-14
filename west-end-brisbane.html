@@ -123,6 +123,17 @@
     gap: 6px;
     justify-content: center;
   }
+  @media (max-width: 520px) {
+    .tabs {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      justify-content: flex-start;
+    }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tab { flex-shrink: 0; padding: 8px 14px; font-size: 0.8rem; }
+  }
   .tab {
     padding: 8px 18px;
     border-radius: 20px;
@@ -169,6 +180,10 @@
     display: flex;
     flex-direction: column;
     gap: 8px;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   }
   .card.popular {
     border-left: 4px solid #ff6f00;
@@ -401,15 +416,43 @@
   .tab .count{font-size:12px;color:#999;font-weight:400;margin-left:2px;}
   .tab.active .count{color:var(--teal-dark);font-weight:600;}
 </style>
+
+<style>
+  .top-nav {
+    background: var(--navy);
+    padding: 10px 16px;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .top-nav a {
+    color: rgba(255,255,255,0.7);
+    text-decoration: none;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: color .2s;
+  }
+  .top-nav a:hover { color: var(--teal-light); }
+  .top-nav a.active { color: var(--teal); font-weight: 700; }
+</style>
 </head>
 <body>
+
+<!-- Top Navigation -->
+<div class="top-nav">
+  <a href="index.html">🗺️ 台灣旅遊</a>
+  <a href="west-end-brisbane.html" class="active">☀️ West End</a>
+  <a href="chiayi-2day-trip.html">🚗 嘉義二日遊</a>
+  <a href="qingjing-itinerary.html">🏔️ 清境行程</a>
+</div>
 
 <!-- Hero -->
 <div class="hero">
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 11:45</div>
+  <div class="update-time">最後更新：2026-07-14 11:46</div>
 </div>
 
 <!-- Search -->

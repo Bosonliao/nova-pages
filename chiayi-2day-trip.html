@@ -1216,8 +1216,23 @@
       }
     }
   </style>
+
+  <style>
+  .top-nav{background:#1a237e;padding:10px 16px;display:flex;gap:16px;justify-content:center;flex-wrap:wrap;}
+  .top-nav a{color:rgba(255,255,255,0.7);text-decoration:none;font-size:0.82rem;font-weight:500;transition:color .2s;}
+  .top-nav a:hover{color:#80cbc4;}
+  .top-nav a.active{color:#26a69a;font-weight:700;}
+  </style>
 </head>
 <body>
+
+  <!-- Top Navigation -->
+  <div class="top-nav">
+    <a href="index.html" class="active">🗺️ 台灣旅遊</a>
+    <a href="west-end-brisbane.html">☀️ West End</a>
+    <a href="chiayi-2day-trip.html">🚗 嘉義二日遊</a>
+    <a href="qingjing-itinerary.html">🏔️ 清境行程</a>
+  </div>
 
   <!-- Theme Toggle Button -->
   <button class="theme-toggle-btn" id="theme-toggle" onclick="toggleTheme()" aria-label="切換深淺色模式">
