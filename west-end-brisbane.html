@@ -118,24 +118,12 @@
     max-width: 680px;
     margin: 20px auto 0;
     padding: 0 12px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-    justify-content: center;
-  }
-  @media (max-width: 520px) {
-    .tabs {
-      flex-wrap: nowrap;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      justify-content: flex-start;
-    }
-    .tabs::-webkit-scrollbar { display: none; }
-    .tab { flex-shrink: 0; padding: 8px 14px; font-size: 0.8rem; }
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
   }
   .tab {
-    padding: 8px 18px;
+    padding: 10px 12px;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 600;
@@ -145,7 +133,7 @@
     border: 2px solid var(--gray-light);
     transition: all .2s;
     user-select: none;
-    white-space: nowrap;
+    text-align: center;
   }
   .tab:hover { border-color: var(--teal-light); }
   .tab.active {
@@ -452,7 +440,7 @@
   <h1>West End Brisbane</h1>
   <div class="subtitle">布里斯本最文青的河畔社區</div>
   <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
-  <div class="update-time">最後更新：2026-07-14 11:48</div>
+  <div class="update-time">最後更新：2026-07-14 11:55</div>
 </div>
 
 <!-- Search -->
