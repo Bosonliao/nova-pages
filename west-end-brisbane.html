@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>West End Brisbane 西區生活指南 | 布里斯本最文青的河畔社區</title>
+<style>
+  :root {
+    --teal: #2A9D8F;
+    --teal-light: #A8DADC;
+    --teal-dark: #1D6F64;
+    --navy: #264653;
+    --sand: #E9F5F4;
+    --coral: #E76F51;
+    --white: #FFFFFF;
+    --gray: #6B7B7E;
+    --gray-light: #E8ECEC;
+    --shadow: 0 2px 12px rgba(38, 70, 83, 0.08);
+    --shadow-hover: 0 6px 24px rgba(38, 70, 83, 0.15);
+    --radius: 14px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+    background: linear-gradient(180deg, var(--sand) 0%, #F7FBFB 300px);
+    color: var(--navy);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Hero */
+  .hero {
+    background: linear-gradient(135deg, var(--teal-dark) 0%, var(--teal) 60%, var(--teal-light) 100%);
+    color: var(--white);
+    padding: 48px 20px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::after {
+    content: "";
+    position: absolute;
+    bottom: -1px; left: 0; right: 0;
+    height: 40px;
+    background: linear-gradient(180deg, transparent, var(--sand));
+  }
+  .hero h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+  .hero .subtitle {
+    font-size: 1rem;
+    opacity: 0.88;
+    font-weight: 300;
+  }
+  .hero .river-badge {
+    display: inline-block;
+    margin-top: 14px;
+    background: rgba(255,255,255,0.15);
+    padding: 4px 16px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    backdrop-filter: blur(4px);
+  }
+
+  /* Search */
+  .search-wrap {
+    max-width: 680px;
+    margin: -20px auto 0;
+    padding: 0 16px;
+    position: relative;
+    z-index: 10;
+  }
+  .search-box {
+    width: 100%;
+    padding: 14px 20px 14px 48px;
+    border: 2px solid var(--teal-light);
+    border-radius: 30px;
+    font-size: 1rem;
+    outline: none;
+    background: var(--white);
+    box-shadow: var(--shadow);
+    transition: border-color .2s;
+  }
+  .search-box:focus { border-color: var(--teal); }
+  .search-icon {
+    position: absolute;
+    left: 32px; top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.1rem;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  /* Tabs */
+  .tabs {
+    max-width: 680px;
+    margin: 20px auto 0;
+    padding: 0 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: center;
+  }
+  .tab {
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--white);
+    color: var(--navy);
+    border: 2px solid var(--gray-light);
+    transition: all .2s;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .tab:hover { border-color: var(--teal-light); }
+  .tab.active {
+    background: var(--teal);
+    color: var(--white);
+    border-color: var(--teal);
+  }
+
+  /* Grid */
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 24px 16px 60px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  @media (min-width: 520px) {
+    .grid { grid-template-columns: 1fr 1fr; }
+  }
+
+  /* Card */
+  .card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+    transition: box-shadow .2s, transform .2s;
+    border-left: 4px solid var(--teal-light);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .card:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-2px);
+  }
+  .card-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .card-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.35;
+  }
+  .card-tag {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 10px;
+    background: var(--sand);
+    color: var(--teal-dark);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .card-desc {
+    font-size: 0.85rem;
+    color: var(--gray);
+    line-height: 1.5;
+  }
+
+  /* Category accent colors */
+  .card[data-cat="coffee"]    { border-left-color: #C8A87E; }
+  .card[data-cat="coffee"] .card-tag { background: #F5EDE3; color: #8B6F47; }
+  .card[data-cat="brunch"]    { border-left-color: #F4A261; }
+  .card[data-cat="brunch"] .card-tag { background: #FDF0E6; color: #B86D2E; }
+  .card[data-cat="dinner"]    { border-left-color: #E76F51; }
+  .card[data-cat="dinner"] .card-tag { background: #FCEAE5; color: #B14A30; }
+  .card[data-cat="snack"]     { border-left-color: #2A9D8F; }
+  .card[data-cat="snack"] .card-tag { background: #E0F2F0; color: #1D6F64; }
+  .card[data-cat="bar"]       { border-left-color: #9B5DE5; }
+  .card[data-cat="bar"] .card-tag { background: #F0E8FB; color: #6C3AB5; }
+  .card[data-cat="spot"]      { border-left-color: #457B9D; }
+  .card[data-cat="spot"] .card-tag { background: #E4EEF5; color: #2C5A7A; }
+
+  /* No results */
+  .no-results {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--gray);
+    font-size: 0.95rem;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 24px 16px 40px;
+    font-size: 0.75rem;
+    color: var(--gray);
+  }
+  .footer a { color: var(--teal); text-decoration: none; }
+
+  /* Map section */
+  .map-info {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 16px 20px;
+  }
+  .map-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+  }
+  .map-card h3 {
+    font-size: 0.95rem;
+    color: var(--teal-dark);
+    margin-bottom: 10px;
+  }
+  .map-card ul {
+    list-style: none;
+    font-size: 0.82rem;
+    color: var(--gray);
+  }
+  .map-card li {
+    padding: 3px 0;
+    padding-left: 18px;
+    position: relative;
+  }
+  .map-card li::before {
+    content: "📍";
+    position: absolute;
+    left: 0;
+    font-size: 0.7rem;
+  }
+
+  /* Count badge */
+  .result-count {
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--gray);
+    margin: 16px 0 8px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Hero -->
+<div class="hero">
+  <h1>West End Brisbane</h1>
+  <div class="subtitle">布里斯本最文青的河畔社區</div>
+  <div class="river-badge">🌊 Brisbane River 環繞的半島社區</div>
+</div>
+
+<!-- Search -->
+<div class="search-wrap">
+  <span class="search-icon">🔍</span>
+  <input type="text" class="search-box" id="searchBox" placeholder="搜尋店名或關鍵字…" autocomplete="off">
+</div>
+
+<!-- Tabs -->
+<div class="tabs" id="tabs">
+  <div class="tab active" data-filter="all">全部</div>
+  <div class="tab" data-filter="coffee">☕ 咖啡</div>
+  <div class="tab" data-filter="brunch">🍳 早午餐</div>
+  <div class="tab" data-filter="dinner">🍽️ 晚餐</div>
+  <div class="tab" data-filter="snack">🌮 輕食</div>
+  <div class="tab" data-filter="bar">🍸 酒吧</div>
+  <div class="tab" data-filter="spot">📍 景點</div>
+</div>
+
+<!-- Map Info -->
+<div class="map-info">
+  <div class="map-card">
+    <h3>🗺️ West End 地理概覽</h3>
+    <ul>
+      <li>Brisbane River 環繞北、東、南三面</li>
+      <li>Boundary Street — 主要街道（南北向）</li>
+      <li>Vulture Street — 南部邊界</li>
+      <li>Montague Road — 西部河邊道路</li>
+      <li>Hardgrave Road — 東西向道路</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Result count -->
+<div class="result-count" id="resultCount"></div>
+
+<!-- Grid -->
+<div class="container">
+  <div class="grid" id="grid"></div>
+  <div class="no-results" id="noResults" style="display:none;">找不到結果，試試其他關鍵字 🔍</div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  資料來源：<a href="https://www.visitbrisbane.com.au" target="_blank" rel="noopener">Visit Brisbane</a> 官方網站整理<br>
+  West End Brisbane 西區生活指南 · 2026
+</div>
+
+<script>
+const DATA = [
+  // ☕ 咖啡
+  { name: "Blackstar Coffee Roasters", cat: "coffee", tag: "咖啡烘焙", desc: "當地烘焙名店，West End 咖啡文化的標誌" },
+  { name: "Veneziano Coffee Roasters", cat: "coffee", tag: "精品咖啡", desc: "精品咖啡烘焙，追求品質的行家首選" },
+  { name: "West End Coffee House", cat: "coffee", tag: "社區咖啡", desc: "社區咖啡 hub，也賣泰式街頭美食" },
+  { name: "GoodGood", cat: "coffee", tag: "單品咖啡", desc: "單品咖啡文化，精品手沖愛好者必訪" },
+
+  // 🍳 早午餐
+  { name: "Morning After", cat: "brunch", tag: "健康早午餐", desc: "健康又 indulgent 的有趣菜單" },
+  { name: "Café Disco", cat: "brunch", tag: "懷舊咖啡", desc: "懷舊咖啡經典 + 創意巧思" },
+  { name: "Second Rodeo", cat: "brunch", tag: "Tex-Mex", desc: "Tex-Mex 早午餐：breakfast tacos, huevos rancheros" },
+  { name: "Semi Semi", cat: "brunch", tag: "日式義式融合", desc: "日式 + 義式融合，三明治 + 抹茶" },
+  { name: "Gun Shop Café", cat: "brunch", tag: "老字號", desc: "West End 老字號，招牌 potato & fetta hash cakes" },
+  { name: "Lokal + Co", cat: "brunch", tag: "北歐風", desc: "北歐風現代季節料理" },
+  { name: "Picnic", cat: "brunch", tag: "全日早午餐", desc: "全日早午餐，悠閒氛圍" },
+  { name: "Tom's Kitchen", cat: "brunch", tag: "餐廳", desc: "Thomas Dixon Centre 裡的餐廳" },
+  { name: "Good Thing", cat: "brunch", tag: "現代早午餐", desc: "現代早午餐 + 精緻蛋糕" },
+  { name: "Alphabet Café", cat: "brunch", tag: "小而美", desc: "小而美的社區咖啡館" },
+
+  // 🍽️ 晚餐
+  { name: "Layla", cat: "dinner", tag: "中東料理", desc: "中東料理，異國風味的夜晚選擇" },
+  { name: "Rich + Rare", cat: "dinner", tag: "牛排", desc: "布里斯本最佳牛排，肉食愛好者天堂" },
+  { name: "Pilloni", cat: "dinner", tag: "義大利薩丁尼亞", desc: "義大利薩丁尼亞料理，道地島嶼風味" },
+  { name: "Yamas", cat: "dinner", tag: "希臘海鮮", desc: "希臘海鮮料理，新鮮直送" },
+  { name: "Bar Francine", cat: "dinner", tag: "歐風料理", desc: "歐風料理 + 澳洲葡萄酒搭配" },
+  { name: "+81 Sushi Kappo", cat: "dinner", tag: "日式 kappo", desc: "日式 kappo 料理，職人精神" },
+  { name: "Vela", cat: "dinner", tag: "亞洲精緻", desc: "亞洲精緻料理，融合現代技法" },
+  { name: "Zazu", cat: "dinner", tag: "亞洲融合", desc: "亞洲融合料理，創意無界" },
+
+  // 🌮 輕食
+  { name: "Mama Taco", cat: "snack", tag: "墨西哥", desc: "墨西哥料理，隨性美味的塔可" },
+  { name: "Caravanserai", cat: "snack", tag: "土耳其", desc: "土耳其餐廳，河景伴餐" },
+  { name: "Goodtime", cat: "snack", tag: "澳式 yum-cha", desc: "澳式 yum-cha + natural wine" },
+  { name: "Bird's Nest Yakitori", cat: "snack", tag: "日式串燒", desc: "日式串燒，炭火慢烤" },
+  { name: "Izakaya Goku", cat: "snack", tag: "日式居酒屋", desc: "日式居酒屋，下班放鬆好去處" },
+  { name: "Trang", cat: "snack", tag: "越南料理", desc: "越南料理，道式東南亞風味" },
+  { name: "Quan Thanh", cat: "snack", tag: "越南料理", desc: "越南料理，河粉與越式經典" },
+  { name: "Little Greek Taverna", cat: "snack", tag: "希臘家庭", desc: "傳統希臘家庭餐廳，溫馨家常味" },
+  { name: "Nostimo (Greek Club)", cat: "snack", tag: "希臘 banquet", desc: "希臘 banquet，豐盛共享盛宴" },
+  { name: "Lefkas", cat: "snack", tag: "希臘料理", desc: "希臘料理，招牌 grilled saganaki" },
+
+  // 🍸 酒吧
+  { name: "Archive Beer Boutique", cat: "bar", tag: "精釀啤酒", desc: "80+ 精釀啤酒，啤酒愛好者天堂" },
+  { name: "Catchment Brewing Co.", cat: "bar", tag: "精釀啤酒廠", desc: "精釀啤酒廠，現釀新鮮直送" },
+  { name: "Brisbane Brewing Co.", cat: "bar", tag: "精釀啤酒", desc: "布里斯本本地精釀啤酒" },
+  { name: "The Boundary Hotel", cat: "bar", tag: "歷史酒吧", desc: "1864 年歷史酒吧，live music + woodfired pizza" },
+  { name: "Covent Garden", cat: "bar", tag: "琴酒", desc: "500+ 琴酒，澳洲最大琴酒選擇之一" },
+  { name: "Cobbler", cat: "bar", tag: "威士忌雞尾酒", desc: "威士忌 + 雞尾酒，品飲靜謐空間" },
+  { name: "The Bearded Lady", cat: "bar", tag: "Live music", desc: "Live music酒吧，音樂人聚集地" },
+  { name: "West Room", cat: "bar", tag: "Live music", desc: "Live music，本地樂團演出" },
+  { name: "Loft West End", cat: "bar", tag: "Live music", desc: "Live music，頂樓氛圍" },
+  { name: "The End", cat: "bar", tag: "酒吧", desc: "West End 社區酒吧" },
+  { name: "Bosc", cat: "bar", tag: "酒吧", desc: "風格酒吧，夜晚小酌" },
+  { name: "Jungle Bar", cat: "bar", tag: "Tiki 酒吧", desc: "Tiki 酒吧，熱帶島嶼風情" },
+
+  // 📍 景點
+  { name: "Montague Markets", cat: "spot", tag: "河畔商場", desc: "河畔生活購物中心，採買與美食一站滿足" },
+  { name: "Thomas Dixon Centre", cat: "spot", tag: "昆士蘭芭蕾", desc: "Queensland Ballet 昆士蘭芭蕾舞團駐地" },
+  { name: "Kurilpa Bridge", cat: "spot", tag: "行人橋", desc: "行人自行車橋，連接南岸與 West End" },
+  { name: "West End Ferry Terminal", cat: "spot", tag: "渡輪站", desc: "搭渡輪遊河，欣賞布里斯本河景" },
+  { name: "Davies Park", cat: "spot", tag: "河畔公園", desc: "河畔公園，週末市集與野餐勝地" },
+  { name: "Kurilpa Library", cat: "spot", tag: "歷史圖書館", desc: "歷史圖書館 (1929)，社區文化地標" },
+  { name: "Soak Bathhouse", cat: "spot", tag: "屋頂浴池", desc: "屋頂浴池，城市中放鬆身心" },
+  { name: "Brisbane Distillery", cat: "spot", tag: "蒸餾廠", desc: "本地蒸餾廠，琴酒與烈酒品鑑" },
+  { name: "West End Park Cafe", cat: "spot", tag: "公園咖啡", desc: "公園裡的咖啡館，綠意伴杯" },
+  { name: "Boundary Street Markets", cat: "spot", tag: "市集", desc: "Boundary Street 市集，週末文青必逛" },
+  { name: "West Village", cat: "spot", tag: "混合零售", desc: "混合零售住宅區，新舊融合的社區空間" },
+  { name: "West End Electric", cat: "spot", tag: "劇場表演", desc: "劇場表演，地下藝文能量" }
+];
+
+const grid = document.getElementById('grid');
+const searchBox = document.getElementById('searchBox');
+const tabsContainer = document.getElementById('tabs');
+const noResults = document.getElementById('noResults');
+const resultCount = document.getElementById('resultCount');
+
+let activeFilter = 'all';
+let searchTerm = '';
+
+function render() {
+  const filtered = DATA.filter(item => {
+    const matchCat = activeFilter === 'all' || item.cat === activeFilter;
+    const matchSearch = !searchTerm ||
+      item.name.toLowerCase().includes(searchTerm) ||
+      item.desc.toLowerCase().includes(searchTerm) ||
+      item.tag.toLowerCase().includes(searchTerm);
+    return matchCat && matchSearch;
+  });
+
+  resultCount.textContent = `共 ${filtered.length} 項結果`;
+
+  if (filtered.length === 0) {
+    grid.innerHTML = '';
+    noResults.style.display = 'block';
+    return;
+  }
+  noResults.style.display = 'none';
+
+  grid.innerHTML = filtered.map(item => `
+    <div class="card" data-cat="${item.cat}">
+      <div class="card-head">
+        <div class="card-name">${item.name}</div>
+        <span class="card-tag">${item.tag}</span>
+      </div>
+      <div class="card-desc">${item.desc}</div>
+    </div>
+  `).join('');
+}
+
+// Tab clicks
+tabsContainer.addEventListener('click', e => {
+  const tab = e.target.closest('.tab');
+  if (!tab) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  activeFilter = tab.dataset.filter;
+  render();
+});
+
+// Search
+searchBox.addEventListener('input', e => {
+  searchTerm = e.target.value.trim().toLowerCase();
+  render();
+});
+
+// Init
+render();
+</script>
+</body>
+</html>
