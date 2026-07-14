@@ -501,7 +501,7 @@ function renderTab(routes,food,spots,indoor,souvenirs){
     const catOrder = ['中式','西式','日式','異國','甜食','咖啡廳','火鍋','素食']; const catList = [...catOrder.filter(c=>allCats.has(c)), ...Array.from(allCats).filter(c=>!catOrder.includes(c))];
     // Collect areas
     const allAreas = new Set();
-    food.forEach(f=>{allAreas.add(f.area||'其他')});
+    food.forEach(f=>{if(f.area && f.area.trim()) allAreas.add(f.area)});
     const areaList = Array.from(allAreas);
     // Area filter bar (top row)
     let areaBar = '<div class="food-cat-bar"><button class="food-cat-btn area-btn active" onclick="filterArea(this,\'\')">全區</button>';
@@ -528,12 +528,41 @@ function renderTab(routes,food,spots,indoor,souvenirs){
       return (b.reviews||0) - (a.reviews||0);
     });
     const groups = {};
-    sortedFood.forEach(f=>{
-      const area = f.area || '其他';
+    // Put no-area entries first without group header
+    const noArea = sortedFood.filter(f=>!f.area || !f.area.trim());
+    const hasArea = sortedFood.filter(f=>f.area && f.area.trim());
+    hasArea.forEach(f=>{
+      const area = f.area;
       if(!groups[area]) groups[area] = [];
       groups[area].push(f);
     });
-    return areaBar + catBar + Object.keys(groups).map(area=>{
+    // No-area cards (shown first, no group header)
+    let noAreaHtml = '';
+    if(noArea.length){
+      const noAreaCards = noArea.map(f=>{
+        const link = gmapLink(f.name, currentCounty);
+        let ratingHtml = '';
+        if(f.rating !== null && f.rating !== undefined){
+          const stars = '★'.repeat(Math.round(f.rating));
+          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
+          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          if(f.reviews !== null && f.reviews !== undefined){
+            ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}件)</span>`;
+          }
+          ratingHtml += `</span>`;
+        }
+        const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
+        const isPopular = (f.rating>=4.0 && f.reviews>=1000);
+        const popularTag = isPopular ? '<span class="food-tag popular">🔥 人気</span>' : '';
+        const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3\u003c/span\u003e' : '';
+        const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
+        return `\u003cdiv class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0"\u003e\n          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e\n          \u003cdiv class="info"\u003e\n            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e\n            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${sstcTag}${cats}\u003c/div\u003e\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}\n          \u003c/div\u003e\n          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\n        \u003c/div\u003e`;
+      }).join('');
+      noAreaHtml = `<div class="area-group" data-area="">
+        <div class="area-body">${noAreaCards}</div>
+      </div>`;
+    }
+    return areaBar + catBar + noAreaHtml + Object.keys(groups).map(area=>{
       const items = groups[area];
       const id = 'area-' + area.replace(/[^a-zA-Z0-9]/g,'');
       const cards = items.map(f=>{
