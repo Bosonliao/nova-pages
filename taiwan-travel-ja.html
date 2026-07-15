@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -600,9 +600,9 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人気</span>' : '';
-        const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3\u003c/span\u003e' : '';
-        const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `\u003cdiv class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0"\u003e\n          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e\n          \u003cdiv class="info"\u003e\n            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e\n            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${sstcTag}${cats}\u003c/div\u003e\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}\n            ${(f.dishes&&f.dishes.length)?`\u003cdiv class="dishes-btn" onclick="toggleDishes(this.parentElement.parentElement)"\u003e🍽 おすすめメニュー\u003c/div\u003e\u003cdiv class="dishes-list"\u003e${f.dishes.map(d=\u003e`\u003cdiv class="dish-item"\u003e\u003cspan class="dish-name"\u003e${d.name}\u003c/span\u003e \u003cspan class="dish-desc"\u003e${d.desc}\u003c/span\u003e\u003c/div\u003e`).join('')}\u003c/div\u003e`:''}\n          \u003c/div\u003e\n          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\n        \u003c/div\u003e`;
+        const michelinTag = (hasTag(f,'michelin')) ? '<span class="food-tag michelin">\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3</span>' : '';
+        const sstcTag = (hasTag(f,'sp')) ? '<span class="food-tag sstc">\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6</span>' : '';
+        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0">\n          <div class="icon">\ud83c\udf74</div>\n          <div class="info">\n            <div class="name">${f.name}${ratingHtml}</div>\n            <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}\n            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement.parentElement)">🍽 おすすめメニュー</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}\n          </div>\n          <a class="glink" href="${link}" target="_blank">\ud83d\udccd \u5c0e\u822a</a>\n        </div>`;
       }).join('');
       noAreaHtml = `<div class="area-group" data-area="">
         <div class="area-body">${noAreaCards}</div>
@@ -626,20 +626,20 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人気</span>' : '';
-        const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3\u003c/span\u003e' : '';
+        const michelinTag = (hasTag(f,'michelin')) ? '<span class="food-tag michelin">\u2b50 \u30df\u30b7\u30e5\u30e9\u30f3</span>' : '';
         const isFootSoak = (f.description||'').includes('\u6ce1\u8173')||(f.name||'').includes('\u6ce1\u8173');
-        const footSoakTag = isFootSoak ? '\u003cspan class="food-tag footsoak"\u003e\ud83e\uddb6 \u6ce1\u8173\u5496\u5561\u003c/span\u003e' : '';
-        const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
-          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
-          \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e
-            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
-            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
-            ${(f.dishes&&f.dishes.length)?`\u003cdiv class="dishes-btn" onclick="toggleDishes(this.parentElement)"\u003e\ud83c\udf74 \u304a\u3059\u3059\u3081\u30e1\u30cb\u30e5\u30fc\u003c/div\u003e\u003cdiv class="dishes-list"\u003e${f.dishes.map(d=\u003e`\u003cdiv class="dish-item"\u003e\u003cspan class="dish-name"\u003e${d.name}\u003c/span\u003e \u003cspan class="dish-desc"\u003e${d.desc}\u003c/span\u003e\u003c/div\u003e`).join('')}\u003c/div\u003e`:''}
-          \u003c/div\u003e
-          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
-        \u003c/div\u003e`;
+        const footSoakTag = isFootSoak ? '<span class="food-tag footsoak">\ud83e\uddb6 \u6ce1\u8173\u5496\u5561</span>' : '';
+        const sstcTag = (hasTag(f,'sp')) ? '<span class="food-tag sstc">\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6</span>' : '';
+        return `<div class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="${isFootSoak?1:0}">
+          <div class="icon">\ud83c\udf74</div>
+          <div class="info">
+            <div class="name">${f.name}${ratingHtml}</div>
+            <div class="food-tags">${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}</div>
+            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
+            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">\ud83c\udf74 \u304a\u3059\u3059\u3081\u30e1\u30cb\u30e5\u30fc</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}
+          </div>
+          <a class="glink" href="${link}" target="_blank">\ud83d\udccd \u5c0e\u822a</a>
+        </div>`;
       }).join('');
       return `<div class="area-group" data-area="${area}">
         <div class="area-header" onclick="toggleArea('${id}')">
