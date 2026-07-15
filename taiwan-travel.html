@@ -74,8 +74,6 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-card .desc{font-size:12px;color:#777;margin-top:2px;}
 .food-card .glink{flex-shrink:0;font-size:12px;color:#1a73e8;text-decoration:none;background:#e8f0fe;border-radius:6px;padding:4px 10px;white-space:nowrap;}
 .food-card .glink:hover{background:#d2e3fc;}
-.food-card .menu-link{background:#f3e5f5;color:#7b1fa2;}
-.food-card .menu-link:hover{background:#e1bee7;}
 .food-cat-bar{display:flex;flex-wrap:wrap;gap:4px;padding:6px 10px;margin-bottom:4px;background:#fff;border-top:1px solid #eee;justify-content:center;}
 .food-cat-btn{border:1px solid #e0e0e0;border-radius:14px;padding:3px 10px;font-size:13px;background:#fff;color:#555;cursor:pointer;white-space:nowrap;}
 .food-cat-btn:hover{background:#fff3e0;border-color:#ffb74d;}
@@ -574,7 +572,6 @@ function renderTab(routes,food,spots,indoor,souvenirs){
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}
           </div>
-          <a class="glink menu-link" href="https://www.google.com/maps/search/${encodeURIComponent(f.name + ' ' + currentCounty)}/" target="_blank">📋 菜單</a>
           <a class="glink" href="${link}" target="_blank">📍 導航</a>
         </div>`;
       }).join('');
@@ -610,7 +607,6 @@ function renderTab(routes,food,spots,indoor,souvenirs){
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}
           \u003c/div\u003e
-          \u003ca class="glink menu-link" href="https://www.google.com/maps/search/${encodeURIComponent(f.name + ' ' + currentCounty)}/" target="_blank"\u003e\ud83d\udccb \u83dc\u55ae\u003c/a\u003e
           \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
         \u003c/div\u003e`;
       }).join('');
