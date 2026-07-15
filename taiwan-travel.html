@@ -243,15 +243,22 @@ Promise.all([
 });
 
 function loadCounty(c){
+  if(!c) { console.error('loadCounty: no county specified'); return; }
   if(DATA[c]) { currentCounty=c; render(); return; }
   const en = CITY_EN[c] || c;
-  fetch(`data/${en}.json`).then(r=>r.json()).then(d=>{
+  fetch('data/'+en+'.json').then(r=>{
+    if(!r.ok) throw new Error('HTTP '+r.status+' for data/'+en+'.json');
+    return r.json();
+  }).then(d=>{
     DATA[c]=d;
     currentCounty=c;
+    // Update badge
+    const badge = document.getElementById('badge-'+c);
+    if(badge) badge.textContent = (d.food||[]).length;
     render();
   }).catch(e=>{
     console.error('Failed to load county',c,e);
-    document.getElementById('content').innerHTML=`<p style="padding:40px;text-align:center">${c}資料載入失敗</p>`;
+    document.getElementById('content').innerHTML='<p style="padding:40px;text-align:center">'+c+'資料載入失敗: '+e.message+'</p>';
   });
 }
 
@@ -807,16 +814,15 @@ function renderTab(routes,food,spots,indoor,souvenirs){
 }
 
 function initApp(){
-ORDER.forEach(c=>{
-  const d = DATA[c];
-  const badge = document.getElementById('badge-'+c);
-  if(badge){
-    badge.textContent = (d.routes||[]).length;
-  }
-});
-selectCounty('台北');
-// Pulse hint on load to draw attention to county selector
-setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
+  // Don't call selectCounty here - loadCounty handles it
+  ORDER.forEach(c=>{
+    const badge = document.getElementById('badge-'+c);
+    if(badge){
+      badge.textContent = '...';
+    }
+  });
+  // Pulse hint on load
+  setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
 }
 </script>
 </body>
