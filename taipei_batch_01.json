@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 338,
+    "name": "黑殿飯店(創始店)",
+    "rating": 4.6,
+    "reviews": 29634,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 468,
+    "name": "豐 FOOD 海陸百匯",
+    "rating": 4.5,
+    "reviews": 25991,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 72,
+    "name": "阜杭豆漿",
+    "rating": 4.1,
+    "reviews": 23936,
+    "area": "中正",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 170,
+    "name": "肉次方 燒肉放題 台北峨眉店",
+    "rating": 4.8,
+    "reviews": 23178,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 92,
+    "name": "巴雷巴雷印度餐廳",
+    "rating": 4.9,
+    "reviews": 23030,
+    "area": "松山",
+    "category": "異國"
+  },
+  {
+    "city": "台北",
+    "index": 796,
+    "name": "一蘭 台灣台北本店",
+    "rating": 4.2,
+    "reviews": 21974,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 743,
+    "name": "富宏牛肉麵",
+    "rating": 4.2,
+    "reviews": 21687,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 226,
+    "name": "青花驕麻辣鍋 台北中山北店",
+    "rating": 4.7,
+    "reviews": 21288,
+    "area": "中山",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 1177,
+    "name": "鼎泰豐（信義路）",
+    "rating": 4.5,
+    "reviews": 20000,
+    "area": "信義",
+    "category": "義式"
+  },
+  {
+    "city": "台北",
+    "index": 130,
+    "name": "金洹苑 KIN KAN EN-日式燒肉火鍋吃到飽 台北日本和牛海鮮吃到飽人氣推薦",
+    "rating": 4.8,
+    "reviews": 18798,
+    "area": "",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 840,
+    "name": "西門町阿宗麵線",
+    "rating": 4.1,
+    "reviews": 18223,
+    "area": "萬華",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 67,
+    "name": "金峰魯肉飯",
+    "rating": 3.7,
+    "reviews": 16487,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 104,
+    "name": "林美如 海鮮 熱炒 燒烤 酒場",
+    "rating": 4.9,
+    "reviews": 15938,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 232,
+    "name": "今日魚市-南京店-原丼賞和食",
+    "rating": 4.7,
+    "reviews": 15327,
+    "area": "",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 655,
+    "name": "熊一頂級燒肉-西門店",
+    "rating": 4.3,
+    "reviews": 15240,
+    "area": "萬華",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 146,
+    "name": "島語 台北漢來店",
+    "rating": 4.8,
+    "reviews": 14553,
+    "area": "南港",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 171,
+    "name": "山上走走 日式燒肉台北華山店",
+    "rating": 4.8,
+    "reviews": 14368,
+    "area": "中山",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 30,
+    "name": "小王煮瓜",
+    "rating": 4.1,
+    "reviews": 14150,
+    "area": "萬華",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 858,
+    "name": "三味食堂",
+    "rating": 4.1,
+    "reviews": 13992,
+    "area": "",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 50,
+    "name": "鼎泰豐信義店",
+    "rating": 4.4,
+    "reviews": 13097,
+    "area": "信義",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 293,
+    "name": "村民食堂廚窗港點 士林官邸店",
+    "rating": 4.6,
+    "reviews": 12970,
+    "area": "士林",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 107,
+    "name": "四時輕燒肉概念屋 台北最強健康輕燒肉",
+    "rating": 4.9,
+    "reviews": 12916,
+    "area": "松山",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 245,
+    "name": "艾朋牛排餐酒館",
+    "rating": 4.7,
+    "reviews": 12541,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 175,
+    "name": "王品牛排 台北中山北店",
+    "rating": 4.8,
+    "reviews": 12528,
+    "area": "中山",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 68,
+    "name": "林東芳牛肉麵",
+    "rating": 3.8,
+    "reviews": 12473,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 90,
+    "name": "不葷主義茶餐廳 台北店 (13:30/20:30最後點餐｜僅收現金)",
+    "rating": 4.9,
+    "reviews": 12420,
+    "area": "松山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 155,
+    "name": "問鼎 ‧ 皇上吉祥 麻辣養生鍋-忠孝店",
+    "rating": 4.8,
+    "reviews": 12361,
+    "area": "",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 84,
+    "name": "老井極上燒肉 台北信義店",
+    "rating": 4.9,
+    "reviews": 12272,
+    "area": "信義",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 799,
+    "name": "INPARADISE 饗饗 微風信義店",
+    "rating": 4.2,
+    "reviews": 12220,
+    "area": "信義",
+    "category": "咖啡廳"
+  },
+  {
+    "city": "台北",
+    "index": 93,
+    "name": "二本松涮涮屋 本館",
+    "rating": 4.9,
+    "reviews": 12076,
+    "area": "",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 944,
+    "name": "永康牛肉麵",
+    "rating": 3.7,
+    "reviews": 11880,
+    "area": "大安",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 154,
+    "name": "問鼎 ‧ 皇上吉祥 麻辣養生鍋-西門店",
+    "rating": 4.8,
+    "reviews": 11827,
+    "area": "萬華",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 0,
+    "name": "雙月食品社北投店",
+    "rating": 4.9,
+    "reviews": 11467,
+    "area": "北投",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 86,
+    "name": "燒肉眾精緻炭火燒肉 台北西門店",
+    "rating": 4.9,
+    "reviews": 11320,
+    "area": "萬華",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 71,
+    "name": "劉山東牛肉麵",
+    "rating": 4,
+    "reviews": 11290,
+    "area": "中正",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 51,
+    "name": "劉山東小吃店",
+    "rating": 4,
+    "reviews": 11289,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 734,
+    "name": "西門麵店",
+    "rating": 4.2,
+    "reviews": 11000,
+    "area": "萬華",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 102,
+    "name": "《擼吉霸》正宗成都四川麻辣串串火鍋創始店｜全台最多種擼串｜人氣平價麻辣｜宵夜、聚餐、包埸｜捷運站美食｜串串｜火鍋｜麻辣｜宵夜｜林森北路美食｜中山區美食｜四川串串｜美食推薦",
+    "rating": 4.9,
+    "reviews": 10985,
+    "area": "中山",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 198,
+    "name": "丰禾 台味風格料理 台北南京東店",
+    "rating": 4.7,
+    "reviews": 10923,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 241,
+    "name": "胖肚肚燒肉吃到飽599-京華店｜炭火燒肉",
+    "rating": 4.7,
+    "reviews": 10402,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 957,
+    "name": "建宏牛肉麵",
+    "rating": 3.7,
+    "reviews": 9139,
+    "area": "萬華",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 5,
+    "name": "杭州小籠湯包",
+    "rating": 3.8,
+    "reviews": 9074,
+    "area": "大安",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 693,
+    "name": "養心茶樓 蔬食飲茶 松江店",
+    "rating": 4.3,
+    "reviews": 8611,
+    "area": "中山",
+    "category": "素食"
+  },
+  {
+    "city": "台北",
+    "index": 290,
+    "name": "半島牛肉麵",
+    "rating": 4.6,
+    "reviews": 8452,
+    "area": "信義",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 612,
+    "name": "水龜伯古早味",
+    "rating": 4.3,
+    "reviews": 8448,
+    "area": "北投",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 470,
+    "name": "紅磡 新飲茶 （林森店）中山區 / 外帶 / 外送 / 下午茶 / 宵夜 / 人氣餐廳 / 推薦餐廳 / 生日聚餐 / 家庭聚餐 / 朋友聚餐 / 約會餐廳",
+    "rating": 4.5,
+    "reviews": 8427,
+    "area": "中山",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 874,
+    "name": "天天利美食坊",
+    "rating": 4.1,
+    "reviews": 8384,
+    "area": "萬華",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 826,
+    "name": "Maple Tree House 楓樹韓國烤肉",
+    "rating": 4.1,
+    "reviews": 8189,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 836,
+    "name": "臺一牛奶大王",
+    "rating": 4.1,
+    "reviews": 8132,
+    "area": "",
+    "category": "甜品"
+  },
+  {
+    "city": "台北",
+    "index": 326,
+    "name": "朝日夫婦",
+    "rating": 4.6,
+    "reviews": 8086,
+    "area": "",
+    "category": "中式"
+  }
+]

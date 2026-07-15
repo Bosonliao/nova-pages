@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 176,
+    "name": "王品牛排 台北南京東店",
+    "rating": 4.8,
+    "reviews": 8041,
+    "area": "中山",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 209,
+    "name": "小倉庫食研所",
+    "rating": 4.7,
+    "reviews": 7975,
+    "area": "士林",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 508,
+    "name": "慶城海南雞飯",
+    "rating": 4.4,
+    "reviews": 7951,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 40,
+    "name": "阿城鵝肉",
+    "rating": 4.4,
+    "reviews": 7853,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 758,
+    "name": "一蘭 台灣台北別館",
+    "rating": 4.2,
+    "reviews": 7677,
+    "area": "",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 89,
+    "name": "豚馬日本料理",
+    "rating": 4.9,
+    "reviews": 7555,
+    "area": "士林",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 127,
+    "name": "肉老大頂級肉品涮涮鍋 台北中山火鍋店| 錦西",
+    "rating": 4.8,
+    "reviews": 7515,
+    "area": "中山",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 536,
+    "name": "戰醬燒肉-市民店",
+    "rating": 4.4,
+    "reviews": 7411,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 815,
+    "name": "吳家牛肉麵店",
+    "rating": 4.1,
+    "reviews": 7203,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 136,
+    "name": "馬友友印度蔬食餐廳 Mayur Indian Kitchen Vegetarian restaurant, MIK-3",
+    "rating": 4.8,
+    "reviews": 7162,
+    "area": "中正",
+    "category": "素食"
+  },
+  {
+    "city": "台北",
+    "index": 916,
+    "name": "藍家割包",
+    "rating": 4,
+    "reviews": 7020,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 511,
+    "name": "詹記麻辣火鍋 敦南店",
+    "rating": 4.4,
+    "reviews": 6919,
+    "area": "",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 759,
+    "name": "頂好紫琳蒸餃館",
+    "rating": 4.2,
+    "reviews": 6879,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 32,
+    "name": "一甲子餐飲",
+    "rating": 4.4,
+    "reviews": 6817,
+    "area": "大同",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 547,
+    "name": "德州鮮切牛排 松高店",
+    "rating": 4.4,
+    "reviews": 6618,
+    "area": "信義",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 63,
+    "name": "台北東一排骨總店",
+    "rating": 4.2,
+    "reviews": 6615,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 333,
+    "name": "瀧厚炙燒熟成牛排 台北.北車店",
+    "rating": 4.6,
+    "reviews": 6549,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 427,
+    "name": "新村站著吃烤肉 台北市府店",
+    "rating": 4.5,
+    "reviews": 6548,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 779,
+    "name": "豆花莊",
+    "rating": 4.2,
+    "reviews": 6526,
+    "area": "大同",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 819,
+    "name": "東引小吃店（推薦深夜美食 台北宵夜 牛肉麵 捷運南京三民站",
+    "rating": 4.1,
+    "reviews": 6502,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 117,
+    "name": "柒息地串燒居酒屋士林店",
+    "rating": 4.9,
+    "reviews": 6456,
+    "area": "士林",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 802,
+    "name": "欣葉台菜創始店",
+    "rating": 4.2,
+    "reviews": 6397,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 539,
+    "name": "莫爾頓牛排館",
+    "rating": 4.4,
+    "reviews": 6385,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 26,
+    "name": "松竹園",
+    "rating": 4.3,
+    "reviews": 6357,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 301,
+    "name": "這一鍋 台北信義殿",
+    "rating": 4.6,
+    "reviews": 6356,
+    "area": "信義",
+    "category": "火鍋"
+  },
+  {
+    "city": "台北",
+    "index": 14,
+    "name": "黃記魯肉飯",
+    "rating": 4.2,
+    "reviews": 6295,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 627,
+    "name": "Second Floor 貳樓西湖店",
+    "rating": 4.3,
+    "reviews": 6259,
+    "area": "內湖",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 555,
+    "name": "金園排骨萬年店",
+    "rating": 4.4,
+    "reviews": 6228,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 236,
+    "name": "單眼皮双眼皮早餐輕食2店",
+    "rating": 4.7,
+    "reviews": 6214,
+    "area": "",
+    "category": "咖啡廳"
+  },
+  {
+    "city": "台北",
+    "index": 629,
+    "name": "Second Floor 貳樓南港車站店",
+    "rating": 4.3,
+    "reviews": 6179,
+    "area": "南港",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 567,
+    "name": "燈籠滷味 創始總店",
+    "rating": 4.4,
+    "reviews": 6165,
+    "area": "大安",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 432,
+    "name": "沾美西餐廳",
+    "rating": 4.5,
+    "reviews": 6068,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 744,
+    "name": "小吳牛肉麵",
+    "rating": 4.2,
+    "reviews": 5945,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 267,
+    "name": "HOOTERS美式餐廳 信義店",
+    "rating": 4.7,
+    "reviews": 5934,
+    "area": "信義",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 846,
+    "name": "品鱻海鮮熱炒店",
+    "rating": 4.1,
+    "reviews": 5877,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 19,
+    "name": "賣麵炎仔",
+    "rating": 4.2,
+    "reviews": 5838,
+    "area": "大同",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 242,
+    "name": "梨谷韓式鐵板烤肉 忠孝總店",
+    "rating": 4.7,
+    "reviews": 5833,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 64,
+    "name": "溫州街蘿蔔絲餅達人",
+    "rating": 4.1,
+    "reviews": 5761,
+    "area": "大安",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 642,
+    "name": "五之神製作所 台灣",
+    "rating": 4.3,
+    "reviews": 5761,
+    "area": "",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 700,
+    "name": "台灣鹽酥雞 大直創始總店 - Taiwanese Popcorn Fried Chicken King (Dazhi Restaurant )",
+    "rating": 4.3,
+    "reviews": 5736,
+    "area": "中山",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 108,
+    "name": "初樂燒肉",
+    "rating": 4.9,
+    "reviews": 5691,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 501,
+    "name": "白房子Yang Ｍing Caf’e",
+    "rating": 4.4,
+    "reviews": 5661,
+    "area": "士林",
+    "category": "咖啡廳"
+  },
+  {
+    "city": "台北",
+    "index": 348,
+    "name": "銀兔湯咖哩(師大本店)",
+    "rating": 4.6,
+    "reviews": 5647,
+    "area": "大安",
+    "category": "日式"
+  },
+  {
+    "city": "台北",
+    "index": 865,
+    "name": "臺北市客家文化主題公園",
+    "rating": 4.1,
+    "reviews": 5633,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 607,
+    "name": "Smith & Wollensky - Taipei",
+    "rating": 4.3,
+    "reviews": 5626,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 371,
+    "name": "WOW Bistro旺.慢食餐酒館 -中山店",
+    "rating": 4.6,
+    "reviews": 5624,
+    "area": "中山",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 965,
+    "name": "興波咖啡 Simple Kaffa",
+    "rating": 4.4,
+    "reviews": 5588,
+    "area": "大安",
+    "category": "咖啡廳"
+  },
+  {
+    "city": "台北",
+    "index": 756,
+    "name": "施家麻油腰花",
+    "rating": 4.2,
+    "reviews": 5584,
+    "area": "",
+    "category": "中式"
+  },
+  {
+    "city": "台北",
+    "index": 240,
+    "name": "本家BORNGA韓式燒肉 敦南店",
+    "rating": 4.7,
+    "reviews": 5540,
+    "area": "",
+    "category": "西式"
+  },
+  {
+    "city": "台北",
+    "index": 6,
+    "name": "老山東牛肉家常麵店",
+    "rating": 4,
+    "reviews": 5499,
+    "area": "萬華",
+    "category": "中式"
+  }
+]
