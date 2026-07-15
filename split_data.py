@@ -35,10 +35,10 @@ for lang_file, prefix in [('data-zh.json', ''), ('data-ja.json', '')]:
             json.dump(data['nightmarkets'], f, ensure_ascii=False, separators=(',', ':'))
     
     meta = {'_updatedAt': data.get('_updatedAt', '')}
-    with open(f'{subdir}/_meta.json', 'w', encoding='utf-8') as f:
+    with open(f'{subdir}/meta.json', 'w', encoding='utf-8') as f:
         json.dump(meta, f, ensure_ascii=False, separators=(',', ':'))
     
-    with open(f'{subdir}/_cities.json', 'w', encoding='utf-8') as f:
+    with open(f'{subdir}/cities.json', 'w', encoding='utf-8') as f:
         json.dump(CITY_MAP, f, ensure_ascii=False, separators=(',', ':'))
     
     print(f'{lang_file} -> {subdir}/: {len(os.listdir(subdir))} files')
