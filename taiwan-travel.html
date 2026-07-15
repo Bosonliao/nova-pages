@@ -477,6 +477,7 @@ function filterMichelin(btn){
 
 function render(){
   const d = DATA[currentCounty];
+  if(!d){ document.getElementById('content').innerHTML='<p style="padding:40px;text-align:center;">載入中...</p>'; return; }
   const routes = d.routes||[];
   const food = d.food||[];
   const tips = d.tips||'';
