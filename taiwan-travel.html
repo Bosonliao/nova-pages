@@ -25,6 +25,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="台灣旅遊路線與米其林人氣美食｜19縣市景點攻略 × 米其林星級/必比登餐廳 × Google 高評價美食推薦">
 <meta name="twitter:description" content="台灣19縣市一日遊完整攻略，276條人氣旅遊路線、600+米其林餐廳、Google高分美食">
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1a237e">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="台灣旅遊美食">
+<meta name="mobile-web-app-capable" content="yes">
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;color:#333;display:flex;height:100vh;overflow:hidden;}
@@ -824,6 +833,66 @@ function initApp(){
   });
   // Pulse hint on load
   setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
+}
+</script>
+
+<!-- PWA: Service Worker Registration + Install Button -->
+<script>
+// Register Service Worker
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(console.error);
+}
+
+// PWA Install Prompt
+let deferredPrompt = null;
+const installBtn = document.createElement('button');
+installBtn.id = 'pwa-install-btn';
+installBtn.innerHTML = '📲 安裝到桌面';
+installBtn.style.cssText = [
+  'position:fixed','bottom:20px','right:20px','z-index:99999',
+  'background:linear-gradient(135deg,#1a237e,#283593)','color:#fff',
+  'border:none','border-radius:28px','padding:12px 24px',
+  'font-size:15px','font-weight:600','cursor:pointer',
+  'box-shadow:0 4px 16px rgba(26,35,126,.4)','display:none',
+  'transition:all .3s','font-family:inherit'
+].join(';');
+installBtn.addEventListener('mouseenter',()=>{installBtn.style.transform='scale(1.05)';installBtn.style.boxShadow='0 6px 20px rgba(26,35,126,.5)';});
+installBtn.addEventListener('mouseleave',()=>{installBtn.style.transform='scale(1)';installBtn.style.boxShadow='0 4px 16px rgba(26,35,126,.4)';});
+installBtn.addEventListener('click',async()=>{
+  if(deferredPrompt){
+    deferredPrompt.prompt();
+    const result = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    installBtn.style.display = 'none';
+  }
+});
+document.body.appendChild(installBtn);
+
+window.addEventListener('beforeinstallprompt',(e)=>{
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = 'block';
+});
+window.addEventListener('appinstalled',()=>{
+  installBtn.style.display = 'none';
+  deferredPrompt = null;
+});
+
+// iOS detect - show custom tooltip since iOS doesn't support beforeinstallprompt
+const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+if(isIOS && !isStandalone){
+  const iosHint = document.createElement('div');
+  iosHint.innerHTML = '📲 加入主畫面：點擊下方分享鍵 <b>□</b> → 選擇「加入主畫面」';
+  iosHint.style.cssText = [
+    'position:fixed','bottom:20px','right:20px','z-index:99999',
+    'background:#1a237e','color:#fff','border-radius:12px',
+    'padding:12px 18px','font-size:13px','max-width:260px',
+    'box-shadow:0 4px 16px rgba(0,0,0,.3)','cursor:pointer',
+    'font-family:inherit','line-height:1.5'
+  ].join(';');
+  iosHint.addEventListener('click',()=>iosHint.style.display='none');
+  setTimeout(()=>{document.body.appendChild(iosHint);},3000);
 }
 </script>
 </body>
