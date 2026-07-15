@@ -1,0 +1,12 @@
+File: data-zh.json
+Total unique areas: 498
+Remaining with 區 (should be only keep set): 0
+
+Kept (in keep set):
+  中區: 27
+  北區: 233
+  南區: 84
+  東區: 452
+  西區: 269
+
+Still ending with 區 but not in keep:

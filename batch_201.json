@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台中",
+    "index": 1417,
+    "name": "吳記脆皮肉圓",
+    "rating": 4.0,
+    "reviews": 4024,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 898,
+    "name": "穆記牛肉麵",
+    "rating": 4.0,
+    "reviews": 3672,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 912,
+    "name": "鮮定味生猛活海鮮",
+    "rating": 4.0,
+    "reviews": 3639,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 936,
+    "name": "大吉祥香豆富",
+    "rating": 4.0,
+    "reviews": 3614,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 937,
+    "name": "阿娥排骨麵",
+    "rating": 4.0,
+    "reviews": 3304,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1415,
+    "name": "陸軍小館",
+    "rating": 4.0,
+    "reviews": 3241,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 934,
+    "name": "小飯館兒",
+    "rating": 4.0,
+    "reviews": 3223,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 951,
+    "name": "點水樓",
+    "rating": 4.0,
+    "reviews": 3112,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 893,
+    "name": "鼎吾記（原玖伍）牛肉麵 (台北中正區必吃牛肉麵推薦／光華商場三創美食薦 / 台北人好吃滷味水餃)",
+    "rating": 4.0,
+    "reviews": 3060,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台中",
+    "index": 1425,
+    "name": "北平烤鴨",
+    "rating": 4.0,
+    "reviews": 2866,
+    "category": "中式",
+    "area": "北屯"
+  },
+  {
+    "city": "台北",
+    "index": 911,
+    "name": "33區熱炒生猛海鮮",
+    "rating": 4.0,
+    "reviews": 2471,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1401,
+    "name": "東勢牛稼莊",
+    "rating": 4.0,
+    "reviews": 2442,
+    "category": "中式",
+    "area": "東勢"
+  },
+  {
+    "city": "台北",
+    "index": 905,
+    "name": "朱記餡餅粥永康店",
+    "rating": 4.0,
+    "reviews": 2376,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 941,
+    "name": "段純貞-信義威秀店",
+    "rating": 4.0,
+    "reviews": 2370,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 929,
+    "name": "辛發亭冰品名店",
+    "rating": 4.0,
+    "reviews": 2369,
+    "category": "甜品",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 915,
+    "name": "一極鮮熱炒",
+    "rating": 4.0,
+    "reviews": 2337,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1418,
+    "name": "美村點頭冰",
+    "rating": 4.0,
+    "reviews": 2247,
+    "category": "甜品",
+    "area": "西區"
+  },
+  {
+    "city": "台北",
+    "index": 1248,
+    "name": "好想見麵 大安信義店",
+    "rating": 4.0,
+    "reviews": 2239,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 907,
+    "name": "楊排骨酥麵",
+    "rating": 4.0,
+    "reviews": 2224,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 913,
+    "name": "鵝肉城活海鮮",
+    "rating": 4.0,
+    "reviews": 2214,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1403,
+    "name": "頂吉古早味火雞肉飯",
+    "rating": 4.0,
+    "reviews": 2192,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1398,
+    "name": "士官長擀麵",
+    "rating": 4.0,
+    "reviews": 2190,
+    "category": "中式",
+    "area": "清水"
+  },
+  {
+    "city": "台中",
+    "index": 1424,
+    "name": "新豐源排骨麵店",
+    "rating": 4.0,
+    "reviews": 2181,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1399,
+    "name": "堅果小巷 Heynuts alley cafe",
+    "rating": 4.0,
+    "reviews": 2117,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1404,
+    "name": "饡味軒 嘉義火雞肉飯",
+    "rating": 4.0,
+    "reviews": 2095,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 987,
+    "name": "米香 (Mipon)",
+    "rating": 4.0,
+    "reviews": 2006,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 935,
+    "name": "得記麻辣脆皮臭豆腐",
+    "rating": 4.0,
+    "reviews": 2005,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 1038,
+    "name": "青葉台菜",
+    "rating": 4.0,
+    "reviews": 2000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1423,
+    "name": "美村黑肉麵",
+    "rating": 4.0,
+    "reviews": 1995,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "台中",
+    "index": 1430,
+    "name": "厚老大Chunky Boss–脆皮雞排專賣｜一中創始店",
+    "rating": 4.0,
+    "reviews": 1879,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "台中",
+    "index": 1439,
+    "name": "員園美食館 老牌羊肉",
+    "rating": 4.0,
+    "reviews": 1863,
+    "category": "中式",
+    "area": "霧峰"
+  },
+  {
+    "city": "台北",
+    "index": 910,
+    "name": "醉翁漁港海鮮",
+    "rating": 4.0,
+    "reviews": 1814,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 909,
+    "name": "方家雞肉飯",
+    "rating": 4.0,
+    "reviews": 1794,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 908,
+    "name": "歐品鄉廚",
+    "rating": 4.0,
+    "reviews": 1736,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 952,
+    "name": "宋廚菜館",
+    "rating": 4.0,
+    "reviews": 1703,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 925,
+    "name": "黑記懷舊排骨飯",
+    "rating": 4.0,
+    "reviews": 1624,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1409,
+    "name": "梧棲57夯肉",
+    "rating": 4.0,
+    "reviews": 1598,
+    "category": "火鍋",
+    "area": "梧棲"
+  },
+  {
+    "city": "台中",
+    "index": 1467,
+    "name": "陸園",
+    "rating": 4.0,
+    "reviews": 1589,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "台中",
+    "index": 1419,
+    "name": "非常豪牛排館天津店",
+    "rating": 4.0,
+    "reviews": 1587,
+    "category": "西式",
+    "area": "北屯"
+  },
+  {
+    "city": "台北",
+    "index": 901,
+    "name": "梁鑫雞肉飯專門店",
+    "rating": 4.0,
+    "reviews": 1525,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1402,
+    "name": "榮記米糕 清水本舖",
+    "rating": 4.0,
+    "reviews": 1423,
+    "category": "中式",
+    "area": "清水"
+  },
+  {
+    "city": "台中",
+    "index": 1448,
+    "name": "立偉麵食-台中美食-餐廳",
+    "rating": 4.0,
+    "reviews": 1410,
+    "category": "中式",
+    "area": "北屯"
+  },
+  {
+    "city": "台中",
+    "index": 1408,
+    "name": "大甲芋頭城",
+    "rating": 4.0,
+    "reviews": 1373,
+    "category": "甜品",
+    "area": "大甲"
+  },
+  {
+    "city": "台中",
+    "index": 1422,
+    "name": "石蜜園",
+    "rating": 4.0,
+    "reviews": 1373,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1427,
+    "name": "大甲芋頭城逢甲店",
+    "rating": 4.0,
+    "reviews": 1373,
+    "category": "甜品",
+    "area": "西屯"
+  },
+  {
+    "city": "台北",
+    "index": 923,
+    "name": "華南排骨便當專門店",
+    "rating": 4.0,
+    "reviews": 1351,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 938,
+    "name": "源味滷肉飯",
+    "rating": 4.0,
+    "reviews": 1301,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1450,
+    "name": "一畝田手工拉麵",
+    "rating": 4.0,
+    "reviews": 1296,
+    "category": "日式",
+    "area": "梧棲"
+  },
+  {
+    "city": "台中",
+    "index": 1410,
+    "name": "人間食解生態養生坊",
+    "rating": 4.0,
+    "reviews": 1277,
+    "category": "中式",
+    "area": "沙鹿"
+  },
+  {
+    "city": "台中",
+    "index": 1411,
+    "name": "大雅牛肉麵",
+    "rating": 4.0,
+    "reviews": 1270,
+    "category": "中式",
+    "area": "大雅"
+  }
+]

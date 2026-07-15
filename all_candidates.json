@@ -1,0 +1,5960 @@
+[
+  {
+    "city": "花蓮",
+    "index": 0,
+    "name": "河南砂鍋手工扯麵",
+    "search_name": "河南砂鍋手工扯麵",
+    "rating": 4.4,
+    "reviews": 2169,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 1,
+    "name": "佳興冰果室",
+    "search_name": "佳興冰果室",
+    "rating": 4.2,
+    "reviews": 12577,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 2,
+    "name": "無名早餐店",
+    "search_name": "無名早餐店",
+    "rating": 4.2,
+    "reviews": 2714,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 7,
+    "name": "御三家 鍋の物",
+    "search_name": "御三家 鍋の物",
+    "rating": 5,
+    "reviews": 1117,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 9,
+    "name": "火鍋世家 吉安店",
+    "search_name": "火鍋世家 吉安店",
+    "rating": 5,
+    "reviews": 3835,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 21,
+    "name": "香茅廚房 Lemongrass Kitchen /花蓮美食/花蓮餐廳/花蓮必吃/花蓮聚餐/寵物親子友善餐廳",
+    "search_name": "香茅廚房",
+    "rating": 4.9,
+    "reviews": 2674,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 22,
+    "name": "jam kitchen 花蓮中山棧",
+    "search_name": "jam",
+    "rating": 4.9,
+    "reviews": 5539,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 28,
+    "name": "胖嘟嘟臭豆腐",
+    "search_name": "胖嘟嘟臭豆腐",
+    "rating": 4.9,
+    "reviews": 1194,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 29,
+    "name": "花蓮市立丼物園",
+    "search_name": "花蓮市立丼物園",
+    "rating": 4.9,
+    "reviews": 2326,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 32,
+    "name": "花蓮最美秘境景觀玻璃屋",
+    "search_name": "花蓮最美秘境景觀玻璃屋",
+    "rating": 4.9,
+    "reviews": 8332,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 34,
+    "name": "極禾鍋物職人 花蓮建國旗艦店-吉安個人鍋物|人氣鍋物|熱門鍋物|特色鍋物|小火鍋推薦|必吃火鍋|在地推薦火鍋|聚餐餐廳",
+    "search_name": "極禾鍋物職人 花蓮建國旗艦店",
+    "rating": 4.9,
+    "reviews": 1091,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 35,
+    "name": "火鍋世家 花蓮國聯店",
+    "search_name": "火鍋世家 花蓮國聯店",
+    "rating": 4.9,
+    "reviews": 9824,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 36,
+    "name": "寒聚蘊湯鍋物（花蓮旗艦店）",
+    "search_name": "寒聚蘊湯鍋物",
+    "rating": 4.9,
+    "reviews": 2904,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 37,
+    "name": "鼎味馨鍋物",
+    "search_name": "鼎味馨鍋物",
+    "rating": 4.9,
+    "reviews": 2278,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 38,
+    "name": "巴大爺鍋物（麻辣火鍋）",
+    "search_name": "巴大爺鍋物",
+    "rating": 4.9,
+    "reviews": 2112,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 39,
+    "name": "霧川鍋物",
+    "search_name": "霧川鍋物",
+    "rating": 4.9,
+    "reviews": 1469,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 41,
+    "name": "八方悅鍋物 花蓮明心店(原中正店)",
+    "search_name": "八方悅鍋物 花蓮明心店",
+    "rating": 4.9,
+    "reviews": 11245,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 43,
+    "name": "錢都日式涮涮鍋-花蓮國聯店 CHIEN TU HOT POT",
+    "search_name": "錢都日式涮涮鍋",
+    "rating": 4.9,
+    "reviews": 2810,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 44,
+    "name": "照豫坊港式麻辣鴛鴦火鍋",
+    "search_name": "照豫坊港式麻辣鴛鴦火鍋",
+    "rating": 4.9,
+    "reviews": 1849,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 45,
+    "name": "高大俠海鮮燒烤Bar",
+    "search_name": "高大俠海鮮燒烤Bar",
+    "rating": 4.9,
+    "reviews": 5027,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 46,
+    "name": "同齊咖吡",
+    "search_name": "同齊咖吡",
+    "rating": 4.9,
+    "reviews": 1011,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 50,
+    "name": "小村·日 壽司（花蓮店）｜日式餐廳｜花蓮美食｜聚餐餐廳｜客製化餐盒｜生魚片蛋糕｜",
+    "search_name": "小村·日 壽司",
+    "rating": 4.9,
+    "reviews": 3647,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 56,
+    "name": "梅蘢鎮",
+    "search_name": "梅蘢鎮",
+    "rating": 4.9,
+    "reviews": 2219,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 64,
+    "name": "月崖灣親子農場",
+    "search_name": "月崖灣親子農場",
+    "rating": 4.9,
+    "reviews": 10453,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 65,
+    "name": "香之莊園-無景觀無內用",
+    "search_name": "香之莊園-無景觀無內用",
+    "rating": 4.9,
+    "reviews": 1381,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 70,
+    "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐濱必吃｜石梯漁港美食｜石梯漁港海鮮",
+    "search_name": "Mr.&Mrs. 袁的食光",
+    "rating": 4.9,
+    "reviews": 1009,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 75,
+    "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐",
+    "search_name": "Mr.&Mrs. 袁的食光",
+    "rating": 4.9,
+    "reviews": 1009,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 85,
+    "name": "游家來來烤肉 Lai Lai GrillShop",
+    "search_name": "游家來來烤肉",
+    "rating": 4.8,
+    "reviews": 1021,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 87,
+    "name": "娜滋滋烤魚",
+    "search_name": "娜滋滋烤魚",
+    "rating": 4.8,
+    "reviews": 2086,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 88,
+    "name": "老時光燒肉酒肴",
+    "search_name": "老時光燒肉酒肴",
+    "rating": 4.8,
+    "reviews": 11875,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 89,
+    "name": "兩斤農莊食堂（前干城）",
+    "search_name": "兩斤農莊食堂",
+    "rating": 4.8,
+    "reviews": 1535,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 90,
+    "name": "迷途鯨魚-花蓮推薦美食｜熱門餐廳｜打卡餐廳｜在地美食｜CP美食｜人氣",
+    "search_name": "迷途鯨魚",
+    "rating": 4.8,
+    "reviews": 3900,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 94,
+    "name": "養鍋 Yang Guo 石頭涮涮鍋 (花蓮中山店)",
+    "search_name": "養鍋",
+    "rating": 4.8,
+    "reviews": 5909,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 95,
+    "name": "肉出微笑涮涮鍋-花蓮店",
+    "search_name": "肉出微笑涮涮鍋-花蓮店",
+    "rating": 4.8,
+    "reviews": 1131,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 96,
+    "name": "翻火鍋",
+    "search_name": "翻火鍋",
+    "rating": 4.8,
+    "reviews": 3357,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 100,
+    "name": "燒肉神保町花蓮館",
+    "search_name": "燒肉神保町花蓮館",
+    "rating": 4.8,
+    "reviews": 7796,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 101,
+    "name": "洄瀾灣景觀餐廳｜洄瀾灣親子農場｜洄瀾灣親子動物區",
+    "search_name": "洄瀾灣景觀餐廳",
+    "rating": 4.8,
+    "reviews": 7571,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 102,
+    "name": "Oops驚奇咖啡",
+    "search_name": "Oops驚奇咖啡",
+    "rating": 4.8,
+    "reviews": 4029,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 104,
+    "name": "實季。Seedson café 花蓮店",
+    "search_name": "實季。Seedson",
+    "rating": 4.8,
+    "reviews": 1258,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 112,
+    "name": "爭鮮PLUS-花蓮店",
+    "search_name": "爭鮮PLUS-花蓮店",
+    "rating": 4.8,
+    "reviews": 5045,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 117,
+    "name": "栄次郎個人燒肉plus+ 花蓮中山店",
+    "search_name": "栄次郎個人燒肉plus+",
+    "rating": 4.8,
+    "reviews": 1221,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 121,
+    "name": "西堤牛排 花蓮中山店",
+    "search_name": "西堤牛排 花蓮中山店",
+    "rating": 4.8,
+    "reviews": 14372,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 125,
+    "name": "沐舍-蜜滋賀溫泉飯店",
+    "search_name": "沐舍-蜜滋賀溫泉飯店",
+    "rating": 4.8,
+    "reviews": 2336,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 126,
+    "name": "安德森幸福莊園",
+    "search_name": "安德森幸福莊園",
+    "rating": 4.8,
+    "reviews": 1178,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 135,
+    "name": "物語食堂＆精油工坊",
+    "search_name": "物語食堂＆精油工坊",
+    "rating": 4.8,
+    "reviews": 4151,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 140,
+    "name": "職牛-炭火乾式熟成牛排館 Vintage steakhouse ｜40人包場空間｜熟成牛排｜約會｜慶生｜聚餐",
+    "search_name": "職牛",
+    "rating": 4.7,
+    "reviews": 1003,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 143,
+    "name": "壽豐小吃慶豐店",
+    "search_name": "壽豐小吃慶豐店",
+    "rating": 4.7,
+    "reviews": 3720,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 159,
+    "name": "陳家食堂",
+    "search_name": "陳家食堂",
+    "rating": 4.7,
+    "reviews": 1986,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 160,
+    "name": "六里屯麵食專家 美崙旗艦店",
+    "search_name": "六里屯麵食專家 美崙旗艦店",
+    "rating": 4.7,
+    "reviews": 3746,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 165,
+    "name": "石屋燒肉",
+    "search_name": "石屋燒肉",
+    "rating": 4.7,
+    "reviews": 6619,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 168,
+    "name": "Caffe Fiore珈琲花",
+    "search_name": "Caffe Fiore珈琲花",
+    "rating": 4.7,
+    "reviews": 1016,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 174,
+    "name": "櫻花壽司日本料理",
+    "search_name": "櫻花壽司日本料理",
+    "rating": 4.7,
+    "reviews": 5582,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 181,
+    "name": "杜倫先生丨花蓮名產丨伴手禮｜麻糬｜甜點｜蛋糕",
+    "search_name": "杜倫先生丨花蓮名產丨伴手禮",
+    "rating": 4.7,
+    "reviews": 3434,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 182,
+    "name": "八百里燒肉",
+    "search_name": "八百里燒肉",
+    "rating": 4.7,
+    "reviews": 2954,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 185,
+    "name": "歐鄉牛排館花蓮店",
+    "search_name": "歐鄉牛排館花蓮店",
+    "rating": 4.7,
+    "reviews": 7783,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 186,
+    "name": "來來牛排花蓮店",
+    "search_name": "來來牛排花蓮店",
+    "rating": 4.7,
+    "reviews": 6185,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 193,
+    "name": "北方早點丨燒餅加料、鹹豆漿",
+    "search_name": "北方早點丨燒餅加料、鹹豆漿",
+    "rating": 4.7,
+    "reviews": 1112,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 221,
+    "name": "源寶屋咖哩麵包",
+    "search_name": "源寶屋咖哩麵包",
+    "rating": 4.6,
+    "reviews": 1135,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 222,
+    "name": "玉里金針山周邊山產",
+    "search_name": "玉里金針山周邊山產",
+    "rating": 4.6,
+    "reviews": 1480,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 223,
+    "name": "小巷茉莉",
+    "search_name": "小巷茉莉",
+    "rating": 4.6,
+    "reviews": 2301,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 224,
+    "name": "兩津農莊食堂（干城）",
+    "search_name": "兩津農莊食堂",
+    "rating": 4.6,
+    "reviews": 1293,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 227,
+    "name": "六里屯麵食專家",
+    "search_name": "六里屯麵食專家",
+    "rating": 4.6,
+    "reviews": 3072,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 229,
+    "name": "上老石鍋花蓮旗艦店",
+    "search_name": "上老石鍋花蓮旗艦店",
+    "rating": 4.6,
+    "reviews": 2793,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 231,
+    "name": "喫鍋小火鍋",
+    "search_name": "喫鍋小火鍋",
+    "rating": 4.6,
+    "reviews": 1108,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 232,
+    "name": "億品鍋-花蓮吉安店｜花蓮推薦美食｜花蓮排隊美食|花蓮吃到飽｜",
+    "search_name": "億品鍋",
+    "rating": 4.6,
+    "reviews": 1653,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 237,
+    "name": "豆 茶寮",
+    "search_name": "豆 茶寮",
+    "rating": 4.6,
+    "reviews": 1866,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 238,
+    "name": "林記明禮路葱油餅",
+    "search_name": "林記明禮路葱油餅",
+    "rating": 4.6,
+    "reviews": 1608,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 239,
+    "name": "阿傳師麻糬",
+    "search_name": "阿傳師麻糬",
+    "rating": 4.6,
+    "reviews": 2362,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 250,
+    "name": "花蓮赤物日式燒肉",
+    "search_name": "花蓮赤物日式燒肉",
+    "rating": 4.6,
+    "reviews": 1272,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 251,
+    "name": "米卡多牛排館",
+    "search_name": "米卡多牛排館",
+    "rating": 4.6,
+    "reviews": 1745,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 255,
+    "name": "桔客牛排",
+    "search_name": "桔客牛排",
+    "rating": 4.6,
+    "reviews": 1432,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 269,
+    "name": "新社噶瑪蘭小吃店",
+    "search_name": "新社噶瑪蘭小吃店",
+    "rating": 4.6,
+    "reviews": 2268,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 270,
+    "name": "阿卿海鮮店",
+    "search_name": "阿卿海鮮店",
+    "rating": 4.6,
+    "reviews": 1049,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 281,
+    "name": "鳳林牛肉麵",
+    "search_name": "鳳林牛肉麵",
+    "rating": 4.5,
+    "reviews": 3434,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 282,
+    "name": "孫叔叔牛骨牛肉麵",
+    "search_name": "孫叔叔牛骨牛肉麵",
+    "rating": 4.5,
+    "reviews": 3434,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 285,
+    "name": "瑞穗舞鶴茶園茶餐",
+    "search_name": "瑞穗舞鶴茶園茶餐",
+    "rating": 4.5,
+    "reviews": 1541,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 288,
+    "name": "時光1939",
+    "search_name": "時光1939",
+    "rating": 4.5,
+    "reviews": 1384,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 290,
+    "name": "伊娜的部落廚房",
+    "search_name": "伊娜的部落廚房",
+    "rating": 4.5,
+    "reviews": 1306,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 297,
+    "name": "八丼手作日式料理（沒有接受訂位，只接現場客人）",
+    "search_name": "八丼手作日式料理",
+    "rating": 4.5,
+    "reviews": 2709,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 300,
+    "name": "時光旅人",
+    "search_name": "時光旅人",
+    "rating": 4.5,
+    "reviews": 1127,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 307,
+    "name": "千兵衛炭火燒肉-花蓮店",
+    "search_name": "千兵衛炭火燒肉-花蓮店",
+    "rating": 4.5,
+    "reviews": 3407,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 309,
+    "name": "紐約客牛排館",
+    "search_name": "紐約客牛排館",
+    "rating": 4.5,
+    "reviews": 2844,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 312,
+    "name": "芳草古樹花園｜餐廳｜民宿｜𝟭𝟭月公休𝟭.𝟮.𝟯.𝟰.𝟱.𝟲.𝟳.𝟭𝟯.𝟮𝟳日",
+    "search_name": "芳草古樹花園",
+    "rating": 4.5,
+    "reviews": 1472,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 332,
+    "name": "半天紅麻辣館（馨生保護服務據點）",
+    "search_name": "半天紅麻辣館",
+    "rating": 4.5,
+    "reviews": 1780,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 334,
+    "name": "啄木鳥的家 WPCASA",
+    "search_name": "啄木鳥的家 WPCASA",
+    "rating": 4.5,
+    "reviews": 1419,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 335,
+    "name": "南安瀑布",
+    "search_name": "南安瀑布",
+    "rating": 4.5,
+    "reviews": 1915,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 345,
+    "name": "鳳林花生豆腐",
+    "search_name": "鳳林花生豆腐",
+    "rating": 4.4,
+    "reviews": 2031,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 348,
+    "name": "西村的家食堂",
+    "search_name": "西村的家食堂",
+    "rating": 4.4,
+    "reviews": 2068,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 349,
+    "name": "闔家歡南北餚餐館-Family Pleasure",
+    "search_name": "闔家歡南北餚餐館",
+    "rating": 4.4,
+    "reviews": 3516,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 350,
+    "name": "西村的家",
+    "search_name": "西村的家",
+    "rating": 4.4,
+    "reviews": 2068,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 351,
+    "name": "阿姑的店",
+    "search_name": "阿姑的店",
+    "rating": 4.4,
+    "reviews": 1139,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 352,
+    "name": "松湖驛站",
+    "search_name": "松湖驛站",
+    "rating": 4.4,
+    "reviews": 3131,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 354,
+    "name": "小和山谷",
+    "search_name": "小和山谷",
+    "rating": 4.4,
+    "reviews": 3759,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 355,
+    "name": "小檳城特色南洋麵食",
+    "search_name": "小檳城特色南洋麵食",
+    "rating": 4.4,
+    "reviews": 1233,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 364,
+    "name": "歐桑米粉湯",
+    "search_name": "歐桑米粉湯",
+    "rating": 4.4,
+    "reviews": 4004,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 366,
+    "name": "邊境法式點心坊",
+    "search_name": "邊境法式點心坊",
+    "rating": 4.4,
+    "reviews": 2591,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 367,
+    "name": "博愛街黑白切米粉湯",
+    "search_name": "博愛街黑白切米粉湯",
+    "rating": 4.4,
+    "reviews": 1387,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 368,
+    "name": "福建街香腸",
+    "search_name": "福建街香腸",
+    "rating": 4.4,
+    "reviews": 1540,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 370,
+    "name": "椿山日本料理",
+    "search_name": "椿山日本料理",
+    "rating": 4.4,
+    "reviews": 1003,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 372,
+    "name": "COUNTRY MOTHER'S",
+    "search_name": "COUNTRY",
+    "rating": 4.4,
+    "reviews": 2330,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 373,
+    "name": "府前食坊",
+    "search_name": "府前食坊",
+    "rating": 4.4,
+    "reviews": 2079,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 375,
+    "name": "山東豆漿大王（10點以前林森路有免費停車格)",
+    "search_name": "山東豆漿大王",
+    "rating": 4.4,
+    "reviews": 2873,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 376,
+    "name": "大漢早點《市區總店》",
+    "search_name": "大漢早點《市區總店》",
+    "rating": 4.4,
+    "reviews": 1121,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 377,
+    "name": "大碗公冰•甜品（花蓮博愛店）-花蓮刨冰推薦|必吃甜品|特色冰店|人氣冰店|水果冰品|首選冰店|在地推薦冰店|綿綿冰推薦",
+    "search_name": "大碗公冰•甜品",
+    "rating": 4.4,
+    "reviews": 1545,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 378,
+    "name": "豐春冰菓店",
+    "search_name": "豐春冰菓店",
+    "rating": 4.4,
+    "reviews": 4966,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 379,
+    "name": "三立冰淇淋",
+    "search_name": "三立冰淇淋",
+    "rating": 4.4,
+    "reviews": 2316,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 381,
+    "name": "蔡記豆花",
+    "search_name": "蔡記豆花",
+    "rating": 4.4,
+    "reviews": 3723,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 382,
+    "name": "火車頭烤肉屋",
+    "search_name": "火車頭烤肉屋",
+    "rating": 4.4,
+    "reviews": 2920,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 384,
+    "name": "WoodHouse 木宅餐館",
+    "search_name": "WoodHouse 木宅餐館",
+    "rating": 4.4,
+    "reviews": 2579,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 386,
+    "name": "遺忘的故鄉 月廬食堂",
+    "search_name": "遺忘的故鄉 月廬食堂",
+    "rating": 4.4,
+    "reviews": 2534,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 389,
+    "name": "椰子林溫泉飯店",
+    "search_name": "椰子林溫泉飯店",
+    "rating": 4.4,
+    "reviews": 2058,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 390,
+    "name": "瑞穗天合國際觀光酒店",
+    "search_name": "瑞穗天合國際觀光酒店",
+    "rating": 4.4,
+    "reviews": 9051,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 398,
+    "name": "G九屋私房特色菜（無素食）",
+    "search_name": "G九屋私房特色菜",
+    "rating": 4.4,
+    "reviews": 1572,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 399,
+    "name": "花蓮 星晟棧渡假飯店",
+    "search_name": "花蓮 星晟棧渡假飯店",
+    "rating": 4.4,
+    "reviews": 2238,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 400,
+    "name": "美好花生",
+    "search_name": "美好花生",
+    "rating": 4.4,
+    "reviews": 2031,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 402,
+    "name": "藍藍飲食店",
+    "search_name": "藍藍飲食店",
+    "rating": 4.4,
+    "reviews": 1163,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 415,
+    "name": "玉里橋頭臭豆腐-花蓮店",
+    "search_name": "玉里橋頭臭豆腐-花蓮店",
+    "rating": 4.3,
+    "reviews": 7419,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 417,
+    "name": "玉里橋頭臭豆腐",
+    "search_name": "玉里橋頭臭豆腐",
+    "rating": 4.3,
+    "reviews": 7417,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 418,
+    "name": "慶豐麵店",
+    "search_name": "慶豐麵店",
+    "rating": 4.3,
+    "reviews": 3607,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 421,
+    "name": "森山舎 morning mountain",
+    "search_name": "森山舎",
+    "rating": 4.3,
+    "reviews": 2258,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 422,
+    "name": "家咖哩 花蓮將軍府店",
+    "search_name": "家咖哩 花蓮將軍府店",
+    "rating": 4.3,
+    "reviews": 5589,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 423,
+    "name": "洋基牧場",
+    "search_name": "洋基牧場",
+    "rating": 4.3,
+    "reviews": 2214,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 432,
+    "name": "福源海鮮",
+    "search_name": "福源海鮮",
+    "rating": 4.3,
+    "reviews": 1275,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 433,
+    "name": "連記海產",
+    "search_name": "連記海產",
+    "rating": 4.3,
+    "reviews": 1201,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 435,
+    "name": "屋銤海鮮",
+    "search_name": "屋銤海鮮",
+    "rating": 4.3,
+    "reviews": 2117,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 442,
+    "name": "原商校街冰店",
+    "search_name": "原商校街冰店",
+    "rating": 4.3,
+    "reviews": 1090,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 443,
+    "name": "歪歪歪甜點 YYY Dessert",
+    "search_name": "歪歪歪甜點",
+    "rating": 4.3,
+    "reviews": 1373,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 448,
+    "name": "肉肉餐桌牛排館",
+    "search_name": "肉肉餐桌牛排館",
+    "rating": 4.3,
+    "reviews": 1286,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 461,
+    "name": "常春藤素食(Buffet)吃到飽餐廳",
+    "search_name": "常春藤素食",
+    "rating": 4.3,
+    "reviews": 2183,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 470,
+    "name": "慕名私房料理（歡迎線上訂位或建議提前來電詢問）",
+    "search_name": "慕名私房料理",
+    "rating": 4.3,
+    "reviews": 2513,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 471,
+    "name": "原野牧場",
+    "search_name": "原野牧場",
+    "rating": 4.3,
+    "reviews": 3297,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 472,
+    "name": "伊娜飛魚餐廳",
+    "search_name": "伊娜飛魚餐廳",
+    "rating": 4.3,
+    "reviews": 1950,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 478,
+    "name": "單一純賣 雞湯 小卷米粉",
+    "search_name": "單一純賣 雞湯 小卷米粉",
+    "rating": 4.2,
+    "reviews": 5309,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 480,
+    "name": "老家後山菜瑞穗店",
+    "search_name": "老家後山菜瑞穗店",
+    "rating": 4.2,
+    "reviews": 1631,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 481,
+    "name": "老牌炸蛋蔥油餅（藍車）",
+    "search_name": "老牌炸蛋蔥油餅",
+    "rating": 4.2,
+    "reviews": 3397,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 482,
+    "name": "光復糖廠冰品",
+    "search_name": "光復糖廠冰品",
+    "rating": 4.2,
+    "reviews": 1613,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 483,
+    "name": "光復馬太鞍濕地風味餐",
+    "search_name": "光復馬太鞍濕地風味餐",
+    "rating": 4.2,
+    "reviews": 1069,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 485,
+    "name": "馬蓋先美食玉里麵",
+    "search_name": "馬蓋先美食玉里麵",
+    "rating": 4.2,
+    "reviews": 2673,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 486,
+    "name": "小木屋玉里麵",
+    "search_name": "小木屋玉里麵",
+    "rating": 4.2,
+    "reviews": 2495,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 487,
+    "name": "禾田野 (簡餐及窯烤比薩)",
+    "search_name": "禾田野",
+    "rating": 4.2,
+    "reviews": 1788,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 489,
+    "name": "幽靈餐車",
+    "search_name": "幽靈餐車",
+    "rating": 4.2,
+    "reviews": 1710,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 491,
+    "name": "難得美食刀削麵",
+    "search_name": "難得美食刀削麵",
+    "rating": 4.2,
+    "reviews": 1029,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 492,
+    "name": "六扇門時尚湯鍋花蓮中山店",
+    "search_name": "六扇門時尚湯鍋花蓮中山店",
+    "rating": 4.2,
+    "reviews": 1213,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 493,
+    "name": "上乘三家涮涮鍋共和國",
+    "search_name": "上乘三家涮涮鍋共和國",
+    "rating": 4.2,
+    "reviews": 1060,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 494,
+    "name": "花蓮美崙海鮮",
+    "search_name": "花蓮美崙海鮮",
+    "rating": 4.2,
+    "reviews": 1507,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 495,
+    "name": "花蓮香扁食",
+    "search_name": "花蓮香扁食",
+    "rating": 4.2,
+    "reviews": 4587,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 499,
+    "name": "田村壽司",
+    "search_name": "田村壽司",
+    "rating": 4.2,
+    "reviews": 4124,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 504,
+    "name": "怡味餐店",
+    "search_name": "怡味餐店",
+    "rating": 4.2,
+    "reviews": 2099,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 505,
+    "name": "美崙紅茶",
+    "search_name": "美崙紅茶",
+    "rating": 4.2,
+    "reviews": 3114,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 506,
+    "name": "米噹泰式燒烤",
+    "search_name": "米噹泰式燒烤",
+    "rating": 4.2,
+    "reviews": 4395,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 508,
+    "name": "櫻の田野養生休閒農莊",
+    "search_name": "櫻の田野養生休閒農莊",
+    "rating": 4.2,
+    "reviews": 2388,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 509,
+    "name": "銘師父餐廳",
+    "search_name": "銘師父餐廳",
+    "rating": 4.2,
+    "reviews": 1034,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 510,
+    "name": "熱海排骨大王",
+    "search_name": "熱海排骨大王",
+    "rating": 4.2,
+    "reviews": 1180,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 512,
+    "name": "京湘排骨麵",
+    "search_name": "京湘排骨麵",
+    "rating": 4.2,
+    "reviews": 1169,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 515,
+    "name": "綠精靈瑞穗鮮奶鍋",
+    "search_name": "綠精靈瑞穗鮮奶鍋",
+    "rating": 4.2,
+    "reviews": 1409,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 522,
+    "name": "佳興冰菓店",
+    "search_name": "佳興冰菓店",
+    "rating": 4.2,
+    "reviews": 12577,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 523,
+    "name": "馬太鞍欣綠農園",
+    "search_name": "馬太鞍欣綠農園",
+    "rating": 4.2,
+    "reviews": 1069,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 524,
+    "name": "富里鄉農特產展售中心",
+    "search_name": "富里鄉農特產展售中心",
+    "rating": 4.2,
+    "reviews": 4022,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 529,
+    "name": "鵝肉先生",
+    "search_name": "鵝肉先生",
+    "rating": 4.1,
+    "reviews": 2194,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 530,
+    "name": "光復客家風味餐",
+    "search_name": "光復客家風味餐",
+    "rating": 4.1,
+    "reviews": 1575,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 531,
+    "name": "璞石閣玉里麵",
+    "search_name": "璞石閣玉里麵",
+    "rating": 4.1,
+    "reviews": 1982,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 532,
+    "name": "泰瘋隨意料理",
+    "search_name": "泰瘋隨意料理",
+    "rating": 4.1,
+    "reviews": 1685,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 534,
+    "name": "涮乃葉 花蓮遠百店",
+    "search_name": "涮乃葉 花蓮遠百店",
+    "rating": 4.1,
+    "reviews": 1638,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 536,
+    "name": "大同蘭陽米粉羹",
+    "search_name": "大同蘭陽米粉羹",
+    "rating": 4.1,
+    "reviews": 1029,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 538,
+    "name": "花蓮承香扁食(沒內用)",
+    "search_name": "花蓮承香扁食",
+    "rating": 4.1,
+    "reviews": 1139,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 539,
+    "name": "花本家壽司",
+    "search_name": "花本家壽司",
+    "rating": 4.1,
+    "reviews": 2555,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 540,
+    "name": "萊迦早午餐",
+    "search_name": "萊迦早午餐",
+    "rating": 4.1,
+    "reviews": 1072,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 541,
+    "name": "一心泡泡冰(花蓮電視牆託播)",
+    "search_name": "一心泡泡冰",
+    "rating": 4.1,
+    "reviews": 1921,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 558,
+    "name": "立川漁場 | 黃金蜆的故鄉",
+    "search_name": "立川漁場",
+    "rating": 4.1,
+    "reviews": 15669,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 560,
+    "name": "項鍊海岸工作室★餐廳★咖啡★弟朋★德菲兒",
+    "search_name": "項鍊海岸工作室★餐廳★咖啡★弟朋★德菲兒",
+    "rating": 4.1,
+    "reviews": 1286,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 561,
+    "name": "達基力部落屋",
+    "search_name": "達基力部落屋",
+    "rating": 4.1,
+    "reviews": 2517,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 562,
+    "name": "崇德瑩農場",
+    "search_name": "崇德瑩農場",
+    "rating": 4.1,
+    "reviews": 4745,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 563,
+    "name": "紅瓦屋老地方文化美食餐廳",
+    "search_name": "紅瓦屋老地方文化美食餐廳",
+    "rating": 4.1,
+    "reviews": 1575,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 564,
+    "name": "炸彈蔥油餅",
+    "search_name": "炸彈蔥油餅",
+    "rating": 4,
+    "reviews": 10073,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 565,
+    "name": "炸蛋蔥油餅 黃車",
+    "search_name": "炸蛋蔥油餅 黃車",
+    "rating": 4,
+    "reviews": 10073,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 566,
+    "name": "液香扁食店",
+    "search_name": "液香扁食店",
+    "rating": 4,
+    "reviews": 8165,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 567,
+    "name": "戴記扁食",
+    "search_name": "戴記扁食",
+    "rating": 4,
+    "reviews": 6823,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 568,
+    "name": "玉里麵（阿森麵店）",
+    "search_name": "玉里麵",
+    "rating": 4,
+    "reviews": 3956,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 569,
+    "name": "瑞穗溫泉區山產",
+    "search_name": "瑞穗溫泉區山產",
+    "rating": 4,
+    "reviews": 1377,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 570,
+    "name": "傳統美食玉里麵",
+    "search_name": "傳統美食玉里麵",
+    "rating": 4,
+    "reviews": 3956,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 571,
+    "name": "055龍蝦海鮮",
+    "search_name": "055龍蝦海鮮",
+    "rating": 4,
+    "reviews": 8756,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 574,
+    "name": "竹陽活海鮮/花蓮美食/花蓮小吃/花蓮海鮮餐廳/花蓮必吃/花蓮美食推薦/花蓮活海鮮/花蓮合菜",
+    "search_name": "竹陽活海鮮/花蓮美食/花蓮小吃/花蓮海鮮餐廳/花蓮必吃/花蓮美食推薦/花蓮活海鮮/花蓮合菜",
+    "rating": 4,
+    "reviews": 1327,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 575,
+    "name": "芳村海鮮餐廳",
+    "search_name": "芳村海鮮餐廳",
+    "rating": 4,
+    "reviews": 1159,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 576,
+    "name": "地6攤牛排-仁里店",
+    "search_name": "地6攤牛排-仁里店",
+    "rating": 4,
+    "reviews": 1064,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 580,
+    "name": "玉里橋頭麵",
+    "search_name": "玉里橋頭麵",
+    "rating": 4,
+    "reviews": 1011,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 582,
+    "name": "瑞穗綠茶肉圓",
+    "search_name": "瑞穗綠茶肉圓",
+    "rating": 4,
+    "reviews": 1921,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 584,
+    "name": "吉蒸牧場",
+    "search_name": "吉蒸牧場",
+    "rating": 4,
+    "reviews": 2697,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 586,
+    "name": "口福海鮮餐廳",
+    "search_name": "口福海鮮餐廳",
+    "rating": 4,
+    "reviews": 1949,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 587,
+    "name": "壽豐早餐",
+    "search_name": "壽豐早餐",
+    "rating": 4,
+    "reviews": 1803,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 588,
+    "name": "鯉魚潭樹屋餐廳",
+    "search_name": "鯉魚潭樹屋餐廳",
+    "rating": 4,
+    "reviews": 1486,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 593,
+    "name": "艾蘭哥爾藝文咖啡",
+    "search_name": "艾蘭哥爾藝文咖啡",
+    "rating": 5,
+    "reviews": 1382,
+    "is_michelin": false
+  },
+  {
+    "city": "花蓮",
+    "index": 594,
+    "name": "時光二手書店咖啡",
+    "search_name": "時光二手書店咖啡",
+    "rating": 4.5,
+    "reviews": 1347,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 0,
+    "name": "古早味阿桑剉冰",
+    "search_name": "古早味阿桑剉冰",
+    "rating": 4.6,
+    "reviews": 1731,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 4,
+    "name": "小牧鍋Minimoo-台東新生店",
+    "search_name": "小牧鍋Minimoo-台東新生店",
+    "rating": 5,
+    "reviews": 8772,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 5,
+    "name": "迪迪加快煮鍋",
+    "search_name": "迪迪加快煮鍋",
+    "rating": 5,
+    "reviews": 1550,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 6,
+    "name": "路易奇電力公司 台東電廠",
+    "search_name": "路易奇電力公司 台東電廠",
+    "rating": 5,
+    "reviews": 5608,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 7,
+    "name": "艾蘭哥爾藝文咖啡館",
+    "search_name": "艾蘭哥爾藝文咖啡館",
+    "rating": 5,
+    "reviews": 1382,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 8,
+    "name": "癒室",
+    "search_name": "癒室",
+    "rating": 5,
+    "reviews": 1852,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 10,
+    "name": "天來茶園-鹿野高台（麵店10:00～14:00週一休）",
+    "search_name": "天來茶園-鹿野高台",
+    "rating": 5,
+    "reviews": 1680,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 18,
+    "name": "長生塩人 台東",
+    "search_name": "長生塩人 台東",
+    "rating": 4.9,
+    "reviews": 5442,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 20,
+    "name": "井碳吉炭火燒肉餐廳 ｜ 台東美食",
+    "search_name": "井碳吉炭火燒肉餐廳",
+    "rating": 4.9,
+    "reviews": 2521,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 22,
+    "name": "八方悅鍋物 台東店",
+    "search_name": "八方悅鍋物 台東店",
+    "rating": 4.9,
+    "reviews": 1652,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 23,
+    "name": "聚日式鍋物 台東秀泰店",
+    "search_name": "聚日式鍋物 台東秀泰店",
+    "rating": 4.9,
+    "reviews": 8504,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 25,
+    "name": "屋賀爺燒肉餐廳(台東總店)",
+    "search_name": "屋賀爺燒肉餐廳",
+    "rating": 4.9,
+    "reviews": 11361,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 27,
+    "name": "台東連城記地瓜酥(正氣門市)",
+    "search_name": "台東連城記地瓜酥",
+    "rating": 4.9,
+    "reviews": 2514,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 29,
+    "name": "武田信玄",
+    "search_name": "武田信玄",
+    "rating": 4.9,
+    "reviews": 16191,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 30,
+    "name": "荳荳阿稼早午餐",
+    "search_name": "荳荳阿稼早午餐",
+    "rating": 4.9,
+    "reviews": 1533,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 41,
+    "name": "双亭院咖啡餐食甜點",
+    "search_name": "双亭院咖啡餐食甜點",
+    "rating": 4.9,
+    "reviews": 2167,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 42,
+    "name": "絲綢咖啡（ 大溪社區入口處））",
+    "search_name": "絲綢咖啡",
+    "rating": 4.9,
+    "reviews": 1083,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 43,
+    "name": "紅葉谷綠能溫泉園區 Vakangan Hot Spring Park",
+    "search_name": "紅葉谷綠能溫泉園區",
+    "rating": 4.9,
+    "reviews": 3811,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 56,
+    "name": "義回生餓回熟｜one two pasta",
+    "search_name": "義回生餓回熟",
+    "rating": 4.8,
+    "reviews": 1239,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 61,
+    "name": "綠島海草冰",
+    "search_name": "綠島海草冰",
+    "rating": 4.8,
+    "reviews": 1447,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 69,
+    "name": "養鍋Yang Guo石頭涮涮鍋（台東光明店）",
+    "search_name": "養鍋Yang Guo石頭涮涮鍋",
+    "rating": 4.8,
+    "reviews": 1376,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 70,
+    "name": "潮味決．湯滷專門店 台東中華分社",
+    "search_name": "潮味決．湯滷專門店",
+    "rating": 4.8,
+    "reviews": 1066,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 71,
+    "name": "京厚屋-台東更生店",
+    "search_name": "京厚屋-台東更生店",
+    "rating": 4.8,
+    "reviews": 1166,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 72,
+    "name": "薄荷巴黎 Coffee House 台東咖啡店&民宿（台東縣合法民宿字第：1671）",
+    "search_name": "薄荷巴黎",
+    "rating": 4.8,
+    "reviews": 1217,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 78,
+    "name": "台東知本東益古早味小吃",
+    "search_name": "台東知本東益古早味小吃",
+    "rating": 4.8,
+    "reviews": 1227,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 79,
+    "name": "陳家麻糬商行",
+    "search_name": "陳家麻糬商行",
+    "rating": 4.8,
+    "reviews": 3067,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 82,
+    "name": "初心 四季料理",
+    "search_name": "初心 四季料理",
+    "rating": 4.8,
+    "reviews": 1270,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 92,
+    "name": "坐著做。新星食堂",
+    "search_name": "坐著做。新星食堂",
+    "rating": 4.8,
+    "reviews": 6876,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 95,
+    "name": "1:月亮彎彎景觀咖啡",
+    "search_name": "1:月亮彎彎景觀咖啡",
+    "rating": 4.8,
+    "reviews": 1222,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 99,
+    "name": "綠島竹屋餐廳",
+    "search_name": "綠島竹屋餐廳",
+    "rating": 4.8,
+    "reviews": 6783,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 100,
+    "name": "綠島小叮噹黑糖海草冰",
+    "search_name": "綠島小叮噹黑糖海草冰",
+    "rating": 4.8,
+    "reviews": 1447,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 118,
+    "name": "牛匠太郎x直火炙燒丼飯-台東店",
+    "search_name": "牛匠太郎x直火炙燒丼飯-台東店",
+    "rating": 4.7,
+    "reviews": 1968,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 119,
+    "name": "鯊魚黑幫餐廳成功店",
+    "search_name": "鯊魚黑幫餐廳成功店",
+    "rating": 4.7,
+    "reviews": 1949,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 120,
+    "name": "舒食男孩",
+    "search_name": "舒食男孩",
+    "rating": 4.7,
+    "reviews": 1303,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 124,
+    "name": "拾鑶台灣味火鍋（台東店）",
+    "search_name": "拾鑶台灣味火鍋",
+    "rating": 4.7,
+    "reviews": 1389,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 125,
+    "name": "千葉火鍋-台東尊爵館",
+    "search_name": "千葉火鍋-台東尊爵館",
+    "rating": 4.7,
+    "reviews": 6417,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 126,
+    "name": "燒肉MEN -YAKINIKU.MEN ⎥日式燒肉⎪台東餐廳⎪生日優惠 | 推薦餐廳 | 親子友善 |",
+    "search_name": "燒肉MEN",
+    "rating": 4.7,
+    "reviews": 1793,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 133,
+    "name": "藍色海灣Bluebayou(台東海景咖啡)",
+    "search_name": "藍色海灣Bluebayou",
+    "rating": 4.7,
+    "reviews": 1347,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 136,
+    "name": "雷門酒場",
+    "search_name": "雷門酒場",
+    "rating": 4.7,
+    "reviews": 1577,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 139,
+    "name": "鐵花-村長的家",
+    "search_name": "鐵花-村長的家",
+    "rating": 4.7,
+    "reviews": 1711,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 173,
+    "name": "王記 鬼頭刀專賣店",
+    "search_name": "王記 鬼頭刀專賣店",
+    "rating": 4.6,
+    "reviews": 4026,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 174,
+    "name": "成功鬼頭刀魚乾",
+    "search_name": "成功鬼頭刀魚乾",
+    "rating": 4.6,
+    "reviews": 4025,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 175,
+    "name": "長濱金剛大道周邊小吃",
+    "search_name": "長濱金剛大道周邊小吃",
+    "rating": 4.6,
+    "reviews": 2528,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 176,
+    "name": "茶自點 台東旗艦店",
+    "search_name": "茶自點 台東旗艦店",
+    "rating": 4.6,
+    "reviews": 1321,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 177,
+    "name": "鐵花小路美食堂",
+    "search_name": "鐵花小路美食堂",
+    "rating": 4.6,
+    "reviews": 1189,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 178,
+    "name": "歐鄉牛排館台東店",
+    "search_name": "歐鄉牛排館台東店",
+    "rating": 4.6,
+    "reviews": 5050,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 183,
+    "name": "湯蒸火鍋-台東新生店",
+    "search_name": "湯蒸火鍋-台東新生店",
+    "rating": 4.6,
+    "reviews": 3768,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 184,
+    "name": "火鍋世家-台東新生店",
+    "search_name": "火鍋世家-台東新生店",
+    "rating": 4.6,
+    "reviews": 1358,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 185,
+    "name": "打鐵火鍋輕燒肉",
+    "search_name": "打鐵火鍋輕燒肉",
+    "rating": 4.6,
+    "reviews": 1773,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 186,
+    "name": "來來牛排台東店",
+    "search_name": "來來牛排台東店",
+    "rating": 4.6,
+    "reviews": 6821,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 187,
+    "name": "葉氏海鮮 Yeh‘s Fish",
+    "search_name": "葉氏海鮮 Yeh‘s Fish",
+    "rating": 4.6,
+    "reviews": 4017,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 189,
+    "name": "小魚兒的家",
+    "search_name": "小魚兒的家",
+    "rating": 4.6,
+    "reviews": 3226,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 190,
+    "name": "初早餐",
+    "search_name": "初早餐",
+    "rating": 4.6,
+    "reviews": 1871,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 194,
+    "name": "果珍濃台東水果珍奶（早上10點開始營業，賣完就會提前打烊）",
+    "search_name": "果珍濃台東水果珍奶",
+    "rating": 4.6,
+    "reviews": 1054,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 206,
+    "name": "春一枝鹿野76水果冰棒公園：冰棒無人誠信商店/冰棒手作教室",
+    "search_name": "春一枝鹿野76水果冰棒公園：冰棒無人誠信商店/冰棒手作教室",
+    "rating": 4.6,
+    "reviews": 1112,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 212,
+    "name": "墾墨咖啡 Community Cafe'（Last Order 17:00)",
+    "search_name": "墾墨咖啡",
+    "rating": 4.5,
+    "reviews": 1130,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 218,
+    "name": "寶桑豆花",
+    "search_name": "寶桑豆花",
+    "rating": 4.5,
+    "reviews": 2977,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 220,
+    "name": "蘭嶼芋頭糕",
+    "search_name": "蘭嶼芋頭糕",
+    "rating": 4.5,
+    "reviews": 1829,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 221,
+    "name": "好漁日鬼頭刀魚主題餐廳",
+    "search_name": "好漁日鬼頭刀魚主題餐廳",
+    "rating": 4.5,
+    "reviews": 4018,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 222,
+    "name": "我在玩-玩冰箱",
+    "search_name": "我在玩-玩冰箱",
+    "rating": 4.5,
+    "reviews": 4648,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 224,
+    "name": "台東客來吃樂（店休不固定，請查詢粉絲專頁））",
+    "search_name": "台東客來吃樂",
+    "rating": 4.5,
+    "reviews": 3829,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 226,
+    "name": "卡滋爾鬼頭刀特色美食",
+    "search_name": "卡滋爾鬼頭刀特色美食",
+    "rating": 4.5,
+    "reviews": 1150,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 230,
+    "name": "新北斗石頭火鍋",
+    "search_name": "新北斗石頭火鍋",
+    "rating": 4.5,
+    "reviews": 1000,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 231,
+    "name": "錢都日式涮涮鍋–台東博愛店CHIEN TU HOT POT",
+    "search_name": "錢都日式涮涮鍋–台東博愛店CHIEN",
+    "rating": 4.5,
+    "reviews": 1563,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 232,
+    "name": "牛比蔥壽喜燒專門店-台東博愛加盟店",
+    "search_name": "牛比蔥壽喜燒專門店-台東博愛加盟店",
+    "rating": 4.5,
+    "reviews": 2104,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 233,
+    "name": "御饌鼎皇火鍋",
+    "search_name": "御饌鼎皇火鍋",
+    "rating": 4.5,
+    "reviews": 1114,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 234,
+    "name": "樂烤和牛-台東店｜台東美食｜燒烤吃到飽",
+    "search_name": "樂烤和牛-台東店",
+    "rating": 4.5,
+    "reviews": 2424,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 236,
+    "name": "808山海產店",
+    "search_name": "808山海產店",
+    "rating": 4.5,
+    "reviews": 1223,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 238,
+    "name": "人x人",
+    "search_name": "人x人",
+    "rating": 4.5,
+    "reviews": 1026,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 239,
+    "name": "漁采時令料理．更生店",
+    "search_name": "漁采時令料理．更生店",
+    "rating": 4.5,
+    "reviews": 1312,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 242,
+    "name": "美濃冰品",
+    "search_name": "美濃冰品",
+    "rating": 4.5,
+    "reviews": 1900,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 245,
+    "name": "杉原陳家麻糬",
+    "search_name": "杉原陳家麻糬",
+    "rating": 4.5,
+    "reviews": 1204,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 249,
+    "name": "台東古早味寶桑豆花",
+    "search_name": "台東古早味寶桑豆花",
+    "rating": 4.5,
+    "reviews": 2977,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 250,
+    "name": "台東-老東芳青草茶 - ( 旗艦店 )",
+    "search_name": "台東-老東芳青草茶 -",
+    "rating": 4.5,
+    "reviews": 1748,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 256,
+    "name": "蘇天助素食麵",
+    "search_name": "蘇天助素食麵",
+    "rating": 4.5,
+    "reviews": 1380,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 263,
+    "name": "星星部落景觀咖啡",
+    "search_name": "星星部落景觀咖啡",
+    "rating": 4.5,
+    "reviews": 5671,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 265,
+    "name": "星龍花園咖啡",
+    "search_name": "星龍花園咖啡",
+    "rating": 4.5,
+    "reviews": 1039,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 272,
+    "name": "延平蝴蝶谷秘境",
+    "search_name": "延平蝴蝶谷秘境",
+    "rating": 4.5,
+    "reviews": 1063,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 275,
+    "name": "雯雯芋頭冰＜沒賣飯＞",
+    "search_name": "雯雯芋頭冰＜沒賣飯＞",
+    "rating": 4.5,
+    "reviews": 1829,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 287,
+    "name": "全家福客家菜館",
+    "search_name": "全家福客家菜館",
+    "rating": 4.4,
+    "reviews": 2380,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 289,
+    "name": "阿牛冠軍牛肉麵",
+    "search_name": "阿牛冠軍牛肉麵",
+    "rating": 4.4,
+    "reviews": 1367,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 291,
+    "name": "成功旗魚料理",
+    "search_name": "成功旗魚料理",
+    "rating": 4.4,
+    "reviews": 1974,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 293,
+    "name": "綠島鹿肉料理",
+    "search_name": "綠島鹿肉料理",
+    "rating": 4.4,
+    "reviews": 2807,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 294,
+    "name": "七里坡紅藜養生料理",
+    "search_name": "七里坡紅藜養生料理",
+    "rating": 4.4,
+    "reviews": 2049,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 295,
+    "name": "佳濱成功旗魚（店休如有異動會在粉專公佈）",
+    "search_name": "佳濱成功旗魚",
+    "rating": 4.4,
+    "reviews": 1974,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 303,
+    "name": "億品鍋 Mini Shabu Shabu 台東店",
+    "search_name": "億品鍋",
+    "rating": 4.4,
+    "reviews": 1108,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 306,
+    "name": "可可娜咖啡",
+    "search_name": "可可娜咖啡",
+    "rating": 4.4,
+    "reviews": 2796,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 308,
+    "name": "阿咪米苔目（店休公告於臉書專頁）",
+    "search_name": "阿咪米苔目",
+    "rating": 4.4,
+    "reviews": 2800,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 316,
+    "name": "小時厚牛排 台東店",
+    "search_name": "小時厚牛排 台東店",
+    "rating": 4.4,
+    "reviews": 1249,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 317,
+    "name": "貴族世家-台東店",
+    "search_name": "貴族世家-台東店",
+    "rating": 4.4,
+    "reviews": 4737,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 327,
+    "name": "欣逢平價海鮮",
+    "search_name": "欣逢平價海鮮",
+    "rating": 4.4,
+    "reviews": 1298,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 328,
+    "name": "都蘭.錦鸞越南美食Vietnam Food",
+    "search_name": "都蘭.錦鸞越南美食Vietnam",
+    "rating": 4.4,
+    "reviews": 1457,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 330,
+    "name": "會走路的樹-白榕樹",
+    "search_name": "會走路的樹-白榕樹",
+    "rating": 4.4,
+    "reviews": 1505,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 331,
+    "name": "綠島 非炒不可海鮮食堂",
+    "search_name": "綠島 非炒不可海鮮食堂",
+    "rating": 4.4,
+    "reviews": 2808,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 333,
+    "name": "阿嬤的蔥油餅(阿嬤的蔥Q餅)",
+    "search_name": "阿嬤的蔥油餅",
+    "rating": 4.4,
+    "reviews": 1074,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 334,
+    "name": "蘭嶼旅人·Rover",
+    "search_name": "蘭嶼旅人·Rover",
+    "rating": 4.4,
+    "reviews": 1677,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 337,
+    "name": "東鼎牛肉麵館",
+    "search_name": "東鼎牛肉麵館",
+    "rating": 4.3,
+    "reviews": 3189,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 340,
+    "name": "台東福井日式料理（用餐均70分鐘）",
+    "search_name": "台東福井日式料理",
+    "rating": 4.3,
+    "reviews": 1245,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 348,
+    "name": "成功豆花",
+    "search_name": "成功豆花",
+    "rating": 4.3,
+    "reviews": 5076,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 349,
+    "name": "成功三仙台周邊小吃",
+    "search_name": "成功三仙台周邊小吃",
+    "rating": 4.3,
+    "reviews": 3228,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 352,
+    "name": "宋媽媽海產店",
+    "search_name": "宋媽媽海產店",
+    "rating": 4.3,
+    "reviews": 3228,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 353,
+    "name": "新澎湖海鮮餐廳",
+    "search_name": "新澎湖海鮮餐廳",
+    "rating": 4.3,
+    "reviews": 1570,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 355,
+    "name": "大陸婆婆麵食館",
+    "search_name": "大陸婆婆麵食館",
+    "rating": 4.3,
+    "reviews": 1524,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 357,
+    "name": "北平半畝園 臺東",
+    "search_name": "北平半畝園 臺東",
+    "rating": 4.3,
+    "reviews": 1026,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 358,
+    "name": "萬家鄉 原味料理",
+    "search_name": "萬家鄉 原味料理",
+    "rating": 4.3,
+    "reviews": 1400,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 360,
+    "name": "拼經濟海鮮店",
+    "search_name": "拼經濟海鮮店",
+    "rating": 4.3,
+    "reviews": 1722,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 363,
+    "name": "開喜小吃部",
+    "search_name": "開喜小吃部",
+    "rating": 4.3,
+    "reviews": 1317,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 364,
+    "name": "慧子的店",
+    "search_name": "慧子的店",
+    "rating": 4.3,
+    "reviews": 1379,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 368,
+    "name": "黃記蔥油餅《海邊店》",
+    "search_name": "黃記蔥油餅《海邊店》",
+    "rating": 4.3,
+    "reviews": 4120,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 369,
+    "name": "南北餃子館",
+    "search_name": "南北餃子館",
+    "rating": 4.3,
+    "reviews": 1872,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 374,
+    "name": "爭鮮迴轉壽司-康達盛通 台東店",
+    "search_name": "爭鮮迴轉壽司-康達盛通 台東店",
+    "rating": 4.3,
+    "reviews": 1019,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 378,
+    "name": "王子豬排",
+    "search_name": "王子豬排",
+    "rating": 4.3,
+    "reviews": 1505,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 381,
+    "name": "多力米故事館（訂米專線）",
+    "search_name": "多力米故事館",
+    "rating": 4.3,
+    "reviews": 1148,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 391,
+    "name": "哇哇哇大骨麵",
+    "search_name": "哇哇哇大骨麵",
+    "rating": 4.3,
+    "reviews": 1677,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 392,
+    "name": "正一茶園田媽媽傅姐風味餐",
+    "search_name": "正一茶園田媽媽傅姐風味餐",
+    "rating": 4.3,
+    "reviews": 1184,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 393,
+    "name": "鹿野 大骨麵",
+    "search_name": "鹿野 大骨麵",
+    "rating": 4.3,
+    "reviews": 1721,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 394,
+    "name": "天龍飯店",
+    "search_name": "天龍飯店",
+    "rating": 4.3,
+    "reviews": 1957,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 397,
+    "name": "大武之心南迴驛站",
+    "search_name": "大武之心南迴驛站",
+    "rating": 4.3,
+    "reviews": 4444,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 401,
+    "name": "美樂地我家小館",
+    "search_name": "美樂地我家小館",
+    "rating": 4.2,
+    "reviews": 3411,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 402,
+    "name": "大眾滷肉飯中正店",
+    "search_name": "大眾滷肉飯中正店",
+    "rating": 4.2,
+    "reviews": 2026,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 403,
+    "name": "河腩味•牛肉麵",
+    "search_name": "河腩味•牛肉麵",
+    "rating": 4.2,
+    "reviews": 1808,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 404,
+    "name": "鼎倫牛肉麵（金崙村）",
+    "search_name": "鼎倫牛肉麵",
+    "rating": 4.2,
+    "reviews": 5575,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 406,
+    "name": "七里香水煎包",
+    "search_name": "七里香水煎包",
+    "rating": 4.2,
+    "reviews": 2687,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 408,
+    "name": "榕樹下米苔目",
+    "search_name": "榕樹下米苔目",
+    "rating": 4.2,
+    "reviews": 14770,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 409,
+    "name": "原始部落山地美食",
+    "search_name": "原始部落山地美食",
+    "rating": 4.2,
+    "reviews": 3696,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 410,
+    "name": "池上大坡池周邊小吃",
+    "search_name": "池上大坡池周邊小吃",
+    "rating": 4.2,
+    "reviews": 10242,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 412,
+    "name": "榕樹下米苔目*小滿雨生",
+    "search_name": "榕樹下米苔目*小滿雨生",
+    "rating": 4.2,
+    "reviews": 14771,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 415,
+    "name": "阿鋐炸雞-正氣店",
+    "search_name": "阿鋐炸雞-正氣店",
+    "rating": 4.2,
+    "reviews": 7862,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 417,
+    "name": "蘭田手作日式豬排",
+    "search_name": "蘭田手作日式豬排",
+    "rating": 4.2,
+    "reviews": 2212,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 419,
+    "name": "六扇門時尚湯鍋-台東博愛店",
+    "search_name": "六扇門時尚湯鍋-台東博愛店",
+    "rating": 4.2,
+    "reviews": 3065,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 421,
+    "name": "台南七股海產店(台東店)",
+    "search_name": "台南七股海產店",
+    "rating": 4.2,
+    "reviews": 1224,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 422,
+    "name": "特選海產店",
+    "search_name": "特選海產店",
+    "rating": 4.2,
+    "reviews": 5049,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 425,
+    "name": "陳記麻糬",
+    "search_name": "陳記麻糬",
+    "rating": 4.2,
+    "reviews": 5813,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 427,
+    "name": "鄰家蒸餃",
+    "search_name": "鄰家蒸餃",
+    "rating": 4.2,
+    "reviews": 2820,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 429,
+    "name": "早點大王",
+    "search_name": "早點大王",
+    "rating": 4.2,
+    "reviews": 1704,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 443,
+    "name": "大池豆皮店(週三營業與否以fb公告為主）)",
+    "search_name": "大池豆皮店",
+    "rating": 4.2,
+    "reviews": 10242,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 446,
+    "name": "關山臭豆腐",
+    "search_name": "關山臭豆腐",
+    "rating": 4.2,
+    "reviews": 4777,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 449,
+    "name": "響羅雷 原住民音樂餐廳",
+    "search_name": "響羅雷 原住民音樂餐廳",
+    "rating": 4.2,
+    "reviews": 1678,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 450,
+    "name": "俩吆久景觀貨櫃",
+    "search_name": "俩吆久景觀貨櫃",
+    "rating": 4.2,
+    "reviews": 1303,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 451,
+    "name": "九格浪 原住民風味餐",
+    "search_name": "九格浪 原住民風味餐",
+    "rating": 4.2,
+    "reviews": 1725,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 452,
+    "name": "雲棧 部落音樂餐廳",
+    "search_name": "雲棧 部落音樂餐廳",
+    "rating": 4.2,
+    "reviews": 1179,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 454,
+    "name": "池上福原豆腐店",
+    "search_name": "池上福原豆腐店",
+    "rating": 4.2,
+    "reviews": 7632,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 455,
+    "name": "纏記舊街東河包子",
+    "search_name": "纏記舊街東河包子",
+    "rating": 4.2,
+    "reviews": 8412,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 457,
+    "name": "愛嬌姨茶餐廳",
+    "search_name": "愛嬌姨茶餐廳",
+    "rating": 4.2,
+    "reviews": 1299,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 458,
+    "name": "布農部落休閒農場",
+    "search_name": "布農部落休閒農場",
+    "rating": 4.2,
+    "reviews": 4120,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 459,
+    "name": "蘭嶼漂流木餐廳",
+    "search_name": "蘭嶼漂流木餐廳",
+    "rating": 4.2,
+    "reviews": 1802,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 464,
+    "name": "楊記搖搖地瓜酥",
+    "search_name": "楊記搖搖地瓜酥",
+    "rating": 4.1,
+    "reviews": 2668,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 465,
+    "name": "六吋盤早午餐-台東新生店",
+    "search_name": "六吋盤早午餐-台東新生店",
+    "rating": 4.1,
+    "reviews": 1360,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 468,
+    "name": "成功漁港海鮮餐廳",
+    "search_name": "成功漁港海鮮餐廳",
+    "rating": 4.1,
+    "reviews": 2087,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 469,
+    "name": "旗遇海味",
+    "search_name": "旗遇海味",
+    "rating": 4.1,
+    "reviews": 2087,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 475,
+    "name": "美娥海產（富岡）",
+    "search_name": "美娥海產",
+    "rating": 4.1,
+    "reviews": 2885,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 476,
+    "name": "都蘭海角咖啡",
+    "search_name": "都蘭海角咖啡",
+    "rating": 4.1,
+    "reviews": 4304,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 477,
+    "name": "久昂臭豆腐",
+    "search_name": "久昂臭豆腐",
+    "rating": 4.1,
+    "reviews": 1752,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 478,
+    "name": "丸八餐廳",
+    "search_name": "丸八餐廳",
+    "rating": 4.1,
+    "reviews": 1590,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 479,
+    "name": "中華早點（台東市）",
+    "search_name": "中華早點",
+    "rating": 4.1,
+    "reviews": 2100,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 480,
+    "name": "台東糖廠冰店",
+    "search_name": "台東糖廠冰店",
+    "rating": 4.1,
+    "reviews": 1253,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 484,
+    "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
+    "search_name": "老地方客家菜",
+    "rating": 4.1,
+    "reviews": 4524,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 489,
+    "name": "山水軒渡假村",
+    "search_name": "山水軒渡假村",
+    "rating": 4.1,
+    "reviews": 2082,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 494,
+    "name": "米巴奈山地美食坊",
+    "search_name": "米巴奈山地美食坊",
+    "rating": 4.1,
+    "reviews": 2221,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 500,
+    "name": "知本黑松羊肉爐",
+    "search_name": "知本黑松羊肉爐",
+    "rating": 4,
+    "reviews": 3354,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 502,
+    "name": "池上豆之間",
+    "search_name": "池上豆之間",
+    "rating": 4,
+    "reviews": 2698,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 503,
+    "name": "海靖甕仔雞",
+    "search_name": "海靖甕仔雞",
+    "rating": 4,
+    "reviews": 1309,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 504,
+    "name": "黑松羊肉爐",
+    "search_name": "黑松羊肉爐",
+    "rating": 4,
+    "reviews": 3354,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 505,
+    "name": "津芳冰城",
+    "search_name": "津芳冰城",
+    "rating": 4,
+    "reviews": 2069,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 507,
+    "name": "明奎早餐店",
+    "search_name": "明奎早餐店",
+    "rating": 4,
+    "reviews": 2890,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 511,
+    "name": "源昌關山便當",
+    "search_name": "源昌關山便當",
+    "rating": 4,
+    "reviews": 1377,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 514,
+    "name": "麗荷園休閒餐廳",
+    "search_name": "麗荷園休閒餐廳",
+    "rating": 4,
+    "reviews": 1004,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 516,
+    "name": "台東脫線牧場",
+    "search_name": "台東脫線牧場",
+    "rating": 4,
+    "reviews": 4090,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 519,
+    "name": "可可娜咖啡 Coconut Cafe",
+    "search_name": "可可娜咖啡",
+    "rating": 4.4,
+    "reviews": 2796,
+    "is_michelin": false
+  },
+  {
+    "city": "台東",
+    "index": 525,
+    "name": "星咖啡",
+    "search_name": "星咖啡",
+    "rating": 4.5,
+    "reviews": 5671,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 1,
+    "name": "老街碗粿",
+    "search_name": "老街碗粿",
+    "rating": 4.2,
+    "reviews": 2815,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 8,
+    "name": "華山會館",
+    "search_name": "華山會館",
+    "rating": 5,
+    "reviews": 6472,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 28,
+    "name": "金誠石火鍋 石頭火鍋 韓式燒肉",
+    "search_name": "金誠石火鍋 石頭火鍋 韓式燒肉",
+    "rating": 4.9,
+    "reviews": 5757,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 31,
+    "name": "北港祥記花生酥｜官方賴（宅配/預訂自取）ID：@xsp0874a｜北港美食｜雲林北港名產伴手禮｜貢糖酥｜百年老店｜蛋捲｜禮盒｜花生",
+    "search_name": "北港祥記花生酥｜官方賴",
+    "rating": 4.9,
+    "reviews": 2961,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 34,
+    "name": "北港臻狀元囍餅",
+    "search_name": "北港臻狀元囍餅",
+    "rating": 4.9,
+    "reviews": 1520,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 35,
+    "name": "黑先生飯館｜現場候位，不開放訂位｜多數座位在二樓，需爬樓梯｜",
+    "search_name": "黑先生飯館",
+    "rating": 4.9,
+    "reviews": 2168,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 36,
+    "name": "豪客窯烤雞（斗六店）、(雲林美食、烤雞、串燒、餐廳、宵夜、居酒屋)",
+    "search_name": "豪客窯烤雞",
+    "rating": 4.9,
+    "reviews": 1778,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 37,
+    "name": "嗑肉石鍋斗六上海店(二代店)",
+    "search_name": "嗑肉石鍋斗六上海店",
+    "rating": 4.9,
+    "reviews": 9486,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 39,
+    "name": "鍋道一號 斗南旗艦店【斗南網友推薦火鍋】高CP值火鍋｜人氣火鍋店｜優質肉品｜必吃火鍋｜適合聚餐",
+    "search_name": "鍋道一號 斗南旗艦店【斗南網友推薦火鍋】高CP值火鍋",
+    "rating": 4.9,
+    "reviews": 3592,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 43,
+    "name": "聚 日式鍋物 斗六鎮南店",
+    "search_name": "聚 日式鍋物 斗六鎮南店",
+    "rating": 4.9,
+    "reviews": 4846,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 44,
+    "name": "什浬鍋 Shihli Stone Hot Pot",
+    "search_name": "什浬鍋",
+    "rating": 4.9,
+    "reviews": 1722,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 52,
+    "name": "西堤牛排 斗六萬家福店",
+    "search_name": "西堤牛排 斗六萬家福店",
+    "rating": 4.9,
+    "reviews": 14451,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 54,
+    "name": "高稼庄花枝羹麵",
+    "search_name": "高稼庄花枝羹麵",
+    "rating": 4.9,
+    "reviews": 3664,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 79,
+    "name": "虎科婆婆麵店",
+    "search_name": "虎科婆婆麵店",
+    "rating": 4.8,
+    "reviews": 1604,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 80,
+    "name": "青食",
+    "search_name": "青食",
+    "rating": 4.8,
+    "reviews": 1520,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 82,
+    "name": "叁記傳食-斗六創始店 （叁記刈包）",
+    "search_name": "叁記傳食-斗六創始店",
+    "rating": 4.8,
+    "reviews": 2455,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 83,
+    "name": "韓楓館 - 斗六店",
+    "search_name": "韓楓館 - 斗六店",
+    "rating": 4.8,
+    "reviews": 2985,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 86,
+    "name": "村上石頭火鍋 虎尾店",
+    "search_name": "村上石頭火鍋 虎尾店",
+    "rating": 4.8,
+    "reviews": 1194,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 87,
+    "name": "榕苑古蹟餐飲",
+    "search_name": "榕苑古蹟餐飲",
+    "rating": 4.8,
+    "reviews": 1288,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 88,
+    "name": "迷樂卡啡 斗南店",
+    "search_name": "迷樂卡啡 斗南店",
+    "rating": 4.8,
+    "reviews": 2081,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 89,
+    "name": "勝咖啡",
+    "search_name": "勝咖啡",
+    "rating": 4.8,
+    "reviews": 1008,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 91,
+    "name": "小兄弟牛排館",
+    "search_name": "小兄弟牛排館",
+    "rating": 4.8,
+    "reviews": 1459,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 92,
+    "name": "幸福Mochi-西螺麻糬 延平老街店",
+    "search_name": "幸福Mochi-西螺麻糬",
+    "rating": 4.8,
+    "reviews": 1489,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 93,
+    "name": "川玥 秘境鍋物 斗六店｜斗六火鍋・家庭聚餐首選",
+    "search_name": "川玥 秘境鍋物 斗六店",
+    "rating": 4.8,
+    "reviews": 3814,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 94,
+    "name": "雲鮮牛鍋物",
+    "search_name": "雲鮮牛鍋物",
+    "rating": 4.8,
+    "reviews": 1660,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 95,
+    "name": "養鍋 Yang Guo 石頭涮涮鍋 (斗六民生南店)",
+    "search_name": "養鍋",
+    "rating": 4.8,
+    "reviews": 1136,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 98,
+    "name": "色鼎燒肉虎尾店",
+    "search_name": "色鼎燒肉虎尾店",
+    "rating": 4.8,
+    "reviews": 8828,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 99,
+    "name": "饌鼎重慶麻辣鍋 北港店",
+    "search_name": "饌鼎重慶麻辣鍋 北港店",
+    "rating": 4.8,
+    "reviews": 1040,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 103,
+    "name": "56號藍色公路咖啡廳！水豚君、羊駝、迷你馬、狐獴、羊、孔雀",
+    "search_name": "56號藍色公路咖啡廳！水豚君、羊駝、迷你馬、狐獴、羊、孔雀",
+    "rating": 4.8,
+    "reviews": 7684,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 110,
+    "name": "色鼎燒肉斗六店",
+    "search_name": "色鼎燒肉斗六店",
+    "rating": 4.8,
+    "reviews": 12049,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 111,
+    "name": "小蒙牛頂級麻辣養生鍋-斗六店(烤)",
+    "search_name": "小蒙牛頂級麻辣養生鍋-斗六店",
+    "rating": 4.8,
+    "reviews": 1738,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 113,
+    "name": "虎尾婆婆的店",
+    "search_name": "虎尾婆婆的店",
+    "rating": 4.8,
+    "reviews": 1604,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 114,
+    "name": "初八拉麵斗六店",
+    "search_name": "初八拉麵斗六店",
+    "rating": 4.8,
+    "reviews": 4362,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 138,
+    "name": "億品鍋虎尾店 - 雲林 人氣小火鍋餐廳 平價個人鍋 必吃麻辣鍋 牛奶鍋 藥膳鍋 高cp值海陸鍋 特色湯底鍋物 朋友聚餐首選 虎尾商圈美食 ptt推薦",
+    "search_name": "億品鍋虎尾店",
+    "rating": 4.7,
+    "reviews": 2475,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 143,
+    "name": "斗南徐記肉圓",
+    "search_name": "斗南徐記肉圓",
+    "rating": 4.7,
+    "reviews": 1769,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 147,
+    "name": "西螺醬油博物館",
+    "search_name": "西螺醬油博物館",
+    "rating": 4.7,
+    "reviews": 2961,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 148,
+    "name": "樂飯樂販斗六店",
+    "search_name": "樂飯樂販斗六店",
+    "rating": 4.7,
+    "reviews": 3250,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 149,
+    "name": "雲品食坊西式複合式料理",
+    "search_name": "雲品食坊西式複合式料理",
+    "rating": 4.7,
+    "reviews": 2211,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 151,
+    "name": "Sunny Q 陽光公主義國餐廳｜雲林美食推薦｜虎尾義大利麵｜網美餐廳｜親子友善｜生日慶生｜家庭聚餐｜國旅卡（旅宿業）特約商店",
+    "search_name": "Sunny Q 陽光公主義國餐廳",
+    "rating": 4.7,
+    "reviews": 3029,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 152,
+    "name": "幸福燈塔複合式餐飲（雲林100碗）",
+    "search_name": "幸福燈塔複合式餐飲",
+    "rating": 4.7,
+    "reviews": 1492,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 153,
+    "name": "鴨丫小麵店-北港美食 北港小吃 北港在地美食 北港在地小吃 北港必吃 北港老街美食 朝天宮美食 朝天宮小吃",
+    "search_name": "鴨丫小麵店",
+    "rating": 4.7,
+    "reviews": 1569,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 156,
+    "name": "嗨咿迴轉火鍋｜吃到飽",
+    "search_name": "嗨咿迴轉火鍋｜吃到飽",
+    "rating": 4.7,
+    "reviews": 2686,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 157,
+    "name": "惹鍋-虎尾店",
+    "search_name": "惹鍋-虎尾店",
+    "rating": 4.7,
+    "reviews": 4289,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 158,
+    "name": "圓砌鴛鴦升降鍋物 斗六旗艦店 全台第一升降鍋物",
+    "search_name": "圓砌鴛鴦升降鍋物",
+    "rating": 4.7,
+    "reviews": 5022,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 159,
+    "name": "新千葉火鍋-斗六店",
+    "search_name": "新千葉火鍋-斗六店",
+    "rating": 4.7,
+    "reviews": 8978,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 161,
+    "name": "火鍋世家 雲林虎尾店",
+    "search_name": "火鍋世家 雲林虎尾店",
+    "rating": 4.7,
+    "reviews": 1770,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 162,
+    "name": "三國饌鴛鴦麻辣鍋-虎尾中正旗艦店",
+    "search_name": "三國饌鴛鴦麻辣鍋-虎尾中正旗艦店",
+    "rating": 4.7,
+    "reviews": 2470,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 163,
+    "name": "築間幸福鍋物 雲林斗六店",
+    "search_name": "築間幸福鍋物 雲林斗六店",
+    "rating": 4.7,
+    "reviews": 2684,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 166,
+    "name": "武正水產｜餐廳週一公休",
+    "search_name": "武正水產｜餐廳週一公休",
+    "rating": 4.7,
+    "reviews": 2007,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 167,
+    "name": "斗六釣魚台活漁海鮮餐廳(前方道路施工正常營業）雲林100碗斗六在地美食推薦",
+    "search_name": "斗六釣魚台活漁海鮮餐廳",
+    "rating": 4.7,
+    "reviews": 1910,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 175,
+    "name": "市場光壽司",
+    "search_name": "市場光壽司",
+    "rating": 4.7,
+    "reviews": 1134,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 176,
+    "name": "一捲寿司（全台第一外帶壽司品牌）（派對壽司拼盤）（台灣魚刺身專門）",
+    "search_name": "一捲寿司",
+    "rating": 4.7,
+    "reviews": 1080,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 178,
+    "name": "嶼光 Island(假日無預約服務、僅平日可預約）",
+    "search_name": "嶼光 Island",
+    "rating": 4.7,
+    "reviews": 1345,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 180,
+    "name": "Immense 恬恬",
+    "search_name": "Immense 恬恬",
+    "rating": 4.7,
+    "reviews": 2174,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 181,
+    "name": "濃喵手作芋圓 嫩仙草 剉冰 燒仙草",
+    "search_name": "濃喵手作芋圓",
+    "rating": 4.7,
+    "reviews": 1079,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 183,
+    "name": "丸京燒肉 割烹專門店 Marukyo yakiniku (斗六旗艦店)",
+    "search_name": "丸京燒肉",
+    "rating": 4.7,
+    "reviews": 1502,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 184,
+    "name": "宮本武丼｜直火燒肉丼｜斗六店",
+    "search_name": "宮本武丼｜直火燒肉丼｜斗六店",
+    "rating": 4.7,
+    "reviews": 1681,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 186,
+    "name": "史堤克牛排斗六店",
+    "search_name": "史堤克牛排斗六店",
+    "rating": 4.7,
+    "reviews": 3549,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 188,
+    "name": "好客食堂",
+    "search_name": "好客食堂",
+    "rating": 4.7,
+    "reviews": 2901,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 190,
+    "name": "虎尾地瓜球",
+    "search_name": "虎尾地瓜球",
+    "rating": 4.7,
+    "reviews": 1049,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 191,
+    "name": "壹番素食餐廳(不含蛋及酒)雲林素食 斗六素食 斗六素食餐廳 斗六美食推薦",
+    "search_name": "壹番素食餐廳",
+    "rating": 4.7,
+    "reviews": 1115,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 214,
+    "name": "台灣鯛生態創意園區",
+    "search_name": "台灣鯛生態創意園區",
+    "rating": 4.7,
+    "reviews": 5086,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 215,
+    "name": "二崙佳美（狀元餅、伍仁酥、鴛鴦玉露、梅香酥、乳酪麻糬大餅）",
+    "search_name": "二崙佳美",
+    "rating": 4.7,
+    "reviews": 1163,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 222,
+    "name": "張家牛肉麵",
+    "search_name": "張家牛肉麵",
+    "rating": 4.6,
+    "reviews": 1813,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 229,
+    "name": "劉家酸菜白肉鍋斗六店",
+    "search_name": "劉家酸菜白肉鍋斗六店",
+    "rating": 4.6,
+    "reviews": 2267,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 230,
+    "name": "烹小鮮",
+    "search_name": "烹小鮮",
+    "rating": 4.6,
+    "reviews": 2676,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 233,
+    "name": "烹小鮮麵館",
+    "search_name": "烹小鮮麵館",
+    "rating": 4.6,
+    "reviews": 2676,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 238,
+    "name": "微樂生活咖啡",
+    "search_name": "微樂生活咖啡",
+    "rating": 4.6,
+    "reviews": 2044,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 240,
+    "name": "野川堂秘境鍋物 虎尾店",
+    "search_name": "野川堂秘境鍋物 虎尾店",
+    "rating": 4.6,
+    "reviews": 8691,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 241,
+    "name": "築間幸福鍋物 雲林虎尾店",
+    "search_name": "築間幸福鍋物 雲林虎尾店",
+    "rating": 4.6,
+    "reviews": 2327,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 242,
+    "name": "五鮮級鍋物專賣 雲林北港店",
+    "search_name": "五鮮級鍋物專賣 雲林北港店",
+    "rating": 4.6,
+    "reviews": 2058,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 245,
+    "name": "庵古坑咖啡",
+    "search_name": "庵古坑咖啡",
+    "rating": 4.6,
+    "reviews": 5189,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 253,
+    "name": "一鮮切 炭燻牛排",
+    "search_name": "一鮮切 炭燻牛排",
+    "rating": 4.6,
+    "reviews": 3956,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 254,
+    "name": "大娘羹檜意美食館",
+    "search_name": "大娘羹檜意美食館",
+    "rating": 4.6,
+    "reviews": 2648,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 260,
+    "name": "深海深美食旗艦總店",
+    "search_name": "深海深美食旗艦總店",
+    "rating": 4.6,
+    "reviews": 2024,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 267,
+    "name": "三角窗黃金魚焿",
+    "search_name": "三角窗黃金魚焿",
+    "rating": 4.6,
+    "reviews": 1146,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 301,
+    "name": "吳記肉圓",
+    "search_name": "吳記肉圓",
+    "rating": 4.5,
+    "reviews": 3140,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 302,
+    "name": "第五大道",
+    "search_name": "第五大道",
+    "rating": 4.5,
+    "reviews": 1430,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 306,
+    "name": "一個太陽一個月亮",
+    "search_name": "一個太陽一個月亮",
+    "rating": 4.5,
+    "reviews": 1039,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 307,
+    "name": "CHICO 餐廚",
+    "search_name": "CHICO 餐廚",
+    "rating": 4.5,
+    "reviews": 2198,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 308,
+    "name": "侍悟丸迴轉壽司斗六店",
+    "search_name": "侍悟丸迴轉壽司斗六店",
+    "rating": 4.5,
+    "reviews": 2633,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 310,
+    "name": "稻香村懷舊料理",
+    "search_name": "稻香村懷舊料理",
+    "rating": 4.5,
+    "reviews": 1151,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 316,
+    "name": "肉多多火鍋-雲林斗六店",
+    "search_name": "肉多多火鍋-雲林斗六店",
+    "rating": 4.5,
+    "reviews": 1206,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 317,
+    "name": "八斗子海鮮餐廳",
+    "search_name": "八斗子海鮮餐廳",
+    "rating": 4.5,
+    "reviews": 3752,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 322,
+    "name": "阿豐油飯麵線糊",
+    "search_name": "阿豐油飯麵線糊",
+    "rating": 4.5,
+    "reviews": 1374,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 331,
+    "name": "曾記涼泉芳冰店",
+    "search_name": "曾記涼泉芳冰店",
+    "rating": 4.5,
+    "reviews": 1283,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 333,
+    "name": "焰屋燒肉",
+    "search_name": "焰屋燒肉",
+    "rating": 4.5,
+    "reviews": 1132,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 334,
+    "name": "夯石頭無煙燒肉 斗六旗艦館",
+    "search_name": "夯石頭無煙燒肉 斗六旗艦館",
+    "rating": 4.5,
+    "reviews": 4421,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 335,
+    "name": "江南大豬韓式火烤餐廳",
+    "search_name": "江南大豬韓式火烤餐廳",
+    "rating": 4.5,
+    "reviews": 1788,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 339,
+    "name": "喜樂牛排斗六店",
+    "search_name": "喜樂牛排斗六店",
+    "rating": 4.5,
+    "reviews": 1069,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 354,
+    "name": "雲頂咖啡",
+    "search_name": "雲頂咖啡",
+    "rating": 4.5,
+    "reviews": 2153,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 356,
+    "name": "華山觀止-虫二行館",
+    "search_name": "華山觀止-虫二行館",
+    "rating": 4.5,
+    "reviews": 2621,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 369,
+    "name": "高香珍本店",
+    "search_name": "高香珍本店",
+    "rating": 4.5,
+    "reviews": 1377,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 375,
+    "name": "老謝牛肉麵（僅有洗手台丨13:30、19:30後僅提供外帶）",
+    "search_name": "老謝牛肉麵",
+    "rating": 4.4,
+    "reviews": 1271,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 377,
+    "name": "北港輝煌牛肉湯",
+    "search_name": "北港輝煌牛肉湯",
+    "rating": 4.4,
+    "reviews": 1606,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 385,
+    "name": "嘉義公園火雞肉飯（公休請看FB)",
+    "search_name": "嘉義公園火雞肉飯",
+    "rating": 4.4,
+    "reviews": 1255,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 388,
+    "name": "圓環阿明鴨肉麵線（本店不定時公休）",
+    "search_name": "圓環阿明鴨肉麵線",
+    "rating": 4.4,
+    "reviews": 1213,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 390,
+    "name": "阿賜豬腳飯",
+    "search_name": "阿賜豬腳飯",
+    "rating": 4.4,
+    "reviews": 1812,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 392,
+    "name": "老鄰居1971",
+    "search_name": "老鄰居1971",
+    "rating": 4.4,
+    "reviews": 1319,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 394,
+    "name": "井野板前料理",
+    "search_name": "井野板前料理",
+    "rating": 4.4,
+    "reviews": 1636,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 397,
+    "name": "彭家飯湯",
+    "search_name": "彭家飯湯",
+    "rating": 4.4,
+    "reviews": 6280,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 398,
+    "name": "斗南米糕甲（無固定休息日）",
+    "search_name": "斗南米糕甲",
+    "rating": 4.4,
+    "reviews": 2590,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 400,
+    "name": "青松餐廳",
+    "search_name": "青松餐廳",
+    "rating": 4.4,
+    "reviews": 6249,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 401,
+    "name": "陳家煎盤粿",
+    "search_name": "陳家煎盤粿",
+    "rating": 4.4,
+    "reviews": 1376,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 404,
+    "name": "好星晴夜景泡腳咖啡廳",
+    "search_name": "好星晴夜景泡腳咖啡廳",
+    "rating": 4.4,
+    "reviews": 3043,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 405,
+    "name": "華南天空之夜養生泡腳咖啡",
+    "search_name": "華南天空之夜養生泡腳咖啡",
+    "rating": 4.4,
+    "reviews": 4923,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 407,
+    "name": "芸彰牧場牛肉料理餐廳",
+    "search_name": "芸彰牧場牛肉料理餐廳",
+    "rating": 4.4,
+    "reviews": 1834,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 409,
+    "name": "無名麵攤(大胖麵攤)",
+    "search_name": "無名麵攤",
+    "rating": 4.4,
+    "reviews": 1194,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 411,
+    "name": "一品香火鍋斗六店",
+    "search_name": "一品香火鍋斗六店",
+    "rating": 4.4,
+    "reviews": 2696,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 412,
+    "name": "誠石火鍋",
+    "search_name": "誠石火鍋",
+    "rating": 4.4,
+    "reviews": 1515,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 413,
+    "name": "老潮興汕頭火鍋｜熱炒｜串燒",
+    "search_name": "老潮興汕頭火鍋｜熱炒｜串燒",
+    "rating": 4.4,
+    "reviews": 1749,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 415,
+    "name": "永光故事屋-隨興沖咖啡",
+    "search_name": "永光故事屋-隨興沖咖啡",
+    "rating": 4.4,
+    "reviews": 1087,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 416,
+    "name": "阿賜豬腳",
+    "search_name": "阿賜豬腳",
+    "rating": 4.4,
+    "reviews": 1812,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 419,
+    "name": "大東屋斗六棒球場旗艦店",
+    "search_name": "大東屋斗六棒球場旗艦店",
+    "rating": 4.4,
+    "reviews": 1068,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 421,
+    "name": "溝仔垻清涼冰店",
+    "search_name": "溝仔垻清涼冰店",
+    "rating": 4.4,
+    "reviews": 4067,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 424,
+    "name": "炭火燒肉工房-斗六店",
+    "search_name": "炭火燒肉工房-斗六店",
+    "rating": 4.4,
+    "reviews": 1172,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 427,
+    "name": "魔力牛牛排館 虎尾店 主打雙拼（手打烏龍麵、涼麵、咖哩牛筋無限量供應）惟有堅持才有美味",
+    "search_name": "魔力牛牛排館 虎尾店 主打雙拼",
+    "rating": 4.4,
+    "reviews": 1987,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 434,
+    "name": "大吉祥香豆腐 虎尾店",
+    "search_name": "大吉祥香豆腐 虎尾店",
+    "rating": 4.4,
+    "reviews": 2000,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 436,
+    "name": "大吉祥香豆腐(虎尾店)",
+    "search_name": "大吉祥香豆腐",
+    "rating": 4.4,
+    "reviews": 1500,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 451,
+    "name": "好星晴夜景泡腳咖啡廳【現場制，座位皆可遠眺夜景，泡腳限時：90分鐘】",
+    "search_name": "好星晴夜景泡腳咖啡廳【現場制，座位皆可遠眺夜景，泡腳限時：90分鐘】",
+    "rating": 4.4,
+    "reviews": 3043,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 452,
+    "name": "華南天空之夜養生泡腳咖啡｜雲林古坑景點｜雲林華山泡腳咖啡廳｜雲林華山打卡景點｜泡腳送飲料｜泡腳看夜景",
+    "search_name": "華南天空之夜養生泡腳咖啡",
+    "rating": 4.4,
+    "reviews": 4923,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 478,
+    "name": "土庫老店當歸鴨肉麵線",
+    "search_name": "土庫老店當歸鴨肉麵線",
+    "rating": 4.3,
+    "reviews": 2567,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 480,
+    "name": "明湖海產",
+    "search_name": "明湖海產",
+    "rating": 4.3,
+    "reviews": 1191,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 486,
+    "name": "北港李記鴨肉羹",
+    "search_name": "北港李記鴨肉羹",
+    "rating": 4.3,
+    "reviews": 1845,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 488,
+    "name": "魷魚興魷魚嘴羮",
+    "search_name": "魷魚興魷魚嘴羮",
+    "rating": 4.3,
+    "reviews": 3613,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 490,
+    "name": "長興圓仔冰",
+    "search_name": "長興圓仔冰",
+    "rating": 4.3,
+    "reviews": 4906,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 493,
+    "name": "古坑荷苞山咖啡",
+    "search_name": "古坑荷苞山咖啡",
+    "rating": 4.3,
+    "reviews": 1216,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 494,
+    "name": "黃記九層粿",
+    "search_name": "黃記九層粿",
+    "rating": 4.3,
+    "reviews": 1966,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 499,
+    "name": "口湖龍膽石斑魚火鍋",
+    "search_name": "口湖龍膽石斑魚火鍋",
+    "rating": 4.3,
+    "reviews": 1191,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 501,
+    "name": "雅砌庭園咖啡館",
+    "search_name": "雅砌庭園咖啡館",
+    "rating": 4.3,
+    "reviews": 1439,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 504,
+    "name": "北港阿等土豆油飯",
+    "search_name": "北港阿等土豆油飯",
+    "rating": 4.3,
+    "reviews": 2262,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 505,
+    "name": "東城北方麵食館",
+    "search_name": "東城北方麵食館",
+    "rating": 4.3,
+    "reviews": 2149,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 507,
+    "name": "西螺黃家九層粿",
+    "search_name": "西螺黃家九層粿",
+    "rating": 4.3,
+    "reviews": 1966,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 509,
+    "name": "一品香火鍋虎尾店",
+    "search_name": "一品香火鍋虎尾店",
+    "rating": 4.3,
+    "reviews": 1360,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 511,
+    "name": "近水樓台湖畔森林咖啡",
+    "search_name": "近水樓台湖畔森林咖啡",
+    "rating": 4.3,
+    "reviews": 2738,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 512,
+    "name": "山妍慕夏莊園咖啡",
+    "search_name": "山妍慕夏莊園咖啡",
+    "rating": 4.3,
+    "reviews": 1173,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 513,
+    "name": "桂林映象會館",
+    "search_name": "桂林映象會館",
+    "rating": 4.3,
+    "reviews": 2928,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 530,
+    "name": "夯石頭無煙燒肉 虎尾旗艦館",
+    "search_name": "夯石頭無煙燒肉 虎尾旗艦館",
+    "rating": 4.3,
+    "reviews": 1971,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 540,
+    "name": "大吉祥香豆腐 斗六店",
+    "search_name": "大吉祥香豆腐 斗六店",
+    "rating": 4.3,
+    "reviews": 1500,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 543,
+    "name": "老等油飯 麵線糊",
+    "search_name": "老等油飯 麵線糊",
+    "rating": 4.3,
+    "reviews": 1522,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 554,
+    "name": "文元街陽春麵臭豆腐",
+    "search_name": "文元街陽春麵臭豆腐",
+    "rating": 4.3,
+    "reviews": 1396,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 555,
+    "name": "他里霧文化園區",
+    "search_name": "他里霧文化園區",
+    "rating": 4.3,
+    "reviews": 1966,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 558,
+    "name": "千巧谷牛樂園牧場",
+    "search_name": "千巧谷牛樂園牧場",
+    "rating": 4.3,
+    "reviews": 24605,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 560,
+    "name": "巴登咖啡",
+    "search_name": "巴登咖啡",
+    "rating": 4.3,
+    "reviews": 1216,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 561,
+    "name": "16號廚房素食餐廳 斗六店",
+    "search_name": "16號廚房素食餐廳 斗六店",
+    "rating": 4.3,
+    "reviews": 1176,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 578,
+    "name": "日日興現宰羊肉爐",
+    "search_name": "日日興現宰羊肉爐",
+    "rating": 4.3,
+    "reviews": 2958,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 579,
+    "name": "阿火肉圓",
+    "search_name": "阿火肉圓",
+    "rating": 4.3,
+    "reviews": 2013,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 587,
+    "name": "東市羊肉",
+    "search_name": "東市羊肉",
+    "rating": 4.2,
+    "reviews": 1402,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 591,
+    "name": "阿海師鴨肉麵線",
+    "search_name": "阿海師鴨肉麵線",
+    "rating": 4.2,
+    "reviews": 2420,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 592,
+    "name": "民主火雞肉飯",
+    "search_name": "民主火雞肉飯",
+    "rating": 4.2,
+    "reviews": 12416,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 594,
+    "name": "虎尾王家當歸鴨麵線",
+    "search_name": "虎尾王家當歸鴨麵線",
+    "rating": 4.2,
+    "reviews": 2271,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 595,
+    "name": "阿世香菇肉羹",
+    "search_name": "阿世香菇肉羹",
+    "rating": 4.2,
+    "reviews": 1008,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 597,
+    "name": "古坑啡你不可庭園咖啡",
+    "search_name": "古坑啡你不可庭園咖啡",
+    "rating": 4.2,
+    "reviews": 1745,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 599,
+    "name": "桃花源餐廳",
+    "search_name": "桃花源餐廳",
+    "rating": 4.2,
+    "reviews": 2730,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 606,
+    "name": "左岸101庭園餐廳",
+    "search_name": "左岸101庭園餐廳",
+    "rating": 4.2,
+    "reviews": 1243,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 607,
+    "name": "六扇門時尚湯鍋 虎尾中正店",
+    "search_name": "六扇門時尚湯鍋 虎尾中正店",
+    "rating": 4.2,
+    "reviews": 1110,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 609,
+    "name": "海村澎湖活海鮮餐廳",
+    "search_name": "海村澎湖活海鮮餐廳",
+    "rating": 4.2,
+    "reviews": 2112,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 612,
+    "name": "凹凸咖啡館",
+    "search_name": "凹凸咖啡館",
+    "rating": 4.2,
+    "reviews": 1194,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 615,
+    "name": "啡你不可庭園咖啡廳",
+    "search_name": "啡你不可庭園咖啡廳",
+    "rating": 4.2,
+    "reviews": 1745,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 617,
+    "name": "圓環當歸鴨",
+    "search_name": "圓環當歸鴨",
+    "rating": 4.2,
+    "reviews": 1664,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 620,
+    "name": "スシロー壽司郎 雲林斗六店",
+    "search_name": "スシロー壽司郎 雲林斗六店",
+    "rating": 4.2,
+    "reviews": 1348,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 623,
+    "name": "虎珍堂 菓寮店",
+    "search_name": "虎珍堂 菓寮店",
+    "rating": 4.2,
+    "reviews": 1556,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 624,
+    "name": "官東燒肉-斗六店",
+    "search_name": "官東燒肉-斗六店",
+    "rating": 4.2,
+    "reviews": 1032,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 625,
+    "name": "豬烤官韓式烤肉吃到飽 -虎尾店",
+    "search_name": "豬烤官韓式烤肉吃到飽 -虎尾店",
+    "rating": 4.2,
+    "reviews": 1083,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 628,
+    "name": "成功牛排「斗六店」",
+    "search_name": "成功牛排「斗六店」",
+    "rating": 4.2,
+    "reviews": 1015,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 631,
+    "name": "虎尾王家當歸鴨肉麵線",
+    "search_name": "虎尾王家當歸鴨肉麵線",
+    "rating": 4.2,
+    "reviews": 2270,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 639,
+    "name": "一郎土魠魚羹 招牌青蛙湯 豬腳飯",
+    "search_name": "一郎土魠魚羹",
+    "rating": 4.2,
+    "reviews": 1284,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 660,
+    "name": "福記煙燻鵝肉",
+    "search_name": "福記煙燻鵝肉",
+    "rating": 4.1,
+    "reviews": 1820,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 661,
+    "name": "虎尾魷魚羹麵",
+    "search_name": "虎尾魷魚羹麵",
+    "rating": 4.1,
+    "reviews": 1034,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 662,
+    "name": "阿國獅魷魚羹",
+    "search_name": "阿國獅魷魚羹",
+    "rating": 4.1,
+    "reviews": 6427,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 668,
+    "name": "北港圓仔湯",
+    "search_name": "北港圓仔湯",
+    "rating": 4.1,
+    "reviews": 1863,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 669,
+    "name": "北港福安鴨肉飯",
+    "search_name": "北港福安鴨肉飯",
+    "rating": 4.1,
+    "reviews": 3589,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 675,
+    "name": "福安鴨肉飯",
+    "search_name": "福安鴨肉飯",
+    "rating": 4.1,
+    "reviews": 3590,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 676,
+    "name": "雲林溪美食廣場",
+    "search_name": "雲林溪美食廣場",
+    "rating": 4.1,
+    "reviews": 1136,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 677,
+    "name": "廟口活海鮮餐廳",
+    "search_name": "廟口活海鮮餐廳",
+    "rating": 4.1,
+    "reviews": 2206,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 680,
+    "name": "豬烤官韓式烤肉吃到飽-斗南店",
+    "search_name": "豬烤官韓式烤肉吃到飽-斗南店",
+    "rating": 4.1,
+    "reviews": 1289,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 683,
+    "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
+    "search_name": "老地方客家菜",
+    "rating": 4.1,
+    "reviews": 4524,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 693,
+    "name": "仙地咖啡",
+    "search_name": "仙地咖啡",
+    "rating": 4.1,
+    "reviews": 1729,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 712,
+    "name": "北港圓環紅燒青蛙湯",
+    "search_name": "北港圓環紅燒青蛙湯",
+    "rating": 4,
+    "reviews": 1554,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 713,
+    "name": "口湖馬蹄蛤主題館",
+    "search_name": "口湖馬蹄蛤主題館",
+    "rating": 4,
+    "reviews": 1233,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 717,
+    "name": "米多力休閒農莊",
+    "search_name": "米多力休閒農莊",
+    "rating": 4,
+    "reviews": 1693,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 720,
+    "name": "萬八自助式熱炒",
+    "search_name": "萬八自助式熱炒",
+    "rating": 4,
+    "reviews": 1580,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 723,
+    "name": "怪人花枝鱔魚麵（雲林100碗）",
+    "search_name": "怪人花枝鱔魚麵",
+    "rating": 4,
+    "reviews": 2015,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 727,
+    "name": "農稼莊古早味餐廳",
+    "search_name": "農稼莊古早味餐廳",
+    "rating": 4,
+    "reviews": 1187,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 731,
+    "name": "正斗六炊仔飯",
+    "search_name": "正斗六炊仔飯",
+    "rating": 4,
+    "reviews": 1285,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 732,
+    "name": "鄧肉圓斗六總店",
+    "search_name": "鄧肉圓斗六總店",
+    "rating": 4,
+    "reviews": 1750,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 744,
+    "name": "永光餅行/西點麵包",
+    "search_name": "永光餅行/西點麵包",
+    "rating": 4,
+    "reviews": 1601,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 746,
+    "name": "田園小館",
+    "search_name": "田園小館",
+    "rating": 4,
+    "reviews": 1391,
+    "is_michelin": false
+  },
+  {
+    "city": "雲林",
+    "index": 758,
+    "name": "嘉義梅山二尖山休閒茶園",
+    "search_name": "嘉義梅山二尖山休閒茶園",
+    "rating": 4.4,
+    "reviews": 2723,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 0,
+    "name": "江巷仔內仙人掌冰",
+    "search_name": "江巷仔內仙人掌冰",
+    "rating": 4.7,
+    "reviews": 1288,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 1,
+    "name": "潮境 TideLand｜海鮮料理",
+    "search_name": "潮境 TideLand",
+    "rating": 4.6,
+    "reviews": 1471,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 3,
+    "name": "龍門海鮮",
+    "search_name": "龍門海鮮",
+    "rating": 4.1,
+    "reviews": 1449,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 5,
+    "name": "禾風冰品",
+    "search_name": "禾風冰品",
+    "rating": 5,
+    "reviews": 1338,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 9,
+    "name": "吉貝小三的店|小卷麵線•米粉|綜合仙草冰|QQ圓仔冰|麵茶粉圓冰|鍋燒系列專賣|",
+    "search_name": "吉貝小三的店",
+    "rating": 5,
+    "reviews": 1313,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 11,
+    "name": "Bunny Café 白兔牌",
+    "search_name": "Bunny Café 白兔牌",
+    "rating": 4.9,
+    "reviews": 2382,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 18,
+    "name": "外婆麵猴",
+    "search_name": "外婆麵猴",
+    "rating": 4.9,
+    "reviews": 1127,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 19,
+    "name": "海鱻",
+    "search_name": "海鱻",
+    "rating": 4.9,
+    "reviews": 2004,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 22,
+    "name": "巴適麻辣鍋",
+    "search_name": "巴適麻辣鍋",
+    "rating": 4.9,
+    "reviews": 5586,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 24,
+    "name": "擄胃食堂個人精致鍋物 訂位専線",
+    "search_name": "擄胃食堂個人精致鍋物 訂位専線",
+    "rating": 4.9,
+    "reviews": 1255,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 29,
+    "name": "自由伯-仙人掌冰創始人",
+    "search_name": "自由伯-仙人掌冰創始人",
+    "rating": 4.9,
+    "reviews": 6447,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 33,
+    "name": "兩個番茄農場",
+    "search_name": "兩個番茄農場",
+    "rating": 4.3,
+    "reviews": 1439,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 42,
+    "name": "雛菊見DAISY HOUSE- 澎湖店｜生日慶生｜花火節｜聚餐｜澎湖美食",
+    "search_name": "雛菊見DAISY HOUSE",
+    "rating": 4.8,
+    "reviews": 7167,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 45,
+    "name": "新巴適經典麻辣鍋 澎湖店",
+    "search_name": "新巴適經典麻辣鍋 澎湖店",
+    "rating": 4.8,
+    "reviews": 3453,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 50,
+    "name": "嶼蘊 ｜ 海｜禮｜",
+    "search_name": "嶼蘊 ｜ 海｜禮｜",
+    "rating": 4.8,
+    "reviews": 1243,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 53,
+    "name": "漁師 小料理",
+    "search_name": "漁師 小料理",
+    "rating": 4.8,
+    "reviews": 1541,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 62,
+    "name": "海童日式料理",
+    "search_name": "海童日式料理",
+    "rating": 4.7,
+    "reviews": 2626,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 66,
+    "name": "金醬府",
+    "search_name": "金醬府",
+    "rating": 4.7,
+    "reviews": 2067,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 68,
+    "name": "栄次郎個人燒肉-澎湖馬公店",
+    "search_name": "栄次郎個人燒肉-澎湖馬公店",
+    "rating": 4.7,
+    "reviews": 1749,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 91,
+    "name": "Addict restaurant癮餐廳",
+    "search_name": "Addict",
+    "rating": 4.6,
+    "reviews": 1599,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 92,
+    "name": "友先燒烤｜海陸自助式室內冷氣燒烤｜澎湖牡蠣供應中｜下午茶烤蚵專場｜restaurants",
+    "search_name": "友先燒烤",
+    "rating": 4.6,
+    "reviews": 1929,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 93,
+    "name": "瑪咖朵披薩 Mercato Pizza (OPNE 11AM～5PM)",
+    "search_name": "瑪咖朵披薩",
+    "rating": 4.6,
+    "reviews": 1313,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 94,
+    "name": "洪家炸粿",
+    "search_name": "洪家炸粿",
+    "rating": 4.6,
+    "reviews": 1238,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 95,
+    "name": "富園小吃",
+    "search_name": "富園小吃",
+    "rating": 4.6,
+    "reviews": 2908,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 96,
+    "name": "海城 上湯鮮魚粥",
+    "search_name": "海城 上湯鮮魚粥",
+    "rating": 4.6,
+    "reviews": 2170,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 97,
+    "name": "668海鮮餐廳",
+    "search_name": "668海鮮餐廳",
+    "rating": 4.6,
+    "reviews": 1077,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 99,
+    "name": "澎湖老家餡餅",
+    "search_name": "澎湖老家餡餅",
+    "rating": 4.6,
+    "reviews": 1291,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 107,
+    "name": "朝食暮饗-澎湖宵夜/早午餐推薦/澎湖早餐/澎湖早餐推薦/澎湖早午餐",
+    "search_name": "朝食暮饗",
+    "rating": 4.6,
+    "reviews": 1191,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 110,
+    "name": "御品家食品",
+    "search_name": "御品家食品",
+    "rating": 4.6,
+    "reviews": 1665,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 112,
+    "name": "二崁杏仁茶",
+    "search_name": "二崁杏仁茶",
+    "rating": 4.6,
+    "reviews": 1886,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 113,
+    "name": "澎島之星燒烤吃到飽",
+    "search_name": "澎島之星燒烤吃到飽",
+    "rating": 4.6,
+    "reviews": 1484,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 118,
+    "name": "吉貝別野餐廳",
+    "search_name": "吉貝別野餐廳",
+    "rating": 4.6,
+    "reviews": 1037,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 129,
+    "name": "清峰海鮮紫菜冬粉",
+    "search_name": "清峰海鮮紫菜冬粉",
+    "rating": 4.5,
+    "reviews": 1471,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 134,
+    "name": "澎漁海味.壽司.鍋物（草屯店）",
+    "search_name": "澎漁海味.壽司.鍋物",
+    "rating": 4.5,
+    "reviews": 1381,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 135,
+    "name": "珍海味活海鮮",
+    "search_name": "珍海味活海鮮",
+    "rating": 4.5,
+    "reviews": 1124,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 149,
+    "name": "沃德先生烘焙餐館",
+    "search_name": "沃德先生烘焙餐館",
+    "rating": 4.5,
+    "reviews": 1077,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 150,
+    "name": "清峰海鮮",
+    "search_name": "清峰海鮮",
+    "rating": 4.5,
+    "reviews": 1472,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 154,
+    "name": "糧園茶藝客家小館",
+    "search_name": "糧園茶藝客家小館",
+    "rating": 4.4,
+    "reviews": 2320,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 155,
+    "name": "吹蚵仔海鮮&小管麵線",
+    "search_name": "吹蚵仔海鮮&小管麵線",
+    "rating": 4.4,
+    "reviews": 1001,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 156,
+    "name": "澎漁宴 生猛海鮮-人氣海鮮餐廳 必吃美食 合菜 團體 特色料理 家庭聚餐 包廂餐廳推薦",
+    "search_name": "澎漁宴 生猛海鮮",
+    "rating": 4.4,
+    "reviews": 1843,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 160,
+    "name": "臨海樓海鮮料理",
+    "search_name": "臨海樓海鮮料理",
+    "rating": 4.4,
+    "reviews": 2890,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 161,
+    "name": "西河食堂",
+    "search_name": "西河食堂",
+    "rating": 4.4,
+    "reviews": 1956,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 162,
+    "name": "華珍活海鮮【澎湖海鮮餐廳】澎湖必吃｜新鮮海鮮餐廳｜平價活海鮮｜老饕推薦海鮮｜便宜美味海產店",
+    "search_name": "華珍活海鮮【澎湖海鮮餐廳】澎湖必吃",
+    "rating": 4.4,
+    "reviews": 1297,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 167,
+    "name": "海九澎湖海鮮餐廳",
+    "search_name": "海九澎湖海鮮餐廳",
+    "rating": 4.4,
+    "reviews": 2612,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 168,
+    "name": "及林春咖啡館",
+    "search_name": "及林春咖啡館",
+    "rating": 4.4,
+    "reviews": 3097,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 169,
+    "name": "玉冠嫩仙草-澎湖總店",
+    "search_name": "玉冠嫩仙草-澎湖總店",
+    "rating": 4.4,
+    "reviews": 8854,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 173,
+    "name": "紫玉仙草",
+    "search_name": "紫玉仙草",
+    "rating": 4.4,
+    "reviews": 1757,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 176,
+    "name": "澎湖山水夏日碳烤 （當日海鮮直送）（堅持木炭）（第13年）",
+    "search_name": "澎湖山水夏日碳烤",
+    "rating": 4.4,
+    "reviews": 2115,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 189,
+    "name": "老蔡牛肉麵",
+    "search_name": "老蔡牛肉麵",
+    "rating": 4.3,
+    "reviews": 1125,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 191,
+    "name": "美東芳牛肉麵(若中午售完，晚上不營業)",
+    "search_name": "美東芳牛肉麵",
+    "rating": 4.3,
+    "reviews": 2098,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 192,
+    "name": "北新橋牛雜湯",
+    "search_name": "北新橋牛雜湯",
+    "rating": 4.3,
+    "reviews": 3754,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 193,
+    "name": "兩個番茄農場",
+    "search_name": "兩個番茄農場",
+    "rating": 4.3,
+    "reviews": 1439,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 196,
+    "name": "澎坊購物休閒廣場",
+    "search_name": "澎坊購物休閒廣場",
+    "rating": 4.3,
+    "reviews": 9170,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 199,
+    "name": "阿東海鮮餐廳",
+    "search_name": "阿東海鮮餐廳",
+    "rating": 4.3,
+    "reviews": 1115,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 200,
+    "name": "鹹水煙澎湖特色餐廳",
+    "search_name": "鹹水煙澎湖特色餐廳",
+    "rating": 4.3,
+    "reviews": 1070,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 201,
+    "name": "日新餐廳",
+    "search_name": "日新餐廳",
+    "rating": 4.3,
+    "reviews": 2231,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 205,
+    "name": "外垵刈包 福氣早餐店",
+    "search_name": "外垵刈包 福氣早餐店",
+    "rating": 4.3,
+    "reviews": 1802,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 209,
+    "name": "澎湖三哥雞排三多店",
+    "search_name": "澎湖三哥雞排三多店",
+    "rating": 4.3,
+    "reviews": 1260,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 215,
+    "name": "美樂地我家小館",
+    "search_name": "美樂地我家小館",
+    "rating": 4.2,
+    "reviews": 3411,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 217,
+    "name": "小萍的店小管麵線",
+    "search_name": "小萍的店小管麵線",
+    "rating": 4.2,
+    "reviews": 2974,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 220,
+    "name": "澎湖漁港麵店",
+    "search_name": "澎湖漁港麵店",
+    "rating": 4.2,
+    "reviews": 1177,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 221,
+    "name": "鐘記燒餅",
+    "search_name": "鐘記燒餅",
+    "rating": 4.2,
+    "reviews": 2841,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 224,
+    "name": "小萍的店",
+    "search_name": "小萍的店",
+    "rating": 4.2,
+    "reviews": 2974,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 225,
+    "name": "大池炸粿&鯊魚排（3/23起搬遷至大池村1-1號）",
+    "search_name": "大池炸粿&鯊魚排",
+    "rating": 4.2,
+    "reviews": 1476,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 238,
+    "name": "龍星餐廳",
+    "search_name": "龍星餐廳",
+    "rating": 4.2,
+    "reviews": 2244,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 242,
+    "name": "星月灣田媽媽餐廳",
+    "search_name": "星月灣田媽媽餐廳",
+    "rating": 4.2,
+    "reviews": 1217,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 243,
+    "name": "福牡蠣屋",
+    "search_name": "福牡蠣屋",
+    "rating": 4.2,
+    "reviews": 2747,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 245,
+    "name": "花菜干人文懷舊餐館（建議預約）",
+    "search_name": "花菜干人文懷舊餐館",
+    "rating": 4.1,
+    "reviews": 1889,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 248,
+    "name": "來福海鮮餐廳",
+    "search_name": "來福海鮮餐廳",
+    "rating": 4.1,
+    "reviews": 3846,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 249,
+    "name": "澎湖-回家炸粿",
+    "search_name": "澎湖-回家炸粿",
+    "rating": 4.1,
+    "reviews": 2477,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 253,
+    "name": "澎湖瘋燒烤 - 新鮮牡蠣每日產地直送！",
+    "search_name": "澎湖瘋燒烤",
+    "rating": 4.1,
+    "reviews": 1195,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 256,
+    "name": "城隍廟前燒肉飯",
+    "search_name": "城隍廟前燒肉飯",
+    "rating": 4.1,
+    "reviews": 1183,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 262,
+    "name": "郵局口蔥油餅",
+    "search_name": "郵局口蔥油餅",
+    "rating": 4,
+    "reviews": 3152,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 263,
+    "name": "媽宮食品觀光工廠",
+    "search_name": "媽宮食品觀光工廠",
+    "rating": 4,
+    "reviews": 1240,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 264,
+    "name": "鮮食堂海鮮蒸鍋/2017成立澎湖第一家蒸鍋海鮮絕無分店/",
+    "search_name": "鮮食堂海鮮蒸鍋/2017成立澎湖第一家蒸鍋海鮮絕無分店/",
+    "rating": 4,
+    "reviews": 1867,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 266,
+    "name": "阿華漁村海鮮料理",
+    "search_name": "阿華漁村海鮮料理",
+    "rating": 4,
+    "reviews": 3345,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 272,
+    "name": "林投公園咖啡",
+    "search_name": "林投公園咖啡",
+    "rating": 4.4,
+    "reviews": 3097,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 274,
+    "name": "肇林巷咖啡",
+    "search_name": "肇林巷咖啡",
+    "rating": 4.4,
+    "reviews": 3097,
+    "is_michelin": false
+  },
+  {
+    "city": "澎湖",
+    "index": 275,
+    "name": "阿華咖啡",
+    "search_name": "阿華咖啡",
+    "rating": 4,
+    "reviews": 3346,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 3,
+    "name": "初原麵場(金門金寧店)",
+    "search_name": "初原麵場",
+    "rating": 4.9,
+    "reviews": 1094,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 4,
+    "name": "愜意甜點工作室-金門甜點 金門伴手禮 金門名產 金門下午茶 金門網紅打卡點 附近美食",
+    "search_name": "愜意甜點工作室",
+    "rating": 4.9,
+    "reviews": 1770,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 11,
+    "name": "19house炙燒牛排金門店",
+    "search_name": "19house炙燒牛排金門店",
+    "rating": 4.8,
+    "reviews": 1074,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 14,
+    "name": "圓頭肉乾-金城榮泰店 | 金門美食 金門牛肉麵 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳 restaurant",
+    "search_name": "圓頭肉乾-金城榮泰店",
+    "rating": 4.8,
+    "reviews": 1965,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 15,
+    "name": "高坑牛肉食樂苑餐廳 預約制",
+    "search_name": "高坑牛肉食樂苑餐廳 預約制",
+    "rating": 4.8,
+    "reviews": 7126,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 17,
+    "name": "良金牧場牛肉麵",
+    "search_name": "良金牧場牛肉麵",
+    "rating": 4.7,
+    "reviews": 3399,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 20,
+    "name": "圓頭肉乾金門農牧概念館-金門美食 金門牛肉麵 金門牛肉火鍋 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳",
+    "search_name": "圓頭肉乾金門農牧概念館",
+    "rating": 4.7,
+    "reviews": 4569,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 21,
+    "name": "馬家麵線",
+    "search_name": "馬家麵線",
+    "rating": 4.7,
+    "reviews": 8695,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 22,
+    "name": "良金牧場貞節牌坊店",
+    "search_name": "良金牧場貞節牌坊店",
+    "rating": 4.7,
+    "reviews": 3410,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 26,
+    "name": "海福花園飯店",
+    "search_name": "海福花園飯店",
+    "rating": 4.6,
+    "reviews": 1337,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 27,
+    "name": "嘉年華冰菓室",
+    "search_name": "嘉年華冰菓室",
+    "rating": 4.6,
+    "reviews": 1014,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 28,
+    "name": "永春廣東粥",
+    "search_name": "永春廣東粥",
+    "rating": 4.5,
+    "reviews": 3464,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 31,
+    "name": "雨川食堂｜金門戰地滋味",
+    "search_name": "雨川食堂｜金門戰地滋味",
+    "rating": 4.5,
+    "reviews": 1379,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 32,
+    "name": "良金牧場工廠總店",
+    "search_name": "良金牧場工廠總店",
+    "rating": 4.5,
+    "reviews": 3667,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 35,
+    "name": "蝦寮食堂",
+    "search_name": "蝦寮食堂",
+    "rating": 4.5,
+    "reviews": 1506,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 44,
+    "name": "芹沃咖啡烘焙館Qinwo Bakery",
+    "search_name": "芹沃咖啡烘焙館Qinwo",
+    "rating": 4.4,
+    "reviews": 1432,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 45,
+    "name": "阿婆魚麵店",
+    "search_name": "阿婆魚麵店",
+    "rating": 4.4,
+    "reviews": 1009,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 47,
+    "name": "閩式燒餅專賣店",
+    "search_name": "閩式燒餅專賣店",
+    "rating": 4.3,
+    "reviews": 1487,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 49,
+    "name": "米香屋廣東粥",
+    "search_name": "米香屋廣東粥",
+    "rating": 4.3,
+    "reviews": 1005,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 50,
+    "name": "合泉購物中心",
+    "search_name": "合泉購物中心",
+    "rating": 4.3,
+    "reviews": 1356,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 53,
+    "name": "陽翟老街(軍中樂園拍攝場景)",
+    "search_name": "陽翟老街",
+    "rating": 4.3,
+    "reviews": 1825,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 57,
+    "name": "依嬤的店",
+    "search_name": "依嬤的店",
+    "rating": 4.3,
+    "reviews": 1273,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 60,
+    "name": "記德海鮮餐廳",
+    "search_name": "記德海鮮餐廳",
+    "rating": 4.2,
+    "reviews": 2272,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 61,
+    "name": "金門牛家莊（酒糟牛肉料理）創立於2002年",
+    "search_name": "金門牛家莊",
+    "rating": 4.2,
+    "reviews": 2472,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 62,
+    "name": "喬安牧場伯玉旗艦店",
+    "search_name": "喬安牧場伯玉旗艦店",
+    "rating": 4.2,
+    "reviews": 1096,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 63,
+    "name": "聯成廣東粥",
+    "search_name": "聯成廣東粥",
+    "rating": 4.2,
+    "reviews": 1418,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 66,
+    "name": "沙美老街",
+    "search_name": "沙美老街",
+    "rating": 4.2,
+    "reviews": 4629,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 70,
+    "name": "信源海產店-湖下店",
+    "search_name": "信源海產店-湖下店",
+    "rating": 4.1,
+    "reviews": 1077,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 71,
+    "name": "標記小吃店",
+    "search_name": "標記小吃店",
+    "rating": 4.1,
+    "reviews": 1486,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 80,
+    "name": "三層樓芋頭餐館（三層樓芋頭冰）",
+    "search_name": "三層樓芋頭餐館",
+    "rating": 4,
+    "reviews": 2002,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 83,
+    "name": "馬港大眾飲食店",
+    "search_name": "馬港大眾飲食店",
+    "rating": 4,
+    "reviews": 1106,
+    "is_michelin": false
+  },
+  {
+    "city": "金馬",
+    "index": 90,
+    "name": "芹壁咖啡",
+    "search_name": "芹壁咖啡",
+    "rating": 4.4,
+    "reviews": 1432,
+    "is_michelin": false
+  }
+]

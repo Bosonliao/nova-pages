@@ -1,0 +1,452 @@
+{
+  "高雄_141": {
+    "name": "眾緣素食",
+    "simple_name": "眾緣素食",
+    "area": "苓雅",
+    "city": "高雄",
+    "index": 141,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "屏東_82": {
+    "name": "喬媽田屋【Vegan 飲品．甜品】",
+    "simple_name": "喬媽田屋【Vegan 飲品．甜品】",
+    "area": "潮州鎮",
+    "city": "屏東",
+    "index": 82,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "雲林_66": {
+    "name": "永豪素食自助餐",
+    "simple_name": "永豪素食自助餐",
+    "area": "北港鎮",
+    "city": "雲林",
+    "index": 66,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_173": {
+    "name": "龍津素食早點(韓式海苔飯捲)",
+    "simple_name": "龍津素食早點",
+    "area": "龍井",
+    "city": "台中",
+    "index": 173,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_147": {
+    "name": "旅蒔光蔬食(蛋奶素食，無五辛)不定期公休建議過來前先撥打電話",
+    "simple_name": "旅蒔光蔬食不定期公休建議過來前先撥打電話",
+    "area": "東區",
+    "city": "台南",
+    "index": 147,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "宜蘭_106": {
+    "name": "周媽蔬食堂",
+    "simple_name": "周媽蔬食堂",
+    "area": "壯圍鄉",
+    "city": "宜蘭",
+    "index": 106,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_107": {
+    "name": "良品珈琲x素食朝食-社頭店 （早餐供應7:00-9:00）",
+    "simple_name": "良品珈琲x素食朝食-社頭店",
+    "area": "社頭鄉",
+    "city": "彰化",
+    "index": 107,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_168": {
+    "name": "文蔬素食餐坊（外帶專賣）",
+    "simple_name": "文蔬素食餐坊",
+    "area": "安平",
+    "city": "台南",
+    "index": 168,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_163": {
+    "name": "小蔬坊素食",
+    "simple_name": "小蔬坊素食",
+    "area": "太平",
+    "city": "台中",
+    "index": 163,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "花蓮_68": {
+    "name": "素食健康早午餐",
+    "simple_name": "素食健康早午餐",
+    "area": "玉里鎮",
+    "city": "花蓮",
+    "index": 68,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "新北_139": {
+    "name": "一凡素食",
+    "simple_name": "一凡素食",
+    "area": "林口",
+    "city": "新北",
+    "index": 139,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "新北_142": {
+    "name": "山上易家蔬食快炒",
+    "simple_name": "山上易家蔬食快炒",
+    "area": "三峽",
+    "city": "新北",
+    "index": 142,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "新北_149": {
+    "name": "專心蔬食餐盒",
+    "simple_name": "專心蔬食餐盒",
+    "area": "泰山",
+    "city": "新北",
+    "index": 149,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "桃園_89": {
+    "name": "明芯素食-無蛋奶vegan",
+    "simple_name": "明芯素食-無蛋奶vegan",
+    "area": "桃園",
+    "city": "桃園",
+    "index": 89,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "南投_55": {
+    "name": "如意蔬食",
+    "simple_name": "如意蔬食",
+    "area": "埔里鎮",
+    "city": "南投",
+    "index": 55,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "屏東_75": {
+    "name": "九品素食館",
+    "simple_name": "九品素食館",
+    "area": "潮州鎮",
+    "city": "屏東",
+    "index": 75,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "苗栗_44": {
+    "name": "來食朝（素食 蔬食早餐）",
+    "simple_name": "來食朝",
+    "area": "三灣鄉",
+    "city": "苗栗",
+    "index": 44,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_95": {
+    "name": "陳家素食",
+    "simple_name": "陳家素食",
+    "area": "田尾鄉",
+    "city": "彰化",
+    "index": 95,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_91": {
+    "name": "家新素食蛋糕麵包店",
+    "simple_name": "家新素食蛋糕麵包店",
+    "area": "伸港鄉",
+    "city": "彰化",
+    "index": 91,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "新竹_64": {
+    "name": "竹東慧芯素食",
+    "simple_name": "竹東慧芯素食",
+    "area": "竹東鎮",
+    "city": "新竹",
+    "index": 64,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "雲林_73": {
+    "name": "佑珈蔬食坊",
+    "simple_name": "佑珈蔬食坊",
+    "area": "斗六市",
+    "city": "雲林",
+    "index": 73,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_161": {
+    "name": "Gfood穀馥紅豆薏仁十穀健康美食/素食養生粥/大慶中山醫店",
+    "simple_name": "Gfood穀馥紅豆薏仁十穀健康美食",
+    "area": "南區",
+    "city": "台南",
+    "index": 161,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_167": {
+    "name": "阿枝素食",
+    "simple_name": "阿枝素食",
+    "area": "安定",
+    "city": "台南",
+    "index": 167,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "高雄_153": {
+    "name": "吉恩素食有限公司",
+    "simple_name": "吉恩素食有限公司",
+    "area": "小港",
+    "city": "高雄",
+    "index": 153,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "桃園_33": {
+    "name": "橙園蔬食早點",
+    "simple_name": "橙園蔬食早點",
+    "area": "平鎮",
+    "city": "桃園",
+    "index": 33,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "苗栗_45": {
+    "name": "白沙屯廟後素食/剉冰",
+    "simple_name": "白沙屯廟後素食",
+    "area": "通霄鎮",
+    "city": "苗栗",
+    "index": 45,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_178": {
+    "name": "永勝蔬食起士烤餅",
+    "simple_name": "永勝蔬食起士烤餅",
+    "area": "潭子",
+    "city": "台中",
+    "index": 178,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_179": {
+    "name": "雅香蔬食（原雅香小吃）",
+    "simple_name": "雅香蔬食",
+    "area": "大雅",
+    "city": "台中",
+    "index": 179,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_94": {
+    "name": "善德素食麵館",
+    "simple_name": "善德素食麵館",
+    "area": "埔心鄉",
+    "city": "彰化",
+    "index": 94,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "高雄_144": {
+    "name": "晨品素食早餐",
+    "simple_name": "晨品素食早餐",
+    "area": "仁武",
+    "city": "高雄",
+    "index": 144,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "嘉義_66": {
+    "name": "鼎鼎堂素食",
+    "simple_name": "鼎鼎堂素食",
+    "area": "民雄鄉",
+    "city": "嘉義",
+    "index": 66,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "新北_143": {
+    "name": "江師兄素食鹹酥雞",
+    "simple_name": "江師兄素食鹹酥雞",
+    "area": "三峽",
+    "city": "新北",
+    "index": 143,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "宜蘭_100": {
+    "name": "玉川日嚐蔬食料理(公休日請詳粉絲專頁公告)｜素肉圓｜蔬食鹹派｜宜蘭下午茶｜宜蘭蔬食餐廳｜宜蘭素食",
+    "simple_name": "玉川日嚐蔬食料理",
+    "area": "宜蘭市",
+    "city": "宜蘭",
+    "index": 100,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_108": {
+    "name": "菩提素食",
+    "simple_name": "菩提素食",
+    "area": "社頭鄉",
+    "city": "彰化",
+    "index": 108,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "高雄_148": {
+    "name": "金家素食",
+    "simple_name": "金家素食",
+    "area": "湖內",
+    "city": "高雄",
+    "index": 148,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台北_120": {
+    "name": "聚善緣蔬食民權店",
+    "simple_name": "聚善緣蔬食民權店",
+    "area": "中山",
+    "city": "台北",
+    "index": 120,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_90": {
+    "name": "李娘素食",
+    "simple_name": "李娘素食",
+    "area": "伸港鄉",
+    "city": "彰化",
+    "index": 90,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "屏東_78": {
+    "name": "元成素食",
+    "simple_name": "元成素食",
+    "area": "高樹鄉",
+    "city": "屏東",
+    "index": 78,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "桃園_87": {
+    "name": "VEGAN素食肉圓素食蚵仔煎",
+    "simple_name": "VEGAN素食肉圓素食蚵仔煎",
+    "area": "八德",
+    "city": "桃園",
+    "index": 87,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_161": {
+    "name": "晶芯蔬食（太平店）",
+    "simple_name": "晶芯蔬食",
+    "area": "太平",
+    "city": "台中",
+    "index": 161,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "雲林_72": {
+    "name": "海苔飯捲羹麵(素食)",
+    "simple_name": "海苔飯捲羹麵",
+    "area": "口湖鄉",
+    "city": "雲林",
+    "index": 72,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "花蓮_69": {
+    "name": "原素早午餐 - 素食料理 / 蔬食早午餐新選擇",
+    "simple_name": "原素早午餐 - 素食料理",
+    "area": "吉安鄉",
+    "city": "花蓮",
+    "index": 69,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台中_166": {
+    "name": "素喜 素食麵線專賣店（7/4～7/8休息） 每週三公休",
+    "simple_name": "素喜 素食麵線專賣店 每週三公休",
+    "area": "霧峰",
+    "city": "台中",
+    "index": 166,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "南投_63": {
+    "name": "鳳琴蔬食小點",
+    "simple_name": "鳳琴蔬食小點",
+    "area": "埔里鎮",
+    "city": "南投",
+    "index": 63,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "彰化_102": {
+    "name": "心淨素食鹹酥G",
+    "simple_name": "心淨素食鹹酥G",
+    "area": "鹿港鎮",
+    "city": "彰化",
+    "index": 102,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_154": {
+    "name": "慈喜緣素食超市.現炸蔬食鹹酥雞《下午營業》～麻豆素食專賣店",
+    "simple_name": "慈喜緣素食超市.現炸蔬食鹹酥雞《下午營業》～麻豆素食專賣店",
+    "area": "麻豆",
+    "city": "台南",
+    "index": 154,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "高雄_150": {
+    "name": "菜齊亞蔬食",
+    "simple_name": "菜齊亞蔬食",
+    "area": "左營",
+    "city": "高雄",
+    "index": 150,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "高雄_151": {
+    "name": "百連蔬食 左營自由店",
+    "simple_name": "百連蔬食 左營自由店",
+    "area": "左營",
+    "city": "高雄",
+    "index": 151,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "雲林_68": {
+    "name": "香緣素食",
+    "simple_name": "香緣素食",
+    "area": "莿桐鄉",
+    "city": "雲林",
+    "index": 68,
+    "maps_reviews": [],
+    "blog_snippets": []
+  },
+  "台南_107": {
+    "name": "善化素食炸炸（杏鮑菇、炒飯麵、鍋燒）",
+    "simple_name": "善化素食炸炸",
+    "area": "善化",
+    "city": "台南",
+    "index": 107,
+    "maps_reviews": [],
+    "blog_snippets": []
+  }
+}

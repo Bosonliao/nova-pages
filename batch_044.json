@@ -1,0 +1,452 @@
+[
+  {
+    "city": "屏東",
+    "index": 188,
+    "name": "月見豬油拌飯",
+    "rating": 4.7,
+    "reviews": 767,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 188,
+    "name": "深坑の什麼鍋 草屯店",
+    "rating": 4.7,
+    "reviews": 762,
+    "category": "中式",
+    "area": "草屯鎮"
+  },
+  {
+    "city": "新北",
+    "index": 329,
+    "name": "ハーフ珈琲（Hafu coffee roaster)",
+    "rating": 4.7,
+    "reviews": 760,
+    "category": "咖啡廳",
+    "area": "板橋"
+  },
+  {
+    "city": "宜蘭",
+    "index": 247,
+    "name": "冰點老店冰淇淋專賣店(FB有提供休假日期）",
+    "rating": 4.7,
+    "reviews": 759,
+    "category": "甜品",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 455,
+    "name": "CACHETTE 藏.鉄板料理",
+    "rating": 4.7,
+    "reviews": 759,
+    "category": "中式",
+    "area": "楠梓"
+  },
+  {
+    "city": "澎湖",
+    "index": 67,
+    "name": "小隱鍋馬公民生店",
+    "rating": 4.7,
+    "reviews": 759,
+    "category": "火鍋",
+    "area": "馬公市"
+  },
+  {
+    "city": "台中",
+    "index": 487,
+    "name": "植素拾光素食無國界料理",
+    "rating": 4.7,
+    "reviews": 758,
+    "category": "素食",
+    "area": "南屯"
+  },
+  {
+    "city": "彰化",
+    "index": 235,
+    "name": "Bistro Chillax秋蕾義法餐酒館",
+    "rating": 4.7,
+    "reviews": 755,
+    "category": "中式",
+    "area": "員林市"
+  },
+  {
+    "city": "花蓮",
+    "index": 167,
+    "name": "浮室咖啡 soave plan",
+    "rating": 4.7,
+    "reviews": 755,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 596,
+    "name": "浮室 so wash",
+    "rating": 4.7,
+    "reviews": 755,
+    "category": "咖啡廳",
+    "area": "花蓮市"
+  },
+  {
+    "city": "宜蘭",
+    "index": 198,
+    "name": "陽光田園 Pasta (蘇澳店)｜宜蘭美食｜蘇澳美食｜蘇澳必吃｜在地推薦｜人氣餐廳｜聚餐首選｜義大利麵｜排餐｜",
+    "rating": 4.7,
+    "reviews": 753,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 17,
+    "name": "蘇杭餐廳(板橋店)",
+    "rating": 4.7,
+    "reviews": 751,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "桃園",
+    "index": 279,
+    "name": "書帶蕨｜義式餐廳｜獨立書店",
+    "rating": 4.7,
+    "reviews": 751,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 459,
+    "name": "東山阿華砂鍋魚頭",
+    "rating": 4.7,
+    "reviews": 749,
+    "category": "中式",
+    "area": "東山"
+  },
+  {
+    "city": "桃園",
+    "index": 329,
+    "name": "觀自齋蔬食景觀餐廳",
+    "rating": 4.7,
+    "reviews": 745,
+    "category": "素食",
+    "area": "平鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 439,
+    "name": "Q Burger 高雄橋頭店",
+    "rating": 4.7,
+    "reviews": 745,
+    "category": "中式",
+    "area": "橋頭"
+  },
+  {
+    "city": "花蓮",
+    "index": 196,
+    "name": "江家鮮奶豆花冰店",
+    "rating": 4.7,
+    "reviews": 745,
+    "category": "中式",
+    "area": "瑞穗鄉"
+  },
+  {
+    "city": "新北",
+    "index": 431,
+    "name": "山間倉房 日式蔬食料理",
+    "rating": 4.7,
+    "reviews": 742,
+    "category": "素食",
+    "area": "中和"
+  },
+  {
+    "city": "新北",
+    "index": 1532,
+    "name": "新營家鄉味麵食館",
+    "rating": 4.7,
+    "reviews": 739,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "台東",
+    "index": 114,
+    "name": "台東正氣路豆花",
+    "rating": 4.7,
+    "reviews": 738,
+    "category": "中式",
+    "area": "台東市"
+  },
+  {
+    "city": "台東",
+    "index": 138,
+    "name": "大伯豆花",
+    "rating": 4.7,
+    "reviews": 738,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 455,
+    "name": "來呷飯川食堂（新營店）",
+    "rating": 4.7,
+    "reviews": 735,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "宜蘭",
+    "index": 195,
+    "name": "愛法餐廳 iFrance-宜蘭餐廳 法式料理 私廚/創意/在地特色料理 慶生/聚會/外燴 2026人氣必吃美食餐廳推薦 PTT Dcard",
+    "rating": 4.7,
+    "reviews": 732,
+    "category": "西式",
+    "area": "宜蘭市"
+  },
+  {
+    "city": "台東",
+    "index": 127,
+    "name": "米達艾原味廚房 波浪屋六號店",
+    "rating": 4.7,
+    "reviews": 732,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 115,
+    "name": "太麻里海鮮",
+    "rating": 4.7,
+    "reviews": 731,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 154,
+    "name": "187嗑棧",
+    "rating": 4.7,
+    "reviews": 731,
+    "category": "中式",
+    "area": "太麻里鄉"
+  },
+  {
+    "city": "新北",
+    "index": 423,
+    "name": "菱紋蔬香咖啡館/新莊素食/手沖咖啡/法式千層/最後點餐14:00；19:50",
+    "rating": 4.7,
+    "reviews": 729,
+    "category": "咖啡廳",
+    "area": "新莊"
+  },
+  {
+    "city": "桃園",
+    "index": 268,
+    "name": "李大嘴陝西涼皮",
+    "rating": 4.7,
+    "reviews": 728,
+    "category": "中式",
+    "area": "龜山"
+  },
+  {
+    "city": "屏東",
+    "index": 216,
+    "name": "帝亞香榭旗艦店",
+    "rating": 4.7,
+    "reviews": 726,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 198,
+    "name": "熱浪島南洋蔬食茶堂 竹北店",
+    "rating": 4.7,
+    "reviews": 725,
+    "category": "素食",
+    "area": "竹北市"
+  },
+  {
+    "city": "雲林",
+    "index": 144,
+    "name": "大眾火雞肉飯-北港店",
+    "rating": 4.7,
+    "reviews": 725,
+    "category": "中式",
+    "area": "北港鎮"
+  },
+  {
+    "city": "澎湖",
+    "index": 75,
+    "name": "藍卡景觀餐廳｜開放30天內預訂",
+    "rating": 4.7,
+    "reviews": 723,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "新北",
+    "index": 340,
+    "name": "麵麵牛浪-牛肉麵販賣部/端午節公休",
+    "rating": 4.7,
+    "reviews": 722,
+    "category": "中式",
+    "area": "新莊"
+  },
+  {
+    "city": "南投",
+    "index": 199,
+    "name": "南投鹿谷鵝樂蔬菜餐館（賣完就收🥹）",
+    "rating": 4.7,
+    "reviews": 722,
+    "category": "中式",
+    "area": "鹿谷鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 194,
+    "name": "米達碳烤雞排",
+    "rating": 4.7,
+    "reviews": 717,
+    "category": "中式",
+    "area": "玉里鎮"
+  },
+  {
+    "city": "台南",
+    "index": 446,
+    "name": "洪老記牛肉麵-佳里直營店(每週四公休）",
+    "rating": 4.7,
+    "reviews": 714,
+    "category": "中式",
+    "area": "佳里"
+  },
+  {
+    "city": "澎湖",
+    "index": 69,
+    "name": "澎湖反轉厚奶酥",
+    "rating": 4.7,
+    "reviews": 712,
+    "category": "甜品",
+    "area": "馬公市"
+  },
+  {
+    "city": "南投",
+    "index": 172,
+    "name": "日本鶴神丼飯烏龍麵 專賣",
+    "rating": 4.7,
+    "reviews": 711,
+    "category": "日式",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "南投",
+    "index": 168,
+    "name": "微光寓所 Shimmer café",
+    "rating": 4.7,
+    "reviews": 709,
+    "category": "咖啡廳",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 250,
+    "name": "集英會牛肉麵 桃園經國店",
+    "rating": 4.7,
+    "reviews": 707,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 381,
+    "name": "濟家莊雞肉飯",
+    "rating": 4.7,
+    "reviews": 706,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 232,
+    "name": "捌㡯珈琲",
+    "rating": 4.7,
+    "reviews": 703,
+    "category": "咖啡廳",
+    "area": "頭城鎮"
+  },
+  {
+    "city": "台南",
+    "index": 375,
+    "name": "曉咖啡",
+    "rating": 4.7,
+    "reviews": 703,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 382,
+    "name": "泉捌月 金木犀專賣",
+    "rating": 4.7,
+    "reviews": 703,
+    "category": "中式",
+    "area": "前鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 183,
+    "name": "將門燒肉",
+    "rating": 4.7,
+    "reviews": 702,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 173,
+    "name": "金賞壽司",
+    "rating": 4.7,
+    "reviews": 700,
+    "category": "日式",
+    "area": "竹北市"
+  },
+  {
+    "city": "澎湖",
+    "index": 63,
+    "name": "澎湖享燒烤 Enjoy BBQ｜冷氣開放｜澎湖鮮蚵｜無煙燒烤吃到飽｜可線上訂位｜All-you-can-eat BBQ buffet restaurant",
+    "rating": 4.7,
+    "reviews": 700,
+    "category": "西式",
+    "area": "馬公市"
+  },
+  {
+    "city": "台北",
+    "index": 243,
+    "name": "川火·成都燒烤",
+    "rating": 4.7,
+    "reviews": 699,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "新北",
+    "index": 375,
+    "name": "藏鮮海鮮燒烤料理",
+    "rating": 4.7,
+    "reviews": 698,
+    "category": "中式",
+    "area": "中和"
+  },
+  {
+    "city": "桃園",
+    "index": 275,
+    "name": "沐沐鍋物 龍潭店 ｜249火鍋自助吧吃到飽｜安格斯牛·膠原牛奶鍋",
+    "rating": 4.7,
+    "reviews": 698,
+    "category": "火鍋",
+    "area": "龍潭"
+  }
+]

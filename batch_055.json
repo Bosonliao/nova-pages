@@ -1,0 +1,452 @@
+[
+  {
+    "city": "澎湖",
+    "index": 71,
+    "name": "福盛樓",
+    "rating": 4.7,
+    "reviews": 267,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "基隆",
+    "index": 141,
+    "name": "何家的飯盒/環保鐵盒便當/團體便當",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "南投",
+    "index": 156,
+    "name": "九初 流心脆皮煎餃 南投埔里店",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "中式",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 229,
+    "name": "金記牛肉麵",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 172,
+    "name": "兔子の窩 Coffee House",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "咖啡廳",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台南",
+    "index": 454,
+    "name": "泉威布丁豆花-新化武德殿",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "中式",
+    "area": "新化"
+  },
+  {
+    "city": "高雄",
+    "index": 338,
+    "name": "日日和食 (休假日見最新動態)",
+    "rating": 4.7,
+    "reviews": 266,
+    "category": "日式",
+    "area": "苓雅"
+  },
+  {
+    "city": "台北",
+    "index": 211,
+    "name": "John的料理/士林官邸美食/無提供化妝室",
+    "rating": 4.7,
+    "reviews": 265,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 975,
+    "name": "ZEA",
+    "rating": 4.7,
+    "reviews": 265,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "高雄",
+    "index": 357,
+    "name": "鹿見。有餘",
+    "rating": 4.7,
+    "reviews": 263,
+    "category": "中式",
+    "area": "橋頭"
+  },
+  {
+    "city": "花蓮",
+    "index": 156,
+    "name": "豐裡村麵店",
+    "rating": 4.7,
+    "reviews": 263,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 291,
+    "name": "蕃茄村桃園慈文店 早餐早午餐",
+    "rating": 4.7,
+    "reviews": 262,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 167,
+    "name": "山影人宅 丨日月潭丨早午餐丨咖啡丨甜點丨空間合作丨路邊停車",
+    "rating": 4.7,
+    "reviews": 262,
+    "category": "咖啡廳",
+    "area": "魚池鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 197,
+    "name": "蜜豐坊餐廳咖啡《幽靜巷弄內等你來嚐鮮探索☎️》",
+    "rating": 4.7,
+    "reviews": 262,
+    "category": "咖啡廳",
+    "area": "古坑鄉"
+  },
+  {
+    "city": "新北",
+    "index": 481,
+    "name": "卯澳灣食堂",
+    "rating": 4.7,
+    "reviews": 261,
+    "category": "中式",
+    "area": "貢寮"
+  },
+  {
+    "city": "宜蘭",
+    "index": 196,
+    "name": "Charming恰米",
+    "rating": 4.7,
+    "reviews": 261,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 408,
+    "name": "妙來健康蔬食（素食）【科博館美食｜科博館午餐｜素食餐廳｜內用餐廳｜平價美食｜特色小吃】",
+    "rating": 4.7,
+    "reviews": 261,
+    "category": "素食",
+    "area": "北區"
+  },
+  {
+    "city": "高雄",
+    "index": 451,
+    "name": "小吉食堂",
+    "rating": 4.7,
+    "reviews": 261,
+    "category": "中式",
+    "area": "小港"
+  },
+  {
+    "city": "台南",
+    "index": 453,
+    "name": "濃咖哩Bar",
+    "rating": 4.7,
+    "reviews": 260,
+    "category": "日式",
+    "area": "官田"
+  },
+  {
+    "city": "屏東",
+    "index": 199,
+    "name": "好呦珈琲",
+    "rating": 4.7,
+    "reviews": 260,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 429,
+    "name": "本一艸堂",
+    "rating": 4.7,
+    "reviews": 259,
+    "category": "中式",
+    "area": "清水"
+  },
+  {
+    "city": "高雄",
+    "index": 331,
+    "name": "川聚 CHUAN JU -高雄 六龜 美食餐廳 咖啡館 朋友聚會 下午茶 冰沙 推薦 人氣 好評 簡餐 義大利麵 火鍋 炸物 素食餐點首選 在地特色 親子餐廳 外帶餐點",
+    "rating": 4.7,
+    "reviews": 259,
+    "category": "咖啡廳",
+    "area": "六龜"
+  },
+  {
+    "city": "高雄",
+    "index": 444,
+    "name": "川聚 CHUAN JU -高雄 六龜 美食餐廳 咖啡館 朋友聚會 下午茶 冰沙 推薦 人氣 好評 簡",
+    "rating": 4.7,
+    "reviews": 259,
+    "category": "咖啡廳",
+    "area": "六龜"
+  },
+  {
+    "city": "新北",
+    "index": 399,
+    "name": "幸福芋頭米粉湯",
+    "rating": 4.7,
+    "reviews": 258,
+    "category": "中式",
+    "area": "深坑"
+  },
+  {
+    "city": "台南",
+    "index": 329,
+    "name": "牛郎 牛肉麵•火鍋餐廳 Beef Ramen & Hot Pot",
+    "rating": 4.7,
+    "reviews": 258,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 248,
+    "name": "蒜霸王蒜味肉羹涼麵",
+    "rating": 4.7,
+    "reviews": 256,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 243,
+    "name": "鋒美食館",
+    "rating": 4.7,
+    "reviews": 256,
+    "category": "中式",
+    "area": "和美鎮"
+  },
+  {
+    "city": "屏東",
+    "index": 262,
+    "name": "3M鮮魚湯肉燥飯",
+    "rating": 4.7,
+    "reviews": 256,
+    "category": "中式",
+    "area": "枋山鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 214,
+    "name": "333珈琲和食- 日式定食 手作甜點 烘焙咖啡",
+    "rating": 4.7,
+    "reviews": 255,
+    "category": "咖啡廳",
+    "area": "頭城鎮"
+  },
+  {
+    "city": "南投",
+    "index": 165,
+    "name": "美枝好鍋",
+    "rating": 4.7,
+    "reviews": 255,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 403,
+    "name": "溪北飯桌",
+    "rating": 4.7,
+    "reviews": 254,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "屏東",
+    "index": 212,
+    "name": "石牛平價鐵板串燒",
+    "rating": 4.7,
+    "reviews": 254,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 248,
+    "name": "小美米粉湯",
+    "rating": 4.7,
+    "reviews": 253,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "新北",
+    "index": 343,
+    "name": "蔬福軒 蔬食燒烤",
+    "rating": 4.7,
+    "reviews": 253,
+    "category": "素食",
+    "area": "林口"
+  },
+  {
+    "city": "新北",
+    "index": 365,
+    "name": "Ciao Pasta (義大利麵/燉飯/淡水竹圍)",
+    "rating": 4.7,
+    "reviews": 253,
+    "category": "西式",
+    "area": "淡水"
+  },
+  {
+    "city": "屏東",
+    "index": 264,
+    "name": "八瑤52鮮魚湯",
+    "rating": 4.7,
+    "reviews": 253,
+    "category": "中式",
+    "area": "滿州鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 378,
+    "name": "鹽埕町氷菓室丨日式刨冰、冰淇淋",
+    "rating": 4.7,
+    "reviews": 252,
+    "category": "甜品",
+    "area": "鹽埕"
+  },
+  {
+    "city": "台東",
+    "index": 160,
+    "name": "離海五分鐘",
+    "rating": 4.7,
+    "reviews": 252,
+    "category": "中式",
+    "area": "綠島鄉"
+  },
+  {
+    "city": "澎湖",
+    "index": 88,
+    "name": "七美海鮮風味餐(至少一天以前預約)",
+    "rating": 4.7,
+    "reviews": 252,
+    "category": "中式",
+    "area": "七美鄉"
+  },
+  {
+    "city": "新北",
+    "index": 456,
+    "name": "華記帝王排骨湯",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "中式",
+    "area": "五股"
+  },
+  {
+    "city": "宜蘭",
+    "index": 201,
+    "name": "胖豹甜點 Chubby Seal Dessert | 梅花湖咖啡廳 | 海豹主題甜點 | 精緻甜點外燴",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "咖啡廳",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 195,
+    "name": "仨丘珈琲 Sachuu cafe",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "高雄",
+    "index": 373,
+    "name": "纓風壽司鹽埕店（這不是台南總部經營的）",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "日式",
+    "area": "鹽埕"
+  },
+  {
+    "city": "花蓮",
+    "index": 195,
+    "name": "香約廚房 (需要先預約）",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "中式",
+    "area": "瑞穗鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 211,
+    "name": "山腳下 居酒屋 ( 固定星期二、三公休。)",
+    "rating": 4.7,
+    "reviews": 251,
+    "category": "日式",
+    "area": "秀林鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 266,
+    "name": "轉角大腸麵線",
+    "rating": 4.7,
+    "reviews": 250,
+    "category": "中式",
+    "area": "頭城鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 140,
+    "name": "Danke奧地利廚房",
+    "rating": 4.7,
+    "reviews": 250,
+    "category": "中式",
+    "area": "土庫鎮"
+  },
+  {
+    "city": "台東",
+    "index": 112,
+    "name": "貨櫃屋阿朱牛肉麵",
+    "rating": 4.7,
+    "reviews": 250,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 189,
+    "name": "武藏牛排-太昌店",
+    "rating": 4.7,
+    "reviews": 249,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 213,
+    "name": "龍太串燒居酒屋-嘉義必吃燒烤|人氣串燒|推薦串燒|日式居酒屋|串燒烤肉|熱門居酒屋|居酒屋推薦|在地推薦燒烤",
+    "rating": 4.7,
+    "reviews": 248,
+    "category": "日式",
+    "area": "西區"
+  }
+]

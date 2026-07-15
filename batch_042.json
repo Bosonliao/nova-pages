@@ -1,0 +1,452 @@
+[
+  {
+    "city": "雲林",
+    "index": 164,
+    "name": "對馬涮涮屋北港店",
+    "rating": 4.7,
+    "reviews": 919,
+    "category": "火鍋",
+    "area": "北港鎮"
+  },
+  {
+    "city": "台北",
+    "index": 185,
+    "name": "Takeout burger & cafe 內湖店（最後點餐晚上9點，恕不接待10歲以下幼童內用）",
+    "rating": 4.7,
+    "reviews": 918,
+    "category": "咖啡廳",
+    "area": "內湖"
+  },
+  {
+    "city": "桃園",
+    "index": 280,
+    "name": "MUYI CAFE 木易咖啡｜寵物友善",
+    "rating": 4.7,
+    "reviews": 916,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 1002,
+    "name": "Café MU 木咖啡",
+    "rating": 4.7,
+    "reviews": 916,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "屏東",
+    "index": 253,
+    "name": "AKAME",
+    "rating": 4.7,
+    "reviews": 912,
+    "category": "中式",
+    "area": "三地門鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 208,
+    "name": "菊丹料理亭(預約制) 宜蘭美食 正宗日本料理 宜蘭握壽司 羅東美食 宜蘭推薦餐廳 羅東日本料理",
+    "rating": 4.7,
+    "reviews": 907,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 458,
+    "name": "牛丁次郎坊x台南支店",
+    "rating": 4.7,
+    "reviews": 904,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "新北",
+    "index": 459,
+    "name": "丸吉左衛門博多拉麵 土城店",
+    "rating": 4.7,
+    "reviews": 902,
+    "category": "日式",
+    "area": "土城"
+  },
+  {
+    "city": "嘉義",
+    "index": 193,
+    "name": "尊皇嚮鍋",
+    "rating": 4.7,
+    "reviews": 902,
+    "category": "火鍋",
+    "area": "西區"
+  },
+  {
+    "city": "台北",
+    "index": 193,
+    "name": "13_Burger",
+    "rating": 4.7,
+    "reviews": 901,
+    "category": "西式",
+    "area": "大安"
+  },
+  {
+    "city": "雲林",
+    "index": 160,
+    "name": "川玥 秘境鍋物 虎尾店",
+    "rating": 4.7,
+    "reviews": 901,
+    "category": "火鍋",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 445,
+    "name": "HAWKER 好客南洋餐廳 HAWKER Restaurant",
+    "rating": 4.7,
+    "reviews": 901,
+    "category": "中式",
+    "area": "前鎮"
+  },
+  {
+    "city": "宜蘭",
+    "index": 234,
+    "name": "MASLOW CAFE",
+    "rating": 4.7,
+    "reviews": 899,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 119,
+    "name": "萬祝號",
+    "rating": 4.7,
+    "reviews": 897,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "基隆",
+    "index": 383,
+    "name": "萬祝號 WANCHUCOFFEE",
+    "rating": 4.7,
+    "reviews": 897,
+    "category": "咖啡廳",
+    "area": "中正"
+  },
+  {
+    "city": "苗栗",
+    "index": 129,
+    "name": "田野日式料理",
+    "rating": 4.7,
+    "reviews": 896,
+    "category": "日式",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "新北",
+    "index": 444,
+    "name": "田中芳園",
+    "rating": 4.7,
+    "reviews": 895,
+    "category": "日式",
+    "area": "金山"
+  },
+  {
+    "city": "南投",
+    "index": 164,
+    "name": "讚不絕口PLUS小火鍋草屯店",
+    "rating": 4.7,
+    "reviews": 893,
+    "category": "火鍋",
+    "area": "草屯鎮"
+  },
+  {
+    "city": "台中",
+    "index": 459,
+    "name": "i83厚切牛排(學府店，採現場候位)",
+    "rating": 4.7,
+    "reviews": 878,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 206,
+    "name": "水里車埕歐樂麵包店 OLO BAKERY",
+    "rating": 4.7,
+    "reviews": 878,
+    "category": "烘焙",
+    "area": "水里鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 221,
+    "name": "吉利軒小館",
+    "rating": 4.7,
+    "reviews": 878,
+    "category": "中式",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 187,
+    "name": "梅谷餐廳",
+    "rating": 4.7,
+    "reviews": 877,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 256,
+    "name": "樹下餐桌",
+    "rating": 4.7,
+    "reviews": 873,
+    "category": "中式",
+    "area": "春日鄉"
+  },
+  {
+    "city": "新北",
+    "index": 454,
+    "name": "高田食堂 中正店",
+    "rating": 4.7,
+    "reviews": 872,
+    "category": "中式",
+    "area": "三重"
+  },
+  {
+    "city": "新北",
+    "index": 393,
+    "name": "九份星塵景觀餐廳",
+    "rating": 4.7,
+    "reviews": 871,
+    "category": "中式",
+    "area": "瑞芳"
+  },
+  {
+    "city": "台中",
+    "index": 382,
+    "name": "清一色牛肉麵 大墩店（最後點餐時間20:15）",
+    "rating": 4.7,
+    "reviews": 869,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "新北",
+    "index": 451,
+    "name": "平交道咖啡",
+    "rating": 4.7,
+    "reviews": 868,
+    "category": "咖啡廳",
+    "area": "平溪"
+  },
+  {
+    "city": "彰化",
+    "index": 248,
+    "name": "Skinny Cafe 瘦子咖啡｜彰化店",
+    "rating": 4.7,
+    "reviews": 868,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 204,
+    "name": "星嵐拉麵",
+    "rating": 4.7,
+    "reviews": 867,
+    "category": "日式",
+    "area": "仁愛鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 158,
+    "name": "10分之1海鮮燒烤(午餐需前一天訂位)",
+    "rating": 4.7,
+    "reviews": 867,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "台北",
+    "index": 274,
+    "name": "江牛樓",
+    "rating": 4.7,
+    "reviews": 866,
+    "category": "日式",
+    "area": "大同"
+  },
+  {
+    "city": "新竹",
+    "index": 207,
+    "name": "青青好農食(營業時間以FB為主)",
+    "rating": 4.7,
+    "reviews": 866,
+    "category": "中式",
+    "area": "北埔鄉"
+  },
+  {
+    "city": "台南",
+    "index": 342,
+    "name": "漫步維根 Vegan kitchen",
+    "rating": 4.7,
+    "reviews": 864,
+    "category": "素食",
+    "area": "東區"
+  },
+  {
+    "city": "高雄",
+    "index": 459,
+    "name": "貳木言午",
+    "rating": 4.7,
+    "reviews": 863,
+    "category": "中式",
+    "area": "苓雅"
+  },
+  {
+    "city": "彰化",
+    "index": 225,
+    "name": "Stable Fly 穩定飛行模式",
+    "rating": 4.7,
+    "reviews": 862,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 215,
+    "name": "山漁海-本地海鮮定食",
+    "rating": 4.7,
+    "reviews": 856,
+    "category": "日式",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "台東",
+    "index": 149,
+    "name": "永全花生酥、草苺杏仁酥",
+    "rating": 4.7,
+    "reviews": 852,
+    "category": "烘焙",
+    "area": "關山鎮"
+  },
+  {
+    "city": "台中",
+    "index": 438,
+    "name": "NMU 幸卉文學咖啡",
+    "rating": 4.7,
+    "reviews": 851,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 179,
+    "name": "阿忠師手切滷肉飯",
+    "rating": 4.7,
+    "reviews": 850,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 341,
+    "name": "鮨悅手作壽司",
+    "rating": 4.7,
+    "reviews": 848,
+    "category": "日式",
+    "area": "板橋"
+  },
+  {
+    "city": "屏東",
+    "index": 265,
+    "name": "NU PASTA 屏東萬丹店",
+    "rating": 4.7,
+    "reviews": 848,
+    "category": "西式",
+    "area": "萬丹鄉"
+  },
+  {
+    "city": "台中",
+    "index": 506,
+    "name": "斐得蔬食 花巷疏香樓",
+    "rating": 4.7,
+    "reviews": 846,
+    "category": "素食",
+    "area": "梧棲"
+  },
+  {
+    "city": "宜蘭",
+    "index": 212,
+    "name": "幸福滿味食堂",
+    "rating": 4.7,
+    "reviews": 842,
+    "category": "中式",
+    "area": "頭城鎮"
+  },
+  {
+    "city": "台南",
+    "index": 352,
+    "name": "日寧餐廳 - 泰式料理",
+    "rating": 4.7,
+    "reviews": 842,
+    "category": "異國",
+    "area": "東區"
+  },
+  {
+    "city": "高雄",
+    "index": 342,
+    "name": "美良家 台式雞湯",
+    "rating": 4.7,
+    "reviews": 842,
+    "category": "中式",
+    "area": "三民"
+  },
+  {
+    "city": "新北",
+    "index": 362,
+    "name": "漁先生",
+    "rating": 4.7,
+    "reviews": 841,
+    "category": "中式",
+    "area": "三峽"
+  },
+  {
+    "city": "新北",
+    "index": 476,
+    "name": "幽默廚房 Humor Kitchen",
+    "rating": 4.7,
+    "reviews": 836,
+    "category": "中式",
+    "area": "蘆洲"
+  },
+  {
+    "city": "台東",
+    "index": 113,
+    "name": "徑廣東路蔥油餅",
+    "rating": 4.7,
+    "reviews": 836,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 240,
+    "name": "向陽早午餐（宜蘭甜點/宜蘭美食/宜蘭必吃）",
+    "rating": 4.7,
+    "reviews": 833,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 213,
+    "name": "炙焰牛排館",
+    "rating": 4.7,
+    "reviews": 832,
+    "category": "西式",
+    "area": ""
+  }
+]

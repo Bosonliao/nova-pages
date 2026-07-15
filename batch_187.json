@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台中",
+    "index": 1278,
+    "name": "天喜健康素食館",
+    "rating": 4.2,
+    "reviews": 17,
+    "category": "素食",
+    "area": "大肚"
+  },
+  {
+    "city": "彰化",
+    "index": 832,
+    "name": "興芳素食自助餐",
+    "rating": 4.2,
+    "reviews": 17,
+    "category": "素食",
+    "area": "社頭鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1212,
+    "name": "旺久素食時蔬滷味。鹹酥g",
+    "rating": 4.2,
+    "reviews": 14,
+    "category": "素食",
+    "area": "岡山"
+  },
+  {
+    "city": "彰化",
+    "index": 833,
+    "name": "芳苑素食-素心坊",
+    "rating": 4.2,
+    "reviews": 13,
+    "category": "素食",
+    "area": "芳苑鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 702,
+    "name": "溪口天慈素食（不定期公休）",
+    "rating": 4.2,
+    "reviews": 13,
+    "category": "素食",
+    "area": "溪口鄉"
+  },
+  {
+    "city": "南投",
+    "index": 487,
+    "name": "養生素食簡餐",
+    "rating": 4.2,
+    "reviews": 12,
+    "category": "素食",
+    "area": "名間鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 647,
+    "name": "好媽媽素食店",
+    "rating": 4.2,
+    "reviews": 11,
+    "category": "素食",
+    "area": "大埤鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1216,
+    "name": "龍陽素食館",
+    "rating": 4.2,
+    "reviews": 11,
+    "category": "素食",
+    "area": "茄萣"
+  },
+  {
+    "city": "桃園",
+    "index": 856,
+    "name": "米迪葷/素食 早餐,團膳",
+    "rating": 4.2,
+    "reviews": 10,
+    "category": "中式",
+    "area": "觀音"
+  },
+  {
+    "city": "桃園",
+    "index": 843,
+    "name": "雅敉蔬食館",
+    "rating": 4.2,
+    "reviews": 9,
+    "category": "素食",
+    "area": "大園"
+  },
+  {
+    "city": "花蓮",
+    "index": 520,
+    "name": "常青健康素食",
+    "rating": 4.2,
+    "reviews": 9,
+    "category": "素食",
+    "area": "玉里鎮"
+  },
+  {
+    "city": "宜蘭",
+    "index": 632,
+    "name": "蓮星素食/星榮春有機農園",
+    "rating": 4.2,
+    "reviews": 5,
+    "category": "素食",
+    "area": "壯圍鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 648,
+    "name": "福泰手工素食",
+    "rating": 4.2,
+    "reviews": 5,
+    "category": "素食",
+    "area": "林內鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1203,
+    "name": "三桃素食館",
+    "rating": 4.2,
+    "reviews": 5,
+    "category": "素食",
+    "area": "旗津"
+  },
+  {
+    "city": "台北",
+    "index": 840,
+    "name": "西門町阿宗麵線",
+    "rating": 4.1,
+    "reviews": 18223,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 858,
+    "name": "三味食堂",
+    "rating": 4.1,
+    "reviews": 13992,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1392,
+    "name": "恩典景觀咖啡廳",
+    "rating": 4.1,
+    "reviews": 9041,
+    "category": "咖啡廳",
+    "area": "后里"
+  },
+  {
+    "city": "台北",
+    "index": 874,
+    "name": "天天利美食坊",
+    "rating": 4.1,
+    "reviews": 8384,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 826,
+    "name": "Maple Tree House 楓樹韓國烤肉",
+    "rating": 4.1,
+    "reviews": 8189,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 836,
+    "name": "臺一牛奶大王",
+    "rating": 4.1,
+    "reviews": 8132,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 815,
+    "name": "吳家牛肉麵店",
+    "rating": 4.1,
+    "reviews": 7203,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 819,
+    "name": "東引小吃店（推薦深夜美食 台北宵夜 牛肉麵 捷運南京三民站",
+    "rating": 4.1,
+    "reviews": 6502,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 846,
+    "name": "品鱻海鮮熱炒店",
+    "rating": 4.1,
+    "reviews": 5877,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 865,
+    "name": "臺北市客家文化主題公園",
+    "rating": 4.1,
+    "reviews": 5633,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 843,
+    "name": "故宮晶華",
+    "rating": 4.1,
+    "reviews": 5492,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 857,
+    "name": "金魚日本料理",
+    "rating": 4.1,
+    "reviews": 5348,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 822,
+    "name": "施福建好吃雞肉",
+    "rating": 4.1,
+    "reviews": 5056,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 839,
+    "name": "滷三塊五花肉飯",
+    "rating": 4.1,
+    "reviews": 4616,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "台北",
+    "index": 848,
+    "name": "紅翻天生猛海鮮",
+    "rating": 4.1,
+    "reviews": 4563,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 816,
+    "name": "清真黃牛肉麵館",
+    "rating": 4.1,
+    "reviews": 4345,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 852,
+    "name": "臨洋港生猛活海鮮長安店",
+    "rating": 4.1,
+    "reviews": 4275,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 972,
+    "name": "了凡咖啡 ACME Cafe",
+    "rating": 4.1,
+    "reviews": 3830,
+    "category": "咖啡廳",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 873,
+    "name": "冰霖古早味豆花",
+    "rating": 4.1,
+    "reviews": 3711,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 867,
+    "name": "食來運轉",
+    "rating": 4.1,
+    "reviews": 3691,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 946,
+    "name": "廖家牛肉麵",
+    "rating": 4.1,
+    "reviews": 2909,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 855,
+    "name": "89海鮮",
+    "rating": 4.1,
+    "reviews": 2900,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 861,
+    "name": "BRUN不然-安和店",
+    "rating": 4.1,
+    "reviews": 2877,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 844,
+    "name": "樂子 南港店",
+    "rating": 4.1,
+    "reviews": 2872,
+    "category": "中式",
+    "area": "南港"
+  },
+  {
+    "city": "台中",
+    "index": 1393,
+    "name": "小莊壽司店",
+    "rating": 4.1,
+    "reviews": 2827,
+    "category": "日式",
+    "area": "龍井"
+  },
+  {
+    "city": "台北",
+    "index": 818,
+    "name": "七十二牛肉麵",
+    "rating": 4.1,
+    "reviews": 2745,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 849,
+    "name": "小林海產",
+    "rating": 4.1,
+    "reviews": 2706,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 827,
+    "name": "傑克兄弟牛排 臺北信義店｜JACK BROTHERS STEAKHOUSE Taipei Xinyi",
+    "rating": 4.1,
+    "reviews": 2634,
+    "category": "西式",
+    "area": "信義"
+  },
+  {
+    "city": "台中",
+    "index": 1386,
+    "name": "海港城平價海鮮",
+    "rating": 4.1,
+    "reviews": 2550,
+    "category": "中式",
+    "area": "梧棲"
+  },
+  {
+    "city": "台北",
+    "index": 883,
+    "name": "蕭記大餛飩",
+    "rating": 4.1,
+    "reviews": 2492,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "台北",
+    "index": 847,
+    "name": "先進海產店",
+    "rating": 4.1,
+    "reviews": 2455,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 875,
+    "name": "龍泉深海鮮魚湯",
+    "rating": 4.1,
+    "reviews": 2435,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 888,
+    "name": "PappaRich金爸爸-新光信義A9店",
+    "rating": 4.1,
+    "reviews": 2303,
+    "category": "異國",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 842,
+    "name": "LI RA義大利廚房",
+    "rating": 4.1,
+    "reviews": 2283,
+    "category": "西式",
+    "area": "文山"
+  },
+  {
+    "city": "台北",
+    "index": 850,
+    "name": "鑫鱻熱炒吉林總店",
+    "rating": 4.1,
+    "reviews": 2256,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 845,
+    "name": "海真私房菜民生店",
+    "rating": 4.1,
+    "reviews": 2236,
+    "category": "中式",
+    "area": "松山"
+  }
+]

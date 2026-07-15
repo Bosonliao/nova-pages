@@ -1,0 +1,452 @@
+[
+  {
+    "city": "屏東",
+    "index": 581,
+    "name": "屏東寶德旺法國茶坊（恕不接待10歲以內孩童）",
+    "rating": 4.3,
+    "reviews": 299,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 872,
+    "name": "寶德旺法國茶坊",
+    "rating": 4.3,
+    "reviews": 299,
+    "category": "咖啡廳",
+    "area": "屏東市"
+  },
+  {
+    "city": "台北",
+    "index": 672,
+    "name": "沛對原汁排骨湯",
+    "rating": 4.3,
+    "reviews": 298,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "苗栗",
+    "index": 348,
+    "name": "吃香喝辣牛肉麵",
+    "rating": 4.3,
+    "reviews": 298,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 254,
+    "name": "好食陳（其他公休日請至臉書更新）",
+    "rating": 4.3,
+    "reviews": 297,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "雲林",
+    "index": 533,
+    "name": "嘟嘟牛排館",
+    "rating": 4.3,
+    "reviews": 297,
+    "category": "西式",
+    "area": "斗南鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 530,
+    "name": "市場口羊肉",
+    "rating": 4.3,
+    "reviews": 297,
+    "category": "中式",
+    "area": "大林鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 540,
+    "name": "森笙食堂",
+    "rating": 4.3,
+    "reviews": 297,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1036,
+    "name": "阿旺麵店",
+    "rating": 4.3,
+    "reviews": 296,
+    "category": "中式",
+    "area": "鳳山"
+  },
+  {
+    "city": "新北",
+    "index": 1113,
+    "name": "卡哇伊蔬食坊",
+    "rating": 4.3,
+    "reviews": 295,
+    "category": "素食",
+    "area": "新莊"
+  },
+  {
+    "city": "宜蘭",
+    "index": 510,
+    "name": "噗!好吃 牛肉麵",
+    "rating": 4.3,
+    "reviews": 295,
+    "category": "中式",
+    "area": "五結鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 602,
+    "name": "客婆客家菜",
+    "rating": 4.3,
+    "reviews": 295,
+    "category": "中式",
+    "area": "車城鄉"
+  },
+  {
+    "city": "台北",
+    "index": 604,
+    "name": "MKCR / Mountain Kids Chill & Relax 山小孩咖啡",
+    "rating": 4.3,
+    "reviews": 294,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 586,
+    "name": "竹崎甕仔雞",
+    "rating": 4.3,
+    "reviews": 294,
+    "category": "中式",
+    "area": "竹崎鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 452,
+    "name": "鐵路邊玉里麵",
+    "rating": 4.3,
+    "reviews": 294,
+    "category": "中式",
+    "area": "玉里鎮"
+  },
+  {
+    "city": "台北",
+    "index": 601,
+    "name": "丰園小館",
+    "rating": 4.3,
+    "reviews": 293,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "桃園",
+    "index": 753,
+    "name": "開心素食",
+    "rating": 4.3,
+    "reviews": 293,
+    "category": "素食",
+    "area": "桃園"
+  },
+  {
+    "city": "台北",
+    "index": 683,
+    "name": "美食屋早餐店-士林人氣必吃早餐 推薦熱門銅板美食 好吃早午餐店 便宜好吃 好評 早餐首選",
+    "rating": 4.3,
+    "reviews": 292,
+    "category": "咖啡廳",
+    "area": "士林"
+  },
+  {
+    "city": "高雄",
+    "index": 1050,
+    "name": "佳宗素食，超佛心現在還有50元的便當菜都滿滿的一",
+    "rating": 4.3,
+    "reviews": 292,
+    "category": "素食",
+    "area": "前鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 1059,
+    "name": "金盛素食烘焙坊",
+    "rating": 4.3,
+    "reviews": 292,
+    "category": "烘焙",
+    "area": "鳥松"
+  },
+  {
+    "city": "新北",
+    "index": 1062,
+    "name": "胖老闆旗魚黑輪/杏仁茶",
+    "rating": 4.3,
+    "reviews": 291,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "台中",
+    "index": 1156,
+    "name": "素之香蔬食館",
+    "rating": 4.3,
+    "reviews": 291,
+    "category": "素食",
+    "area": "大甲"
+  },
+  {
+    "city": "雲林",
+    "index": 531,
+    "name": "朴庶韓國烤肉 雲林虎尾店",
+    "rating": 4.3,
+    "reviews": 291,
+    "category": "西式",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台南",
+    "index": 1107,
+    "name": "烏山咖啡",
+    "rating": 4.3,
+    "reviews": 291,
+    "category": "咖啡廳",
+    "area": "南化"
+  },
+  {
+    "city": "花蓮",
+    "index": 465,
+    "name": "美欣素食館",
+    "rating": 4.3,
+    "reviews": 291,
+    "category": "素食",
+    "area": "新城鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 529,
+    "name": "芒果遇到冰（竹北店）",
+    "rating": 4.3,
+    "reviews": 290,
+    "category": "甜品",
+    "area": "竹北市"
+  },
+  {
+    "city": "台東",
+    "index": 338,
+    "name": "王媽媽牛肉麵",
+    "rating": 4.3,
+    "reviews": 290,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1039,
+    "name": "欣燦客家小館",
+    "rating": 4.3,
+    "reviews": 289,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1038,
+    "name": "店小二（雞腿飯、排骨飯、蝦捲飯、鯖魚飯、蒜泥白肉飯）",
+    "rating": 4.3,
+    "reviews": 288,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 481,
+    "name": "翁記滷肉飯（城隍廟店）",
+    "rating": 4.3,
+    "reviews": 287,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "苗栗",
+    "index": 404,
+    "name": "晨間廚房早午餐店 苑裡信義路",
+    "rating": 4.3,
+    "reviews": 287,
+    "category": "咖啡廳",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 456,
+    "name": "巷子口餃子館",
+    "rating": 4.3,
+    "reviews": 287,
+    "category": "中式",
+    "area": "瑞穗鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 436,
+    "name": "景陽海鮮",
+    "rating": 4.3,
+    "reviews": 286,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 378,
+    "name": "插電貓元氣早餐屋",
+    "rating": 4.3,
+    "reviews": 285,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 654,
+    "name": "阿志粄條",
+    "rating": 4.3,
+    "reviews": 285,
+    "category": "中式",
+    "area": "佳冬鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 476,
+    "name": "緬城",
+    "rating": 4.3,
+    "reviews": 285,
+    "category": "中式",
+    "area": "玉里鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 382,
+    "name": "茉田豆花冰舖",
+    "rating": 4.3,
+    "reviews": 284,
+    "category": "中式",
+    "area": "竹南鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 692,
+    "name": "大都會冰城",
+    "rating": 4.3,
+    "reviews": 283,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 990,
+    "name": "茉莉輕食咖啡下午茶",
+    "rating": 4.3,
+    "reviews": 283,
+    "category": "咖啡廳",
+    "area": "新興"
+  },
+  {
+    "city": "雲林",
+    "index": 544,
+    "name": "北辰路無名麵線糊",
+    "rating": 4.3,
+    "reviews": 282,
+    "category": "中式",
+    "area": "北港鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 534,
+    "name": "木木食堂新竹店",
+    "rating": 4.3,
+    "reviews": 281,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "桃園",
+    "index": 673,
+    "name": "和樂嘉義火雞肉飯",
+    "rating": 4.3,
+    "reviews": 280,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 574,
+    "name": "八攻牛排",
+    "rating": 4.3,
+    "reviews": 280,
+    "category": "西式",
+    "area": "東區"
+  },
+  {
+    "city": "宜蘭",
+    "index": 544,
+    "name": "張便當",
+    "rating": 4.3,
+    "reviews": 278,
+    "category": "中式",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 516,
+    "name": "添己香腸（美食）",
+    "rating": 4.3,
+    "reviews": 278,
+    "category": "中式",
+    "area": "土庫鎮"
+  },
+  {
+    "city": "台南",
+    "index": 969,
+    "name": "六味火雞肉飯 &雞魯飯；家中有事 25號到29號店休",
+    "rating": 4.3,
+    "reviews": 278,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 764,
+    "name": "暖光‧山魚",
+    "rating": 4.3,
+    "reviews": 277,
+    "category": "中式",
+    "area": "龜山"
+  },
+  {
+    "city": "新竹",
+    "index": 499,
+    "name": "四方青松茶屋",
+    "rating": 4.3,
+    "reviews": 277,
+    "category": "中式",
+    "area": "竹東鎮"
+  },
+  {
+    "city": "台南",
+    "index": 1108,
+    "name": "枕戈待旦餐廳",
+    "rating": 4.3,
+    "reviews": 277,
+    "category": "中式",
+    "area": "南竿鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1080,
+    "name": "烏來水芙蓉現烤小米麻糬 (創始店)",
+    "rating": 4.3,
+    "reviews": 276,
+    "category": "中式",
+    "area": "烏來"
+  }
+]

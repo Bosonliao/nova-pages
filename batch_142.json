@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 628,
+    "name": "NEVERLAND Bakery Cafe",
+    "rating": 4.3,
+    "reviews": 1522,
+    "category": "咖啡廳",
+    "area": "南港"
+  },
+  {
+    "city": "台北",
+    "index": 1272,
+    "name": "穠舍田園咖啡 餐廳 休閒農場",
+    "rating": 4.3,
+    "reviews": 1519,
+    "category": "咖啡廳",
+    "area": "內湖"
+  },
+  {
+    "city": "台北",
+    "index": 1021,
+    "name": "老四川巴蜀麻辣燙",
+    "rating": 4.3,
+    "reviews": 1500,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1119,
+    "name": "寬巷子",
+    "rating": 4.3,
+    "reviews": 1500,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 665,
+    "name": "御品元冰火湯圓-台北饒河店",
+    "rating": 4.3,
+    "reviews": 1497,
+    "category": "甜品",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 670,
+    "name": "艋舺雞排 饒河店",
+    "rating": 4.3,
+    "reviews": 1494,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 624,
+    "name": "胃太小私房菜",
+    "rating": 4.3,
+    "reviews": 1477,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 641,
+    "name": "虎笑麵屋 無訂位服務",
+    "rating": 4.3,
+    "reviews": 1471,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 606,
+    "name": "貨室甜品 Huoshih｜Taiwanese Dessert with Modern Twist",
+    "rating": 4.3,
+    "reviews": 1461,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 650,
+    "name": "昭和浪漫冰室 Showaice",
+    "rating": 4.3,
+    "reviews": 1347,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 687,
+    "name": "劉家棧香港煲仔飯專賣店（台灣水草俱樂部餐館）",
+    "rating": 4.3,
+    "reviews": 1322,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 968,
+    "name": "珠寶盒法式甜點 L'JOY",
+    "rating": 4.3,
+    "reviews": 1321,
+    "category": "甜品",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 633,
+    "name": "Mövenpick Café -莫凡彼南港車站店",
+    "rating": 4.3,
+    "reviews": 1233,
+    "category": "咖啡廳",
+    "area": "南港"
+  },
+  {
+    "city": "台北",
+    "index": 630,
+    "name": "春月日式食堂",
+    "rating": 4.3,
+    "reviews": 1198,
+    "category": "日式",
+    "area": "南港"
+  },
+  {
+    "city": "台北",
+    "index": 662,
+    "name": "Homey's cafe",
+    "rating": 4.3,
+    "reviews": 1174,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 648,
+    "name": "威布好食 早午餐",
+    "rating": 4.3,
+    "reviews": 1165,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 695,
+    "name": "筷炒KUAICHAO",
+    "rating": 4.3,
+    "reviews": 1163,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 1000,
+    "name": "雅閣 (Ya Ge)",
+    "rating": 4.3,
+    "reviews": 1140,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 611,
+    "name": "柴米夫妻新中式麵館 Charming Couple(每週一與7/5、7/19公休）",
+    "rating": 4.3,
+    "reviews": 1126,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 653,
+    "name": "玖豆冰品（雪花冰）豆花",
+    "rating": 4.3,
+    "reviews": 1075,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 603,
+    "name": "Dreamers Coffee Roasters 光復店",
+    "rating": 4.3,
+    "reviews": 1064,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 674,
+    "name": "銀泰小館",
+    "rating": 4.3,
+    "reviews": 1008,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 636,
+    "name": "時時",
+    "rating": 4.3,
+    "reviews": 1003,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 652,
+    "name": "昭和浪漫洗濯屋_霜淇淋專賣店",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1048,
+    "name": "福臨門",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1059,
+    "name": "美濃屋拉麵",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1074,
+    "name": "陶然亭",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1124,
+    "name": "蓬萊台菜",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 1130,
+    "name": "橘色涮涮屋 (大安)",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1135,
+    "name": "Tsuta 蔦 (台北店)",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1144,
+    "name": "湘帝御膳牛肉麵",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1151,
+    "name": "大毛屋牛肉麵",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1182,
+    "name": "牛肉麵雞湯",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1232,
+    "name": "阿明豬心（金華店）",
+    "rating": 4.3,
+    "reviews": 1000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 339,
+    "name": "台東天野日本料理｜觀光必吃｜旅行團客合菜｜聚餐｜在地經營第30年",
+    "rating": 4.3,
+    "reviews": 999,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 205,
+    "name": "麗洋手作伴手禮",
+    "rating": 4.3,
+    "reviews": 999,
+    "category": "咖啡廳",
+    "area": "馬公市"
+  },
+  {
+    "city": "高雄",
+    "index": 1004,
+    "name": "葉月堂 • 手作雪花冰專売店",
+    "rating": 4.3,
+    "reviews": 995,
+    "category": "中式",
+    "area": "三民"
+  },
+  {
+    "city": "台北",
+    "index": 651,
+    "name": "KAKIGORI TOSHIHIKO",
+    "rating": 4.3,
+    "reviews": 993,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 993,
+    "name": "清溪小吃部",
+    "rating": 4.3,
+    "reviews": 992,
+    "category": "中式",
+    "area": "三民"
+  },
+  {
+    "city": "高雄",
+    "index": 1091,
+    "name": "竹村庭園茶藝",
+    "rating": 4.3,
+    "reviews": 991,
+    "category": "中式",
+    "area": "田寮"
+  },
+  {
+    "city": "新竹",
+    "index": 490,
+    "name": "嘉味火雞肉飯",
+    "rating": 4.3,
+    "reviews": 990,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台南",
+    "index": 1095,
+    "name": "青鯤鯓阿君蚵仔麵線&蚵嗲（每週四公休）",
+    "rating": 4.3,
+    "reviews": 989,
+    "category": "中式",
+    "area": "將軍"
+  },
+  {
+    "city": "嘉義",
+    "index": 559,
+    "name": "花樂食堂（僅預約制餐盒）",
+    "rating": 4.3,
+    "reviews": 988,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 1043,
+    "name": "光權 - 特色三明治/咖啡/板橋早午餐 “無訂位服務/採現場候位”",
+    "rating": 4.3,
+    "reviews": 987,
+    "category": "咖啡廳",
+    "area": "板橋"
+  },
+  {
+    "city": "新竹",
+    "index": 535,
+    "name": "老店客家菜",
+    "rating": 4.3,
+    "reviews": 985,
+    "category": "中式",
+    "area": "北埔鄉"
+  },
+  {
+    "city": "台東",
+    "index": 379,
+    "name": "老店客家菜",
+    "rating": 4.3,
+    "reviews": 985,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1118,
+    "name": "60年代脆皮雞白斬雞",
+    "rating": 4.3,
+    "reviews": 984,
+    "category": "中式",
+    "area": "三芝"
+  },
+  {
+    "city": "台南",
+    "index": 1013,
+    "name": "丹妮牛排",
+    "rating": 4.3,
+    "reviews": 984,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 522,
+    "name": "慢慢敘集 mummum （不定期公休請洽粉絲專頁;評論不再回覆請詳閱入店規則）",
+    "rating": 4.3,
+    "reviews": 983,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 752,
+    "name": "泉芳枝仔冰",
+    "rating": 4.3,
+    "reviews": 982,
+    "category": "甜品",
+    "area": "芳苑鄉"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 268,
+    "name": "瑪喜餐廳",
+    "rating": 4.7,
+    "reviews": 519,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "南投",
+    "index": 202,
+    "name": "清境沐四季景觀餐廳",
+    "rating": 4.7,
+    "reviews": 518,
+    "category": "中式",
+    "area": "仁愛鄉"
+  },
+  {
+    "city": "台南",
+    "index": 382,
+    "name": "元幸の手作冰 YXice—崇明總店（獨家手作冰品、冰棒、甜點）",
+    "rating": 4.7,
+    "reviews": 517,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 296,
+    "name": "金歐爸韓式料理",
+    "rating": 4.7,
+    "reviews": 516,
+    "category": "異國",
+    "area": "二水鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 174,
+    "name": "鮨板前手作 日式料理",
+    "rating": 4.7,
+    "reviews": 516,
+    "category": "日式",
+    "area": "麥寮鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 218,
+    "name": "竹崎白樹腳驛棧",
+    "rating": 4.7,
+    "reviews": 515,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 440,
+    "name": "寶寶夢想城堡",
+    "rating": 4.7,
+    "reviews": 515,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "新北",
+    "index": 330,
+    "name": "三峽Team Coffee 咖啡。停！",
+    "rating": 4.7,
+    "reviews": 514,
+    "category": "咖啡廳",
+    "area": "三峽"
+  },
+  {
+    "city": "桃園",
+    "index": 253,
+    "name": "QQ田甜品工坊-桃園龍潭大池店-龍潭創意日式冰品|首選手作冰店|日式特色冰店|人氣冰店|熱門手作豆花仙草甜湯店|水果冰品|必吃人氣甜品|在地推薦冰店",
+    "rating": 4.7,
+    "reviews": 511,
+    "category": "中式",
+    "area": "龍潭"
+  },
+  {
+    "city": "屏東",
+    "index": 176,
+    "name": "QQ田甜品工坊-桃園龍潭大池店-龍潭創意日式冰品|首選手作冰店|日式特色冰店|人氣冰店|熱門手作豆花仙草甜湯店|水果冰品|必吃人氣甜品|在地推薦冰店",
+    "rating": 4.7,
+    "reviews": 511,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 227,
+    "name": "阿潭姨素食食材專賣",
+    "rating": 4.7,
+    "reviews": 511,
+    "category": "素食",
+    "area": "恆春鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 212,
+    "name": "日好蒔光蔬食料理",
+    "rating": 4.7,
+    "reviews": 510,
+    "category": "素食",
+    "area": "四湖鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 218,
+    "name": "門裡有家牛肉麵",
+    "rating": 4.7,
+    "reviews": 509,
+    "category": "中式",
+    "area": "員林市"
+  },
+  {
+    "city": "花蓮",
+    "index": 147,
+    "name": "萬寶家食堂-花蓮美食 花蓮餐廳 花蓮推薦美食 花蓮聚餐 花蓮早午餐 花蓮午餐",
+    "rating": 4.7,
+    "reviews": 509,
+    "category": "咖啡廳",
+    "area": "花蓮市"
+  },
+  {
+    "city": "苗栗",
+    "index": 123,
+    "name": "台南汕頭沙茶王沙茶火鍋",
+    "rating": 4.7,
+    "reviews": 508,
+    "category": "火鍋",
+    "area": "公館鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 136,
+    "name": "煦苑 咖啡 紅豆餅",
+    "rating": 4.7,
+    "reviews": 508,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 155,
+    "name": "星馬茶餐廳｜南洋咖哩專賣店｜肉骨茶玉里麵｜仁當咖哩玉里麵",
+    "rating": 4.7,
+    "reviews": 508,
+    "category": "異國",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 184,
+    "name": "雲水食堂 yunshuikitchen|2025台北國際牛肉麵金牌獎|臺北牛肉麵推薦|萬華牛肉麵推薦|臺北美食推薦|萬華美食推薦|艋舺美食推薦beefnoodlesoup",
+    "rating": 4.7,
+    "reviews": 507,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "高雄",
+    "index": 461,
+    "name": "爭鮮迴轉壽司-路竹店",
+    "rating": 4.7,
+    "reviews": 505,
+    "category": "日式",
+    "area": "路竹"
+  },
+  {
+    "city": "台中",
+    "index": 531,
+    "name": "SiZZO 款款好食｜台中唯一潛水觀景窗餐廳｜特色餐廳｜",
+    "rating": 4.7,
+    "reviews": 504,
+    "category": "中式",
+    "area": "大肚"
+  },
+  {
+    "city": "新北",
+    "index": 389,
+    "name": "馥小玉",
+    "rating": 4.7,
+    "reviews": 502,
+    "category": "中式",
+    "area": "中和"
+  },
+  {
+    "city": "花蓮",
+    "index": 163,
+    "name": "春滿石頭火鍋",
+    "rating": 4.7,
+    "reviews": 501,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 233,
+    "name": "小溪邊咖啡",
+    "rating": 4.7,
+    "reviews": 500,
+    "category": "咖啡廳",
+    "area": "頭城鎮"
+  },
+  {
+    "city": "南投",
+    "index": 146,
+    "name": "信義望鄉部落風味餐",
+    "rating": 4.7,
+    "reviews": 500,
+    "category": "中式",
+    "area": "信義鄉"
+  },
+  {
+    "city": "南投",
+    "index": 198,
+    "name": "慢午廚房(須預約)",
+    "rating": 4.7,
+    "reviews": 500,
+    "category": "中式",
+    "area": "信義鄉"
+  },
+  {
+    "city": "南投",
+    "index": 175,
+    "name": "熊愛呷冰 南投旗艦店",
+    "rating": 4.7,
+    "reviews": 498,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 247,
+    "name": "蔬鍋藝鍋物彰化店",
+    "rating": 4.7,
+    "reviews": 497,
+    "category": "素食",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 211,
+    "name": "有間牛肉—燒肉專門店（店休日公告於FB）",
+    "rating": 4.7,
+    "reviews": 497,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 466,
+    "name": "竹茅土雞城",
+    "rating": 4.7,
+    "reviews": 496,
+    "category": "中式",
+    "area": "白河"
+  },
+  {
+    "city": "宜蘭",
+    "index": 259,
+    "name": "白糖粿販賣所buytomgray",
+    "rating": 4.7,
+    "reviews": 494,
+    "category": "中式",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 252,
+    "name": "彰化【Mini • OZ】早午餐｜彰化美食｜彰化早午餐｜澳式早午餐｜彰化火車站美食｜彰化brunch｜彰化brunch推薦",
+    "rating": 4.7,
+    "reviews": 492,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 285,
+    "name": "友良小家料理 - TOMO SUSHI 附有免費停車場",
+    "rating": 4.7,
+    "reviews": 489,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 325,
+    "name": "食獻 Donburi",
+    "rating": 4.7,
+    "reviews": 488,
+    "category": "日式",
+    "area": "左營"
+  },
+  {
+    "city": "新北",
+    "index": 480,
+    "name": "日拾居",
+    "rating": 4.7,
+    "reviews": 485,
+    "category": "中式",
+    "area": "蘆洲"
+  },
+  {
+    "city": "高雄",
+    "index": 350,
+    "name": "義狗倆狗｜義大利麵・燉飯｜寵物友善餐廳｜西子灣美食",
+    "rating": 4.7,
+    "reviews": 485,
+    "category": "西式",
+    "area": "鼓山"
+  },
+  {
+    "city": "新北",
+    "index": 475,
+    "name": "烤魚達人活海鮮",
+    "rating": 4.7,
+    "reviews": 484,
+    "category": "中式",
+    "area": "萬里"
+  },
+  {
+    "city": "嘉義",
+    "index": 196,
+    "name": "木商珈琲",
+    "rating": 4.7,
+    "reviews": 484,
+    "category": "咖啡廳",
+    "area": "東區"
+  },
+  {
+    "city": "台東",
+    "index": 162,
+    "name": "蘭嶼瑟郎炒飯、瑟郎的冰沙小舖、瑟郎各式炒飯創始店",
+    "rating": 4.7,
+    "reviews": 484,
+    "category": "中式",
+    "area": "蘭嶼鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 225,
+    "name": "來初鍋物",
+    "rating": 4.7,
+    "reviews": 481,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 446,
+    "name": "請安早午餐",
+    "rating": 4.7,
+    "reviews": 481,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 132,
+    "name": "青蔦菓子咖啡",
+    "rating": 4.7,
+    "reviews": 480,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 173,
+    "name": "小二春福氣鍋 屏東民生店-屏東火鍋-屏東美食-屏東餐廳",
+    "rating": 4.7,
+    "reviews": 479,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 184,
+    "name": "友時愛碧珠",
+    "rating": 4.7,
+    "reviews": 479,
+    "category": "中式",
+    "area": "恆春鎮"
+  },
+  {
+    "city": "新北",
+    "index": 479,
+    "name": "Gòu kitchen 構｜義法小餐館 ｜蘆洲平價星級料理｜質感私廚",
+    "rating": 4.7,
+    "reviews": 478,
+    "category": "中式",
+    "area": "蘆洲"
+  },
+  {
+    "city": "台北",
+    "index": 1009,
+    "name": "De Nuit",
+    "rating": 4.7,
+    "reviews": 477,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "新北",
+    "index": 376,
+    "name": "林椐咖啡-自家烘焙咖啡|商業合作|甜點|可頌(店休日依粉絲專頁公告為主)",
+    "rating": 4.7,
+    "reviews": 477,
+    "category": "咖啡廳",
+    "area": "新莊"
+  },
+  {
+    "city": "台東",
+    "index": 150,
+    "name": "蔬念Vegine｜台東推薦素食滷味與便當",
+    "rating": 4.7,
+    "reviews": 475,
+    "category": "素食",
+    "area": "台東市"
+  },
+  {
+    "city": "基隆",
+    "index": 117,
+    "name": "525創意酒食館",
+    "rating": 4.7,
+    "reviews": 473,
+    "category": "咖啡廳",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 216,
+    "name": "天空廚房",
+    "rating": 4.7,
+    "reviews": 473,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "嘉義",
+    "index": 178,
+    "name": "北港阿財紅燒牛肉麵（嘉義店）",
+    "rating": 4.7,
+    "reviews": 473,
+    "category": "中式",
+    "area": "東區"
+  }
+]

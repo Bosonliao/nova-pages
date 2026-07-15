@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 942,
+    "name": "兄妹美食館",
+    "rating": 4.0,
+    "reviews": 1226,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台中",
+    "index": 1416,
+    "name": "烏龍路邊攤",
+    "rating": 4.0,
+    "reviews": 1199,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1456,
+    "name": "大慶麵食館",
+    "rating": 4.0,
+    "reviews": 1162,
+    "category": "中式",
+    "area": "潭子"
+  },
+  {
+    "city": "台北",
+    "index": 918,
+    "name": "大元冰品",
+    "rating": 4.0,
+    "reviews": 1158,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1453,
+    "name": "牧莊原汁牛肉麵-石岡店",
+    "rating": 4.0,
+    "reviews": 1122,
+    "category": "中式",
+    "area": "石岡"
+  },
+  {
+    "city": "台中",
+    "index": 1412,
+    "name": "台中美食家海鮮碳烤餐廳",
+    "rating": 4.0,
+    "reviews": 1105,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1433,
+    "name": "魯肉賴小吃店",
+    "rating": 4.0,
+    "reviews": 1090,
+    "category": "中式",
+    "area": "豐原"
+  },
+  {
+    "city": "台中",
+    "index": 1455,
+    "name": "山東開心小館",
+    "rating": 4.0,
+    "reviews": 1071,
+    "category": "中式",
+    "area": "和平"
+  },
+  {
+    "city": "台北",
+    "index": 920,
+    "name": "廚房客家美食",
+    "rating": 4.0,
+    "reviews": 1069,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1405,
+    "name": "台北太祖魷魚羹",
+    "rating": 4.0,
+    "reviews": 1062,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 919,
+    "name": "教父牛排餐飲 AMBER HILL A9館",
+    "rating": 4.0,
+    "reviews": 1059,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1271,
+    "name": "三味香麵店",
+    "rating": 4.0,
+    "reviews": 1055,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 914,
+    "name": "魚港生猛海鮮",
+    "rating": 4.0,
+    "reviews": 1026,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 961,
+    "name": "點水樓(南崁店)",
+    "rating": 4.0,
+    "reviews": 999,
+    "category": "中式",
+    "area": "蘆竹"
+  },
+  {
+    "city": "新竹",
+    "index": 784,
+    "name": "新城風糖",
+    "rating": 4.0,
+    "reviews": 999,
+    "category": "中式",
+    "area": "寶山鄉"
+  },
+  {
+    "city": "南投",
+    "index": 584,
+    "name": "平原火雞肉飯（草屯美食）",
+    "rating": 4.0,
+    "reviews": 996,
+    "category": "中式",
+    "area": "草屯鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 769,
+    "name": "新友飲食店",
+    "rating": 4.0,
+    "reviews": 990,
+    "category": "中式",
+    "area": "湖口鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 854,
+    "name": "穀倉客老味麵館(屏東長治)",
+    "rating": 4.0,
+    "reviews": 990,
+    "category": "中式",
+    "area": "長治鄉"
+  },
+  {
+    "city": "台北",
+    "index": 899,
+    "name": "嘉義第一名火雞肉飯-南昌店",
+    "rating": 4.0,
+    "reviews": 978,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台東",
+    "index": 515,
+    "name": "打鹿岸原住民人文主題餐廳 - 湛藍邊境 | 人氣海景美食 風味餐",
+    "rating": 4.0,
+    "reviews": 974,
+    "category": "中式",
+    "area": "卑南鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 747,
+    "name": "百年歲月創意餐坊",
+    "rating": 4.0,
+    "reviews": 973,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 772,
+    "name": "老店麵食館",
+    "rating": 4.0,
+    "reviews": 967,
+    "category": "中式",
+    "area": "竹東鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 986,
+    "name": "香廚庭園餐廳",
+    "rating": 4.0,
+    "reviews": 964,
+    "category": "中式",
+    "area": "新屋"
+  },
+  {
+    "city": "台東",
+    "index": 499,
+    "name": "天地人．手創料理 Tiandiren",
+    "rating": 4.0,
+    "reviews": 964,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1437,
+    "name": "沙鹿肉圓福",
+    "rating": 4.0,
+    "reviews": 963,
+    "category": "中式",
+    "area": "沙鹿"
+  },
+  {
+    "city": "雲林",
+    "index": 710,
+    "name": "阿財火雞肉飯",
+    "rating": 4.0,
+    "reviews": 963,
+    "category": "中式",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 724,
+    "name": "松屋洋風和食館",
+    "rating": 4.0,
+    "reviews": 963,
+    "category": "日式",
+    "area": "斗六市"
+  },
+  {
+    "city": "新竹",
+    "index": 785,
+    "name": "北埔第一棧複合式餐廳",
+    "rating": 4.0,
+    "reviews": 959,
+    "category": "中式",
+    "area": "北埔鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 976,
+    "name": "大路畔柑仔店",
+    "rating": 4.0,
+    "reviews": 954,
+    "category": "中式",
+    "area": "大村鄉"
+  },
+  {
+    "city": "金馬",
+    "index": 79,
+    "name": "蚵嗲之家",
+    "rating": 4.0,
+    "reviews": 953,
+    "category": "中式",
+    "area": "金城鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 824,
+    "name": "食光·雞 正宗嘉義火雞肉飯",
+    "rating": 4.0,
+    "reviews": 951,
+    "category": "中式",
+    "area": "太保市"
+  },
+  {
+    "city": "南投",
+    "index": 610,
+    "name": "正義小吃部",
+    "rating": 4.0,
+    "reviews": 950,
+    "category": "中式",
+    "area": "水里鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 790,
+    "name": "太保火雞肉飯",
+    "rating": 4.0,
+    "reviews": 950,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 1370,
+    "name": "阿財香腸熟肉",
+    "rating": 4.0,
+    "reviews": 950,
+    "category": "中式",
+    "area": "中西"
+  },
+  {
+    "city": "屏東",
+    "index": 824,
+    "name": "恆春出火特別景觀區烤肉",
+    "rating": 4.0,
+    "reviews": 950,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1440,
+    "name": "竹林雞肉 新店中興店",
+    "rating": 4.0,
+    "reviews": 943,
+    "category": "中式",
+    "area": "新店"
+  },
+  {
+    "city": "宜蘭",
+    "index": 26,
+    "name": "景德炸醬麵",
+    "rating": 4.0,
+    "reviews": 934,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 706,
+    "name": "冬山老街",
+    "rating": 4.0,
+    "reviews": 934,
+    "category": "中式",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1474,
+    "name": "朱家卜肉",
+    "rating": 4.0,
+    "reviews": 933,
+    "category": "中式",
+    "area": "金山"
+  },
+  {
+    "city": "新北",
+    "index": 1480,
+    "name": "阿春美食",
+    "rating": 4.0,
+    "reviews": 933,
+    "category": "中式",
+    "area": "烏來"
+  },
+  {
+    "city": "台中",
+    "index": 1454,
+    "name": "千樺花園餐廳-新社網美餐廳|景觀餐廳|人氣餐廳|親子餐廳|聚餐推薦|美食餐廳|賞花秘境",
+    "rating": 4.0,
+    "reviews": 929,
+    "category": "咖啡廳",
+    "area": "新社"
+  },
+  {
+    "city": "新竹",
+    "index": 778,
+    "name": "新興飯店魯肉飯專賣店",
+    "rating": 4.0,
+    "reviews": 927,
+    "category": "中式",
+    "area": "新豐鄉"
+  },
+  {
+    "city": "基隆",
+    "index": 26,
+    "name": "阿嬌炒麵",
+    "rating": 4.0,
+    "reviews": 926,
+    "category": "中式",
+    "area": "仁愛"
+  },
+  {
+    "city": "澎湖",
+    "index": 268,
+    "name": "七美越南大骨湯麵",
+    "rating": 4.0,
+    "reviews": 923,
+    "category": "異國",
+    "area": "七美鄉"
+  },
+  {
+    "city": "台北",
+    "index": 900,
+    "name": "雄嘉義雞肉飯",
+    "rating": 4.0,
+    "reviews": 919,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1397,
+    "name": "阿秋鹹粥",
+    "rating": 4.0,
+    "reviews": 916,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 954,
+    "name": "濱松屋",
+    "rating": 4.0,
+    "reviews": 912,
+    "category": "日式",
+    "area": "中山"
+  },
+  {
+    "city": "基隆",
+    "index": 24,
+    "name": "圳記紅燒鰻",
+    "rating": 4.0,
+    "reviews": 909,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1378,
+    "name": "毒家口味",
+    "rating": 4.0,
+    "reviews": 909,
+    "category": "日式",
+    "area": "三民"
+  },
+  {
+    "city": "花蓮",
+    "index": 572,
+    "name": "食七街碳烤",
+    "rating": 4.0,
+    "reviews": 904,
+    "category": "中式",
+    "area": ""
+  }
+]

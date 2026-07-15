@@ -1,0 +1,55 @@
+data-ja.json area check
+Issues: 1633
+
+  JAP-SIMP [台北.food] 雙月食品社北投店: area=北投区
+  JAP-SIMP [台北.food] 吾旺再季: area=大安区
+  JAP-SIMP [台北.food] 祥和蔬食料理（鎮江店）: area=中正区
+  JAP-SIMP [台北.food] 杭州小籠湯包: area=大安区
+  JAP-SIMP [台北.food] 老山東牛肉家常麵店: area=萬華区
+  JAP-SIMP [台北.food] 無名推車燒餅: area=大安区
+  JAP-SIMP [台北.food] 雞家莊: area=中山区
+  JAP-SIMP [台北.food] 鍾家原上海生煎包: area=大安区
+  JAP-SIMP [台北.food] 大橋頭老牌筒仔米糕: area=大同区
+  JAP-SIMP [台北.food] 好朋友涼麵: area=中正区
+  JAP-SIMP [台北.food] 小酌之家: area=中山区
+  JAP-SIMP [台北.food] 雄記蔥抓餅: area=中正区
+  JAP-SIMP [台北.food] 黃記魯肉飯: area=中山区
+  JAP-SIMP [台北.food] 隱食家: area=信義区
+  JAP-SIMP [台北.food] 人和園: area=中山区
+  JAP-SIMP [台北.food] 金賞軒: area=大安区
+  JAP-SIMP [台北.food] 小小樹食: area=大安区
+  JAP-SIMP [台北.food] 賣麵炎仔: area=大同区
+  JAP-SIMP [台北.food] 茂園: area=中山区
+  JAP-SIMP [台北.food] 番紅花印度美饌: area=大安区
+  JAP-SIMP [台北.food] 祥和蔬食: area=中正区
+  JAP-SIMP [台北.food] 欣葉小聚: area=大安区
+  JAP-SIMP [台北.food] 心潮飯店: area=大安区
+  JAP-SIMP [台北.food] 軟食力: area=大同区
+  JAP-SIMP [台北.food] 松竹園: area=中山区
+  JAP-SIMP [台北.food] 巷子龍家常菜: area=大安区
+  JAP-SIMP [台北.food] 天下三絕: area=大安区
+  JAP-SIMP [台北.food] 醉楓園小館: area=中山区
+  JAP-SIMP [台北.food] 小王煮瓜: area=萬華区
+  JAP-SIMP [台北.food] 小品雅廚: area=中山区
+  JAP-SIMP [台北.food] 一甲子餐飲: area=大同区
+  JAP-SIMP [台北.food] 源芳刈包: area=萬華区
+  JAP-SIMP [台北.food] HUGH dessert dining: area=大同区
+  JAP-SIMP [台北.food] 清真中國牛肉麵食館 (大安): area=大安区
+  JAP-SIMP [台北.food] 好公道金雞園: area=大安区
+  JAP-SIMP [台北.food] 施家鮮肉湯圓: area=大同区
+  JAP-SIMP [台北.food] 元味料理: area=大同区
+  JAP-SIMP [台北.food] 彭家園: area=大安区
+  JAP-SIMP [台北.food] 阿城鵝肉: area=中山区
+  JAP-SIMP [台北.food] 阿國切仔麵: area=大同区
+  JAP-SIMP [台北.food] 都一處: area=信義区
+  JAP-SIMP [台北.food] 女娘的店: area=士林区
+  JAP-SIMP [台北.food] 榮榮園: area=大安区
+  JAP-SIMP [台北.food] 泰姬: area=大安区
+  JAP-SIMP [台北.food] 昶鴻麵點: area=萬華区
+  JAP-SIMP [台北.food] 高麗菜飯 原汁排骨湯: area=大同区
+  JAP-SIMP [台北.food] 磐石坊: area=大安区
+  JAP-SIMP [台北.food] 阿國滷味: area=松山区
+  JAP-SIMP [台北.food] 鼎泰豐信義店: area=信義区
+  JAP-SIMP [台北.food] 渣男TaiwanBistro 木柵二渣: area=文山区
+
+... and 1583 more

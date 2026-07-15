@@ -1,0 +1,86 @@
+[
+  {
+    "city": "花蓮",
+    "index": 95,
+    "name": "肉出微笑涮涮鍋-花蓮店",
+    "rating": 4.8,
+    "reviews": 1131
+  },
+  {
+    "city": "花蓮",
+    "index": 104,
+    "name": "實季。Seedson café 花蓮店",
+    "rating": 4.8,
+    "reviews": 1258
+  },
+  {
+    "city": "花蓮",
+    "index": 222,
+    "name": "玉里金針山周邊山產",
+    "rating": 4.6,
+    "reviews": 1480
+  },
+  {
+    "city": "台東",
+    "index": 189,
+    "name": "小魚兒的家",
+    "rating": 4.6,
+    "reviews": 3226
+  },
+  {
+    "city": "台東",
+    "index": 272,
+    "name": "延平蝴蝶谷秘境",
+    "rating": 4.5,
+    "reviews": 1063
+  },
+  {
+    "city": "台東",
+    "index": 275,
+    "name": "雯雯芋頭冰＜沒賣飯＞",
+    "rating": 4.5,
+    "reviews": 1829
+  },
+  {
+    "city": "台東",
+    "index": 507,
+    "name": "明奎早餐店",
+    "rating": 4,
+    "reviews": 2890
+  },
+  {
+    "city": "雲林",
+    "index": 233,
+    "name": "烹小鮮麵館",
+    "rating": 4.6,
+    "reviews": 2676
+  },
+  {
+    "city": "雲林",
+    "index": 480,
+    "name": "明湖海產",
+    "rating": 4.3,
+    "reviews": 1191
+  },
+  {
+    "city": "雲林",
+    "index": 486,
+    "name": "北港李記鴨肉羹",
+    "rating": 4.3,
+    "reviews": 1845
+  },
+  {
+    "city": "澎湖",
+    "index": 150,
+    "name": "清峰海鮮",
+    "rating": 4.5,
+    "reviews": 1472
+  },
+  {
+    "city": "澎湖",
+    "index": 249,
+    "name": "澎湖-回家炸粿",
+    "rating": 4.1,
+    "reviews": 2477
+  }
+]

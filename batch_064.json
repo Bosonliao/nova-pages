@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台中",
+    "index": 560,
+    "name": "V Di JA 餐廳",
+    "rating": 4.6,
+    "reviews": 966,
+    "category": "西式",
+    "area": "南屯"
+  },
+  {
+    "city": "台東",
+    "index": 197,
+    "name": "好煎炸 𝗚𝗼𝗼𝗱𝗳𝗿𝘆𝗶𝗻𝗴 ✦",
+    "rating": 4.6,
+    "reviews": 964,
+    "category": "中式",
+    "area": "池上鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 258,
+    "name": "覓雪",
+    "rating": 4.6,
+    "reviews": 963,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 641,
+    "name": "魚路小棧精緻鍋物",
+    "rating": 4.6,
+    "reviews": 962,
+    "category": "火鍋",
+    "area": "金山"
+  },
+  {
+    "city": "苗栗",
+    "index": 159,
+    "name": "三義鄉村麵館",
+    "rating": 4.6,
+    "reviews": 962,
+    "category": "中式",
+    "area": "三義鄉"
+  },
+  {
+    "city": "台中",
+    "index": 546,
+    "name": "HAUSINC CAFE",
+    "rating": 4.6,
+    "reviews": 950,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 605,
+    "name": "烏婆傳統甜品店(休息日不固定，FB公告，若商品售完會提早打烊)",
+    "rating": 4.6,
+    "reviews": 945,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 111,
+    "name": "藍媽媽仙草光復總店",
+    "rating": 4.6,
+    "reviews": 944,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "新竹",
+    "index": 227,
+    "name": "常嚐料理廚房",
+    "rating": 4.6,
+    "reviews": 943,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 194,
+    "name": "隔壁宵夜 頭份店",
+    "rating": 4.6,
+    "reviews": 942,
+    "category": "中式",
+    "area": "頭份市"
+  },
+  {
+    "city": "金馬",
+    "index": 25,
+    "name": "金許園-山外創始店",
+    "rating": 4.6,
+    "reviews": 937,
+    "category": "中式",
+    "area": "金湖鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 351,
+    "name": "集英會牛肉麵-中央東店",
+    "rating": 4.6,
+    "reviews": 936,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 1,
+    "name": "食光1998 (實際公休日請以FB粉絲專頁公告為主)",
+    "rating": 4.6,
+    "reviews": 935,
+    "category": "中式",
+    "area": "宜蘭市"
+  },
+  {
+    "city": "花蓮",
+    "index": 228,
+    "name": "久藏味",
+    "rating": 4.6,
+    "reviews": 933,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 369,
+    "name": "古弟私廚",
+    "rating": 4.6,
+    "reviews": 932,
+    "category": "西式",
+    "area": "桃園"
+  },
+  {
+    "city": "台北",
+    "index": 355,
+    "name": "Buona Pasta 水源店",
+    "rating": 4.6,
+    "reviews": 929,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 476,
+    "name": "小洞天經典石頭火鍋(高雄鐵道園區店)",
+    "rating": 4.6,
+    "reviews": 928,
+    "category": "火鍋",
+    "area": "三民"
+  },
+  {
+    "city": "桃園",
+    "index": 442,
+    "name": "藝綺地中海私廚餐酒館",
+    "rating": 4.6,
+    "reviews": 927,
+    "category": "中式",
+    "area": "楊梅"
+  },
+  {
+    "city": "花蓮",
+    "index": 245,
+    "name": "花蓮冰舍雪花冰",
+    "rating": 4.6,
+    "reviews": 927,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 287,
+    "name": "關西大碗公麵",
+    "rating": 4.6,
+    "reviews": 924,
+    "category": "中式",
+    "area": "關西鎮"
+  },
+  {
+    "city": "台南",
+    "index": 528,
+    "name": "佳里阿彌專業臭豆腐",
+    "rating": 4.6,
+    "reviews": 923,
+    "category": "中式",
+    "area": "佳里"
+  },
+  {
+    "city": "金馬",
+    "index": 24,
+    "name": "金拌麵",
+    "rating": 4.6,
+    "reviews": 923,
+    "category": "中式",
+    "area": "金湖鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 333,
+    "name": "聞香牛肉麵",
+    "rating": 4.6,
+    "reviews": 922,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 582,
+    "name": "森甜秘境_STMJ cafe",
+    "rating": 4.6,
+    "reviews": 919,
+    "category": "咖啡廳",
+    "area": "玉井"
+  },
+  {
+    "city": "宜蘭",
+    "index": 2,
+    "name": "食至名龜 中華店",
+    "rating": 4.6,
+    "reviews": 909,
+    "category": "中式",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "台北",
+    "index": 353,
+    "name": "福哥石頭餅",
+    "rating": 4.6,
+    "reviews": 906,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 501,
+    "name": "福哥石頭餅",
+    "rating": 4.6,
+    "reviews": 906,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 416,
+    "name": "韓奶奶-韓式豆腐鍋物（八德代表店）韓式豆腐鍋 | 桃園八德美食 | 八德熱門外送餐飲 | 八德打卡美食 | 八德學生美食 | 韓國特色餐廳 | 平價美食",
+    "rating": 4.6,
+    "reviews": 906,
+    "category": "火鍋",
+    "area": "八德"
+  },
+  {
+    "city": "宜蘭",
+    "index": 289,
+    "name": "上福伯牛肉麵",
+    "rating": 4.6,
+    "reviews": 905,
+    "category": "中式",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "新北",
+    "index": 523,
+    "name": "木棧板餐廳",
+    "rating": 4.6,
+    "reviews": 903,
+    "category": "中式",
+    "area": "淡水"
+  },
+  {
+    "city": "高雄",
+    "index": 579,
+    "name": "早到晚到大寮店",
+    "rating": 4.6,
+    "reviews": 901,
+    "category": "中式",
+    "area": "大寮"
+  },
+  {
+    "city": "屏東",
+    "index": 309,
+    "name": "陳Q黑砂糖剉冰/新鮮芒果冰/雪花冰/豆花/嫩仙草/恆春店",
+    "rating": 4.6,
+    "reviews": 899,
+    "category": "中式",
+    "area": "恆春鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 171,
+    "name": "綠園日式涮涮鍋",
+    "rating": 4.6,
+    "reviews": 898,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 601,
+    "name": "Day In 早午餐咖啡廳",
+    "rating": 4.6,
+    "reviews": 897,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 477,
+    "name": "MEGOPUN Hamburger",
+    "rating": 4.6,
+    "reviews": 895,
+    "category": "西式",
+    "area": "善化"
+  },
+  {
+    "city": "高雄",
+    "index": 502,
+    "name": "日和珈琲 GoodVibe Coffee",
+    "rating": 4.6,
+    "reviews": 895,
+    "category": "咖啡廳",
+    "area": "左營"
+  },
+  {
+    "city": "屏東",
+    "index": 286,
+    "name": "庄仔內灶腳台泰私房美食坊",
+    "rating": 4.6,
+    "reviews": 895,
+    "category": "中式",
+    "area": "恆春鎮"
+  },
+  {
+    "city": "宜蘭",
+    "index": 305,
+    "name": "山喜和食",
+    "rating": 4.6,
+    "reviews": 887,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 614,
+    "name": "波波加洛(最後加點12:30與19:00前)",
+    "rating": 4.6,
+    "reviews": 886,
+    "category": "中式",
+    "area": "鹽埕"
+  },
+  {
+    "city": "高雄",
+    "index": 602,
+    "name": "歐仕達異國美食館最後點餐午餐：1400晚餐20:30",
+    "rating": 4.6,
+    "reviews": 885,
+    "category": "異國",
+    "area": "新興"
+  },
+  {
+    "city": "新北",
+    "index": 625,
+    "name": "楢餖園和食處",
+    "rating": 4.6,
+    "reviews": 873,
+    "category": "中式",
+    "area": "三重"
+  },
+  {
+    "city": "台北",
+    "index": 347,
+    "name": "麻麵控 通化店",
+    "rating": 4.6,
+    "reviews": 872,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "新北",
+    "index": 563,
+    "name": "鬧天Lu加熱滷味 新泰店",
+    "rating": 4.6,
+    "reviews": 870,
+    "category": "中式",
+    "area": "新莊"
+  },
+  {
+    "city": "新北",
+    "index": 611,
+    "name": "Oval meat 美式餐廳（提供Linepay服務 , 不支援ipassmoney）",
+    "rating": 4.6,
+    "reviews": 870,
+    "category": "西式",
+    "area": "泰山"
+  },
+  {
+    "city": "台北",
+    "index": 1261,
+    "name": "姥義麵 La pasta di nonna 義大利小館",
+    "rating": 4.6,
+    "reviews": 869,
+    "category": "西式",
+    "area": "大安"
+  },
+  {
+    "city": "屏東",
+    "index": 311,
+    "name": "有肉食舖-炭火燒肉",
+    "rating": 4.6,
+    "reviews": 868,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 294,
+    "name": "宜蘭口福 小籠湯包 宜蘭在地美食",
+    "rating": 4.6,
+    "reviews": 866,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 358,
+    "name": "冬山小風箏雪花冰",
+    "rating": 4.6,
+    "reviews": 858,
+    "category": "中式",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 321,
+    "name": "農食憶料理坊",
+    "rating": 4.6,
+    "reviews": 858,
+    "category": "中式",
+    "area": "彰化市"
+  },
+  {
+    "city": "彰化",
+    "index": 328,
+    "name": "阿瞞樓",
+    "rating": 4.6,
+    "reviews": 858,
+    "category": "中式",
+    "area": "溪湖鎮"
+  }
+]

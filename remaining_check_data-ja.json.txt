@@ -1,0 +1,8 @@
+File: data-ja.json
+Total unique areas: 608
+Remaining with 區 (should be only keep set): 0
+
+Kept (in keep set):
+  東區: 7
+
+Still ending with 區 but not in keep:

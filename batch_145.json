@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新北",
+    "index": 987,
+    "name": "一起吃 ！eat together",
+    "rating": 4.3,
+    "reviews": 836,
+    "category": "中式",
+    "area": "永和"
+  },
+  {
+    "city": "基隆",
+    "index": 253,
+    "name": "薰衣草簡餐-基隆長庚總店",
+    "rating": 4.3,
+    "reviews": 835,
+    "category": "中式",
+    "area": "安樂"
+  },
+  {
+    "city": "花蓮",
+    "index": 439,
+    "name": "餓勢力精緻麵食",
+    "rating": 4.3,
+    "reviews": 830,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 468,
+    "name": "藍天麗池飯店-綠波廊蔬食餐廳",
+    "rating": 4.3,
+    "reviews": 830,
+    "category": "素食",
+    "area": "萬榮鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 611,
+    "name": "達娜伊谷山之美餐廳(原住民風味餐)",
+    "rating": 4.3,
+    "reviews": 829,
+    "category": "中式",
+    "area": "阿里山鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1128,
+    "name": "鴻一小館",
+    "rating": 4.3,
+    "reviews": 828,
+    "category": "中式",
+    "area": "新店"
+  },
+  {
+    "city": "桃園",
+    "index": 690,
+    "name": "麵屋ZURU / 麵や ズル",
+    "rating": 4.3,
+    "reviews": 828,
+    "category": "中式",
+    "area": "龜山"
+  },
+  {
+    "city": "台南",
+    "index": 1098,
+    "name": "五十一番日式居食屋",
+    "rating": 4.3,
+    "reviews": 826,
+    "category": "日式",
+    "area": "安南"
+  },
+  {
+    "city": "新竹",
+    "index": 497,
+    "name": "尋路Cafe《全日供餐》",
+    "rating": 4.3,
+    "reviews": 825,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 1021,
+    "name": "大一經濟美食便當",
+    "rating": 4.3,
+    "reviews": 825,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1147,
+    "name": "汐止天然茶莊",
+    "rating": 4.3,
+    "reviews": 822,
+    "category": "中式",
+    "area": "汐止"
+  },
+  {
+    "city": "台南",
+    "index": 1100,
+    "name": "鹽水豆簽羹（傳統古早味美食～售完即打烊）",
+    "rating": 4.3,
+    "reviews": 816,
+    "category": "中式",
+    "area": "鹽水"
+  },
+  {
+    "city": "台南",
+    "index": 1090,
+    "name": "KALUWA泰式音樂餐廳",
+    "rating": 4.3,
+    "reviews": 815,
+    "category": "異國",
+    "area": "新市"
+  },
+  {
+    "city": "高雄",
+    "index": 1109,
+    "name": "酥香居北方麵食館-武廟總店",
+    "rating": 4.3,
+    "reviews": 815,
+    "category": "中式",
+    "area": "苓雅"
+  },
+  {
+    "city": "新北",
+    "index": 1016,
+    "name": "築樂複合式餐廳",
+    "rating": 4.3,
+    "reviews": 809,
+    "category": "中式",
+    "area": "林口"
+  },
+  {
+    "city": "新北",
+    "index": 1110,
+    "name": "蔬漫蔬食料理",
+    "rating": 4.3,
+    "reviews": 808,
+    "category": "素食",
+    "area": "淡水"
+  },
+  {
+    "city": "台中",
+    "index": 1046,
+    "name": "其森牛肉湯逢甲店",
+    "rating": 4.3,
+    "reviews": 808,
+    "category": "中式",
+    "area": "西屯"
+  },
+  {
+    "city": "新北",
+    "index": 1041,
+    "name": "松村壽司日本料理",
+    "rating": 4.3,
+    "reviews": 805,
+    "category": "日式",
+    "area": "新莊"
+  },
+  {
+    "city": "台北",
+    "index": 1032,
+    "name": "阿基師觀海茶樓",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1040,
+    "name": "黑武士麻辣火鍋",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1052,
+    "name": "夜上海",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1055,
+    "name": "真的好海鮮",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 1060,
+    "name": "茂川肉丸",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1067,
+    "name": "極野宴",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1072,
+    "name": "黃記粄條",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1086,
+    "name": "頂鮮台北101",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 1092,
+    "name": "欣欣海鮮餐廳",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1102,
+    "name": "越南祥記牛肉粉",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1125,
+    "name": "蘇杭 (濟南路)",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 1137,
+    "name": "味衛佳",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1138,
+    "name": "新埔粄條大王",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1147,
+    "name": "曉鹿鳴樓",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1155,
+    "name": "油庫口麵線",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1159,
+    "name": "小豪洲沙茶爐",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1181,
+    "name": "高記雙管四神湯",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1183,
+    "name": "中原街腰子冬粉",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1184,
+    "name": "小野食堂",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1188,
+    "name": "雞肉本家",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1192,
+    "name": "多麼咖啡",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1218,
+    "name": "山內雞肉",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1240,
+    "name": "牛店",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1243,
+    "name": "濟南鮮湯包",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "新北",
+    "index": 1065,
+    "name": "益昌豆漿",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "三重"
+  },
+  {
+    "city": "台東",
+    "index": 390,
+    "name": "長濱100號餐廳",
+    "rating": 4.3,
+    "reviews": 800,
+    "category": "中式",
+    "area": "長濱鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 579,
+    "name": "川流不息饌堂",
+    "rating": 4.3,
+    "reviews": 799,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "新竹",
+    "index": 553,
+    "name": "井町日式蔬食",
+    "rating": 4.3,
+    "reviews": 798,
+    "category": "素食",
+    "area": "竹北市"
+  },
+  {
+    "city": "台南",
+    "index": 1024,
+    "name": "春蚵嗲",
+    "rating": 4.3,
+    "reviews": 797,
+    "category": "中式",
+    "area": "中西"
+  },
+  {
+    "city": "台北",
+    "index": 701,
+    "name": "胡饕米粉湯（台北興安店）台北美食 台北小吃 台北米粉湯 中山區美食 中山區小吃 南京復興美食 台北宵夜",
+    "rating": 4.3,
+    "reviews": 796,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "新竹",
+    "index": 533,
+    "name": "老復興飲食店",
+    "rating": 4.3,
+    "reviews": 795,
+    "category": "中式",
+    "area": "寶山鄉"
+  },
+  {
+    "city": "台中",
+    "index": 1139,
+    "name": "感恩現炒素食",
+    "rating": 4.3,
+    "reviews": 795,
+    "category": "素食",
+    "area": "太平"
+  }
+]

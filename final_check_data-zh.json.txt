@@ -1,0 +1,15 @@
+File: data-zh.json
+Issues found: 12
+
+  DUP [基隆.souvenirs] 李鵠餅店 (idx 353 & 0)
+  DUP [苗栗.souvenirs] 垂坤食品 苑裡總店 (idx 403 & 8)
+  DUP [台中.souvenirs] 宮原眼科 (idx 15 & 1)
+  DUP [南投.souvenirs] 埔里酒廠 (idx 15 & 1)
+  DUP [彰化.souvenirs] 溪湖羊肉爐 (idx 869 & 5)
+  DUP [嘉義.souvenirs] 阿里山高山茶 (idx 5 & 3)
+  DUP [嘉義.souvenirs] 林聰明沙鍋魚頭 (idx 2 & 6)
+  DUP [高雄.spots] 旗山老街 (idx 685 & 44)
+  DUP [屏東.souvenirs] 萬巒豬腳 (idx 2 & 1)
+  DUP [屏東.souvenirs] 東港雙糕潤 (idx 758 & 3)
+  DUP [台東.souvenirs] 池上便當 (idx 486 & 1)
+  DUP [金馬.souvenirs] 金門貢糖 (idx 18 & 0)

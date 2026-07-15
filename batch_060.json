@@ -1,0 +1,452 @@
+[
+  {
+    "city": "桃園",
+    "index": 256,
+    "name": "婆婆餡餅",
+    "rating": 4.7,
+    "reviews": 100,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 416,
+    "name": "阿蕙素食館",
+    "rating": 4.7,
+    "reviews": 100,
+    "category": "素食",
+    "area": "鳥松"
+  },
+  {
+    "city": "桃園",
+    "index": 324,
+    "name": "新坡晨食館(素食)",
+    "rating": 4.7,
+    "reviews": 99,
+    "category": "素食",
+    "area": "觀音"
+  },
+  {
+    "city": "嘉義",
+    "index": 220,
+    "name": "素味珍素食館",
+    "rating": 4.7,
+    "reviews": 99,
+    "category": "素食",
+    "area": "民雄鄉"
+  },
+  {
+    "city": "台南",
+    "index": 433,
+    "name": "南無阿彌陀佛(蔬)素食館",
+    "rating": 4.7,
+    "reviews": 97,
+    "category": "素食",
+    "area": "安南"
+  },
+  {
+    "city": "台南",
+    "index": 416,
+    "name": "G•BURGER 佳里店 蔬食早午餐",
+    "rating": 4.7,
+    "reviews": 95,
+    "category": "素食",
+    "area": "佳里"
+  },
+  {
+    "city": "新北",
+    "index": 410,
+    "name": "春美養生素食",
+    "rating": 4.7,
+    "reviews": 94,
+    "category": "素食",
+    "area": "新店"
+  },
+  {
+    "city": "高雄",
+    "index": 399,
+    "name": "開興素食",
+    "rating": 4.7,
+    "reviews": 94,
+    "category": "素食",
+    "area": "左營"
+  },
+  {
+    "city": "台中",
+    "index": 401,
+    "name": "蔬心蔬食·素食/鍋燒麵/飯捲/炸物(最後內用13:00/19:00)",
+    "rating": 4.7,
+    "reviews": 93,
+    "category": "素食",
+    "area": "清水"
+  },
+  {
+    "city": "台中",
+    "index": 516,
+    "name": "二媽素食麵",
+    "rating": 4.7,
+    "reviews": 93,
+    "category": "素食",
+    "area": "大雅"
+  },
+  {
+    "city": "新北",
+    "index": 435,
+    "name": "揭諦蔬食",
+    "rating": 4.7,
+    "reviews": 92,
+    "category": "素食",
+    "area": "三重"
+  },
+  {
+    "city": "台中",
+    "index": 493,
+    "name": "向陽蔬食飲料Bar",
+    "rating": 4.7,
+    "reviews": 92,
+    "category": "素食",
+    "area": "豐原"
+  },
+  {
+    "city": "台北",
+    "index": 197,
+    "name": "Gaia Flow 全植料理 | 純素 | 無麩質 | 有機 | 自然 | 友善農法 | Vegan Restaurant | Gluten Free",
+    "rating": 4.7,
+    "reviews": 91,
+    "category": "素食",
+    "area": "中正"
+  },
+  {
+    "city": "新北",
+    "index": 408,
+    "name": "意靜素食小吃（見紅休息）",
+    "rating": 4.7,
+    "reviews": 91,
+    "category": "素食",
+    "area": "萬里"
+  },
+  {
+    "city": "台南",
+    "index": 430,
+    "name": "好食齋素食 （6/25至7/6店休）",
+    "rating": 4.7,
+    "reviews": 91,
+    "category": "素食",
+    "area": "永康"
+  },
+  {
+    "city": "彰化",
+    "index": 269,
+    "name": "阿嬤素食店",
+    "rating": 4.7,
+    "reviews": 89,
+    "category": "素食",
+    "area": "伸港鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 201,
+    "name": "古月素食小吃部",
+    "rating": 4.7,
+    "reviews": 89,
+    "category": "素食",
+    "area": "斗南鎮"
+  },
+  {
+    "city": "新北",
+    "index": 336,
+    "name": "百里香素食 Thyme Vegetarian Kitchen",
+    "rating": 4.7,
+    "reviews": 88,
+    "category": "素食",
+    "area": "八里"
+  },
+  {
+    "city": "台南",
+    "index": 429,
+    "name": "轉念蔬食料理",
+    "rating": 4.7,
+    "reviews": 88,
+    "category": "素食",
+    "area": "北區"
+  },
+  {
+    "city": "台中",
+    "index": 1478,
+    "name": "琉宮咖啡",
+    "rating": 4.7,
+    "reviews": 87,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "雲林",
+    "index": 198,
+    "name": "蓮錡日式素食料理",
+    "rating": 4.7,
+    "reviews": 87,
+    "category": "素食",
+    "area": "斗六市"
+  },
+  {
+    "city": "台中",
+    "index": 512,
+    "name": "光慧蔬食早午餐",
+    "rating": 4.7,
+    "reviews": 86,
+    "category": "素食",
+    "area": "太平"
+  },
+  {
+    "city": "澎湖",
+    "index": 85,
+    "name": "愛家天堂島純素民宿",
+    "rating": 4.7,
+    "reviews": 86,
+    "category": "素食",
+    "area": "湖西鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 434,
+    "name": "Shizen Inu Vegan Cafe",
+    "rating": 4.7,
+    "reviews": 85,
+    "category": "咖啡廳",
+    "area": "那瑪夏"
+  },
+  {
+    "city": "花蓮",
+    "index": 208,
+    "name": "素食義賣",
+    "rating": 4.7,
+    "reviews": 85,
+    "category": "素食",
+    "area": "秀林鄉"
+  },
+  {
+    "city": "新北",
+    "index": 416,
+    "name": "潮素滷 蔬食滷味",
+    "rating": 4.7,
+    "reviews": 82,
+    "category": "素食",
+    "area": "三峽"
+  },
+  {
+    "city": "彰化",
+    "index": 279,
+    "name": "楊 素食麵 （售完為止或13:00）",
+    "rating": 4.7,
+    "reviews": 82,
+    "category": "素食",
+    "area": "花壇鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 209,
+    "name": "二崙順正素食（暫無提供內用）",
+    "rating": 4.7,
+    "reviews": 81,
+    "category": "素食",
+    "area": "二崙鄉"
+  },
+  {
+    "city": "台南",
+    "index": 410,
+    "name": "老街素食（新化老街/素食餐廳）",
+    "rating": 4.7,
+    "reviews": 81,
+    "category": "素食",
+    "area": "新化"
+  },
+  {
+    "city": "高雄",
+    "index": 408,
+    "name": "每日蔬食咖啡",
+    "rating": 4.7,
+    "reviews": 81,
+    "category": "咖啡廳",
+    "area": "前鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 106,
+    "name": "百年小食 -全素／純素（素食水煎包，素食餡餅，素食炒麵，素食海苔飯捲）Vegetarian Vegan",
+    "rating": 4.7,
+    "reviews": 80,
+    "category": "素食",
+    "area": "竹南鎮"
+  },
+  {
+    "city": "台中",
+    "index": 498,
+    "name": "雅徠屋素食麵包坊",
+    "rating": 4.7,
+    "reviews": 80,
+    "category": "烘焙",
+    "area": "大雅"
+  },
+  {
+    "city": "苗栗",
+    "index": 137,
+    "name": "晶芯蔬食（盡量預約為主）",
+    "rating": 4.7,
+    "reviews": 78,
+    "category": "素食",
+    "area": "三灣鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 418,
+    "name": "春發蔬食堂",
+    "rating": 4.7,
+    "reviews": 77,
+    "category": "素食",
+    "area": "岡山"
+  },
+  {
+    "city": "台南",
+    "index": 349,
+    "name": "【力康天然食品屋】養生外帶蔬食餐盒小菜/無添加食品/有機綠拿鐵精力湯/小農蔬果/維健寶蔬菜粉",
+    "rating": 4.7,
+    "reviews": 76,
+    "category": "素食",
+    "area": "安南"
+  },
+  {
+    "city": "高雄",
+    "index": 400,
+    "name": "好粥對麵素食廣東粥 旗楠店",
+    "rating": 4.7,
+    "reviews": 76,
+    "category": "素食",
+    "area": "楠梓"
+  },
+  {
+    "city": "新北",
+    "index": 429,
+    "name": "藏蔬閣 蔬食滷味",
+    "rating": 4.7,
+    "reviews": 75,
+    "category": "素食",
+    "area": "泰山"
+  },
+  {
+    "city": "高雄",
+    "index": 403,
+    "name": "陳記素食飯麵館",
+    "rating": 4.7,
+    "reviews": 75,
+    "category": "素食",
+    "area": "三民"
+  },
+  {
+    "city": "高雄",
+    "index": 426,
+    "name": "河原蔬食（日式蔬食｜素食餐廳，6/19～6/21端午連假 正常營業）",
+    "rating": 4.7,
+    "reviews": 75,
+    "category": "素食",
+    "area": "三民"
+  },
+  {
+    "city": "台中",
+    "index": 399,
+    "name": "滴咖濃干城轉運店 Dicalong Vegetarian Cafe❤️—外帶🥡｜咖啡☕️｜蔬食🌱｜素食🌳｜早午餐🥪｜Takeaway ｜Coffee｜Brunch",
+    "rating": 4.7,
+    "reviews": 74,
+    "category": "咖啡廳",
+    "area": "中區"
+  },
+  {
+    "city": "澎湖",
+    "index": 83,
+    "name": "春天素食",
+    "rating": 4.7,
+    "reviews": 74,
+    "category": "素食",
+    "area": "馬公市"
+  },
+  {
+    "city": "苗栗",
+    "index": 139,
+    "name": "天慈素食苑裡店",
+    "rating": 4.7,
+    "reviews": 72,
+    "category": "素食",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "台中",
+    "index": 500,
+    "name": "禾益蔬食-沙鹿蔬食料理|蔬食餐廳|素食美食|健康蔬食|特色蔬食|蔬食拌麵",
+    "rating": 4.7,
+    "reviews": 72,
+    "category": "素食",
+    "area": "沙鹿"
+  },
+  {
+    "city": "苗栗",
+    "index": 103,
+    "name": "哥文達手作瑜伽蔬食＿奶素/全素/行動餐車/線上預購/蔬食/甜點/麵包/餅乾/禮盒",
+    "rating": 4.7,
+    "reviews": 71,
+    "category": "烘焙",
+    "area": "造橋鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 413,
+    "name": "觀泉素食店",
+    "rating": 4.7,
+    "reviews": 71,
+    "category": "素食",
+    "area": "鳳山"
+  },
+  {
+    "city": "新北",
+    "index": 1514,
+    "name": "Amoroso阿莫羅索咖啡",
+    "rating": 4.7,
+    "reviews": 70,
+    "category": "咖啡廳",
+    "area": "三峽"
+  },
+  {
+    "city": "彰化",
+    "index": 280,
+    "name": "青蔬寶蔬食滷味",
+    "rating": 4.7,
+    "reviews": 70,
+    "category": "素食",
+    "area": "溪湖鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 336,
+    "name": "愛灑人間複合式素食館",
+    "rating": 4.7,
+    "reviews": 69,
+    "category": "素食",
+    "area": "八德"
+  },
+  {
+    "city": "新北",
+    "index": 411,
+    "name": "妙露素食坊",
+    "rating": 4.7,
+    "reviews": 68,
+    "category": "素食",
+    "area": "新店"
+  },
+  {
+    "city": "苗栗",
+    "index": 107,
+    "name": "好蔬糊 素食麵線羹/綠豆冰沙 （下方加Line線上點餐）",
+    "rating": 4.7,
+    "reviews": 68,
+    "category": "素食",
+    "area": "竹南鎮"
+  }
+]

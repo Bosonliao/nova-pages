@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台東",
+    "index": 166,
+    "name": "蘭嶼海鮮料理",
+    "rating": 4.6,
+    "reviews": 638,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 568,
+    "name": "老街頭炭燒豆腐霜淇淋",
+    "rating": 4.6,
+    "reviews": 637,
+    "category": "中式",
+    "area": "深坑"
+  },
+  {
+    "city": "新竹",
+    "index": 221,
+    "name": "PEACEVEGAN 痞食維根漢堡便利店(週三公休)",
+    "rating": 4.6,
+    "reviews": 636,
+    "category": "素食",
+    "area": "竹北市"
+  },
+  {
+    "city": "新北",
+    "index": 610,
+    "name": "人从众厚切牛排(五股成泰店)",
+    "rating": 4.6,
+    "reviews": 634,
+    "category": "西式",
+    "area": "五股"
+  },
+  {
+    "city": "台南",
+    "index": 501,
+    "name": "呼嚕咖啡館（店休請看IG）（請遵守館內規定）",
+    "rating": 4.6,
+    "reviews": 634,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 479,
+    "name": "旗津番薯椪",
+    "rating": 4.6,
+    "reviews": 632,
+    "category": "咖啡廳",
+    "area": "旗津"
+  },
+  {
+    "city": "台中",
+    "index": 604,
+    "name": "舊情綿綿冰 (手工綿綿冰| 芒果冰 | 鮮果冰 | 冰淇淋蛋糕)",
+    "rating": 4.6,
+    "reviews": 631,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 149,
+    "name": "壞鄰居工作室 Bad Neighbor’s Kitchen（寵物友善 頭份餐廳 竹南餐廳 台灣餐廳 苗栗必吃 美食 漢堡 披薩 義大利麵 早午餐 燒烤 burger pizza pasta ）",
+    "rating": 4.6,
+    "reviews": 630,
+    "category": "咖啡廳",
+    "area": "頭份市"
+  },
+  {
+    "city": "屏東",
+    "index": 293,
+    "name": "联亭泡菜鍋-屏東超ㄕㄚ店",
+    "rating": 4.6,
+    "reviews": 630,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 271,
+    "name": "山風一號吊橋",
+    "rating": 4.6,
+    "reviews": 630,
+    "category": "中式",
+    "area": "卓溪鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 432,
+    "name": "越式素食 歡喜吃素",
+    "rating": 4.6,
+    "reviews": 629,
+    "category": "素食",
+    "area": "桃園"
+  },
+  {
+    "city": "宜蘭",
+    "index": 336,
+    "name": "11號芋圓",
+    "rating": 4.6,
+    "reviews": 626,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 357,
+    "name": "將軍煎烤牛排",
+    "rating": 4.6,
+    "reviews": 625,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 257,
+    "name": "木之村小吃部 臭豆腐",
+    "rating": 4.6,
+    "reviews": 625,
+    "category": "中式",
+    "area": "水里鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 247,
+    "name": "Archers Kitchen 弓箭手",
+    "rating": 4.6,
+    "reviews": 625,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "嘉義",
+    "index": 254,
+    "name": "樂閣",
+    "rating": 4.6,
+    "reviews": 625,
+    "category": "異國",
+    "area": "東區"
+  },
+  {
+    "city": "宜蘭",
+    "index": 371,
+    "name": "美公子湯包 (禁止外食 飲料 寵物)(假日下午三點後不開放內用)",
+    "rating": 4.6,
+    "reviews": 624,
+    "category": "中式",
+    "area": "員山鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 242,
+    "name": "三采田美味廚坊/嘉義美食 嘉義餐廳 嘉義小吃 嘉義火鍋 東區美食 嘉義火車站美食",
+    "rating": 4.6,
+    "reviews": 624,
+    "category": "火鍋",
+    "area": "東區"
+  },
+  {
+    "city": "台南",
+    "index": 515,
+    "name": "知火熟成燒肉 Joyful yakiniku",
+    "rating": 4.6,
+    "reviews": 624,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 313,
+    "name": "午鯖",
+    "rating": 4.6,
+    "reviews": 623,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 344,
+    "name": "家鄉水餃",
+    "rating": 4.6,
+    "reviews": 623,
+    "category": "中式",
+    "area": "萬巒鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 299,
+    "name": "春若精品咖啡",
+    "rating": 4.6,
+    "reviews": 622,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 235,
+    "name": "安娜咖啡",
+    "rating": 4.6,
+    "reviews": 621,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 236,
+    "name": "虎尾-木子",
+    "rating": 4.6,
+    "reviews": 619,
+    "category": "中式",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 308,
+    "name": "八玥文創",
+    "rating": 4.6,
+    "reviews": 619,
+    "category": "中式",
+    "area": "梅山鄉"
+  },
+  {
+    "city": "新北",
+    "index": 528,
+    "name": "微間素生 MI-KAN STUDIO",
+    "rating": 4.6,
+    "reviews": 618,
+    "category": "素食",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 568,
+    "name": "小日子和風食堂",
+    "rating": 4.6,
+    "reviews": 618,
+    "category": "中式",
+    "area": "大里"
+  },
+  {
+    "city": "彰化",
+    "index": 322,
+    "name": "Noki 洋和食",
+    "rating": 4.6,
+    "reviews": 617,
+    "category": "日式",
+    "area": "彰化市"
+  },
+  {
+    "city": "新北",
+    "index": 554,
+    "name": "興樓古早排骨飯",
+    "rating": 4.6,
+    "reviews": 616,
+    "category": "中式",
+    "area": "新店"
+  },
+  {
+    "city": "嘉義",
+    "index": 311,
+    "name": "築路 JULU",
+    "rating": 4.6,
+    "reviews": 615,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 497,
+    "name": "慵懶貓早午餐/下午茶/輕食/生菜沙拉/咖啡/飲品/鬆餅/板橋美食/府中美食",
+    "rating": 4.6,
+    "reviews": 614,
+    "category": "咖啡廳",
+    "area": "板橋"
+  },
+  {
+    "city": "苗栗",
+    "index": 177,
+    "name": "老家生活藝文空間（預約制）｜手作線香。慢活教育。",
+    "rating": 4.6,
+    "reviews": 614,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 527,
+    "name": "好日。comfort food",
+    "rating": 4.6,
+    "reviews": 614,
+    "category": "中式",
+    "area": "佳里"
+  },
+  {
+    "city": "台北",
+    "index": 373,
+    "name": "Felice饗樂 Pasta&Dessert &鍋物",
+    "rating": 4.6,
+    "reviews": 613,
+    "category": "義式",
+    "area": "中山"
+  },
+  {
+    "city": "台東",
+    "index": 203,
+    "name": "嘎努食堂 原住民熱炒風味餐廳",
+    "rating": 4.6,
+    "reviews": 613,
+    "category": "中式",
+    "area": "太麻里鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 366,
+    "name": "食席生/古早味早午餐",
+    "rating": 4.6,
+    "reviews": 611,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "宜蘭",
+    "index": 367,
+    "name": "露露咖啡（早午餐／客製蛋糕/手沖咖啡/電話訂位／可包場／場地租借／寵物友善）",
+    "rating": 4.6,
+    "reviews": 610,
+    "category": "咖啡廳",
+    "area": "三星鄉"
+  },
+  {
+    "city": "台中",
+    "index": 699,
+    "name": "八廚職人弁当 后里甲后店",
+    "rating": 4.6,
+    "reviews": 609,
+    "category": "中式",
+    "area": "后里"
+  },
+  {
+    "city": "彰化",
+    "index": 365,
+    "name": "旮旯楍卅",
+    "rating": 4.6,
+    "reviews": 609,
+    "category": "中式",
+    "area": "鹿港鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 369,
+    "name": "老漾享食x 貳黑鍋炸蛋小火鍋(員林總店)",
+    "rating": 4.6,
+    "reviews": 609,
+    "category": "火鍋",
+    "area": "員林市"
+  },
+  {
+    "city": "台北",
+    "index": 372,
+    "name": "嘉廚 Collective Excellent restaurant",
+    "rating": 4.6,
+    "reviews": 608,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "南投",
+    "index": 222,
+    "name": "肉多多火鍋-草屯太平店",
+    "rating": 4.6,
+    "reviews": 608,
+    "category": "火鍋",
+    "area": "草屯鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 234,
+    "name": "小馬客",
+    "rating": 4.6,
+    "reviews": 607,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新竹",
+    "index": 228,
+    "name": "核桃蝸牛La maison de Mason",
+    "rating": 4.6,
+    "reviews": 605,
+    "category": "中式",
+    "area": "竹北市"
+  },
+  {
+    "city": "新竹",
+    "index": 253,
+    "name": "鯤壽司（預約制無菜單料理）-竹北人氣壽司|人氣日式|熱門日料|必吃日料|精緻日料|道地日料推薦|日式無菜單|無菜單料理|板前割烹",
+    "rating": 4.6,
+    "reviews": 605,
+    "category": "日式",
+    "area": "竹北市"
+  },
+  {
+    "city": "新北",
+    "index": 517,
+    "name": "洛琳莊園歐式料理餐廳",
+    "rating": 4.6,
+    "reviews": 604,
+    "category": "西式",
+    "area": "林口"
+  },
+  {
+    "city": "新北",
+    "index": 620,
+    "name": "嵐天咖啡館 ARASHI SKY COFFEE",
+    "rating": 4.6,
+    "reviews": 604,
+    "category": "咖啡廳",
+    "area": "八里"
+  },
+  {
+    "city": "新竹",
+    "index": 236,
+    "name": "樂客Rock’s Cooking｜",
+    "rating": 4.6,
+    "reviews": 604,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 584,
+    "name": "謙益豐蔬食",
+    "rating": 4.6,
+    "reviews": 603,
+    "category": "素食",
+    "area": "中和"
+  },
+  {
+    "city": "屏東",
+    "index": 267,
+    "name": "好麵道牛肉麵（原莊敬街極品回香）",
+    "rating": 4.6,
+    "reviews": 603,
+    "category": "中式",
+    "area": ""
+  }
+]

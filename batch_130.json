@@ -1,0 +1,452 @@
+[
+  {
+    "city": "高雄",
+    "index": 868,
+    "name": "美濃傅家客家美食",
+    "rating": 4.4,
+    "reviews": 345,
+    "category": "中式",
+    "area": "美濃"
+  },
+  {
+    "city": "高雄",
+    "index": 933,
+    "name": "海派平價活海產",
+    "rating": 4.4,
+    "reviews": 345,
+    "category": "中式",
+    "area": "旗津"
+  },
+  {
+    "city": "桃園",
+    "index": 654,
+    "name": "飲居 Behide Private",
+    "rating": 4.4,
+    "reviews": 344,
+    "category": "中式",
+    "area": "大園"
+  },
+  {
+    "city": "南投",
+    "index": 384,
+    "name": "竹山蚵嗲",
+    "rating": 4.4,
+    "reviews": 344,
+    "category": "中式",
+    "area": "竹山鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 940,
+    "name": "瀬戸ないかい日式料理店",
+    "rating": 4.4,
+    "reviews": 344,
+    "category": "日式",
+    "area": "燕巢"
+  },
+  {
+    "city": "澎湖",
+    "index": 164,
+    "name": "麒麟麵店",
+    "rating": 4.4,
+    "reviews": 344,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "新竹",
+    "index": 430,
+    "name": "Grill#9。固定公休三四 請參考FB",
+    "rating": 4.4,
+    "reviews": 343,
+    "category": "西式",
+    "area": "東區"
+  },
+  {
+    "city": "苗栗",
+    "index": 347,
+    "name": "頭家莊小吃館",
+    "rating": 4.4,
+    "reviews": 343,
+    "category": "中式",
+    "area": "銅鑼鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 330,
+    "name": "公館VEGAN素食麻辣臭豆腐-No.54號攤",
+    "rating": 4.4,
+    "reviews": 341,
+    "category": "素食",
+    "area": "公館鄉"
+  },
+  {
+    "city": "台南",
+    "index": 818,
+    "name": "後壁和興冰菓部",
+    "rating": 4.4,
+    "reviews": 341,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 880,
+    "name": "和興冰菓部",
+    "rating": 4.4,
+    "reviews": 341,
+    "category": "甜品",
+    "area": "後壁"
+  },
+  {
+    "city": "桃園",
+    "index": 627,
+    "name": "初早早午餐（無固定公休）",
+    "rating": 4.4,
+    "reviews": 340,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "桃園",
+    "index": 563,
+    "name": "林阿嬤香酥水煎包八德店",
+    "rating": 4.4,
+    "reviews": 339,
+    "category": "中式",
+    "area": "八德"
+  },
+  {
+    "city": "彰化",
+    "index": 587,
+    "name": "阿婆麻糬舖",
+    "rating": 4.4,
+    "reviews": 339,
+    "category": "中式",
+    "area": "鹿港鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 944,
+    "name": "鄭記牛雜湯",
+    "rating": 4.4,
+    "reviews": 339,
+    "category": "中式",
+    "area": "鳥松"
+  },
+  {
+    "city": "高雄",
+    "index": 945,
+    "name": "時光·鍋燒 丼飯 咖喱鳳山海洋店",
+    "rating": 4.4,
+    "reviews": 338,
+    "category": "中式",
+    "area": "鳳山"
+  },
+  {
+    "city": "台東",
+    "index": 322,
+    "name": "Miss Energy 能量小姐 新北比漾 直營門市 低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|減脂餐|低卡美食",
+    "rating": 4.4,
+    "reviews": 338,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 848,
+    "name": "金展雞肉飯",
+    "rating": 4.4,
+    "reviews": 337,
+    "category": "中式",
+    "area": "永和"
+  },
+  {
+    "city": "彰化",
+    "index": 625,
+    "name": "珍緣素食",
+    "rating": 4.4,
+    "reviews": 337,
+    "category": "素食",
+    "area": "溪湖鎮"
+  },
+  {
+    "city": "台南",
+    "index": 945,
+    "name": "胡椒黃",
+    "rating": 4.4,
+    "reviews": 336,
+    "category": "中式",
+    "area": "新市"
+  },
+  {
+    "city": "高雄",
+    "index": 929,
+    "name": "樽禾食府",
+    "rating": 4.4,
+    "reviews": 336,
+    "category": "中式",
+    "area": "左營"
+  },
+  {
+    "city": "新北",
+    "index": 921,
+    "name": "素珍蔬食館",
+    "rating": 4.4,
+    "reviews": 335,
+    "category": "素食",
+    "area": "中和"
+  },
+  {
+    "city": "高雄",
+    "index": 779,
+    "name": "滿香屋牛肉麵",
+    "rating": 4.4,
+    "reviews": 335,
+    "category": "中式",
+    "area": "前金"
+  },
+  {
+    "city": "台東",
+    "index": 307,
+    "name": "AU CAFÉ-鷗咖啡台東店",
+    "rating": 4.4,
+    "reviews": 335,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 939,
+    "name": "太一鱔魚意麵端午節休息一天",
+    "rating": 4.4,
+    "reviews": 333,
+    "category": "中式",
+    "area": "湖內"
+  },
+  {
+    "city": "新北",
+    "index": 967,
+    "name": "越食堂-中和區越南美食",
+    "rating": 4.4,
+    "reviews": 332,
+    "category": "異國",
+    "area": "中和"
+  },
+  {
+    "city": "台南",
+    "index": 936,
+    "name": "阪泉麵食館",
+    "rating": 4.4,
+    "reviews": 332,
+    "category": "中式",
+    "area": "佳里"
+  },
+  {
+    "city": "台東",
+    "index": 311,
+    "name": "天之御草食 台東平等店",
+    "rating": 4.4,
+    "reviews": 332,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 431,
+    "name": "竽芯園庭園美食屋",
+    "rating": 4.4,
+    "reviews": 331,
+    "category": "中式",
+    "area": "古坑鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 500,
+    "name": "礁溪悅德素食館",
+    "rating": 4.4,
+    "reviews": 330,
+    "category": "素食",
+    "area": "礁溪鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 581,
+    "name": "爭夯牛排館",
+    "rating": 4.4,
+    "reviews": 330,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 378,
+    "name": "No space kitchen corner 無空間廚坊",
+    "rating": 4.4,
+    "reviews": 330,
+    "category": "中式",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 404,
+    "name": "牧木屋 Mu Mu House-光復鄉燉飯推薦|景觀餐廳|打卡餐廳|義大利麵推薦|美式餐廳|鬼頭刀料",
+    "rating": 4.4,
+    "reviews": 330,
+    "category": "西式",
+    "area": "光復鄉"
+  },
+  {
+    "city": "台南",
+    "index": 803,
+    "name": "福泉古早味 (Fuquan Old-time Favorites)",
+    "rating": 4.4,
+    "reviews": 329,
+    "category": "中式",
+    "area": "麻豆"
+  },
+  {
+    "city": "基隆",
+    "index": 234,
+    "name": "立嘉糕餅（公休日於臉書公告）",
+    "rating": 4.4,
+    "reviews": 328,
+    "category": "烘焙",
+    "area": "仁愛"
+  },
+  {
+    "city": "嘉義",
+    "index": 452,
+    "name": "安可綿綿冰店",
+    "rating": 4.4,
+    "reviews": 328,
+    "category": "甜品",
+    "area": "西區"
+  },
+  {
+    "city": "桃園",
+    "index": 606,
+    "name": "77牛排館",
+    "rating": 4.4,
+    "reviews": 327,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 383,
+    "name": "褒忠火雞肉飯",
+    "rating": 4.4,
+    "reviews": 327,
+    "category": "中式",
+    "area": "褒忠鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 566,
+    "name": "尚記餐館",
+    "rating": 4.4,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 457,
+    "name": "捌捌玖海鮮鵝肉城(無任何分店",
+    "rating": 4.4,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 283,
+    "name": "南台灣牛肉麵",
+    "rating": 4.4,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 856,
+    "name": "六堆美食",
+    "rating": 4.4,
+    "reviews": 325,
+    "category": "中式",
+    "area": "新興"
+  },
+  {
+    "city": "苗栗",
+    "index": 301,
+    "name": "翁記水晶餃",
+    "rating": 4.4,
+    "reviews": 324,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 516,
+    "name": "四海飯店-曾文水庫餐廳 | 團體合菜 | 招牌水庫魚 | 養生山菜 | 筍殼魚料理",
+    "rating": 4.4,
+    "reviews": 324,
+    "category": "中式",
+    "area": "楠西"
+  },
+  {
+    "city": "台南",
+    "index": 912,
+    "name": "綠也素食館",
+    "rating": 4.4,
+    "reviews": 324,
+    "category": "素食",
+    "area": "東區"
+  },
+  {
+    "city": "高雄",
+    "index": 926,
+    "name": "郭賜生香腸店（內門美食、大腸包小腸、紅茶冰斜對面）",
+    "rating": 4.4,
+    "reviews": 323,
+    "category": "中式",
+    "area": "內門"
+  },
+  {
+    "city": "宜蘭",
+    "index": 468,
+    "name": "淞川壽司日本料理",
+    "rating": 4.4,
+    "reviews": 322,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 841,
+    "name": "In-89 咖啡",
+    "rating": 4.4,
+    "reviews": 322,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "高雄",
+    "index": 792,
+    "name": "大饗家常料理",
+    "rating": 4.4,
+    "reviews": 322,
+    "category": "中式",
+    "area": "前金"
+  },
+  {
+    "city": "苗栗",
+    "index": 311,
+    "name": "鄉香客家菜",
+    "rating": 4.4,
+    "reviews": 321,
+    "category": "中式",
+    "area": "公館鄉"
+  }
+]

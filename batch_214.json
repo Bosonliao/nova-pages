@@ -1,0 +1,227 @@
+[
+  {
+    "city": "桃園",
+    "index": 1032,
+    "name": "彩虹糖咖啡",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1037,
+    "name": "突奌咖啡喵 Top-Point Café",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1038,
+    "name": "Yang咖啡 永興店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1039,
+    "name": "喬治的咖啡 George's Coffee",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1040,
+    "name": "養親轅咖啡 Jodie Ho Cafe",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1041,
+    "name": "Degrees° café 度°",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "平鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 1042,
+    "name": "CAFE!N 硬咖啡 桃園總廠店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "平鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 1043,
+    "name": "HoneyWood Cafe 晶麒莊園",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "平鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 1044,
+    "name": "三宅咖啡",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "桃園",
+    "index": 1045,
+    "name": "FIH Café 幸蘊坊",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "桃園",
+    "index": 1046,
+    "name": "ふふや FuFuya",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "桃園",
+    "index": 1048,
+    "name": "TEN THOUSAND 林口長庚店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龜山"
+  },
+  {
+    "city": "桃園",
+    "index": 1049,
+    "name": "茉莉咖啡 2號店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龍潭"
+  },
+  {
+    "city": "桃園",
+    "index": 1050,
+    "name": "鹿點咖啡 千瀑店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龍潭"
+  },
+  {
+    "city": "桃園",
+    "index": 1051,
+    "name": "鹿途咖啡 LU·TU",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龍潭"
+  },
+  {
+    "city": "桃園",
+    "index": 1052,
+    "name": "貓禾咖啡館",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龍潭"
+  },
+  {
+    "city": "桃園",
+    "index": 1053,
+    "name": "茉莉花園 café",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "龍潭"
+  },
+  {
+    "city": "桃園",
+    "index": 1055,
+    "name": "橙夕咖啡 Afterglow Cafe",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大園"
+  },
+  {
+    "city": "桃園",
+    "index": 1056,
+    "name": "第三航廈咖啡廳",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大園"
+  },
+  {
+    "city": "桃園",
+    "index": 1057,
+    "name": "航空港360景觀旋轉餐廳",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大園"
+  },
+  {
+    "city": "桃園",
+    "index": 1058,
+    "name": "愛琴海海岸咖啡廳",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "新屋"
+  },
+  {
+    "city": "桃園",
+    "index": 1059,
+    "name": "聖多里尼海岸咖啡廳",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "新屋"
+  },
+  {
+    "city": "桃園",
+    "index": 1060,
+    "name": "引路咖啡 大溪旗艦店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大溪"
+  },
+  {
+    "city": "桃園",
+    "index": 1061,
+    "name": "秋旭",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大溪"
+  },
+  {
+    "city": "桃園",
+    "index": 1062,
+    "name": "環湖咖啡2號店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "大溪"
+  }
+]

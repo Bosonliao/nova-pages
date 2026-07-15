@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新北",
+    "index": 714,
+    "name": "啞巴板橋無名蚵仔麵",
+    "rating": 4.5,
+    "reviews": 652,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "台南",
+    "index": 654,
+    "name": "頡寶牛肉麵",
+    "rating": 4.5,
+    "reviews": 652,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 740,
+    "name": "吉照故里茶道院 (橋頭糖廠宿舍)",
+    "rating": 4.5,
+    "reviews": 649,
+    "category": "中式",
+    "area": "橋頭"
+  },
+  {
+    "city": "新竹",
+    "index": 368,
+    "name": "貨櫃89咖啡",
+    "rating": 4.5,
+    "reviews": 648,
+    "category": "咖啡廳",
+    "area": "峨眉鄉"
+  },
+  {
+    "city": "澎湖",
+    "index": 139,
+    "name": "辰川水產",
+    "rating": 4.5,
+    "reviews": 647,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "新北",
+    "index": 644,
+    "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
+    "rating": 4.5,
+    "reviews": 645,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 446,
+    "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
+    "rating": 4.5,
+    "reviews": 645,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 216,
+    "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
+    "rating": 4.5,
+    "reviews": 645,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 618,
+    "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
+    "rating": 4.5,
+    "reviews": 645,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 545,
+    "name": "麵屋一虎-楊梅店",
+    "rating": 4.5,
+    "reviews": 643,
+    "category": "中式",
+    "area": "楊梅"
+  },
+  {
+    "city": "台中",
+    "index": 840,
+    "name": "一念之間蔬食餐廳",
+    "rating": 4.5,
+    "reviews": 643,
+    "category": "素食",
+    "area": "豐原"
+  },
+  {
+    "city": "苗栗",
+    "index": 251,
+    "name": "范大哥餐館",
+    "rating": 4.5,
+    "reviews": 642,
+    "category": "中式",
+    "area": "公館鄉"
+  },
+  {
+    "city": "台中",
+    "index": 824,
+    "name": "廣福樸園精緻蔬食館",
+    "rating": 4.5,
+    "reviews": 641,
+    "category": "素食",
+    "area": "西區"
+  },
+  {
+    "city": "台南",
+    "index": 709,
+    "name": "溪邊土雞城",
+    "rating": 4.5,
+    "reviews": 639,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 658,
+    "name": "Awake coffee有為咖啡館 高雄美食 聚餐好所在",
+    "rating": 4.5,
+    "reviews": 639,
+    "category": "咖啡廳",
+    "area": "前鎮"
+  },
+  {
+    "city": "澎湖",
+    "index": 2,
+    "name": "南寮風車有機農場休息站",
+    "rating": 4.5,
+    "reviews": 638,
+    "category": "中式",
+    "area": "湖西鄉"
+  },
+  {
+    "city": "台北",
+    "index": 460,
+    "name": "豐味亭異國素食餐廳",
+    "rating": 4.5,
+    "reviews": 637,
+    "category": "素食",
+    "area": "中山"
+  },
+  {
+    "city": "新北",
+    "index": 791,
+    "name": "坪感覺 Just Pinglin 茶食農創空間",
+    "rating": 4.5,
+    "reviews": 637,
+    "category": "甜品",
+    "area": "坪林"
+  },
+  {
+    "city": "高雄",
+    "index": 671,
+    "name": "Aru.gori kakigori(營業時間請查看IG限動)",
+    "rating": 4.5,
+    "reviews": 637,
+    "category": "甜品",
+    "area": "鹽埕"
+  },
+  {
+    "city": "彰化",
+    "index": 465,
+    "name": "林記糕餅舖2.0新址（原市場店舖）",
+    "rating": 4.5,
+    "reviews": 635,
+    "category": "烘焙",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 758,
+    "name": "暖呼呼食堂(定食.丼飯）",
+    "rating": 4.5,
+    "reviews": 634,
+    "category": "日式",
+    "area": "新興"
+  },
+  {
+    "city": "高雄",
+    "index": 1450,
+    "name": "雲來坊家鄉小館",
+    "rating": 4.5,
+    "reviews": 634,
+    "category": "中式",
+    "area": "苓雅"
+  },
+  {
+    "city": "彰化",
+    "index": 472,
+    "name": "Q Burger 彰化秀傳店(直營)",
+    "rating": 4.5,
+    "reviews": 633,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 335,
+    "name": "阿吉麵攤",
+    "rating": 4.5,
+    "reviews": 633,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 734,
+    "name": "理善蔬食坊",
+    "rating": 4.5,
+    "reviews": 632,
+    "category": "素食",
+    "area": "善化"
+  },
+  {
+    "city": "新竹",
+    "index": 322,
+    "name": "H・Cafe（營業時間以粉專為主，最後點餐時間17:30。無提供訂位服務。平日客滿限時2小時，假日限時2小時）",
+    "rating": 4.5,
+    "reviews": 631,
+    "category": "咖啡廳",
+    "area": "東區"
+  },
+  {
+    "city": "苗栗",
+    "index": 260,
+    "name": "佐佐ぎょうざ日式煎餃專賣店(無訂位）",
+    "rating": 4.5,
+    "reviews": 629,
+    "category": "日式",
+    "area": "竹南鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 221,
+    "name": "彭湃客家土雞麵館",
+    "rating": 4.5,
+    "reviews": 628,
+    "category": "中式",
+    "area": "三義鄉"
+  },
+  {
+    "city": "台北",
+    "index": 456,
+    "name": "【泓得素食】健康蔬食",
+    "rating": 4.5,
+    "reviews": 627,
+    "category": "素食",
+    "area": "中正"
+  },
+  {
+    "city": "南投",
+    "index": 318,
+    "name": "大麵神麵館",
+    "rating": 4.5,
+    "reviews": 627,
+    "category": "中式",
+    "area": "鹿谷鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 319,
+    "name": "黑屋 Café",
+    "rating": 4.5,
+    "reviews": 627,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "台東",
+    "index": 215,
+    "name": "曙光森林 Dawn Forest 窯烤麵包",
+    "rating": 4.5,
+    "reviews": 627,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 489,
+    "name": "阿行冰店(原統一冰菓室)",
+    "rating": 4.5,
+    "reviews": 626,
+    "category": "甜品",
+    "area": "田中鎮"
+  },
+  {
+    "city": "台北",
+    "index": 476,
+    "name": "幹嘛日式餐酒館",
+    "rating": 4.5,
+    "reviews": 625,
+    "category": "日式",
+    "area": "大同"
+  },
+  {
+    "city": "台中",
+    "index": 804,
+    "name": "張鴨子擀麵7/15-8/27店休",
+    "rating": 4.5,
+    "reviews": 624,
+    "category": "中式",
+    "area": "清水"
+  },
+  {
+    "city": "嘉義",
+    "index": 390,
+    "name": "蘭心園素食坊",
+    "rating": 4.5,
+    "reviews": 624,
+    "category": "素食",
+    "area": "嘉義市東"
+  },
+  {
+    "city": "屏東",
+    "index": 396,
+    "name": "阿信海鮮食堂",
+    "rating": 4.5,
+    "reviews": 624,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 375,
+    "name": "阿拉伯的粉紅村(花旗木秘境)",
+    "rating": 4.5,
+    "reviews": 623,
+    "category": "中式",
+    "area": "竹崎鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 513,
+    "name": "老家餡餅 中壢-中壢美食 中壢小吃 中壢餡餅 中壢小吃推薦 中壢下午茶 桃園餡餅",
+    "rating": 4.5,
+    "reviews": 621,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "台南",
+    "index": 763,
+    "name": "文川古梅庭園咖啡",
+    "rating": 4.5,
+    "reviews": 621,
+    "category": "咖啡廳",
+    "area": "楠西"
+  },
+  {
+    "city": "屏東",
+    "index": 435,
+    "name": "逸采居滇緬料理美食館",
+    "rating": 4.5,
+    "reviews": 620,
+    "category": "中式",
+    "area": "里港鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 520,
+    "name": "甘旨肥濃",
+    "rating": 4.5,
+    "reviews": 619,
+    "category": "中式",
+    "area": "龍潭"
+  },
+  {
+    "city": "南投",
+    "index": 262,
+    "name": "家鄉烤肉",
+    "rating": 4.5,
+    "reviews": 619,
+    "category": "西式",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "台東",
+    "index": 214,
+    "name": "柴米DailyKitchen",
+    "rating": 4.5,
+    "reviews": 619,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 808,
+    "name": "義起吃吧（公休日請看FB粉絲團公告）",
+    "rating": 4.5,
+    "reviews": 616,
+    "category": "中式",
+    "area": "蘆洲"
+  },
+  {
+    "city": "台中",
+    "index": 715,
+    "name": "艾烤肉I BARBECUE-台中創始總店",
+    "rating": 4.5,
+    "reviews": 615,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 233,
+    "name": "花自在食宿館",
+    "rating": 4.5,
+    "reviews": 614,
+    "category": "中式",
+    "area": "卓蘭鎮"
+  },
+  {
+    "city": "新北",
+    "index": 677,
+    "name": "富貴角85",
+    "rating": 4.5,
+    "reviews": 612,
+    "category": "中式",
+    "area": "林口"
+  },
+  {
+    "city": "台中",
+    "index": 795,
+    "name": "有間大湯包",
+    "rating": 4.5,
+    "reviews": 611,
+    "category": "中式",
+    "area": "大里"
+  },
+  {
+    "city": "基隆",
+    "index": 187,
+    "name": "古早味早餐（171號早餐店）",
+    "rating": 4.5,
+    "reviews": 607,
+    "category": "咖啡廳",
+    "area": "中正"
+  }
+]

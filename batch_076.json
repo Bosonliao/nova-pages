@@ -1,0 +1,452 @@
+[
+  {
+    "city": "雲林",
+    "index": 226,
+    "name": "北港小吃店米糕姨",
+    "rating": 4.6,
+    "reviews": 329,
+    "category": "中式",
+    "area": "北港鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 541,
+    "name": "田媽媽蔬食素食坊",
+    "rating": 4.6,
+    "reviews": 329,
+    "category": "素食",
+    "area": "鹽埕"
+  },
+  {
+    "city": "苗栗",
+    "index": 179,
+    "name": "東海徐咖啡",
+    "rating": 4.6,
+    "reviews": 327,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 639,
+    "name": "珍饌複合式餐飲",
+    "rating": 4.6,
+    "reviews": 327,
+    "category": "中式",
+    "area": "霧峰"
+  },
+  {
+    "city": "台北",
+    "index": 310,
+    "name": "鈺鮨",
+    "rating": 4.6,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 632,
+    "name": "杦窩JIUWO",
+    "rating": 4.6,
+    "reviews": 326,
+    "category": "中式",
+    "area": "樹林"
+  },
+  {
+    "city": "台南",
+    "index": 478,
+    "name": "白河萬里長城 主題文化館 - 台南 人氣部落客推薦熱門景點 網美IG拍照打卡 學校團體家庭親子觀光旅遊首選",
+    "rating": 4.6,
+    "reviews": 326,
+    "category": "中式",
+    "area": "白河"
+  },
+  {
+    "city": "台東",
+    "index": 182,
+    "name": "池上197風味餐 原住民特色料理（請來電預約）",
+    "rating": 4.6,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 641,
+    "name": "九六素食處",
+    "rating": 4.6,
+    "reviews": 325,
+    "category": "素食",
+    "area": "中區"
+  },
+  {
+    "city": "台南",
+    "index": 500,
+    "name": "korokoro coffee",
+    "rating": 4.6,
+    "reviews": 325,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 169,
+    "name": "VuVu 野菜農園預約制",
+    "rating": 4.6,
+    "reviews": 323,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 359,
+    "name": "彌樂事蔬食食堂",
+    "rating": 4.6,
+    "reviews": 320,
+    "category": "素食",
+    "area": "信義"
+  },
+  {
+    "city": "台中",
+    "index": 638,
+    "name": "海食堂",
+    "rating": 4.6,
+    "reviews": 319,
+    "category": "中式",
+    "area": "霧峰"
+  },
+  {
+    "city": "彰化",
+    "index": 348,
+    "name": "星野手作料亭",
+    "rating": 4.6,
+    "reviews": 319,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 271,
+    "name": "CABAL Fresh Roasted Coffee",
+    "rating": 4.6,
+    "reviews": 319,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 167,
+    "name": "Caravan 卡騯· 異國料理(最後點餐kitchen last call 14:00/19:45)",
+    "rating": 4.6,
+    "reviews": 319,
+    "category": "異國",
+    "area": "台東市"
+  },
+  {
+    "city": "花蓮",
+    "index": 219,
+    "name": "班尼先生早午餐Mr.Benny brunch|店休日請見粉絲專頁",
+    "rating": 4.6,
+    "reviews": 318,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 188,
+    "name": "海癒小村咖啡店",
+    "rating": 4.6,
+    "reviews": 318,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 307,
+    "name": "小青苑 Cyan Cafe",
+    "rating": 4.6,
+    "reviews": 317,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 517,
+    "name": "金呷不一樣早午餐",
+    "rating": 4.6,
+    "reviews": 317,
+    "category": "咖啡廳",
+    "area": "三民"
+  },
+  {
+    "city": "屏東",
+    "index": 274,
+    "name": "520燒肉飯 炭火 便當/潮州美食推薦/好吃的/在地美食/潮州牛肉",
+    "rating": 4.6,
+    "reviews": 317,
+    "category": "中式",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "新北",
+    "index": 538,
+    "name": "嘸睏堡早午餐店｜義大利麵PASTA（公休於IG公佈）",
+    "rating": 4.6,
+    "reviews": 316,
+    "category": "咖啡廳",
+    "area": "三重"
+  },
+  {
+    "city": "基隆",
+    "index": 154,
+    "name": "夏隆咖啡 Shalom Cafe",
+    "rating": 4.6,
+    "reviews": 315,
+    "category": "咖啡廳",
+    "area": "信義"
+  },
+  {
+    "city": "基隆",
+    "index": 167,
+    "name": "愚夫私廚 無菜單 西餐",
+    "rating": 4.6,
+    "reviews": 315,
+    "category": "日式",
+    "area": "中山"
+  },
+  {
+    "city": "新竹",
+    "index": 277,
+    "name": "飯桌蔬食料理",
+    "rating": 4.6,
+    "reviews": 315,
+    "category": "素食",
+    "area": "竹北市"
+  },
+  {
+    "city": "新北",
+    "index": 591,
+    "name": "湧泉坊素食餐館",
+    "rating": 4.6,
+    "reviews": 314,
+    "category": "素食",
+    "area": "三重"
+  },
+  {
+    "city": "台南",
+    "index": 615,
+    "name": "鹽水點心城冬瓜茶",
+    "rating": 4.6,
+    "reviews": 314,
+    "category": "中式",
+    "area": "鹽水"
+  },
+  {
+    "city": "高雄",
+    "index": 535,
+    "name": "廣興飲食店",
+    "rating": 4.6,
+    "reviews": 314,
+    "category": "中式",
+    "area": "美濃"
+  },
+  {
+    "city": "桃園",
+    "index": 377,
+    "name": "珍好景觀餐廳",
+    "rating": 4.6,
+    "reviews": 313,
+    "category": "咖啡廳",
+    "area": "平鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 363,
+    "name": "宮堂豬腳",
+    "rating": 4.6,
+    "reviews": 312,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 606,
+    "name": "383叄捌叄蔬食餐館",
+    "rating": 4.6,
+    "reviews": 311,
+    "category": "素食",
+    "area": "中和"
+  },
+  {
+    "city": "台中",
+    "index": 614,
+    "name": "饈呼暇軟骨飯不精緻便當專賣店",
+    "rating": 4.6,
+    "reviews": 311,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 606,
+    "name": "花花愛玉冰",
+    "rating": 4.6,
+    "reviews": 311,
+    "category": "甜品",
+    "area": "桃源"
+  },
+  {
+    "city": "花蓮",
+    "index": 253,
+    "name": "武藏牛排",
+    "rating": 4.6,
+    "reviews": 310,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 160,
+    "name": "基隆漁壽司-店休日請參考FB粉絲頁",
+    "rating": 4.6,
+    "reviews": 309,
+    "category": "日式",
+    "area": "七堵"
+  },
+  {
+    "city": "新北",
+    "index": 640,
+    "name": "Louis bistro 路易斯 手抓海鮮",
+    "rating": 4.6,
+    "reviews": 307,
+    "category": "中式",
+    "area": "貢寮"
+  },
+  {
+    "city": "苗栗",
+    "index": 180,
+    "name": "古早味蚵嗲(公休日請至FB粉專公告）",
+    "rating": 4.6,
+    "reviews": 306,
+    "category": "中式",
+    "area": "後龍鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 244,
+    "name": "食萬伏特2.0 ｜花蓮美食｜花蓮早午餐",
+    "rating": 4.6,
+    "reviews": 306,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 611,
+    "name": "珍饌古早味排骨湯",
+    "rating": 4.6,
+    "reviews": 305,
+    "category": "中式",
+    "area": "東山"
+  },
+  {
+    "city": "台東",
+    "index": 201,
+    "name": "丹寧象蔬食館",
+    "rating": 4.6,
+    "reviews": 305,
+    "category": "素食",
+    "area": "台東市"
+  },
+  {
+    "city": "桃園",
+    "index": 395,
+    "name": "秋 穗",
+    "rating": 4.6,
+    "reviews": 304,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 228,
+    "name": "豪宅牛肉麵 目前店休中 營業日請洽粉絲專頁",
+    "rating": 4.6,
+    "reviews": 304,
+    "category": "中式",
+    "area": "斗六市"
+  },
+  {
+    "city": "嘉義",
+    "index": 243,
+    "name": "嘉義 旬樂 家庭料理",
+    "rating": 4.6,
+    "reviews": 304,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台南",
+    "index": 507,
+    "name": "八寸 鮨",
+    "rating": 4.6,
+    "reviews": 303,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 165,
+    "name": "小卒燒烤/新豐店-中正推薦燒烤|必吃燒烤|人氣串燒|推薦串燒|平價碳烤|串燒烤肉|居酒屋推薦|CP串燒",
+    "rating": 4.6,
+    "reviews": 302,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "雲林",
+    "index": 249,
+    "name": "飽嗝早午餐/私廚料理",
+    "rating": 4.6,
+    "reviews": 302,
+    "category": "咖啡廳",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 191,
+    "name": "苗栗南庄漢滿樓",
+    "rating": 4.6,
+    "reviews": 301,
+    "category": "中式",
+    "area": "南庄鄉"
+  },
+  {
+    "city": "台中",
+    "index": 543,
+    "name": "阿康古法牛肉麵｜大里美食｜大里麵食｜",
+    "rating": 4.6,
+    "reviews": 301,
+    "category": "中式",
+    "area": "大里"
+  },
+  {
+    "city": "嘉義",
+    "index": 276,
+    "name": "粉圓冰 愛玉冰",
+    "rating": 4.6,
+    "reviews": 301,
+    "category": "甜品",
+    "area": "東區"
+  },
+  {
+    "city": "台北",
+    "index": 1047,
+    "name": "鮨增田",
+    "rating": 4.6,
+    "reviews": 300,
+    "category": "中式",
+    "area": ""
+  }
+]

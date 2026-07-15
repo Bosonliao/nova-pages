@@ -1,0 +1,452 @@
+[
+  {
+    "city": "高雄",
+    "index": 497,
+    "name": "橋頭當歸鴨",
+    "rating": 4.6,
+    "reviews": 858,
+    "category": "中式",
+    "area": "橋頭"
+  },
+  {
+    "city": "高雄",
+    "index": 589,
+    "name": "貓廚",
+    "rating": 4.6,
+    "reviews": 857,
+    "category": "中式",
+    "area": "大社"
+  },
+  {
+    "city": "花蓮",
+    "index": 217,
+    "name": "128清燉牛羊肉拉麵店",
+    "rating": 4.6,
+    "reviews": 857,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 513,
+    "name": "Mes Amis 好朋友歐式餐館",
+    "rating": 4.6,
+    "reviews": 852,
+    "category": "中式",
+    "area": "林口"
+  },
+  {
+    "city": "宜蘭",
+    "index": 315,
+    "name": "酒橙榙",
+    "rating": 4.6,
+    "reviews": 848,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 289,
+    "name": "香草微風 花園廚房",
+    "rating": 4.6,
+    "reviews": 848,
+    "category": "異國",
+    "area": "香山"
+  },
+  {
+    "city": "新竹",
+    "index": 260,
+    "name": "814麗香冰店",
+    "rating": 4.6,
+    "reviews": 845,
+    "category": "甜品",
+    "area": "北區"
+  },
+  {
+    "city": "新北",
+    "index": 531,
+    "name": "山海芳園景觀咖啡廳(國聖埔9號)",
+    "rating": 4.6,
+    "reviews": 841,
+    "category": "咖啡廳",
+    "area": "萬里"
+  },
+  {
+    "city": "苗栗",
+    "index": 165,
+    "name": "四川涼麵",
+    "rating": 4.6,
+    "reviews": 838,
+    "category": "中式",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "台東",
+    "index": 168,
+    "name": "橋chiao",
+    "rating": 4.6,
+    "reviews": 838,
+    "category": "中式",
+    "area": "台東市"
+  },
+  {
+    "city": "台東",
+    "index": 181,
+    "name": "水也上居 手作米工坊",
+    "rating": 4.6,
+    "reviews": 837,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 331,
+    "name": "茉茉地_吃喝憩（餐供至15:00，飲品平日至16:00）",
+    "rating": 4.6,
+    "reviews": 836,
+    "category": "中式",
+    "area": "冬山鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 211,
+    "name": "幸福農場",
+    "rating": 4.6,
+    "reviews": 836,
+    "category": "咖啡廳",
+    "area": "通霄鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 353,
+    "name": "聚圓上海點心總匯/桃園美食/牛肉麵/清燉牛肉/蕃茄肉絲蛋湯/桃園推薦/桃園蒸餃/桃園湯包/椒麻蒸餃/非凡美食推薦/三立吃貨/專訪介紹/排骨麵",
+    "rating": 4.6,
+    "reviews": 834,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 355,
+    "name": "為伴餐桌 WEI BAN TABLE",
+    "rating": 4.6,
+    "reviews": 834,
+    "category": "中式",
+    "area": "桃園"
+  },
+  {
+    "city": "高雄",
+    "index": 488,
+    "name": "小料理食堂しょくどう茗喆",
+    "rating": 4.6,
+    "reviews": 824,
+    "category": "日式",
+    "area": "左營"
+  },
+  {
+    "city": "高雄",
+    "index": 515,
+    "name": "六合店-早安查理Morning Charlie",
+    "rating": 4.6,
+    "reviews": 819,
+    "category": "中式",
+    "area": "前金"
+  },
+  {
+    "city": "澎湖",
+    "index": 105,
+    "name": "菊楓食堂日式平價料理（壽司.生魚片中午12點過後供應）賣完會提早打烊",
+    "rating": 4.6,
+    "reviews": 819,
+    "category": "日式",
+    "area": "馬公市"
+  },
+  {
+    "city": "台北",
+    "index": 299,
+    "name": "千層吧",
+    "rating": 4.6,
+    "reviews": 817,
+    "category": "甜品",
+    "area": "松山"
+  },
+  {
+    "city": "台南",
+    "index": 480,
+    "name": "賣 • 土雞肉飯【台南市東區排隊小吃】網友激推美食｜平價小吃｜銅板美食｜傳統美食｜體育場附近美食｜排隊小吃",
+    "rating": 4.6,
+    "reviews": 817,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 352,
+    "name": "新合家歡",
+    "rating": 4.6,
+    "reviews": 817,
+    "category": "中式",
+    "area": "三地門鄉"
+  },
+  {
+    "city": "台中",
+    "index": 632,
+    "name": "卯食 mouth 沙鹿店",
+    "rating": 4.6,
+    "reviews": 816,
+    "category": "中式",
+    "area": "沙鹿"
+  },
+  {
+    "city": "彰化",
+    "index": 329,
+    "name": "小釜山韓國料理",
+    "rating": 4.6,
+    "reviews": 816,
+    "category": "異國",
+    "area": "溪湖鎮"
+  },
+  {
+    "city": "台中",
+    "index": 590,
+    "name": "老蔡大麵焿",
+    "rating": 4.6,
+    "reviews": 811,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 554,
+    "name": "鼎客潮x善待自己樂活素食/咖啡烘培 DINKET 品牌聯名店",
+    "rating": 4.6,
+    "reviews": 810,
+    "category": "咖啡廳",
+    "area": "前鎮"
+  },
+  {
+    "city": "台中",
+    "index": 553,
+    "name": "進城牛肉麵（5/19正常營業）",
+    "rating": 4.6,
+    "reviews": 809,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 520,
+    "name": "The BBQ House 三峽北大店",
+    "rating": 4.6,
+    "reviews": 806,
+    "category": "西式",
+    "area": "三峽"
+  },
+  {
+    "city": "台東",
+    "index": 205,
+    "name": "Talo'an 達麓岸部落屋",
+    "rating": 4.6,
+    "reviews": 806,
+    "category": "中式",
+    "area": "東河鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 342,
+    "name": "植日生手作蔬食",
+    "rating": 4.6,
+    "reviews": 804,
+    "category": "素食",
+    "area": "新埤鄉"
+  },
+  {
+    "city": "南投",
+    "index": 223,
+    "name": "億品鍋-南投埔里店",
+    "rating": 4.6,
+    "reviews": 801,
+    "category": "火鍋",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "台東",
+    "index": 171,
+    "name": "Montes蒙帝斯異國餐廳｜商務 約會 家庭聚餐 慶生推薦｜人氣異國料理美食",
+    "rating": 4.6,
+    "reviews": 801,
+    "category": "異國",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 307,
+    "name": "皇品牛肉麵彰美店｜彰化扇形車庫（手工水餃、魯肉飯）",
+    "rating": 4.6,
+    "reviews": 800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 269,
+    "name": "起風",
+    "rating": 4.6,
+    "reviews": 798,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台北",
+    "index": 971,
+    "name": " Nonzero Coffee Lab",
+    "rating": 4.6,
+    "reviews": 797,
+    "category": "咖啡廳",
+    "area": "大安"
+  },
+  {
+    "city": "台中",
+    "index": 561,
+    "name": "遊牧餐桌Nomadic Trattoria",
+    "rating": 4.6,
+    "reviews": 797,
+    "category": "西式",
+    "area": "西區"
+  },
+  {
+    "city": "桃園",
+    "index": 375,
+    "name": "有湯屋",
+    "rating": 4.6,
+    "reviews": 795,
+    "category": "中式",
+    "area": "蘆竹"
+  },
+  {
+    "city": "彰化",
+    "index": 350,
+    "name": "日十。早午食 彰化中興店",
+    "rating": 4.6,
+    "reviews": 794,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 180,
+    "name": "順大新港 黑潮海鮮餐廳/ FB預訂制",
+    "rating": 4.6,
+    "reviews": 791,
+    "category": "中式",
+    "area": "成功鎮"
+  },
+  {
+    "city": "新北",
+    "index": 635,
+    "name": "大丈夫小料理",
+    "rating": 4.6,
+    "reviews": 789,
+    "category": "中式",
+    "area": "深坑"
+  },
+  {
+    "city": "花蓮",
+    "index": 242,
+    "name": "早點。手作 超厚豬排蛋吐司•咖啡 (寵物友善)",
+    "rating": 4.6,
+    "reviews": 785,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 151,
+    "name": "無名鍋",
+    "rating": 4.6,
+    "reviews": 784,
+    "category": "火鍋",
+    "area": "信義"
+  },
+  {
+    "city": "台中",
+    "index": 588,
+    "name": "Raven Coffee 逢甲店｜台中咖啡廳",
+    "rating": 4.6,
+    "reviews": 784,
+    "category": "咖啡廳",
+    "area": "西屯"
+  },
+  {
+    "city": "台北",
+    "index": 292,
+    "name": "祥二屋 日式丼飯料理專門店",
+    "rating": 4.6,
+    "reviews": 783,
+    "category": "日式",
+    "area": "文山"
+  },
+  {
+    "city": "新北",
+    "index": 631,
+    "name": "森林敘事 La Foresta by Narrative",
+    "rating": 4.6,
+    "reviews": 780,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "桃園",
+    "index": 410,
+    "name": "天賜佳雞甕仔雞【龍潭店】龍潭人氣美食|石門水庫聚餐美食|熱炒推薦|甕仔雞推薦|在地推薦美食|熱門美食|必吃甕仔雞|合菜餐廳",
+    "rating": 4.6,
+    "reviews": 778,
+    "category": "中式",
+    "area": "龍潭"
+  },
+  {
+    "city": "苗栗",
+    "index": 154,
+    "name": "沛克咖啡店 Pergram Coffee Roasters",
+    "rating": 4.6,
+    "reviews": 775,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 283,
+    "name": "老乾杯 嘉義耐斯王子店",
+    "rating": 4.6,
+    "reviews": 775,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新竹",
+    "index": 226,
+    "name": "尖石不怕餐館",
+    "rating": 4.6,
+    "reviews": 774,
+    "category": "中式",
+    "area": "尖石鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 162,
+    "name": "烏色咖啡",
+    "rating": 4.6,
+    "reviews": 773,
+    "category": "咖啡廳",
+    "area": "苗栗市"
+  },
+  {
+    "city": "新北",
+    "index": 623,
+    "name": "咱倆Our Food Cafe Love",
+    "rating": 4.6,
+    "reviews": 772,
+    "category": "咖啡廳",
+    "area": "貢寮"
+  }
+]

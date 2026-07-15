@@ -1,0 +1,452 @@
+[
+  {
+    "city": "苗栗",
+    "index": 161,
+    "name": "波奇多夏威夷輕食-苗栗美食 苗栗健康餐 苗栗輕食 苗栗減脂餐 苗栗小吃 苗栗素食餐廳",
+    "rating": 4.6,
+    "reviews": 430,
+    "category": "素食",
+    "area": "苗栗市"
+  },
+  {
+    "city": "高雄",
+    "index": 466,
+    "name": "哩啦歐亞融合料理/restaurant/高雄美食/高雄推薦晚餐/高雄義大利麵/家庭聚餐/高雄推薦牛排",
+    "rating": 4.6,
+    "reviews": 430,
+    "category": "西式",
+    "area": "苓雅"
+  },
+  {
+    "city": "花蓮",
+    "index": 226,
+    "name": "山下陳涼",
+    "rating": 4.6,
+    "reviews": 430,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "台南",
+    "index": 481,
+    "name": "（暫時休息中）在新化的阿蓮黑輪攤（阿蓮大腸香腸）",
+    "rating": 4.6,
+    "reviews": 429,
+    "category": "中式",
+    "area": "新化"
+  },
+  {
+    "city": "高雄",
+    "index": 475,
+    "name": "巷子內紅燒牛肉麵",
+    "rating": 4.6,
+    "reviews": 429,
+    "category": "中式",
+    "area": "苓雅"
+  },
+  {
+    "city": "桃園",
+    "index": 441,
+    "name": "14F手作甜點。家庭料理｜假日都有開｜平日用餐需預約，主廚在可內用甜點飲品，歡迎來電詢問",
+    "rating": 4.6,
+    "reviews": 428,
+    "category": "甜品",
+    "area": "新屋"
+  },
+  {
+    "city": "苗栗",
+    "index": 176,
+    "name": "拾·好時foodimemory",
+    "rating": 4.6,
+    "reviews": 428,
+    "category": "中式",
+    "area": "竹南鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 227,
+    "name": "Root Vegan",
+    "rating": 4.6,
+    "reviews": 427,
+    "category": "素食",
+    "area": "元長鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 310,
+    "name": "熊廚師",
+    "rating": 4.6,
+    "reviews": 427,
+    "category": "中式",
+    "area": "太保市"
+  },
+  {
+    "city": "台中",
+    "index": 647,
+    "name": "蔬想起蔬食料理 素食(以單點為主，不定期推出新品）",
+    "rating": 4.6,
+    "reviews": 424,
+    "category": "素食",
+    "area": "北屯"
+  },
+  {
+    "city": "花蓮",
+    "index": 254,
+    "name": "佳佳牛排",
+    "rating": 4.6,
+    "reviews": 421,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 352,
+    "name": "陳家魯肉飯 切仔麵",
+    "rating": 4.6,
+    "reviews": 419,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 612,
+    "name": "老王客家菜（東興店）",
+    "rating": 4.6,
+    "reviews": 419,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 546,
+    "name": "時蒔 vegan 蔬食 麵館",
+    "rating": 4.6,
+    "reviews": 419,
+    "category": "素食",
+    "area": "三民"
+  },
+  {
+    "city": "桃園",
+    "index": 397,
+    "name": "麻吉叔冰舖",
+    "rating": 4.6,
+    "reviews": 416,
+    "category": "甜品",
+    "area": "大園"
+  },
+  {
+    "city": "台北",
+    "index": 312,
+    "name": "日鑫壽司 Rixin Sushi -中正日式餐廳|道地日式料理|精緻日料|熱門日料|在地推薦餐廳|必吃日本料理|人氣壽司|壽司首選",
+    "rating": 4.6,
+    "reviews": 415,
+    "category": "日式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 362,
+    "name": "賴媽媽素食",
+    "rating": 4.6,
+    "reviews": 415,
+    "category": "素食",
+    "area": "中正"
+  },
+  {
+    "city": "宜蘭",
+    "index": 345,
+    "name": "台灣牛排",
+    "rating": 4.6,
+    "reviews": 414,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 472,
+    "name": "陽光有次日式家庭料理",
+    "rating": 4.6,
+    "reviews": 414,
+    "category": "日式",
+    "area": "永康"
+  },
+  {
+    "city": "台北",
+    "index": 278,
+    "name": "難得一面 Beef Noodles（青花椒/麻辣牛肉麵/大紅袍/重磅蛤蜊/超濃蕃茄牛肉麵/麻辣乾拌麵)",
+    "rating": 4.6,
+    "reviews": 413,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 280,
+    "name": "太陽好事",
+    "rating": 4.6,
+    "reviews": 413,
+    "category": "中式",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "新北",
+    "index": 590,
+    "name": "天容寶養生素食",
+    "rating": 4.6,
+    "reviews": 412,
+    "category": "素食",
+    "area": "三重"
+  },
+  {
+    "city": "苗栗",
+    "index": 151,
+    "name": "伴 Life Partner（賣完就收）",
+    "rating": 4.6,
+    "reviews": 412,
+    "category": "西式",
+    "area": "竹南鎮"
+  },
+  {
+    "city": "南投",
+    "index": 234,
+    "name": "綠屋の食堂",
+    "rating": 4.6,
+    "reviews": 412,
+    "category": "中式",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "台北",
+    "index": 327,
+    "name": "撞記 水果 果汁 雪花冰",
+    "rating": 4.6,
+    "reviews": 411,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 467,
+    "name": "嘉昌土雞肉飯舖 安平店",
+    "rating": 4.6,
+    "reviews": 411,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 262,
+    "name": "一道健康素食",
+    "rating": 4.6,
+    "reviews": 408,
+    "category": "素食",
+    "area": "吉安鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 346,
+    "name": "小巷七貳 | ALLEY 72 手作甜點 咖啡烘焙",
+    "rating": 4.6,
+    "reviews": 406,
+    "category": "咖啡廳",
+    "area": "鹿港鎮"
+  },
+  {
+    "city": "台中",
+    "index": 574,
+    "name": "️朝朝暮暮招待所《行前請看停車資訊喔ℹ️無預約、現金付款、寵物友善、人生休息站》",
+    "rating": 4.6,
+    "reviews": 403,
+    "category": "中式",
+    "area": "清水"
+  },
+  {
+    "city": "花蓮",
+    "index": 275,
+    "name": "大自然體驗農家",
+    "rating": 4.6,
+    "reviews": 402,
+    "category": "中式",
+    "area": "富里鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 295,
+    "name": "塊肉究派-新竹日式文青 竹東美食 竹東小吃 竹東咖哩 竹東必吃 竹東居酒屋",
+    "rating": 4.6,
+    "reviews": 401,
+    "category": "日式",
+    "area": "竹東鎮"
+  },
+  {
+    "city": "台北",
+    "index": 1068,
+    "name": "牡丹天婦羅",
+    "rating": 4.6,
+    "reviews": 400,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 538,
+    "name": "山上的蔬食野菜選物火鍋",
+    "rating": 4.6,
+    "reviews": 400,
+    "category": "素食",
+    "area": "南區"
+  },
+  {
+    "city": "新竹",
+    "index": 273,
+    "name": "龍門火鍋棧《火鍋推薦》湖口特色個人鍋｜精緻鍋物｜人氣｜特色｜好吃｜熱門｜聚餐鍋物",
+    "rating": 4.6,
+    "reviews": 399,
+    "category": "火鍋",
+    "area": "湖口鄉"
+  },
+  {
+    "city": "台南",
+    "index": 609,
+    "name": "樸拾(無提供訂位)",
+    "rating": 4.6,
+    "reviews": 399,
+    "category": "中式",
+    "area": "新營"
+  },
+  {
+    "city": "高雄",
+    "index": 521,
+    "name": "宇治．玩笑亭",
+    "rating": 4.6,
+    "reviews": 399,
+    "category": "中式",
+    "area": "新興"
+  },
+  {
+    "city": "高雄",
+    "index": 548,
+    "name": "道德素食館",
+    "rating": 4.6,
+    "reviews": 399,
+    "category": "素食",
+    "area": "三民"
+  },
+  {
+    "city": "台東",
+    "index": 191,
+    "name": "早點來見面",
+    "rating": 4.6,
+    "reviews": 399,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 178,
+    "name": "初口甜點(無訂位服務)",
+    "rating": 4.6,
+    "reviews": 397,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 564,
+    "name": "JIFS COOKING SALON（需事前預約、無電話預約，皆需至Facebook 私訊訂位）",
+    "rating": 4.6,
+    "reviews": 397,
+    "category": "中式",
+    "area": "南區"
+  },
+  {
+    "city": "高雄",
+    "index": 490,
+    "name": "草DORO",
+    "rating": 4.6,
+    "reviews": 396,
+    "category": "中式",
+    "area": "鼓山"
+  },
+  {
+    "city": "台北",
+    "index": 325,
+    "name": "Deux Doux To Go",
+    "rating": 4.6,
+    "reviews": 395,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 617,
+    "name": "167咖啡 海銀花園",
+    "rating": 4.6,
+    "reviews": 394,
+    "category": "咖啡廳",
+    "area": "龍崎"
+  },
+  {
+    "city": "高雄",
+    "index": 487,
+    "name": "藍記小館 NA KI",
+    "rating": 4.6,
+    "reviews": 394,
+    "category": "中式",
+    "area": "左營"
+  },
+  {
+    "city": "基隆",
+    "index": 163,
+    "name": "禾月堂",
+    "rating": 4.6,
+    "reviews": 393,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "宜蘭",
+    "index": 324,
+    "name": "田中268 Café(店内資訊請參考FB公告)",
+    "rating": 4.6,
+    "reviews": 393,
+    "category": "中式",
+    "area": "五結鄉"
+  },
+  {
+    "city": "南投",
+    "index": 230,
+    "name": "Buonissimo柏尼西蒙甜點工坊",
+    "rating": 4.6,
+    "reviews": 393,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 318,
+    "name": "燾麘食館 TAO XIANG",
+    "rating": 4.6,
+    "reviews": 392,
+    "category": "中式",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 150,
+    "name": "通霄老李紅燒牛肉麵",
+    "rating": 4.6,
+    "reviews": 392,
+    "category": "中式",
+    "area": "通霄鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 265,
+    "name": "花蓮山中傳奇-蔬食景觀餐廳",
+    "rating": 4.6,
+    "reviews": 392,
+    "category": "素食",
+    "area": "秀林鄉"
+  }
+]

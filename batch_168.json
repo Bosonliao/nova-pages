@@ -1,0 +1,452 @@
+[
+  {
+    "city": "花蓮",
+    "index": 463,
+    "name": "天廚妙供素食養生屋",
+    "rating": 4.3,
+    "reviews": 4,
+    "category": "素食",
+    "area": "玉里鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 576,
+    "name": "吳家素食滷味",
+    "rating": 4.3,
+    "reviews": 3,
+    "category": "素食",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台北",
+    "index": 796,
+    "name": "一蘭 台灣台北本店",
+    "rating": 4.2,
+    "reviews": 21974,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 743,
+    "name": "富宏牛肉麵",
+    "rating": 4.2,
+    "reviews": 21687,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 799,
+    "name": "INPARADISE 饗饗 微風信義店",
+    "rating": 4.2,
+    "reviews": 12220,
+    "category": "咖啡廳",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 734,
+    "name": "西門麵店",
+    "rating": 4.2,
+    "reviews": 11000,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 758,
+    "name": "一蘭 台灣台北別館",
+    "rating": 4.2,
+    "reviews": 7677,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 759,
+    "name": "頂好紫琳蒸餃館",
+    "rating": 4.2,
+    "reviews": 6879,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 779,
+    "name": "豆花莊",
+    "rating": 4.2,
+    "reviews": 6526,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 802,
+    "name": "欣葉台菜創始店",
+    "rating": 4.2,
+    "reviews": 6397,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 744,
+    "name": "小吳牛肉麵",
+    "rating": 4.2,
+    "reviews": 5945,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1475,
+    "name": "春水堂",
+    "rating": 4.2,
+    "reviews": 5754,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "台北",
+    "index": 756,
+    "name": "施家麻油腰花",
+    "rating": 4.2,
+    "reviews": 5584,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 781,
+    "name": "阿義魯肉飯",
+    "rating": 4.2,
+    "reviews": 5385,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 1106,
+    "name": "詹記麻辣火鍋",
+    "rating": 4.2,
+    "reviews": 5000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1185,
+    "name": "詹記",
+    "rating": 4.2,
+    "reviews": 5000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 794,
+    "name": "日向洋食",
+    "rating": 4.2,
+    "reviews": 4902,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 771,
+    "name": "六堆伙房 中山南西店",
+    "rating": 4.2,
+    "reviews": 4857,
+    "category": "中式",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 780,
+    "name": "陳記腸蚵專業麵線",
+    "rating": 4.2,
+    "reviews": 4817,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 716,
+    "name": "教父牛排 Danny's Steak House",
+    "rating": 4.2,
+    "reviews": 4663,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 953,
+    "name": "北平陶然亭",
+    "rating": 4.2,
+    "reviews": 4561,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 708,
+    "name": "牛肉麵．雞湯",
+    "rating": 4.2,
+    "reviews": 4421,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 787,
+    "name": "Second Floor 貳樓師大店",
+    "rating": 4.2,
+    "reviews": 4116,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 770,
+    "name": "好想吃冰 日式蔬食 中山赤峰店",
+    "rating": 4.2,
+    "reviews": 4021,
+    "category": "素食",
+    "area": "中山"
+  },
+  {
+    "city": "台北",
+    "index": 786,
+    "name": "師園鹽酥雞 本店",
+    "rating": 4.2,
+    "reviews": 3831,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 709,
+    "name": "粟家牛肉麵 總店",
+    "rating": 4.2,
+    "reviews": 3673,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 752,
+    "name": "豆留森林",
+    "rating": 4.2,
+    "reviews": 3545,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 761,
+    "name": "無敵水餃",
+    "rating": 4.2,
+    "reviews": 3521,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 783,
+    "name": "阿伯蛋包麵",
+    "rating": 4.2,
+    "reviews": 3467,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 1043,
+    "name": "碳佐麻里",
+    "rating": 4.2,
+    "reviews": 3000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1051,
+    "name": "欣葉台菜 (創始店)",
+    "rating": 4.2,
+    "reviews": 3000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1098,
+    "name": "鼎王麻辣鍋",
+    "rating": 4.2,
+    "reviews": 3000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 990,
+    "name": "態芮 (Taïrroir)",
+    "rating": 4.2,
+    "reviews": 2936,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 778,
+    "name": "牛魔王牛排館",
+    "rating": 4.2,
+    "reviews": 2876,
+    "category": "西式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 800,
+    "name": "樂天皇朝 信義店",
+    "rating": 4.2,
+    "reviews": 2816,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 721,
+    "name": "新店北鴨鴨肉羹",
+    "rating": 4.2,
+    "reviews": 2406,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 798,
+    "name": "欣葉台菜 信義新天地A9店",
+    "rating": 4.2,
+    "reviews": 2366,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 738,
+    "name": "松果院子(午晚餐最後點餐時間：15:50/19:50)",
+    "rating": 4.2,
+    "reviews": 2312,
+    "category": "咖啡廳",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 733,
+    "name": "Buttermilk摩登美式餐廳",
+    "rating": 4.2,
+    "reviews": 2296,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 745,
+    "name": "鱻客棧海鮮熱炒",
+    "rating": 4.2,
+    "reviews": 2221,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 736,
+    "name": "少帥禪園-台北北投張學良幽禁舊居",
+    "rating": 4.2,
+    "reviews": 2184,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "台北",
+    "index": 769,
+    "name": "大方冰品",
+    "rating": 4.2,
+    "reviews": 2143,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 741,
+    "name": "金湘台灣小吃",
+    "rating": 4.2,
+    "reviews": 2134,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 992,
+    "name": "侯布雄 (L'Atelier de Joël Robuchon)",
+    "rating": 4.2,
+    "reviews": 2117,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 717,
+    "name": "教父牛排 Top Cap Steakhouse",
+    "rating": 4.2,
+    "reviews": 2076,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 788,
+    "name": "隱家拉麵 公館店",
+    "rating": 4.2,
+    "reviews": 2025,
+    "category": "日式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 754,
+    "name": "頂級甜不辣-台北美食 台北小吃 萬華美食 台北甜不辣 台北宵夜 龍山寺美食 附近餐廳 台北美食推薦",
+    "rating": 4.2,
+    "reviews": 2020,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 1011,
+    "name": "富錦樹台菜香檳 (敦北)",
+    "rating": 4.2,
+    "reviews": 2010,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 1049,
+    "name": "問鼎麻辣鍋",
+    "rating": 4.2,
+    "reviews": 2000,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 1085,
+    "name": "金山鴨肉",
+    "rating": 4.2,
+    "reviews": 2000,
+    "category": "中式",
+    "area": ""
+  }
+]

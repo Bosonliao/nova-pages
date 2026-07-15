@@ -1,0 +1,452 @@
+[
+  {
+    "city": "澎湖",
+    "index": 125,
+    "name": "定食8 澎湖三號港店⎜日式定食 日式海鮮丼飯 澎湖平價美食⎜爭鮮餐飲集團",
+    "rating": 4.5,
+    "reviews": 783,
+    "category": "日式",
+    "area": "馬公市"
+  },
+  {
+    "city": "台北",
+    "index": 405,
+    "name": "冠鼎雞肉飯",
+    "rating": 4.5,
+    "reviews": 781,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 488,
+    "name": "畫餅早午餐",
+    "rating": 4.5,
+    "reviews": 780,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 337,
+    "name": "火雞達人",
+    "rating": 4.5,
+    "reviews": 780,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台南",
+    "index": 676,
+    "name": "双利冰饌研習所 - 勝利總店",
+    "rating": 4.5,
+    "reviews": 776,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 687,
+    "name": "燒肉眾精緻炭火燒肉 台南永康店",
+    "rating": 4.5,
+    "reviews": 776,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 316,
+    "name": "花淺蔥 Brunch Osteria",
+    "rating": 4.5,
+    "reviews": 774,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "台中",
+    "index": 773,
+    "name": "法雅 文心店 -義式冰淇淋.冰淇淋蛋糕.早午餐.下午茶",
+    "rating": 4.5,
+    "reviews": 773,
+    "category": "甜品",
+    "area": "西屯"
+  },
+  {
+    "city": "基隆",
+    "index": 188,
+    "name": "謝謝XieXie美式早午餐",
+    "rating": 4.5,
+    "reviews": 772,
+    "category": "咖啡廳",
+    "area": "信義"
+  },
+  {
+    "city": "台中",
+    "index": 769,
+    "name": "來去旅食早午餐",
+    "rating": 4.5,
+    "reviews": 768,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 348,
+    "name": "MIMICO COFFEE 秘密客咖啡館",
+    "rating": 4.5,
+    "reviews": 767,
+    "category": "咖啡廳",
+    "area": "東區"
+  },
+  {
+    "city": "花蓮",
+    "index": 311,
+    "name": "地6攤牛排 美崙店",
+    "rating": 4.5,
+    "reviews": 767,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 476,
+    "name": "三街海鮮屋",
+    "rating": 4.5,
+    "reviews": 765,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 308,
+    "name": "姥夥房-竹北鹿場店",
+    "rating": 4.5,
+    "reviews": 765,
+    "category": "中式",
+    "area": "竹北市"
+  },
+  {
+    "city": "台中",
+    "index": 712,
+    "name": "Return 迴鮭",
+    "rating": 4.5,
+    "reviews": 760,
+    "category": "西式",
+    "area": "西屯"
+  },
+  {
+    "city": "台南",
+    "index": 650,
+    "name": "瑪莉洋房義法料理",
+    "rating": 4.5,
+    "reviews": 759,
+    "category": "西式",
+    "area": "安平"
+  },
+  {
+    "city": "新北",
+    "index": 709,
+    "name": "豐實早午餐",
+    "rating": 4.5,
+    "reviews": 758,
+    "category": "咖啡廳",
+    "area": "新莊"
+  },
+  {
+    "city": "新北",
+    "index": 800,
+    "name": "Jimmy on the road 居米先生在路上",
+    "rating": 4.5,
+    "reviews": 758,
+    "category": "中式",
+    "area": "新店"
+  },
+  {
+    "city": "台中",
+    "index": 878,
+    "name": "新岡土虱（神岡創始店）",
+    "rating": 4.5,
+    "reviews": 756,
+    "category": "中式",
+    "area": "神岡"
+  },
+  {
+    "city": "花蓮",
+    "index": 333,
+    "name": "閩越食堂餐廳",
+    "rating": 4.5,
+    "reviews": 755,
+    "category": "中式",
+    "area": "鳳林鎮"
+  },
+  {
+    "city": "屏東",
+    "index": 411,
+    "name": "天台角冰店",
+    "rating": 4.5,
+    "reviews": 754,
+    "category": "甜品",
+    "area": "琉球鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 464,
+    "name": "古道山莊",
+    "rating": 4.5,
+    "reviews": 750,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 492,
+    "name": "彰寅炸雞",
+    "rating": 4.5,
+    "reviews": 749,
+    "category": "中式",
+    "area": "和美鎮"
+  },
+  {
+    "city": "台南",
+    "index": 757,
+    "name": "臭灶腳—仁德總店 深坑臭豆腐",
+    "rating": 4.5,
+    "reviews": 743,
+    "category": "中式",
+    "area": "仁德"
+  },
+  {
+    "city": "澎湖",
+    "index": 128,
+    "name": "大船無煙燒烤",
+    "rating": 4.5,
+    "reviews": 743,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "高雄",
+    "index": 668,
+    "name": "Y2 cafe 漾漾食光（最後點餐15:00用餐到16:30）",
+    "rating": 4.5,
+    "reviews": 740,
+    "category": "咖啡廳",
+    "area": "三民"
+  },
+  {
+    "city": "台中",
+    "index": 739,
+    "name": "學田有藝",
+    "rating": 4.5,
+    "reviews": 737,
+    "category": "咖啡廳",
+    "area": "南區"
+  },
+  {
+    "city": "台中",
+    "index": 865,
+    "name": "幕川蔬食壽司串燒居酒屋",
+    "rating": 4.5,
+    "reviews": 736,
+    "category": "素食",
+    "area": "西屯"
+  },
+  {
+    "city": "台北",
+    "index": 441,
+    "name": "侏儸紀醬汁魷魚、啤酒螺專賣店",
+    "rating": 4.5,
+    "reviews": 735,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "新北",
+    "index": 710,
+    "name": "侏儸紀醬汁魷魚、啤酒螺專賣店",
+    "rating": 4.5,
+    "reviews": 735,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 331,
+    "name": "歐浮找餐 經國店（早餐/早午餐/漢堡/咖啡）",
+    "rating": 4.5,
+    "reviews": 734,
+    "category": "咖啡廳",
+    "area": "北區"
+  },
+  {
+    "city": "桃園",
+    "index": 482,
+    "name": "小豆子早點",
+    "rating": 4.5,
+    "reviews": 731,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 663,
+    "name": "和田古早味日式料理│高雄第一間日本料理的味道",
+    "rating": 4.5,
+    "reviews": 731,
+    "category": "日式",
+    "area": "新興"
+  },
+  {
+    "city": "台北",
+    "index": 416,
+    "name": "御景日本料理",
+    "rating": 4.5,
+    "reviews": 728,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 807,
+    "name": "柏榕美食活海鮮(萬里蟹、小卷米粉)",
+    "rating": 4.5,
+    "reviews": 726,
+    "category": "中式",
+    "area": "萬里"
+  },
+  {
+    "city": "宜蘭",
+    "index": 376,
+    "name": "亓記小卷米粉",
+    "rating": 4.5,
+    "reviews": 726,
+    "category": "中式",
+    "area": "礁溪鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 340,
+    "name": "邊境串燒 SideBBQ 新竹",
+    "rating": 4.5,
+    "reviews": 721,
+    "category": "西式",
+    "area": "北區"
+  },
+  {
+    "city": "澎湖",
+    "index": 145,
+    "name": "掌上明珠仙人掌冰淇淋-瑚途門市",
+    "rating": 4.5,
+    "reviews": 720,
+    "category": "甜品",
+    "area": "馬公市"
+  },
+  {
+    "city": "台北",
+    "index": 391,
+    "name": "一小巷 - 羊排麵 牛肉麵",
+    "rating": 4.5,
+    "reviews": 719,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 725,
+    "name": "柳媽媽海鮮粥麵館",
+    "rating": 4.5,
+    "reviews": 719,
+    "category": "中式",
+    "area": "金山"
+  },
+  {
+    "city": "南投",
+    "index": 315,
+    "name": "越南素食小吃",
+    "rating": 4.5,
+    "reviews": 719,
+    "category": "素食",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 322,
+    "name": "Piatto+菜 蔬食義式餐廳",
+    "rating": 4.5,
+    "reviews": 719,
+    "category": "素食",
+    "area": "花蓮市"
+  },
+  {
+    "city": "宜蘭",
+    "index": 386,
+    "name": "伍柒-海鮮手作料理-宜蘭美食|必吃餐廳|熱門餐廳|海鮮餐廳|人氣料理|在地推薦美食",
+    "rating": 4.5,
+    "reviews": 717,
+    "category": "中式",
+    "area": "宜蘭市"
+  },
+  {
+    "city": "台北",
+    "index": 411,
+    "name": "瑞帛咖啡Rebirth Coffee",
+    "rating": 4.5,
+    "reviews": 715,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 136,
+    "name": "京典海鮮餐廳- 生猛活海鮮 /在地海鮮料理",
+    "rating": 4.5,
+    "reviews": 715,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "新北",
+    "index": 1512,
+    "name": "Library Coffee 圖書咖啡",
+    "rating": 4.5,
+    "reviews": 710,
+    "category": "咖啡廳",
+    "area": "淡水"
+  },
+  {
+    "city": "新北",
+    "index": 775,
+    "name": "牛犇牛排",
+    "rating": 4.5,
+    "reviews": 709,
+    "category": "西式",
+    "area": "五股"
+  },
+  {
+    "city": "台東",
+    "index": 277,
+    "name": "野浪也浪Yeahwave美式漢堡",
+    "rating": 4.5,
+    "reviews": 707,
+    "category": "西式",
+    "area": "綠島鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 352,
+    "name": "陳媽媽紅豆餅",
+    "rating": 4.5,
+    "reviews": 706,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "台中",
+    "index": 709,
+    "name": "Yolo Moment 台中店 | 舒食早午餐｜甜點 | 下午茶｜生日蛋糕｜brunch & cakes",
+    "rating": 4.5,
+    "reviews": 705,
+    "category": "咖啡廳",
+    "area": ""
+  }
+]

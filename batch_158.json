@@ -1,0 +1,452 @@
+[
+  {
+    "city": "嘉義",
+    "index": 838,
+    "name": "勇氣咖啡",
+    "rating": 4.3,
+    "reviews": 346,
+    "category": "咖啡廳",
+    "area": "東區"
+  },
+  {
+    "city": "屏東",
+    "index": 584,
+    "name": "野田壽司",
+    "rating": 4.3,
+    "reviews": 346,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 699,
+    "name": "七葑咖啡廳",
+    "rating": 4.3,
+    "reviews": 345,
+    "category": "咖啡廳",
+    "area": "平鎮"
+  },
+  {
+    "city": "基隆",
+    "index": 251,
+    "name": "信奕原汁牛肉麵",
+    "rating": 4.3,
+    "reviews": 344,
+    "category": "中式",
+    "area": "仁愛"
+  },
+  {
+    "city": "新竹",
+    "index": 513,
+    "name": "陳家小籠包",
+    "rating": 4.3,
+    "reviews": 344,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "高雄",
+    "index": 1049,
+    "name": "旺旺蔬食#vegen",
+    "rating": 4.3,
+    "reviews": 344,
+    "category": "素食",
+    "area": "苓雅"
+  },
+  {
+    "city": "花蓮",
+    "index": 409,
+    "name": "牛東家見麵館牛肉麵",
+    "rating": 4.3,
+    "reviews": 343,
+    "category": "中式",
+    "area": "吉安鄉"
+  },
+  {
+    "city": "澎湖",
+    "index": 197,
+    "name": "鑫鴻小吃部-澎湖馬公必吃熱炒|道地海鮮|海鮮熱炒|合菜餐廳|海鮮餐廳推薦|熱炒推薦|薑母鴨推薦|必吃羊肉爐",
+    "rating": 4.3,
+    "reviews": 342,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "宜蘭",
+    "index": 541,
+    "name": "三番街牛排",
+    "rating": 4.3,
+    "reviews": 341,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1108,
+    "name": "皇都飯店(甲仙)",
+    "rating": 4.3,
+    "reviews": 341,
+    "category": "中式",
+    "area": "甲仙"
+  },
+  {
+    "city": "桃園",
+    "index": 688,
+    "name": "勤美亭",
+    "rating": 4.3,
+    "reviews": 340,
+    "category": "中式",
+    "area": "龜山"
+  },
+  {
+    "city": "花蓮",
+    "index": 413,
+    "name": "山東麵館",
+    "rating": 4.3,
+    "reviews": 340,
+    "category": "中式",
+    "area": "瑞穗鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 420,
+    "name": "瑞穗牛肉麵",
+    "rating": 4.3,
+    "reviews": 340,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 193,
+    "name": "鎖港牛肉麵",
+    "rating": 4.3,
+    "reviews": 339,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "屏東",
+    "index": 595,
+    "name": "牧炙（ 完整公休日請查詢FB粉絲專頁）",
+    "rating": 4.3,
+    "reviews": 337,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1042,
+    "name": "渡魚日式水產壽司(休息日請詳閱IG)",
+    "rating": 4.3,
+    "reviews": 336,
+    "category": "日式",
+    "area": "三重"
+  },
+  {
+    "city": "澎湖",
+    "index": 188,
+    "name": "牛霸王牛肉麵",
+    "rating": 4.3,
+    "reviews": 336,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "雲林",
+    "index": 502,
+    "name": "艾草花舍",
+    "rating": 4.3,
+    "reviews": 335,
+    "category": "中式",
+    "area": "斗南鎮"
+  },
+  {
+    "city": "台南",
+    "index": 1060,
+    "name": "維根素食餐廳",
+    "rating": 4.3,
+    "reviews": 334,
+    "category": "素食",
+    "area": "歸仁"
+  },
+  {
+    "city": "新北",
+    "index": 1094,
+    "name": "永安蔬食",
+    "rating": 4.3,
+    "reviews": 333,
+    "category": "素食",
+    "area": "土城"
+  },
+  {
+    "city": "彰化",
+    "index": 722,
+    "name": "胡明理越南美食（一店）",
+    "rating": 4.3,
+    "reviews": 333,
+    "category": "異國",
+    "area": "和美鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 767,
+    "name": "ㄇ一ㄢˋ來香麵店",
+    "rating": 4.3,
+    "reviews": 333,
+    "category": "中式",
+    "area": "線西鄉"
+  },
+  {
+    "city": "台南",
+    "index": 1020,
+    "name": "轉角-家常園",
+    "rating": 4.3,
+    "reviews": 333,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "雲林",
+    "index": 568,
+    "name": "路上有花素食館",
+    "rating": 4.3,
+    "reviews": 332,
+    "category": "素食",
+    "area": "北港鎮"
+  },
+  {
+    "city": "苗栗",
+    "index": 421,
+    "name": "姐妹麵攤",
+    "rating": 4.3,
+    "reviews": 330,
+    "category": "中式",
+    "area": "銅鑼鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 580,
+    "name": "生炒鴨肉焿",
+    "rating": 4.3,
+    "reviews": 330,
+    "category": "中式",
+    "area": "元長鄉"
+  },
+  {
+    "city": "台南",
+    "index": 997,
+    "name": "健慷海產店",
+    "rating": 4.3,
+    "reviews": 330,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 1065,
+    "name": "思嘉莊蔬食餐廳素食",
+    "rating": 4.3,
+    "reviews": 330,
+    "category": "素食",
+    "area": "將軍"
+  },
+  {
+    "city": "台北",
+    "index": 691,
+    "name": "致德蔬食坊",
+    "rating": 4.3,
+    "reviews": 329,
+    "category": "素食",
+    "area": "中山"
+  },
+  {
+    "city": "台南",
+    "index": 954,
+    "name": "上班食堂 和風家庭料理",
+    "rating": 4.3,
+    "reviews": 329,
+    "category": "咖啡廳",
+    "area": "永康"
+  },
+  {
+    "city": "高雄",
+    "index": 950,
+    "name": "兵仔市無名肉燥飯魚皮湯(簡)",
+    "rating": 4.3,
+    "reviews": 329,
+    "category": "中式",
+    "area": "鳳山"
+  },
+  {
+    "city": "澎湖",
+    "index": 187,
+    "name": "大城北牛肉麵",
+    "rating": 4.3,
+    "reviews": 329,
+    "category": "中式",
+    "area": "湖西鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 725,
+    "name": "ㄉㄨㄞㄉㄨㄞ地瓜球",
+    "rating": 4.3,
+    "reviews": 328,
+    "category": "中式",
+    "area": "桃園"
+  },
+  {
+    "city": "台中",
+    "index": 1110,
+    "name": "ㄉㄨㄞㄉㄨㄞ地瓜球",
+    "rating": 4.3,
+    "reviews": 328,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1122,
+    "name": "阿玉早點",
+    "rating": 4.3,
+    "reviews": 328,
+    "category": "中式",
+    "area": "東勢"
+  },
+  {
+    "city": "彰化",
+    "index": 766,
+    "name": "茗園和食創意料理",
+    "rating": 4.3,
+    "reviews": 327,
+    "category": "中式",
+    "area": "福興鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 430,
+    "name": "金名麵館",
+    "rating": 4.3,
+    "reviews": 327,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 995,
+    "name": "cafe noote（偶像應援、包場活動請私訊if、公休日請參考ig臉書貼文或限動）",
+    "rating": 4.3,
+    "reviews": 324,
+    "category": "咖啡廳",
+    "area": "板橋"
+  },
+  {
+    "city": "彰化",
+    "index": 765,
+    "name": "四塊厝爆皮麵",
+    "rating": 4.3,
+    "reviews": 323,
+    "category": "中式",
+    "area": "永靖鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 545,
+    "name": "萬家庄豬腳（6/22公休，晚上用餐請先提早來電預約，以免撲空）",
+    "rating": 4.3,
+    "reviews": 323,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 659,
+    "name": "一號老厝",
+    "rating": 4.3,
+    "reviews": 323,
+    "category": "中式",
+    "area": "萬巒鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1031,
+    "name": "大順熱炒海鮮小吃",
+    "rating": 4.3,
+    "reviews": 322,
+    "category": "中式",
+    "area": "三重"
+  },
+  {
+    "city": "台中",
+    "index": 1102,
+    "name": "大豐快餐雞腿飯",
+    "rating": 4.3,
+    "reviews": 322,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1002,
+    "name": "咕嘰咕嘰早午餐 - 高雄三鳳宮店",
+    "rating": 4.3,
+    "reviews": 322,
+    "category": "咖啡廳",
+    "area": "三民"
+  },
+  {
+    "city": "苗栗",
+    "index": 419,
+    "name": "青山琳溫泉民宿餐廳",
+    "rating": 4.3,
+    "reviews": 320,
+    "category": "中式",
+    "area": "泰安鄉"
+  },
+  {
+    "city": "台中",
+    "index": 1154,
+    "name": "福智素食自助餐",
+    "rating": 4.3,
+    "reviews": 319,
+    "category": "素食",
+    "area": "清水"
+  },
+  {
+    "city": "嘉義",
+    "index": 552,
+    "name": "阿河海產店",
+    "rating": 4.3,
+    "reviews": 319,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "嘉義",
+    "index": 577,
+    "name": "嘉北平價牛排",
+    "rating": 4.3,
+    "reviews": 319,
+    "category": "西式",
+    "area": "西區"
+  },
+  {
+    "city": "高雄",
+    "index": 976,
+    "name": "妙屋食堂",
+    "rating": 4.3,
+    "reviews": 319,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1160,
+    "name": "里仁SUN面健康蔬食餐廳",
+    "rating": 4.3,
+    "reviews": 318,
+    "category": "素食",
+    "area": "西屯"
+  }
+]

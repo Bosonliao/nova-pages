@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 1103,
+    "name": "留園",
+    "rating": 4.4,
+    "reviews": 500,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1126,
+    "name": "梵燒肉",
+    "rating": 4.4,
+    "reviews": 500,
+    "category": "西式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1129,
+    "name": "游壽司 (麗水店)",
+    "rating": 4.4,
+    "reviews": 500,
+    "category": "日式",
+    "area": "大安"
+  },
+  {
+    "city": "雲林",
+    "index": 430,
+    "name": "上大牛排林內店",
+    "rating": 4.4,
+    "reviews": 500,
+    "category": "西式",
+    "area": "林內鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 596,
+    "name": "員林重慶小麵",
+    "rating": 4.4,
+    "reviews": 498,
+    "category": "中式",
+    "area": "員林市"
+  },
+  {
+    "city": "嘉義",
+    "index": 423,
+    "name": "小燈步道",
+    "rating": 4.4,
+    "reviews": 497,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 814,
+    "name": "Oni Pasta",
+    "rating": 4.4,
+    "reviews": 495,
+    "category": "西式",
+    "area": "樹林"
+  },
+  {
+    "city": "彰化",
+    "index": 544,
+    "name": "二林無名高麗菜煎餅",
+    "rating": 4.4,
+    "reviews": 494,
+    "category": "中式",
+    "area": "二林鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 512,
+    "name": "佳香餐飲部-大埔（臉盆砂鍋魚頭）",
+    "rating": 4.4,
+    "reviews": 493,
+    "category": "中式",
+    "area": "大埔鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 501,
+    "name": "榮豐冰棒城（屏東市）",
+    "rating": 4.4,
+    "reviews": 493,
+    "category": "甜品",
+    "area": "屏東市"
+  },
+  {
+    "city": "花蓮",
+    "index": 356,
+    "name": "燕子老宅",
+    "rating": 4.4,
+    "reviews": 493,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 566,
+    "name": "蘆竹大竹冬粉鴨",
+    "rating": 4.4,
+    "reviews": 492,
+    "category": "中式",
+    "area": "蘆竹"
+  },
+  {
+    "city": "桃園",
+    "index": 657,
+    "name": "尚品雅宴農莊",
+    "rating": 4.4,
+    "reviews": 492,
+    "category": "中式",
+    "area": "新屋"
+  },
+  {
+    "city": "桃園",
+    "index": 617,
+    "name": "龍潭市場餛飩",
+    "rating": 4.4,
+    "reviews": 490,
+    "category": "中式",
+    "area": "龍潭"
+  },
+  {
+    "city": "嘉義",
+    "index": 455,
+    "name": "冰的世界",
+    "rating": 4.4,
+    "reviews": 489,
+    "category": "甜品",
+    "area": "西區"
+  },
+  {
+    "city": "新北",
+    "index": 865,
+    "name": "烏魯木其創意甜品—冰品·豆花·紅豆湯·燒仙草",
+    "rating": 4.4,
+    "reviews": 488,
+    "category": "中式",
+    "area": "泰山"
+  },
+  {
+    "city": "宜蘭",
+    "index": 465,
+    "name": "清香小吃",
+    "rating": 4.4,
+    "reviews": 488,
+    "category": "中式",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 555,
+    "name": "監獄肉圓/超好吃脆皮肉圓 /桃園必吃餐廳/人氣特色小吃/隱藏版美食推薦",
+    "rating": 4.4,
+    "reviews": 488,
+    "category": "中式",
+    "area": "八德"
+  },
+  {
+    "city": "桃園",
+    "index": 625,
+    "name": "桃司廚 八德豐德店 鐵板燒早午餐",
+    "rating": 4.4,
+    "reviews": 488,
+    "category": "咖啡廳",
+    "area": "八德"
+  },
+  {
+    "city": "嘉義",
+    "index": 460,
+    "name": "一心牛排館",
+    "rating": 4.4,
+    "reviews": 488,
+    "category": "西式",
+    "area": "東區"
+  },
+  {
+    "city": "台北",
+    "index": 522,
+    "name": "CAFE LE MAHE",
+    "rating": 4.4,
+    "reviews": 487,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 550,
+    "name": "楊梅包三奶大湯圓（鴨肉麵）｜每週日一公休",
+    "rating": 4.4,
+    "reviews": 487,
+    "category": "中式",
+    "area": "楊梅"
+  },
+  {
+    "city": "新北",
+    "index": 919,
+    "name": "優樂蔬食自助餐",
+    "rating": 4.4,
+    "reviews": 486,
+    "category": "素食",
+    "area": "土城"
+  },
+  {
+    "city": "桃園",
+    "index": 576,
+    "name": "再春食堂（無訂位服務）",
+    "rating": 4.4,
+    "reviews": 486,
+    "category": "中式",
+    "area": "大溪"
+  },
+  {
+    "city": "高雄",
+    "index": 828,
+    "name": "隱市牛麵",
+    "rating": 4.4,
+    "reviews": 486,
+    "category": "中式",
+    "area": "新興"
+  },
+  {
+    "city": "高雄",
+    "index": 864,
+    "name": "梨大 蛋中蛋－旗山小山丘甜點手作坊",
+    "rating": 4.4,
+    "reviews": 486,
+    "category": "甜品",
+    "area": "旗山"
+  },
+  {
+    "city": "屏東",
+    "index": 549,
+    "name": "林邊-花草工作室",
+    "rating": 4.4,
+    "reviews": 486,
+    "category": "中式",
+    "area": "林邊鄉"
+  },
+  {
+    "city": "南投",
+    "index": 372,
+    "name": "德意冰坊",
+    "rating": 4.4,
+    "reviews": 485,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 357,
+    "name": "以諾廚房",
+    "rating": 4.4,
+    "reviews": 485,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 290,
+    "name": "成功 丸春號生魚片（市場內）",
+    "rating": 4.4,
+    "reviews": 485,
+    "category": "日式",
+    "area": "成功鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 648,
+    "name": "三禾屋日式定食",
+    "rating": 4.4,
+    "reviews": 484,
+    "category": "日式",
+    "area": "北斗鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 339,
+    "name": "尤大廚私房牛肉麵 ）6/18-28店休）花蓮美食/花蓮牛肉麵/花蓮東大門美食/羊肉麵/推薦美食",
+    "rating": 4.4,
+    "reviews": 484,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 452,
+    "name": "森園樹屋咖啡莊園",
+    "rating": 4.4,
+    "reviews": 482,
+    "category": "咖啡廳",
+    "area": "新豐鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 596,
+    "name": "伍伍森",
+    "rating": 4.4,
+    "reviews": 481,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 398,
+    "name": "陳家素食臭豆腐",
+    "rating": 4.4,
+    "reviews": 481,
+    "category": "素食",
+    "area": "新竹市北"
+  },
+  {
+    "city": "台東",
+    "index": 312,
+    "name": "有時散步早午食（二、三店休）無訂位。",
+    "rating": 4.4,
+    "reviews": 481,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 455,
+    "name": "南方澳好地方食棧",
+    "rating": 4.4,
+    "reviews": 480,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 282,
+    "name": "後龍排骨麵",
+    "rating": 4.4,
+    "reviews": 479,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 650,
+    "name": "廚娘",
+    "rating": 4.4,
+    "reviews": 477,
+    "category": "中式",
+    "area": "彰化市"
+  },
+  {
+    "city": "高雄",
+    "index": 879,
+    "name": "森林仁 親蔬食 10歲以下禁止内用",
+    "rating": 4.4,
+    "reviews": 477,
+    "category": "素食",
+    "area": "前鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 584,
+    "name": "鹿港正宗魷魚王烤大卷",
+    "rating": 4.4,
+    "reviews": 476,
+    "category": "中式",
+    "area": "鹿港鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 602,
+    "name": "田中園 (大安店)",
+    "rating": 4.4,
+    "reviews": 476,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 488,
+    "name": "春日蔬食坊",
+    "rating": 4.4,
+    "reviews": 476,
+    "category": "素食",
+    "area": "嘉義市東"
+  },
+  {
+    "city": "新竹",
+    "index": 405,
+    "name": "鮮原手作料理坊",
+    "rating": 4.4,
+    "reviews": 475,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 574,
+    "name": "大溪小窩創意料理",
+    "rating": 4.4,
+    "reviews": 474,
+    "category": "中式",
+    "area": "八德"
+  },
+  {
+    "city": "花蓮",
+    "index": 343,
+    "name": "冀家小館",
+    "rating": 4.4,
+    "reviews": 473,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 212,
+    "name": "苓蘭生態農園",
+    "rating": 4.4,
+    "reviews": 472,
+    "category": "中式",
+    "area": "七堵"
+  },
+  {
+    "city": "屏東",
+    "index": 484,
+    "name": "藝鍋物 屏東瑞光店",
+    "rating": 4.4,
+    "reviews": 471,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 789,
+    "name": "RAN CAFÉ",
+    "rating": 4.4,
+    "reviews": 470,
+    "category": "咖啡廳",
+    "area": "前金"
+  },
+  {
+    "city": "新北",
+    "index": 892,
+    "name": "無双炒飯",
+    "rating": 4.4,
+    "reviews": 469,
+    "category": "中式",
+    "area": "金山"
+  }
+]

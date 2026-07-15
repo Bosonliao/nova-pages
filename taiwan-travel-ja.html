@@ -225,7 +225,7 @@ const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜�
 
 // Load metadata + nightmarkets first (small files)
 Promise.all([
-  fetch('data-ja/_meta.json').then(r=>r.json()),
+  fetch('data-ja/meta.json').then(r=>r.json()),
   fetch('data-ja/nightmarkets.json').then(r=>r.json())
 ]).then(([meta, nm])=>{
   DATA._updatedAt = meta._updatedAt || '';

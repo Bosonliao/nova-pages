@@ -1,0 +1,452 @@
+[
+  {
+    "city": "雲林",
+    "index": 751,
+    "name": "正源素食",
+    "rating": 3.5,
+    "reviews": 2,
+    "category": "素食",
+    "area": "麥寮鄉"
+  },
+  {
+    "city": "台南",
+    "index": 1431,
+    "name": "如意園素食",
+    "rating": 3.5,
+    "reviews": 2,
+    "category": "素食",
+    "area": "官田"
+  },
+  {
+    "city": "屏東",
+    "index": 861,
+    "name": "佛心素食自助餐",
+    "rating": 3.5,
+    "reviews": 2,
+    "category": "素食",
+    "area": "里港鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1443,
+    "name": "素饍緣蔬食館",
+    "rating": 3.4,
+    "reviews": 186,
+    "category": "素食",
+    "area": "前鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 1444,
+    "name": "人德素食餐飲店",
+    "rating": 3.4,
+    "reviews": 19,
+    "category": "素食",
+    "area": "鳥松"
+  },
+  {
+    "city": "嘉義",
+    "index": 837,
+    "name": "新港阿惠素食",
+    "rating": 3.4,
+    "reviews": 5,
+    "category": "素食",
+    "area": "新港鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1445,
+    "name": "鹽埕鄭家切仔麵",
+    "rating": 3.3,
+    "reviews": 692,
+    "category": "中式",
+    "area": "鹽埕"
+  },
+  {
+    "city": "高雄",
+    "index": 1446,
+    "name": "慈善素食堂",
+    "rating": 3.3,
+    "reviews": 4,
+    "category": "素食",
+    "area": "林園"
+  },
+  {
+    "city": "屏東",
+    "index": 862,
+    "name": "阿龍素食",
+    "rating": 3.3,
+    "reviews": 3,
+    "category": "素食",
+    "area": "林邊鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1447,
+    "name": "全新素食自助餐-永安店",
+    "rating": 3.2,
+    "reviews": 132,
+    "category": "素食",
+    "area": "永安"
+  },
+  {
+    "city": "台中",
+    "index": 1473,
+    "name": "砂丘實驗室 Duna Lab",
+    "rating": 3.2,
+    "reviews": 86,
+    "category": "咖啡廳",
+    "area": "西區"
+  },
+  {
+    "city": "台中",
+    "index": 1462,
+    "name": "臻芯Sincere=舒活慢飲•蔬食素物",
+    "rating": 3.0,
+    "reviews": 13,
+    "category": "素食",
+    "area": "霧峰"
+  },
+  {
+    "city": "高雄",
+    "index": 1448,
+    "name": "如毅素食",
+    "rating": 3.0,
+    "reviews": 4,
+    "category": "素食",
+    "area": "湖內"
+  },
+  {
+    "city": "雲林",
+    "index": 752,
+    "name": "樺園素食",
+    "rating": 3.0,
+    "reviews": 2,
+    "category": "素食",
+    "area": "麥寮鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 863,
+    "name": "22町：蔬食廚房",
+    "rating": 3.0,
+    "reviews": 2,
+    "category": "素食",
+    "area": "里港鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 864,
+    "name": "長泓健康素食",
+    "rating": 3.0,
+    "reviews": 2,
+    "category": "素食",
+    "area": "里港鄉"
+  },
+  {
+    "city": "台北",
+    "index": 962,
+    "name": "駱記小炒",
+    "rating": 2.9,
+    "reviews": 1891,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台南",
+    "index": 1432,
+    "name": "東山素食",
+    "rating": 2.8,
+    "reviews": 5,
+    "category": "素食",
+    "area": "東山"
+  },
+  {
+    "city": "南投",
+    "index": 613,
+    "name": "御花園蔬食起緣溪頭店",
+    "rating": 2.7,
+    "reviews": 7,
+    "category": "素食",
+    "area": "鹿谷鄉"
+  },
+  {
+    "city": "台北",
+    "index": 961,
+    "name": "梁記滷味",
+    "rating": 2.6,
+    "reviews": 1315,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 959,
+    "name": "施老闆麻辣臭豆腐",
+    "rating": 2.5,
+    "reviews": 471,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "高雄",
+    "index": 1449,
+    "name": "道福素食自助餐(高雄長庚B1)",
+    "rating": 2.4,
+    "reviews": 59,
+    "category": "素食",
+    "area": "鳥松"
+  },
+  {
+    "city": "桃園",
+    "index": 1026,
+    "name": "Drip Note COFFEE 滴音咖啡",
+    "rating": 0.0,
+    "reviews": 181,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "台北",
+    "index": 989,
+    "name": "藤本 (Fujimoto)",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 997,
+    "name": "長春藤 (Ivy)",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 999,
+    "name": "芋樂 (Tsubaki)",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1003,
+    "name": "雋 (Guan)",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1010,
+    "name": "溫柔 (Wbistrot)",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1015,
+    "name": "快活林",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1016,
+    "name": "㕩肉舖割烹",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 1008,
+    "name": "萃99'Caffee 新農旗艦店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1009,
+    "name": "在這 coffee x sweets",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1010,
+    "name": "遜咖啡 Xun Cafe",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1011,
+    "name": "麥売珈琲洋食菓子",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1012,
+    "name": "野也Cafe",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1013,
+    "name": "找一個地方",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1014,
+    "name": "白木咖啡 Baimu Cafe",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "楊梅"
+  },
+  {
+    "city": "桃園",
+    "index": 1015,
+    "name": "Come True成真咖啡 桃園藝文町店",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1016,
+    "name": "野陌咖啡館 Yermo.eatery",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1017,
+    "name": "Two Five Café",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1019,
+    "name": "Söt cafe Rivulet 浮島溪",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1021,
+    "name": "相寓咖啡 Lumi Haven",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1022,
+    "name": "朝顏屋3.2K",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1023,
+    "name": "蒔伍咖啡",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1024,
+    "name": "癒珈琲店 IYASHI COFFEE",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "桃園"
+  },
+  {
+    "city": "桃園",
+    "index": 1027,
+    "name": "布納咖啡館 中壢館",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1028,
+    "name": "鬍莉咖啡 Roulez-Vous Café",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1029,
+    "name": "時常咖啡 Often coffee",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1030,
+    "name": "Focus on Flavor 2",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  },
+  {
+    "city": "桃園",
+    "index": 1031,
+    "name": "旿野曜初Café Brunch",
+    "rating": 0.0,
+    "reviews": 0,
+    "category": "咖啡廳",
+    "area": "中壢"
+  }
+]

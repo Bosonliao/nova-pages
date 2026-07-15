@@ -1,0 +1,5 @@
+花蓮: 192/192 restaurants have dishes
+台東: 170/170 restaurants have dishes
+雲林: 189/189 restaurants have dishes
+澎湖: 79/79 restaurants have dishes
+金馬: 32/32 restaurants have dishes

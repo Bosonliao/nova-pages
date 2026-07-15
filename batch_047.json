@@ -1,0 +1,452 @@
+[
+  {
+    "city": "桃園",
+    "index": 322,
+    "name": "摩洛哥正宗料理屋My Moroccan Foods (Halal)",
+    "rating": 4.7,
+    "reviews": 578,
+    "category": "異國",
+    "area": "八德"
+  },
+  {
+    "city": "高雄",
+    "index": 386,
+    "name": "HIRATSUKA 本格燒肉專門店",
+    "rating": 4.7,
+    "reviews": 578,
+    "category": "西式",
+    "area": "新興"
+  },
+  {
+    "city": "花蓮",
+    "index": 157,
+    "name": "艾斯可菲秘境私廚",
+    "rating": 4.7,
+    "reviews": 578,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 194,
+    "name": "現流魚海鮮餐廳",
+    "rating": 4.7,
+    "reviews": 577,
+    "category": "中式",
+    "area": "新豐鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 332,
+    "name": "Happy Farmer．桃園 （蔬食）",
+    "rating": 4.7,
+    "reviews": 574,
+    "category": "素食",
+    "area": "桃園"
+  },
+  {
+    "city": "台中",
+    "index": 412,
+    "name": "1001手作廚房",
+    "rating": 4.7,
+    "reviews": 574,
+    "category": "中式",
+    "area": "西屯"
+  },
+  {
+    "city": "台中",
+    "index": 415,
+    "name": "拾玖號餐廳",
+    "rating": 4.7,
+    "reviews": 574,
+    "category": "中式",
+    "area": "西屯"
+  },
+  {
+    "city": "高雄",
+    "index": 460,
+    "name": "大芯鐵板料理 Teppanyaki(高腳桌椅的用餐環境，座位數不多建議定位)",
+    "rating": 4.7,
+    "reviews": 574,
+    "category": "中式",
+    "area": "路竹"
+  },
+  {
+    "city": "台中",
+    "index": 450,
+    "name": "show 喫冰小棧",
+    "rating": 4.7,
+    "reviews": 572,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 255,
+    "name": "莉姆姆的歌 - 小米甜甜圈",
+    "rating": 4.7,
+    "reviews": 572,
+    "category": "中式",
+    "area": "霧台鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 145,
+    "name": "麋生咖啡Elk Life早午餐（寵物友善）",
+    "rating": 4.7,
+    "reviews": 568,
+    "category": "咖啡廳",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台北",
+    "index": 229,
+    "name": "粼茶 LimTê by YOUR¡ 酉日",
+    "rating": 4.7,
+    "reviews": 565,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 295,
+    "name": "川三 上選燒肉 Chuansan Yakiniku 桃園店",
+    "rating": 4.7,
+    "reviews": 565,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 396,
+    "name": "善化無名豆菜麵-宵夜早餐",
+    "rating": 4.7,
+    "reviews": 565,
+    "category": "咖啡廳",
+    "area": "善化"
+  },
+  {
+    "city": "苗栗",
+    "index": 127,
+    "name": "小山丘 hillside 145.5k",
+    "rating": 4.7,
+    "reviews": 562,
+    "category": "中式",
+    "area": "卓蘭鎮"
+  },
+  {
+    "city": "台東",
+    "index": 130,
+    "name": "Mese Coffee 草月咖啡館",
+    "rating": 4.7,
+    "reviews": 559,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 442,
+    "name": "津鮮閣活海鮮餐廳.美食.萬里蟹.龜吼漁港.好評推薦",
+    "rating": 4.7,
+    "reviews": 558,
+    "category": "中式",
+    "area": "萬里"
+  },
+  {
+    "city": "台北",
+    "index": 190,
+    "name": "MaoInn Steak 錨隱廚牛排龍蝦餐酒館",
+    "rating": 4.7,
+    "reviews": 557,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 194,
+    "name": "肉桂樹 The Cinnamon Tree 肉桂捲-師大店",
+    "rating": 4.7,
+    "reviews": 553,
+    "category": "甜品",
+    "area": "大安"
+  },
+  {
+    "city": "宜蘭",
+    "index": 283,
+    "name": "鑫品湯包",
+    "rating": 4.7,
+    "reviews": 552,
+    "category": "中式",
+    "area": "員山鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 213,
+    "name": "養鍋 Yang Guo 石頭涮涮鍋 麥寮旗艦店",
+    "rating": 4.7,
+    "reviews": 551,
+    "category": "火鍋",
+    "area": "麥寮鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 258,
+    "name": "和蒙鍋物-宜蘭羅東店",
+    "rating": 4.7,
+    "reviews": 550,
+    "category": "火鍋",
+    "area": "羅東鎮"
+  },
+  {
+    "city": "宜蘭",
+    "index": 718,
+    "name": "小林冰堂",
+    "rating": 4.7,
+    "reviews": 550,
+    "category": "咖啡廳",
+    "area": "宜蘭市"
+  },
+  {
+    "city": "基隆",
+    "index": 116,
+    "name": "小腳落 Little corner（不定期公休，請見臉書）",
+    "rating": 4.7,
+    "reviews": 549,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台中",
+    "index": 395,
+    "name": "胡同裏燒肉 台中店",
+    "rating": 4.7,
+    "reviews": 548,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 78,
+    "name": "冰吧豆花(嫩仙草冰-仙人掌冰-仙人掌粉粿-傳統剉冰-粉圓冰)",
+    "rating": 4.7,
+    "reviews": 548,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "南投",
+    "index": 184,
+    "name": "南投聞吔香火鍋牛排館(6/19端午公休一天）",
+    "rating": 4.7,
+    "reviews": 547,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 250,
+    "name": "玖肆鴨霸/小琉球美食/小琉球餐廳/小琉球熱炒/小琉球小吃/小琉球晚餐/小琉球午餐/小琉球必吃",
+    "rating": 4.7,
+    "reviews": 547,
+    "category": "中式",
+    "area": "琉球鄉"
+  },
+  {
+    "city": "台中",
+    "index": 447,
+    "name": "純愛氷菓室PUPPY LOVE",
+    "rating": 4.7,
+    "reviews": 546,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 274,
+    "name": "獸囍蔬食",
+    "rating": 4.7,
+    "reviews": 546,
+    "category": "素食",
+    "area": "員林市"
+  },
+  {
+    "city": "高雄",
+    "index": 358,
+    "name": "和楓牛奶堂—牧場直營牛奶鍋",
+    "rating": 4.7,
+    "reviews": 546,
+    "category": "火鍋",
+    "area": "橋頭"
+  },
+  {
+    "city": "桃園",
+    "index": 257,
+    "name": "八德臭豆腐",
+    "rating": 4.7,
+    "reviews": 545,
+    "category": "中式",
+    "area": "八德"
+  },
+  {
+    "city": "新竹",
+    "index": 209,
+    "name": "綠木頭",
+    "rating": 4.7,
+    "reviews": 544,
+    "category": "中式",
+    "area": "尖石鄉"
+  },
+  {
+    "city": "台中",
+    "index": 527,
+    "name": "席拉米主題餐廳",
+    "rating": 4.7,
+    "reviews": 544,
+    "category": "中式",
+    "area": "梧棲"
+  },
+  {
+    "city": "南投",
+    "index": 177,
+    "name": "清原芋圓-南投埔里店",
+    "rating": 4.7,
+    "reviews": 542,
+    "category": "中式",
+    "area": "埔里鎮"
+  },
+  {
+    "city": "台東",
+    "index": 140,
+    "name": "迷你義式冰淇淋",
+    "rating": 4.7,
+    "reviews": 541,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 86,
+    "name": "三山商號功夫刈包",
+    "rating": 4.7,
+    "reviews": 540,
+    "category": "中式",
+    "area": "西嶼鄉"
+  },
+  {
+    "city": "台中",
+    "index": 394,
+    "name": "御尚冰手作冰淇淋Gelato 生日蛋糕",
+    "rating": 4.7,
+    "reviews": 538,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 338,
+    "name": "金賀食堂",
+    "rating": 4.7,
+    "reviews": 538,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 378,
+    "name": "雛匠日本料理（平日中午以訂位為主）",
+    "rating": 4.7,
+    "reviews": 537,
+    "category": "日式",
+    "area": "板橋"
+  },
+  {
+    "city": "台中",
+    "index": 406,
+    "name": "林立牛肉麵",
+    "rating": 4.7,
+    "reviews": 537,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "苗栗",
+    "index": 118,
+    "name": "開飯川食堂 苗栗尚順店",
+    "rating": 4.7,
+    "reviews": 535,
+    "category": "中式",
+    "area": "頭份市"
+  },
+  {
+    "city": "苗栗",
+    "index": 124,
+    "name": "屋咖人（無接待團體超過4位，假日需預約）",
+    "rating": 4.7,
+    "reviews": 535,
+    "category": "中式",
+    "area": "頭份市"
+  },
+  {
+    "city": "屏東",
+    "index": 206,
+    "name": "喜巷花弄 - 手作雪花冰",
+    "rating": 4.7,
+    "reviews": 534,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 342,
+    "name": "蘭笑軒 和牛滷肉飯",
+    "rating": 4.7,
+    "reviews": 533,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "新北",
+    "index": 440,
+    "name": "姚家無刺虱目魚魯肉飯 泰山福興店",
+    "rating": 4.7,
+    "reviews": 532,
+    "category": "中式",
+    "area": "泰山"
+  },
+  {
+    "city": "宜蘭",
+    "index": 202,
+    "name": "礁溪水尾羊肉爐",
+    "rating": 4.7,
+    "reviews": 530,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 160,
+    "name": "道禾食堂",
+    "rating": 4.7,
+    "reviews": 530,
+    "category": "中式",
+    "area": "竹東鎮"
+  },
+  {
+    "city": "台南",
+    "index": 41,
+    "name": "陳記善化牛肉湯 | 灣裡陳土產牛肉",
+    "rating": 4.7,
+    "reviews": 530,
+    "category": "中式",
+    "area": "南區"
+  },
+  {
+    "city": "新北",
+    "index": 450,
+    "name": "十分樓仔厝咖啡民宿(Lou-A-Chu)",
+    "rating": 4.7,
+    "reviews": 527,
+    "category": "咖啡廳",
+    "area": "平溪"
+  }
+]

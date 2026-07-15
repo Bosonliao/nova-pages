@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新竹",
+    "index": 699,
+    "name": "清大飲料/冰品/甜品 （冰飲/雪花冰/布丁豆花/嫩仙草）",
+    "rating": 4.1,
+    "reviews": 659,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 1375,
+    "name": "華記龍鳳腿",
+    "rating": 4.1,
+    "reviews": 658,
+    "category": "中式",
+    "area": "瑞芳"
+  },
+  {
+    "city": "花蓮",
+    "index": 533,
+    "name": "阿嬤麵店",
+    "rating": 4.1,
+    "reviews": 658,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 872,
+    "name": "松山市場水餃",
+    "rating": 4.1,
+    "reviews": 656,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "金馬",
+    "index": 74,
+    "name": "萬家香二店",
+    "rating": 4.1,
+    "reviews": 655,
+    "category": "中式",
+    "area": "南竿鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1316,
+    "name": "潤品客家食堂 梅乾滷肉飯 板條 湯圓 米苔目 切仔麵 黑白切（最後點餐時間13:45和20:15）",
+    "rating": 4.1,
+    "reviews": 653,
+    "category": "中式",
+    "area": "永和"
+  },
+  {
+    "city": "台南",
+    "index": 1303,
+    "name": "鴨米•鴨米脆皮薯條專賣店",
+    "rating": 4.1,
+    "reviews": 652,
+    "category": "中式",
+    "area": "中西"
+  },
+  {
+    "city": "嘉義",
+    "index": 749,
+    "name": "德洋壽司",
+    "rating": 4.1,
+    "reviews": 650,
+    "category": "日式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 1349,
+    "name": "布丁主義",
+    "rating": 4.1,
+    "reviews": 648,
+    "category": "中式",
+    "area": "新莊"
+  },
+  {
+    "city": "桃園",
+    "index": 896,
+    "name": "台灣快炒",
+    "rating": 4.1,
+    "reviews": 646,
+    "category": "中式",
+    "area": "蘆竹"
+  },
+  {
+    "city": "台中",
+    "index": 1359,
+    "name": "東口小店",
+    "rating": 4.1,
+    "reviews": 644,
+    "category": "中式",
+    "area": "東勢"
+  },
+  {
+    "city": "台南",
+    "index": 1302,
+    "name": "江川肉燥飯",
+    "rating": 4.1,
+    "reviews": 644,
+    "category": "中式",
+    "area": "中西"
+  },
+  {
+    "city": "台南",
+    "index": 1266,
+    "name": "好客多鵝肉·海鮮.熱炒·泰國活蝦.甕仔雞",
+    "rating": 4.1,
+    "reviews": 643,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1336,
+    "name": "正義台灣牛肉",
+    "rating": 4.1,
+    "reviews": 642,
+    "category": "中式",
+    "area": "三重"
+  },
+  {
+    "city": "宜蘭",
+    "index": 23,
+    "name": "阿茂米粉羹",
+    "rating": 4.1,
+    "reviews": 642,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1316,
+    "name": "后里國中肉圓",
+    "rating": 4.1,
+    "reviews": 641,
+    "category": "中式",
+    "area": "后里"
+  },
+  {
+    "city": "雲林",
+    "index": 678,
+    "name": "阿文排骨飯大王",
+    "rating": 4.1,
+    "reviews": 640,
+    "category": "中式",
+    "area": "林內鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 808,
+    "name": "小島燒ABURI KOJIMA",
+    "rating": 4.1,
+    "reviews": 640,
+    "category": "中式",
+    "area": "琉球鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1385,
+    "name": "八畝田健康蔬食自助餐",
+    "rating": 4.1,
+    "reviews": 639,
+    "category": "素食",
+    "area": "永和"
+  },
+  {
+    "city": "新北",
+    "index": 1392,
+    "name": "海都市餐廳",
+    "rating": 4.1,
+    "reviews": 639,
+    "category": "中式",
+    "area": "三芝"
+  },
+  {
+    "city": "台北",
+    "index": 824,
+    "name": "ivette Da An",
+    "rating": 4.1,
+    "reviews": 638,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 1400,
+    "name": "宸軒園粵菜海鮮(中興店) - 特色桌菜、經典合菜、新店美食餐廳",
+    "rating": 4.1,
+    "reviews": 635,
+    "category": "中式",
+    "area": "新店"
+  },
+  {
+    "city": "新竹",
+    "index": 729,
+    "name": "野山田工坊",
+    "rating": 4.1,
+    "reviews": 632,
+    "category": "甜品",
+    "area": "峨眉鄉"
+  },
+  {
+    "city": "南投",
+    "index": 0,
+    "name": "竹山橋頭麵店",
+    "rating": 4.1,
+    "reviews": 631,
+    "category": "中式",
+    "area": "竹山鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 1301,
+    "name": "井園排骨飯",
+    "rating": 4.1,
+    "reviews": 631,
+    "category": "中式",
+    "area": "三民"
+  },
+  {
+    "city": "高雄",
+    "index": 1310,
+    "name": "新鑫羊肉店",
+    "rating": 4.1,
+    "reviews": 630,
+    "category": "中式",
+    "area": "岡山"
+  },
+  {
+    "city": "新北",
+    "index": 1406,
+    "name": "福州兩相好(雙胞胎創始老店)",
+    "rating": 4.1,
+    "reviews": 628,
+    "category": "甜品",
+    "area": "八里"
+  },
+  {
+    "city": "新竹",
+    "index": 686,
+    "name": "酒攤海鮮快炒",
+    "rating": 4.1,
+    "reviews": 627,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "屏東",
+    "index": 781,
+    "name": "屏東黃家肉圓（6/22正常營業）",
+    "rating": 4.1,
+    "reviews": 626,
+    "category": "中式",
+    "area": "屏東市"
+  },
+  {
+    "city": "新北",
+    "index": 1407,
+    "name": "大眾餐館",
+    "rating": 4.1,
+    "reviews": 621,
+    "category": "中式",
+    "area": "雙溪"
+  },
+  {
+    "city": "屏東",
+    "index": 789,
+    "name": "龍門客家食堂",
+    "rating": 4.1,
+    "reviews": 620,
+    "category": "中式",
+    "area": "內埔鄉"
+  },
+  {
+    "city": "台東",
+    "index": 487,
+    "name": "阿亮海產店",
+    "rating": 4.1,
+    "reviews": 617,
+    "category": "中式",
+    "area": "成功鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 684,
+    "name": "品豐海鮮總匯-新竹快炒店",
+    "rating": 4.1,
+    "reviews": 613,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台南",
+    "index": 1298,
+    "name": "小圓園美食館",
+    "rating": 4.1,
+    "reviews": 613,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 879,
+    "name": "阿姨麵攤",
+    "rating": 4.1,
+    "reviews": 609,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 472,
+    "name": "阿官火鍋專家-台東傳廣加盟店",
+    "rating": 4.1,
+    "reviews": 607,
+    "category": "火鍋",
+    "area": ""
+  },
+  {
+    "city": "南投",
+    "index": 574,
+    "name": "巷仔內餐廳",
+    "rating": 4.1,
+    "reviews": 606,
+    "category": "中式",
+    "area": "草屯鎮"
+  },
+  {
+    "city": "基隆",
+    "index": 318,
+    "name": "木野和風家庭料理",
+    "rating": 4.1,
+    "reviews": 605,
+    "category": "中式",
+    "area": "安樂"
+  },
+  {
+    "city": "嘉義",
+    "index": 728,
+    "name": "曹家牛肉麵－啟明店（老字號/牛肉麵/水餃/小菜/嘉義美食）",
+    "rating": 4.1,
+    "reviews": 604,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "新北",
+    "index": 1418,
+    "name": "福中居茶坊",
+    "rating": 4.1,
+    "reviews": 603,
+    "category": "中式",
+    "area": "汐止"
+  },
+  {
+    "city": "新北",
+    "index": 1397,
+    "name": "塔帕笠屋",
+    "rating": 4.1,
+    "reviews": 601,
+    "category": "日式",
+    "area": "金山"
+  },
+  {
+    "city": "苗栗",
+    "index": 554,
+    "name": "鱺魚小吃店",
+    "rating": 4.1,
+    "reviews": 598,
+    "category": "中式",
+    "area": "頭屋鄉"
+  },
+  {
+    "city": "屏東",
+    "index": 801,
+    "name": "先帝廟粄條",
+    "rating": 4.1,
+    "reviews": 597,
+    "category": "中式",
+    "area": "萬巒鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 891,
+    "name": "安一海南雞飯",
+    "rating": 4.1,
+    "reviews": 596,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 711,
+    "name": "禾豐自助餐",
+    "rating": 4.1,
+    "reviews": 595,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "花蓮",
+    "index": 548,
+    "name": "正一牛排",
+    "rating": 4.1,
+    "reviews": 593,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 657,
+    "name": "阿爹的灶腳宜蘭美食小吃餐廳",
+    "rating": 4.1,
+    "reviews": 592,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "桃園",
+    "index": 908,
+    "name": "源松客家餐廳",
+    "rating": 4.1,
+    "reviews": 592,
+    "category": "中式",
+    "area": "新屋"
+  },
+  {
+    "city": "屏東",
+    "index": 814,
+    "name": "枋寮（合）漁港 吻仔魚",
+    "rating": 4.1,
+    "reviews": 592,
+    "category": "中式",
+    "area": "枋寮鄉"
+  },
+  {
+    "city": "台北",
+    "index": 948,
+    "name": "美麗餐廳",
+    "rating": 4.1,
+    "reviews": 591,
+    "category": "中式",
+    "area": "中山"
+  }
+]

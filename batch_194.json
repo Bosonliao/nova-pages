@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新竹",
+    "index": 728,
+    "name": "Emei Lakeside Restaurant",
+    "rating": 4.1,
+    "reviews": 512,
+    "category": "咖啡廳",
+    "area": "峨眉鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 640,
+    "name": "九條牛牛肉麵-宜蘭總店",
+    "rating": 4.1,
+    "reviews": 511,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1294,
+    "name": "品益合樂屋 日本料理",
+    "rating": 4.1,
+    "reviews": 508,
+    "category": "日式",
+    "area": "前金"
+  },
+  {
+    "city": "台東",
+    "index": 463,
+    "name": "馬中原牛肉麵",
+    "rating": 4.1,
+    "reviews": 507,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "高雄",
+    "index": 1270,
+    "name": "郭 嘉義火雞肉飯",
+    "rating": 4.1,
+    "reviews": 506,
+    "category": "中式",
+    "area": "苓雅"
+  },
+  {
+    "city": "雲林",
+    "index": 690,
+    "name": "西螺老牌豆菜麵魷魚羹（祖傳名店）",
+    "rating": 4.1,
+    "reviews": 505,
+    "category": "中式",
+    "area": "西螺鎮"
+  },
+  {
+    "city": "金馬",
+    "index": 72,
+    "name": "榕榕園麵館",
+    "rating": 4.1,
+    "reviews": 501,
+    "category": "中式",
+    "area": "金湖鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 547,
+    "name": "地6攤牛排 城中店",
+    "rating": 4.1,
+    "reviews": 500,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 751,
+    "name": "早晨小姐Good morning",
+    "rating": 4.1,
+    "reviews": 499,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "基隆",
+    "index": 332,
+    "name": "牛肉德沙茶炒牛肉",
+    "rating": 4.1,
+    "reviews": 498,
+    "category": "中式",
+    "area": "安樂"
+  },
+  {
+    "city": "台東",
+    "index": 498,
+    "name": "富富廚房fufukitchen",
+    "rating": 4.1,
+    "reviews": 492,
+    "category": "中式",
+    "area": "綠島鄉"
+  },
+  {
+    "city": "南投",
+    "index": 555,
+    "name": "美味九九",
+    "rating": 4.1,
+    "reviews": 486,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1314,
+    "name": "大新火雞肉飯",
+    "rating": 4.1,
+    "reviews": 483,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 732,
+    "name": "朴子第一零售市場(Market)",
+    "rating": 4.1,
+    "reviews": 483,
+    "category": "中式",
+    "area": "朴子市"
+  },
+  {
+    "city": "嘉義",
+    "index": 739,
+    "name": "朴子第一市場小吃",
+    "rating": 4.1,
+    "reviews": 483,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 323,
+    "name": "來來粿仔湯",
+    "rating": 4.1,
+    "reviews": 482,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "桃園",
+    "index": 871,
+    "name": "龍潭老街麵店",
+    "rating": 4.1,
+    "reviews": 481,
+    "category": "中式",
+    "area": "龍潭"
+  },
+  {
+    "city": "嘉義",
+    "index": 780,
+    "name": "芬媽咪魔法廚房",
+    "rating": 4.1,
+    "reviews": 481,
+    "category": "中式",
+    "area": "太保市"
+  },
+  {
+    "city": "屏東",
+    "index": 754,
+    "name": "新享天風味家常菜",
+    "rating": 4.1,
+    "reviews": 480,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 777,
+    "name": "小麟牛排",
+    "rating": 4.1,
+    "reviews": 480,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 744,
+    "name": "瞳瞳餐廚",
+    "rating": 4.1,
+    "reviews": 478,
+    "category": "中式",
+    "area": "朴子市"
+  },
+  {
+    "city": "新竹",
+    "index": 664,
+    "name": "咪咔廚房Micasa Kitchen & Cafe",
+    "rating": 4.1,
+    "reviews": 477,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 727,
+    "name": "嘉義阿麗雞肉飯總店",
+    "rating": 4.1,
+    "reviews": 471,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "台中",
+    "index": 1369,
+    "name": "大甲黑石頭碳烤玉米",
+    "rating": 4.1,
+    "reviews": 469,
+    "category": "中式",
+    "area": "大甲"
+  },
+  {
+    "city": "台中",
+    "index": 1303,
+    "name": "宋家藥燉排骨。臭豆腐",
+    "rating": 4.1,
+    "reviews": 468,
+    "category": "中式",
+    "area": "西屯"
+  },
+  {
+    "city": "南投",
+    "index": 578,
+    "name": "山水緣蔬食民宿餐廳",
+    "rating": 4.1,
+    "reviews": 468,
+    "category": "素食",
+    "area": "仁愛鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 745,
+    "name": "津香麵食館（全年無休）",
+    "rating": 4.1,
+    "reviews": 468,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "桃園",
+    "index": 907,
+    "name": "中新客家餐廳",
+    "rating": 4.1,
+    "reviews": 467,
+    "category": "中式",
+    "area": "中壢"
+  },
+  {
+    "city": "嘉義",
+    "index": 782,
+    "name": "Reale Cucina Italiana",
+    "rating": 4.1,
+    "reviews": 463,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "基隆",
+    "index": 22,
+    "name": "李家鍋貼饅頭",
+    "rating": 4.1,
+    "reviews": 461,
+    "category": "中式",
+    "area": "仁愛"
+  },
+  {
+    "city": "台中",
+    "index": 1344,
+    "name": "金鶴魯排骨飯",
+    "rating": 4.1,
+    "reviews": 460,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "基隆",
+    "index": 333,
+    "name": "龍門客棧麵店",
+    "rating": 4.1,
+    "reviews": 459,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "雲林",
+    "index": 694,
+    "name": "維野納複合式餐飲 (拿鐵鍋專賣)",
+    "rating": 4.1,
+    "reviews": 459,
+    "category": "中式",
+    "area": "古坑鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 555,
+    "name": "哈軒森 精緻熱炒",
+    "rating": 4.1,
+    "reviews": 458,
+    "category": "中式",
+    "area": "瑞穗鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 736,
+    "name": "莛芳麵食館",
+    "rating": 4.1,
+    "reviews": 457,
+    "category": "中式",
+    "area": "芎林鄉"
+  },
+  {
+    "city": "台北",
+    "index": 833,
+    "name": "北投林家涼麵",
+    "rating": 4.1,
+    "reviews": 456,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "新北",
+    "index": 1379,
+    "name": "石板小吃店",
+    "rating": 4.1,
+    "reviews": 456,
+    "category": "中式",
+    "area": "烏來"
+  },
+  {
+    "city": "雲林",
+    "index": 688,
+    "name": "點心樓",
+    "rating": 4.1,
+    "reviews": 453,
+    "category": "中式",
+    "area": "斗六市"
+  },
+  {
+    "city": "台中",
+    "index": 1358,
+    "name": "東勢田媽媽- 品佳客家田園料理",
+    "rating": 4.1,
+    "reviews": 452,
+    "category": "中式",
+    "area": "東勢"
+  },
+  {
+    "city": "南投",
+    "index": 541,
+    "name": "古早味 王家意麵 百年老店",
+    "rating": 4.1,
+    "reviews": 452,
+    "category": "中式",
+    "area": "名間鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 685,
+    "name": "老宋排骨",
+    "rating": 4.1,
+    "reviews": 451,
+    "category": "中式",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "高雄",
+    "index": 1307,
+    "name": "鹽埕埔",
+    "rating": 4.1,
+    "reviews": 451,
+    "category": "中式",
+    "area": "鹽埕"
+  },
+  {
+    "city": "屏東",
+    "index": 756,
+    "name": "大埔松仔腳肉燥粿",
+    "rating": 4.1,
+    "reviews": 450,
+    "category": "咖啡廳",
+    "area": "屏東市"
+  },
+  {
+    "city": "屏東",
+    "index": 768,
+    "name": "大埔肉燥粿（無固定店休日））",
+    "rating": 4.1,
+    "reviews": 450,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 1371,
+    "name": "斐得蔬食",
+    "rating": 4.1,
+    "reviews": 447,
+    "category": "素食",
+    "area": "中區"
+  },
+  {
+    "city": "苗栗",
+    "index": 583,
+    "name": "頭份素食緣餃子館",
+    "rating": 4.1,
+    "reviews": 445,
+    "category": "素食",
+    "area": "頭份市"
+  },
+  {
+    "city": "基隆",
+    "index": 322,
+    "name": "仁愛市場美華牛肉麵",
+    "rating": 4.1,
+    "reviews": 444,
+    "category": "中式",
+    "area": "仁愛"
+  },
+  {
+    "city": "新竹",
+    "index": 723,
+    "name": "荷風素食屋",
+    "rating": 4.1,
+    "reviews": 444,
+    "category": "素食",
+    "area": "新竹市北"
+  },
+  {
+    "city": "屏東",
+    "index": 817,
+    "name": "大武英豪商務會館",
+    "rating": 4.1,
+    "reviews": 444,
+    "category": "中式",
+    "area": "泰武鄉"
+  },
+  {
+    "city": "宜蘭",
+    "index": 684,
+    "name": "陽光田園 Pasta (壯圍店)｜宜蘭美食｜壯圍美食｜壯圍必吃｜在地推薦｜人氣餐廳｜聚餐首選｜義大利",
+    "rating": 4.1,
+    "reviews": 442,
+    "category": "西式",
+    "area": "壯圍鄉"
+  }
+]

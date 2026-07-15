@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新北",
+    "index": 425,
+    "name": "吉蒔雨 蔬食料理",
+    "rating": 4.7,
+    "reviews": 343,
+    "category": "素食",
+    "area": "淡水"
+  },
+  {
+    "city": "桃園",
+    "index": 328,
+    "name": "Veg Out 蔬食早餐",
+    "rating": 4.7,
+    "reviews": 343,
+    "category": "素食",
+    "area": "八德"
+  },
+  {
+    "city": "屏東",
+    "index": 214,
+    "name": "大頭牛排屏東店",
+    "rating": 4.7,
+    "reviews": 343,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 220,
+    "name": "食添飯中式餐廳-員林美食-餐廳-Restaurants",
+    "rating": 4.7,
+    "reviews": 342,
+    "category": "中式",
+    "area": "員林市"
+  },
+  {
+    "city": "屏東",
+    "index": 187,
+    "name": "香港海南雞飯",
+    "rating": 4.7,
+    "reviews": 342,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "澎湖",
+    "index": 89,
+    "name": "526食堂/澎湖美食、有葷有素、隱藏版美食、澎湖必吃美食、午餐晚餐、在地推薦炒飯炒泡麵專賣店｜不定時",
+    "rating": 4.7,
+    "reviews": 342,
+    "category": "中式",
+    "area": "馬公市"
+  },
+  {
+    "city": "桃園",
+    "index": 240,
+    "name": "After5_步驟六龜山店",
+    "rating": 4.7,
+    "reviews": 340,
+    "category": "中式",
+    "area": "龜山"
+  },
+  {
+    "city": "屏東",
+    "index": 171,
+    "name": "Yoshi嘉 燒物 関東煮 - 屏東 南部平價美食好評 必吃串燒推薦 小吃宵夜首選 露營風庭院餐廳 人氣百頁豆腐 好吃照燒雞肉飯 薑汁燒肉飯 熱門鮭魚茶漬飯 蒲燒鰻魚飯 日式唐揚雞 明太子雞肉串 高CP值豬五花 必吃塩蔥雞腿 黑輪",
+    "rating": 4.7,
+    "reviews": 340,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 213,
+    "name": "上上麵食館",
+    "rating": 4.7,
+    "reviews": 339,
+    "category": "中式",
+    "area": "關西鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 169,
+    "name": "蠔蝦活蝦料理熱炒店-夏季烤蚵吃到飽",
+    "rating": 4.7,
+    "reviews": 339,
+    "category": "中式",
+    "area": "西螺鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 177,
+    "name": "川壽司 花蓮 新城 家樂福附近 日式 生魚片 居酒屋 燒烤 炸物 烏龍麵",
+    "rating": 4.7,
+    "reviews": 339,
+    "category": "日式",
+    "area": "新城鄉"
+  },
+  {
+    "city": "基隆",
+    "index": 122,
+    "name": "C'est Bon Bistro棒棒小餐館",
+    "rating": 4.7,
+    "reviews": 338,
+    "category": "中式",
+    "area": "七堵"
+  },
+  {
+    "city": "南投",
+    "index": 151,
+    "name": "米樂義式料理",
+    "rating": 4.7,
+    "reviews": 338,
+    "category": "西式",
+    "area": "南投市"
+  },
+  {
+    "city": "桃園",
+    "index": 344,
+    "name": "不等一個人咖啡美食",
+    "rating": 4.7,
+    "reviews": 337,
+    "category": "咖啡廳",
+    "area": "復興"
+  },
+  {
+    "city": "彰化",
+    "index": 217,
+    "name": "老朱阿贊爌肉飯（民生路）",
+    "rating": 4.7,
+    "reviews": 337,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 161,
+    "name": "从出一瓢味",
+    "rating": 4.7,
+    "reviews": 337,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 179,
+    "name": "Queen'食（最後點餐時間14:00。若當日完售將提前打烊，請見諒！）",
+    "rating": 4.7,
+    "reviews": 337,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "宜蘭",
+    "index": 286,
+    "name": "想饗牛排",
+    "rating": 4.7,
+    "reviews": 336,
+    "category": "西式",
+    "area": "壯圍鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 283,
+    "name": "久季日本料理 （無菜單料理）",
+    "rating": 4.7,
+    "reviews": 336,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "屏東",
+    "index": 259,
+    "name": "烹廚達亨手作料理餐店",
+    "rating": 4.7,
+    "reviews": 336,
+    "category": "中式",
+    "area": "內埔鄉"
+  },
+  {
+    "city": "新竹",
+    "index": 153,
+    "name": "范阿嬤野薑花粽",
+    "rating": 4.7,
+    "reviews": 335,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台東",
+    "index": 131,
+    "name": "野室珈琲W.G.cafe",
+    "rating": 4.7,
+    "reviews": 335,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 214,
+    "name": "八廚職人弁当-香山中華店 新竹必吃/現點現做/精緻便當/香山美食",
+    "rating": 4.7,
+    "reviews": 334,
+    "category": "中式",
+    "area": "香山"
+  },
+  {
+    "city": "雲林",
+    "index": 141,
+    "name": "老吳咖啡莊園 Thewu caf’e",
+    "rating": 4.7,
+    "reviews": 332,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 154,
+    "name": "上福餐廳",
+    "rating": 4.7,
+    "reviews": 331,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "花蓮",
+    "index": 166,
+    "name": "明今活海鮮",
+    "rating": 4.7,
+    "reviews": 331,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "新北",
+    "index": 473,
+    "name": "迷迷路食堂",
+    "rating": 4.7,
+    "reviews": 329,
+    "category": "中式",
+    "area": "瑞芳"
+  },
+  {
+    "city": "桃園",
+    "index": 255,
+    "name": "麵當家河南扯麵",
+    "rating": 4.7,
+    "reviews": 327,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 219,
+    "name": "食遇SHI YU",
+    "rating": 4.7,
+    "reviews": 327,
+    "category": "中式",
+    "area": "彰化市"
+  },
+  {
+    "city": "台東",
+    "index": 117,
+    "name": "秘食-私廚",
+    "rating": 4.7,
+    "reviews": 327,
+    "category": "中式",
+    "area": "台東市"
+  },
+  {
+    "city": "台東",
+    "index": 163,
+    "name": "大草原南美 西班牙料理- La Gran Sabana",
+    "rating": 4.7,
+    "reviews": 327,
+    "category": "中式",
+    "area": "長濱鄉"
+  },
+  {
+    "city": "彰化",
+    "index": 297,
+    "name": "覓徑 Meet In No. 76 Alley - Brunch & Drink",
+    "rating": 4.7,
+    "reviews": 326,
+    "category": "中式",
+    "area": "北斗鎮"
+  },
+  {
+    "city": "花蓮",
+    "index": 197,
+    "name": "我家螺獅粉",
+    "rating": 4.7,
+    "reviews": 326,
+    "category": "中式",
+    "area": "壽豐鄉"
+  },
+  {
+    "city": "台東",
+    "index": 122,
+    "name": "Hai簡單料理",
+    "rating": 4.7,
+    "reviews": 326,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "嘉義",
+    "index": 173,
+    "name": "二屾 Ershen",
+    "rating": 4.7,
+    "reviews": 325,
+    "category": "中式",
+    "area": "東區"
+  },
+  {
+    "city": "嘉義",
+    "index": 208,
+    "name": "方程式早午餐",
+    "rating": 4.7,
+    "reviews": 325,
+    "category": "咖啡廳",
+    "area": "東區"
+  },
+  {
+    "city": "基隆",
+    "index": 120,
+    "name": "天晴晴天",
+    "rating": 4.7,
+    "reviews": 324,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 212,
+    "name": "漁噹家食堂",
+    "rating": 4.7,
+    "reviews": 324,
+    "category": "中式",
+    "area": "北投"
+  },
+  {
+    "city": "新北",
+    "index": 355,
+    "name": "姥三寶-新北土城店",
+    "rating": 4.7,
+    "reviews": 324,
+    "category": "中式",
+    "area": "土城"
+  },
+  {
+    "city": "雲林",
+    "index": 179,
+    "name": "莫忘初衷 早午餐",
+    "rating": 4.7,
+    "reviews": 324,
+    "category": "咖啡廳",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台南",
+    "index": 417,
+    "name": "獨蔬人蔬食",
+    "rating": 4.7,
+    "reviews": 324,
+    "category": "素食",
+    "area": "將軍"
+  },
+  {
+    "city": "台中",
+    "index": 536,
+    "name": "日日伴飯(原 香緹1968)",
+    "rating": 4.7,
+    "reviews": 322,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "屏東",
+    "index": 215,
+    "name": "翔富牛排館",
+    "rating": 4.7,
+    "reviews": 322,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "彰化",
+    "index": 227,
+    "name": "合十蔬食-彰化美食-拉麵-泡飯-Restaurants",
+    "rating": 4.7,
+    "reviews": 321,
+    "category": "素食",
+    "area": "彰化市"
+  },
+  {
+    "city": "新竹",
+    "index": 149,
+    "name": "Hidden off",
+    "rating": 4.7,
+    "reviews": 318,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "屏東",
+    "index": 263,
+    "name": "大武山之門『璞玉翡珂』咖啡館",
+    "rating": 4.7,
+    "reviews": 318,
+    "category": "咖啡廳",
+    "area": "泰武鄉"
+  },
+  {
+    "city": "花蓮",
+    "index": 153,
+    "name": "鰻牛 現烤鰻魚定食",
+    "rating": 4.7,
+    "reviews": 318,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "新竹",
+    "index": 188,
+    "name": "香聚小廚",
+    "rating": 4.7,
+    "reviews": 317,
+    "category": "中式",
+    "area": "北區"
+  },
+  {
+    "city": "新竹",
+    "index": 189,
+    "name": "Faith in Faith 飛一啡 Café《甜點咖啡店》《店休日/店內相關須知請見IG臉書粉絲專頁》《目前未販售鹹食》",
+    "rating": 4.7,
+    "reviews": 317,
+    "category": "咖啡廳",
+    "area": "湖口鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 449,
+    "name": "大社手工麵",
+    "rating": 4.7,
+    "reviews": 317,
+    "category": "中式",
+    "area": "大社"
+  }
+]

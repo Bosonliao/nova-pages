@@ -1,0 +1,452 @@
+[
+  {
+    "city": "彰化",
+    "index": 145,
+    "name": "品香素食",
+    "rating": 4.8,
+    "reviews": 22,
+    "category": "素食",
+    "area": "二林鎮"
+  },
+  {
+    "city": "彰化",
+    "index": 201,
+    "name": "秀水大自然素食店",
+    "rating": 4.8,
+    "reviews": 21,
+    "category": "素食",
+    "area": "秀水鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 753,
+    "name": "Sötinn滴所",
+    "rating": 4.8,
+    "reviews": 21,
+    "category": "咖啡廳",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "新北",
+    "index": 271,
+    "name": "緣來素手作蔬食料理（不定時公休請看粉專）初一十五有開",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "蘆洲"
+  },
+  {
+    "city": "台中",
+    "index": 321,
+    "name": "長億素食",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "太平"
+  },
+  {
+    "city": "台中",
+    "index": 339,
+    "name": "素食杏鮑菇 黃金脆薯",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "清水"
+  },
+  {
+    "city": "台南",
+    "index": 283,
+    "name": "素食水煎包",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "西港"
+  },
+  {
+    "city": "高雄",
+    "index": 261,
+    "name": "來點辣素食麻辣燙",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "大寮"
+  },
+  {
+    "city": "屏東",
+    "index": 146,
+    "name": "(內埔素食)曾家祖傳六十年素食糯米捲",
+    "rating": 4.8,
+    "reviews": 20,
+    "category": "素食",
+    "area": "內埔鄉"
+  },
+  {
+    "city": "基隆",
+    "index": 112,
+    "name": "佛緣素食小吃攤",
+    "rating": 4.8,
+    "reviews": 19,
+    "category": "素食",
+    "area": "仁愛"
+  },
+  {
+    "city": "彰化",
+    "index": 202,
+    "name": "日膳蔬食養生 素食油飯",
+    "rating": 4.8,
+    "reviews": 19,
+    "category": "素食",
+    "area": "秀水鄉"
+  },
+  {
+    "city": "新北",
+    "index": 263,
+    "name": "天之香素食自助餐",
+    "rating": 4.8,
+    "reviews": 18,
+    "category": "素食",
+    "area": "萬里"
+  },
+  {
+    "city": "彰化",
+    "index": 199,
+    "name": "施家素食",
+    "rating": 4.8,
+    "reviews": 18,
+    "category": "素食",
+    "area": "秀水鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 123,
+    "name": "妙如意蔬食坊",
+    "rating": 4.8,
+    "reviews": 18,
+    "category": "素食",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台北",
+    "index": 986,
+    "name": "謙安和 (Ken Anho)",
+    "rating": 4.8,
+    "reviews": 17,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台中",
+    "index": 344,
+    "name": "滿添下台蔬自助餐-美村店｜蔬食｜便當｜會議便當",
+    "rating": 4.8,
+    "reviews": 17,
+    "category": "素食",
+    "area": "西區"
+  },
+  {
+    "city": "嘉義",
+    "index": 150,
+    "name": "大道素食╹嘉義蔬食．嘉義素食外燴．到府服務．婚喪喜慶辦桌宴席．到府服務．素食宴席．素食辦桌．客製化宴席服務．歐式外燴╹歡迎來電詢問☎️",
+    "rating": 4.8,
+    "reviews": 17,
+    "category": "素食",
+    "area": "中埔鄉"
+  },
+  {
+    "city": "桃園",
+    "index": 216,
+    "name": "騰記 炸鮮蔬(素食)",
+    "rating": 4.8,
+    "reviews": 16,
+    "category": "素食",
+    "area": "蘆竹"
+  },
+  {
+    "city": "台中",
+    "index": 328,
+    "name": "蓮華素食",
+    "rating": 4.8,
+    "reviews": 16,
+    "category": "素食",
+    "area": "東勢"
+  },
+  {
+    "city": "彰化",
+    "index": 200,
+    "name": "香味素食",
+    "rating": 4.8,
+    "reviews": 16,
+    "category": "素食",
+    "area": "秀水鄉"
+  },
+  {
+    "city": "台南",
+    "index": 293,
+    "name": "廣緣蔬食館",
+    "rating": 4.8,
+    "reviews": 16,
+    "category": "素食",
+    "area": "永康"
+  },
+  {
+    "city": "屏東",
+    "index": 139,
+    "name": "素食（無店名老店）",
+    "rating": 4.8,
+    "reviews": 16,
+    "category": "素食",
+    "area": "東港鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 136,
+    "name": "明人素食餐廳",
+    "rating": 4.8,
+    "reviews": 15,
+    "category": "素食",
+    "area": "竹北市"
+  },
+  {
+    "city": "台中",
+    "index": 332,
+    "name": "珍好蔬食早餐｜台中豐原神岡素食蛋餅(蛋奶素)早午餐",
+    "rating": 4.8,
+    "reviews": 15,
+    "category": "素食",
+    "area": "神岡"
+  },
+  {
+    "city": "高雄",
+    "index": 282,
+    "name": "貳柒早蔬食｜素食早餐｜古早味粉漿蛋餅｜壽司涼麵",
+    "rating": 4.8,
+    "reviews": 15,
+    "category": "素食",
+    "area": "前鎮"
+  },
+  {
+    "city": "金馬",
+    "index": 8,
+    "name": "清源素食",
+    "rating": 4.8,
+    "reviews": 15,
+    "category": "素食",
+    "area": "金城鎮"
+  },
+  {
+    "city": "新北",
+    "index": 193,
+    "name": "素食麵店(娟姐，蘋果檸檬阿嬤)",
+    "rating": 4.8,
+    "reviews": 13,
+    "category": "素食",
+    "area": "樹林"
+  },
+  {
+    "city": "新北",
+    "index": 279,
+    "name": "素食（素麵線）",
+    "rating": 4.8,
+    "reviews": 13,
+    "category": "素食",
+    "area": "泰山"
+  },
+  {
+    "city": "桃園",
+    "index": 201,
+    "name": "青田蔬食",
+    "rating": 4.8,
+    "reviews": 13,
+    "category": "素食",
+    "area": "觀音"
+  },
+  {
+    "city": "嘉義",
+    "index": 146,
+    "name": "蓮華素食早午餐",
+    "rating": 4.8,
+    "reviews": 13,
+    "category": "素食",
+    "area": "六腳鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 268,
+    "name": "多莉素食",
+    "rating": 4.8,
+    "reviews": 13,
+    "category": "素食",
+    "area": "路竹"
+  },
+  {
+    "city": "新北",
+    "index": 1515,
+    "name": "山屋咖啡",
+    "rating": 4.8,
+    "reviews": 12,
+    "category": "咖啡廳",
+    "area": "瑞芳"
+  },
+  {
+    "city": "桃園",
+    "index": 206,
+    "name": "YOGU有機素食椰奶優格-中壢店",
+    "rating": 4.8,
+    "reviews": 12,
+    "category": "素食",
+    "area": "中壢"
+  },
+  {
+    "city": "苗栗",
+    "index": 86,
+    "name": "凍齡美人湯｜素食麵線｜甜湯（賣完提早收）",
+    "rating": 4.8,
+    "reviews": 12,
+    "category": "素食",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 126,
+    "name": "食緣早餐（蛋奶素）",
+    "rating": 4.8,
+    "reviews": 12,
+    "category": "素食",
+    "area": "崙背鄉"
+  },
+  {
+    "city": "台南",
+    "index": 279,
+    "name": "素食烙餅",
+    "rating": 4.8,
+    "reviews": 12,
+    "category": "素食",
+    "area": "關廟"
+  },
+  {
+    "city": "桃園",
+    "index": 214,
+    "name": "素食紫米飯糰",
+    "rating": 4.8,
+    "reviews": 11,
+    "category": "素食",
+    "area": "觀音"
+  },
+  {
+    "city": "彰化",
+    "index": 144,
+    "name": "秀水素食早餐",
+    "rating": 4.8,
+    "reviews": 11,
+    "category": "素食",
+    "area": "秀水鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 129,
+    "name": "明德寺素食",
+    "rating": 4.8,
+    "reviews": 11,
+    "category": "素食",
+    "area": "台西鄉"
+  },
+  {
+    "city": "嘉義",
+    "index": 143,
+    "name": "素食-竹筍包碗糕",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "大林鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 147,
+    "name": "菜市仔口素食早餐(飯糰,蛋餅,抓餅）",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "鹿草鄉"
+  },
+  {
+    "city": "台南",
+    "index": 328,
+    "name": "妙哉素食",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "山上"
+  },
+  {
+    "city": "高雄",
+    "index": 264,
+    "name": "綠蔬軒素食麵線糊",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "林園"
+  },
+  {
+    "city": "高雄",
+    "index": 271,
+    "name": "吳姐素食",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "茄萣"
+  },
+  {
+    "city": "屏東",
+    "index": 145,
+    "name": "十年蔬食",
+    "rating": 4.8,
+    "reviews": 8,
+    "category": "素食",
+    "area": "里港鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 87,
+    "name": "黃健康素食",
+    "rating": 4.8,
+    "reviews": 6,
+    "category": "素食",
+    "area": "卓蘭鎮"
+  },
+  {
+    "city": "台南",
+    "index": 286,
+    "name": "綵珍素食早餐",
+    "rating": 4.8,
+    "reviews": 6,
+    "category": "素食",
+    "area": "六甲"
+  },
+  {
+    "city": "台南",
+    "index": 296,
+    "name": "道心素食",
+    "rating": 4.8,
+    "reviews": 6,
+    "category": "素食",
+    "area": "佳里"
+  },
+  {
+    "city": "高雄",
+    "index": 263,
+    "name": "素食菜嗲 炸物",
+    "rating": 4.8,
+    "reviews": 6,
+    "category": "素食",
+    "area": "林園"
+  },
+  {
+    "city": "基隆",
+    "index": 114,
+    "name": "安樂市場 素食麵攤/素麵線羹",
+    "rating": 4.8,
+    "reviews": 5,
+    "category": "素食",
+    "area": "安樂"
+  }
+]

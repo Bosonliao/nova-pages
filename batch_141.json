@@ -1,0 +1,452 @@
+[
+  {
+    "city": "台北",
+    "index": 704,
+    "name": "老麵店",
+    "rating": 4.3,
+    "reviews": 4343,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 634,
+    "name": "四海一家（每個禮拜一店休，如遇假日順延一天）",
+    "rating": 4.3,
+    "reviews": 4292,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 1252,
+    "name": "樂子the Diner 瑞安店",
+    "rating": 4.3,
+    "reviews": 4259,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 945,
+    "name": "牛店精燉牛肉麵",
+    "rating": 4.3,
+    "reviews": 3996,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 696,
+    "name": "吉比鮮釀餐廳 台北信義店 GBA Brewery Restaurant - Taipei Hsinyi Store",
+    "rating": 4.3,
+    "reviews": 3790,
+    "category": "西式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 682,
+    "name": "威宇牛排 - 公館店",
+    "rating": 4.3,
+    "reviews": 3739,
+    "category": "西式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 643,
+    "name": "大和日本料理",
+    "rating": 4.3,
+    "reviews": 3646,
+    "category": "日式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 697,
+    "name": "心潮飯店｜台北微風信義店 SINCHAO RICE SHOPPE",
+    "rating": 4.3,
+    "reviews": 3324,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 956,
+    "name": "一號糧倉",
+    "rating": 4.3,
+    "reviews": 3210,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 637,
+    "name": "一茶一瓦 OTOT｜一號糧倉店",
+    "rating": 4.3,
+    "reviews": 3208,
+    "category": "中式",
+    "area": "松山"
+  },
+  {
+    "city": "台北",
+    "index": 1253,
+    "name": "好米亞",
+    "rating": 4.3,
+    "reviews": 3181,
+    "category": "甜品",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 649,
+    "name": "春美冰菓室慶城本店",
+    "rating": 4.3,
+    "reviews": 3042,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 626,
+    "name": "飯BAR 內湖創始店",
+    "rating": 4.3,
+    "reviews": 3039,
+    "category": "咖啡廳",
+    "area": "內湖"
+  },
+  {
+    "city": "台北",
+    "index": 1065,
+    "name": "茶六燒肉",
+    "rating": 4.3,
+    "reviews": 3000,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1143,
+    "name": "陳家涼麵",
+    "rating": 4.3,
+    "reviews": 3000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1175,
+    "name": "雙連圓仔湯",
+    "rating": 4.3,
+    "reviews": 3000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 698,
+    "name": "The Chips 信義店",
+    "rating": 4.3,
+    "reviews": 2905,
+    "category": "甜品",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 609,
+    "name": "呈信鵝肉 科技大樓店",
+    "rating": 4.3,
+    "reviews": 2861,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 703,
+    "name": "牧山丘",
+    "rating": 4.3,
+    "reviews": 2858,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 640,
+    "name": "濟南牛肉麵",
+    "rating": 4.3,
+    "reviews": 2767,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 605,
+    "name": "餵我早餐 The Whale 公園店",
+    "rating": 4.3,
+    "reviews": 2766,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 677,
+    "name": "真劍拉麵",
+    "rating": 4.3,
+    "reviews": 2712,
+    "category": "日式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 699,
+    "name": "大師兄銷魂麵舖-信義店(新光三越A11，B2)",
+    "rating": 4.3,
+    "reviews": 2667,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 622,
+    "name": "Bremen不萊梅",
+    "rating": 4.3,
+    "reviews": 2653,
+    "category": "西式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 684,
+    "name": "越鄉越南美食館",
+    "rating": 4.3,
+    "reviews": 2615,
+    "category": "異國",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 619,
+    "name": "萬華百年肉圓",
+    "rating": 4.3,
+    "reviews": 2591,
+    "category": "中式",
+    "area": "萬華"
+  },
+  {
+    "city": "台北",
+    "index": 654,
+    "name": "正宗建中黑砂糖刨冰",
+    "rating": 4.3,
+    "reviews": 2561,
+    "category": "甜品",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 680,
+    "name": "公館水岸廣場",
+    "rating": 4.3,
+    "reviews": 2527,
+    "category": "咖啡廳",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 1073,
+    "name": "胡同燒肉 (一號店)",
+    "rating": 4.3,
+    "reviews": 2500,
+    "category": "西式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 657,
+    "name": "大腕燒肉專門店",
+    "rating": 4.3,
+    "reviews": 2438,
+    "category": "西式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 632,
+    "name": "粵亮廣式料理",
+    "rating": 4.3,
+    "reviews": 2405,
+    "category": "中式",
+    "area": "南港"
+  },
+  {
+    "city": "台北",
+    "index": 686,
+    "name": "金馥記脆皮烤鴨 士林店",
+    "rating": 4.3,
+    "reviews": 2309,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 615,
+    "name": "18冠軍牛肉麵",
+    "rating": 4.3,
+    "reviews": 2220,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 625,
+    "name": "Pastaio 內湖",
+    "rating": 4.3,
+    "reviews": 2051,
+    "category": "西式",
+    "area": "內湖"
+  },
+  {
+    "city": "台北",
+    "index": 1022,
+    "name": "新東南海鮮 (汀州路)",
+    "rating": 4.3,
+    "reviews": 2000,
+    "category": "中式",
+    "area": "中正"
+  },
+  {
+    "city": "台北",
+    "index": 1057,
+    "name": "上海鄉村",
+    "rating": 4.3,
+    "reviews": 2000,
+    "category": "中式",
+    "area": "信義"
+  },
+  {
+    "city": "台北",
+    "index": 1090,
+    "name": "東門餃子館",
+    "rating": 4.3,
+    "reviews": 2000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 1114,
+    "name": "紅毛港海鮮餐廳",
+    "rating": 4.3,
+    "reviews": 2000,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1153,
+    "name": "蘭芳麵食館",
+    "rating": 4.3,
+    "reviews": 2000,
+    "category": "中式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 658,
+    "name": "晉江茶堂",
+    "rating": 4.3,
+    "reviews": 1960,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 616,
+    "name": "林記牛肉麵",
+    "rating": 4.3,
+    "reviews": 1959,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 617,
+    "name": "阿川蚵仔麵線",
+    "rating": 4.3,
+    "reviews": 1951,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 1251,
+    "name": "饞食坊",
+    "rating": 4.3,
+    "reviews": 1859,
+    "category": "日式",
+    "area": "大安"
+  },
+  {
+    "city": "台北",
+    "index": 702,
+    "name": "稻舍食館 迪化店",
+    "rating": 4.3,
+    "reviews": 1858,
+    "category": "中式",
+    "area": "大同"
+  },
+  {
+    "city": "台北",
+    "index": 620,
+    "name": "李掌櫃功夫製麵",
+    "rating": 4.3,
+    "reviews": 1832,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 1024,
+    "name": "蓬萊餐廳",
+    "rating": 4.3,
+    "reviews": 1800,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 645,
+    "name": "Cube Brunch 丘比墨食所",
+    "rating": 4.3,
+    "reviews": 1798,
+    "category": "咖啡廳",
+    "area": ""
+  },
+  {
+    "city": "台北",
+    "index": 610,
+    "name": "鍾原上海生煎包",
+    "rating": 4.3,
+    "reviews": 1698,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 618,
+    "name": "TARO ONIGIRI 太朗飯糰-華榮市場創始店",
+    "rating": 4.3,
+    "reviews": 1589,
+    "category": "中式",
+    "area": "士林"
+  },
+  {
+    "city": "台北",
+    "index": 656,
+    "name": "胡同燒肉夜食-胡同燒肉1號店",
+    "rating": 4.3,
+    "reviews": 1556,
+    "category": "西式",
+    "area": ""
+  }
+]

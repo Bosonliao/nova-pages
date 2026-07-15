@@ -1,0 +1,452 @@
+[
+  {
+    "city": "新北",
+    "index": 1086,
+    "name": "天香素食",
+    "rating": 4.3,
+    "reviews": 113,
+    "category": "素食",
+    "area": "五股"
+  },
+  {
+    "city": "屏東",
+    "index": 626,
+    "name": "自然蔬食素食館",
+    "rating": 4.3,
+    "reviews": 113,
+    "category": "素食",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "台南",
+    "index": 978,
+    "name": "白河店仔口肉丸",
+    "rating": 4.3,
+    "reviews": 112,
+    "category": "中式",
+    "area": ""
+  },
+  {
+    "city": "台南",
+    "index": 1046,
+    "name": "店仔口肉丸",
+    "rating": 4.3,
+    "reviews": 112,
+    "category": "中式",
+    "area": "白河"
+  },
+  {
+    "city": "台中",
+    "index": 1141,
+    "name": "蓮華素食自助餐（蓮華食堂）",
+    "rating": 4.3,
+    "reviews": 111,
+    "category": "素食",
+    "area": "大里"
+  },
+  {
+    "city": "台南",
+    "index": 1053,
+    "name": "圓法素食(臺南市新化區)",
+    "rating": 4.3,
+    "reviews": 110,
+    "category": "素食",
+    "area": "新化"
+  },
+  {
+    "city": "高雄",
+    "index": 1053,
+    "name": "美味素食小館",
+    "rating": 4.3,
+    "reviews": 110,
+    "category": "素食",
+    "area": "小港"
+  },
+  {
+    "city": "台南",
+    "index": 1069,
+    "name": "柳營群康素食",
+    "rating": 4.3,
+    "reviews": 108,
+    "category": "素食",
+    "area": "柳營"
+  },
+  {
+    "city": "高雄",
+    "index": 1062,
+    "name": "肆葉草堂（崇德素食）",
+    "rating": 4.3,
+    "reviews": 107,
+    "category": "素食",
+    "area": "仁武"
+  },
+  {
+    "city": "屏東",
+    "index": 624,
+    "name": "潮林素食",
+    "rating": 4.3,
+    "reviews": 106,
+    "category": "素食",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "桃園",
+    "index": 754,
+    "name": "一心圓蔬食餐廳",
+    "rating": 4.3,
+    "reviews": 105,
+    "category": "素食",
+    "area": "大溪"
+  },
+  {
+    "city": "台中",
+    "index": 1140,
+    "name": "繼宗素食",
+    "rating": 4.3,
+    "reviews": 105,
+    "category": "素食",
+    "area": "太平"
+  },
+  {
+    "city": "屏東",
+    "index": 605,
+    "name": "旗魚焿•鱔魚意麵(58攤)",
+    "rating": 4.3,
+    "reviews": 105,
+    "category": "中式",
+    "area": "屏東市"
+  },
+  {
+    "city": "新北",
+    "index": 1090,
+    "name": "啟銘素食",
+    "rating": 4.3,
+    "reviews": 104,
+    "category": "素食",
+    "area": "林口"
+  },
+  {
+    "city": "新北",
+    "index": 1063,
+    "name": "石頭香真珠玉米",
+    "rating": 4.3,
+    "reviews": 103,
+    "category": "中式",
+    "area": "板橋"
+  },
+  {
+    "city": "嘉義",
+    "index": 583,
+    "name": "有利脆皮豬-嘉義文化店",
+    "rating": 4.3,
+    "reviews": 101,
+    "category": "中式",
+    "area": "西區"
+  },
+  {
+    "city": "屏東",
+    "index": 623,
+    "name": "素香食堂（蔬食滷味）",
+    "rating": 4.3,
+    "reviews": 98,
+    "category": "素食",
+    "area": "潮州鎮"
+  },
+  {
+    "city": "新竹",
+    "index": 550,
+    "name": "圓福蔬食",
+    "rating": 4.3,
+    "reviews": 95,
+    "category": "素食",
+    "area": "湖口鄉"
+  },
+  {
+    "city": "南投",
+    "index": 468,
+    "name": "歡喜心素食",
+    "rating": 4.3,
+    "reviews": 95,
+    "category": "素食",
+    "area": "竹山鎮"
+  },
+  {
+    "city": "台中",
+    "index": 1142,
+    "name": "五教素食",
+    "rating": 4.3,
+    "reviews": 93,
+    "category": "素食",
+    "area": "烏日"
+  },
+  {
+    "city": "屏東",
+    "index": 629,
+    "name": "林家素食水煎包 恆春店",
+    "rating": 4.3,
+    "reviews": 90,
+    "category": "素食",
+    "area": "恆春鎮"
+  },
+  {
+    "city": "新北",
+    "index": 1087,
+    "name": "金蘭素食",
+    "rating": 4.3,
+    "reviews": 88,
+    "category": "素食",
+    "area": "五股"
+  },
+  {
+    "city": "嘉義",
+    "index": 595,
+    "name": "元氣素食館",
+    "rating": 4.3,
+    "reviews": 88,
+    "category": "素食",
+    "area": "民雄鄉"
+  },
+  {
+    "city": "苗栗",
+    "index": 407,
+    "name": "素の素食館（喜願心素食）",
+    "rating": 4.3,
+    "reviews": 87,
+    "category": "素食",
+    "area": "苑裡鎮"
+  },
+  {
+    "city": "嘉義",
+    "index": 601,
+    "name": "慈惠素食(原文化路慈惠素食)",
+    "rating": 4.3,
+    "reviews": 87,
+    "category": "素食",
+    "area": "嘉義市東"
+  },
+  {
+    "city": "高雄",
+    "index": 1039,
+    "name": "弘健康素食館-鹽埕店",
+    "rating": 4.3,
+    "reviews": 87,
+    "category": "素食",
+    "area": "鹽埕"
+  },
+  {
+    "city": "屏東",
+    "index": 630,
+    "name": "禪香素食",
+    "rating": 4.3,
+    "reviews": 87,
+    "category": "素食",
+    "area": "萬丹鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1056,
+    "name": "善心素食",
+    "rating": 4.3,
+    "reviews": 85,
+    "category": "素食",
+    "area": "大寮"
+  },
+  {
+    "city": "雲林",
+    "index": 565,
+    "name": "新生素食",
+    "rating": 4.3,
+    "reviews": 82,
+    "category": "素食",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台南",
+    "index": 1070,
+    "name": "大愛素食園",
+    "rating": 4.3,
+    "reviews": 80,
+    "category": "素食",
+    "area": "鹽水"
+  },
+  {
+    "city": "屏東",
+    "index": 634,
+    "name": "養生素食便當店",
+    "rating": 4.3,
+    "reviews": 80,
+    "category": "素食",
+    "area": "林邊鄉"
+  },
+  {
+    "city": "新北",
+    "index": 1002,
+    "name": "家亨素食小籠包",
+    "rating": 4.3,
+    "reviews": 78,
+    "category": "素食",
+    "area": "鶯歌"
+  },
+  {
+    "city": "新竹",
+    "index": 549,
+    "name": "子欣素食",
+    "rating": 4.3,
+    "reviews": 76,
+    "category": "素食",
+    "area": "湖口鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1051,
+    "name": "九品香素食館（正勤店）",
+    "rating": 4.3,
+    "reviews": 76,
+    "category": "素食",
+    "area": "前鎮"
+  },
+  {
+    "city": "屏東",
+    "index": 631,
+    "name": "現代健康素食",
+    "rating": 4.3,
+    "reviews": 75,
+    "category": "素食",
+    "area": "萬巒鄉"
+  },
+  {
+    "city": "雲林",
+    "index": 569,
+    "name": "阿杏素食",
+    "rating": 4.3,
+    "reviews": 74,
+    "category": "素食",
+    "area": "北港鎮"
+  },
+  {
+    "city": "雲林",
+    "index": 575,
+    "name": "慈恩素食館",
+    "rating": 4.3,
+    "reviews": 74,
+    "category": "素食",
+    "area": "虎尾鎮"
+  },
+  {
+    "city": "台中",
+    "index": 1152,
+    "name": "維香素食",
+    "rating": 4.3,
+    "reviews": 72,
+    "category": "素食",
+    "area": "沙鹿"
+  },
+  {
+    "city": "高雄",
+    "index": 1057,
+    "name": "鳳林素食",
+    "rating": 4.3,
+    "reviews": 72,
+    "category": "素食",
+    "area": "大寮"
+  },
+  {
+    "city": "新北",
+    "index": 1109,
+    "name": "養生素食",
+    "rating": 4.3,
+    "reviews": 71,
+    "category": "素食",
+    "area": "汐止"
+  },
+  {
+    "city": "南投",
+    "index": 467,
+    "name": "修緣素食（竹山秀傳隔壁素食",
+    "rating": 4.3,
+    "reviews": 71,
+    "category": "素食",
+    "area": "竹山鎮"
+  },
+  {
+    "city": "南投",
+    "index": 460,
+    "name": "阿銤族素食",
+    "rating": 4.3,
+    "reviews": 68,
+    "category": "素食",
+    "area": "南投市"
+  },
+  {
+    "city": "嘉義",
+    "index": 594,
+    "name": "艾草之家-祥順素食",
+    "rating": 4.3,
+    "reviews": 68,
+    "category": "素食",
+    "area": "民雄鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1068,
+    "name": "大崗山私房早餐（素食可用）",
+    "rating": 4.3,
+    "reviews": 68,
+    "category": "中式",
+    "area": "田寮"
+  },
+  {
+    "city": "新北",
+    "index": 1105,
+    "name": "越來香素食自助餐廳",
+    "rating": 4.3,
+    "reviews": 67,
+    "category": "素食",
+    "area": "三重"
+  },
+  {
+    "city": "嘉義",
+    "index": 593,
+    "name": "味川素食館",
+    "rating": 4.3,
+    "reviews": 67,
+    "category": "素食",
+    "area": "民雄鄉"
+  },
+  {
+    "city": "高雄",
+    "index": 1074,
+    "name": "善緣健康素食",
+    "rating": 4.3,
+    "reviews": 65,
+    "category": "素食",
+    "area": "前金"
+  },
+  {
+    "city": "南投",
+    "index": 469,
+    "name": "素食 紅茶五香豆干",
+    "rating": 4.3,
+    "reviews": 64,
+    "category": "素食",
+    "area": "魚池鄉"
+  },
+  {
+    "city": "台東",
+    "index": 387,
+    "name": "萬人迷健康蔬食",
+    "rating": 4.3,
+    "reviews": 64,
+    "category": "素食",
+    "area": "延平鄉"
+  },
+  {
+    "city": "台中",
+    "index": 1163,
+    "name": "阡維素食",
+    "rating": 4.3,
+    "reviews": 63,
+    "category": "素食",
+    "area": "龍井"
+  }
+]
