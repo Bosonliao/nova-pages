@@ -2714,20 +2714,6 @@
       "dishes": []
     },
     {
-      "name": "木村堂燒肉 平鎮店",
-      "description": "澄清館的高人氣選擇，讓每位食客都能品嘗到極致的美味。",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 9020,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "牛必富牛排館",
       "description": "極品牛排館，肉質鮮美，服務親切周到。",
       "area": "三民",
@@ -10059,20 +10045,6 @@
       "dishes": []
     },
     {
-      "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
-      "description": "提供多樣化烤肉選擇，適合各類活動聚會。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 645,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "夯仔內牛肉麵食館-旗山老街創始店",
       "description": "旗山老街的經典牛肉麵，香氣撲鼻的必試美食。",
       "area": "旗山",
@@ -10223,20 +10195,6 @@
       ],
       "tags": [],
       "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "嘉義火雞肉飯",
-      "description": "",
-      "area": "三民",
-      "rating": 4.5,
-      "reviews": 538,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
       "_sort": 3,
       "dishes": []
     },
@@ -14842,20 +14800,6 @@
       "area": "旗山",
       "rating": 4.3,
       "reviews": 652,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "家常牛肉麵",
-      "description": "",
-      "area": "鹽埕",
-      "rating": 4.3,
-      "reviews": 244,
       "categories": [
         "中式"
       ],

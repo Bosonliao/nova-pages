@@ -517,22 +517,6 @@
       "dishes": []
     },
     {
-      "name": "榮生魚片",
-      "description": "樸實的海鮮料理餐廳，供應生魚片、湯品和熱炒料理。",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 5314,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [
-        "sp"
-      ],
-      "_sort": 2,
-      "dishes": []
-    },
-    {
       "name": "萬巒豬腳",
       "description": "屏東萬巒最有名美食，滷得入味軟Q，搭配蒜蓉醬油膏超對味",
       "area": "",
@@ -5109,20 +5093,6 @@
       "dishes": []
     },
     {
-      "name": "樂魚料亭",
-      "description": "",
-      "area": "",
-      "rating": 4.6,
-      "reviews": 258,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "咕嘰咕嘰早午餐-民族店｜最後點餐14：00｜",
       "description": "氣氛悠閒的磚砌早午餐店，供應蛋餅、吐司、三明治、義大利麵和肉類料理。",
       "area": "",
@@ -6045,20 +6015,6 @@
       "dishes": []
     },
     {
-      "name": "山東小館",
-      "description": "經典中式菜品，適合全家聚餐的好地方。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 237,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "胖匠 守作料理/屏東美食 潮州美食 潮州美食推薦 潮州餐廳 潮州合菜 潮州伴手禮 潮州必吃",
       "description": "",
       "area": "潮州鎮",
@@ -6096,20 +6052,6 @@
         "中式"
       ],
       "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "肉先生牛排館",
-      "description": "招牌牛排口感絕佳，人氣牛排館，值得一試。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 962,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -10627,20 +10569,6 @@
       "dishes": []
     },
     {
-      "name": "8 House 原味碳烤牛排",
-      "description": "",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 582,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "老夥房 找不到餐坊(屏東長治)",
       "description": "",
       "area": "長治鄉",
@@ -10829,20 +10757,6 @@
       "area": "內埔鄉",
       "rating": 4.2,
       "reviews": 438,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "新竹- 日勝飲食店",
-      "description": "夜市小吃, 人氣美食不容錯過",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 2198,
       "categories": [
         "中式"
       ],
@@ -11988,20 +11902,6 @@
       "area": "內埔鄉",
       "rating": 4.1,
       "reviews": 397,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
-      "description": "大溪超人氣美食, 團體合菜及家庭聚餐推薦",
-      "area": "",
-      "rating": 4.1,
-      "reviews": 4524,
       "categories": [
         "中式"
       ],

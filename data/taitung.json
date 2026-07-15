@@ -853,34 +853,6 @@
       "dishes": []
     },
     {
-      "name": "伊豆日式料理",
-      "description": "提供地道的日式美食，讓人感受到濃厚的日本風情。",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 824,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "武田信玄",
-      "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 16191,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "荳荳阿稼早午餐",
       "description": "以新鮮食材製作的精緻早午餐，受到食客的高度評價，超人氣。",
       "area": "",
@@ -1931,20 +1903,6 @@
       ]
     },
     {
-      "name": "坐著做。新星食堂",
-      "description": "超人氣夜市小吃，創意料理讓人驚艷不已。",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 6876,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "龍泉鄉茶藝館/素食套餐/只供午餐（請先電話預約）傳統茶館/午茶時光茶席體驗/精油泡腳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "卑南鄉",
@@ -2727,20 +2685,6 @@
       "area": "",
       "rating": 4.7,
       "reviews": 212,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "米麒麟香米便當",
-      "description": "招牌香米便當, 口感絕佳令人驚艷。",
-      "area": "",
-      "rating": 4.7,
-      "reviews": 433,
       "categories": [
         "中式"
       ],
@@ -4794,20 +4738,6 @@
       "dishes": []
     },
     {
-      "name": "全家福客家菜館",
-      "description": "設有露台的休閒餐廳，供應傳統客家菜餚。",
-      "area": "",
-      "rating": 4.4,
-      "reviews": 2380,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "關山家常菜小吃部(HOMEMADE DISHES, KANZAN)",
       "description": "傳統家常菜讓你感受到家的溫暖與美味。",
       "area": "關山鎮",
@@ -6093,20 +6023,6 @@
       "dishes": []
     },
     {
-      "name": "老店客家菜",
-      "description": "",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 985,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "東池池上便當安慶店",
       "description": "便當選擇多樣，適合不同口味的食客。",
       "area": "",
@@ -6407,20 +6323,6 @@
         "日式"
       ],
       "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "美樂地我家小館",
-      "description": "超人氣餐廳，特色台菜讓每位食客滿足。",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 3411,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -7583,20 +7485,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
-      "description": "老字號的樸實餐廳，供應家常傳統餐點。",
-      "area": "",
-      "rating": 4.1,
-      "reviews": 4524,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []

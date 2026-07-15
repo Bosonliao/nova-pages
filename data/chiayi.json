@@ -5494,20 +5494,6 @@
       "dishes": []
     },
     {
-      "name": "正統火雞肉飯",
-      "description": "",
-      "area": "東區",
-      "rating": 4.5,
-      "reviews": 1675,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "古早火雞肉飯",
       "description": "",
       "area": "東區",
@@ -10467,20 +10453,6 @@
       "dishes": []
     },
     {
-      "name": "佳家福客家餐廳",
-      "description": "悠閒愜意的餐廳，供應客家小炒、湯品與燉菜等客家料理，另有米飯與麵食。",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 1743,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "五福小館",
       "description": "特色中式台菜，口味豐富，讓人回味無窮。",
       "area": "西區",
@@ -11498,20 +11470,6 @@
       "area": "西區",
       "rating": 4.1,
       "reviews": 1022,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "清香雅集小館",
-      "description": "人氣台菜小館，清新口味令人驚喜。",
-      "area": "",
-      "rating": 4.1,
-      "reviews": 1032,
       "categories": [
         "中式"
       ],

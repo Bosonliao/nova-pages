@@ -4051,20 +4051,6 @@
       "dishes": []
     },
     {
-      "name": "好客食堂",
-      "description": "招牌菜品多樣，食材新鮮，超人氣餐廳。",
-      "area": "",
-      "rating": 4.7,
-      "reviews": 2901,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "八廚職人弁当 虎尾林森店",
       "description": "精緻便當搭配新鮮食材，令人驚艷。",
       "area": "虎尾鎮",
@@ -10837,20 +10823,6 @@
       ]
     },
     {
-      "name": "原天橋下火雞肉飯",
-      "description": "",
-      "area": "",
-      "rating": 4.1,
-      "reviews": 342,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "碳烤鴨蛋糕",
       "description": "",
       "area": "",
@@ -10968,20 +10940,6 @@
       "area": "",
       "rating": 4.1,
       "reviews": 696,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "京城北方麵食館",
-      "description": "招牌北方麵食，口感滑順，適合喜愛麵食的饕客。",
-      "area": "斗六市",
-      "rating": 4.1,
-      "reviews": 947,
       "categories": [
         "中式"
       ],
@@ -11112,34 +11070,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
-      "description": "老字號的樸實餐廳，供應家常傳統餐點。",
-      "area": "",
-      "rating": 4.1,
-      "reviews": 4524,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "台南雞腿、排骨便當",
-      "description": "",
-      "area": "斗六市",
-      "rating": 4.1,
-      "reviews": 758,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []

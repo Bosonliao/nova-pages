@@ -465,23 +465,6 @@
       "dishes": []
     },
     {
-      "name": "客家小館",
-      "description": "炒、梅干扣肉等傳統客家料理",
-      "area": "中和",
-      "rating": 4.2,
-      "reviews": 3214,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin"
-      ],
-      "_sort": 1,
-      "dishes": []
-    },
-    {
       "name": "光興腿庫",
       "description": "滷腿庫、豬腳與大腸便當，附自製小魚乾辣椒醬",
       "area": "板橋",
@@ -842,22 +825,6 @@
       "tags": [
         "sp"
       ],
-      "_sort": 2,
-      "dishes": []
-    },
-    {
-      "name": "河南砂鍋手工扯麵",
-      "description": "採臨櫃點餐的樸實餐廳，供應傳統麵食和家常湯品。",
-      "area": "三峽",
-      "rating": 4.1,
-      "reviews": 3543,
-      "categories": [
-        "中式"
-      ],
-      "tags": [
-        "sp"
-      ],
-      "category": "中式",
       "_sort": 2,
       "dishes": []
     },
@@ -6516,34 +6483,6 @@
       "dishes": []
     },
     {
-      "name": "新時代牛排",
-      "description": "精緻牛排料理, 每一口都讓人回味無窮。",
-      "area": "",
-      "rating": 4.7,
-      "reviews": 795,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "牛篷牛排",
-      "description": "口碑極佳的牛排店, 提供多樣化的牛排選擇。",
-      "area": "",
-      "rating": 4.7,
-      "reviews": 364,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "馥小玉",
       "description": "精緻台菜料理，讓您享受每一口的幸福滋味。",
       "area": "中和",
@@ -8743,20 +8682,6 @@
       "dishes": []
     },
     {
-      "name": "和美冰菓室",
-      "description": "用餐環境簡樸的小店，供應多種冰淇淋和甜品。",
-      "area": "永和",
-      "rating": 4.6,
-      "reviews": 1638,
-      "categories": [
-        "甜品"
-      ],
-      "category": "甜品",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "零度甜",
       "description": "",
       "area": "三重",
@@ -10191,20 +10116,6 @@
       "dishes": []
     },
     {
-      "name": "【角樂園農場】烤肉派對、家庭聚會、活動包場、戶外教學、公司尾牙、春酒聚會",
-      "description": "角樂園農場, 方便包場的烤肉派對地點，適合家庭及團體聚會。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 645,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "和芽-全素蔬食早餐(素麵線、四神粥、水果蔬菜吐司、黑木耳露、薏仁漿)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "五股",
@@ -10914,20 +10825,6 @@
         "咖啡廳"
       ],
       "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "坐著做。壽司本館",
-      "description": "充滿舊日風情的溫馨餐廳，供應高級日式佳餚、甜點和壽司。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 1709,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -14979,20 +14876,6 @@
       "dishes": []
     },
     {
-      "name": "新寶島牛肉麵",
-      "description": "濃郁的牛肉湯和Q彈麵條，人氣店家不容錯過。",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 1152,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "瑪賀牛肉麵【幸福新莊店】",
       "description": "休閒牛肉麵館，專賣紅燒牛肉和番茄牛肉麵，也供應飯食。",
       "area": "新莊",
@@ -15704,20 +15587,6 @@
       ],
       "category": "中式",
       "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "HoneyWood Cafe",
-      "description": "舒適咖啡館，提供美味飲品與輕食，人氣不斷上升。",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 2432,
-      "categories": [
-        "咖啡廳"
-      ],
-      "tags": [],
-      "category": "咖啡廳",
       "_sort": 3,
       "dishes": []
     },
@@ -18018,20 +17887,6 @@
       "dishes": []
     },
     {
-      "name": "嘉義雞肉飯",
-      "description": "人氣雞肉飯套餐，配上香氣四溢的米飯，讓人食指大動",
-      "area": "新店",
-      "rating": 4.2,
-      "reviews": 1841,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "心惦雞肉飯",
       "description": "特色雞肉飯搭配豐富配料，口感層次分明，頗受歡迎",
       "area": "新店",
@@ -18377,20 +18232,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "8 House 原味碳烤牛排",
-      "description": "",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 582,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []

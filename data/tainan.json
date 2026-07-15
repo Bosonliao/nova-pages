@@ -3298,20 +3298,6 @@
       "dishes": []
     },
     {
-      "name": "小巷子清燉牛肉麵中壢店",
-      "description": "超人氣清燉牛肉麵，肉質鮮嫩，湯汁清甜。",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 4120,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "厝边 n.b.r",
       "description": "",
       "area": "東區",
@@ -7689,20 +7675,6 @@
       "dishes": []
     },
     {
-      "name": "辛梅阿嫲的味道",
-      "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
-      "area": "",
-      "rating": 4.6,
-      "reviews": 10660,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "桂田酒店_阿力海百匯餐廳",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "永康",
@@ -9220,34 +9192,6 @@
       ],
       "tags": [],
       "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "火力雞-火雞肉飯(平鎮店)",
-      "description": "特色火雞肉飯，超人氣，味道令人難忘。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 1122,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "火雞牧場火雞肉飯",
-      "description": "",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 703,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
       "_sort": 3,
       "dishes": []
     },
@@ -11805,20 +11749,6 @@
       "dishes": []
     },
     {
-      "name": "香香小吃",
-      "description": "經典中式小吃，口味正宗，深受食客喜愛。",
-      "area": "",
-      "rating": 4.4,
-      "reviews": 960,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "輕井澤鍋物 台南店",
       "description": "",
       "area": "",
@@ -12052,20 +11982,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "黃媽媽早點客家菜包",
-      "description": "美味手工包子, 傳遞家的味道。",
-      "area": "",
-      "rating": 4.4,
-      "reviews": 681,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -13515,20 +13431,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "滿滿客家菜館",
-      "description": "",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 274,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -15615,20 +15517,6 @@
       "dishes": []
     },
     {
-      "name": "客家小館",
-      "description": "招牌客家菜多樣選擇, 超人氣餐廳。",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 3214,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "三鮮台海鮮平價料理",
       "description": "令人放鬆的明亮餐廳，供應家常海鮮餐點、湯品和簡單主食。",
       "area": "善化",
@@ -16240,20 +16128,6 @@
         "西式"
       ],
       "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "8 House 原味碳烤牛排",
-      "description": "",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 582,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -18896,20 +18770,6 @@
       "area": "",
       "rating": 4,
       "reviews": 330,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "大同火雞肉飯",
-      "description": "火雞肉飯超人氣，成為饕客心中的最愛。",
-      "area": "",
-      "rating": 4,
-      "reviews": 3091,
       "categories": [
         "中式"
       ],

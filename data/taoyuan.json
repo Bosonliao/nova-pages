@@ -783,20 +783,6 @@
       "dishes": []
     },
     {
-      "name": "CC烤肉",
-      "description": "",
-      "area": "中壢",
-      "rating": 5,
-      "reviews": 1478,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "布蕾村·Brulee Village",
       "description": "招牌布蕾，完美的甜品選擇，獲得滿分評價。",
       "area": "八德",
@@ -5315,20 +5301,6 @@
       "dishes": []
     },
     {
-      "name": "新時代牛排",
-      "description": "精緻中式牛排選擇，肉質鮮美，深受食客喜愛。",
-      "area": "中壢",
-      "rating": 4.7,
-      "reviews": 795,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "雅室牛排 桃園藝文店",
       "description": "擁有多款牛排，美味可口，人氣餐廳選擇。",
       "area": "桃園",
@@ -5357,39 +5329,11 @@
       "dishes": []
     },
     {
-      "name": "牛篷牛排",
-      "description": "招牌牛排, 精選食材，口感出色，讓人難以忘懷。",
-      "area": "中壢",
-      "rating": 4.7,
-      "reviews": 364,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "米麒麟香米便當",
       "description": "口味多樣的便當選擇，讓你每餐都有新驚喜。",
       "area": "",
       "rating": 4.7,
       "reviews": 433,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "好客食堂",
-      "description": "人氣餐廳，提供熱情好客的美味台菜。",
-      "area": "觀音",
-      "rating": 4.7,
-      "reviews": 2901,
       "categories": [
         "中式"
       ],
@@ -6013,20 +5957,6 @@
       "dishes": []
     },
     {
-      "name": "專芳客家小館",
-      "description": "",
-      "area": "中壢",
-      "rating": 4.6,
-      "reviews": 728,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "善緣客家小館",
       "description": "",
       "area": "楊梅",
@@ -6391,20 +6321,6 @@
       "dishes": []
     },
     {
-      "name": "辛梅阿嫲的味道",
-      "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
-      "area": "平鎮",
-      "rating": 4.6,
-      "reviews": 10660,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "珍好景觀餐廳",
       "description": "擁有絕佳景觀，提供美味中式台菜與咖啡喫茶。",
       "area": "平鎮",
@@ -6471,20 +6387,6 @@
       ],
       "category": "中式",
       "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "厚冶 Bakery & Cafe",
-      "description": "超人氣咖啡與新鮮烘焙，讓每一口都充滿幸福感。",
-      "area": "平鎮",
-      "rating": 4.6,
-      "reviews": 2922,
-      "categories": [
-        "咖啡廳"
-      ],
-      "tags": [],
-      "category": "咖啡廳",
       "_sort": 3,
       "dishes": []
     },
@@ -6596,20 +6498,6 @@
         "日式"
       ],
       "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "樂魚料亭",
-      "description": "中式台菜的精緻料理，讓人回味無窮。",
-      "area": "中壢",
-      "rating": 4.6,
-      "reviews": 258,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -7518,20 +7406,6 @@
       "dishes": []
     },
     {
-      "name": "肉先生牛排館",
-      "description": "提供多樣化的牛排選擇，肉質鮮嫩，讓每位顧客都能滿意而歸。",
-      "area": "平鎮",
-      "rating": 4.5,
-      "reviews": 962,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "鴨肉扁客家小吃",
       "description": "傳統客家美食, 鴨肉料理的最佳選擇。",
       "area": "楊梅",
@@ -7565,34 +7439,6 @@
       "area": "大溪",
       "rating": 4.5,
       "reviews": 313,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "火力雞-火雞肉飯(平鎮店)",
-      "description": "招牌火雞肉飯香氣撲鼻，人氣。",
-      "area": "平鎮",
-      "rating": 4.5,
-      "reviews": 1122,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "火雞牧場火雞肉飯",
-      "description": "以火雞肉為主打，味道鮮美。",
-      "area": "平鎮",
-      "rating": 4.5,
-      "reviews": 703,
       "categories": [
         "中式"
       ],
@@ -7765,20 +7611,6 @@
         "中式"
       ],
       "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "Jun. B 禾荷咖啡店",
-      "description": "提供精緻咖啡及恬靜氛圍，適合悠閒享受的好去處。",
-      "area": "平鎮",
-      "rating": 4.5,
-      "reviews": 536,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -8251,20 +8083,6 @@
       "area": "平鎮",
       "rating": 4.5,
       "reviews": 483,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "李媽媽黃金QQ球",
-      "description": "",
-      "area": "中壢",
-      "rating": 4.5,
-      "reviews": 113,
       "categories": [
         "中式"
       ],
@@ -8888,20 +8706,6 @@
       "dishes": []
     },
     {
-      "name": "# STEAK 牛排屋",
-      "description": "",
-      "area": "中壢",
-      "rating": 4.4,
-      "reviews": 427,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "源珍小菜美食-阿婆的店",
       "description": "傳統夜市小吃, 口味地道令人懷念",
       "area": "楊梅",
@@ -9151,20 +8955,6 @@
         "甜品"
       ],
       "category": "甜品",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "WoodHouse 木宅餐館",
-      "description": "",
-      "area": "中壢",
-      "rating": 4.4,
-      "reviews": 2579,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -10360,20 +10150,6 @@
       "rating": 4.4,
       "reviews": 492,
       "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "善園客家小館",
-      "description": "精緻的客家料理，讓每一口都回味無窮。",
-      "area": "平鎮",
-      "rating": 4.3,
-      "reviews": 970,
       "categories": [
         "中式"
       ],
@@ -12126,20 +11902,6 @@
       ],
       "tags": [],
       "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "老牌曾水煎包",
-      "description": "中壢50年單一口味水煎包，雙面煎外酥內多汁，李易推薦",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 1932,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
       "_sort": 3,
       "dishes": []
     },
@@ -14521,20 +14283,6 @@
       "dishes": []
     },
     {
-      "name": "嘉義大鍋湯雞肉飯魯肉飯",
-      "description": "綜合雞肉飯與魯肉飯，深受食客愛戴，人氣。",
-      "area": "中壢",
-      "rating": 4,
-      "reviews": 1977,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "阿國師嘉義火雞肉飯",
       "description": "",
       "area": "蘆竹",
@@ -14850,20 +14598,6 @@
       "area": "楊梅",
       "rating": 4,
       "reviews": 1382,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "老頭擺客家菜",
-      "description": "",
-      "area": "龍潭",
-      "rating": 4,
-      "reviews": 1875,
       "categories": [
         "中式"
       ],
@@ -16096,6 +15830,20 @@
       ],
       "tags": [],
       "category": "咖啡廳",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "嘉義雞肉飯",
+      "description": "人氣雞肉飯套餐，配上香氣四溢的米飯，讓人食指大動",
+      "area": "新店",
+      "rating": 4.2,
+      "reviews": 1841,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
       "_sort": 3,
       "dishes": []
     }

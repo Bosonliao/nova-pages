@@ -6332,20 +6332,6 @@
       "dishes": []
     },
     {
-      "name": "糧園茶藝客家小館",
-      "description": "結合茶藝與客家美食，超人氣之選。",
-      "area": "",
-      "rating": 4.4,
-      "reviews": 2320,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "引嚐牛肉麵館",
       "description": "",
       "area": "北區",
@@ -9382,20 +9368,6 @@
       "dishes": []
     },
     {
-      "name": "五福小館",
-      "description": "",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 1524,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "豐穀食堂（湖口店）",
       "description": "典雅中式台菜，精緻美味，適合家庭聚餐。",
       "area": "",
@@ -10743,20 +10715,6 @@
       "area": "東區",
       "rating": 4.1,
       "reviews": 361,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "無名陽春麵",
-      "description": "招牌陽春麵口感滑順, 人氣店家，深受食客喜愛。",
-      "area": "北區",
-      "rating": 4.1,
-      "reviews": 1360,
       "categories": [
         "中式"
       ],

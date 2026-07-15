@@ -698,20 +698,6 @@
       "dishes": []
     },
     {
-      "name": "CC烤肉",
-      "description": "",
-      "area": "",
-      "rating": 5,
-      "reviews": 1478,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "啃什麼 滷味",
       "description": "五花八門的滷味選擇，讓人一次滿足多種口味。",
       "area": "竹山鎮",
@@ -2197,20 +2183,6 @@
           "description": "日式風味蔬食咖哩飯，香氣濃郁搭配新鮮食材"
         }
       ]
-    },
-    {
-      "name": "野海壽司",
-      "description": "超人氣日式壽司店，以新鮮食材和精湛技術吸引食客。",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 2646,
-      "categories": [
-        "日式"
-      ],
-      "tags": [],
-      "category": "日式",
-      "_sort": 3,
-      "dishes": []
     },
     {
       "name": "麥味登南崗店",
@@ -8166,20 +8138,6 @@
       "area": "國姓鄉",
       "rating": 4.2,
       "reviews": 1142,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "耕野月眉 客家菜",
-      "description": "",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 1150,
       "categories": [
         "中式"
       ],
