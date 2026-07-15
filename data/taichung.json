@@ -7028,21 +7028,6 @@
       ]
     },
     {
-      "name": "玥食 早午餐",
-      "description": "",
-      "area": "安南",
-      "rating": 4.8,
-      "reviews": 399,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "濟家莊雞肉飯",
       "description": "",
       "area": "",
@@ -9251,51 +9236,6 @@
       "area": "南區",
       "rating": 4.7,
       "reviews": 382,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "福聚新輕食",
-      "description": "",
-      "area": "安南",
-      "rating": 4.7,
-      "reviews": 444,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "千千食館",
-      "description": "",
-      "area": "安南",
-      "rating": 4.7,
-      "reviews": 298,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "一口食堂",
-      "description": "",
-      "area": "安南",
-      "rating": 4.7,
-      "reviews": 314,
       "address": "",
       "categories": [
         "中式"
@@ -11625,36 +11565,6 @@
       "area": "南區",
       "rating": 4.6,
       "reviews": 268,
-      "address": "",
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "藝樹早午餐",
-      "description": "",
-      "area": "安南",
-      "rating": 4.6,
-      "reviews": 1610,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "壽老人製丼所｜台南海佃店｜午餐晚餐｜最好吃的丼飯｜人氣美食｜安南美食｜restaurant｜咖哩｜定",
-      "description": "",
-      "area": "安南",
-      "rating": 4.6,
-      "reviews": 1005,
       "address": "",
       "categories": [
         "日式"
@@ -19992,21 +19902,6 @@
       "dishes": []
     },
     {
-      "name": "欣福龍海鮮餐廳",
-      "description": "",
-      "area": "安南",
-      "rating": 4.2,
-      "reviews": 321,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "阿宏師涼麵嘉義雞肉飯-台中大里店",
       "description": "涼麵與雞肉飯的絕妙搭配，值得一試。",
       "area": "大里區",
@@ -23151,21 +23046,6 @@
         "火鍋"
       ],
       "category": "火鍋",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "田寮農莊景觀餐廳",
-      "description": "中式餐廳，在地美味",
-      "area": "田寮區",
-      "rating": 4.5,
-      "reviews": 3581,
-      "address": "408台灣臺中市南屯區楓樹里樂田巷2之34號",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []

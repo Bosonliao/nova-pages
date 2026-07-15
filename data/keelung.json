@@ -6117,21 +6117,6 @@
       "_sort": 0,
       "address": "台北市信義區基隆路一段 178 號",
       "dishes": []
-    },
-    {
-      "name": "崁仔頂漁市",
-      "description": "中式餐廳，在地美味",
-      "area": "崁頂鄉",
-      "rating": 4.2,
-      "reviews": 6386,
-      "address": "200台灣基隆市仁愛區孝一路",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
     }
   ]
 }

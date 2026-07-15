@@ -1789,20 +1789,6 @@
       "dishes": []
     },
     {
-      "name": "惜福素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 5,
-      "reviews": 3,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "阿嬤素食麵",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "美濃區",
@@ -3260,21 +3246,6 @@
       "area": "新興區",
       "rating": 4.9,
       "reviews": 908,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "奶奶廚房香港餐廳",
-      "description": "",
-      "area": "梓官",
-      "rating": 4.9,
-      "reviews": 275,
       "address": "",
       "categories": [
         "中式"
@@ -5091,20 +5062,6 @@
           "description": "店家自釀果醋，清爽解膩"
         }
       ]
-    },
-    {
-      "name": "一同素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.8,
-      "reviews": 26,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
     },
     {
       "name": "熱浪小島-內壢莊敬店｜內壢後火車站蔬食推薦",
@@ -7360,20 +7317,6 @@
       "dishes": []
     },
     {
-      "name": "Food憩 蔬食早午餐",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.7,
-      "reviews": 43,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "養生蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "旗山區",
@@ -7802,21 +7745,6 @@
       "area": "左營區",
       "rating": 4.7,
       "reviews": 1093,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "樂翔家CHICKEN（梓官創始旗艦店）",
-      "description": "",
-      "area": "梓官",
-      "rating": 4.7,
-      "reviews": 407,
       "address": "",
       "categories": [
         "中式"
@@ -9464,20 +9392,6 @@
       "dishes": []
     },
     {
-      "name": "韋陀素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.6,
-      "reviews": 154,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "1235嚐蔬閣素食鍋燒",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "旗山區",
@@ -9800,21 +9714,6 @@
       "dishes": []
     },
     {
-      "name": "腸大爺",
-      "description": "日式料理餐廳",
-      "area": "梓官",
-      "rating": 4.6,
-      "reviews": 670,
-      "address": "826台灣高雄市梓官區信蚵里中正路23號",
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "一山沐咖啡屋",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "茂林區",
@@ -10005,21 +9904,6 @@
         "甜品"
       ],
       "category": "甜品",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "牛呷草 溫體牛肉湯專門",
-      "description": "",
-      "area": "梓官",
-      "rating": 4.6,
-      "reviews": 474,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -12318,21 +12202,6 @@
       "area": "桃源區",
       "rating": 4.5,
       "reviews": 7215,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "源味炸海鮮/海鮮粥/土魠魚羹",
-      "description": "",
-      "area": "梓官",
-      "rating": 4.5,
-      "reviews": 318,
       "address": "",
       "categories": [
         "中式"
@@ -14719,21 +14588,6 @@
       "dishes": []
     },
     {
-      "name": "昇港活海產",
-      "description": "",
-      "area": "梓官",
-      "rating": 4.4,
-      "reviews": 460,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "葩那貝蒂咖啡廳 每週三公休日",
       "description": "",
       "area": "楠梓區",
@@ -16625,34 +16479,6 @@
       "dishes": []
     },
     {
-      "name": "通安路素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.3,
-      "reviews": 9,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "余家素食早點",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.3,
-      "reviews": 12,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "熱浪島南洋蔬食茶堂（高雄店）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三民區",
@@ -16959,36 +16785,6 @@
         "火鍋"
       ],
       "category": "火鍋",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "珍饌活海產",
-      "description": "中式餐廳，在地美味",
-      "area": "梓官",
-      "rating": 4.3,
-      "reviews": 1870,
-      "address": "826台灣高雄市梓官區信蚵里中正路89號",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "蚵仔寮魚市場",
-      "description": "中式餐廳，在地美味",
-      "area": "梓官",
-      "rating": 4.3,
-      "reviews": 4780,
-      "address": "826台灣高雄市梓官區信蚵里漁港二路",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
       "tags": [],
       "_sort": 3,
       "dishes": []
@@ -20363,20 +20159,6 @@
       "dishes": []
     },
     {
-      "name": "藏研齋素食自助餐",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梓官",
-      "rating": 4.1,
-      "reviews": 40,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "甲仙素食香菇芋粿",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "甲仙區",
@@ -20696,21 +20478,6 @@
       "rating": 4.1,
       "reviews": 1113,
       "address": "852台灣高雄市茄萣區崎漏里大發路107號",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "意滿漁",
-      "description": "中式餐廳，在地美味",
-      "area": "梓官",
-      "rating": 4.1,
-      "reviews": 882,
-      "address": "826台灣高雄市梓官區赤西里赤崁南路130巷30號",
       "categories": [
         "中式"
       ],
@@ -21723,21 +21490,6 @@
       "rating": 4,
       "reviews": 1026,
       "address": "327台灣桃园市新屋區永安里中山西路三段1165號永安漁港",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
-      "name": "瑞成生魚片",
-      "description": "中式餐廳，在地美味",
-      "area": "梓官",
-      "rating": 4,
-      "reviews": 634,
-      "address": "826台灣高雄市梓官區信蚵里港七街49號",
       "categories": [
         "中式"
       ],
@@ -22789,21 +22541,6 @@
       "dishes": []
     },
     {
-      "name": "308高地洪代表桶仔雞",
-      "description": "中式餐廳，在地美味",
-      "area": "左鎮",
-      "rating": 4,
-      "reviews": 1561,
-      "address": "845台灣高雄市內門區三平里11-1號",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": []
-    },
-    {
       "name": "紅毛港海鮮餐廳",
       "description": "紅毛港是高雄知名海鮮餐廳，米其林入選",
       "area": "小港區",
@@ -22818,6 +22555,51 @@
         "michelin"
       ],
       "_sort": 0,
+      "dishes": []
+    },
+    {
+      "name": "田寮農莊景觀餐廳",
+      "description": "中式餐廳，在地美味",
+      "area": "田寮區",
+      "rating": 4.5,
+      "reviews": 3581,
+      "address": "408台灣臺中市南屯區楓樹里樂田巷2之34號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "永安漁港觀光漁市",
+      "description": "中式餐廳，在地美味",
+      "area": "永安區",
+      "rating": 4.2,
+      "reviews": 9835,
+      "address": "327台灣桃園市新屋區永安里中山西路三段1165號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "江戶壽司（桃園）",
+      "description": "日式料理餐廳",
+      "area": "永安區",
+      "rating": 4.8,
+      "reviews": 537,
+      "address": "327台灣桃園市新屋區笨港里中山西路三段1165號鮮魚區C02",
+      "categories": [
+        "日式"
+      ],
+      "category": "日式",
+      "tags": [],
+      "_sort": 3,
       "dishes": []
     }
   ]
