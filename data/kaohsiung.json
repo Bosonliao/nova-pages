@@ -22601,6 +22601,254 @@
       "tags": [],
       "_sort": 3,
       "dishes": []
+    },
+    {
+      "name": "惜福素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 5,
+      "reviews": 3,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "奶奶廚房香港餐廳",
+      "description": "",
+      "area": "梓官",
+      "rating": 4.9,
+      "reviews": 275,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "一同素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.8,
+      "reviews": 26,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "Food憩 蔬食早午餐",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.7,
+      "reviews": 43,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "樂翔家CHICKEN（梓官創始旗艦店）",
+      "description": "",
+      "area": "梓官",
+      "rating": 4.7,
+      "reviews": 407,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "韋陀素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.6,
+      "reviews": 154,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "腸大爺",
+      "description": "日式料理餐廳",
+      "area": "梓官",
+      "rating": 4.6,
+      "reviews": 670,
+      "address": "826台灣高雄市梓官區信蚵里中正路23號",
+      "categories": [
+        "日式"
+      ],
+      "category": "日式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "牛呷草 溫體牛肉湯專門",
+      "description": "",
+      "area": "梓官",
+      "rating": 4.6,
+      "reviews": 474,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "源味炸海鮮/海鮮粥/土魠魚羹",
+      "description": "",
+      "area": "梓官",
+      "rating": 4.5,
+      "reviews": 318,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "昇港活海產",
+      "description": "",
+      "area": "梓官",
+      "rating": 4.4,
+      "reviews": 460,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "通安路素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.3,
+      "reviews": 9,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "余家素食早點",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.3,
+      "reviews": 12,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "珍饌活海產",
+      "description": "中式餐廳，在地美味",
+      "area": "梓官",
+      "rating": 4.3,
+      "reviews": 1870,
+      "address": "826台灣高雄市梓官區信蚵里中正路89號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "蚵仔寮魚市場",
+      "description": "中式餐廳，在地美味",
+      "area": "梓官",
+      "rating": 4.3,
+      "reviews": 4780,
+      "address": "826台灣高雄市梓官區信蚵里漁港二路",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "藏研齋素食自助餐",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "梓官",
+      "rating": 4.1,
+      "reviews": 40,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "意滿漁",
+      "description": "中式餐廳，在地美味",
+      "area": "梓官",
+      "rating": 4.1,
+      "reviews": 882,
+      "address": "826台灣高雄市梓官區赤西里赤崁南路130巷30號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "瑞成生魚片",
+      "description": "中式餐廳，在地美味",
+      "area": "梓官",
+      "rating": 4,
+      "reviews": 634,
+      "address": "826台灣高雄市梓官區信蚵里港七街49號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
     }
   ]
 }

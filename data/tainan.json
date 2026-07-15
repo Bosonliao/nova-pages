@@ -19772,6 +19772,83 @@
       "tags": [],
       "_sort": 3,
       "dishes": []
+    },
+    {
+      "name": "小腳腿羊肉大內店《隱藏版美食》大內區必吃餐廳｜人氣｜熱門小吃｜聚餐餐廳",
+      "description": "",
+      "area": "大內",
+      "rating": 4.7,
+      "reviews": 285,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [
+        "sp"
+      ],
+      "_sort": 2,
+      "dishes": []
+    },
+    {
+      "name": "怡東農園｜大內田園餐廳【最後入座時間12:30 / 18:20】",
+      "description": "中式餐廳，在地美味",
+      "area": "大內",
+      "rating": 4.4,
+      "reviews": 830,
+      "address": "742台灣臺南市大內區內郭里後崛59之21號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "西拉雅土雞城",
+      "description": "中式餐廳，在地美味",
+      "area": "大內",
+      "rating": 4.4,
+      "reviews": 713,
+      "address": "742台灣臺南市大內區頭社里31號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "青町日式家庭料理",
+      "description": "",
+      "area": "大內",
+      "rating": 4.3,
+      "reviews": 398,
+      "address": "",
+      "categories": [
+        "日式"
+      ],
+      "category": "日式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
+    },
+    {
+      "name": "阿江麵店",
+      "description": "麵食專賣店，湯頭講究",
+      "area": "大內",
+      "rating": 4.1,
+      "reviews": 949,
+      "address": "742台灣臺南市大內區大內里22-3號",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": []
     }
   ]
 }
