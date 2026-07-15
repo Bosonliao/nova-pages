@@ -225,6 +225,8 @@ const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗�
 let currentCounty = '台北';
 let currentTab = 'routes';
 
+const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜蘭":"yilan","桃園":"taoyuan","新竹":"hsinchu","苗栗":"miaoli","台中":"taichung","南投":"nantou","彰化":"changhua","雲林":"yunlin","嘉義":"chiayi","台南":"tainan","高雄":"kaohsiung","屏東":"pingtung","花蓮":"hualien","台東":"taitung","澎湖":"penghu","金馬":"kinmen"};
+
 // Load metadata + nightmarkets first (small files)
 Promise.all([
   fetch('data/_meta.json').then(r=>r.json()),
@@ -242,7 +244,8 @@ Promise.all([
 
 function loadCounty(c){
   if(DATA[c]) { currentCounty=c; render(); return; }
-  fetch(`data/${encodeURIComponent(c)}.json`).then(r=>r.json()).then(d=>{
+  const en = CITY_EN[c] || c;
+  fetch(`data/${en}.json`).then(r=>r.json()).then(d=>{
     DATA[c]=d;
     currentCounty=c;
     render();

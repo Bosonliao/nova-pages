@@ -221,10 +221,33 @@ function loadCityMap(city){
 function hasTag(f,t){if(!f.tags)return false;if(Array.isArray(f.tags))return f.tags.includes(t);return !!f.tags[t];}
 let DATA = {};
 // Load data from external JSON
-fetch('data-ja.json')
-  .then(r => r.json())
-  .then(d => { DATA = d; initApp(); })
-  .catch(e => { console.error('Failed to load data:', e); document.body.innerHTML = '<p style="padding:2rem;text-align:center">データの読み込みに失敗しました。再読み込みしてください。</p>'; });
+const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜蘭":"yilan","桃園":"taoyuan","新竹":"hsinchu","苗栗":"miaoli","台中":"taichung","南投":"nantou","彰化":"changhua","雲林":"yunlin","嘉義":"chiayi","台南":"tainan","高雄":"kaohsiung","屏東":"pingtung","花蓮":"hualien","台東":"taitung","澎湖":"penghu","金馬":"kinmen"};
+
+// Load metadata + nightmarkets first (small files)
+Promise.all([
+  fetch('data-ja/_meta.json').then(r=>r.json()),
+  fetch('data-ja/nightmarkets.json').then(r=>r.json())
+]).then(([meta, nm])=>{
+  DATA._updatedAt = meta._updatedAt || '';
+  DATA.nightmarkets = nm;
+  initApp();
+  loadCounty(currentCounty);
+}).catch(e=>{
+  console.error('Failed to load meta',e);
+  document.body.innerHTML = '<p style="padding:2rem;text-align:center">データの読み込みに失敗しました。再読み込みしてください。</p>';
+});
+
+function loadCounty(c){
+  if(DATA[c]) { currentCounty=c; render(); return; }
+  const en = CITY_EN[c] || c;
+  fetch(`data-ja/${en}.json`).then(r=>r.json()).then(d=>{
+    DATA[c]=d;
+    currentCounty=c;
+    render();
+  }).catch(e=>{
+    console.error('Failed to load county',c,e);
+  });
+}
 
 const ORDER = ["基隆", "台北", "新北", "宜蘭", "桃園", "新竹", "苗栗", "台中", "南投", "彰化", "雲林", "嘉義", "台南", "高雄", "屏東", "花蓮", "台東", "澎湖", "金馬"];
 let currentCounty = '台北';
@@ -254,7 +277,7 @@ function selectCounty(c){
   if(hamText) hamText.textContent = c;
   document.querySelector('.sidebar').classList.remove('open');
   document.getElementById('overlay').classList.remove('show');
-  render();
+  loadCounty(c);
 }
 
 function selectTab(t){
