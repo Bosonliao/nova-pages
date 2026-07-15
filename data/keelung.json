@@ -421,7 +421,7 @@
     {
       "name": "Eddie's Cafe Et Tiramisu",
       "description": "提供美味咖啡與絕妙提拉米蘇的悠閒咖啡館。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 559,
       "categories": [
@@ -437,7 +437,7 @@
     {
       "name": "七堵家傳營養三明治",
       "description": "十分熱門的樸實餐車，販售以油炸麵包、蛋和蔬菜組成的三明治。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.6,
       "reviews": 3306,
       "categories": [
@@ -469,7 +469,7 @@
     {
       "name": "聚爐益爆漿胡椒餅",
       "description": "人氣小吃，外脆內軟的胡椒餅，爆漿口感令人驚豔。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 256,
       "categories": [
@@ -485,7 +485,7 @@
     {
       "name": "華星牛排館",
       "description": "人氣牛排口感鮮嫩多汁，讓人回味無窮。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 1500,
       "categories": [
@@ -501,7 +501,7 @@
     {
       "name": "金蠔呷小吃店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 422,
       "categories": [
@@ -517,7 +517,7 @@
     {
       "name": "三坑高記手工粉圓。豆花（無固定休，休息資訊請看FB粉絲專頁）",
       "description": "招牌豆花口感滑順，手作粉圓更是好評如潮，值得一試。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 365,
       "categories": [
@@ -533,7 +533,7 @@
     {
       "name": "張家餛飩麵店",
       "description": "餛飩搭配麵條，餡料鮮美，湯頭清爽，是道地美食。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 241,
       "categories": [
@@ -598,7 +598,7 @@
     {
       "name": "九如營養三明治常一嚐",
       "description": "安樂區基金一路28年老店油炸麵包夾美乃滋番茄黃瓜滷蛋基隆味",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.3,
       "reviews": 2118,
       "categories": [
@@ -614,7 +614,7 @@
     {
       "name": "遠東賴家水煎包",
       "description": "採開放式空間的樸實店面，周圍熙熙攘攘，供應傳統水煎包。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 2393,
       "categories": [
@@ -630,7 +630,7 @@
     {
       "name": "昇美早餐屋孝三店（炭烤三明治專賣）",
       "description": "炭烤三明治專賣，搭配香濃咖啡，完美早晨。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 313,
       "categories": [
@@ -646,7 +646,7 @@
     {
       "name": "遠東泡泡冰",
       "description": "採木質裝潢的舒適店鋪，專賣各種新鮮水果口味的泡泡冰。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 2440,
       "categories": [
@@ -662,7 +662,7 @@
     {
       "name": "東北麵食館",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 591,
       "categories": [
@@ -678,7 +678,7 @@
     {
       "name": "海味海產店",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 1066,
       "categories": [
@@ -694,7 +694,7 @@
     {
       "name": "擇食居酒屋",
       "description": "多樣日式菜品，人氣場所值得一訪。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 1828,
       "categories": [
@@ -710,7 +710,7 @@
     {
       "name": "品辰素食坊-健康素食麵疙瘩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 785,
       "categories": [
@@ -726,7 +726,7 @@
     {
       "name": "三姐妹餐飲店",
       "description": "人氣店家，提供多樣台灣家常菜，讓你感受家的味道。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 2599,
       "categories": [
@@ -742,7 +742,7 @@
     {
       "name": "長腳麵食",
       "description": "環境樸實素雅的小型餐館，供應簡單的麵食。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 2369,
       "categories": [
@@ -758,7 +758,7 @@
     {
       "name": "大白鯊魚丸",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 1037,
       "categories": [
@@ -774,7 +774,7 @@
     {
       "name": "李家鍋貼饅頭",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 461,
       "categories": [
@@ -790,7 +790,7 @@
     {
       "name": "順伯三輪車肉圓",
       "description": "人氣肉圓，皮薄餡多的肉圓，口感豐富讓人回味無窮。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 427,
       "categories": [
@@ -822,7 +822,7 @@
     {
       "name": "阿華炒麵",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 4790,
       "categories": [
@@ -838,7 +838,7 @@
     {
       "name": "阿嬌炒麵",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 926,
       "categories": [
@@ -854,7 +854,7 @@
     {
       "name": "梁社漢排骨-基隆義二店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 306,
       "categories": [
@@ -869,7 +869,7 @@
     },
     {
       "name": "多好咖啡店",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "",
       "categories": [
         "咖啡廳"
@@ -886,7 +886,7 @@
     {
       "name": "母湯 Mom's Soup",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 5,
       "reviews": 375,
       "categories": [
@@ -900,7 +900,7 @@
     {
       "name": "享鍋物",
       "description": "美味火鍋料理，選擇多樣，人氣火鍋。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 977,
       "categories": [
@@ -914,7 +914,7 @@
     {
       "name": "食運糖水鋪",
       "description": "超人氣甜品店，招牌糖水清甜可口，讓人一試成主顧。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 1323,
       "categories": [
@@ -928,7 +928,7 @@
     {
       "name": "陶林歡喜蔬食 D68",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 10,
       "categories": [
@@ -942,7 +942,7 @@
     {
       "name": "蔬食幸福食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 20,
       "categories": [
@@ -956,7 +956,7 @@
     {
       "name": "滿緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -970,7 +970,7 @@
     {
       "name": "藍綠早蔬食坊（採預約制．請透過下方訂位按鈕與我們聯繫）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 5,
       "reviews": 60,
       "categories": [
@@ -984,7 +984,7 @@
     {
       "name": "基隆阿惠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -998,7 +998,7 @@
     {
       "name": "素食麵線焿油飯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 5,
       "reviews": 7,
       "categories": [
@@ -1012,7 +1012,7 @@
     {
       "name": "活力蔬食 早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 5,
       "reviews": 20,
       "categories": [
@@ -1026,7 +1026,7 @@
     {
       "name": "百福素食麵線羹.素香排",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 5,
       "reviews": 13,
       "categories": [
@@ -1040,7 +1040,7 @@
     {
       "name": "美鳳素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 5,
       "reviews": 2,
       "categories": [
@@ -1054,7 +1054,7 @@
     {
       "name": "赤富士日式燒肉鍋物-基隆店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 2184,
       "categories": [
@@ -1068,7 +1068,7 @@
     {
       "name": "佐藤お帰り",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.9,
       "reviews": 923,
       "categories": [
@@ -1082,7 +1082,7 @@
     {
       "name": "小家咖啡",
       "description": "充滿溫馨氛圍的咖啡館, 理想的放鬆與聚會場所。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.9,
       "reviews": 668,
       "categories": [
@@ -1096,7 +1096,7 @@
     {
       "name": "銘 燒肉",
       "description": "精緻的台式燒肉，讓每一口都充滿滿足感。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 490,
       "categories": [
@@ -1110,7 +1110,7 @@
     {
       "name": "焼肉スマイル（燒肉Smile）基隆潮境公園店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 13243,
       "categories": [
@@ -1124,7 +1124,7 @@
     {
       "name": "鍋之日手作鍋物/壽喜燒（深溪店）",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 3643,
       "categories": [
@@ -1138,7 +1138,7 @@
     {
       "name": "鮨聚壽司｜提前預約優先｜每月排休制《基隆百福》",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.9,
       "reviews": 1038,
       "categories": [
@@ -1152,7 +1152,7 @@
     {
       "name": "巷弄有一鍋",
       "description": "氛圍愜意的工業風餐廳，供應傳統火鍋和熱炒。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 2976,
       "categories": [
@@ -1166,7 +1166,7 @@
     {
       "name": "麻江湖火鍋-基隆廟口店",
       "description": "超人氣火鍋，湯底鮮美，食材新鮮。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 1742,
       "categories": [
@@ -1180,7 +1180,7 @@
     {
       "name": "森森小匠鍋",
       "description": "招牌火鍋，極致味蕾體驗，深受食客喜愛。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 1865,
       "categories": [
@@ -1194,7 +1194,7 @@
     {
       "name": "聚 日式鍋物 基隆信一店",
       "description": "超人氣日式火鍋，精緻食材，滿足味蕾。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 3224,
       "categories": [
@@ -1208,7 +1208,7 @@
     {
       "name": "涮一鍋",
       "description": "人氣鍋品，創新口味，讓人驚喜連連。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 825,
       "categories": [
@@ -1222,7 +1222,7 @@
     {
       "name": "涮樂和牛鍋物 食べ放題 第一品牌-基隆店",
       "description": "火鍋吃到飽，超人氣選擇，滿足肉食控。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 11802,
       "categories": [
@@ -1250,7 +1250,7 @@
     {
       "name": "基隆宵麻辣頂級火鍋",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 2046,
       "categories": [
@@ -1264,7 +1264,7 @@
     {
       "name": "豐盛鍋物",
       "description": "專注於火鍋的多樣選擇，讓你每次都有新體驗。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 270,
       "categories": [
@@ -1278,7 +1278,7 @@
     {
       "name": "來一品火鍋-基隆自助式吃到飽鍋物/慶生/約會/聚餐/特色",
       "description": "自助式吃到飽，聚會慶生的好選擇，讓你盡情享受。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.9,
       "reviews": 556,
       "categories": [
@@ -1292,7 +1292,7 @@
     {
       "name": "御品鮮 中式套餐/各類鍋物/咖啡/飲料",
       "description": "結合中式套餐與火鍋，提供精緻美食，適合各類聚餐需求。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 328,
       "categories": [
@@ -1306,7 +1306,7 @@
     {
       "name": "NONNONSAID CAFE/儂儂說甜點專門店",
       "description": "精緻甜點與香醇咖啡的完美結合, 人氣甜品店",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 1445,
       "categories": [
@@ -1320,7 +1320,7 @@
     {
       "name": "習慣這家Café- 基隆廟口店",
       "description": "超人氣的台菜與茶飲，必試的美味讓人一再回訪。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 3246,
       "categories": [
@@ -1334,7 +1334,7 @@
     {
       "name": "Yaong Caffe & YNV ｜與十隻貓咪共處一室｜定食 珈琲 專賣（每週限量義大利麵）",
       "description": "與十隻貓咪共處的日式定食及異國料理，人氣。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 1766,
       "categories": [
@@ -1348,7 +1348,7 @@
     {
       "name": "良作居食屋(公休日以公告為主)",
       "description": "精緻台菜料理，保證讓你回味無窮。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 452,
       "categories": [
@@ -1362,7 +1362,7 @@
     {
       "name": "王烤肉熱炒串燒薑母鴨",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 336,
       "categories": [
@@ -1390,7 +1390,7 @@
     {
       "name": "鍋之日火鍋店/壽喜燒（七堵店）",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.9,
       "reviews": 503,
       "categories": [
@@ -1404,7 +1404,7 @@
     {
       "name": "魯先生原滷滷味基隆七堵店",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.9,
       "reviews": 100,
       "categories": [
@@ -1431,7 +1431,7 @@
     {
       "name": "We Are 手作餐坊/窯烤披薩",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.9,
       "reviews": 104,
       "categories": [
@@ -1445,7 +1445,7 @@
     {
       "name": "精一健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.9,
       "reviews": 86,
       "categories": [
@@ -1472,7 +1472,7 @@
     {
       "name": "容易沉米蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.9,
       "reviews": 71,
       "categories": [
@@ -1486,7 +1486,7 @@
     {
       "name": "七善德齋-素食烘焙",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.9,
       "reviews": 77,
       "categories": [
@@ -1500,7 +1500,7 @@
     {
       "name": "金庫1985 (咖啡、蔬食、創業孵化器)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.9,
       "reviews": 696,
       "categories": [
@@ -1514,7 +1514,7 @@
     {
       "name": "好客堡牛肉麵",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 382,
       "categories": [
@@ -1528,7 +1528,7 @@
     {
       "name": "心家純淨蔬食｜vegan |素食｜restaurants｜民生社區素食｜全素餐廳｜素食便當｜素水餃｜素肉圓｜素食年菜｜素食蘿蔔糕｜全素甜點",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 796,
       "categories": [
@@ -1542,7 +1542,7 @@
     {
       "name": "After5步驟六基隆店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 223,
       "categories": [
@@ -1569,7 +1569,7 @@
     {
       "name": "泰機車泰客蔬食",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 144,
       "categories": [
@@ -1596,7 +1596,7 @@
     {
       "name": "海之鄉海產餐廳",
       "description": "新鮮海鮮料理, 讓海味在舌尖上舞動。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 1478,
       "categories": [
@@ -1610,7 +1610,7 @@
     {
       "name": "陽光廚坊",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 396,
       "categories": [
@@ -1624,7 +1624,7 @@
     {
       "name": "逸番亭（假日中午可事先預約開店喔）",
       "description": "餐點精緻可預約, 給你舒適的用餐享受。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 410,
       "categories": [
@@ -1638,7 +1638,7 @@
     {
       "name": "職人の灶咖-基隆總店",
       "description": "人氣台菜餐廳，專注於傳統工藝與新鮮食材的完美結合。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 862,
       "categories": [
@@ -1652,7 +1652,7 @@
     {
       "name": "HND好日子美式海鮮餐廳",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 1715,
       "categories": [
@@ -1666,7 +1666,7 @@
     {
       "name": "小義城義大利麵 基隆店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 990,
       "categories": [
@@ -1680,7 +1680,7 @@
     {
       "name": "海漾拾光《咖啡/冰品/下午茶》",
       "description": "甜品與冰品的完美結合，適合午後悠閒時光。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 261,
       "categories": [
@@ -1707,7 +1707,7 @@
     {
       "name": "1632 Cafe & Diner",
       "description": "咖啡香氣四溢，提供舒適的用餐體驗。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 697,
       "categories": [
@@ -1721,7 +1721,7 @@
     {
       "name": "SundayUncle星期日叔叔",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 298,
       "categories": [
@@ -1748,7 +1748,7 @@
     {
       "name": "燒鶴一番町-基隆廟口店（信義國小停車場）｜基隆廟口燒肉｜燒肉吃到飽｜聚會首選｜百人包場｜寵物友善｜",
       "description": "聚會首選的燒肉吃到飽，寵物友善環境更添溫馨。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 1956,
       "categories": [
@@ -1762,7 +1762,7 @@
     {
       "name": "朶雨",
       "description": "提供精緻台菜，食材新鮮，超人氣餐廳，讓人流連忘返。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.8,
       "reviews": 248,
       "categories": [
@@ -1789,7 +1789,7 @@
     {
       "name": "金春喜韓廚-基隆好食城店",
       "description": "招牌韓式料理，人氣店鋪，讓你品嚐正宗韓味。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 1597,
       "categories": [
@@ -1803,7 +1803,7 @@
     {
       "name": "基隆老司雞炸全雞專賣店",
       "description": "超人氣炸全雞，外酥內嫩，讓人一試成主顧。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 457,
       "categories": [
@@ -1830,7 +1830,7 @@
     {
       "name": "月見牛麵所",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 1526,
       "categories": [
@@ -1844,7 +1844,7 @@
     {
       "name": "火鍋世家基隆信一店",
       "description": "經典火鍋搭配多樣配料，人氣火鍋餐廳。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 1980,
       "categories": [
@@ -1858,7 +1858,7 @@
     {
       "name": "加分100%浜中特選昆布鍋物-廟口店-基隆仁愛個人鍋物",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 1866,
       "categories": [
@@ -1872,7 +1872,7 @@
     {
       "name": "若羚珍饌重慶麻辣火鍋",
       "description": "正宗麻辣火鍋，火辣口感，超人氣火鍋。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 2828,
       "categories": [
@@ -1886,7 +1886,7 @@
     {
       "name": "熊一頂級燒肉-基隆東岸店",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 7606,
       "categories": [
@@ -1900,7 +1900,7 @@
     {
       "name": "暖日咖啡Warm Day Cafe",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 383,
       "categories": [
@@ -1914,7 +1914,7 @@
     {
       "name": "葉子咖啡 Leaf Caf 'e",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 226,
       "categories": [
@@ -1941,7 +1941,7 @@
     {
       "name": "橡果",
       "description": "提供精緻台菜，搭配季節性食材，讓每一口都有驚喜。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 892,
       "categories": [
@@ -1955,7 +1955,7 @@
     {
       "name": "隱山所",
       "description": "讓人驚艷的中式料理，隱密的環境增添用餐趣味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 402,
       "categories": [
@@ -1969,7 +1969,7 @@
     {
       "name": "木登商行",
       "description": "享受道地中式台菜的舒適用餐體驗。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 210,
       "categories": [
@@ -1996,7 +1996,7 @@
     {
       "name": "金茶壺八寶冬粉（基隆廟口美食70年老字號）",
       "description": "經典八寶冬粉口感滑順，歷久彌新的美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 1165,
       "categories": [
@@ -2010,7 +2010,7 @@
     {
       "name": "漁闆娘",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 361,
       "categories": [
@@ -2024,7 +2024,7 @@
     {
       "name": "站前壽司",
       "description": "創意壽司拼盤，吸引愛好者一試成主顧。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 303,
       "categories": [
@@ -2051,7 +2051,7 @@
     {
       "name": "饗㵑居酒屋（中日式料理）",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 625,
       "categories": [
@@ -2092,7 +2092,7 @@
     {
       "name": "麥味登_基隆仁二店",
       "description": "提供美味台菜，顧客評價極高。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 347,
       "categories": [
@@ -2106,7 +2106,7 @@
     {
       "name": "city晨市早午餐（11-19販售舒肥餐盒）",
       "description": "舒肥餐盒口感絕佳，人氣不斷上升。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 262,
       "categories": [
@@ -2133,7 +2133,7 @@
     {
       "name": "冰封仙果 ICE UNA 基隆廟口店",
       "description": "超人氣冰品甜品，讓你在炎熱夏日中消暑。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 566,
       "categories": [
@@ -2147,7 +2147,7 @@
     {
       "name": "Mini私房點心",
       "description": "招牌點心精緻可口，讓你每一口都感受到用心製作的美味。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 491,
       "categories": [
@@ -2174,7 +2174,7 @@
     {
       "name": "柒77",
       "description": "人氣台菜餐廳，菜色精緻美味，令人驚豔。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 229,
       "categories": [
@@ -2215,7 +2215,7 @@
     {
       "name": "那間居酒屋 Najian Izakaya",
       "description": "招牌日式美食搭配酒品，人氣居酒屋。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 1678,
       "categories": [
@@ -2229,7 +2229,7 @@
     {
       "name": "邱記古早味黑糖剉冰",
       "description": "傳統黑糖剉冰，清涼消暑的甜品首選。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.8,
       "reviews": 179,
       "categories": [
@@ -2243,7 +2243,7 @@
     {
       "name": "佛緣素食小吃攤",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 19,
       "categories": [
@@ -2257,7 +2257,7 @@
     {
       "name": "艸木川蔬食（公休日請看臉書）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.8,
       "reviews": 100,
       "categories": [
@@ -2284,7 +2284,7 @@
     {
       "name": "安樂市場 素食麵攤/素麵線羹",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.8,
       "reviews": 5,
       "categories": [
@@ -2298,7 +2298,7 @@
     {
       "name": "SweeTea-有點甜｛新東方茶廊｝",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 690,
       "categories": [
@@ -2312,7 +2312,7 @@
     {
       "name": "小腳落 Little corner（不定期公休，請見臉書）",
       "description": "精緻的台菜選擇，雖然不定期公休，卻仍吸引眾多食客。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 549,
       "categories": [
@@ -2326,7 +2326,7 @@
     {
       "name": "525創意酒食館",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 473,
       "categories": [
@@ -2340,7 +2340,7 @@
     {
       "name": "陶板屋 基隆信一店",
       "description": "超人氣的陶板料理，讓每一口都充滿驚喜。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 6769,
       "categories": [
@@ -2354,7 +2354,7 @@
     {
       "name": "萬祝號",
       "description": "招牌菜品鮮美可口，是喜愛台菜的食客必訪之地。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 897,
       "categories": [
@@ -2368,7 +2368,7 @@
     {
       "name": "天晴晴天",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 324,
       "categories": [
@@ -2382,7 +2382,7 @@
     {
       "name": "群賢閣蔬食餐廳",
       "description": "精緻的蔬食料理，健康美味兼具。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 407,
       "categories": [
@@ -2396,7 +2396,7 @@
     {
       "name": "C'est Bon Bistro棒棒小餐館",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.7,
       "reviews": 338,
       "categories": [
@@ -2410,7 +2410,7 @@
     {
       "name": "隱家茶寮 基隆雨都篇",
       "description": "濃郁茶香配上精緻小吃，讓人感受隱秘的美味天堂。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 1137,
       "categories": [
@@ -2424,7 +2424,7 @@
     {
       "name": "鮮牧火鍋",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 1107,
       "categories": [
@@ -2438,7 +2438,7 @@
     {
       "name": "煮火鍋",
       "description": "愜意的火鍋餐廳，店內展示了種類繁多的運動鞋收藏。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 3034,
       "categories": [
@@ -2452,7 +2452,7 @@
     {
       "name": "莫初拾六樓景觀KTV餐廳",
       "description": "中式美食搭配美景，適合聚餐與唱歌的好去處。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 1096,
       "categories": [
@@ -2466,7 +2466,7 @@
     {
       "name": "大嘴巴茶坊 - 基隆廟口",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 2153,
       "categories": [
@@ -2480,7 +2480,7 @@
     {
       "name": "基隆「阿不拉海鮮」",
       "description": "以新鮮海鮮與台菜結合，深受食客喜愛，讓您回味無窮。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 1136,
       "categories": [
@@ -2494,7 +2494,7 @@
     {
       "name": "(58) 海宴海產店",
       "description": "超人氣海產店，菜色新鮮且多樣，是海鮮愛好者的天堂。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 3239,
       "categories": [
@@ -2508,7 +2508,7 @@
     {
       "name": "泰炒",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 940,
       "categories": [
@@ -2522,7 +2522,7 @@
     {
       "name": "美有計劃Café",
       "description": "主打美式和義式美食的休閒餐廳，提供披薩、義大利麵、燉飯和甜點。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 1713,
       "categories": [
@@ -2536,7 +2536,7 @@
     {
       "name": "三奇壹號咖啡館&築甜製菓 (基隆好食城店)",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 424,
       "categories": [
@@ -2550,7 +2550,7 @@
     {
       "name": "閑閑",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 785,
       "categories": [
@@ -2564,7 +2564,7 @@
     {
       "name": "小隱茶庵 潮境",
       "description": "體驗創新中式台菜的隱藏美味，人氣。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 1300,
       "categories": [
@@ -2578,7 +2578,7 @@
     {
       "name": "阿胖餡餅 扁食湯 炸醬麵",
       "description": "超人氣小吃，完美滿足各種食慾。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 391,
       "categories": [
@@ -2592,7 +2592,7 @@
     {
       "name": "藏漁殿",
       "description": "融合中式與台菜的精華，菜品美味，讓人驚喜連連。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 681,
       "categories": [
@@ -2606,7 +2606,7 @@
     {
       "name": "TrueWin初韻 基隆廟口店",
       "description": "人氣餐廳，招牌台菜美味傳統，讓人回味無窮。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 1722,
       "categories": [
@@ -2620,7 +2620,7 @@
     {
       "name": "滿滿燒肉",
       "description": "平實的日式餐廳，供應以桌面烤爐烹調的傳統肉類料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 2038,
       "categories": [
@@ -2634,7 +2634,7 @@
     {
       "name": "暖暮甜廚(預約制一人作業餐酒館 不定期公休)",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 228,
       "categories": [
@@ -2648,7 +2648,7 @@
     {
       "name": "佬食所(公休日請看臉書)",
       "description": "結合創意菜品與舒適環境，讓每位食客都能享受美好時光。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 402,
       "categories": [
@@ -2662,7 +2662,7 @@
     {
       "name": "何家的飯盒/環保鐵盒便當/團體便當",
       "description": "環保鐵盒便當選擇多樣，團體便當也很受歡迎。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 266,
       "categories": [
@@ -2676,7 +2676,7 @@
     {
       "name": "健康素食麵線羹",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.7,
       "reviews": 15,
       "categories": [
@@ -2690,7 +2690,7 @@
     {
       "name": "馥口棠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.7,
       "reviews": 17,
       "categories": [
@@ -2704,7 +2704,7 @@
     {
       "name": "貓町珈琲 Cattown : Coffee Stand",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 565,
       "categories": [
@@ -2718,7 +2718,7 @@
     {
       "name": "Café Passeport 咖啡護照",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 236,
       "categories": [
@@ -2732,7 +2732,7 @@
     {
       "name": "呷尚鱻餐廳",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.6,
       "reviews": 3989,
       "categories": [
@@ -2746,7 +2746,7 @@
     {
       "name": "樂海海鮮碳烤/海景第一排/寵物友善/鹽烤鯛魚需預訂/假日不接受訂位/禁帶外食",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.6,
       "reviews": 1178,
       "categories": [
@@ -2760,7 +2760,7 @@
     {
       "name": "嶼我 Me & Island",
       "description": "提供新鮮的海鮮台菜，讓您感受海島風情的美食享受。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 541,
       "categories": [
@@ -2774,7 +2774,7 @@
     {
       "name": "佃煮秋刀魚",
       "description": "香氣四溢的招牌秋刀魚，讓人一試成主顧。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 518,
       "categories": [
@@ -2788,7 +2788,7 @@
     {
       "name": "賞鮨手作料理店",
       "description": "專注於新鮮食材的手作壽司，讓人垂涎欲滴。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 517,
       "categories": [
@@ -2802,7 +2802,7 @@
     {
       "name": "無名鍋",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 784,
       "categories": [
@@ -2816,7 +2816,7 @@
     {
       "name": "肉多多火鍋-基隆愛二店",
       "description": "豐富肉品選擇，火鍋愛好者的最愛。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 1532,
       "categories": [
@@ -2830,7 +2830,7 @@
     {
       "name": "架大碗海鮮粥•麵",
       "description": "新鮮海鮮搭配美味粥品, 人氣滿滿的美食選擇。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 1948,
       "categories": [
@@ -2844,7 +2844,7 @@
     {
       "name": "夏隆咖啡 Shalom Cafe",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 315,
       "categories": [
@@ -2858,7 +2858,7 @@
     {
       "name": "瀞咖啡 Coffee Ching",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.6,
       "reviews": 380,
       "categories": [
@@ -2886,7 +2886,7 @@
     {
       "name": "丸九生魚片（公休日請查詢臉書專頁）",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 213,
       "categories": [
@@ -2900,7 +2900,7 @@
     {
       "name": "加盛日本料理",
       "description": "提供多樣化的日式料理，口味出色，讓人一再光顧。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 218,
       "categories": [
@@ -2914,7 +2914,7 @@
     {
       "name": "想不到小食堂（資訊以臉書置頂文章為主）",
       "description": "家常台菜美味，令人感受到溫馨氣息。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.6,
       "reviews": 373,
       "categories": [
@@ -2928,7 +2928,7 @@
     {
       "name": "基隆漁壽司-店休日請參考FB粉絲頁",
       "description": "新鮮海鮮壽司，讓人驚艷的味蕾享受。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.6,
       "reviews": 309,
       "categories": [
@@ -2942,7 +2942,7 @@
     {
       "name": "平實豆漿（內用最後入座時間12:30、無洗手間）",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 367,
       "categories": [
@@ -2956,7 +2956,7 @@
     {
       "name": "弘爺漢堡 基隆新豐店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 346,
       "categories": [
@@ -2970,7 +2970,7 @@
     {
       "name": "禾月堂",
       "description": "招牌台菜菜色豐富，精緻的擺盤和美味，讓人一次滿足。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 393,
       "categories": [
@@ -2998,7 +2998,7 @@
     {
       "name": "小卒燒烤/新豐店-中正推薦燒烤|必吃燒烤|人氣串燒|推薦串燒|平價碳烤|串燒烤肉|居酒屋推薦|CP串燒",
       "description": "人氣串燒店，平價又美味，適合聚會享用。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 302,
       "categories": [
@@ -3012,7 +3012,7 @@
     {
       "name": "海勒牛排館 基隆牛排館",
       "description": "樸素的餐廳，主要供應大份量的牛排、海鮮義大利麵餐點和沙拉。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.6,
       "reviews": 1023,
       "categories": [
@@ -3026,7 +3026,7 @@
     {
       "name": "愚夫私廚 無菜單 西餐",
       "description": "創意無菜單料理，讓每次用餐都充滿驚喜。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 315,
       "categories": [
@@ -3040,7 +3040,7 @@
     {
       "name": "要塞司令部洋食廚房",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 257,
       "categories": [
@@ -3054,7 +3054,7 @@
     {
       "name": "七堵家榛烤玉米",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.6,
       "reviews": 100,
       "categories": [
@@ -3068,7 +3068,7 @@
     {
       "name": "一樹素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.6,
       "reviews": 67,
       "categories": [
@@ -3082,7 +3082,7 @@
     {
       "name": "古月香熬粹牛肉麵",
       "description": "採用深色裝潢的小巧樸實餐廳，供應麵食、牛肉和豆腐料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 2212,
       "categories": [
@@ -3096,7 +3096,7 @@
     {
       "name": "香園素食｜早餐｜午餐｜冷凍素料｜冷凍水餃｜冷凍香椿餅",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 21,
       "categories": [
@@ -3110,7 +3110,7 @@
     {
       "name": "基隆外木山烤鴨",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 1567,
       "categories": [
@@ -3124,7 +3124,7 @@
     {
       "name": "帝龍海産餐廳",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 908,
       "categories": [
@@ -3138,7 +3138,7 @@
     {
       "name": "武嶺街麺食館",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 256,
       "categories": [
@@ -3152,7 +3152,7 @@
     {
       "name": "小島走走布朗尼｜基隆伴手禮・基隆甜點",
       "description": "知名伴手禮，手作甜點與咖啡的完美搭配。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 1868,
       "categories": [
@@ -3166,7 +3166,7 @@
     {
       "name": "桃子福州小吃",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 317,
       "categories": [
@@ -3180,7 +3180,7 @@
     {
       "name": "山城古厝黑豆腐",
       "description": "以黑豆製作的豆腐，口感滑嫩，讓人回味無窮。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 215,
       "categories": [
@@ -3194,7 +3194,7 @@
     {
       "name": "阿良飯麵館",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 280,
       "categories": [
@@ -3208,7 +3208,7 @@
     {
       "name": "（老）富樂台式涮涮鍋",
       "description": "提供經典台式火鍋，味道醇厚，讓人回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 247,
       "categories": [
@@ -3222,7 +3222,7 @@
     {
       "name": "愛一35火鍋銅盤烤肉",
       "description": "融合火鍋與燒烤特色，讓您一次滿足雙重美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 1399,
       "categories": [
@@ -3236,7 +3236,7 @@
     {
       "name": "三奇壹號咖啡館x築甜製菓:Keelung Senki Coffee",
       "description": "咖啡與甜點完美搭配, 人氣咖啡館吸引眾人。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 1941,
       "categories": [
@@ -3250,7 +3250,7 @@
     {
       "name": "安樓咖啡 (Enzo Cafe)",
       "description": "舒適的咖啡氛圍與精選飲品, 人氣不斷的熱門咖啡店。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 698,
       "categories": [
@@ -3264,7 +3264,7 @@
     {
       "name": "I’M HERE COFFEE 基隆店",
       "description": "享受香醇咖啡的舒適氛圍與悠閒時光。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 225,
       "categories": [
@@ -3278,7 +3278,7 @@
     {
       "name": "李記古早味小時候大餅",
       "description": "懷舊大餅香氣四溢，讓人回味童年。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 288,
       "categories": [
@@ -3292,7 +3292,7 @@
     {
       "name": "晟壽司",
       "description": "精緻日式料理，生魚片新鮮，讓人流連忘返的美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 841,
       "categories": [
@@ -3306,7 +3306,7 @@
     {
       "name": "古早味早餐（171號早餐店）",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 607,
       "categories": [
@@ -3320,7 +3320,7 @@
     {
       "name": "謝謝XieXie美式早午餐",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 772,
       "categories": [
@@ -3334,7 +3334,7 @@
     {
       "name": "麥味登 基隆海大OA店",
       "description": "提供多樣中式台菜，讓味蕾享受豐富選擇。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 337,
       "categories": [
@@ -3362,7 +3362,7 @@
     {
       "name": "陳食滋味",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 593,
       "categories": [
@@ -3390,7 +3390,7 @@
     {
       "name": "黑炭燒烤本鋪-信四店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 380,
       "categories": [
@@ -3404,7 +3404,7 @@
     {
       "name": "焦糖楓串燒連鎖第一品牌/廟口加盟店(內用.外帶)",
       "description": "招牌串燒香甜可口，值得細細品味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 833,
       "categories": [
@@ -3418,7 +3418,7 @@
     {
       "name": "金大鋤壽喜燒-基隆店",
       "description": "招牌壽喜燒醬汁濃郁，帶來無與倫比的享受。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 653,
       "categories": [
@@ -3432,7 +3432,7 @@
     {
       "name": "福廚牛排",
       "description": "牛排料理美味可口，吸引眾多饕客光臨。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 242,
       "categories": [
@@ -3446,7 +3446,7 @@
     {
       "name": "天下魯肉飯",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 412,
       "categories": [
@@ -3460,7 +3460,7 @@
     {
       "name": "老牌全家福酒釀湯圓元宵",
       "description": "甜品之選，手工製作的湯圓，搭配酒釀香甜可口。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 1288,
       "categories": [
@@ -3474,7 +3474,7 @@
     {
       "name": "泰安手工蛋餅",
       "description": "現點現做的蛋餅，搭配咖啡絕配的早餐選擇。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 202,
       "categories": [
@@ -3488,7 +3488,7 @@
     {
       "name": "吃麵吉 JA MI KI",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 189,
       "categories": [
@@ -3502,7 +3502,7 @@
     {
       "name": "吳式-油飯.大麵炒-七堵店",
       "description": "招牌油飯和大麵炒美味可口, 小吃界的好選擇。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.5,
       "reviews": 142,
       "categories": [
@@ -3516,7 +3516,7 @@
     {
       "name": "存饍馨健康素食麵疙瘩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.5,
       "reviews": 26,
       "categories": [
@@ -3530,7 +3530,7 @@
     {
       "name": "北京素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.5,
       "reviews": 120,
       "categories": [
@@ -3544,7 +3544,7 @@
     {
       "name": "暖暖 K.D House凱蒂窩",
       "description": "中式餐廳，在地美味",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.5,
       "reviews": 569,
       "address": "205台灣基隆市暖暖區暖西里東勢街10號",
@@ -3559,7 +3559,7 @@
     {
       "name": "基隆小羅牛肉麵",
       "description": "鮮美牛肉麵，吃過的人都說讚，讓人想再來。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 1003,
       "categories": [
@@ -3573,7 +3573,7 @@
     {
       "name": "信三肉圓",
       "description": "手工製作的肉圓，口感豐富，讓人一試成主顧。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 112,
       "categories": [
@@ -3587,7 +3587,7 @@
     {
       "name": "七堵OK大腸蚵仔麵線",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 290,
       "categories": [
@@ -3601,7 +3601,7 @@
     {
       "name": "安樂市場菜頭滷",
       "description": "安樂區市場內菜頭滷蘿蔔豬血糕油豆腐入味湯頭清甜",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.4,
       "reviews": 184,
       "categories": [
@@ -3615,7 +3615,7 @@
     {
       "name": "昶帝嶺餐廳",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.4,
       "reviews": 3097,
       "categories": [
@@ -3629,7 +3629,7 @@
     {
       "name": "渡船頭 阿信ㄟ灶咖",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 710,
       "categories": [
@@ -3643,7 +3643,7 @@
     {
       "name": "邦彼諾 Bambino",
       "description": "人氣台菜餐廳，經典美食讓人回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 1591,
       "categories": [
@@ -3657,7 +3657,7 @@
     {
       "name": "苓蘭生態農園",
       "description": "結合生態與美食，提供健康台菜，人氣餐廳，適合家庭聚會。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 472,
       "categories": [
@@ -3671,7 +3671,7 @@
     {
       "name": "芳鄰熱炒海鮮店",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 969,
       "categories": [
@@ -3685,7 +3685,7 @@
     {
       "name": "牛膳坊",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 830,
       "categories": [
@@ -3699,7 +3699,7 @@
     {
       "name": "望海巷石頭火鍋二館",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 882,
       "categories": [
@@ -3713,7 +3713,7 @@
     {
       "name": "六扇門時尚湯鍋-基隆深溪店",
       "description": "時尚湯鍋，搭配新鮮食材，人氣餐廳。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 1513,
       "categories": [
@@ -3727,7 +3727,7 @@
     {
       "name": "錢都日式涮涮鍋-基隆愛一店 CHIEN TU HOT POT",
       "description": "專注於日式火鍋，人氣選擇，讓您享受極致涮煮體驗。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 211,
       "categories": [
@@ -3755,7 +3755,7 @@
     {
       "name": "築間幸福鍋物 基隆新豐店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 2941,
       "categories": [
@@ -3769,7 +3769,7 @@
     {
       "name": "石二鍋 基隆仁二店",
       "description": "專注於中式和台菜火鍋，食材新鮮，實惠美味，受食客青睞。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 1712,
       "categories": [
@@ -3783,7 +3783,7 @@
     {
       "name": "上園海鮮熱炒",
       "description": "精緻熱炒料理，搭配新鮮海鮮，讓人吃得過癮。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.4,
       "reviews": 234,
       "categories": [
@@ -3797,7 +3797,7 @@
     {
       "name": "空白服飾&金派甜點",
       "description": "精緻甜品與冰品匯聚的夢幻之地。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 778,
       "categories": [
@@ -3811,7 +3811,7 @@
     {
       "name": "MaruCorner Cafe",
       "description": "日常咖啡時光與輕食的理想選擇。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 794,
       "categories": [
@@ -3825,7 +3825,7 @@
     {
       "name": "ムースゲットロスト",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 606,
       "categories": [
@@ -3839,7 +3839,7 @@
     {
       "name": "基隆豚肝腸",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 393,
       "categories": [
@@ -3853,7 +3853,7 @@
     {
       "name": "新派寿司料理",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 605,
       "categories": [
@@ -3867,7 +3867,7 @@
     {
       "name": "鈺刺身丼",
       "description": "專注於刺身與丼飯，人氣餐廳，讓人欲罷不能的美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 1119,
       "categories": [
@@ -3881,7 +3881,7 @@
     {
       "name": "舶食日式丼飯、串燒",
       "description": "簡約的餐廳，提供傳統日本壽司、天婦羅和烤雞肉串。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 1128,
       "categories": [
@@ -3895,7 +3895,7 @@
     {
       "name": "SHITO SHITO -現代居酒屋",
       "description": "現代居酒屋風格，提供創意料理滿足你的味蕾。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 358,
       "categories": [
@@ -3909,7 +3909,7 @@
     {
       "name": "楽多トースト",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 843,
       "categories": [
@@ -3923,7 +3923,7 @@
     {
       "name": "ベリーキッチンブランチ",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 570,
       "categories": [
@@ -3937,7 +3937,7 @@
     {
       "name": "POPO SANDWICH 基隆總店（營業）",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 301,
       "categories": [
@@ -3951,7 +3951,7 @@
     {
       "name": "蛋匣！創意早食",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 297,
       "categories": [
@@ -3965,7 +3965,7 @@
     {
       "name": "立嘉糕餅（公休日於臉書公告）",
       "description": "專注中式糕點，公休日資訊隨時更新。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 328,
       "categories": [
@@ -3979,7 +3979,7 @@
     {
       "name": "打爆豚韓式焼肉食べ放題基隆店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 1548,
       "categories": [
@@ -3993,7 +3993,7 @@
     {
       "name": "楽天焼肉",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 1058,
       "categories": [
@@ -4007,7 +4007,7 @@
     {
       "name": "品都串燒攤 基隆",
       "description": "串燒選擇眾多，適合聚餐的好地方。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 375,
       "categories": [
@@ -4021,7 +4021,7 @@
     {
       "name": "聚。韓句",
       "description": "提供多樣化的台菜選擇，深受食客喜愛。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 385,
       "categories": [
@@ -4035,7 +4035,7 @@
     {
       "name": "犇王牛排",
       "description": "超人氣牛排店，招牌牛排鮮嫩多汁，讓人一試成主顧。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.4,
       "reviews": 1126,
       "categories": [
@@ -4049,7 +4049,7 @@
     {
       "name": "第34夜",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 467,
       "categories": [
@@ -4063,7 +4063,7 @@
     {
       "name": "二十一義",
       "description": "特色台菜讓人驚艷，味道鮮美，深受食客喜愛。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 548,
       "categories": [
@@ -4077,7 +4077,7 @@
     {
       "name": "阿里山畚箕湖鉄道弁当（基隆新豐））",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 226,
       "categories": [
@@ -4091,7 +4091,7 @@
     {
       "name": "護国城隍廟",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 419,
       "categories": [
@@ -4105,7 +4105,7 @@
     {
       "name": "阿秋ベトナム小吃",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 138,
       "categories": [
@@ -4119,7 +4119,7 @@
     {
       "name": "絲麥爾美食天堂",
       "description": "各式小吃應有盡有, 讓人流連忘返的夜市美食。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.4,
       "reviews": 107,
       "categories": [
@@ -4134,7 +4134,7 @@
     {
       "name": "素慈健康素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 189,
       "categories": [
@@ -4148,7 +4148,7 @@
     {
       "name": "(D33)如意青菜煮素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.4,
       "reviews": 11,
       "categories": [
@@ -4162,7 +4162,7 @@
     {
       "name": "啟德素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.4,
       "reviews": 202,
       "categories": [
@@ -4176,7 +4176,7 @@
     {
       "name": "昍牛犇牛肉麵",
       "description": "牛肉口感滑嫩，湯頭清爽，讓每一口都充滿驚喜。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 235,
       "categories": [
@@ -4190,7 +4190,7 @@
     {
       "name": "後山海景咖啡",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 1634,
       "categories": [
@@ -4204,7 +4204,7 @@
     {
       "name": "信奕原汁牛肉麵",
       "description": "以濃郁湯頭及彈牙麵條聞名，值得一試的美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 344,
       "categories": [
@@ -4232,7 +4232,7 @@
     {
       "name": "薰衣草簡餐-基隆長庚總店",
       "description": "提供多樣化的簡餐, 滿足不同口味需求。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.3,
       "reviews": 835,
       "categories": [
@@ -4246,7 +4246,7 @@
     {
       "name": "好食陳（其他公休日請至臉書更新）",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 297,
       "categories": [
@@ -4260,7 +4260,7 @@
     {
       "name": "芳裕農場",
       "description": "以新鮮食材為主打，人氣台菜餐廳，適合家庭聚餐。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.3,
       "reviews": 1143,
       "categories": [
@@ -4274,7 +4274,7 @@
     {
       "name": "通通泰式風味小吃",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.3,
       "reviews": 941,
       "categories": [
@@ -4288,7 +4288,7 @@
     {
       "name": "郭家巷頭粿仔湯",
       "description": "特色粿仔湯搭配新鮮配料，讓人回味無窮。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.3,
       "reviews": 1377,
       "categories": [
@@ -4302,7 +4302,7 @@
     {
       "name": "阿芬炒麵",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 708,
       "categories": [
@@ -4316,7 +4316,7 @@
     {
       "name": "陞豪火鍋",
       "description": "特色鍋底與新鮮食材相得益彰，值得一試的火鍋選擇。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 1505,
       "categories": [
@@ -4330,7 +4330,7 @@
     {
       "name": "義美石頭火鍋",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 5123,
       "categories": [
@@ -4344,7 +4344,7 @@
     {
       "name": "涮乃葉 基隆好食城店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 723,
       "categories": [
@@ -4358,7 +4358,7 @@
     {
       "name": "丸山日式涮涮鍋",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 941,
       "categories": [
@@ -4372,7 +4372,7 @@
     {
       "name": "57熱炒",
       "description": "提供經典熱炒美味，深受食客喜愛，適合聚餐享用。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 382,
       "categories": [
@@ -4386,7 +4386,7 @@
     {
       "name": "天一香肉焿順",
       "description": "招牌肉焿湯濃郁美味，人氣台菜餐廳。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 2736,
       "categories": [
@@ -4400,7 +4400,7 @@
     {
       "name": "台灣小吃 旗魚麵線，旗魚湯",
       "description": "旗魚麵線，旗魚湯鮮美，讓人感受台灣的海味。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 588,
       "categories": [
@@ -4414,7 +4414,7 @@
     {
       "name": "六號碼頭麵店-五層豬腸湯",
       "description": "五層豬腸湯濃郁美味，湯品深受食客喜愛。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 1324,
       "categories": [
@@ -4428,7 +4428,7 @@
     {
       "name": "A6263吳姳麵館",
       "description": "人氣麵食店，以多樣的麵條選擇吸引食客光臨。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 1452,
       "categories": [
@@ -4442,7 +4442,7 @@
     {
       "name": "三角窗麵擔",
       "description": "提供道地的中式麵食，讓顧客品味傳統的美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 1164,
       "categories": [
@@ -4456,7 +4456,7 @@
     {
       "name": "凃大的吉古拉",
       "description": "夜市小吃的精華，讓人一口接一口停不下來。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 1102,
       "categories": [
@@ -4471,7 +4471,7 @@
     {
       "name": "遠東蚵仔煎",
       "description": "口感鮮美的蚵仔煎，讓人一試成主顧的經典小吃。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 1557,
       "categories": [
@@ -4485,7 +4485,7 @@
     {
       "name": "峰鮨",
       "description": "中式與台菜結合，招牌菜品豐富，人氣餐廳，令人回味無窮。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 1634,
       "categories": [
@@ -4499,7 +4499,7 @@
     {
       "name": "周家蔥油餅",
       "description": "簡約樸實的餐館，主打自製蔥油餅與餛飩。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 3830,
       "categories": [
@@ -4513,7 +4513,7 @@
     {
       "name": "大公雞早點",
       "description": "專賣中式台菜早點，讓你開啟美好的一天。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 216,
       "categories": [
@@ -4527,7 +4527,7 @@
     {
       "name": "初沐Qmilk Coffee&Juice Bar",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 494,
       "categories": [
@@ -4541,7 +4541,7 @@
     {
       "name": "波客多複合式餐飲店",
       "description": "融合多種中式台菜，豐富的選擇讓人愛不釋手。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 226,
       "categories": [
@@ -4555,7 +4555,7 @@
     {
       "name": "活力站蒟蒻屋",
       "description": "人氣餐廳，招牌蒟蒻料理健康美味，讓你吃得安心又滿足。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 6095,
       "categories": [
@@ -4569,7 +4569,7 @@
     {
       "name": "島上有冰",
       "description": "招牌冰品清涼消暑，帶來夏日的甜蜜滋味，適合夏天品嚐。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 444,
       "categories": [
@@ -4583,7 +4583,7 @@
     {
       "name": "王鼎牛排D62",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 664,
       "categories": [
@@ -4597,7 +4597,7 @@
     {
       "name": "多吃一點",
       "description": "提供多樣化的台菜牛排，讓每位食客都能找到心頭好。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 622,
       "categories": [
@@ -4611,7 +4611,7 @@
     {
       "name": "蔡家知高飯",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 563,
       "categories": [
@@ -4625,7 +4625,7 @@
     {
       "name": "就只是糖葫蘆",
       "description": "招牌糖葫蘆外酥內軟，甜蜜滋味令人難忘。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 185,
       "categories": [
@@ -4639,7 +4639,7 @@
     {
       "name": "蘇家米苔目（七堵店）",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.3,
       "reviews": 209,
       "categories": [
@@ -4653,7 +4653,7 @@
     {
       "name": "詹家素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 409,
       "categories": [
@@ -4667,7 +4667,7 @@
     {
       "name": "龍記健康素食手工麵疙瘩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.3,
       "reviews": 133,
       "categories": [
@@ -4681,7 +4681,7 @@
     {
       "name": "暖暖麵店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.3,
       "reviews": 1366,
       "address": "205台灣基隆市暖暖區暖暖里暖暖街81號",
@@ -4696,7 +4696,7 @@
     {
       "name": "大俠牛肉麵-暖暖店",
       "description": "人氣牛肉麵，湯頭濃郁，麵條彈牙，讓人回味無窮。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.2,
       "reviews": 1500,
       "categories": [
@@ -4710,7 +4710,7 @@
     {
       "name": "老林沙茶汕頭牛肉店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 311,
       "categories": [
@@ -4724,7 +4724,7 @@
     {
       "name": "真鮮活海產手作料理",
       "description": "新鮮活海產手作料理，讓每一道菜都充滿海洋的鮮味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 567,
       "categories": [
@@ -4738,7 +4738,7 @@
     {
       "name": "基隆廟口30號攤 蝦仁羹 魯肉飯",
       "description": "招牌蝦仁羹與魯肉飯，經典小吃必試。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 144,
       "categories": [
@@ -4766,7 +4766,7 @@
     {
       "name": "甲賀牛肉麵專賣",
       "description": "專注牛肉麵，湯頭濃郁，讓人回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 348,
       "categories": [
@@ -4780,7 +4780,7 @@
     {
       "name": "明味餐廳",
       "description": "人氣台菜餐廳，提供多樣化的中式佳餚，讓您品味傳統的美味。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.2,
       "reviews": 1104,
       "categories": [
@@ -4794,7 +4794,7 @@
     {
       "name": "古早風味甕仔雞",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 1403,
       "categories": [
@@ -4808,7 +4808,7 @@
     {
       "name": "安家雞肉飯",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 224,
       "categories": [
@@ -4822,7 +4822,7 @@
     {
       "name": "肚食雞 滷味",
       "description": "美味滷味小吃，醇厚的滷汁讓人一口接一口。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.2,
       "reviews": 288,
       "categories": [
@@ -4836,7 +4836,7 @@
     {
       "name": "十二堂",
       "description": "提供多樣中式台菜, 是品味台灣家常味的好去處。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 460,
       "categories": [
@@ -4850,7 +4850,7 @@
     {
       "name": "十二橋麵食館",
       "description": "以美味麵食聞名，帶給你滿滿的幸福感。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 1488,
       "categories": [
@@ -4864,7 +4864,7 @@
     {
       "name": "八斗港鵝肉生猛海鮮熱炒",
       "description": "提供鵝肉與海鮮熱炒，菜色豐富，讓人一試成主顧。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 463,
       "categories": [
@@ -4878,7 +4878,7 @@
     {
       "name": "野棧熱炒",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.2,
       "reviews": 227,
       "categories": [
@@ -4892,7 +4892,7 @@
     {
       "name": "hómee CAFÉ 好饗咖啡-基隆港店",
       "description": "提供佳釀與輕食的美好咖啡體驗。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 490,
       "categories": [
@@ -4906,7 +4906,7 @@
     {
       "name": "基隆 孝三 大腸圈",
       "description": "專賣香腸、豬血和內臟的樸實小吃店。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 4074,
       "categories": [
@@ -4920,7 +4920,7 @@
     {
       "name": "阿山哥雙胞胎",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 319,
       "categories": [
@@ -4934,7 +4934,7 @@
     {
       "name": "奇軒壽司屋",
       "description": "精緻壽司選擇，吸引壽司愛好者光臨。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 335,
       "categories": [
@@ -4948,7 +4948,7 @@
     {
       "name": "東家館",
       "description": "人氣中式台菜，經典菜品令人回味無窮，適合聚餐。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 1270,
       "categories": [
@@ -4962,7 +4962,7 @@
     {
       "name": "延平傳統早餐店",
       "description": "傳承經典咖啡喫茶，讓你品味傳統的美好。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 229,
       "categories": [
@@ -4976,7 +4976,7 @@
     {
       "name": "滿足手工蛋餅",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 430,
       "categories": [
@@ -4990,7 +4990,7 @@
     {
       "name": "初春冰室",
       "description": "招牌冰品口感綿密，完美搭配各種配料，讓你享受多重滋味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 740,
       "categories": [
@@ -5004,7 +5004,7 @@
     {
       "name": "大世界傳統碳烤",
       "description": "傳承經典碳烤技術，讓你回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 450,
       "categories": [
@@ -5018,7 +5018,7 @@
     {
       "name": "噴火龍黑木炭烤",
       "description": "特色黑木炭烤小吃，深受夜市遊客喜愛。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 268,
       "categories": [
@@ -5033,7 +5033,7 @@
     {
       "name": "暖暖牛排館",
       "description": "提供多款美味牛排，適合家庭聚餐的溫馨場所。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.2,
       "reviews": 431,
       "categories": [
@@ -5047,7 +5047,7 @@
     {
       "name": "香川精緻鐵板燒",
       "description": "專注於中式鐵板料理，精緻美味，值得一試。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 245,
       "categories": [
@@ -5061,7 +5061,7 @@
     {
       "name": "小劉排骨飯專賣店",
       "description": "招牌排骨飯美味無比，讓人一試成主顧。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 510,
       "categories": [
@@ -5075,7 +5075,7 @@
     {
       "name": "古早味麵店",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 190,
       "categories": [
@@ -5089,7 +5089,7 @@
     {
       "name": "魯肉飯專家",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.2,
       "reviews": 437,
       "categories": [
@@ -5103,7 +5103,7 @@
     {
       "name": "田園健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.2,
       "reviews": 67,
       "categories": [
@@ -5117,7 +5117,7 @@
     {
       "name": "小市場咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.2,
       "reviews": 683,
       "address": "205台灣基隆市暖暖區碇內里暖碇路36之1號",
@@ -5132,7 +5132,7 @@
     {
       "name": "暖暖小林湯包麵食館（招牌手工鍋貼.小籠湯包.牛肉捲餅.酢醬寬麵.紅油抄手）",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.2,
       "reviews": 664,
       "address": "205台灣基隆市暖暖區暖同里暖暖街222號",
@@ -5147,7 +5147,7 @@
     {
       "name": "木野和風家庭料理",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.1,
       "reviews": 605,
       "categories": [
@@ -5161,7 +5161,7 @@
     {
       "name": "正豐鵝肉專賣店",
       "description": "招牌鵝肉美味可口, 人氣餐廳吸引饕客光臨。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 1099,
       "categories": [
@@ -5175,7 +5175,7 @@
     {
       "name": "阿美麵店",
       "description": "專注於各式美味麵食，讓人回味無窮。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.1,
       "reviews": 876,
       "categories": [
@@ -5189,7 +5189,7 @@
     {
       "name": "莊記牛肉麵",
       "description": "牛肉軟嫩，湯頭醇厚，讓人一吃成主顧。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.1,
       "reviews": 758,
       "categories": [
@@ -5203,7 +5203,7 @@
     {
       "name": "仁愛市場美華牛肉麵",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 444,
       "categories": [
@@ -5217,7 +5217,7 @@
     {
       "name": "來來粿仔湯",
       "description": "信義區信二路40年老店粿仔豬腸湯加酸菜配黑白切粿仔湯傳奇",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 482,
       "categories": [
@@ -5231,7 +5231,7 @@
     {
       "name": "信義区海鮮小吃",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 4598,
       "categories": [
@@ -5259,7 +5259,7 @@
     {
       "name": "河豚很多｜義大利麵｜窯烤披薩｜下午茶｜正濱彩虹屋",
       "description": "招牌窯烤披薩與義大利麵，適合與朋友共享的愉悅時光。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 1434,
       "categories": [
@@ -5273,7 +5273,7 @@
     {
       "name": "casa PICASSO 畢加索餐廳",
       "description": "創意台菜，讓您在每一口中感受藝術的氛圍。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 516,
       "categories": [
@@ -5287,7 +5287,7 @@
     {
       "name": "基隆港海產樓",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 4599,
       "categories": [
@@ -5301,7 +5301,7 @@
     {
       "name": "聖托里尼海景餐廳",
       "description": "設有露台的歐風休閒餐廳，可欣賞水景，供應披薩、義大利麵、肉類餐點與甜點。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 2621,
       "categories": [
@@ -5315,7 +5315,7 @@
     {
       "name": "海上鮮",
       "description": "招牌海鮮料理，人氣餐廳，口碑佳，適合聚餐。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 1856,
       "categories": [
@@ -5329,7 +5329,7 @@
     {
       "name": "封神雞-黑白切白斬雞",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.1,
       "reviews": 1042,
       "categories": [
@@ -5343,7 +5343,7 @@
     {
       "name": "牛肉德沙茶炒牛肉",
       "description": "招牌沙茶炒牛肉，受歡迎的中式美食。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.1,
       "reviews": 498,
       "categories": [
@@ -5357,7 +5357,7 @@
     {
       "name": "龍門客棧麵店",
       "description": "招牌手工麵食，口感滑順，令人回味無窮。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 459,
       "categories": [
@@ -5371,7 +5371,7 @@
     {
       "name": "千葉火鍋 基隆尊爵館",
       "description": "多樣火鍋選擇，適合聚餐，超人氣火鍋。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 3569,
       "categories": [
@@ -5385,7 +5385,7 @@
     {
       "name": "罌粟花精緻鍋物",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 810,
       "categories": [
@@ -5399,7 +5399,7 @@
     {
       "name": "海之星海鮮熱炒",
       "description": "超人氣熱炒餐廳，提供多樣化的台菜，滿足您的味蕾。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 2806,
       "categories": [
@@ -5413,7 +5413,7 @@
     {
       "name": "南北小吃 基隆",
       "description": "提供多樣南北小吃，滿足各種口味需求，讓人回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 834,
       "categories": [
@@ -5427,7 +5427,7 @@
     {
       "name": "圖們咖啡 tuman café",
       "description": "提供多款特色咖啡與輕食，適合休閒聚會。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 903,
       "categories": [
@@ -5441,7 +5441,7 @@
     {
       "name": "練 經濟小吃",
       "description": "練經濟小吃，經典小吃選擇豐富，超人氣美味不容錯過。",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.1,
       "reviews": 361,
       "categories": [
@@ -5455,7 +5455,7 @@
     {
       "name": "金龍肉焿",
       "description": "樸實的餐館，供應湯麵與肉羹等傳統在地美食。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 4325,
       "categories": [
@@ -5469,7 +5469,7 @@
     {
       "name": "和蕎屋壽司料理店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 920,
       "categories": [
@@ -5483,7 +5483,7 @@
     {
       "name": "林桑壽司 每週三、四公休",
       "description": "專注日式壽司，口感新鮮，吸引眾多食客光臨。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 536,
       "categories": [
@@ -5497,7 +5497,7 @@
     {
       "name": "福記牛排",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4.1,
       "reviews": 432,
       "categories": [
@@ -5511,7 +5511,7 @@
     {
       "name": "老饕牛排館",
       "description": "提供精緻的牛排料理，適合喜愛高品質餐點的食客。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.1,
       "reviews": 252,
       "categories": [
@@ -5525,7 +5525,7 @@
     {
       "name": "刈包、四神湯-基隆廟口49號",
       "description": "招牌刈包與四神湯，夜市美食代表。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 265,
       "categories": [
@@ -5540,7 +5540,7 @@
     {
       "name": "四神湯-基隆廟口20號",
       "description": "招牌四神湯口感滑順，暖心夜市小吃。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4.1,
       "reviews": 198,
       "categories": [
@@ -5555,7 +5555,7 @@
     {
       "name": "烏龍伯七堵咖哩麵",
       "description": "咖哩愛好者必試，濃郁咖哩的麵條，讓人欲罷不能。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.1,
       "reviews": 1681,
       "categories": [
@@ -5569,7 +5569,7 @@
     {
       "name": "秦來粿仔湯",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4.1,
       "reviews": 142,
       "categories": [
@@ -5583,7 +5583,7 @@
     {
       "name": "珍味香餅家",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4.1,
       "reviews": 718,
       "address": "205台灣基隆市暖暖區暖同里暖暖街182號",
@@ -5598,7 +5598,7 @@
     {
       "name": "廣東汕頭牛肉店",
       "description": "特色汕頭牛肉料理，香氣撲鼻，讓人垂涎欲滴。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1851,
       "categories": [
@@ -5612,7 +5612,7 @@
     {
       "name": "馬家手捍麵 牛肉麵",
       "description": "牛肉麵味道正宗，手工麵條Q彈，值得一試。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 399,
       "categories": [
@@ -5668,7 +5668,7 @@
     {
       "name": "兩全天婦羅",
       "description": "信義區40年老攤牛蒡甜不辣吉古拉蛋腸隱藏版燒賣基隆甜不辣老字號",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 427,
       "categories": [
@@ -5682,7 +5682,7 @@
     {
       "name": "海龍珠水產海鮮餐廳",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 4,
       "reviews": 7481,
       "categories": [
@@ -5696,7 +5696,7 @@
     {
       "name": "苗圃義大利餐廳",
       "description": "採用復古裝飾的工業風餐廳，供應披薩、義大利麵和其他經典義式料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 1711,
       "categories": [
@@ -5710,7 +5710,7 @@
     {
       "name": "宣騰莊",
       "description": "傳統中式佳餚，口味正宗，人氣餐廳，深受當地人喜愛。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4,
       "reviews": 1340,
       "categories": [
@@ -5724,7 +5724,7 @@
     {
       "name": "七堵老三無刺虱目魚",
       "description": "特色無刺虱目魚，保證讓你輕鬆享受美味魚肉。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4,
       "reviews": 397,
       "categories": [
@@ -5738,7 +5738,7 @@
     {
       "name": "安一海南雞飯基隆總店",
       "description": "招牌海南雞飯，肉質滑嫩，搭配香氣四溢的米飯。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 752,
       "categories": [
@@ -5752,7 +5752,7 @@
     {
       "name": "美珠土雞店",
       "description": "新鮮土雞料理，保留原汁原味，令人食指大動。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 455,
       "categories": [
@@ -5766,7 +5766,7 @@
     {
       "name": "蓁好料小吃店",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 688,
       "categories": [
@@ -5780,7 +5780,7 @@
     {
       "name": "安一五郎海鮮店",
       "description": "平實的小巧餐廳，供應大份量海鮮料理和常見小菜。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1312,
       "categories": [
@@ -5808,7 +5808,7 @@
     {
       "name": "虎仔山休閒咖啡館",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1488,
       "categories": [
@@ -5822,7 +5822,7 @@
     {
       "name": "雞籠外木山景觀咖啡",
       "description": "設有露台的愜意海景咖啡館，供應簡單的餐點和甜點。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1370,
       "categories": [
@@ -5850,7 +5850,7 @@
     {
       "name": "花枝焿·大麵炒",
       "description": "精緻的花枝焿搭配大麵炒，讓人享受海鮮美味。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 554,
       "categories": [
@@ -5864,7 +5864,7 @@
     {
       "name": "今日早點",
       "description": "",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 793,
       "categories": [
@@ -5878,7 +5878,7 @@
     {
       "name": "排排站牛排",
       "description": "專注於牛排的多樣口味，適合肉食愛好者的聚餐場所。",
-      "area": "暖暖區",
+      "area": "暖暖",
       "rating": 4,
       "reviews": 281,
       "categories": [
@@ -5892,7 +5892,7 @@
     {
       "name": "鼎記滷味",
       "description": "滷味品種多樣，鹹香味美，是夜市小吃首選。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 571,
       "categories": [
@@ -5907,7 +5907,7 @@
     {
       "name": "基隆廟口金興蔴粩",
       "description": "招牌蔴粩香脆可口，深受食客喜愛。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 4,
       "reviews": 670,
       "categories": [
@@ -5921,7 +5921,7 @@
     {
       "name": "俞家清魚湯",
       "description": "人氣清湯，鮮美的魚湯，讓人品味到海鮮的原汁原味。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1775,
       "categories": [
@@ -5935,7 +5935,7 @@
     {
       "name": "七堵臭粿仔湯",
       "description": "",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 4,
       "reviews": 1307,
       "categories": [
@@ -5949,7 +5949,7 @@
     {
       "name": "安樂健康素食坊",
       "description": "",
-      "area": "安樂區",
+      "area": "安樂",
       "rating": 3.9,
       "reviews": 14,
       "categories": [
@@ -5963,7 +5963,7 @@
     {
       "name": "鳳蓮素食自助餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七堵區",
+      "area": "七堵",
       "rating": 3.7,
       "reviews": 13,
       "categories": [
@@ -5977,7 +5977,7 @@
     {
       "name": "(D41)愛二路素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 3.6,
       "reviews": 7,
       "categories": [
@@ -5990,7 +5990,7 @@
     },
     {
       "name": "LOKA CAFE",
-      "area": "中正區",
+      "area": "中正",
       "description": "老公寓二樓港口咖啡廳，懷舊氛圍看海景",
       "categories": [
         "咖啡廳"
@@ -6004,7 +6004,7 @@
     },
     {
       "name": "拾玖 SHJIU",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "老宅咖啡廳，必點咖椰磅蛋糕，寵物友善",
       "categories": [
         "咖啡廳"
@@ -6018,7 +6018,7 @@
     },
     {
       "name": "三奇壹號咖啡館 x 築甜製菓",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "基隆千層蛋糕天王，五代老舖改造的港口甜點店",
       "categories": [
         "咖啡廳"
@@ -6032,7 +6032,7 @@
     },
     {
       "name": "砬砬 RiRi",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "工業風咖啡廳，土耳其熱沙咖啡配三溫糖布丁",
       "categories": [
         "咖啡廳"
@@ -6046,7 +6046,7 @@
     },
     {
       "name": "秋香理髮廳",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "50年理髮廳改建老宅咖啡，巴斯克乳酪蛋糕",
       "categories": [
         "咖啡廳"
@@ -6060,7 +6060,7 @@
     },
     {
       "name": "萬祝號 WANCHUCOFFEE",
-      "area": "中正區",
+      "area": "中正",
       "description": "正濱漁港旁工業風咖啡，芝麻流心巴斯克",
       "categories": [
         "咖啡廳"
@@ -6074,7 +6074,7 @@
     },
     {
       "name": "艾茉隆 Emerald",
-      "area": "仁愛區",
+      "area": "仁愛",
       "description": "隱藏二樓職人咖啡店，主打手作甜派",
       "categories": [
         "咖啡廳"
@@ -6089,7 +6089,7 @@
     {
       "name": "基隆廟口泡泡冰",
       "description": "基隆特產冰品，花生口味最經典",
-      "area": "仁愛區",
+      "area": "仁愛",
       "rating": 3.6,
       "reviews": 1264,
       "categories": [
@@ -6103,7 +6103,7 @@
     {
       "name": "澎湖灣",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 350,
       "categories": [

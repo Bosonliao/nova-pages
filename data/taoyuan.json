@@ -572,7 +572,7 @@
     {
       "name": "成真咖啡 桃園中正店",
       "description": "咖啡喫茶的隱藏佳地，提供精選咖啡與舒適氛圍，適合聚會。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 666,
       "categories": [
@@ -588,7 +588,7 @@
     {
       "name": "拾旅。食（由新生路三段轉進；勿走大圳路）",
       "description": "空間寬敞的高檔餐廳，設有露台並坐擁公園景致，主打義式料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 1887,
       "categories": [
@@ -604,7 +604,7 @@
     {
       "name": "成真咖啡 桃園藝文町(百年日式建築、鄰近桃園火站、最後點餐時間20:00)",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 3088,
       "categories": [
@@ -636,7 +636,7 @@
     {
       "name": "伯公小吃",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 281,
       "categories": [
@@ -653,7 +653,7 @@
     {
       "name": "森鄰水岸景觀咖啡館",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.2,
       "reviews": 3302,
       "address": "336台灣桃園市復興區澤仁里澤仁里溪口台2號",
@@ -670,7 +670,7 @@
     {
       "name": "湯明茶樓-桃園統領店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 602,
       "address": "",
@@ -701,7 +701,7 @@
     {
       "name": "老铁沒毛病酸菜魚（桃園中壢店）",
       "description": "超人氣酸菜魚，湯頭濃郁，魚肉鮮嫩。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 5,
       "reviews": 125,
       "categories": [
@@ -715,7 +715,7 @@
     {
       "name": "千蘭日式拉麵（楊梅分店）",
       "description": "超人氣拉麵店，湯頭濃郁，手工拉麵口感絕佳。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.9,
       "reviews": 5381,
       "categories": [
@@ -729,7 +729,7 @@
     {
       "name": "昭和冰室。小食堂-平鎮必吃烏龍麵|忠貞/龍岡炸物推薦|日式餐廳|日式烏龍麵|炸物拼盤|熱門餐廳|平價關東煮|聚餐餐廳",
       "description": "日式烏龍麵與炸物拼盤，平價且美味，是聚餐好去處。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 5,
       "reviews": 214,
       "categories": [
@@ -743,7 +743,7 @@
     {
       "name": "186 蔬食餐酒館（186 Vegan & Vegetarian Bistro）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 5,
       "reviews": 258,
       "categories": [
@@ -757,7 +757,7 @@
     {
       "name": "福園品味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -771,7 +771,7 @@
     {
       "name": "Jasmine&Ryan coffee",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 5,
       "reviews": 223,
       "categories": [
@@ -785,7 +785,7 @@
     {
       "name": "CC烤肉",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 5,
       "reviews": 1478,
       "categories": [
@@ -799,7 +799,7 @@
     {
       "name": "布蕾村·Brulee Village",
       "description": "招牌布蕾，完美的甜品選擇，獲得滿分評價。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 5,
       "reviews": 160,
       "categories": [
@@ -813,7 +813,7 @@
     {
       "name": "享樂平價小火鍋-八德人氣鍋物|熱門鍋物|平價火鍋推薦|小火鍋推薦|外帶鍋物|在地推薦火鍋",
       "description": "火鍋推薦，平價美味，適合外帶享用，人氣火鍋。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 5,
       "reviews": 200,
       "categories": [
@@ -827,7 +827,7 @@
     {
       "name": "蔬河素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -841,7 +841,7 @@
     {
       "name": "復興素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -855,7 +855,7 @@
     {
       "name": "佛緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -869,7 +869,7 @@
     {
       "name": "蔬小田植感蔬食盒專賣店│健康餐盒.蔬食料理.素食餐.小火鍋.滷味.便當外送.會議餐盒.楊梅美食推薦.會久候提早預訂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 5,
       "reviews": 69,
       "categories": [
@@ -883,7 +883,7 @@
     {
       "name": "楊梅富岡慧養生蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 5,
       "reviews": 20,
       "categories": [
@@ -897,7 +897,7 @@
     {
       "name": "德金福蔬食齏排-楊梅",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 5,
       "reviews": 32,
       "categories": [
@@ -911,7 +911,7 @@
     {
       "name": "健康素食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 5,
       "reviews": 26,
       "categories": [
@@ -925,7 +925,7 @@
     {
       "name": "合豐蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 5,
       "reviews": 21,
       "categories": [
@@ -939,7 +939,7 @@
     {
       "name": "桃園／素食早午餐／茹樹齋／蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -953,7 +953,7 @@
     {
       "name": "美好蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 5,
       "reviews": 6,
       "categories": [
@@ -967,7 +967,7 @@
     {
       "name": "小巷子清燉牛肉麵桃園藝文店",
       "description": "湯頭清澈，牛肉鮮嫩，每一口都是滿滿的幸福感。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 695,
       "categories": [
@@ -981,7 +981,7 @@
     {
       "name": "大華小吃(藥燉排骨 炒飯 手做料理)",
       "description": "招牌藥燉排骨美味無比, 手作料理深受喜愛",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.9,
       "reviews": 147,
       "categories": [
@@ -1008,7 +1008,7 @@
     {
       "name": "莆田 桃園台茂店",
       "description": "超人氣台菜，招牌海鮮料理新鮮美味，讓人一再回味。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.9,
       "reviews": 19991,
       "categories": [
@@ -1022,7 +1022,7 @@
     {
       "name": "旅屋 life journey",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.9,
       "reviews": 1014,
       "categories": [
@@ -1036,7 +1036,7 @@
     {
       "name": "采風小館 - 在家旁的好味小館/公休一、二",
       "description": "超人氣小館，擁有多樣化的台菜選擇，讓每一口都充滿驚喜。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 717,
       "categories": [
@@ -1050,7 +1050,7 @@
     {
       "name": "王記鴨肉專賣店",
       "description": "招牌鴨肉鮮嫩多汁，成為當地美食愛好者的首選。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 317,
       "categories": [
@@ -1064,7 +1064,7 @@
     {
       "name": "橙園蔬食早點",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 28,
       "categories": [
@@ -1092,7 +1092,7 @@
     {
       "name": "大園漁港海產粥",
       "description": "大園竹圍漁港現流海產粥新鮮魚蟹蛤蜊海港直送鮮甜",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.9,
       "reviews": 303,
       "categories": [
@@ -1106,7 +1106,7 @@
     {
       "name": "超有肉涮涮屋 楊梅店PLUS",
       "description": "楊梅火鍋吃到飽，肉盤量大CP值高，Google 4.9星",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.9,
       "reviews": 500,
       "categories": [
@@ -1120,7 +1120,7 @@
     {
       "name": "阿本家 - 中正藝文店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 8965,
       "categories": [
@@ -1134,7 +1134,7 @@
     {
       "name": "晶粵軒烤鴨餐廳（桃園店）",
       "description": "招牌烤鴨外脆內嫩，深受食客喜愛。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 1565,
       "categories": [
@@ -1148,7 +1148,7 @@
     {
       "name": "朵LA pasta 桃園店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 4674,
       "categories": [
@@ -1162,7 +1162,7 @@
     {
       "name": "武田信玄",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.9,
       "reviews": 16191,
       "categories": [
@@ -1176,7 +1176,7 @@
     {
       "name": "墨sumi 海鮮丼",
       "description": "日式與中式融合的海鮮丼，超人氣選擇，海鮮愛好者的最愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.9,
       "reviews": 4592,
       "categories": [
@@ -1190,7 +1190,7 @@
     {
       "name": "鮮築美食",
       "description": "專注於精緻中式菜餚，深受食客喜愛。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 645,
       "categories": [
@@ -1204,7 +1204,7 @@
     {
       "name": "品田牧場 八德萬家福店",
       "description": "超人氣牧場餐廳，以新鮮食材和招牌菜聞名。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 7563,
       "categories": [
@@ -1218,7 +1218,7 @@
     {
       "name": "陪你走一段路Walk with you｜輕食·咖啡·簡餐｜庇護商店 網美咖啡廳 方便停車 寵物友善",
       "description": "寵物友善的網美咖啡廳，適合輕鬆聚會。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 627,
       "categories": [
@@ -1232,7 +1232,7 @@
     {
       "name": "魚見川川酸菜魚 八德旗艦店-八德必吃酸菜魚|酸菜魚推薦|大陸小吃|大陸美食|魚頭酸菜魚|在地推薦酸菜魚",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 5269,
       "categories": [
@@ -1246,7 +1246,7 @@
     {
       "name": "塔斯窩/桃園大溪老街隱藏美食/中式套餐/大溪老街美食/",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.9,
       "reviews": 216,
       "categories": [
@@ -1260,7 +1260,7 @@
     {
       "name": "日日朝食(平鎮總店)",
       "description": "超人氣的台式早餐選擇，讓你活力滿滿的一天開始。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 4271,
       "categories": [
@@ -1274,7 +1274,7 @@
     {
       "name": "日式魔法屋",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.9,
       "reviews": 2672,
       "categories": [
@@ -1288,7 +1288,7 @@
     {
       "name": "多．見麵",
       "description": "創意台式麵食，帶來不一樣的美味享受。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.9,
       "reviews": 490,
       "categories": [
@@ -1302,7 +1302,7 @@
     {
       "name": "川將蝦 泰國蝦主題餐廳",
       "description": "專注泰國蝦的異國料理，人氣餐廳，鮮嫩美味無與倫比。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.9,
       "reviews": 1034,
       "categories": [
@@ -1372,7 +1372,7 @@
     {
       "name": "問鼎 ‧ 皇上吉祥 麻辣養生鍋-桃園藝文店",
       "description": "超人氣麻辣養生鍋, 健康與美味兼具",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 7144,
       "categories": [
@@ -1386,7 +1386,7 @@
     {
       "name": "上官木桶鍋 桃園藝文旗艦店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 2637,
       "categories": [
@@ -1400,7 +1400,7 @@
     {
       "name": "鍋大佬-中山北店",
       "description": "人氣火鍋，招牌麻辣鍋，特色湯底濃郁，讓人一試成主顧。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 1459,
       "categories": [
@@ -1442,7 +1442,7 @@
     {
       "name": "饗點鍋 桃園莊敬店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 2705,
       "categories": [
@@ -1470,7 +1470,7 @@
     {
       "name": "今遇良研cafe｜桃園中路咖啡廳",
       "description": "精緻咖啡與甜點的完美搭配，讓人心情愉悅的舒適空間。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 377,
       "categories": [
@@ -1568,7 +1568,7 @@
     {
       "name": "森森燒肉 桃園中路店",
       "description": "口感豐富的燒肉，人氣不斷攀升。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 8579,
       "categories": [
@@ -1582,7 +1582,7 @@
     {
       "name": "森森燒肉 桃園春日店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 24113,
       "categories": [
@@ -1610,7 +1610,7 @@
     {
       "name": "木村堂燒肉 平鎮店",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 9020,
       "categories": [
@@ -1652,7 +1652,7 @@
     {
       "name": "王品牛排 桃園中壢大時鐘店",
       "description": "超人氣牛排，享受高品質的用餐體驗與絕佳服務。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.9,
       "reviews": 9790,
       "categories": [
@@ -1666,7 +1666,7 @@
     {
       "name": "恣翔60元起便當-中北店",
       "description": "價格實惠，便當美味讓人滿足，人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.9,
       "reviews": 207,
       "categories": [
@@ -1680,7 +1680,7 @@
     {
       "name": "双流紅油抄手專門店",
       "description": "招牌紅油抄手，口感滑嫩，鮮香四溢。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.9,
       "reviews": 292,
       "categories": [
@@ -1694,7 +1694,7 @@
     {
       "name": "伴境魚烤｜烤魚・海鮮・桃園八德美食",
       "description": "烤魚美味，海鮮的鮮甜讓你回味無窮。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 224,
       "categories": [
@@ -1708,7 +1708,7 @@
     {
       "name": "久米大稻 職人手作 麻油雞飯",
       "description": "手作麻油雞飯，口感鮮美的夜市小吃。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 124,
       "categories": [
@@ -1723,7 +1723,7 @@
     {
       "name": "愛羅廣東腸粉總店",
       "description": "招牌廣東腸粉，口感滑順，人氣小吃選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 524,
       "categories": [
@@ -1737,7 +1737,7 @@
     {
       "name": "見山景觀咖啡餐廳",
       "description": "人氣咖啡喫茶, 享受美景與美食, 心靈放鬆之地。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.9,
       "reviews": 4964,
       "categories": [
@@ -1751,7 +1751,7 @@
     {
       "name": "壹樓早餐-平鎮復興店",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 1262,
       "categories": [
@@ -1765,7 +1765,7 @@
     {
       "name": "李記輕豆花",
       "description": "滑嫩豆花搭配多樣配料，口感極佳，讓人回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 585,
       "categories": [
@@ -1779,7 +1779,7 @@
     {
       "name": "享食 和風料理-八德日式餐廳|日式定食|熱門餐廳|平價餐廳|日式烏龍麵|聚餐餐廳|日式炸豬排|客製化餐盒",
       "description": "招牌日式炸豬排，平價日式定食，聚餐首選。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 334,
       "categories": [
@@ -1807,7 +1807,7 @@
     {
       "name": "初鍋趣-新莊八德店-新莊熱門鍋物|特色鍋物|人氣鍋物|四季火鍋|必吃火鍋|精緻鍋物|在地推薦火鍋|必吃涮涮鍋",
       "description": "精緻鍋物讓你在火鍋中品味四季的美好，人氣火鍋推薦。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 505,
       "categories": [
@@ -1821,7 +1821,7 @@
     {
       "name": "VEGAN素食肉圓素食蚵仔煎",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 21,
       "categories": [
@@ -1835,7 +1835,7 @@
     {
       "name": "慈雲齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 56,
       "categories": [
@@ -1849,7 +1849,7 @@
     {
       "name": "明芯素食-無蛋奶vegan",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.9,
       "reviews": 33,
       "categories": [
@@ -1863,7 +1863,7 @@
     {
       "name": "福田純素豆干",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.9,
       "reviews": 74,
       "categories": [
@@ -1877,7 +1877,7 @@
     {
       "name": "東村小拾堂 蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.9,
       "reviews": 42,
       "categories": [
@@ -1891,7 +1891,7 @@
     {
       "name": "熊愛來呷麵 夏季品項涼麵、冷滷、飯類桃園觀音草漯蔬食素食 在地美食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.9,
       "reviews": 336,
       "categories": [
@@ -1905,7 +1905,7 @@
     {
       "name": "豪大碗麵線鹹粥（素）-.龜山素食麵線|蔬食料理|素食美食|必吃素食|平價美食|素食小吃|外帶素食|銅板小吃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.9,
       "reviews": 97,
       "categories": [
@@ -1932,7 +1932,7 @@
     {
       "name": "吳媽媽健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 14,
       "categories": [
@@ -1946,7 +1946,7 @@
     {
       "name": "好食光素食香菇麵線",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.9,
       "reviews": 15,
       "categories": [
@@ -1960,7 +1960,7 @@
     {
       "name": "極禾優質鍋物—楊梅瑞溪店｜蔬食自助吧吃到飽",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.9,
       "reviews": 782,
       "categories": [
@@ -1974,7 +1974,7 @@
     {
       "name": "VEGANAMORE蔬慕 復興店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.9,
       "reviews": 51,
       "categories": [
@@ -1988,7 +1988,7 @@
     {
       "name": "大溪老街純素碳烤豆包",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.9,
       "reviews": 75,
       "categories": [
@@ -2002,7 +2002,7 @@
     {
       "name": "酒米食堂chumi_canteen－大園店dayuan",
       "description": "日式料理餐廳",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.9,
       "reviews": 1758,
       "address": "337台灣桃園市大園區大園里和平一街35號",
@@ -2017,7 +2017,7 @@
     {
       "name": "川耗仔食府",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.9,
       "reviews": 4011,
       "address": "",
@@ -2032,7 +2032,7 @@
     {
       "name": "忻林咖啡（包場請洽粉專與現場人員）",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.9,
       "reviews": 273,
       "address": "",
@@ -2047,7 +2047,7 @@
     {
       "name": "鱻億鍋物",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.9,
       "reviews": 1380,
       "address": "",
@@ -2062,7 +2062,7 @@
     {
       "name": "超有肉涮涮屋-觀音店",
       "description": "",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.9,
       "reviews": 2324,
       "address": "",
@@ -2104,7 +2104,7 @@
     {
       "name": "許記麵線羹麵滷肉飯(早午餐)",
       "description": "早午餐選擇多樣, 口味道地且美味。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 163,
       "categories": [
@@ -2131,7 +2131,7 @@
     {
       "name": "集英會牛肉麵-文化店-中壢牛肉麵推薦|人氣牛肉麵|必吃麵食|特色麵館|必吃牛肉麵|台灣美食|熱門牛肉麵|在地推薦餐廳",
       "description": "人氣牛肉麵必吃，特色濃郁湯頭吸引眾多粉絲。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 618,
       "categories": [
@@ -2158,7 +2158,7 @@
     {
       "name": "6/29公休 一鍋入魂平價小火鍋｜吃到飽火鍋｜龜山美食 龜山火鍋 龜山吃到飽 龜山小火鍋 龜山restaurant 後街美食",
       "description": "一鍋入魂平價小火鍋，火鍋吃到飽的好去處，口味多樣，適合聚餐享受。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.8,
       "reviews": 241,
       "categories": [
@@ -2199,7 +2199,7 @@
     {
       "name": "極禾優質鍋物-桃園藝文店-桃園美食 桃園火鍋 桃園鍋物 桃園restaurant 藝文特區美食 藝文特區火鍋",
       "description": "桃園火鍋的代表, 精緻鍋品，滿足你的味蕾期待。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 698,
       "categories": [
@@ -2254,7 +2254,7 @@
     {
       "name": "大碗公 楊梅店",
       "description": "夜市小吃豐富多樣, 口味鮮美受到好評",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 623,
       "categories": [
@@ -2282,7 +2282,7 @@
     {
       "name": "YUYU Kitchen悠悠廚房 ｜沙拉專賣.健康飯盒.素食友善｜",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 409,
       "categories": [
@@ -2310,7 +2310,7 @@
     {
       "name": "小巷子清燉牛肉麵中壢店",
       "description": "清燉牛肉麵的經典之作，吸引大量食客光顧。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 4120,
       "categories": [
@@ -2351,7 +2351,7 @@
     {
       "name": "清牛堂清燉牛肉麵-中壢店",
       "description": "牛肉清燉入味，湯頭清爽健康，適合喜愛清淡口味的食客。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 944,
       "categories": [
@@ -2365,7 +2365,7 @@
     {
       "name": "小巷子清燉牛肉麵（忠勇店）",
       "description": "湯頭濃郁的牛肉麵，深受食客喜愛，人氣不斷攀升。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 1965,
       "categories": [
@@ -2379,7 +2379,7 @@
     {
       "name": "炸綺來鹹酥雞",
       "description": "藝人張文綺創立，中正店桃園觀光夜市附近，多汁鹹酥雞",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 2005,
       "categories": [
@@ -2421,7 +2421,7 @@
     {
       "name": "新屋串燒臭豆腐",
       "description": "新屋特色串燒臭豆腐外酥內嫩搭配特調醬汁烤出香味讓人排隊",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.8,
       "reviews": 518,
       "categories": [
@@ -2462,7 +2462,7 @@
     {
       "name": "NU PASTA 楊梅店",
       "description": "楊梅超人氣義式餐廳，平價美味義大利麵燉飯，Google 4.8星6000+評論",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 6384,
       "categories": [
@@ -2476,7 +2476,7 @@
     {
       "name": "小料理食事處",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 13612,
       "categories": [
@@ -2490,7 +2490,7 @@
     {
       "name": "默爾pasta&pizza (桃園統領店)",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 3167,
       "categories": [
@@ -2504,7 +2504,7 @@
     {
       "name": "茶自點中正店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 8905,
       "categories": [
@@ -2518,7 +2518,7 @@
     {
       "name": "拾青春 | 現代創意西餐廳",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 1235,
       "categories": [
@@ -2532,7 +2532,7 @@
     {
       "name": "坐著做。新星食堂",
       "description": "提供精緻中式台菜，超人氣店鋪，讓人回味無窮的家常味。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 6876,
       "categories": [
@@ -2546,7 +2546,7 @@
     {
       "name": "織田信長無菜單手作料理",
       "description": "小巧昏暗的餐廳，供應拉麵和其他經典日式料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 5682,
       "categories": [
@@ -2560,7 +2560,7 @@
     {
       "name": "大賞平價鐵板燒 中壢店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 4008,
       "categories": [
@@ -2574,7 +2574,7 @@
     {
       "name": "川三 上選燒肉 Chuansan Yakiniku 中壢店",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 6829,
       "categories": [
@@ -2588,7 +2588,7 @@
     {
       "name": "CASA廚房",
       "description": "提供創意中式台菜，人氣店鋪，為您帶來溫馨的用餐體驗。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 230,
       "categories": [
@@ -2615,7 +2615,7 @@
     {
       "name": "義匠義式湯麵-八德東勇店",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 612,
       "categories": [
@@ -2642,7 +2642,7 @@
     {
       "name": "澤香香烤鴨",
       "description": "超人氣烤鴨, 外酥內嫩令人垂涎。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 1961,
       "categories": [
@@ -2656,7 +2656,7 @@
     {
       "name": "貝蛤蛤海鮮餐酒館-廣福店",
       "description": "超人氣海鮮料理, 新鮮美味不容錯過。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 4024,
       "categories": [
@@ -2670,7 +2670,7 @@
     {
       "name": "逸靜軒經典料理",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 420,
       "categories": [
@@ -2684,7 +2684,7 @@
     {
       "name": "秋風軒鍋物 南崁店",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 789,
       "categories": [
@@ -2698,7 +2698,7 @@
     {
       "name": "海暮鐵板燒",
       "description": "人氣鐵板料理，現點現做的美味，讓食客享受視覺與味覺的雙重饗宴。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 1797,
       "categories": [
@@ -2712,7 +2712,7 @@
     {
       "name": "隱灶腳百年老厝餐館",
       "description": "傳承經典台菜，食材新鮮，人氣十足。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 1129,
       "categories": [
@@ -2726,7 +2726,7 @@
     {
       "name": "北橫之驛",
       "description": "專注於精緻台菜，搭配美麗景觀，是用餐的好去處。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 1690,
       "categories": [
@@ -2740,7 +2740,7 @@
     {
       "name": "文創咖美食館",
       "description": "創新台菜與藝術結合，讓每一口都是享受。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 1553,
       "categories": [
@@ -2754,7 +2754,7 @@
     {
       "name": "大溪春天蔬食景觀餐廳",
       "description": "主打健康蔬食，搭配美麗的自然景觀，讓人心曠神怡。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 1645,
       "categories": [
@@ -2768,7 +2768,7 @@
     {
       "name": "Mini Bianco 義式餐館",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 618,
       "categories": [
@@ -2795,7 +2795,7 @@
     {
       "name": "香港西多士茶餐廳",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 3682,
       "categories": [
@@ -2851,7 +2851,7 @@
     {
       "name": "嗑肉石鍋-桃園春日店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 4184,
       "categories": [
@@ -2906,7 +2906,7 @@
     {
       "name": "攪攪風味小火鍋—桃園大同店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 1485,
       "categories": [
@@ -2920,7 +2920,7 @@
     {
       "name": "三柒燒肉專門店-桃園藝文店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 7795,
       "categories": [
@@ -2934,7 +2934,7 @@
     {
       "name": "金蒔鍋物-桃園大竹總店-蘆竹火鍋,蘆竹美食",
       "description": "招牌蘆竹火鍋, 人氣火鍋店，讓你品味新鮮食材的美味。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 2070,
       "categories": [
@@ -2948,7 +2948,7 @@
     {
       "name": "魔椒頂級鴛鴦鍋 中壢直營店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 4488,
       "categories": [
@@ -2962,7 +2962,7 @@
     {
       "name": "桃園火鍋餐廳-大麻鍋物藝文店",
       "description": "樸實而明亮的餐廳，供應自由搭配的火鍋餐點，可自選湯底、肉類或海鮮。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 1773,
       "categories": [
@@ -3004,7 +3004,7 @@
     {
       "name": "饌澤原火鍋【南崁店】『Fresh.Hot.Pot』SINCE 2020",
       "description": "當代風餐廳，供應以桌面爐台烹煮的海鮮與肉類火鍋。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 4059,
       "categories": [
@@ -3018,7 +3018,7 @@
     {
       "name": "蟳鮮屋 和牛·海鮮·健康鍋物 桃園藝文店",
       "description": "主打和牛與海鮮的健康鍋物，讓人享受美味與健康。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 350,
       "categories": [
@@ -3101,7 +3101,7 @@
     {
       "name": "鮨立手作壽司 丼飯（不提供訂位，外帶請提前一天預訂）",
       "description": "手作壽司與丼飯，需提前預訂外帶，人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 522,
       "categories": [
@@ -3184,7 +3184,7 @@
     {
       "name": "神木爺爺手作雪花冰 ふわふわ",
       "description": "手工製作的雪花冰，口感柔軟，令人回味。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 823,
       "categories": [
@@ -3198,7 +3198,7 @@
     {
       "name": "貓屋冰館(手工冰霜桃園龜山店）",
       "description": "手工製作冰品，清爽口感令人回味無窮",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.8,
       "reviews": 286,
       "categories": [
@@ -3225,7 +3225,7 @@
     {
       "name": "往往法式甜點店",
       "description": "精緻異國甜品，無法抵擋的法式誘惑",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 403,
       "categories": [
@@ -3239,7 +3239,7 @@
     {
       "name": "杏福滿門",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 386,
       "categories": [
@@ -3253,7 +3253,7 @@
     {
       "name": "【三宝冰事】BAO 3 ICE",
       "description": "超人氣甜品店，創新冰品結合多種食材，口感絕佳。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 462,
       "categories": [
@@ -3405,7 +3405,7 @@
     {
       "name": "御鼎牛排創意料理",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 2522,
       "categories": [
@@ -3433,7 +3433,7 @@
     {
       "name": "八方園百年三合院景觀客家餐廳",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 10943,
       "categories": [
@@ -3447,7 +3447,7 @@
     {
       "name": "金牌刈包 （經濟部5星認證樂活名攤）",
       "description": "經典刈包口感軟嫩，搭配豐富餡料，獲得超人氣的美食推薦。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 199,
       "categories": [
@@ -3474,7 +3474,7 @@
     {
       "name": "必勝大熱狗",
       "description": "特大熱狗，讓你在夜市裡充滿滿足感。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 100,
       "categories": [
@@ -3501,7 +3501,7 @@
     {
       "name": "彭記煲仔富-中壢平價煲仔飯|必吃煲仔飯|CP煲仔飯|熱門餐廳|必吃美食|人氣煲仔飯|煲仔飯推薦|在地推薦煲仔飯",
       "description": "超人氣煲仔飯，口味多樣，CP值高，必吃美食。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 7392,
       "categories": [
@@ -3515,7 +3515,7 @@
     {
       "name": "南桃吳記 蛤蜊麵",
       "description": "簡約的餐廳，供應海鮮和麵食等療癒美食。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 4171,
       "categories": [
@@ -3529,7 +3529,7 @@
     {
       "name": "喬氏刈包 Ciao pack",
       "description": "超人氣刈包，口感軟糯，深受食客喜愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 411,
       "categories": [
@@ -3543,7 +3543,7 @@
     {
       "name": "大溪走走私房料理",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 111,
       "categories": [
@@ -3557,7 +3557,7 @@
     {
       "name": "胖點寵物親子友善餐廳（ 售完為止 ）營業時間以FB&IG為主《推薦餐廳》龍潭區在地美食｜熱門｜人氣餐廳｜手搖飲｜簡餐｜聚會餐廳｜早午餐｜特色｜精緻｜聚餐｜約會",
       "description": "提供美味簡餐和手搖飲，適合全家聚會。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 432,
       "categories": [
@@ -3571,7 +3571,7 @@
     {
       "name": "蔣 府 宴｜Chiang Fu Yan",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 8141,
       "categories": [
@@ -3585,7 +3585,7 @@
     {
       "name": "常圓品味料理館（最後點餐時間20:00）",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 254,
       "categories": [
@@ -3612,7 +3612,7 @@
     {
       "name": "繞山花(三和青創基地)",
       "description": "夜市人氣小吃, 創意料理, 讓人驚艷的美味體驗。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 1229,
       "categories": [
@@ -3626,7 +3626,7 @@
     {
       "name": "尚禾鍋物",
       "description": "超人氣火鍋店，新鮮食材與湯底，讓人一試成主顧。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 1333,
       "categories": [
@@ -3640,7 +3640,7 @@
     {
       "name": "弘爺漢堡/文化聖祥店-平鎮人氣早午餐|熱門早午餐|在地推薦早午餐|外帶漢堡|外帶早午餐|CP漢堡|平價早午餐",
       "description": "人氣早午餐店，外帶漢堡方便美味，受到在地人推薦。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 366,
       "categories": [
@@ -3654,7 +3654,7 @@
     {
       "name": "吾家本湯 Woo Soup ｜6/20週六開始營業 |寵物友善｜親子友善｜最後點餐時間為19:30",
       "description": "寵物友善與親子友善的用餐環境，湯品值得一試。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 192,
       "categories": [
@@ -3681,7 +3681,7 @@
     {
       "name": "微笑葉子早午餐（每週三公休）-八德平價早午餐|人氣早午餐|必吃早午餐|熱門早午餐|輕食點心|在地推薦早午餐|手工漢堡|脆皮蛋餅",
       "description": "人氣早午餐，手工漢堡和脆皮蛋餅，讓你開啟美好的一天。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 125,
       "categories": [
@@ -3708,7 +3708,7 @@
     {
       "name": "川都江堰-八德麻辣串串鍋|麻辣火鍋|熱門鍋物|串串專賣店|四川麻辣鍋|在地推薦火鍋",
       "description": "超人氣麻辣串串鍋，麻辣鮮香讓人食指大動。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.8,
       "reviews": 240,
       "categories": [
@@ -3735,7 +3735,7 @@
     {
       "name": "植得蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.8,
       "reviews": 47,
       "categories": [
@@ -3762,7 +3762,7 @@
     {
       "name": "青田蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.8,
       "reviews": 13,
       "categories": [
@@ -3776,7 +3776,7 @@
     {
       "name": "開心山寨-蘆竹素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 191,
       "categories": [
@@ -3803,7 +3803,7 @@
     {
       "name": "茹素齋素食和食品",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 317,
       "categories": [
@@ -3817,7 +3817,7 @@
     {
       "name": "如意素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 73,
       "categories": [
@@ -3840,7 +3840,7 @@
     {
       "name": "有間蔬食披薩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 286,
       "categories": [
@@ -3867,7 +3867,7 @@
     {
       "name": "YOGU有機素食椰奶優格-中壢店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 12,
       "categories": [
@@ -3881,7 +3881,7 @@
     {
       "name": "順心素食餐坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.8,
       "reviews": 60,
       "categories": [
@@ -3895,7 +3895,7 @@
     {
       "name": "正一素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 76,
       "categories": [
@@ -3922,7 +3922,7 @@
     {
       "name": "聚善緣蔬食桃園店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 263,
       "categories": [
@@ -3949,7 +3949,7 @@
     {
       "name": "Monday蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 1761,
       "categories": [
@@ -3963,7 +3963,7 @@
     {
       "name": "春草舒願(蔬食料理)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 1022,
       "categories": [
@@ -3977,7 +3977,7 @@
     {
       "name": "陳師姐素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 77,
       "categories": [
@@ -4004,7 +4004,7 @@
     {
       "name": "觀音緣素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.8,
       "reviews": 24,
       "categories": [
@@ -4018,7 +4018,7 @@
     {
       "name": "素食紫米飯糰",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.8,
       "reviews": 11,
       "categories": [
@@ -4032,7 +4032,7 @@
     {
       "name": "明惠素食｜客製素食便當、傳統自炊碗粿、菜頭粿",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 91,
       "categories": [
@@ -4059,7 +4059,7 @@
     {
       "name": "騰記 炸鮮蔬(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.8,
       "reviews": 16,
       "categories": [
@@ -4073,7 +4073,7 @@
     {
       "name": "靜點咖啡|蔬食餐廳|蛋素|奶素|全素(最後收客時間為打烊前一個小時)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 810,
       "categories": [
@@ -4087,7 +4087,7 @@
     {
       "name": "觀竺蔬食 素食拉麵 Vegan Ramen",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 186,
       "categories": [
@@ -4114,7 +4114,7 @@
     {
       "name": "薇麥蔬食咖啡",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 86,
       "categories": [
@@ -4141,7 +4141,7 @@
     {
       "name": "執行長蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": 213,
       "categories": [
@@ -4168,7 +4168,7 @@
     {
       "name": "橫山水一方",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.8,
       "reviews": 811,
       "address": "337台灣桃園市大園區青峰里大仁路102號E棟1樓",
@@ -4183,7 +4183,7 @@
     {
       "name": "玉将食堂 × 공탕｜국밥 전문점 · 韓式湯飯專門店｜釜山豬肉湯飯",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.8,
       "reviews": 1246,
       "address": "337台灣桃園市大園區大園里中山南路255號1樓",
@@ -4198,7 +4198,7 @@
     {
       "name": "品味小吃快炒店",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.8,
       "reviews": 970,
       "address": "327台灣桃園市新屋區中正一街19巷40號",
@@ -4213,7 +4213,7 @@
     {
       "name": "NU PASTA 桃園觀音店",
       "description": "",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.8,
       "reviews": 2813,
       "address": "32847台灣桃園市觀音區草新里大觀路二段189號",
@@ -4228,7 +4228,7 @@
     {
       "name": "涮金鍋 和風涮涮鍋 觀音大觀店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.8,
       "reviews": 785,
       "address": "328台灣桃園市觀音區草新里大觀路二段385號",
@@ -4256,7 +4256,7 @@
     {
       "name": "拉拉人嘉美食莊",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.8,
       "reviews": 1139,
       "address": "336台灣桃園市復興區華陵里巴崚60-1號",
@@ -4271,7 +4271,7 @@
     {
       "name": "D&B綠色咖啡館",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.8,
       "reviews": 476,
       "address": "",
@@ -4299,7 +4299,7 @@
     {
       "name": "桃然亭",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.8,
       "reviews": 287,
       "address": "",
@@ -4314,7 +4314,7 @@
     {
       "name": "龍泉居無菜單料理",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.8,
       "reviews": 324,
       "address": "",
@@ -4329,7 +4329,7 @@
     {
       "name": "白鬍子牛排 楊梅新成店（平價牛排/平價美食/楊梅美食/在地美食/排餐/免費霜淇淋飲料濃湯/下午不休息",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.8,
       "reviews": 1538,
       "address": "",
@@ -4344,7 +4344,7 @@
     {
       "name": "滝禾製麵所-觀音新生店（拉麵專賣）",
       "description": "",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.8,
       "reviews": 1161,
       "address": "",
@@ -4359,7 +4359,7 @@
     {
       "name": "Capriccio 饗渴望",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 1610,
       "address": "",
@@ -4374,7 +4374,7 @@
     {
       "name": "鳥樂日本料理",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 1996,
       "address": "",
@@ -4389,7 +4389,7 @@
     {
       "name": "野薑花與貓（寵物友善，寵物不落地）",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.8,
       "reviews": 3996,
       "address": "",
@@ -4404,7 +4404,7 @@
     {
       "name": "鍋仙日式涮涮鍋「龜山旗艦店」",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.8,
       "reviews": 1197,
       "address": "",
@@ -4419,7 +4419,7 @@
     {
       "name": "天鳥拉麵 龜山文青店",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.8,
       "reviews": 1437,
       "address": "",
@@ -4434,7 +4434,7 @@
     {
       "name": "動動農 客家經典米食-桃園中山東路店(手工鹹湯圓/北部粽/油飯/麻油雞/仙草雞/蘿蔔糕/肉圓)",
       "description": "手工鹹湯圓和北部粽的經典搭配，口感細膩，人氣。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 239,
       "categories": [
@@ -4448,7 +4448,7 @@
     {
       "name": "饗家小餐館",
       "description": "台菜愛好者的理想選擇，帶來家的溫暖與美味。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 1383,
       "categories": [
@@ -4462,7 +4462,7 @@
     {
       "name": "良味小廚",
       "description": "提供多樣化的台菜，讓每一口都充滿驚喜。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.7,
       "reviews": 789,
       "categories": [
@@ -4476,7 +4476,7 @@
     {
       "name": "After5_步驟六龜山店",
       "description": "提供創新中式料理，評價極高。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.7,
       "reviews": 340,
       "categories": [
@@ -4490,7 +4490,7 @@
     {
       "name": "蕋咖啡 Rui Café",
       "description": "咖啡喫茶愛好者的天堂，精緻咖啡與輕食相得益彰，氛圍悠閒。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 299,
       "categories": [
@@ -4546,7 +4546,7 @@
     {
       "name": "柚子花花青春客家菜(A19環球青埔店)",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 1774,
       "categories": [
@@ -4560,7 +4560,7 @@
     {
       "name": "植感森活 HØST | 健康蔬食義大利麵-桃園健康蔬食|健康餐盒|低卡餐盒|低卡美食|溫沙拉推薦|蔬菜沙拉|蔬食餐盒|蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 165,
       "categories": [
@@ -4574,7 +4574,7 @@
     {
       "name": "盧師父蔥油餅",
       "description": "桃園40年老師傅手藝，手工蔥油餅嚴選在地小農青蔥",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 223,
       "categories": [
@@ -4602,7 +4602,7 @@
     {
       "name": "匠心牛作 牛肉麵專門",
       "description": "環境樸實的小巧餐廳，供應四川牛肉麵。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 1811,
       "categories": [
@@ -4644,7 +4644,7 @@
     {
       "name": "阿民小吃 蚵仔煎 臭豆腐 肉圓",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.7,
       "reviews": 121,
       "categories": [
@@ -4659,7 +4659,7 @@
     {
       "name": "QQ田甜品工坊-桃園龍潭大池店-龍潭創意日式冰品|首選手作冰店|日式特色冰店|人氣冰店|熱門手作豆花仙草甜湯店|水果冰品|必吃人氣甜品|在地推薦冰店",
       "description": "人氣日式冰品, 手作豆花仙草甜湯, 夏日消暑首選。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 511,
       "categories": [
@@ -4673,7 +4673,7 @@
     {
       "name": "思源素食包子饅頭",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 23,
       "categories": [
@@ -4715,7 +4715,7 @@
     {
       "name": "八德臭豆腐",
       "description": "八德市場旁臭豆腐攤外酥內嫩配自製泡菜銅板價下午茶首選",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 545,
       "categories": [
@@ -4757,7 +4757,7 @@
     {
       "name": "點8號 星級名廚點心專賣 遠百店",
       "description": "精緻的中式點心，超人氣的美食天堂。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 5252,
       "categories": [
@@ -4771,7 +4771,7 @@
     {
       "name": "金春喜韓廚-桃園遠百店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 1596,
       "categories": [
@@ -4785,7 +4785,7 @@
     {
       "name": "藏王 日式食堂 中壢環球店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 3588,
       "categories": [
@@ -4799,7 +4799,7 @@
     {
       "name": "陶板屋 八德金和店",
       "description": "八德金和店, 人氣餐廳, 招牌陶板料理美味無比。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 5660,
       "categories": [
@@ -4813,7 +4813,7 @@
     {
       "name": "茶自點八德忠勇店",
       "description": "超人氣茶飲, 特色搭配令人心動。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 2741,
       "categories": [
@@ -4827,7 +4827,7 @@
     {
       "name": "秘覓良品 山上花兒開了咖啡景觀餐廳",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 1405,
       "categories": [
@@ -4841,7 +4841,7 @@
     {
       "name": "隱花園景觀咖啡餐廳",
       "description": "結合咖啡與美食，環境優雅，讓人放鬆心情。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.7,
       "reviews": 1491,
       "categories": [
@@ -4855,7 +4855,7 @@
     {
       "name": "東漁食堂 老阿伯生魚片專賣",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.7,
       "reviews": 613,
       "categories": [
@@ -4869,7 +4869,7 @@
     {
       "name": "李大嘴陝西涼皮",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.7,
       "reviews": 728,
       "categories": [
@@ -4883,7 +4883,7 @@
     {
       "name": "元爵味黃燜雞米飯 桃園大有店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 811,
       "categories": [
@@ -4925,7 +4925,7 @@
     {
       "name": "攪攪風味小火鍋-桃園藝文店",
       "description": "超人氣小火鍋，精緻配料搭配，讓人一再回味。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 4019,
       "categories": [
@@ -4967,7 +4967,7 @@
     {
       "name": "沐沐鍋物 龍潭店 ｜249火鍋自助吧吃到飽｜安格斯牛·膠原牛奶鍋",
       "description": "火鍋自助吧吃到飽，特別推薦安格斯牛與膠原牛奶鍋。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 698,
       "categories": [
@@ -4981,7 +4981,7 @@
     {
       "name": "我們。 他們 咖啡廳",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 1084,
       "categories": [
@@ -4995,7 +4995,7 @@
     {
       "name": "覓晌 桃園藝文店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 2859,
       "categories": [
@@ -5065,7 +5065,7 @@
     {
       "name": "鮨吾七",
       "description": "精緻的中式台菜，口感層次豐富，人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 350,
       "categories": [
@@ -5135,7 +5135,7 @@
     {
       "name": "胖桑日式料理",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 924,
       "categories": [
@@ -5177,7 +5177,7 @@
     {
       "name": "慕森MuSen（中原早午餐/中原美食）《推薦早午餐》必吃早午餐｜手作｜精緻｜寵物友善",
       "description": "寵物友善的早午餐，精緻手作料理，讓你與寵物共享美好時光。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 402,
       "categories": [
@@ -5233,7 +5233,7 @@
     {
       "name": "沐雪雪花冰Moosnow 甜品 桃園蘆竹美食",
       "description": "夢幻雪花冰，超人氣的夏季消暑良品",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 1052,
       "categories": [
@@ -5261,7 +5261,7 @@
     {
       "name": "千兵衛燒肉/鍋物-桃園中正店",
       "description": "兼具燒肉與鍋物，味道鮮美，人氣不容小覷。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 2240,
       "categories": [
@@ -5289,7 +5289,7 @@
     {
       "name": "刺客炭火燒肉",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 7745,
       "categories": [
@@ -5303,7 +5303,7 @@
     {
       "name": "大漠紅頂級燒肉",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 8617,
       "categories": [
@@ -5317,7 +5317,7 @@
     {
       "name": "新時代牛排",
       "description": "精緻中式牛排選擇，肉質鮮美，深受食客喜愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 795,
       "categories": [
@@ -5331,7 +5331,7 @@
     {
       "name": "雅室牛排 桃園藝文店",
       "description": "擁有多款牛排，美味可口，人氣餐廳選擇。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 1616,
       "categories": [
@@ -5345,7 +5345,7 @@
     {
       "name": "瀧厚炙燒熟成牛排",
       "description": "招牌炙燒熟成牛排, 口感鮮嫩，超人氣牛排選擇，備受食客讚譽。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 2696,
       "categories": [
@@ -5359,7 +5359,7 @@
     {
       "name": "牛篷牛排",
       "description": "招牌牛排, 精選食材，口感出色，讓人難以忘懷。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 364,
       "categories": [
@@ -5387,7 +5387,7 @@
     {
       "name": "好客食堂",
       "description": "人氣餐廳，提供熱情好客的美味台菜。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.7,
       "reviews": 2901,
       "categories": [
@@ -5401,7 +5401,7 @@
     {
       "name": "花枝遊戲八德興仁2店",
       "description": "招牌花枝料理，鮮美口感，讓人愛不釋口。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 158,
       "categories": [
@@ -5415,7 +5415,7 @@
     {
       "name": "和旺號魚舖.魚湯",
       "description": "湯頭鮮美，魚肉鮮嫩，是夜市的暖心選擇。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.7,
       "reviews": 398,
       "categories": [
@@ -5430,7 +5430,7 @@
     {
       "name": "姚茶館",
       "description": "精緻咖啡與茶品, 營造放鬆愜意的氛圍。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.7,
       "reviews": 240,
       "categories": [
@@ -5444,7 +5444,7 @@
     {
       "name": "珍合味麵飯館楊梅美食楊梅小吃",
       "description": "美味小吃種類繁多, 讓人每次來都有新選擇。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.7,
       "reviews": 298,
       "categories": [
@@ -5458,7 +5458,7 @@
     {
       "name": "伍拾本舖豆花店 -楊梅傳統甜品|楊梅美食|必吃美食|在地推薦美食|豆花推薦|好吃豆花|薑汁豆花",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.7,
       "reviews": 1235,
       "categories": [
@@ -5472,7 +5472,7 @@
     {
       "name": "LE BANHMI 樂粄米 龍潭店",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 121,
       "categories": [
@@ -5486,7 +5486,7 @@
     {
       "name": "圓潤餅·手做專門店（龍潭美食小吃，售完即打烊）",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 159,
       "categories": [
@@ -5500,7 +5500,7 @@
     {
       "name": "貓禾景觀咖啡",
       "description": "絕美咖啡與景觀，超人氣的休閒好去處。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 11487,
       "categories": [
@@ -5514,7 +5514,7 @@
     {
       "name": "邸家咖啡 Deja Brew",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 2592,
       "categories": [
@@ -5528,7 +5528,7 @@
     {
       "name": "龍潭台越李小吃店",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 136,
       "categories": [
@@ -5542,7 +5542,7 @@
     {
       "name": "默野森林咖啡（假日無開放訂位）",
       "description": "超人氣咖啡館，享受悠閒的氛圍與美味飲品。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 1603,
       "categories": [
@@ -5556,7 +5556,7 @@
     {
       "name": "賣快炸雞",
       "description": "絕佳炸雞小吃，外酥內嫩，人氣十足，讓人回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 1228,
       "categories": [
@@ -5570,7 +5570,7 @@
     {
       "name": "肉咖先生 厚炸豬排.熟成咖哩專賣店",
       "description": "厚重炸豬排搭配咖哩，口感豐富，超人氣美食。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 1450,
       "categories": [
@@ -5584,7 +5584,7 @@
     {
       "name": "農恩 Farmer Cuisine｜LINE預約",
       "description": "健康小吃，專注於新鮮食材，讓人吃得安心又美味。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 222,
       "categories": [
@@ -5598,7 +5598,7 @@
     {
       "name": "壹樓早餐-八德豐田店",
       "description": "精緻咖啡與美味早餐，讓你每個早晨充滿活力。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 920,
       "categories": [
@@ -5612,7 +5612,7 @@
     {
       "name": "拉亞漢堡 八德興仁",
       "description": "特色漢堡口感豐富，讓你在夜市中品味不一樣的美食。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 121,
       "categories": [
@@ -5627,7 +5627,7 @@
     {
       "name": "摩洛哥正宗料理屋My Moroccan Foods (Halal)",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 578,
       "categories": [
@@ -5641,7 +5641,7 @@
     {
       "name": "同心緣豆花",
       "description": "滑嫩豆花與多樣配料，甜品愛好者的夢幻選擇。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 107,
       "categories": [
@@ -5655,7 +5655,7 @@
     {
       "name": "新坡晨食館(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.7,
       "reviews": 99,
       "categories": [
@@ -5669,7 +5669,7 @@
     {
       "name": "源園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.7,
       "reviews": 36,
       "categories": [
@@ -5683,7 +5683,7 @@
     {
       "name": "綠圓素健康素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 227,
       "categories": [
@@ -5697,7 +5697,7 @@
     {
       "name": "天然素食 八德區",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 41,
       "categories": [
@@ -5711,7 +5711,7 @@
     {
       "name": "Veg Out 蔬食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 343,
       "categories": [
@@ -5725,7 +5725,7 @@
     {
       "name": "觀自齋蔬食景觀餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 745,
       "categories": [
@@ -5739,7 +5739,7 @@
     {
       "name": "李記素食雲南美味",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.7,
       "reviews": 390,
       "categories": [
@@ -5753,7 +5753,7 @@
     {
       "name": "惠圓蔬食便當",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.7,
       "reviews": 59,
       "categories": [
@@ -5767,7 +5767,7 @@
     {
       "name": "Happy Farmer．桃園 （蔬食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 574,
       "categories": [
@@ -5781,7 +5781,7 @@
     {
       "name": "安東素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 273,
       "categories": [
@@ -5795,7 +5795,7 @@
     {
       "name": "植感森活HØST｜桃園大業蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 192,
       "categories": [
@@ -5809,7 +5809,7 @@
     {
       "name": "午彩椒素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 281,
       "categories": [
@@ -5823,7 +5823,7 @@
     {
       "name": "愛灑人間複合式素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 69,
       "categories": [
@@ -5837,7 +5837,7 @@
     {
       "name": "菩禾林蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 104,
       "categories": [
@@ -5851,7 +5851,7 @@
     {
       "name": "桃園素食圓夢齋",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 62,
       "categories": [
@@ -5865,7 +5865,7 @@
     {
       "name": "景美山林茶園&山月茶屋。 假日需預約",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.7,
       "reviews": 697,
       "address": "336台灣桃園市復興區枕頭山7鄰11之5號",
@@ -5880,7 +5880,7 @@
     {
       "name": "廟口王家小吃(歡迎來電訂餐）",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.7,
       "reviews": 791,
       "address": "336台灣桃園市復興區澤仁里中正路85號",
@@ -5895,7 +5895,7 @@
     {
       "name": "拉拉山雲棧小吃店",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.7,
       "reviews": 815,
       "address": "336台灣桃園市復興區華陵里神木路10鄰135-6號",
@@ -5910,7 +5910,7 @@
     {
       "name": "旅人咖啡館 八德店",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.7,
       "reviews": 1037,
       "address": "",
@@ -5925,7 +5925,7 @@
     {
       "name": "三十六號轉角披薩店（20點最後供餐）",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.7,
       "reviews": 1798,
       "address": "",
@@ -5940,7 +5940,7 @@
     {
       "name": "不等一個人咖啡美食",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.7,
       "reviews": 337,
       "address": "",
@@ -5955,7 +5955,7 @@
     {
       "name": "泰集 -桃園藝文店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.7,
       "reviews": 4143,
       "address": "",
@@ -5970,7 +5970,7 @@
     {
       "name": "萃99'Caffee 水美店",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.7,
       "reviews": 1439,
       "address": "",
@@ -5985,7 +5985,7 @@
     {
       "name": "茶自點南崁店",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.7,
       "reviews": 368,
       "address": "",
@@ -6000,7 +6000,7 @@
     {
       "name": "紅無堤",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.7,
       "reviews": 1495,
       "address": "",
@@ -6015,7 +6015,7 @@
     {
       "name": "專芳客家小館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 728,
       "categories": [
@@ -6029,7 +6029,7 @@
     {
       "name": "善緣客家小館",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.6,
       "reviews": 296,
       "categories": [
@@ -6099,7 +6099,7 @@
     {
       "name": "為伴餐桌 WEI BAN TABLE",
       "description": "創意中式料理，適合朋友聚餐的好選擇。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 834,
       "categories": [
@@ -6113,7 +6113,7 @@
     {
       "name": "TINA廚房-八德店",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 6596,
       "categories": [
@@ -6127,7 +6127,7 @@
     {
       "name": "小義思廚房 is kitchen",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 292,
       "categories": [
@@ -6141,7 +6141,7 @@
     {
       "name": "TINA廚房-大溪店",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.6,
       "reviews": 7412,
       "categories": [
@@ -6155,7 +6155,7 @@
     {
       "name": "鵝師兄—舒肥鵝肉專賣店",
       "description": "專賣舒肥鵝肉，肉質鮮嫩，深受食客喜愛。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 685,
       "categories": [
@@ -6211,7 +6211,7 @@
     {
       "name": "The BBQ House 桃園中路店|現點現切|牛排館|對面有停車場|西餐廳推薦|restaurant|乾式熟成|餐酒館|約會餐廳|聚會餐廳|藝文特區|牛排|中路特區|餐廳包場|情人節",
       "description": "乾式熟成牛排，約會聚會首選，環境優雅。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 372,
       "categories": [
@@ -6225,7 +6225,7 @@
     {
       "name": "The畔 cafe&dining",
       "description": "環境優雅的咖啡館，適合悠閒的聚會與約會。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 2555,
       "categories": [
@@ -6239,7 +6239,7 @@
     {
       "name": "樂農匯蔬食Cafe(二三公休；19:00最後點餐）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 2011,
       "categories": [
@@ -6253,7 +6253,7 @@
     {
       "name": "食席生/古早味早午餐",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 611,
       "categories": [
@@ -6267,7 +6267,7 @@
     {
       "name": "蘆竹南崁炒羊肉",
       "description": "熱炒羊肉店大火快炒羊肉嫩滑不腥沙茶羊肉飯必點",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 1222,
       "categories": [
@@ -6281,7 +6281,7 @@
     {
       "name": "JH51餐廳",
       "description": "中式料理融合創意，讓人每次都想再來。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 748,
       "categories": [
@@ -6295,7 +6295,7 @@
     {
       "name": "古弟私廚",
       "description": "溫馨的鄉村時尚風餐廳，供應阿根廷式牛排和香腸，另有葡萄酒與精釀啤酒。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 932,
       "categories": [
@@ -6309,7 +6309,7 @@
     {
       "name": "坐著做。員工食堂",
       "description": "特色中式台菜，人氣食堂，適合聚餐的好地方。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 2270,
       "categories": [
@@ -6323,7 +6323,7 @@
     {
       "name": "旺德褔樂朝午食所/吐司暫停供應/無訂位服務（目前不定期公休）",
       "description": "提供美味咖啡和簡餐，讓人放鬆身心。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 527,
       "categories": [
@@ -6337,7 +6337,7 @@
     {
       "name": "暮稻食堂（午間最後點餐14:00晚間最後點餐20:00）",
       "description": "營造溫馨氛圍, 讓人感受家的味道。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 687,
       "categories": [
@@ -6351,7 +6351,7 @@
     {
       "name": "慢悠好食",
       "description": "口味純樸, 讓人放慢腳步細細品嚐。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 261,
       "categories": [
@@ -6365,7 +6365,7 @@
     {
       "name": "蕃薯藤自然食堂-南崁店",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 2720,
       "categories": [
@@ -6379,7 +6379,7 @@
     {
       "name": "有湯屋",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 795,
       "categories": [
@@ -6393,7 +6393,7 @@
     {
       "name": "辛梅阿嫲的味道",
       "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 10660,
       "categories": [
@@ -6407,7 +6407,7 @@
     {
       "name": "珍好景觀餐廳",
       "description": "擁有絕佳景觀，提供美味中式台菜與咖啡喫茶。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 313,
       "categories": [
@@ -6421,7 +6421,7 @@
     {
       "name": "湯本源 湯品 拌麵",
       "description": "專注於湯品與拌麵的美味結合，溫暖你的心。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.6,
       "reviews": 1191,
       "categories": [
@@ -6477,7 +6477,7 @@
     {
       "name": "厚冶 Bakery & Cafe",
       "description": "超人氣咖啡與新鮮烘焙，讓每一口都充滿幸福感。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 2922,
       "categories": [
@@ -6505,7 +6505,7 @@
     {
       "name": "渺渺 café",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 228,
       "categories": [
@@ -6547,7 +6547,7 @@
     {
       "name": "拾事咖啡｜自烘咖啡、手工甜點/鹹派、無訂位、最後點餐時間20:30",
       "description": "手工甜點與自烘咖啡，讓每一口都充滿驚喜。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 726,
       "categories": [
@@ -6589,7 +6589,7 @@
     {
       "name": "壹鮨丼",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 343,
       "categories": [
@@ -6603,7 +6603,7 @@
     {
       "name": "樂魚料亭",
       "description": "中式台菜的精緻料理，讓人回味無窮。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 258,
       "categories": [
@@ -6631,7 +6631,7 @@
     {
       "name": "行雲庵（預約制）",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 300,
       "categories": [
@@ -6645,7 +6645,7 @@
     {
       "name": "早安美芝城桃園民生概念店",
       "description": "的招牌早午餐選擇，多樣化且美味，是您完美的開始。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 1096,
       "categories": [
@@ -6673,7 +6673,7 @@
     {
       "name": "澄聚．涼品舖",
       "description": "經典台菜涼品，讓人重拾家鄉的味道",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.6,
       "reviews": 648,
       "categories": [
@@ -6687,7 +6687,7 @@
     {
       "name": "麻吉叔冰舖",
       "description": "招牌冰品口感細膩，人氣讓人一再回訪",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.6,
       "reviews": 416,
       "categories": [
@@ -6701,7 +6701,7 @@
     {
       "name": "陳秋剛綿綿冰 龜山總店",
       "description": "龜山總店，人氣綿綿冰選擇，口感柔滑，甜而不膩，令人驚豔。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.6,
       "reviews": 1829,
       "categories": [
@@ -6743,7 +6743,7 @@
     {
       "name": "松勇風味館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 332,
       "categories": [
@@ -6757,7 +6757,7 @@
     {
       "name": "上野烤肉飯-總店/中壢",
       "description": "招牌烤肉飯香氣四溢，讓人垂涎，超人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 2066,
       "categories": [
@@ -6771,7 +6771,7 @@
     {
       "name": "大觀x小弄",
       "description": "廣受歡迎的甜點店，在舒適簡約的空間中販售各式各樣的蛋糕、派和其他甜點。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 440,
       "categories": [
@@ -6785,7 +6785,7 @@
     {
       "name": "阿嘉水煎包",
       "description": "水煎包外皮金黃酥脆，令人垂涎的美味小吃。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 253,
       "categories": [
@@ -6799,7 +6799,7 @@
     {
       "name": "享吃涼麵 桃園店（賣完為止）",
       "description": "招牌涼麵，清爽可口，人氣小吃選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 209,
       "categories": [
@@ -6813,7 +6813,7 @@
     {
       "name": "大溪名店 香川甜不辣，黑麵",
       "description": "香脆可口，搭配多樣醬料，令人回味無窮。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.6,
       "reviews": 233,
       "categories": [
@@ -6827,7 +6827,7 @@
     {
       "name": "全冠麥芽花生糖/大溪老街伴手禮/小吃/美食",
       "description": "香甜可口的伴手禮，讓人忍不住一口接一口。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.6,
       "reviews": 273,
       "categories": [
@@ -6841,7 +6841,7 @@
     {
       "name": "和和韓式小吃｜LINE線上訂餐@799ajmok｜現場候位",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.6,
       "reviews": 188,
       "categories": [
@@ -6869,7 +6869,7 @@
     {
       "name": "天賜佳雞甕仔雞【龍潭店】龍潭人氣美食|石門水庫聚餐美食|熱炒推薦|甕仔雞推薦|在地推薦美食|熱門美食|必吃甕仔雞|合菜餐廳",
       "description": "熱炒推薦, 甕仔雞必吃, 石門水庫聚餐首選。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 778,
       "categories": [
@@ -6883,7 +6883,7 @@
     {
       "name": "亨味食堂",
       "description": "夜市人氣小吃, 特色料理口感佳, 令人一試成主顧。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 2241,
       "categories": [
@@ -6897,7 +6897,7 @@
     {
       "name": "白圍牆地中海景觀咖啡餐廳",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 10014,
       "categories": [
@@ -6911,7 +6911,7 @@
     {
       "name": "寶媽廣東腸粉",
       "description": "專賣廣東腸粉，口感滑順，是夜市小吃的必試美味。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 129,
       "categories": [
@@ -6925,7 +6925,7 @@
     {
       "name": "皇帝海鮮泡飯",
       "description": "鮮美的海鮮搭配湯飯，讓你品味海洋的滋味。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 234,
       "categories": [
@@ -6939,7 +6939,7 @@
     {
       "name": "八廚職人弁当-桃園金陵店",
       "description": "精緻弁当選擇，色香味俱全，適合各種場合享用。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 557,
       "categories": [
@@ -6953,7 +6953,7 @@
     {
       "name": "韓奶奶-韓式豆腐鍋物（八德代表店）韓式豆腐鍋 | 桃園八德美食 | 八德熱門外送餐飲 | 八德打卡美食 | 八德學生美食 | 韓國特色餐廳 | 平價美食",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 906,
       "categories": [
@@ -6967,7 +6967,7 @@
     {
       "name": "無常拉麵",
       "description": "小巧平實的餐廳，供應傳統日式湯麵，並設有吧台座位區。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 1003,
       "categories": [
@@ -6981,7 +6981,7 @@
     {
       "name": "石頭燒肉 八德旗艦店",
       "description": "超人氣燒肉店，炭燒香氣四溢，讓你一次滿足肉食 cravings。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 7142,
       "categories": [
@@ -6995,7 +6995,7 @@
     {
       "name": "素竹園（素食）創意料理，糖醋魚、炒飯、重慶酸辣粉，月亮蝦餅••••等特色料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.6,
       "reviews": 367,
       "categories": [
@@ -7009,7 +7009,7 @@
     {
       "name": "61號蔬食涼麵（暫停內用）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.6,
       "reviews": 42,
       "categories": [
@@ -7023,7 +7023,7 @@
     {
       "name": "遇素素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.6,
       "reviews": 39,
       "categories": [
@@ -7037,7 +7037,7 @@
     {
       "name": "天昱素蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.6,
       "reviews": 499,
       "categories": [
@@ -7051,7 +7051,7 @@
     {
       "name": "禾田蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.6,
       "reviews": 113,
       "categories": [
@@ -7065,7 +7065,7 @@
     {
       "name": "五辛素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.6,
       "reviews": 21,
       "categories": [
@@ -7079,7 +7079,7 @@
     {
       "name": "嘩聯發蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 58,
       "categories": [
@@ -7093,7 +7093,7 @@
     {
       "name": "素之家素食食材",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 13,
       "categories": [
@@ -7107,7 +7107,7 @@
     {
       "name": "拼拼蔬食（點餐加Line ID：aiaai）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 177,
       "categories": [
@@ -7121,7 +7121,7 @@
     {
       "name": "饍香養生素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 198,
       "categories": [
@@ -7135,7 +7135,7 @@
     {
       "name": "元大素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 57,
       "categories": [
@@ -7149,7 +7149,7 @@
     {
       "name": "柯拉素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 81,
       "categories": [
@@ -7163,7 +7163,7 @@
     {
       "name": "心開素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 453,
       "categories": [
@@ -7177,7 +7177,7 @@
     {
       "name": "越式素食 歡喜吃素",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 629,
       "categories": [
@@ -7191,7 +7191,7 @@
     {
       "name": "善水素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 102,
       "categories": [
@@ -7205,7 +7205,7 @@
     {
       "name": "芊然健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.6,
       "reviews": 443,
       "categories": [
@@ -7219,7 +7219,7 @@
     {
       "name": "🌻鹿鹿春 蔬食 / 肉骨茶 / 千層麵 / 披薩 / 義大利麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.6,
       "reviews": 380,
       "categories": [
@@ -7233,7 +7233,7 @@
     {
       "name": "育馨素食水煎包，麵線",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.6,
       "reviews": 103,
       "categories": [
@@ -7247,7 +7247,7 @@
     {
       "name": "NU PASTA 桃園大園店",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.6,
       "reviews": 2329,
       "address": "337台灣桃園市大園區田心里新興路115號",
@@ -7262,7 +7262,7 @@
     {
       "name": "豚將拉麵 新屋店",
       "description": "日式料理餐廳",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.6,
       "reviews": 540,
       "address": "327台灣桃園市新屋區新屋里中華路266號",
@@ -7277,7 +7277,7 @@
     {
       "name": "瑞士鄉村/TINA廚房-復興店",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.6,
       "reviews": 4672,
       "address": "336台灣桃園市復興區澤仁里復興路三段1028之1號",
@@ -7292,7 +7292,7 @@
     {
       "name": "麵屋一虎-八德店",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.6,
       "reviews": 1249,
       "address": "",
@@ -7307,7 +7307,7 @@
     {
       "name": "14F手作甜點。家庭料理｜假日都有開｜平日用餐需預約，主廚在可內用甜點飲品，歡迎來電詢問",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.6,
       "reviews": 428,
       "address": "",
@@ -7322,7 +7322,7 @@
     {
       "name": "藝綺地中海私廚餐酒館",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.6,
       "reviews": 927,
       "address": "",
@@ -7337,7 +7337,7 @@
     {
       "name": "少爺義式料理廚房《最後點餐時間為晚間8點整》",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.6,
       "reviews": 659,
       "address": "",
@@ -7352,7 +7352,7 @@
     {
       "name": "集英會牛肉麵館",
       "description": "簡約樸實的麵館，以特色牛肉料理和湯品聞名。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 2678,
       "categories": [
@@ -7366,7 +7366,7 @@
     {
       "name": "牛小恬牛肉麵",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1045,
       "categories": [
@@ -7394,7 +7394,7 @@
     {
       "name": "藥燉排骨、當歸羊肉",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 117,
       "categories": [
@@ -7408,7 +7408,7 @@
     {
       "name": "捲滿樓/晚餐/takeout/附近美食/小吃/滷肉飯/麵食",
       "description": "招牌滷肉飯與麵食，深受食客喜愛，是當地的美食熱點。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 170,
       "categories": [
@@ -7422,7 +7422,7 @@
     {
       "name": "Second Floor 貳樓桃園台茂店",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 1839,
       "categories": [
@@ -7436,7 +7436,7 @@
     {
       "name": "藏王日式家庭料理",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 446,
       "categories": [
@@ -7450,7 +7450,7 @@
     {
       "name": "Restaurant BREVA 布浬法餐廳",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.5,
       "reviews": 660,
       "categories": [
@@ -7478,7 +7478,7 @@
     {
       "name": "Eat here 吃這 炭火土司 早午餐 (平鎮總店）",
       "description": "吃這 炭火土司提供炭火烤土司，人氣早午餐，搭配醇香咖啡，令人回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 1429,
       "categories": [
@@ -7492,7 +7492,7 @@
     {
       "name": "燒肉道｜燒肉｜燒烤｜和牛吃到飽｜軌道送餐｜美食餐廳",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 1398,
       "categories": [
@@ -7506,7 +7506,7 @@
     {
       "name": "Ikinari steak 桃園春日店【人氣日本和牛】|高級西餐廳推薦|熱門現切牛排|首選厚切牛排館|無骨牛小排|家庭聚餐慶生|老饕肋眼|排隊商業午餐|必吃和牛套餐",
       "description": "招牌厚切牛排, 必吃和牛套餐，人氣高級西餐廳，適合家庭聚餐慶生。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 493,
       "categories": [
@@ -7520,7 +7520,7 @@
     {
       "name": "肉先生牛排館",
       "description": "提供多樣化的牛排選擇，肉質鮮嫩，讓每位顧客都能滿意而歸。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 962,
       "categories": [
@@ -7534,7 +7534,7 @@
     {
       "name": "鴨肉扁客家小吃",
       "description": "傳統客家美食, 鴨肉料理的最佳選擇。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 221,
       "categories": [
@@ -7548,7 +7548,7 @@
     {
       "name": "銘記灶腳(採預約制｜平鎮美食/山仔頂美食/楊梅美食/中壢美食/桃園美食/龍潭美食/宵夜/餐廳｜/平價快炒/平價熱炒/燒烤/火鍋/異國料理/海鮮/海產/啤酒屋/無菜單料理/｜聚會/包餐/慶生/包廂/唱歌｜辦桌/合菜/年菜/尾牙/春酒/活動場地)",
       "description": "預約制的火鍋與熱炒，適合聚會和各種慶祝活動。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 181,
       "categories": [
@@ -7562,7 +7562,7 @@
     {
       "name": "大溪老街香腸哥",
       "description": "必吃現烤香腸，多汁香甜，老街人氣排隊小吃",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 313,
       "categories": [
@@ -7576,7 +7576,7 @@
     {
       "name": "火力雞-火雞肉飯(平鎮店)",
       "description": "招牌火雞肉飯香氣撲鼻，人氣。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 1122,
       "categories": [
@@ -7590,7 +7590,7 @@
     {
       "name": "火雞牧場火雞肉飯",
       "description": "以火雞肉為主打，味道鮮美。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 703,
       "categories": [
@@ -7604,7 +7604,7 @@
     {
       "name": "香川撈麵",
       "description": "藝文特區5大湯頭撈麵，麻辣黑豬軟骨排順口回甘，酸白菜五花酸香",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 1027,
       "categories": [
@@ -7646,7 +7646,7 @@
     {
       "name": "逸小鍋 鍋の物 楊梅店",
       "description": "楊梅個人鍋物，多樣湯頭自助吧吃到飽，平價高CP",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 400,
       "categories": [
@@ -7660,7 +7660,7 @@
     {
       "name": "Mr. May 義式百匯 桃園中正店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 9631,
       "categories": [
@@ -7674,7 +7674,7 @@
     {
       "name": "Mr.May義式百匯 中壢店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 8238,
       "categories": [
@@ -7688,7 +7688,7 @@
     {
       "name": "No.17 White House",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 400,
       "categories": [
@@ -7702,7 +7702,7 @@
     {
       "name": "鐵炭魂創意料理工作室",
       "description": "獨創中式台菜，人氣小店，為您帶來不同尋常的味覺享受。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1015,
       "categories": [
@@ -7716,7 +7716,7 @@
     {
       "name": "楊滇風 南洋料理",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 525,
       "categories": [
@@ -7730,7 +7730,7 @@
     {
       "name": "壹樓小館",
       "description": "經典台菜餐廳，讓人重溫家鄉的味道。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.5,
       "reviews": 347,
       "categories": [
@@ -7744,7 +7744,7 @@
     {
       "name": "歐米茄義式料理（下午三點到五點電話無人接聽）",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.5,
       "reviews": 693,
       "categories": [
@@ -7758,7 +7758,7 @@
     {
       "name": "大溪閒雲居農莊",
       "description": "舒適環境，提供新鮮食材製作的傳統台菜，讓人放鬆享受。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 249,
       "categories": [
@@ -7772,7 +7772,7 @@
     {
       "name": "Jun. B 禾荷咖啡店",
       "description": "提供精緻咖啡及恬靜氛圍，適合悠閒享受的好去處。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 536,
       "categories": [
@@ -7814,7 +7814,7 @@
     {
       "name": "海瀧王平價海鮮熱炒",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 322,
       "categories": [
@@ -7898,7 +7898,7 @@
     {
       "name": "坐著做。壽司本館",
       "description": "充滿舊日風情的溫馨餐廳，供應高級日式佳餚、甜點和壽司。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1709,
       "categories": [
@@ -7912,7 +7912,7 @@
     {
       "name": "上井生魚片|握壽司|日本料理|桃園美食|宵夜",
       "description": "新鮮生魚片與握壽司，宵夜的最佳選擇，人氣。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.5,
       "reviews": 327,
       "categories": [
@@ -7926,7 +7926,7 @@
     {
       "name": "銀花 壽司｜丼飯｜生魚片 營業時間看IG",
       "description": "美味丼飯與生魚片，營業時間請注意IG，人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 272,
       "categories": [
@@ -7940,7 +7940,7 @@
     {
       "name": "田川日本料理中壢店",
       "description": "提供道地日本料理，精緻美味，深受食客喜愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 538,
       "categories": [
@@ -7954,7 +7954,7 @@
     {
       "name": "水之花 小料理",
       "description": "提供精緻的台式小料理，細膩口感，適合家庭聚餐。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 234,
       "categories": [
@@ -7982,7 +7982,7 @@
     {
       "name": "樂福找•倉（早午餐｜桃園美食｜繼光餅專賣｜手桿蛋餅）",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 479,
       "categories": [
@@ -8010,7 +8010,7 @@
     {
       "name": "早安美芝城桃園國際概念店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 585,
       "categories": [
@@ -8024,7 +8024,7 @@
     {
       "name": "花居樂花坊/在花店裡吃冰/下午茶/喝咖啡/",
       "description": "時尚工業風的花卉工作室，提供手工花藝並設有小型甜點咖啡廳。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 470,
       "categories": [
@@ -8094,7 +8094,7 @@
     {
       "name": "羿燒肉",
       "description": "招牌燒肉，人氣，精選肉品，搭配多樣醬料，讓每一口都充滿驚喜。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1071,
       "categories": [
@@ -8136,7 +8136,7 @@
     {
       "name": "山奧屋 桃園南崁店",
       "description": "設有桌面爐台的工業風餐廳，供應燒肉料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 2337,
       "categories": [
@@ -8178,7 +8178,7 @@
     {
       "name": "史堤克牛排桃園國際店",
       "description": "提供多樣中式牛排，口感豐富，適合聚餐享用。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 1608,
       "categories": [
@@ -8192,7 +8192,7 @@
     {
       "name": "我家牛排 平鎮旗艦店",
       "description": "經典中式牛排，口味穩定，適合家庭聚會。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 1180,
       "categories": [
@@ -8206,7 +8206,7 @@
     {
       "name": "史坦利美式牛排 大江店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1417,
       "categories": [
@@ -8220,7 +8220,7 @@
     {
       "name": "我家牛排 南崁旗艦店",
       "description": "超人氣牛排餐廳，提供多樣化的牛排選擇，讓你大快朵頤。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 12570,
       "categories": [
@@ -8234,7 +8234,7 @@
     {
       "name": "新緣小館",
       "description": "特色台菜美食，讓人一試成主顧，帶來愉快的用餐體驗。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 298,
       "categories": [
@@ -8248,7 +8248,7 @@
     {
       "name": "三國東風便當(平鎮店)",
       "description": "便當選擇多樣，口味均衡，深受喜愛。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 483,
       "categories": [
@@ -8262,7 +8262,7 @@
     {
       "name": "李媽媽黃金QQ球",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 113,
       "categories": [
@@ -8276,7 +8276,7 @@
     {
       "name": "山雀麻油雞",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 787,
       "categories": [
@@ -8290,7 +8290,7 @@
     {
       "name": "桃園中正藝文特區商圈",
       "description": "提供各式小吃，適合夜市探索的小吃天地。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 545,
       "categories": [
@@ -8305,7 +8305,7 @@
     {
       "name": "正港泰享吃泰式料理",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.5,
       "reviews": 372,
       "categories": [
@@ -8319,7 +8319,7 @@
     {
       "name": "老家餡餅 中壢-中壢美食 中壢小吃 中壢餡餅 中壢小吃推薦 中壢下午茶 桃園餡餅",
       "description": "特色餡餅，外酥內嫩，適合下午茶時光。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 621,
       "categories": [
@@ -8333,7 +8333,7 @@
     {
       "name": "陳老記港式腸粉",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 256,
       "categories": [
@@ -8347,7 +8347,7 @@
     {
       "name": "粥大福-桃園大溪店",
       "description": "熱騰騰的粥品，搭配新鮮配料，暖胃又滿足。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 548,
       "categories": [
@@ -8361,7 +8361,7 @@
     {
       "name": "李師傅功夫麥餅（大溪）",
       "description": "麥餅外酥內嫩, 是小吃愛好者的必嘗之選。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 410,
       "categories": [
@@ -8375,7 +8375,7 @@
     {
       "name": "俏東北廣東粥 蚵仔煎",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 859,
       "categories": [
@@ -8390,7 +8390,7 @@
     {
       "name": "珍鄉飲食-新農店",
       "description": "夜市小吃口味佳, 各式美食令人驚喜",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 162,
       "categories": [
@@ -8405,7 +8405,7 @@
     {
       "name": "大腕屋牛排",
       "description": "口感絕佳的牛排，讓每位食客都能滿足味蕾。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.5,
       "reviews": 1683,
       "categories": [
@@ -8419,7 +8419,7 @@
     {
       "name": "甘旨肥濃",
       "description": "口味濃郁的小吃，讓人欲罷不能。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.5,
       "reviews": 619,
       "categories": [
@@ -8433,7 +8433,7 @@
     {
       "name": "阿秋姨牛汶水（每星期六日營業）",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.5,
       "reviews": 184,
       "categories": [
@@ -8447,7 +8447,7 @@
     {
       "name": "老小林食堂",
       "description": "提供多樣小吃，適合夜市美食愛好者，讓你一試成主顧。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 128,
       "categories": [
@@ -8461,7 +8461,7 @@
     {
       "name": "饗泰多泰式風格餐廳 桃園八德店",
       "description": "正宗泰式料理，菜色多樣，讓人一試成主顧。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.5,
       "reviews": 1353,
       "categories": [
@@ -8475,7 +8475,7 @@
     {
       "name": "浤家素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.5,
       "reviews": 204,
       "categories": [
@@ -8489,7 +8489,7 @@
     {
       "name": "台越素食小吃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.5,
       "reviews": 215,
       "categories": [
@@ -8503,7 +8503,7 @@
     {
       "name": "素心齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": 128,
       "categories": [
@@ -8517,7 +8517,7 @@
     {
       "name": "仁友素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.5,
       "reviews": 44,
       "categories": [
@@ -8531,7 +8531,7 @@
     {
       "name": "LOHAS樂活蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 927,
       "categories": [
@@ -8545,7 +8545,7 @@
     {
       "name": "圓滿健康素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 168,
       "categories": [
@@ -8559,7 +8559,7 @@
     {
       "name": "義式美味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 1025,
       "categories": [
@@ -8573,7 +8573,7 @@
     {
       "name": "中壢九蓮素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 325,
       "categories": [
@@ -8587,7 +8587,7 @@
     {
       "name": "入光明素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 263,
       "categories": [
@@ -8601,7 +8601,7 @@
     {
       "name": "廣田素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.5,
       "reviews": 165,
       "categories": [
@@ -8615,7 +8615,7 @@
     {
       "name": "宏德蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 67,
       "categories": [
@@ -8629,7 +8629,7 @@
     {
       "name": "十方客蔬食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.5,
       "reviews": 124,
       "categories": [
@@ -8643,7 +8643,7 @@
     {
       "name": "歡喜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.5,
       "reviews": 196,
       "categories": [
@@ -8657,7 +8657,7 @@
     {
       "name": "九蓮素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 44,
       "categories": [
@@ -8671,7 +8671,7 @@
     {
       "name": "掌窩。早～ 蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.5,
       "reviews": 54,
       "categories": [
@@ -8685,7 +8685,7 @@
     {
       "name": "普拉多山丘假期景觀餐廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.5,
       "reviews": 1054,
       "address": "336台灣桃園市復興區23-1號",
@@ -8700,7 +8700,7 @@
     {
       "name": "光明農場（馬告磚窯雞）",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.5,
       "reviews": 816,
       "address": "336台灣桃園市復興區復興鄉神木路192-8號",
@@ -8715,7 +8715,7 @@
     {
       "name": "三塊厝懷舊美食餐館",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.5,
       "reviews": 357,
       "address": "",
@@ -8730,7 +8730,7 @@
     {
       "name": "馬瀨小吃/桃園美食/桃園合菜/桃園推薦餐廳/桃園必吃/東眼山附近美食/角板山美食/角板山餐廳",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.5,
       "reviews": 360,
       "address": "",
@@ -8745,7 +8745,7 @@
     {
       "name": "一山景觀咖啡",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.5,
       "reviews": 394,
       "address": "",
@@ -8760,7 +8760,7 @@
     {
       "name": "清湘小館",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.5,
       "reviews": 419,
       "address": "",
@@ -8775,7 +8775,7 @@
     {
       "name": "麵屋一虎-楊梅店",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.5,
       "reviews": 643,
       "address": "",
@@ -8790,7 +8790,7 @@
     {
       "name": "漯食餐廳",
       "description": "",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.5,
       "reviews": 388,
       "address": "",
@@ -8805,7 +8805,7 @@
     {
       "name": "龍村小館",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.5,
       "reviews": 595,
       "address": "",
@@ -8820,7 +8820,7 @@
     {
       "name": "糧園茶藝客家小館",
       "description": "人氣客家菜與茶藝結合，品味傳統與現代。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 2320,
       "categories": [
@@ -8834,7 +8834,7 @@
     {
       "name": "老師傅牛肉麵",
       "description": "充滿時尚氛圍的工業風人氣麵館，專門供應牛肉料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 2416,
       "categories": [
@@ -8848,7 +8848,7 @@
     {
       "name": "楊梅包三奶大湯圓（鴨肉麵）｜每週日一公休",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 487,
       "categories": [
@@ -8862,7 +8862,7 @@
     {
       "name": "甲奔 jiabun",
       "description": "精緻台菜，招牌菜品讓人感受到家鄉的溫暖與懷念。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 393,
       "categories": [
@@ -8876,7 +8876,7 @@
     {
       "name": "老油條家常菜",
       "description": "提供地道的台灣家常味，人氣餐廳，讓人懷念的熟悉滋味。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.4,
       "reviews": 1012,
       "categories": [
@@ -8890,7 +8890,7 @@
     {
       "name": "# STEAK 牛排屋",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 427,
       "categories": [
@@ -8904,7 +8904,7 @@
     {
       "name": "源珍小菜美食-阿婆的店",
       "description": "傳統夜市小吃, 口味地道令人懷念",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 246,
       "categories": [
@@ -8919,7 +8919,7 @@
     {
       "name": "監獄肉圓/超好吃脆皮肉圓 /桃園必吃餐廳/人氣特色小吃/隱藏版美食推薦",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 488,
       "categories": [
@@ -8933,7 +8933,7 @@
     {
       "name": "🌱小樹日和 蔬食 / 披薩 / 義大利麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 729,
       "categories": [
@@ -8961,7 +8961,7 @@
     {
       "name": "川驕牛肉麵專門店-藝文總店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 827,
       "categories": [
@@ -8989,7 +8989,7 @@
     {
       "name": "大溪幸福小站現烤蜜汁香腸",
       "description": "現烤香腸香氣撲鼻, 讓人忍不住想再來一根。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 290,
       "categories": [
@@ -9031,7 +9031,7 @@
     {
       "name": "林阿嬤香酥水煎包八德店",
       "description": "八德興豐路排隊水煎包油炸外皮酥脆不膩口內餡鮮甜多汁",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 339,
       "categories": [
@@ -9074,7 +9074,7 @@
     {
       "name": "蘆竹大竹冬粉鴨",
       "description": "蘆竹在地冬粉鴨老店鴨肉鮮嫩冬粉吸滿高湯獨門辣醬一絕",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 492,
       "categories": [
@@ -9130,7 +9130,7 @@
     {
       "name": "泰味館泰式料理吃到飽(愛買桃園店)",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 6793,
       "categories": [
@@ -9144,7 +9144,7 @@
     {
       "name": "Woosa洋食パンケーキ 屋莎洋食鬆餅屋 桃園新光站前店",
       "description": "口感鬆軟的洋食鬆餅，超人氣的甜品店。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 3620,
       "categories": [
@@ -9158,7 +9158,7 @@
     {
       "name": "WoodHouse 木宅餐館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 2579,
       "categories": [
@@ -9172,7 +9172,7 @@
     {
       "name": "港點大師 八德店",
       "description": "提供正宗港式點心，讓人一試成主顧。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 4682,
       "categories": [
@@ -9186,7 +9186,7 @@
     {
       "name": "大溪小窩創意料理",
       "description": "創新菜色滿足味蕾, 每口都是驚喜。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 474,
       "categories": [
@@ -9200,7 +9200,7 @@
     {
       "name": "吾家灶咖",
       "description": "溫馨台菜，招牌家常菜讓人感受到濃濃的人情味。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 572,
       "categories": [
@@ -9214,7 +9214,7 @@
     {
       "name": "再春食堂（無訂位服務）",
       "description": "提供道地台菜，口味佳，適合隨性聚餐。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 486,
       "categories": [
@@ -9228,7 +9228,7 @@
     {
       "name": "溪友緣風味料理餐廳",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 1653,
       "categories": [
@@ -9242,7 +9242,7 @@
     {
       "name": "一私麵宅 平鎮店",
       "description": "提供美味台菜麵食，營造溫馨的用餐氛圍，適合親友聚會。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 601,
       "categories": [
@@ -9256,7 +9256,7 @@
     {
       "name": "品悅食堂",
       "description": "氣氛悠閒的簡樸餐廳，供應傳統美食、合菜和飲品。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.4,
       "reviews": 3222,
       "categories": [
@@ -9284,7 +9284,7 @@
     {
       "name": "福柒涮涮鍋-桃園藝文店",
       "description": "火鍋新選擇, 人氣火鍋店，適合與朋友分享的美味。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 1871,
       "categories": [
@@ -9298,7 +9298,7 @@
     {
       "name": "大民生平價海鮮",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 463,
       "categories": [
@@ -9326,7 +9326,7 @@
     {
       "name": "鮮乾杯熱炒海鮮料理",
       "description": "季節性海鮮與創意熱炒，讓每一口都充滿驚喜。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 368,
       "categories": [
@@ -9340,7 +9340,7 @@
     {
       "name": "賴哥小館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 262,
       "categories": [
@@ -9396,7 +9396,7 @@
     {
       "name": "布納咖啡館 藝文館",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 4846,
       "categories": [
@@ -9466,7 +9466,7 @@
     {
       "name": "舞之磯",
       "description": "專注於中式與台菜的結合，人氣餐廳，讓人驚艷的創意料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 1189,
       "categories": [
@@ -9480,7 +9480,7 @@
     {
       "name": "mummum滿²",
       "description": "小巧閒適的咖啡廳，供應創意漢堡、早午餐料理、果汁、咖啡與茶飲。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 1154,
       "categories": [
@@ -9522,7 +9522,7 @@
     {
       "name": "來吃早餐 LEBi Brunch 龜山總店｜林口招牌炒麵、在地口碑早午餐",
       "description": "店，招牌炒麵和早午餐深受喜愛，人氣不容小覷。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.4,
       "reviews": 1402,
       "categories": [
@@ -9550,7 +9550,7 @@
     {
       "name": "中壢70年老店榕樹下綿綿冰（芒果爽🥭開賣！）",
       "description": "人氣芒果爽冰品，口感綿密，清涼消暑必選。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 2048,
       "categories": [
@@ -9564,7 +9564,7 @@
     {
       "name": "芋圓堂(桃園中正店)",
       "description": "人氣芋圓甜品，手工製作，搭配多樣口味，讓人流連忘返。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 1134,
       "categories": [
@@ -9578,7 +9578,7 @@
     {
       "name": "風太燒肉",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 2097,
       "categories": [
@@ -9592,7 +9592,7 @@
     {
       "name": "人从众厚切牛排(桃園大同店)",
       "description": "招牌厚切牛排, 受食客喜愛，適合聚餐，口味深受好評。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 2264,
       "categories": [
@@ -9620,7 +9620,7 @@
     {
       "name": "我家牛排桃園春日旗艦店",
       "description": "招牌牛排, 超人氣牛排館，吸引大量食客光臨。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 13780,
       "categories": [
@@ -9648,7 +9648,7 @@
     {
       "name": "新百王餐廳",
       "description": "供應傳統美食的素雅餐廳，包括蝦類和麵食。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 1588,
       "categories": [
@@ -9662,7 +9662,7 @@
     {
       "name": "野也（公休看IG 不好停車）",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 453,
       "categories": [
@@ -9676,7 +9676,7 @@
     {
       "name": "豪紀無骨御鮮雞",
       "description": "無骨雞肉鮮嫩多汁，成為夜市中不可錯過的美味。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 132,
       "categories": [
@@ -9690,7 +9690,7 @@
     {
       "name": "大鬍子米干",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 2082,
       "categories": [
@@ -9704,7 +9704,7 @@
     {
       "name": "蓁汪燒掛包",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 272,
       "categories": [
@@ -9718,7 +9718,7 @@
     {
       "name": "大溪古味小棧",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 291,
       "categories": [
@@ -9732,7 +9732,7 @@
     {
       "name": "無名臭豆腐",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 280,
       "categories": [
@@ -9746,7 +9746,7 @@
     {
       "name": "陳師兄素肉圓",
       "description": "質樸的餐廳，提供傳統鴨肉料理、麵食和湯品。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.4,
       "reviews": 2334,
       "categories": [
@@ -9760,7 +9760,7 @@
     {
       "name": "正宗泰國小吃",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 463,
       "categories": [
@@ -9774,7 +9774,7 @@
     {
       "name": "魏媽媽小吃",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 125,
       "categories": [
@@ -9789,7 +9789,7 @@
     {
       "name": "龍潭市場餛飩",
       "description": "經典餛飩口味，皮薄餡多，深受食客喜愛。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 490,
       "categories": [
@@ -9803,7 +9803,7 @@
     {
       "name": "青山雲隱（全時段無訂位服務）",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 774,
       "categories": [
@@ -9817,7 +9817,7 @@
     {
       "name": "NEXT STOP 香港.手作料理(龍潭店).親子友善餐廳",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 2335,
       "categories": [
@@ -9831,7 +9831,7 @@
     {
       "name": "李記北方麵館",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 1239,
       "categories": [
@@ -9845,7 +9845,7 @@
     {
       "name": "松葉園 人文景觀餐廳",
       "description": "結合人文氛圍的小吃餐廳，超人氣聚會場所。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 2594,
       "categories": [
@@ -9859,7 +9859,7 @@
     {
       "name": "銅板麵店",
       "description": "親民價位的麵食選擇，適合快速用餐的好去處。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 442,
       "categories": [
@@ -9873,7 +9873,7 @@
     {
       "name": "梁袁港式滷味",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 268,
       "categories": [
@@ -9887,7 +9887,7 @@
     {
       "name": "黃媽媽早點客家菜包",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 681,
       "categories": [
@@ -9901,7 +9901,7 @@
     {
       "name": "桃司廚 八德豐德店 鐵板燒早午餐",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 488,
       "categories": [
@@ -9915,7 +9915,7 @@
     {
       "name": "老滷仙正宗道地滷味（八德廣福店）",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 155,
       "categories": [
@@ -9929,7 +9929,7 @@
     {
       "name": "初早早午餐（無固定公休）",
       "description": "精緻早午餐搭配香醇咖啡，是輕鬆愉快的用餐選擇。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 340,
       "categories": [
@@ -9943,7 +9943,7 @@
     {
       "name": "祥允香健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.4,
       "reviews": 206,
       "categories": [
@@ -9957,7 +9957,7 @@
     {
       "name": "喜樂蔬食創意料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.4,
       "reviews": 727,
       "categories": [
@@ -9971,7 +9971,7 @@
     {
       "name": "合心緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.4,
       "reviews": 20,
       "categories": [
@@ -9985,7 +9985,7 @@
     {
       "name": "仁愛健康素食(分店)-南竹店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 304,
       "categories": [
@@ -9999,7 +9999,7 @@
     {
       "name": "珍味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 33,
       "categories": [
@@ -10013,7 +10013,7 @@
     {
       "name": "茹善素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 52,
       "categories": [
@@ -10027,7 +10027,7 @@
     {
       "name": "碧蘿村有機農場(豐田素食)大溪農場/大溪美食/大溪餐廳/大溪小吃/大溪景點/大溪親子餐廳/大溪素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 863,
       "categories": [
@@ -10041,7 +10041,7 @@
     {
       "name": "隨喜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 109,
       "categories": [
@@ -10055,7 +10055,7 @@
     {
       "name": "元香素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.4,
       "reviews": 307,
       "categories": [
@@ -10069,7 +10069,7 @@
     {
       "name": "卍素食 素香麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 36,
       "categories": [
@@ -10083,7 +10083,7 @@
     {
       "name": "富品味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 269,
       "categories": [
@@ -10097,7 +10097,7 @@
     {
       "name": "福妍素食麵飯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 51,
       "categories": [
@@ -10111,7 +10111,7 @@
     {
       "name": "妙觀音素食楊梅店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 290,
       "categories": [
@@ -10125,7 +10125,7 @@
     {
       "name": "楊梅健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.4,
       "reviews": 100,
       "categories": [
@@ -10139,7 +10139,7 @@
     {
       "name": "雅善圓蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 170,
       "categories": [
@@ -10153,7 +10153,7 @@
     {
       "name": "蓮花瓣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 353,
       "categories": [
@@ -10167,7 +10167,7 @@
     {
       "name": "高鐵桃園必吃的素食漢堡Furger芙格漢堡",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.4,
       "reviews": 122,
       "categories": [
@@ -10181,7 +10181,7 @@
     {
       "name": "垣辰素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.4,
       "reviews": 182,
       "categories": [
@@ -10195,7 +10195,7 @@
     {
       "name": "真饗早餐屋*素食*（最後點餐10：00）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.4,
       "reviews": 72,
       "categories": [
@@ -10209,7 +10209,7 @@
     {
       "name": "誠食健康蔬食南京復興店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.4,
       "reviews": 630,
       "categories": [
@@ -10223,7 +10223,7 @@
     {
       "name": "民豐素食（素食點心館）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 930,
       "categories": [
@@ -10237,7 +10237,7 @@
     {
       "name": "喡品蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.4,
       "reviews": 187,
       "categories": [
@@ -10251,7 +10251,7 @@
     {
       "name": "季風沙丘 - 老。樣子三店(沙丘、海灘）10：30開始供應餐點",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.4,
       "reviews": 891,
       "address": "337台灣桃園市大園區北港里潮音北路787號",
@@ -10266,7 +10266,7 @@
     {
       "name": "大鼎庭園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.4,
       "reviews": 503,
       "address": "328台灣桃園市觀音區廣福里福山路二段28號",
@@ -10281,7 +10281,7 @@
     {
       "name": "季藝日式料理",
       "description": "日式料理餐廳",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.4,
       "reviews": 1398,
       "address": "328台灣桃園市觀音區大潭里保生六街71號",
@@ -10296,7 +10296,7 @@
     {
       "name": "嚐嚐九九-八德店",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.4,
       "reviews": 4197,
       "address": "",
@@ -10311,7 +10311,7 @@
     {
       "name": "飲居 Behide Private",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.4,
       "reviews": 344,
       "address": "",
@@ -10326,7 +10326,7 @@
     {
       "name": "潮味決・湯滷專門店 平鎮文化分社",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.4,
       "reviews": 277,
       "address": "",
@@ -10341,7 +10341,7 @@
     {
       "name": "採山人-山產料理",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.4,
       "reviews": 465,
       "address": "",
@@ -10356,7 +10356,7 @@
     {
       "name": "尚品雅宴農莊",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.4,
       "reviews": 492,
       "address": "",
@@ -10371,7 +10371,7 @@
     {
       "name": "善園客家小館",
       "description": "精緻的客家料理，讓每一口都回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 970,
       "categories": [
@@ -10385,7 +10385,7 @@
     {
       "name": "巧莊客家小館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 573,
       "categories": [
@@ -10399,7 +10399,7 @@
     {
       "name": "提緣客家小館",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.3,
       "reviews": 1239,
       "categories": [
@@ -10441,7 +10441,7 @@
     {
       "name": "新寶島牛肉麵",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 1152,
       "categories": [
@@ -10469,7 +10469,7 @@
     {
       "name": "小香港車仔麵l無服務費l無低消l附近l香港料理l港式下午茶l中壢l平鎮l",
       "description": "港式下午茶選擇多，無服務費與低消，讓人隨意享受。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 1538,
       "categories": [
@@ -10483,7 +10483,7 @@
     {
       "name": "阿美米干 旗艦店",
       "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 9927,
       "categories": [
@@ -10511,7 +10511,7 @@
     {
       "name": "Baker Street 貝克街早午餐",
       "description": "貝克街早午餐的招牌是豐富的早午餐選擇，超人氣，讓您每次光臨都有新驚喜。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 2552,
       "categories": [
@@ -10525,7 +10525,7 @@
     {
       "name": "300° STEAK 青埔店",
       "description": "超人氣牛排館，提供多樣牛排選擇，深受食客喜愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 3096,
       "categories": [
@@ -10539,7 +10539,7 @@
     {
       "name": "滿滿客家菜館",
       "description": "提供豐富的客家料理，讓你一次滿足。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 274,
       "categories": [
@@ -10553,7 +10553,7 @@
     {
       "name": "食方客台菜料理",
       "description": "創新台菜料理，搭配新鮮食材，讓每一口都充滿驚喜。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 207,
       "categories": [
@@ -10595,7 +10595,7 @@
     {
       "name": "嘉義老母雞雞肉飯",
       "description": "嘉義老母雞雞肉飯, 傳統雞肉飯，味道鮮美，讓人一試成主顧。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 227,
       "categories": [
@@ -10623,7 +10623,7 @@
     {
       "name": "大溪賴記豆干",
       "description": "大溪老街招牌滷豆干，黑色滷汁入味，配黃蛋黃",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.3,
       "reviews": 6960,
       "categories": [
@@ -10693,7 +10693,7 @@
     {
       "name": "陳記鹹酥雞 楊梅店",
       "description": "楊梅楊新北路鹹酥雞，現炸酥脆 Google 4.3星",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 155,
       "categories": [
@@ -10707,7 +10707,7 @@
     {
       "name": "村民食堂-1F廚窗港點 / 2F食大鍋",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 12977,
       "categories": [
@@ -10721,7 +10721,7 @@
     {
       "name": "檸檬草美食茶房 桃園店",
       "description": "清新口味的台菜，人氣餐廳，深受食客喜愛。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 2445,
       "categories": [
@@ -10735,7 +10735,7 @@
     {
       "name": "古月新城",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 2160,
       "categories": [
@@ -10749,7 +10749,7 @@
     {
       "name": "大象泰式美食館",
       "description": "氣氛閒適的泰式餐廳，供應烤肉、經典海鮮料理及燒烤吃到飽。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 5654,
       "categories": [
@@ -10763,7 +10763,7 @@
     {
       "name": "嚐趣壽喜屋",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.3,
       "reviews": 711,
       "categories": [
@@ -10777,7 +10777,7 @@
     {
       "name": "尼尼義大利餐廳 南崁店",
       "description": "設有露台的休閒餐廳，供應義大利麵、燉飯、海鮮和披薩等經典義式美食。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.3,
       "reviews": 4149,
       "categories": [
@@ -10791,7 +10791,7 @@
     {
       "name": "勤美亭",
       "description": "家常台菜的好所在，菜色多樣，適合家庭聚餐，溫馨舒適的用餐環境。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.3,
       "reviews": 340,
       "categories": [
@@ -10805,7 +10805,7 @@
     {
       "name": "道穎小館",
       "description": "專賣經典的中式菜餚，雖然評論數不多，但味道實在讓人驚喜。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.3,
       "reviews": 506,
       "categories": [
@@ -10819,7 +10819,7 @@
     {
       "name": "麵屋ZURU / 麵や ズル",
       "description": "招牌中式麵食，口感滑順，人氣。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.3,
       "reviews": 828,
       "categories": [
@@ -10833,7 +10833,7 @@
     {
       "name": "享時光林口站",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.3,
       "reviews": 790,
       "categories": [
@@ -10847,7 +10847,7 @@
     {
       "name": "中壢牛肉麵",
       "description": "24 小時營業的樸實麵店，專賣台灣傳統牛肉湯麵，並設有室內/戶外空間。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1232,
       "categories": [
@@ -10861,7 +10861,7 @@
     {
       "name": "牛肉傳奇：中壢新明店",
       "description": "素雅的麵館，供應牛肉和豬肉料理，並設有簡約舒適的用餐區。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 2030,
       "categories": [
@@ -10945,7 +10945,7 @@
     {
       "name": "七葑咖啡廳",
       "description": "特色咖啡與甜點結合，溫馨的用餐體驗，適合聚會聊天。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 345,
       "categories": [
@@ -10959,7 +10959,7 @@
     {
       "name": "HoneyWood Cafe",
       "description": "人氣咖啡喫茶，提供多樣化的咖啡和輕食選擇，適合悠閒時光。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 2432,
       "categories": [
@@ -10987,7 +10987,7 @@
     {
       "name": "御冠園鮮肉湯包專賣店",
       "description": "人氣湯包，皮薄餡多，湯汁四溢，超人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 2083,
       "categories": [
@@ -11015,7 +11015,7 @@
     {
       "name": "温記不一樣三明治，10/25、10/26休息",
       "description": "創意三明治口味多變，人氣小店，滿足你的味蕾。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 843,
       "categories": [
@@ -11099,7 +11099,7 @@
     {
       "name": "桃司廚 中山店 鐵板燒早午餐",
       "description": "平實的早午餐餐廳，供應三明治、麵食和煎蛋。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 763,
       "categories": [
@@ -11113,7 +11113,7 @@
     {
       "name": "朝氣美濃商行 桃園大有店",
       "description": "提供多款經典台菜，搭配熱情服務，讓您感受到家的溫暖。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 582,
       "categories": [
@@ -11141,7 +11141,7 @@
     {
       "name": "答嘴鼓傳統甜品小舖",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 397,
       "categories": [
@@ -11169,7 +11169,7 @@
     {
       "name": "鉅大自助冰城",
       "description": "色彩繽紛的樸實冰店，提供大份量冰品與各種配料選擇。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 5781,
       "categories": [
@@ -11197,7 +11197,7 @@
     {
       "name": "爭厚厚切牛排-桃園復興店",
       "description": "厚切牛排為特色，令人滿足的份量和美味，適合肉食者。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.3,
       "reviews": 1537,
       "categories": [
@@ -11211,7 +11211,7 @@
     {
       "name": "禪園人文花園餐廳",
       "description": "環境清幽的復古餐廳，採用植生外牆設計，供應傳統中式菜餚。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1671,
       "categories": [
@@ -11225,7 +11225,7 @@
     {
       "name": "食一弄小館",
       "description": "傳統台菜與現代風格結合，讓您品味不一樣的美食體驗。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 264,
       "categories": [
@@ -11267,7 +11267,7 @@
     {
       "name": "老莊園 Laozhuang Garden",
       "description": "環境優雅，適合享受道地的中式台菜。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 2344,
       "categories": [
@@ -11281,7 +11281,7 @@
     {
       "name": "無名水煎包",
       "description": "口感外脆內嫩的水煎包，夜市小吃中的隱藏版。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 211,
       "categories": [
@@ -11295,7 +11295,7 @@
     {
       "name": "日寶蔥油餅/餡餅",
       "description": "香脆可口的蔥油餅，讓人一口接一口的美味。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 946,
       "categories": [
@@ -11309,7 +11309,7 @@
     {
       "name": "ㄉㄨㄞㄉㄨㄞ地瓜球",
       "description": "外酥內軟的地瓜球，深受喜愛的經典小吃。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 328,
       "categories": [
@@ -11323,7 +11323,7 @@
     {
       "name": "豚勝鴨川",
       "description": "人氣鴨川料理，搭配精緻小吃，令人回味無窮。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1337,
       "categories": [
@@ -11337,7 +11337,7 @@
     {
       "name": "胖食堂",
       "description": "精緻的家常小吃，讓人感受到溫暖的熟悉味道。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 547,
       "categories": [
@@ -11351,7 +11351,7 @@
     {
       "name": "大同町",
       "description": "人氣小吃聚集地，提供多樣化的夜市美食選擇。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1177,
       "categories": [
@@ -11365,7 +11365,7 @@
     {
       "name": "滿滿食物所",
       "description": "各式小吃應有盡有，讓你一次滿足多種口味需求。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.3,
       "reviews": 190,
       "categories": [
@@ -11379,7 +11379,7 @@
     {
       "name": "粥大福 楊梅中山店",
       "description": "受喜愛的粥品, 提供溫暖滿足的選擇。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 574,
       "categories": [
@@ -11393,7 +11393,7 @@
     {
       "name": "高榮小吃店",
       "description": "知名夜市美食, 各式小吃應有盡有",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 417,
       "categories": [
@@ -11408,7 +11408,7 @@
     {
       "name": "山水緣庭園景觀餐廳",
       "description": "美食與自然景觀相融合，超人氣的聚餐選擇。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.3,
       "reviews": 2346,
       "categories": [
@@ -11422,7 +11422,7 @@
     {
       "name": "好伴麵店 龍潭中正店",
       "description": "人氣麵食店，提供多樣麵食選擇，口味多元。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.3,
       "reviews": 1603,
       "categories": [
@@ -11436,7 +11436,7 @@
     {
       "name": "焗棧美食坊",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 393,
       "categories": [
@@ -11450,7 +11450,7 @@
     {
       "name": "珍豪吃湯包蒸餃",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.3,
       "reviews": 158,
       "categories": [
@@ -11464,7 +11464,7 @@
     {
       "name": "蒸好吃",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.3,
       "reviews": 164,
       "categories": [
@@ -11479,7 +11479,7 @@
     {
       "name": "阿燁紅麵線 八德總店",
       "description": "經典紅麵線，搭配美味湯頭，深受食客喜愛。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.3,
       "reviews": 720,
       "categories": [
@@ -11493,7 +11493,7 @@
     {
       "name": "焢肉大王",
       "description": "招牌焢肉飯令人垂涎，讓每位顧客都能滿足味蕾。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.3,
       "reviews": 738,
       "categories": [
@@ -11507,7 +11507,7 @@
     {
       "name": "吉品蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.3,
       "reviews": 16,
       "categories": [
@@ -11521,7 +11521,7 @@
     {
       "name": "觀音素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.3,
       "reviews": 57,
       "categories": [
@@ -11535,7 +11535,7 @@
     {
       "name": "甘露寺素食紅燒麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.3,
       "reviews": 33,
       "categories": [
@@ -11549,7 +11549,7 @@
     {
       "name": "仁愛健康素食-仁愛店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.3,
       "reviews": 577,
       "categories": [
@@ -11563,7 +11563,7 @@
     {
       "name": "觀音素食-蘆竹南竹店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.3,
       "reviews": 185,
       "categories": [
@@ -11577,7 +11577,7 @@
     {
       "name": "妙觀音素食-蘆竹南福店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.3,
       "reviews": 150,
       "categories": [
@@ -11591,7 +11591,7 @@
     {
       "name": "圓緣養生蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.3,
       "reviews": 28,
       "categories": [
@@ -11605,7 +11605,7 @@
     {
       "name": "山外山蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.3,
       "reviews": 1041,
       "categories": [
@@ -11619,7 +11619,7 @@
     {
       "name": "入木三分 無菜單蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.3,
       "reviews": 1234,
       "categories": [
@@ -11633,7 +11633,7 @@
     {
       "name": "熱浪島南洋蔬食茶堂(中壢店)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1354,
       "categories": [
@@ -11647,7 +11647,7 @@
     {
       "name": "素食麵家族",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 574,
       "categories": [
@@ -11661,7 +11661,7 @@
     {
       "name": "海角八號素香園| 中壢素食 | 平鎮素食 (公休日依臉書公告)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.3,
       "reviews": 139,
       "categories": [
@@ -11675,7 +11675,7 @@
     {
       "name": "蓮心素食店-楊梅素食美食|必吃素食|團購食品|素食團購|素食材料|儒齋食品|素食批發|素食小吃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.3,
       "reviews": 184,
       "categories": [
@@ -11689,7 +11689,7 @@
     {
       "name": "益饗食坊—古厝真味鋪(異國蔬食料理)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 231,
       "categories": [
@@ -11703,7 +11703,7 @@
     {
       "name": "開心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.3,
       "reviews": 293,
       "categories": [
@@ -11717,7 +11717,7 @@
     {
       "name": "一心圓蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.3,
       "reviews": 105,
       "categories": [
@@ -11731,7 +11731,7 @@
     {
       "name": "采楓健康蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 473,
       "categories": [
@@ -11745,7 +11745,7 @@
     {
       "name": "清惜的家 阿勃勒",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.3,
       "reviews": 1354,
       "address": "337台灣桃園市大園區五青路300巷53號",
@@ -11760,7 +11760,7 @@
     {
       "name": "Q幼鮮 Qyoushian 大園店",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.3,
       "reviews": 1519,
       "address": "337台灣桃園市大園區橫峰里中正東路202號",
@@ -11775,7 +11775,7 @@
     {
       "name": "新屋璟源小吃",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.3,
       "reviews": 599,
       "address": "327台灣桃園市新屋區新屋里中正路55巷1號",
@@ -11790,7 +11790,7 @@
     {
       "name": "柏園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.3,
       "reviews": 748,
       "address": "328台灣桃園市觀音區草漯里成功路一段432號",
@@ -11805,7 +11805,7 @@
     {
       "name": "丸山咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.3,
       "reviews": 2397,
       "address": "336台灣桃園市復興區丸山2鄰8之1號",
@@ -11820,7 +11820,7 @@
     {
       "name": "納桑麻谷餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.3,
       "reviews": 608,
       "address": "336台灣桃園市復興區華陵里20號",
@@ -11835,7 +11835,7 @@
     {
       "name": "Lady nara 曼谷新泰式料理 桃園中壢SOGO店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.3,
       "reviews": 1077,
       "address": "",
@@ -11850,7 +11850,7 @@
     {
       "name": "大溪紅樓餐廳",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.3,
       "reviews": 1156,
       "address": "",
@@ -11865,7 +11865,7 @@
     {
       "name": "暖光‧山魚",
       "description": "",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.3,
       "reviews": 277,
       "address": "",
@@ -11908,7 +11908,7 @@
     {
       "name": "傳統老麵｜30年老店｜在地美食｜滷肉飯｜傳統小吃｜社群激推",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 361,
       "categories": [
@@ -11922,7 +11922,7 @@
     {
       "name": "一把米家常菜館",
       "description": "提供豐富的家常菜，人氣餐廳，讓人感受到家的味道。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.2,
       "reviews": 1125,
       "categories": [
@@ -11950,7 +11950,7 @@
     {
       "name": "楊梅宴遇客家菜館",
       "description": "招牌客家菜道地又美味，人氣喜愛的選擇。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 273,
       "categories": [
@@ -11964,7 +11964,7 @@
     {
       "name": "大江屋客家美食館",
       "description": "傳統客家料理的美味，讓人流連忘返。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 2595,
       "categories": [
@@ -11978,7 +11978,7 @@
     {
       "name": "首烏客家御饍館",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 287,
       "categories": [
@@ -11992,7 +11992,7 @@
     {
       "name": "吉祥鵝肉專賣店",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 253,
       "categories": [
@@ -12006,7 +12006,7 @@
     {
       "name": "Ba Nai 品味藝術料理餐廳-中式創意私房菜 無菜單隱藏版美食(推薦特色必吃)",
       "description": "創意私房菜無菜單, 每道料理都令人驚艷。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 404,
       "categories": [
@@ -12020,7 +12020,7 @@
     {
       "name": "美樂地我家小館",
       "description": "超人氣夜市美食, 小吃選擇多樣, 讓人停不下來。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 3411,
       "categories": [
@@ -12034,7 +12034,7 @@
     {
       "name": "范媽媽客家麵食館",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 688,
       "categories": [
@@ -12048,7 +12048,7 @@
     {
       "name": "源記牛肉麵",
       "description": "手工麵條搭配鮮嫩牛肉，湯頭美味，是牛肉麵愛好者的必訪之地。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 1668,
       "categories": [
@@ -12104,7 +12104,7 @@
     {
       "name": "大溪廟口古早味 蒜香豆干豆皮滷味（大溪美食/小吃",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 162,
       "categories": [
@@ -12118,7 +12118,7 @@
     {
       "name": "養生素食饅頭包子",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.2,
       "reviews": 45,
       "categories": [
@@ -12146,7 +12146,7 @@
     {
       "name": "鶯桃肉圓",
       "description": "桃園區中正路，先蒸再炸Q彈肉圓，油飯四神湯每樣40元銅板價",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 459,
       "categories": [
@@ -12174,7 +12174,7 @@
     {
       "name": "龍潭郭記麵館",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 1218,
       "categories": [
@@ -12244,7 +12244,7 @@
     {
       "name": "大楊梅鵝莊",
       "description": "楊梅創始店，招牌白斬鵝肉、鵝腸、客家小炒，三代老店",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 3002,
       "categories": [
@@ -12328,7 +12328,7 @@
     {
       "name": "陸軍小館",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 3699,
       "categories": [
@@ -12342,7 +12342,7 @@
     {
       "name": "Q匠 Family 共享廚房",
       "description": "多樣中式料理，吸引家庭聚餐的好去處。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 411,
       "categories": [
@@ -12356,7 +12356,7 @@
     {
       "name": "老巷小館",
       "description": "位於街角的質樸餐館，供應含肉類和蔬菜的麵食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 2662,
       "categories": [
@@ -12370,7 +12370,7 @@
     {
       "name": "Cafe' de M&L李．西餐廳/李西",
       "description": "簡約的工業風餐廳，提供以義大利麵和肉類菜餚為主的無國界菜單以及甜點",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.2,
       "reviews": 2609,
       "categories": [
@@ -12384,7 +12384,7 @@
     {
       "name": "巷內小館",
       "description": "地道台菜，美味平價的選擇，適合喜愛家庭式餐點的朋友。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.2,
       "reviews": 415,
       "categories": [
@@ -12398,7 +12398,7 @@
     {
       "name": "八妹婆婆 8Pópó",
       "description": "招牌台菜受到廣泛好評，讓人回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 1428,
       "categories": [
@@ -12412,7 +12412,7 @@
     {
       "name": "綠庭緣",
       "description": "專注健康的中式菜品，雖然評論數不多，但每道菜都用心烹調。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.2,
       "reviews": 989,
       "categories": [
@@ -12426,7 +12426,7 @@
     {
       "name": "Bistro181餐廳 | 手作烘焙",
       "description": "手作烘焙及咖啡的理想場所，人氣餐廳，適合悠閒的下午茶時光。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.2,
       "reviews": 1213,
       "categories": [
@@ -12482,7 +12482,7 @@
     {
       "name": "阿來快炒",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 863,
       "categories": [
@@ -12496,7 +12496,7 @@
     {
       "name": "茶古海鮮熱炒",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 278,
       "categories": [
@@ -12566,7 +12566,7 @@
     {
       "name": "劉家現做潤餅",
       "description": "現做潤餅口感絕佳，雖然評論數不多但值得嘗試。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 995,
       "categories": [
@@ -12580,7 +12580,7 @@
     {
       "name": "山の狼便當",
       "description": "精緻便當選擇多樣，人氣餐廳，適合忙碌的上班族。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 2509,
       "categories": [
@@ -12608,7 +12608,7 @@
     {
       "name": "名賀日式料理",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 1087,
       "categories": [
@@ -12622,7 +12622,7 @@
     {
       "name": "H宅早午餐·咖啡",
       "description": "提供舒適的早午餐環境，適合聚會與聊天。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 204,
       "categories": [
@@ -12636,7 +12636,7 @@
     {
       "name": "哈堡堡輕食早午餐中大直營店",
       "description": "專注於舒適的早午餐體驗，咖啡香氣四溢。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 443,
       "categories": [
@@ -12664,7 +12664,7 @@
     {
       "name": "大碗公冰．甜品桃園中正店",
       "description": "大份量冰品，分享快樂的甜蜜時光",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 479,
       "categories": [
@@ -12720,7 +12720,7 @@
     {
       "name": "8 House 原味碳烤牛排",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 582,
       "categories": [
@@ -12734,7 +12734,7 @@
     {
       "name": "佳家福客家餐廳",
       "description": "悠閒愜意的餐廳，供應客家小炒、湯品與燉菜等客家料理，另有米飯與麵食。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 1743,
       "categories": [
@@ -12748,7 +12748,7 @@
     {
       "name": "伍角灯（原伍角餐館）",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 396,
       "categories": [
@@ -12762,7 +12762,7 @@
     {
       "name": "酒廠復古小館(平鎮店)",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 243,
       "categories": [
@@ -12776,7 +12776,7 @@
     {
       "name": "（周師父）民生便當店",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 418,
       "categories": [
@@ -12804,7 +12804,7 @@
     {
       "name": "星海之戀咖啡館（如下雨請致電詢問是否有營業）",
       "description": "設有露台的悠閒市景餐廳，供應咖啡和輕食。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.2,
       "reviews": 5814,
       "categories": [
@@ -12818,7 +12818,7 @@
     {
       "name": "丑爺爺--蚵仔煎臭豆腐 (休息日 請看臉書)",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 585,
       "categories": [
@@ -12832,7 +12832,7 @@
     {
       "name": "大溪港式點心",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 549,
       "categories": [
@@ -12846,7 +12846,7 @@
     {
       "name": "大溪江家小吃",
       "description": "品味經典小吃，口味多樣，適合全家共享。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 359,
       "categories": [
@@ -12860,7 +12860,7 @@
     {
       "name": "和風 創意豆腐酪",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 737,
       "categories": [
@@ -12874,7 +12874,7 @@
     {
       "name": "黃大目大溪豆干",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.2,
       "reviews": 732,
       "categories": [
@@ -12888,7 +12888,7 @@
     {
       "name": "大楊梅鵝莊 楊梅創始店",
       "description": "溫馨的 3 層樓餐廳，採花卉紋飾裝潢，主打鵝肉與客家料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 3061,
       "categories": [
@@ -12902,7 +12902,7 @@
     {
       "name": "雲南傣族小館",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 651,
       "categories": [
@@ -12916,7 +12916,7 @@
     {
       "name": "複園焢肉飯",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 3678,
       "categories": [
@@ -12930,7 +12930,7 @@
     {
       "name": "大楊梅鵝莊 龍潭店",
       "description": "裝潢傳統的 2 層樓休閒餐廳，供應客家料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 3348,
       "categories": [
@@ -12944,7 +12944,7 @@
     {
       "name": "郭記麵館",
       "description": "特色麵食小吃，人氣不斷，深受食客青睞。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 1218,
       "categories": [
@@ -12958,7 +12958,7 @@
     {
       "name": "古家私房菜(平鎮店)",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 349,
       "categories": [
@@ -12972,7 +12972,7 @@
     {
       "name": "雅敉蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.2,
       "reviews": 9,
       "categories": [
@@ -12986,7 +12986,7 @@
     {
       "name": "大佳素食店（週六及週日都店休）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.2,
       "reviews": 166,
       "categories": [
@@ -13000,7 +13000,7 @@
     {
       "name": "泰興素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.2,
       "reviews": 116,
       "categories": [
@@ -13014,7 +13014,7 @@
     {
       "name": "養生園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 345,
       "categories": [
@@ -13028,7 +13028,7 @@
     {
       "name": "如心素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 246,
       "categories": [
@@ -13042,7 +13042,7 @@
     {
       "name": "品味素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 708,
       "categories": [
@@ -13056,7 +13056,7 @@
     {
       "name": "輕食煮藝素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 676,
       "categories": [
@@ -13070,7 +13070,7 @@
     {
       "name": "誠美素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 378,
       "categories": [
@@ -13084,7 +13084,7 @@
     {
       "name": "Sidewalk人行道蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.2,
       "reviews": 1574,
       "categories": [
@@ -13098,7 +13098,7 @@
     {
       "name": "全心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 104,
       "categories": [
@@ -13112,7 +13112,7 @@
     {
       "name": "景緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 167,
       "categories": [
@@ -13126,7 +13126,7 @@
     {
       "name": "得來素蔬食早午餐(中豐店)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.2,
       "reviews": 144,
       "categories": [
@@ -13140,7 +13140,7 @@
     {
       "name": "明德素食園-桃園復興店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.2,
       "reviews": 353,
       "categories": [
@@ -13154,7 +13154,7 @@
     {
       "name": "米迪葷/素食 早餐,團膳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.2,
       "reviews": 10,
       "categories": [
@@ -13168,7 +13168,7 @@
     {
       "name": "韓湘樓小館",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.2,
       "reviews": 563,
       "address": "337台灣桃園市大園區田心里新興路19號",
@@ -13183,7 +13183,7 @@
     {
       "name": "儂翠泰式料理 (竹圍店)",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.2,
       "reviews": 1707,
       "address": "337台灣桃園市大園區海口里漁港路275號",
@@ -13198,7 +13198,7 @@
     {
       "name": "曼谷小館 大園店",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.2,
       "reviews": 579,
       "address": "337台灣桃園市大園區大園里中正東路51號",
@@ -13213,7 +13213,7 @@
     {
       "name": "3號咖啡 No.3 Cafe",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.2,
       "reviews": 3107,
       "address": "327台灣桃園市新屋區笨港里文學路627之1號",
@@ -13228,7 +13228,7 @@
     {
       "name": "安可土雞城",
       "description": "中式餐廳，在地美味",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.2,
       "reviews": 1765,
       "address": "328台灣桃園市觀音區忠孝路1200巷149號",
@@ -13243,7 +13243,7 @@
     {
       "name": "水來青舍",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.2,
       "reviews": 1070,
       "address": "328台灣桃園市觀音區大同里新華路二段389巷50-1號",
@@ -13258,7 +13258,7 @@
     {
       "name": "天地合麵食館",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.2,
       "reviews": 326,
       "address": "",
@@ -13273,7 +13273,7 @@
     {
       "name": "十里香私房料理餐廳",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.2,
       "reviews": 1198,
       "address": "",
@@ -13288,7 +13288,7 @@
     {
       "name": "米克諾斯香料廚房（平日晚上採用預約制訂位）",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 1016,
       "address": "",
@@ -13303,7 +13303,7 @@
     {
       "name": "香蕉星球 楊梅 美食 餐廳 推薦｜餐廳美食｜人氣餐廳｜附近好吃｜必吃餐廳｜好吃早午餐｜平價餐廳推薦｜",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.2,
       "reviews": 993,
       "address": "",
@@ -13318,7 +13318,7 @@
     {
       "name": "軟木塞義法小館",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.2,
       "reviews": 1695,
       "address": "",
@@ -13333,7 +13333,7 @@
     {
       "name": "金小蔥雞湯米粉",
       "description": "藝文特區附近，30隻鹿野土雞熬湯，痛風海鮮雞湯配澎湖小卷",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 515,
       "categories": [
@@ -13375,7 +13375,7 @@
     {
       "name": "龍潭老街麵店",
       "description": "龍潭龍元宮美食商圈尾段，榨菜肉絲麵配銅板滷味，道地客家湯頭餐期總是人滿為患",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.1,
       "reviews": 481,
       "categories": [
@@ -13389,7 +13389,7 @@
     {
       "name": "懶得煮客家麵食館",
       "description": "人氣客家麵食，讓你品味地道的傳統美味。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.1,
       "reviews": 1911,
       "categories": [
@@ -13417,7 +13417,7 @@
     {
       "name": "呷霸牛肉麵-南平店",
       "description": "人氣牛肉麵店，濃郁湯頭搭配手工麵條，讓人回味無窮。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 2683,
       "categories": [
@@ -13473,7 +13473,7 @@
     {
       "name": "大園報紙蛋餅",
       "description": "大園中正東路超人氣蛋餅手工現桿香Q有彈性用報紙袋裝很有特色",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.1,
       "reviews": 730,
       "categories": [
@@ -13487,7 +13487,7 @@
     {
       "name": "南崁蚵仔煎",
       "description": "蘆竹南崁只賣三樣的招牌店蚵仔煎香雞排花枝羹蚵仔煎桃園前三名",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.1,
       "reviews": 1592,
       "categories": [
@@ -13515,7 +13515,7 @@
     {
       "name": "拉拉山水蜜桃",
       "description": "復興拉拉山特產水蜜桃6-8月產季現採鮮甜多汁路邊水果攤必買",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.1,
       "reviews": 231,
       "categories": [
@@ -13543,7 +13543,7 @@
     {
       "name": "一燒十味昭和園日式燒肉屋 楊梅店",
       "description": "楊梅燒肉火鍋吃到飽，龍蝦頂級肉品多種方案",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4.1,
       "reviews": 800,
       "categories": [
@@ -13571,7 +13571,7 @@
     {
       "name": "Postman郵差先生義式臺菜小餐館",
       "description": "供應義大利麵、燉飯、烤肉料理、雞尾酒、啤酒和葡萄酒的休閒義式餐廳。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 1729,
       "categories": [
@@ -13585,7 +13585,7 @@
     {
       "name": "匠骰子牛麻辣麵",
       "description": "環境樸實的休閒餐廳，供應牛肉和麵食特色料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.1,
       "reviews": 1685,
       "categories": [
@@ -13599,7 +13599,7 @@
     {
       "name": "老地方客家菜｜大溪超人氣美食｜團體合菜 家庭聚餐推薦｜道地老店",
       "description": "老字號的樸實餐廳，供應家常傳統餐點。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.1,
       "reviews": 4524,
       "categories": [
@@ -13613,7 +13613,7 @@
     {
       "name": "南法玫瑰莊園",
       "description": "迷人的歐式餐廳，提供咖啡、茶飲和輕食，並設有鮮花盛開的露台。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.1,
       "reviews": 2043,
       "categories": [
@@ -13627,7 +13627,7 @@
     {
       "name": "北方麵飯館",
       "description": "環境樸實的休閒餐廳，供應簡單的經典中式料理和餃類。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.1,
       "reviews": 3058,
       "categories": [
@@ -13641,7 +13641,7 @@
     {
       "name": "華潮手創料理",
       "description": "休閒餐廳，供應川菜、拉麵、生魚片、義大利麵和飯食。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.1,
       "reviews": 965,
       "categories": [
@@ -13669,7 +13669,7 @@
     {
       "name": "橋頭小吃",
       "description": "多樣化的中式小吃，適合聚餐與分享。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 748,
       "categories": [
@@ -13683,7 +13683,7 @@
     {
       "name": "海都快炒",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 2360,
       "categories": [
@@ -13697,7 +13697,7 @@
     {
       "name": "台灣鱻海鮮熱炒",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 764,
       "categories": [
@@ -13711,7 +13711,7 @@
     {
       "name": "5號海鮮餐廳",
       "description": "注重食材的新鮮，提供多樣化的海鮮選擇。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 876,
       "categories": [
@@ -13725,7 +13725,7 @@
     {
       "name": "台灣快炒",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.1,
       "reviews": 646,
       "categories": [
@@ -13739,7 +13739,7 @@
     {
       "name": "老北港平價海鮮",
       "description": "平價新鮮海鮮料理，讓每位食客都能享受美味。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 354,
       "categories": [
@@ -13823,7 +13823,7 @@
     {
       "name": "福麻糬豆花 藝文店",
       "description": "臨櫃點餐的樸實店鋪，供應傳統豆花與其他甜品。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 1810,
       "categories": [
@@ -13851,7 +13851,7 @@
     {
       "name": "小時厚牛排-桃園中山店",
       "description": "招牌厚切牛排, 受歡迎的聚餐選擇，讓人回味無窮。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 1709,
       "categories": [
@@ -13865,7 +13865,7 @@
     {
       "name": "小時厚牛排-桃園平鎮店",
       "description": "厚切牛排特色，親民價格與美味兼具，適合各類型食客。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.1,
       "reviews": 1328,
       "categories": [
@@ -13879,7 +13879,7 @@
     {
       "name": "中新客家餐廳",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 467,
       "categories": [
@@ -13893,7 +13893,7 @@
     {
       "name": "源松客家餐廳",
       "description": "",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.1,
       "reviews": 592,
       "categories": [
@@ -13907,7 +13907,7 @@
     {
       "name": "清香雅集小館",
       "description": "招牌台菜精緻美味，人氣餐廳，讓您享受悠閒的用餐時光。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 1032,
       "categories": [
@@ -13963,7 +13963,7 @@
     {
       "name": "港之味燒臘店",
       "description": "招牌燒臘味道鮮美，令人回味無窮。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.1,
       "reviews": 680,
       "categories": [
@@ -13977,7 +13977,7 @@
     {
       "name": "成都麻辣蒸餃",
       "description": "麻辣蒸餃香氣四溢，讓人忍不住想一口接一口。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 190,
       "categories": [
@@ -13991,7 +13991,7 @@
     {
       "name": "黃家炒翻天",
       "description": "招牌炒飯炒麵，口味多樣，人氣小吃",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 126,
       "categories": [
@@ -14005,7 +14005,7 @@
     {
       "name": "阿士多牛排",
       "description": "供應中式牛排，搭配多樣配菜，口感豐富。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 574,
       "categories": [
@@ -14019,7 +14019,7 @@
     {
       "name": "傻妹食堂關東煮",
       "description": "招牌關東煮，湯頭鮮美，適合夜市小吃愛好者。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.1,
       "reviews": 419,
       "categories": [
@@ -14034,7 +14034,7 @@
     {
       "name": "瞎仔巷50年麵店",
       "description": "招牌手工麵，口感Q彈，深受食客喜愛。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 1335,
       "categories": [
@@ -14048,7 +14048,7 @@
     {
       "name": "梅亭小吃",
       "description": "多樣小吃選擇，適合聚會分享，味道皆宜。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 341,
       "categories": [
@@ -14062,7 +14062,7 @@
     {
       "name": "中央大學老街",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 386,
       "categories": [
@@ -14076,7 +14076,7 @@
     {
       "name": "好滋味麵館",
       "description": "質樸的餐廳，供應亞洲傳統肉類與海鮮料理，另提供湯麵。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 3130,
       "categories": [
@@ -14090,7 +14090,7 @@
     {
       "name": "大溪三姐的廚房",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4.1,
       "reviews": 207,
       "categories": [
@@ -14104,7 +14104,7 @@
     {
       "name": "蘭亭映月",
       "description": "小吃美味獨具，雖然人氣稍低，但值得一試。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.1,
       "reviews": 1039,
       "categories": [
@@ -14118,7 +14118,7 @@
     {
       "name": "上野烤肉飯-龍潭店",
       "description": "招牌烤肉飯香氣四溢，滿足你的中式美食 cravings。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.1,
       "reviews": 184,
       "categories": [
@@ -14132,7 +14132,7 @@
     {
       "name": "米干",
       "description": "特色米干小吃，口感滑順，適合搭配各式醬料，帶來不同享受。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.1,
       "reviews": 200,
       "categories": [
@@ -14146,7 +14146,7 @@
     {
       "name": "桃園八德邱媽媽小吃",
       "description": "提供地道小吃，讓你感受台灣夜市的熱情。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 738,
       "categories": [
@@ -14161,7 +14161,7 @@
     {
       "name": "傳香美食館",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 289,
       "categories": [
@@ -14175,7 +14175,7 @@
     {
       "name": "合心素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.1,
       "reviews": 78,
       "categories": [
@@ -14189,7 +14189,7 @@
     {
       "name": "瓦房養生素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4.1,
       "reviews": 400,
       "categories": [
@@ -14203,7 +14203,7 @@
     {
       "name": "大湳健康素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 347,
       "categories": [
@@ -14217,7 +14217,7 @@
     {
       "name": "葯穀素食冰品店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 73,
       "categories": [
@@ -14231,7 +14231,7 @@
     {
       "name": "新民素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 1069,
       "categories": [
@@ -14245,7 +14245,7 @@
     {
       "name": "觀世音素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.1,
       "reviews": 161,
       "categories": [
@@ -14259,7 +14259,7 @@
     {
       "name": "享食齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4.1,
       "reviews": 213,
       "categories": [
@@ -14273,7 +14273,7 @@
     {
       "name": "大園101景觀餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.1,
       "reviews": 2206,
       "address": "337台灣桃園市大園區大園里中正東路97-2號8樓",
@@ -14288,7 +14288,7 @@
     {
       "name": "大園海港餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.1,
       "reviews": 1180,
       "address": "337台灣桃園市大園區橫峰里中正東路340-1號",
@@ -14303,7 +14303,7 @@
     {
       "name": "4-7休閒魚池餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.1,
       "reviews": 2144,
       "address": "337台灣桃園市大園區內定里內定十六街972號對面4-7魚池",
@@ -14318,7 +14318,7 @@
     {
       "name": "祥祥炒飯功夫館 大園旗艦店",
       "description": "中式餐廳，在地美味",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4.1,
       "reviews": 2153,
       "address": "337台灣桃園市大園區大園里仁壽路19-4號",
@@ -14333,7 +14333,7 @@
     {
       "name": "友福花園農莊",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.1,
       "reviews": 879,
       "address": "327台灣桃園市新屋區下田里中山西路二段602號",
@@ -14348,7 +14348,7 @@
     {
       "name": "新屋建業鵝肉美食館",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4.1,
       "reviews": 3354,
       "address": "327台灣桃园市新屋區后湖里中山西路一段280巷111號",
@@ -14363,7 +14363,7 @@
     {
       "name": "ㄚ昌伯美食屋(翌軒田園)",
       "description": "中式餐廳，在地美味",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4.1,
       "reviews": 983,
       "address": "328台灣桃園市觀音區上大里大湖路一段1233-1號",
@@ -14378,7 +14378,7 @@
     {
       "name": "角板山老店家小吃（山產料理/團體合菜/家庭聚餐）",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.1,
       "reviews": 517,
       "address": "33642台灣桃園市復興區澤仁里中正路7號",
@@ -14393,7 +14393,7 @@
     {
       "name": "角板山形象商圈",
       "description": "中式餐廳，在地美味",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.1,
       "reviews": 3150,
       "address": "336台灣桃園市復興區澤仁里中正路",
@@ -14408,7 +14408,7 @@
     {
       "name": "多桑食物所（金牌好店/桃園美食/家庭聚餐/團體聚餐）",
       "description": "",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4.1,
       "reviews": 1366,
       "address": "",
@@ -14423,7 +14423,7 @@
     {
       "name": "豆麥私房菜復興店",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.1,
       "reviews": 2719,
       "address": "",
@@ -14438,7 +14438,7 @@
     {
       "name": "山源小吃店",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4.1,
       "reviews": 346,
       "address": "",
@@ -14467,7 +14467,7 @@
     {
       "name": "香傳十全藥燉排骨",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 485,
       "categories": [
@@ -14481,7 +14481,7 @@
     {
       "name": "Want 牛排",
       "description": "經典牛排料理，搭配多樣配菜，讓每一餐都充滿滿足感。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 697,
       "categories": [
@@ -14495,7 +14495,7 @@
     {
       "name": "好朋友烏醋麵",
       "description": "",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 418,
       "categories": [
@@ -14523,7 +14523,7 @@
     {
       "name": "嘉義大鍋湯雞肉飯魯肉飯",
       "description": "綜合雞肉飯與魯肉飯，深受食客愛戴，人氣。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 1977,
       "categories": [
@@ -14537,7 +14537,7 @@
     {
       "name": "阿國師嘉義火雞肉飯",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4,
       "reviews": 214,
       "categories": [
@@ -14551,7 +14551,7 @@
     {
       "name": "陳家蚵仔麵線.甜不辣",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4,
       "reviews": 144,
       "categories": [
@@ -14565,7 +14565,7 @@
     {
       "name": "金大條高梁香腸",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4,
       "reviews": 146,
       "categories": [
@@ -14621,7 +14621,7 @@
     {
       "name": "旅人咖啡館 楊梅店",
       "description": "楊梅質感咖啡廳，舒適環境適合下午茶",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4,
       "reviews": 250,
       "categories": [
@@ -14649,7 +14649,7 @@
     {
       "name": "點水樓(南崁店)",
       "description": "",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4,
       "reviews": 999,
       "categories": [
@@ -14663,7 +14663,7 @@
     {
       "name": "台灣G湯-桃園南平店",
       "description": "湯品多樣且清爽，是喜歡中式湯品的最佳選擇。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4,
       "reviews": 623,
       "categories": [
@@ -14677,7 +14677,7 @@
     {
       "name": "廣德海鮮餐廳（中壢中美店）",
       "description": "新鮮海鮮料理為主打, 人氣餐廳，適合海鮮愛好者光顧。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 1536,
       "categories": [
@@ -14705,7 +14705,7 @@
     {
       "name": "新時代牛排自助百匯",
       "description": "提供多樣牛排選擇，讓你享受自助餐的美味。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4,
       "reviews": 543,
       "categories": [
@@ -14719,7 +14719,7 @@
     {
       "name": "老家便當",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4,
       "reviews": 268,
       "categories": [
@@ -14733,7 +14733,7 @@
     {
       "name": "全聚品味鍋24H",
       "description": "24小時提供多種火鍋選擇，滿足你的宵夜 cravings。",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4,
       "reviews": 1148,
       "categories": [
@@ -14747,7 +14747,7 @@
     {
       "name": "中藥脆皮臭豆腐",
       "description": "",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4,
       "reviews": 116,
       "categories": [
@@ -14761,7 +14761,7 @@
     {
       "name": "芊香園-香不辣美食限定",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4,
       "reviews": 111,
       "categories": [
@@ -14775,7 +14775,7 @@
     {
       "name": "乾麵居",
       "description": "質樸的餐廳，供應各種當地家常菜，包括湯品、麵食和肉類料理。",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4,
       "reviews": 3322,
       "categories": [
@@ -14789,7 +14789,7 @@
     {
       "name": "大陸妹共匪餅",
       "description": "",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": 4,
       "reviews": 799,
       "categories": [
@@ -14803,7 +14803,7 @@
     {
       "name": "自然麵",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4,
       "reviews": 540,
       "categories": [
@@ -14818,7 +14818,7 @@
     {
       "name": "春ㄧ碗小吃店",
       "description": "",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4,
       "reviews": 263,
       "categories": [
@@ -14833,7 +14833,7 @@
     {
       "name": "鄰長伯大湯圓",
       "description": "特色湯圓品項多樣, 甜品愛好者必訪",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4,
       "reviews": 622,
       "categories": [
@@ -14847,7 +14847,7 @@
     {
       "name": "田園牛肉麵",
       "description": "純正牛肉麵滋味十足, 傳遞家的溫暖",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 4,
       "reviews": 1382,
       "categories": [
@@ -14861,7 +14861,7 @@
     {
       "name": "老頭擺客家菜",
       "description": "",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 4,
       "reviews": 1875,
       "categories": [
@@ -14875,7 +14875,7 @@
     {
       "name": "烏龍麵、廣東粥",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4,
       "reviews": 259,
       "categories": [
@@ -14889,7 +14889,7 @@
     {
       "name": "熊粥到-平鎮中豐店（鄉愁炒飯）",
       "description": "",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 4,
       "reviews": 119,
       "categories": [
@@ -14903,7 +14903,7 @@
     {
       "name": "永興港式美食（店休日詳見FB PO文）",
       "description": "提供多款港式小吃，讓你在台灣也能享受香港的美味。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4,
       "reviews": 1077,
       "categories": [
@@ -14917,7 +14917,7 @@
     {
       "name": "新福臨小館",
       "description": "經典小吃讓人回味無窮，是夜市中的隱藏美食寶藏。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4,
       "reviews": 332,
       "categories": [
@@ -14932,7 +14932,7 @@
     {
       "name": "妙軒素食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "八德區",
+      "area": "八德",
       "rating": 4,
       "reviews": 302,
       "categories": [
@@ -14946,7 +14946,7 @@
     {
       "name": "妙觀音素食 桃園站前店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4,
       "reviews": 293,
       "categories": [
@@ -14960,7 +14960,7 @@
     {
       "name": "Meow義大利餐廳",
       "description": "",
-      "area": "大園區",
+      "area": "大園",
       "rating": 4,
       "reviews": 1863,
       "address": "337台灣桃園市大園區青峰里大成路二段36號",
@@ -14975,7 +14975,7 @@
     {
       "name": "綠色隧道海鮮餐廳(冷氣開放）",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 1898,
       "address": "327台灣桃園市新屋區蚵間里東福路三段1090號",
@@ -14990,7 +14990,7 @@
     {
       "name": "鵝香鵝肉餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 868,
       "address": "327台灣桃園市新屋區新生里中山路555號",
@@ -15005,7 +15005,7 @@
     {
       "name": "香廚庭園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 964,
       "address": "327台灣桃園市新屋區頭洲里高鐵南路六段191號",
@@ -15020,7 +15020,7 @@
     {
       "name": "莫內咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 4616,
       "address": "327台灣桃園市新屋區蚵間里30-1號",
@@ -15035,7 +15035,7 @@
     {
       "name": "郭鵝肉海產店",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 3286,
       "address": "327台灣桃園市新屋區永安里中山西路三段960號",
@@ -15050,7 +15050,7 @@
     {
       "name": "黃蚵仔煎小吃專賣店",
       "description": "中式餐廳，在地美味",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": 4,
       "reviews": 1307,
       "address": "327台灣桃園市新屋區永安里中山西路三段966號",
@@ -15065,7 +15065,7 @@
     {
       "name": "林家古厝休閒農場",
       "description": "中式餐廳，在地美味",
-      "area": "觀音區",
+      "area": "觀音",
       "rating": 4,
       "reviews": 1744,
       "address": "328台灣桃園市觀音區大堀里大富路221號",
@@ -15080,7 +15080,7 @@
     {
       "name": "泰雅小棧特色料理",
       "description": "",
-      "area": "復興區",
+      "area": "復興",
       "rating": 4,
       "reviews": 349,
       "address": "",
@@ -15095,7 +15095,7 @@
     {
       "name": "美馨冰館茶坊•自然蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 3.9,
       "reviews": 150,
       "categories": [
@@ -15109,7 +15109,7 @@
     {
       "name": "大家健康素食 龜山中興店（當月六日適逢農曆初一十五彈性營業）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 3.9,
       "reviews": 127,
       "categories": [
@@ -15123,7 +15123,7 @@
     {
       "name": "妙觀音素食-龍潭北龍路",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": 3.9,
       "reviews": 70,
       "categories": [
@@ -15137,7 +15137,7 @@
     {
       "name": "阿忠隨意小吃素食竹筒飯竹筍湯（葷素皆有）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 3.9,
       "reviews": 9,
       "categories": [
@@ -15151,7 +15151,7 @@
     {
       "name": "緣源素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大園區",
+      "area": "大園",
       "rating": 3.8,
       "reviews": 39,
       "categories": [
@@ -15165,7 +15165,7 @@
     {
       "name": "觀音蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 3.8,
       "reviews": 71,
       "categories": [
@@ -15179,7 +15179,7 @@
     {
       "name": "南京素食養生館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": 3.8,
       "reviews": 86,
       "categories": [
@@ -15193,7 +15193,7 @@
     {
       "name": "綠原品健康蔬食全自助餐-大安復興店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "復興區",
+      "area": "復興",
       "rating": 3.8,
       "reviews": 439,
       "categories": [
@@ -15207,7 +15207,7 @@
     {
       "name": "蔬蒔料理坊(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": 3.7,
       "reviews": 157,
       "categories": [
@@ -15220,7 +15220,7 @@
     },
     {
       "name": "芭蕉園咖啡",
-      "area": "大溪區",
+      "area": "大溪",
       "description": "",
       "categories": [
         "咖啡廳"
@@ -15234,7 +15234,7 @@
     },
     {
       "name": "Café MU 木咖啡",
-      "area": "中壢區",
+      "area": "中壢",
       "description": "中壢質感咖啡館，自家烘焙手沖",
       "categories": [
         "咖啡廳"
@@ -15248,7 +15248,7 @@
     },
     {
       "name": "小李子咖啡館",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "description": "南崁老宅咖啡，手作甜點與莊園咖啡",
       "categories": [
         "咖啡廳"
@@ -15262,7 +15262,7 @@
     },
     {
       "name": "存在咖啡 Exist Coffee",
-      "area": "桃園區",
+      "area": "桃園",
       "description": "桃園車站旁文青咖啡，精品單品",
       "categories": [
         "咖啡廳"
@@ -15276,7 +15276,7 @@
     },
     {
       "name": "洋妻子甜點",
-      "area": "中壢區",
+      "area": "中壢",
       "description": "中壢人氣甜點工作室，法式手作蛋糕",
       "categories": [
         "甜品"
@@ -15290,7 +15290,7 @@
     },
     {
       "name": "水檬甜 MOON DESSERT",
-      "area": "八德區",
+      "area": "八德",
       "description": "八德法式甜點店，網美風格下午茶",
       "categories": [
         "咖啡廳"
@@ -15304,7 +15304,7 @@
     },
     {
       "name": "虎頭山咖啡 Ozone",
-      "area": "桃園區",
+      "area": "桃園",
       "description": "虎頭山咖啡 Ozone, 提供悠閒的咖啡時光，適合放鬆與社交。",
       "categories": [
         "咖啡廳"
@@ -15319,7 +15319,7 @@
     {
       "name": "萃99'Caffee 新農旗艦店",
       "description": "建商經營的玻璃屋咖啡廳，附設停車場，餐點份量充足",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15333,7 +15333,7 @@
     {
       "name": "在這 coffee x sweets",
       "description": "社區巷弄內的小巧溫馨咖啡廳，甜點評價好，內用不限時",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15347,7 +15347,7 @@
     {
       "name": "遜咖啡 Xun Cafe",
       "description": "2024年開幕的楊梅咖啡店，提供燉飯、咖啡與焦糖布丁",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15361,7 +15361,7 @@
     {
       "name": "麥売珈琲洋食菓子",
       "description": "近楊梅車站的日系咖啡廳，提供餐點、咖啡豆販售及客製化蛋糕服務",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15375,7 +15375,7 @@
     {
       "name": "野也Cafe",
       "description": "半山腰住宅區內的獨棟韓系咖啡廳，寵物友善，有伯恩山犬店狗",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15389,7 +15389,7 @@
     {
       "name": "找一個地方",
       "description": "隱藏山城社區的秘境咖啡廳，森林系木質空間，每週僅開四天",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15403,7 +15403,7 @@
     {
       "name": "白木咖啡 Baimu Cafe",
       "description": "巷弄內的植感風咖啡廳，提供手作麵包與咖啡",
-      "area": "楊梅區",
+      "area": "楊梅",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15417,7 +15417,7 @@
     {
       "name": "Come True成真咖啡 桃園藝文町店",
       "description": "日式警察宿舍改建，提供創意咖啡與早午餐，鄰近桃園火車站",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15431,7 +15431,7 @@
     {
       "name": "野陌咖啡館 Yermo.eatery",
       "description": "2025新開幕的廢墟風老宅咖啡廳，提供早午餐、義大利麵、燉飯",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15445,7 +15445,7 @@
     {
       "name": "Two Five Café",
       "description": "中路特區文青植物系咖啡餐館，提供早午餐、鬆餅與手作蛋糕，寵物友善",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15459,7 +15459,7 @@
     {
       "name": "啡蒔 Verse Cafe by Minorcode",
       "description": "質感咖啡廳，提供奶油冰滴咖啡、燕麥拿鐵與早午餐",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 3.9,
       "reviews": 498,
       "categories": [
@@ -15473,7 +15473,7 @@
     {
       "name": "Söt cafe Rivulet 浮島溪",
       "description": "小檜溪重劃區的歐風質感咖啡廳，提供輕食、義大利麵、燉飯與甜點",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15487,7 +15487,7 @@
     {
       "name": "吾人知曉陶甕煎焙咖啡",
       "description": "自家烘焙咖啡館，陶甕煎焙，提供單品咖啡與蔬食選項",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.6,
       "reviews": 215,
       "categories": [
@@ -15501,7 +15501,7 @@
     {
       "name": "相寓咖啡 Lumi Haven",
       "description": "中路特區巷弄內極簡療癒系咖啡館，老闆是心理師，提供甜點與咖啡",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15515,7 +15515,7 @@
     {
       "name": "朝顏屋3.2K",
       "description": "桃林鐵路步道內的森林系早午餐咖啡廳，可訂位、寵物友善",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15529,7 +15529,7 @@
     {
       "name": "蒔伍咖啡",
       "description": "中平商圈2024年新開的咖啡館，提供現點現炒義大利麵與手作甜點",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15543,7 +15543,7 @@
     {
       "name": "癒珈琲店 IYASHI COFFEE",
       "description": "藝文特區質感咖啡廳，專業手沖咖啡與精緻甜點，提供咖啡粉試聞體驗",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15557,7 +15557,7 @@
     {
       "name": "艾提咖啡",
       "description": "民生路巷內的小餐館風格咖啡廳",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": 4.8,
       "reviews": null,
       "categories": [
@@ -15571,7 +15571,7 @@
     {
       "name": "Drip Note COFFEE 滴音咖啡",
       "description": "桃園知名咖啡廳，在2468家咖啡館中排名第17",
-      "area": "桃園區",
+      "area": "桃園",
       "rating": null,
       "reviews": 181,
       "categories": [
@@ -15585,7 +15585,7 @@
     {
       "name": "布納咖啡館 中壢館",
       "description": "中壢新生路不限時咖啡館，提供義式麵食、燉飯與早午餐，空間寬敞",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15599,7 +15599,7 @@
     {
       "name": "鬍莉咖啡 Roulez-Vous Café",
       "description": "中平商圈巷弄咖啡廳，老闆為前香港時尚媒體人，招牌芭樂美式與蘋果肉桂奶油捲",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15613,7 +15613,7 @@
     {
       "name": "時常咖啡 Often coffee",
       "description": "英倫復古風咖啡廳，有復古旋轉門，提供早午餐、燉飯、義大利麵，寵物友善",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15627,7 +15627,7 @@
     {
       "name": "Focus on Flavor 2",
       "description": "中原大學旁的咖啡廳，牆上有巨大黑手裝置藝術，55元美式咖啡平價",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15641,7 +15641,7 @@
     {
       "name": "旿野曜初Café Brunch",
       "description": "龍岡巷弄質感系咖啡廳，提供早午餐、燉飯、義大利麵，寵物友善",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15655,7 +15655,7 @@
     {
       "name": "彩虹糖咖啡",
       "description": "龍岡路上植物系咖啡廳，SCA國際咖啡金杯師與烘焙師雙重認證，提供手沖精品咖啡",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15669,7 +15669,7 @@
     {
       "name": "遇見咖啡",
       "description": "自家烘焙咖啡豆專賣店，提供手沖咖啡、器具、濾掛咖啡與簡餐",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.7,
       "reviews": 313,
       "categories": [
@@ -15683,7 +15683,7 @@
     {
       "name": "甯咖啡 自家烘焙",
       "description": "自家烘焙咖啡店，提供美式咖啡、甜點，老闆親切",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 275,
       "categories": [
@@ -15710,7 +15710,7 @@
     {
       "name": "Rubato cafe 任性咖啡",
       "description": "中壢市區小型咖啡廳，空間不大座位不多，有娃娃裝飾",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 37,
       "categories": [
@@ -15724,7 +15724,7 @@
     {
       "name": "玩逗樹咖啡 中原店",
       "description": "中原大學旁桌遊主題咖啡廳，提供早午餐、簡餐、調酒、駐唱，寵物友善",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": 4.8,
       "reviews": 852,
       "categories": [
@@ -15738,7 +15738,7 @@
     {
       "name": "突奌咖啡喵 Top-Point Café",
       "description": "中壢貓咪咖啡廳，提供義式料理與輕食",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15752,7 +15752,7 @@
     {
       "name": "Yang咖啡 永興店",
       "description": "中壢永興街咖啡專賣店",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15766,7 +15766,7 @@
     {
       "name": "喬治的咖啡 George's Coffee",
       "description": "新明夜市附近的自家烘焙咖啡館，咖啡專賣",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15780,7 +15780,7 @@
     {
       "name": "養親轅咖啡 Jodie Ho Cafe",
       "description": "百年老藥櫃中藥漢方咖啡館，提供漢方茶、手沖咖啡與手作甜點，有貓咪店長",
-      "area": "中壢區",
+      "area": "中壢",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15794,7 +15794,7 @@
     {
       "name": "Degrees° café 度°",
       "description": "平鎮環南路商辦大樓一樓咖啡廳，環境明亮寬敞，親子友善，內用低消一杯飲品",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15808,7 +15808,7 @@
     {
       "name": "CAFE!N 硬咖啡 桃園總廠店",
       "description": "平鎮工業區內百坪大空間純白系質感咖啡店，由源友咖啡轉型",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15822,7 +15822,7 @@
     {
       "name": "HoneyWood Cafe 晶麒莊園",
       "description": "平鎮歐風教堂風格咖啡廳",
-      "area": "平鎮區",
+      "area": "平鎮",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15836,7 +15836,7 @@
     {
       "name": "三宅咖啡",
       "description": "八德日式復古老宅咖啡廳，有榻榻米座位區，提供當日限定甜點與單品咖啡",
-      "area": "八德區",
+      "area": "八德",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15850,7 +15850,7 @@
     {
       "name": "FIH Café 幸蘊坊",
       "description": "八德興仁花園夜市附近，寵物友善，提供手作甜點、咖啡、調酒，不收服務費",
-      "area": "八德區",
+      "area": "八德",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15864,7 +15864,7 @@
     {
       "name": "ふふや FuFuya",
       "description": "2026新開幕八德韓系咖啡廳，木質調氛圍，有柯基與貓咪店寵，寵物友善",
-      "area": "八德區",
+      "area": "八德",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15878,7 +15878,7 @@
     {
       "name": "鹿麓五金咖啡 RULU Café",
       "description": "龜山忠義路特色咖啡廳，一半空間展示五金，提供咖啡與甜點",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": 4.7,
       "reviews": 246,
       "categories": [
@@ -15892,7 +15892,7 @@
     {
       "name": "TEN THOUSAND 林口長庚店",
       "description": "龜山長庚商圈咖啡廳，提供雪梨淺焙咖啡與甜點",
-      "area": "龜山區",
+      "area": "龜山",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15906,7 +15906,7 @@
     {
       "name": "茉莉咖啡 2號店",
       "description": "龍潭稻田旁木質植栽系咖啡廳，寵物友善，有戶外座席",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15920,7 +15920,7 @@
     {
       "name": "鹿點咖啡 千瀑店",
       "description": "龍潭千層瀑布旁的景觀咖啡廳，有免費玩水區，提供咖啡與鬆餅",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15934,7 +15934,7 @@
     {
       "name": "鹿途咖啡 LU·TU",
       "description": "龍潭蕨類綠意環繞的植物系早午餐咖啡廳，從平鎮搬遷至龍潭",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15948,7 +15948,7 @@
     {
       "name": "貓禾咖啡館",
       "description": "乳姑山景觀咖啡廳，有露天泡泡屋座位，八隻店貓陪伴，可看夜景",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15962,7 +15962,7 @@
     {
       "name": "茉莉花園 café",
       "description": "三坑老街附近多肉植物花園咖啡館，鄉村風格，提供手沖與義式咖啡",
-      "area": "龍潭區",
+      "area": "龍潭",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -15976,7 +15976,7 @@
     {
       "name": "豆趣咖啡",
       "description": "台茂附近不限時自家烘焙咖啡廳，工業風混日式雜貨風，附設停車場",
-      "area": "蘆竹區",
+      "area": "蘆竹",
       "rating": 4.5,
       "reviews": null,
       "categories": [
@@ -15990,7 +15990,7 @@
     {
       "name": "橙夕咖啡 Afterglow Cafe",
       "description": "竹圍漁港旁韓系海景咖啡廳，可看夕陽與飛機，提供咖啡與甜點，寵物友善",
-      "area": "大園區",
+      "area": "大園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16004,7 +16004,7 @@
     {
       "name": "第三航廈咖啡廳",
       "description": "大園看飛機咖啡廳，鄰近機場南跑道，營業至凌晨12點，提供鬆餅",
-      "area": "大園區",
+      "area": "大園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16018,7 +16018,7 @@
     {
       "name": "航空港360景觀旋轉餐廳",
       "description": "竹圍漁港漁業大樓5樓，360度旋轉觀景台，可邊用餐邊欣賞海景與飛機起降",
-      "area": "大園區",
+      "area": "大園",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16032,7 +16032,7 @@
     {
       "name": "愛琴海海岸咖啡廳",
       "description": "新屋區海岸景觀咖啡廳，可看海景",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16046,7 +16046,7 @@
     {
       "name": "聖多里尼海岸咖啡廳",
       "description": "新屋區海岸景觀餐廳，提供咖啡與餐點",
-      "area": "新屋區",
+      "area": "新屋",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16060,7 +16060,7 @@
     {
       "name": "引路咖啡 大溪旗艦店",
       "description": "大溪老宅咖啡廳，天井採光，提供藝伎義式咖啡、單品手沖與甜點",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16074,7 +16074,7 @@
     {
       "name": "秋旭",
       "description": "大溪老街旁老宅廢墟風咖啡廳，有庭院與紅磚牆，二樓為植栽選物店，寵物友善",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": null,
       "reviews": null,
       "categories": [
@@ -16088,7 +16088,7 @@
     {
       "name": "環湖咖啡2號店",
       "description": "石門水庫湖景咖啡廳，日式景觀餐廳，提供定食、甜點與手沖咖啡",
-      "area": "大溪區",
+      "area": "大溪",
       "rating": null,
       "reviews": null,
       "categories": [

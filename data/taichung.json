@@ -1159,7 +1159,7 @@
     {
       "name": "曙光居",
       "description": "經典台菜菜色，選用新鮮食材，讓人感受溫暖的家味。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 592,
       "categories": [
@@ -1227,7 +1227,7 @@
     {
       "name": "台客燒肉粥",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.6,
       "reviews": 6227,
       "categories": [
@@ -1244,7 +1244,7 @@
     {
       "name": "沙卡",
       "description": "",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.2,
       "reviews": 805,
       "categories": [
@@ -1261,7 +1261,7 @@
     {
       "name": "鮮魚鱻",
       "description": "專注於新鮮海鮮料理，招牌魚類菜品口感極佳。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 3.8,
       "reviews": 2165,
       "categories": [
@@ -1278,7 +1278,7 @@
     {
       "name": "竹之鄉",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.5,
       "reviews": 1754,
       "categories": [
@@ -1346,7 +1346,7 @@
     {
       "name": "小初店",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 2378,
       "categories": [
@@ -1395,7 +1395,7 @@
     {
       "name": "清水燒炸粿",
       "description": "人氣小吃，外酥內軟的炸粿讓人回味無窮。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 1102,
       "categories": [
@@ -1411,7 +1411,7 @@
     {
       "name": "正牌米糕莊",
       "description": "樸實的餐廳，供應傳統米糕、麵食、豬肉料理及湯品。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.1,
       "reviews": 3759,
       "categories": [
@@ -1427,7 +1427,7 @@
     {
       "name": "天使光環米糕",
       "description": "樸實的餐廳，專門供應米糕和其他傳統療癒美食。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.1,
       "reviews": 1979,
       "categories": [
@@ -1472,7 +1472,7 @@
     {
       "name": "［有2人內用區囉！］素食飯、麵、水餃、抓餅 x 可預定 x 豆腐店取餐（早上10.到下午6.可預定自取，菜單價格僅供參考，實際備料數量現場為準，每天少量供應，5份以上餐點請提前一天詢問預定歐！感恩~週日固定店休，其他店休請參考my豆腐FB）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 5,
       "reviews": 6,
       "categories": [
@@ -1486,7 +1486,7 @@
     {
       "name": "東方喜悅蔬食餐廳 - East Joy Vegetarian",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 5,
       "reviews": 2623,
       "categories": [
@@ -1514,7 +1514,7 @@
     {
       "name": "同心蔬食館(私廚料理，最少需提前一日預訂)//東明冷凍電器行旁邊",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 5,
       "reviews": 288,
       "categories": [
@@ -1570,7 +1570,7 @@
     {
       "name": "銘月手作食堂",
       "description": "招牌手作料理新鮮美味，讓人一試成主顧",
-      "area": "大里區",
+      "area": "大里",
       "rating": 5,
       "reviews": 160,
       "categories": [
@@ -1584,7 +1584,7 @@
     {
       "name": "秘醬滷味台中大甲店",
       "description": "超人氣滷味，醬香濃郁，讓人一吃成主顧。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 5,
       "reviews": 200,
       "categories": [
@@ -1612,7 +1612,7 @@
     {
       "name": "【翹腳鍋Qiao jiao hotpot】霧峰在地火鍋 訂位請提前30分鐘（不定期店休，可撥打電話確認）",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 5,
       "reviews": 110,
       "categories": [
@@ -1626,7 +1626,7 @@
     {
       "name": "食尚Salom 純淨蔬食 X 無五辛 X MM友善（入口處在成功東路330巷5號對面）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 5,
       "reviews": 28,
       "categories": [
@@ -1640,7 +1640,7 @@
     {
       "name": "好口味素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 5,
       "reviews": 16,
       "categories": [
@@ -1654,7 +1654,7 @@
     {
       "name": "尚品素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 5,
       "reviews": 9,
       "categories": [
@@ -1668,7 +1668,7 @@
     {
       "name": "舒活美中西素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1682,7 +1682,7 @@
     {
       "name": "可樂炸 蔬食炸物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 5,
       "reviews": 31,
       "categories": [
@@ -1696,7 +1696,7 @@
     {
       "name": "素食麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 5,
       "reviews": 2,
       "categories": [
@@ -1710,7 +1710,7 @@
     {
       "name": "福興素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 5,
       "reviews": 25,
       "categories": [
@@ -1724,7 +1724,7 @@
     {
       "name": "素食拌醬 x 毓秀私房醬 x 麻辣臭豆腐 x 東海經銷點",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 5,
       "reviews": 2,
       "categories": [
@@ -1738,7 +1738,7 @@
     {
       "name": "茄投素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -1752,7 +1752,7 @@
     {
       "name": "大甲素食（素成素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 5,
       "reviews": 123,
       "categories": [
@@ -1766,7 +1766,7 @@
     {
       "name": "清梅素食館（原天航素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 5,
       "reviews": 5,
       "categories": [
@@ -1780,7 +1780,7 @@
     {
       "name": "昇德蔬食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 5,
       "reviews": 18,
       "categories": [
@@ -1794,7 +1794,7 @@
     {
       "name": "怎麼可能！！臻蔬食 JHEN Veganuary",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 5,
       "reviews": 58,
       "categories": [
@@ -1808,7 +1808,7 @@
     {
       "name": "翠豆蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 5,
       "reviews": 64,
       "categories": [
@@ -1822,7 +1822,7 @@
     {
       "name": "妙緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -1836,7 +1836,7 @@
     {
       "name": "秝米素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 5,
       "reviews": 8,
       "categories": [
@@ -1850,7 +1850,7 @@
     {
       "name": "素食鹹酥雞",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 5,
       "reviews": 8,
       "categories": [
@@ -1864,7 +1864,7 @@
     {
       "name": "大明蔬食炸物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 5,
       "reviews": 25,
       "categories": [
@@ -1878,7 +1878,7 @@
     {
       "name": "非常素蔬食早午餐（蛋奶素，全素）大里店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 5,
       "reviews": 25,
       "categories": [
@@ -1892,7 +1892,7 @@
     {
       "name": "烏日素食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 5,
       "reviews": 19,
       "categories": [
@@ -1906,7 +1906,7 @@
     {
       "name": "大豐素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 5,
       "reviews": 2,
       "categories": [
@@ -1920,7 +1920,7 @@
     {
       "name": "清水素食清粥小菜",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -1934,7 +1934,7 @@
     {
       "name": "素食春捲",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1948,7 +1948,7 @@
     {
       "name": "千饗公子·VEGETARIAN RAMEN.邀請預約制·〇九八〇七三三六八九",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 5,
       "reviews": 3200,
       "address": "408台灣臺中市南屯區忠勇路23-20號",
@@ -1963,7 +1963,7 @@
     {
       "name": "隱園|無味精牛肉麵丨整尾鰻魚飯|海味小卷麵線|無刺虱目魚麵線|超嫩當歸鴨麵線丨超大隻鮮蝦餛飩麵麵",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.9,
       "reviews": 2429,
       "categories": [
@@ -1991,7 +1991,7 @@
     {
       "name": "NK.Restaurant 餐廳 - 亞洲風味料理",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 700,
       "categories": [
@@ -2005,7 +2005,7 @@
     {
       "name": "泰壽司-西屯熱門美食|烏龍麵|握壽司|好喝的湯|平價日料|台中美食|日本料理|台中美食地圖|restaurants | Seafood | Cheap eats",
       "description": "平價日料和好喝的湯，讓人回味無窮，超人氣。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 3778,
       "categories": [
@@ -2019,7 +2019,7 @@
     {
       "name": "Mao king貓王經典Restaurant 南屯店",
       "description": "經典中式和台菜料理，人氣美食。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 3035,
       "categories": [
@@ -2033,7 +2033,7 @@
     {
       "name": "Ikkon Wagyu Club",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 1024,
       "categories": [
@@ -2061,7 +2061,7 @@
     {
       "name": "嗑肉石鍋-台中大里店(二代店)",
       "description": "嗑肉石鍋-台中大里店(二代店), 超人氣石鍋料理，讓人回味無窮。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.9,
       "reviews": 7800,
       "categories": [
@@ -2075,7 +2075,7 @@
     {
       "name": "印度藏堡廚坊 Yoga kitchen Indian Tibet restaurant",
       "description": "提供正宗印度和藏式料理, 超人氣餐廳",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 3720,
       "categories": [
@@ -2089,7 +2089,7 @@
     {
       "name": "嗑肉石鍋-台中沙鹿店(二代店)",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 6197,
       "categories": [
@@ -2103,7 +2103,7 @@
     {
       "name": "焼肉スマイル（燒肉Smile）台中一中店",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 27626,
       "categories": [
@@ -2173,7 +2173,7 @@
     {
       "name": "肉次方 燒肉放題 台中文心崇德店",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 41823,
       "categories": [
@@ -2257,7 +2257,7 @@
     {
       "name": "熱浪小島-豐原店｜廟東蔬食推薦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 1171,
       "categories": [
@@ -2271,7 +2271,7 @@
     {
       "name": "知戶酒食",
       "description": "精緻中式和台菜料理，搭配優雅氛圍，人氣。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 1174,
       "categories": [
@@ -2285,7 +2285,7 @@
     {
       "name": "雛菊見DAISY HOUSE-台中南屯店｜生日慶生｜甜點｜聚餐｜台中美食",
       "description": "甜點和咖啡的完美搭配，超人氣慶生聚餐地點。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 12292,
       "categories": [
@@ -2299,7 +2299,7 @@
     {
       "name": "田心異料",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 677,
       "categories": [
@@ -2313,7 +2313,7 @@
     {
       "name": "傳奇烤肉飯",
       "description": "｜招牌烤肉飯，口感豐富，超人氣，深受食客推崇。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 3669,
       "categories": [
@@ -2397,7 +2397,7 @@
     {
       "name": "晨光手作料理坊早午餐",
       "description": "寬敞靜謐的早午餐餐廳，供應沙拉、單片雞蛋三明治和義大利麵。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.9,
       "reviews": 4271,
       "categories": [
@@ -2411,7 +2411,7 @@
     {
       "name": "花田家蔬食咖哩",
       "description": "以新鮮蔬菜為基底的咖哩, 餐點健康美味",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 493,
       "categories": [
@@ -2425,7 +2425,7 @@
     {
       "name": "十二段鍋物堂 | 豐原店",
       "description": "精緻火鍋選擇, 超人氣火鍋店",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 5398,
       "categories": [
@@ -2439,7 +2439,7 @@
     {
       "name": "魚和米壽司 豐原店",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 3150,
       "categories": [
@@ -2453,7 +2453,7 @@
     {
       "name": "松居食堂(請先預約)",
       "description": "精緻台菜需預約，人氣餐廳，讓你體驗家常的溫馨。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 998,
       "categories": [
@@ -2467,7 +2467,7 @@
     {
       "name": "大熊村長morning",
       "description": "早餐台菜豐富，人氣餐廳，讓你一早就元氣滿滿。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 2124,
       "categories": [
@@ -2481,7 +2481,7 @@
     {
       "name": "汍樂滿盛燒肉丼 大雅店",
       "description": "日式燒肉丼飯讓人垂涎，雖然人氣稍低，但每口都驚喜。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 626,
       "categories": [
@@ -2495,7 +2495,7 @@
     {
       "name": "熬鍋燒-台中大雅店",
       "description": "特色熬鍋燒，讓人暖心又暖胃。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 775,
       "categories": [
@@ -2509,7 +2509,7 @@
     {
       "name": "九初 流心脆皮煎餃 台中大雅店",
       "description": "招牌煎餃外脆內嫩，超人氣美食。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 1031,
       "categories": [
@@ -2523,7 +2523,7 @@
     {
       "name": "一手包伴爆漿湯包蒸餃",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.9,
       "reviews": 214,
       "categories": [
@@ -2537,7 +2537,7 @@
     {
       "name": "麵匡匡拉麵食堂 台中清水店",
       "description": "清水店的拉麵選擇，湯頭濃郁，令人陶醉。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.9,
       "reviews": 742,
       "categories": [
@@ -2551,7 +2551,7 @@
     {
       "name": "炭火俱樂部 沙鹿店 Charcoal BBQ Club",
       "description": "超人氣炭火燒烤，肉質鮮嫩，適合愛吃燒烤的朋友們。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 2039,
       "categories": [
@@ -2565,7 +2565,7 @@
     {
       "name": "T. T. Tora燒肉",
       "description": "明亮的當代風餐廳，供應精選燒肉、火鍋與套餐選項。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 3759,
       "categories": [
@@ -2579,7 +2579,7 @@
     {
       "name": "亦馬いま鍋物",
       "description": "提供新鮮火鍋食材, 讓顧客在溫暖的氛圍中享受美味。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 2474,
       "categories": [
@@ -2621,7 +2621,7 @@
     {
       "name": "燒瓶子。大肆の鍋 台中北屯店 | 最後點餐時間00:30",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 29570,
       "categories": [
@@ -2663,7 +2663,7 @@
     {
       "name": "和牛涮 台中文心崇德店",
       "description": "超人氣台式火鍋，選用上等和牛，肉質鮮嫩，讓人回味無窮。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 44412,
       "categories": [
@@ -2691,7 +2691,7 @@
     {
       "name": "饗點鍋精緻鍋物 台中文心店",
       "description": "人氣火鍋，精緻的擺盤和豐富的湯底選擇，滿足味蕾的渴望。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 2271,
       "categories": [
@@ -2705,7 +2705,7 @@
     {
       "name": "利塔鍋物 文心店",
       "description": "火鍋超人氣，提供新鮮食材與多樣湯底選擇。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 5745,
       "categories": [
@@ -2915,7 +2915,7 @@
     {
       "name": "三山燒肉 文心店",
       "description": "招牌燒肉各具特色，超人氣店，讓你品味燒肉的真滋味。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 17634,
       "categories": [
@@ -2957,7 +2957,7 @@
     {
       "name": "屋簷下 日式手作料理｜售完提早打烊",
       "description": "精緻日式料理，使用新鮮食材，味道令人驚艷，人氣高漲。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 806,
       "categories": [
@@ -2999,7 +2999,7 @@
     {
       "name": "豪啃火鍋",
       "description": "精緻火鍋料理，讓人回味無窮的美食選擇。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 1728,
       "categories": [
@@ -3013,7 +3013,7 @@
     {
       "name": "摟貍台式居酒屋",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 259,
       "categories": [
@@ -3027,7 +3027,7 @@
     {
       "name": "叁日咖哩 - 3日熟成",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.9,
       "reviews": 341,
       "categories": [
@@ -3041,7 +3041,7 @@
     {
       "name": "森釧鍋物（平日中午最後收客14:00/平日晚上最後收客20:30，假日全天營業）",
       "description": "超人氣火鍋，豐富食材與優質湯底令人滿意。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.9,
       "reviews": 5976,
       "categories": [
@@ -3069,7 +3069,7 @@
     {
       "name": "老味道素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 83,
       "categories": [
@@ -3083,7 +3083,7 @@
     {
       "name": "德卉素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 79,
       "categories": [
@@ -3097,7 +3097,7 @@
     {
       "name": "拾菜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 80,
       "categories": [
@@ -3111,7 +3111,7 @@
     {
       "name": "多寶蔬食南洋異國料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 1152,
       "categories": [
@@ -3125,7 +3125,7 @@
     {
       "name": "欣緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.9,
       "reviews": 70,
       "categories": [
@@ -3139,7 +3139,7 @@
     {
       "name": "品香素食蚵仔煎-台中店 大進市場內30號攤位",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.9,
       "reviews": 513,
       "categories": [
@@ -3153,7 +3153,7 @@
     {
       "name": "晶芯蔬食（太平店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.9,
       "reviews": 21,
       "categories": [
@@ -3167,7 +3167,7 @@
     {
       "name": "正益蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.9,
       "reviews": 68,
       "categories": [
@@ -3181,7 +3181,7 @@
     {
       "name": "小蔬坊素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.9,
       "reviews": 35,
       "categories": [
@@ -3195,7 +3195,7 @@
     {
       "name": "良蔬蔬 素食蔬食炒飯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.9,
       "reviews": 105,
       "categories": [
@@ -3209,7 +3209,7 @@
     {
       "name": "微時光蔬食咖啡館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.9,
       "reviews": 75,
       "categories": [
@@ -3223,7 +3223,7 @@
     {
       "name": "素喜 素食麵線專賣店（7/4～7/8休息） 每週三公休",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.9,
       "reviews": 19,
       "categories": [
@@ -3237,7 +3237,7 @@
     {
       "name": "綠花朵蔬食手作",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 626,
       "categories": [
@@ -3251,7 +3251,7 @@
     {
       "name": "唯馨蔬食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.9,
       "reviews": 64,
       "categories": [
@@ -3265,7 +3265,7 @@
     {
       "name": "蔬香四溢-蔬食炸物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.9,
       "reviews": 75,
       "categories": [
@@ -3279,7 +3279,7 @@
     {
       "name": "佳緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.9,
       "reviews": 11,
       "categories": [
@@ -3306,7 +3306,7 @@
     {
       "name": "快樂蔬食主義（素食餐盒專賣店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.9,
       "reviews": 352,
       "categories": [
@@ -3320,7 +3320,7 @@
     {
       "name": "(蔡)素食煎包",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.9,
       "reviews": 7,
       "categories": [
@@ -3334,7 +3334,7 @@
     {
       "name": "龍津素食早點(韓式海苔飯捲)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.9,
       "reviews": 38,
       "categories": [
@@ -3348,7 +3348,7 @@
     {
       "name": "珍心蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.9,
       "reviews": 63,
       "categories": [
@@ -3362,7 +3362,7 @@
     {
       "name": "熱浪小島-大甲店｜鎮瀾宮蔬食推薦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.9,
       "reviews": 787,
       "categories": [
@@ -3376,7 +3376,7 @@
     {
       "name": "樹院子蔬食火鍋",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 223,
       "categories": [
@@ -3390,7 +3390,7 @@
     {
       "name": "蔬心蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 70,
       "categories": [
@@ -3404,7 +3404,7 @@
     {
       "name": "永勝蔬食起士烤餅",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.9,
       "reviews": 28,
       "categories": [
@@ -3418,7 +3418,7 @@
     {
       "name": "雅香蔬食（原雅香小吃）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.9,
       "reviews": 28,
       "categories": [
@@ -3432,7 +3432,7 @@
     {
       "name": "澄柚素食海苔飯捲（公休日公告臉書）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.9,
       "reviews": 56,
       "categories": [
@@ -3446,7 +3446,7 @@
     {
       "name": "馨苑小料理※松竹店※台菜咖啡※米其林必比登",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 8858,
       "address": "406台灣臺中市北屯區舊社里敦富路68號",
@@ -3461,7 +3461,7 @@
     {
       "name": "淇里思崇德店",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 17082,
       "address": "406台灣臺中市北屯區仁和里山西路三段175號",
@@ -3476,7 +3476,7 @@
     {
       "name": "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
       "description": "日式料理餐廳",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 1235,
       "address": "406台灣臺中市北屯區平田里旅順路二段284號1樓",
@@ -3491,7 +3491,7 @@
     {
       "name": "屋馬燒肉 崇德店",
       "description": "日式料理餐廳",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.9,
       "reviews": 68850,
       "address": "40674台灣臺中市北屯區崇德路二段369號",
@@ -3506,7 +3506,7 @@
     {
       "name": "旺來蓁展蛋捲",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.9,
       "reviews": 1493,
       "address": "426台灣臺中市新社區協成里華豐街41號",
@@ -3521,7 +3521,7 @@
     {
       "name": "汍樂滿盛燒肉丼 后里店",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.9,
       "reviews": 1551,
       "address": "421台灣臺中市后里區墩東里文明路22號1樓",
@@ -3536,7 +3536,7 @@
     {
       "name": "木野御丼食堂",
       "description": "日式料理餐廳",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.9,
       "reviews": 1725,
       "address": "421台灣臺中市后里區厚里里甲后路一段740號",
@@ -3551,7 +3551,7 @@
     {
       "name": "木和咖啡 GOOD CIRCLE COFFEE（經典手沖咖啡專門店／VEGAN）",
       "description": "",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.9,
       "reviews": 226,
       "address": "434台灣臺中市龍井區新東里新興路9巷10號",
@@ -3593,7 +3593,7 @@
     {
       "name": "小阿姨滷肉飯（清水店)蒸蛋滷肉飯/蚵仔滷肉飯/附近美食/在地小吃/休假詳情收尋FB",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.8,
       "reviews": 1296,
       "categories": [
@@ -3676,7 +3676,7 @@
     {
       "name": "嵐畇小籠湯包",
       "description": "超人氣小籠包，湯汁豐富，口感絕佳。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.8,
       "reviews": 147,
       "categories": [
@@ -3703,7 +3703,7 @@
     {
       "name": "胡同李-東北水餃｜早午餐｜酸辣粉｜家庭料理",
       "description": "東北水餃與酸辣粉的完美結合，適合家庭聚餐享用。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.8,
       "reviews": 146,
       "categories": [
@@ -3771,7 +3771,7 @@
     {
       "name": "wpapa teppanyaki brunch鐵板料理早午餐",
       "description": "令人放鬆的餐廳，供應西式鐵板燒料理、咖啡飲品和甜點。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 5803,
       "categories": [
@@ -3785,7 +3785,7 @@
     {
       "name": "知春茶食/restaurants/美食/晚餐",
       "description": "精緻的茶食晚餐選擇，人氣。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 768,
       "categories": [
@@ -3799,7 +3799,7 @@
     {
       "name": "富賦號 - 日式牛骨拉麵（已開放線上點餐服務，請多加利用）",
       "description": "招牌日式牛骨拉麵, 提供線上點餐服務，方便顧客享用美味。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 824,
       "categories": [
@@ -3937,7 +3937,7 @@
     {
       "name": "范頭家客家餐廳(機捷特店) 台中北屯客家餐廳 - 合菜 | 親子餐廳 | 附近美食",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 2147,
       "categories": [
@@ -3964,7 +3964,7 @@
     {
       "name": "丰禾 台味風格料理 文心崇德店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 10339,
       "categories": [
@@ -3978,7 +3978,7 @@
     {
       "name": "資豐美食 豐原店 資豐阿源師",
       "description": "招牌小吃讓人驚艷，口感與新鮮度兼具，值得一試。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 157,
       "categories": [
@@ -4001,7 +4001,7 @@
     {
       "name": "拾山現炒、飯、麵飯店（東勢美食 客家 小吃）",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.8,
       "reviews": 155,
       "categories": [
@@ -4015,7 +4015,7 @@
     {
       "name": "親親小籠湯包（非全品項手工哦 台中大甲在地 推薦 必訪 美食小吃）",
       "description": "推薦必訪的美食小吃，鮮汁四溢，皮薄肉嫩，滿足味蕾。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.8,
       "reviews": 508,
       "categories": [
@@ -4042,7 +4042,7 @@
     {
       "name": "莫爾日嚐MORE TASTE",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.8,
       "reviews": 488,
       "categories": [
@@ -4070,7 +4070,7 @@
     {
       "name": "少年ㄟ早午餐 ｜沙鹿素食｜小吃麵店｜每週二、三、四晚上有營業",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 78,
       "categories": [
@@ -4097,7 +4097,7 @@
     {
       "name": "Eating Love 蔬食酸種披薩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 292,
       "categories": [
@@ -4193,7 +4193,7 @@
     {
       "name": "覓舍",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 675,
       "categories": [
@@ -4207,7 +4207,7 @@
     {
       "name": "淇里思印度餐廳 朝富店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 6084,
       "categories": [
@@ -4221,7 +4221,7 @@
     {
       "name": "探扒霸-平價午晚餐 台中美食 南屯美食 南屯小吃 南屯熱炒 南屯炒飯 南屯必吃",
       "description": "氣氛放鬆的街邊餐館，在工業風空間中供應家常美食與傳統料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.8,
       "reviews": 1230,
       "categories": [
@@ -4235,7 +4235,7 @@
     {
       "name": "藝奇 台中大墩店",
       "description": "｜招牌台菜，美味經典選擇，人氣餐廳，廣受食客喜愛。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.8,
       "reviews": 9638,
       "categories": [
@@ -4346,7 +4346,7 @@
     {
       "name": "天利食堂 台中大里店(每月最後一周周一公休)",
       "description": "精緻中式菜餚，雖然評價高，但評論數略低，值得一試。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 837,
       "categories": [
@@ -4360,7 +4360,7 @@
     {
       "name": "厝秘 功夫菜 手路湯 大里店",
       "description": "特色手路湯與家常菜，品質上乘，讓人感受到家的味道。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 267,
       "categories": [
@@ -4387,7 +4387,7 @@
     {
       "name": "湘春家-大里店｜大里午晚餐｜家常湯麵",
       "description": "招牌家常湯麵，溫暖又美味，讓人有回家的感覺。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 693,
       "categories": [
@@ -4401,7 +4401,7 @@
     {
       "name": "SP夏帕義大利麵 台中大里店",
       "description": "SP夏帕義大利麵 台中大里店，義大利麵選擇多樣，口味創新，人氣之選。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 1308,
       "categories": [
@@ -4415,7 +4415,7 @@
     {
       "name": "隨便，坐",
       "description": "隨便，坐，輕鬆自在的中式餐點，適合隨意聚餐，讓人感到放鬆。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 1101,
       "categories": [
@@ -4429,7 +4429,7 @@
     {
       "name": "肉肉燒肉大里店",
       "description": "肉肉燒肉大里店, 以肉類燒烤為主打，深受食客喜愛。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 859,
       "categories": [
@@ -4443,7 +4443,7 @@
     {
       "name": "牛丁次郎坊x大里店",
       "description": "小巧樸實的餐廳，供應搭配肉類和蔬菜的傳統飯食。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 3160,
       "categories": [
@@ -4457,7 +4457,7 @@
     {
       "name": "秘藏石鍋料理（豐原店）",
       "description": "豐原店的美味石鍋料理，超人氣。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 3984,
       "categories": [
@@ -4471,7 +4471,7 @@
     {
       "name": "角地方 料理廚房",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 1030,
       "categories": [
@@ -4485,7 +4485,7 @@
     {
       "name": "澤字號港式餐廳",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 5603,
       "categories": [
@@ -4499,7 +4499,7 @@
     {
       "name": "森川丼丼豐橫町",
       "description": "色彩繽紛的樸實日式餐廳，專賣壽司，也供應共享料理和飲品。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 4713,
       "categories": [
@@ -4513,7 +4513,7 @@
     {
       "name": "禾雪咖啡（公休公告以IG和Fb為主）",
       "description": "舒適的咖啡環境, 讓你輕鬆享受悠閒時光",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 246,
       "categories": [
@@ -4540,7 +4540,7 @@
     {
       "name": "臻記腸粉湯品-豐原美食豐原中式餐廳",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 615,
       "categories": [
@@ -4567,7 +4567,7 @@
     {
       "name": "惹鍋 沒事惹惹鍋｜平價海鮮鍋物｜深夜鍋物-台中豐原店",
       "description": "惹鍋, 平價海鮮鍋物, 深夜熱潮的超人氣鍋店",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 7143,
       "categories": [
@@ -4594,7 +4594,7 @@
     {
       "name": "一築金野台-台中豐原總店-拉麵壽司生魚片",
       "description": "招牌拉麵與新鮮生魚片，超人氣餐廳，讓你享受日式美味。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 6394,
       "categories": [
@@ -4621,7 +4621,7 @@
     {
       "name": "味市 お料理 － 預約制",
       "description": "預約制精緻料理，讓人期待每次的美味驚喜。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.8,
       "reviews": 551,
       "categories": [
@@ -4635,7 +4635,7 @@
     {
       "name": "極炙燒肉丼飯-大雅總店",
       "description": "精選燒肉搭配丼飯，令人垂涎欲滴。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.8,
       "reviews": 933,
       "categories": [
@@ -4649,7 +4649,7 @@
     {
       "name": "牧釜燒 | 店休日詳見FB公告 | 收客至休息前半小時 |",
       "description": "燒烤料理口感絕佳，適合與朋友聚餐，環境舒適令人放鬆。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 524,
       "categories": [
@@ -4676,7 +4676,7 @@
     {
       "name": "韓義廚坊 韓式料理•義式料理•平價美食•沙鹿美食",
       "description": "提供平價的韓式與義式料理, 多樣化選擇滿足不同口味。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 355,
       "categories": [
@@ -4690,7 +4690,7 @@
     {
       "name": "眷戀飛翔小餐館",
       "description": "獨具特色的台式小館, 每道料理都充滿了懷舊的情感。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 342,
       "categories": [
@@ -4704,7 +4704,7 @@
     {
       "name": "潮味決·湯滷專門店 台中沙鹿成功東分社",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 1327,
       "categories": [
@@ -4718,7 +4718,7 @@
     {
       "name": "這一鍋 台中朝富殿",
       "description": "人氣火鍋，湯頭鮮美，必嚐招牌鍋品，滿足味蕾的美好享受。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 11553,
       "categories": [
@@ -4885,7 +4885,7 @@
     {
       "name": "十二段鍋物堂｜逢甲店",
       "description": "人氣火鍋，湯底選擇多樣，讓顧客有更多的搭配樂趣。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 2462,
       "categories": [
@@ -4899,7 +4899,7 @@
     {
       "name": "匠極緻鍋物 市政店",
       "description": "人氣火鍋，專注於食材的新鮮與品質，讓每餐都值得期待。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 785,
       "categories": [
@@ -5328,7 +5328,7 @@
     {
       "name": "王品牛排 台中文心店",
       "description": "超人氣牛排店，提供高品質的中式牛排佳餚。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 13500,
       "categories": [
@@ -5522,7 +5522,7 @@
     {
       "name": "大里薪食漟（飲料.炸物.宵）夜總店",
       "description": "提供飲料及炸物，超人氣聚餐好去處。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 410,
       "categories": [
@@ -5536,7 +5536,7 @@
     {
       "name": "喜饌晨食",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 1230,
       "categories": [
@@ -5550,7 +5550,7 @@
     {
       "name": "小彤帽密沾醬炸鷄排 大里總店",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 1736,
       "categories": [
@@ -5564,7 +5564,7 @@
     {
       "name": "豐原劉小姐潤餅/花生捲冰淇淋/豐原美食/豐原必吃/豐原小吃/銅板美食",
       "description": "潤餅與花生捲冰淇淋的完美結合，甜品愛好者必訪。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 208,
       "categories": [
@@ -5591,7 +5591,7 @@
     {
       "name": "寮下啜COFFEEZU",
       "description": "專注於手沖咖啡，品質卓越，深受顧客喜愛。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.8,
       "reviews": 907,
       "categories": [
@@ -5618,7 +5618,7 @@
     {
       "name": "純粹綿綿冰",
       "description": "冰品愛好者的夢想，口感細膩，清爽解暑，讓人回味無窮。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.8,
       "reviews": 741,
       "categories": [
@@ -5632,7 +5632,7 @@
     {
       "name": "花義複合式餐飲",
       "description": "創新小吃與多元菜色，讓你在夜市中享受不同的味覺盛宴。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.8,
       "reviews": 522,
       "categories": [
@@ -5660,7 +5660,7 @@
     {
       "name": "禾記米製品｜霧峰米製品首選（6/20-7/3公休）",
       "description": "霧峰米製品的首選，米香濃郁，令人難忘。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.8,
       "reviews": 242,
       "categories": [
@@ -5687,7 +5687,7 @@
     {
       "name": "三漾冰果室 - 50年古早味剉冰",
       "description": "經典剉冰帶來清涼回憶，令人懷念。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.8,
       "reviews": 508,
       "categories": [
@@ -5714,7 +5714,7 @@
     {
       "name": "茶汕鼎鍋物-大里個人鍋物|人氣鍋物|熱門鍋物|特色鍋物|海鮮火鍋|在地推薦火鍋",
       "description": "人氣海鮮火鍋，精緻鍋物讓人食指大動。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 183,
       "categories": [
@@ -5770,7 +5770,7 @@
     {
       "name": "朱家蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 249,
       "categories": [
@@ -5797,7 +5797,7 @@
     {
       "name": "譚老二蔬食火鍋 軍功店（全天候供應）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 455,
       "categories": [
@@ -5811,7 +5811,7 @@
     {
       "name": "無限素素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 264,
       "categories": [
@@ -5838,7 +5838,7 @@
     {
       "name": "感恩健康素食現炒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 244,
       "categories": [
@@ -5865,7 +5865,7 @@
     {
       "name": "NAS新蔬食(素食)（台中西屯必吃美食餐廳／西屯好吃蔬食料理／台中素食餐廳推薦）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 288,
       "categories": [
@@ -5879,7 +5879,7 @@
     {
       "name": "蕙馨素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.8,
       "reviews": 38,
       "categories": [
@@ -5906,7 +5906,7 @@
     {
       "name": "長億素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 20,
       "categories": [
@@ -5920,7 +5920,7 @@
     {
       "name": "初齋食堂 蔬食便當",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 22,
       "categories": [
@@ -5934,7 +5934,7 @@
     {
       "name": "熱浪小島-大里店｜大里蔬食推薦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 135,
       "categories": [
@@ -5961,7 +5961,7 @@
     {
       "name": "品饌蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.8,
       "reviews": 156,
       "categories": [
@@ -5975,7 +5975,7 @@
     {
       "name": "吉村素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.8,
       "reviews": 5,
       "categories": [
@@ -5989,7 +5989,7 @@
     {
       "name": "萬仙樓素食 藝術創意主題餐廳 | 龍福茶藝館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.8,
       "reviews": 123,
       "categories": [
@@ -6016,7 +6016,7 @@
     {
       "name": "食在素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.8,
       "reviews": 27,
       "categories": [
@@ -6030,7 +6030,7 @@
     {
       "name": "蓮華素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.8,
       "reviews": 16,
       "categories": [
@@ -6044,7 +6044,7 @@
     {
       "name": "茹果說 蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.8,
       "reviews": 116,
       "categories": [
@@ -6071,7 +6071,7 @@
     {
       "name": "七天一個禮拜(素食早餐店）每月禮拜一與二四週禮拜日公休",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.8,
       "reviews": 101,
       "categories": [
@@ -6098,7 +6098,7 @@
     {
       "name": "日日素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.8,
       "reviews": 163,
       "categories": [
@@ -6125,7 +6125,7 @@
     {
       "name": "珍好蔬食早餐｜台中豐原神岡素食蛋餅(蛋奶素)早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.8,
       "reviews": 15,
       "categories": [
@@ -6139,7 +6139,7 @@
     {
       "name": "春成臭豆腐-蔬食臭豆腐專賣",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.8,
       "reviews": 74,
       "categories": [
@@ -6166,7 +6166,7 @@
     {
       "name": "阿佳の舖素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.8,
       "reviews": 5,
       "categories": [
@@ -6180,7 +6180,7 @@
     {
       "name": "弘光崇德社蔬食推廣處/弘光伙食團/正晴佛堂/正聚佛堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.8,
       "reviews": 28,
       "categories": [
@@ -6194,7 +6194,7 @@
     {
       "name": "響叮噹素食-鐵板麵/猴頭菇料理/寵物友善",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.8,
       "reviews": 138,
       "categories": [
@@ -6221,7 +6221,7 @@
     {
       "name": "添菜蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.8,
       "reviews": 68,
       "categories": [
@@ -6248,7 +6248,7 @@
     {
       "name": "菩提葉-越式素食料理 Cơm chay Việt Nam",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.8,
       "reviews": 98,
       "categories": [
@@ -6262,7 +6262,7 @@
     {
       "name": "素食杏鮑菇 黃金脆薯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.8,
       "reviews": 20,
       "categories": [
@@ -6276,7 +6276,7 @@
     {
       "name": "小蓮素食鹽酥G大甲店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.8,
       "reviews": 49,
       "categories": [
@@ -6303,7 +6303,7 @@
     {
       "name": "妙觀音素食-大安師大店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 623,
       "categories": [
@@ -6412,7 +6412,7 @@
     {
       "name": "熱浪小島-中科店｜中科蔬食推薦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.8,
       "reviews": 260,
       "categories": [
@@ -6439,7 +6439,7 @@
     {
       "name": "迦樂悅素食喜宴會館/迦樂悅複合式蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.8,
       "reviews": 603,
       "categories": [
@@ -6466,7 +6466,7 @@
     {
       "name": "禾野 蔬食炸物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.8,
       "reviews": 117,
       "categories": [
@@ -6493,7 +6493,7 @@
     {
       "name": "鼎松素食辦桌阿松師",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 73,
       "categories": [
@@ -6520,7 +6520,7 @@
     {
       "name": "木子蔬坊。蔬食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 80,
       "categories": [
@@ -6547,7 +6547,7 @@
     {
       "name": "鴛鴦蔬食❤️媽祖託夢指引的店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 101,
       "categories": [
@@ -6574,7 +6574,7 @@
     {
       "name": "妮菇蔬食炸物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.8,
       "reviews": 44,
       "categories": [
@@ -6601,7 +6601,7 @@
     {
       "name": "百合素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.8,
       "reviews": 141,
       "categories": [
@@ -6629,7 +6629,7 @@
     {
       "name": "思鄉漁豚",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 1021,
       "address": "406台灣臺中市北屯區松和里昌平路二段4巷54號",
@@ -6644,7 +6644,7 @@
     {
       "name": "魚米有約",
       "description": "日式料理餐廳",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 704,
       "address": "406台灣臺中市北屯區敦富一街133號大地商場-A31",
@@ -6659,7 +6659,7 @@
     {
       "name": "綠萼159",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 2390,
       "address": "406台灣臺中市北屯區仁和里山西路三段159號",
@@ -6674,7 +6674,7 @@
     {
       "name": "嵐山熟成牛かつ專売-北屯昌平店",
       "description": "日式料理餐廳",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 13919,
       "address": "406台灣臺中市北屯區松強里昌平路二段12之15巷60號",
@@ -6689,7 +6689,7 @@
     {
       "name": "新月傳說-大坑景觀餐廳,特色餐廳,美食餐廳推薦",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 2414,
       "address": "406台灣臺中市北屯區大坑里光西巷81-1號",
@@ -6704,7 +6704,7 @@
     {
       "name": "Mao King 貓王經典 Restaurant北屯景賢店",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.8,
       "reviews": 2695,
       "address": "406台灣臺中市北屯區廍子里景賢路108號",
@@ -6719,7 +6719,7 @@
     {
       "name": "金記麵點（太平店)",
       "description": "麵食專賣店，湯頭講究",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 833,
       "address": "411台灣臺中市太平區太平里太平路507號",
@@ -6734,7 +6734,7 @@
     {
       "name": "似錦涮太平店",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.8,
       "reviews": 3408,
       "address": "411台灣臺中市太平區新高里立文街6號",
@@ -6749,7 +6749,7 @@
     {
       "name": "沐鐵板燒-『梧棲總店』",
       "description": "日式料理餐廳",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.8,
       "reviews": 2865,
       "address": "435台灣臺中市梧棲區中正里文化路二段187號",
@@ -6764,7 +6764,7 @@
     {
       "name": "里好餐桌 Li-Ho Table",
       "description": "中式餐廳，在地美味",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.8,
       "reviews": 2463,
       "address": "414台灣臺中市烏日區仁德里中山路一段319號",
@@ -6779,7 +6779,7 @@
     {
       "name": "丸子漢堡-烏日人氣早午餐|熱門早午餐|外帶早午餐|CP漢堡|人氣蛋餅|在地推薦早午餐|好吃早午餐|特色早午餐",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.8,
       "reviews": 669,
       "address": "414台灣臺中市烏日區仁德里信義街82號",
@@ -6794,7 +6794,7 @@
     {
       "name": "澄石享自在",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.8,
       "reviews": 8555,
       "address": "406台灣臺中市北屯區民德里東山路二段民興巷207-5號",
@@ -6809,7 +6809,7 @@
     {
       "name": "新社頭嵙山香菇農場-新社必吃平價美食、多人用餐首選、素棒棒腿、菇農自產香菇",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.8,
       "reviews": 2477,
       "address": "426台灣臺中市新社區協成里南華街53號",
@@ -6824,7 +6824,7 @@
     {
       "name": "惹鍋 后里店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.8,
       "reviews": 5127,
       "address": "421台灣臺中市后里區后里里三豐路四段135號",
@@ -6839,7 +6839,7 @@
     {
       "name": "座上嗑好嗑鍋煮 - 后里總店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.8,
       "reviews": 3380,
       "address": "421台灣臺中市后里區義德里甲后路一段456巷18號",
@@ -6854,7 +6854,7 @@
     {
       "name": "這一小鍋 台中麗寶店【經典店】",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.8,
       "reviews": 12400,
       "address": "421台灣臺中市后里區月眉里福容路201號1樓",
@@ -6869,7 +6869,7 @@
     {
       "name": "蜜境 MiJing | 預約制，無預約可現場洽詢 |",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "外埔區",
+      "area": "外埔",
       "rating": 4.8,
       "reviews": 756,
       "address": "438台灣台中市外埔区三崁里438",
@@ -6884,7 +6884,7 @@
     {
       "name": "啡帆柴燒景觀餐廳 Sailboat Club Cafe （停車場在餐廳對向馬路邊）",
       "description": "中式餐廳，在地美味",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.8,
       "reviews": 695,
       "address": "434台灣臺中市沙鹿區西屯路四段388號",
@@ -6899,7 +6899,7 @@
     {
       "name": "偷鍋野菜放題王田店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.8,
       "reviews": 577,
       "address": "432台灣臺中市大肚區王田里沙田路一段148之1號",
@@ -6914,7 +6914,7 @@
     {
       "name": "哈囉！邦查(Ciao PangCAH ) 梨山店· 原民義式料理/無訂位服務",
       "description": "",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.8,
       "reviews": 682,
       "address": "424台灣臺中市和平區梨山里中正路78-1號",
@@ -7072,7 +7072,7 @@
     {
       "name": "勳大牛肉麵（德化店）",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.7,
       "reviews": 1246,
       "categories": [
@@ -7100,7 +7100,7 @@
     {
       "name": "怒騾子牛肉麵",
       "description": "招牌牛肉麵味道鮮美, 人氣餐廳深受喜愛。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.7,
       "reviews": 1360,
       "categories": [
@@ -7114,7 +7114,7 @@
     {
       "name": "Bacitali 小義大利",
       "description": "精緻的歐式餐廳，提供經典義大利菜餚，設戶外用餐區和舒適的花園。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 5363,
       "categories": [
@@ -7128,7 +7128,7 @@
     {
       "name": "阿杜皇家泰式料理 (台中沙鹿店) ｜台中必吃泰式料理｜人氣泰式｜家庭聚餐｜沙鹿餐廳",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 3008,
       "categories": [
@@ -7156,7 +7156,7 @@
     {
       "name": "Roundabout Cafe 圓環咖啡《梅川店》",
       "description": "提供多樣化的咖啡選擇，讓人驚喜。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 658,
       "categories": [
@@ -7254,7 +7254,7 @@
     {
       "name": "州冰棍｜全安堂 夏天賣刨冰，冬天買雞湯（熱食商品預計10月回歸",
       "description": "夏季刨冰，冬季雞湯，超人氣甜品及熱食。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 2376,
       "categories": [
@@ -7296,7 +7296,7 @@
     {
       "name": "菜菜園（滿菜園）蔬香滷味麻辣燙（豐原豐東國中店）素食 蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 116,
       "categories": [
@@ -7310,7 +7310,7 @@
     {
       "name": "蔬心蔬食·素食/鍋燒麵/飯捲/炸物(最後內用13:00/19:00)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.7,
       "reviews": 93,
       "categories": [
@@ -7324,7 +7324,7 @@
     {
       "name": "菜大蔬 菜菜補給站/ 素食早午餐/ 海苔御飯糰おにぎり/ 熱壓吐司/ 鍋燒.雞絲.冬粉.烏龍麵/ 咖哩飯/泰式.沙茶.麻辣/Vegetarian Food",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 600,
       "categories": [
@@ -7338,7 +7338,7 @@
     {
       "name": "植楐蔬食Vegetarian",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 231,
       "categories": [
@@ -7352,7 +7352,7 @@
     {
       "name": "Vegan Cafe Kiu",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.7,
       "reviews": 62,
       "categories": [
@@ -7366,7 +7366,7 @@
     {
       "name": "cafe vegan terrace/カフェヴィーガンテラス/vegan.glutenfree.vegetarian",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.7,
       "reviews": 376,
       "categories": [
@@ -7408,7 +7408,7 @@
     {
       "name": "黑狗阿北的肉粽店",
       "description": "招牌肉粽口感扎實，傳遞家鄉的味道",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 111,
       "categories": [
@@ -7422,7 +7422,7 @@
     {
       "name": "子是燒肉/大里美食/台日便當/排骨飯燒肉飯/會議外送/團訂服務",
       "description": "招牌排骨飯與燒肉飯，提供會議外送與團訂服務的人氣美食。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 595,
       "categories": [
@@ -7450,7 +7450,7 @@
     {
       "name": "新社阿婆杏鮑菇",
       "description": "新社古堡對面阿婆杏鮑菇炸杏鮑菇和烤杏鮑菇香腸皮薄厚實脆甜",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.7,
       "reviews": 660,
       "categories": [
@@ -7464,7 +7464,7 @@
     {
       "name": "1001手作廚房",
       "description": "用心製作的台菜，讓每一口都充滿手作的溫暖。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 574,
       "categories": [
@@ -7478,7 +7478,7 @@
     {
       "name": "森林小徑 大墩店",
       "description": "裝潢時髦的素雅餐廳，供應各種西式料理、甜點和咖啡。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 2626,
       "categories": [
@@ -7492,7 +7492,7 @@
     {
       "name": "藝奇 台中國安店",
       "description": "精緻的中式菜品，深受食客喜愛的美食天堂。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 7135,
       "categories": [
@@ -7506,7 +7506,7 @@
     {
       "name": "拾玖號餐廳",
       "description": "中式和台菜的完美融合，讓食客流連忘返。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 574,
       "categories": [
@@ -7520,7 +7520,7 @@
     {
       "name": "雲太閒茶館",
       "description": "提供優質咖啡和輕鬆氛圍，吸引眾多顧客，超人氣。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 4317,
       "categories": [
@@ -7534,7 +7534,7 @@
     {
       "name": "水森水產",
       "description": "附設戶外座位區的悠閒餐廳，供應時令海鮮料理、壽司、生魚片和火鍋。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 5382,
       "categories": [
@@ -7548,7 +7548,7 @@
     {
       "name": "嵐山熟成牛かつ專売-南屯大墩店 炸牛排 浮誇丼飯 漢堡排專賣店 旁有收費停車場 《浮誇系大布丁請於營業時間來電預訂》",
       "description": "賣-南屯大墩店，浮誇系炸牛排和丼飯，甜品也不可錯過，超人氣。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 10163,
       "categories": [
@@ -7604,7 +7604,7 @@
     {
       "name": "陶板屋 大里德芳南店",
       "description": "招牌中式台菜，超人氣，豐富的菜色讓人每次都想再來。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 11082,
       "categories": [
@@ -7618,7 +7618,7 @@
     {
       "name": "大朴食堂대박식당",
       "description": "招牌中式台菜, 口味道地人氣十足",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 316,
       "categories": [
@@ -7632,7 +7632,7 @@
     {
       "name": "八虎食堂 大雅店",
       "description": "招牌台菜口味多樣，超人氣，讓每位食客都滿意而歸。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 4295,
       "categories": [
@@ -7646,7 +7646,7 @@
     {
       "name": "柒玥食堂",
       "description": "提供創意台菜，雖評論數不多，但每道菜都值得一試。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 357,
       "categories": [
@@ -7660,7 +7660,7 @@
     {
       "name": "老灣記-平價鍋物",
       "description": "平價鍋物讓人心動，人氣餐廳，適合與家人朋友共享美好時光。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 1117,
       "categories": [
@@ -7674,7 +7674,7 @@
     {
       "name": "阿松担仔麵",
       "description": "",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 693,
       "categories": [
@@ -7688,7 +7688,7 @@
     {
       "name": "六九八品真園",
       "description": "",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 212,
       "categories": [
@@ -7702,7 +7702,7 @@
     {
       "name": "本一艸堂",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.7,
       "reviews": 259,
       "categories": [
@@ -7716,7 +7716,7 @@
     {
       "name": "宇良食（沙鹿店）",
       "description": "超人氣招牌，廣受食客喜愛，提供多樣化的中式台菜選擇。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 6634,
       "categories": [
@@ -7730,7 +7730,7 @@
     {
       "name": "十勝嵐咖哩 - 台中 沙鹿 必吃咖哩飯推薦 人氣丼飯首選 沙鹿特色小吃 炒飯 丼飯 沙鹿美食 外送 熱門蛋包飯 特色必吃 高cp值料理 平價美食 外帶美食",
       "description": "人氣咖哩飯與特色蛋包飯, 高cp值的選擇讓人一試成主顧。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 1722,
       "categories": [
@@ -7744,7 +7744,7 @@
     {
       "name": "府壽司 MIYAKO sushi",
       "description": "｜新鮮日式壽司，人氣餐廳，口味多樣化，滿足壽司愛好者的需求。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 1290,
       "categories": [
@@ -7758,7 +7758,7 @@
     {
       "name": "湯棧 中清店",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 10507,
       "categories": [
@@ -7772,7 +7772,7 @@
     {
       "name": "灰鴿/鍋（南屯店）",
       "description": "現代風火鍋餐廳，提供海鮮、肉類拼盤及美味湯頭。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 4751,
       "categories": [
@@ -8206,7 +8206,7 @@
     {
       "name": "逢甲小8三色地瓜球",
       "description": "色彩繽紛的地瓜球，外脆內軟，口感豐富",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 386,
       "categories": [
@@ -8220,7 +8220,7 @@
     {
       "name": "莫果韓式飯捲",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 690,
       "categories": [
@@ -8248,7 +8248,7 @@
     {
       "name": "真珠-台灣佳味 台中文心店",
       "description": "人氣美食，經典台灣小吃的代表。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 1398,
       "categories": [
@@ -8262,7 +8262,7 @@
     {
       "name": "香蕉葉 台中文心店",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 1359,
       "categories": [
@@ -8305,7 +8305,7 @@
     {
       "name": "南門礄",
       "description": "傳統小吃，口味多樣，深受食客喜愛。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 187,
       "categories": [
@@ -8319,7 +8319,7 @@
     {
       "name": "芯滋嵐拉麵-台中大里店",
       "description": "人氣日式拉麵，濃郁湯頭搭配彈牙麵條，讓人回味無窮。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 1402,
       "categories": [
@@ -8333,7 +8333,7 @@
     {
       "name": "粥狂（創意海鮮粥品）",
       "description": "粥狂，創意海鮮粥品，口感豐富，讓人驚喜的美味。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 2875,
       "categories": [
@@ -8347,7 +8347,7 @@
     {
       "name": "吾哩吾意(豐原美食/咖喱飯/丼飯/炒飯/歡迎外帶)",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 229,
       "categories": [
@@ -8361,7 +8361,7 @@
     {
       "name": "DIDI DOMO複合式餐飲咖啡店",
       "description": "專注於優質咖啡與茶品，人氣咖啡喫茶選擇。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.7,
       "reviews": 471,
       "categories": [
@@ -8375,7 +8375,7 @@
     {
       "name": "喬巴咖啡",
       "description": "咖啡與甜點的完美搭配，人氣咖啡喫茶店。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.7,
       "reviews": 271,
       "categories": [
@@ -8389,7 +8389,7 @@
     {
       "name": "小二哥麵館",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.7,
       "reviews": 141,
       "categories": [
@@ -8403,7 +8403,7 @@
     {
       "name": "尚石苑石頭火鍋-沙鹿店",
       "description": "平實的餐廳，在寧靜的用餐空間中供應日式火鍋。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 3997,
       "categories": [
@@ -8417,7 +8417,7 @@
     {
       "name": "長疆羊肉爐沙鹿店目前 5/1號到8/7號放暑假中ㄛ～-沙鹿必吃羊肉爐|人氣鍋物|熱門鍋物|平價火鍋|羊肉爐推薦|在地推薦羊肉爐|羊肉爐首選|聚餐餐廳",
       "description": "平價羊肉爐，肉質鮮嫩，聚餐首選，人氣羊肉爐店。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 115,
       "categories": [
@@ -8459,7 +8459,7 @@
     {
       "name": "松居若水蔬食庭園餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 1063,
       "categories": [
@@ -8473,7 +8473,7 @@
     {
       "name": "甘心的媽健康蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 166,
       "categories": [
@@ -8487,7 +8487,7 @@
     {
       "name": "DOUZO蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 605,
       "categories": [
@@ -8501,7 +8501,7 @@
     {
       "name": "重慶素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.7,
       "reviews": 280,
       "categories": [
@@ -8515,7 +8515,7 @@
     {
       "name": "植素拾光素食無國界料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 758,
       "categories": [
@@ -8529,7 +8529,7 @@
     {
       "name": "胖荷包素食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 153,
       "categories": [
@@ -8543,7 +8543,7 @@
     {
       "name": "呷菜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 62,
       "categories": [
@@ -8557,7 +8557,7 @@
     {
       "name": "天慈素食旗艦店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 296,
       "categories": [
@@ -8571,7 +8571,7 @@
     {
       "name": "鑫鮮素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 60,
       "categories": [
@@ -8585,7 +8585,7 @@
     {
       "name": "樂活蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.7,
       "reviews": 231,
       "categories": [
@@ -8599,7 +8599,7 @@
     {
       "name": "向陽蔬食飲料Bar",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 92,
       "categories": [
@@ -8613,7 +8613,7 @@
     {
       "name": "妙膳素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 38,
       "categories": [
@@ -8627,7 +8627,7 @@
     {
       "name": "晴菘 蔬食食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.7,
       "reviews": 40,
       "categories": [
@@ -8641,7 +8641,7 @@
     {
       "name": "勿忘我蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.7,
       "reviews": 178,
       "categories": [
@@ -8655,7 +8655,7 @@
     {
       "name": "順心素食館Tinh Tam Chay",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 190,
       "categories": [
@@ -8669,7 +8669,7 @@
     {
       "name": "雅徠屋素食麵包坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 80,
       "categories": [
@@ -8683,7 +8683,7 @@
     {
       "name": "菩提禪素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.7,
       "reviews": 173,
       "categories": [
@@ -8697,7 +8697,7 @@
     {
       "name": "禾益蔬食-沙鹿蔬食料理|蔬食餐廳|素食美食|健康蔬食|特色蔬食|蔬食拌麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 72,
       "categories": [
@@ -8711,7 +8711,7 @@
     {
       "name": "一心蔬食專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 150,
       "categories": [
@@ -8725,7 +8725,7 @@
     {
       "name": "蔬食炸物鹹酥ㄐ",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 192,
       "categories": [
@@ -8739,7 +8739,7 @@
     {
       "name": "正味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.7,
       "reviews": 314,
       "categories": [
@@ -8753,7 +8753,7 @@
     {
       "name": "素食手工麵線（無內用、無外送）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.7,
       "reviews": 66,
       "categories": [
@@ -8767,7 +8767,7 @@
     {
       "name": "素食 x 自然齋 x 冷凍水餃 x 東海經銷點",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.7,
       "reviews": 7,
       "categories": [
@@ -8781,7 +8781,7 @@
     {
       "name": "斐得蔬食 花巷疏香樓",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.7,
       "reviews": 846,
       "categories": [
@@ -8795,7 +8795,7 @@
     {
       "name": "梧棲善緣坊素食(大甲店)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.7,
       "reviews": 3,
       "categories": [
@@ -8809,7 +8809,7 @@
     {
       "name": "兔子遇到熊little oven 景觀/義大利麵/窯烤披薩-北屯蔬食餐廳|素食美食|義大利麵推薦|蔬食料理|特色蔬食|必吃素食|寵物友善餐廳|窯烤披薩",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 1033,
       "categories": [
@@ -8823,7 +8823,7 @@
     {
       "name": "一貫米 蔬食料理（壽司、烏龍麵、涼麵）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.7,
       "reviews": 286,
       "categories": [
@@ -8837,7 +8837,7 @@
     {
       "name": "芬香素食早午晚餐店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 17,
       "categories": [
@@ -8851,7 +8851,7 @@
     {
       "name": "彌樂蔬食早餐店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 24,
       "categories": [
@@ -8865,7 +8865,7 @@
     {
       "name": "光慧蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 86,
       "categories": [
@@ -8879,7 +8879,7 @@
     {
       "name": "得來素蔬食早午餐-大里現岱店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.7,
       "reviews": 206,
       "categories": [
@@ -8893,7 +8893,7 @@
     {
       "name": "誠馨緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.7,
       "reviews": 22,
       "categories": [
@@ -8907,7 +8907,7 @@
     {
       "name": "世界幸福咖啡豐原店（蔬食咖啡）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.7,
       "reviews": 186,
       "categories": [
@@ -8921,7 +8921,7 @@
     {
       "name": "二媽素食麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.7,
       "reviews": 93,
       "categories": [
@@ -8935,7 +8935,7 @@
     {
       "name": "開心農場素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 614,
       "categories": [
@@ -8949,7 +8949,7 @@
     {
       "name": "撒福豆無麩質蔬食餐廳-忠孝店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1169,
       "categories": [
@@ -8963,7 +8963,7 @@
     {
       "name": "品嘉茶餐廳 北屯店",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 10278,
       "address": "406台灣臺中市北屯區平福里熱河路二段220號",
@@ -8978,7 +8978,7 @@
     {
       "name": "248烤肉飯 昌平店 | 北屯美食 | 現烤 ｜台中必吃｜",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 1069,
       "address": "406台灣臺中市北屯區平福里崇德二路二段55號",
@@ -8993,7 +8993,7 @@
     {
       "name": "19House炙燒牛排太平店",
       "description": "排餐餐廳，主廚精選",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 6951,
       "address": "411台灣臺中市太平區宜佳里溪洲西路100號",
@@ -9008,7 +9008,7 @@
     {
       "name": "尚石苑石頭火鍋-太平店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 1438,
       "address": "411台灣臺中市太平區新興里樹德路303號",
@@ -9023,7 +9023,7 @@
     {
       "name": "吉品鐵板燒-台中太平中山店",
       "description": "日式料理餐廳",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.7,
       "reviews": 3563,
       "address": "411台灣臺中市太平區新高里中山路四段82-2號",
@@ -9038,7 +9038,7 @@
     {
       "name": "梧樂食光 | 創作料理 We Love Cuisine（週一、二公休）",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.7,
       "reviews": 646,
       "address": "435台灣臺中市梧棲區南簡里大仁路一段11號",
@@ -9053,7 +9053,7 @@
     {
       "name": "宇良食2.0 （梧棲店）",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.7,
       "reviews": 1414,
       "address": "435台灣臺中市梧棲區大庄里台灣大道八段906號",
@@ -9068,7 +9068,7 @@
     {
       "name": "絕品鮮鍋-梧棲店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.7,
       "reviews": 1865,
       "address": "435台灣臺中市梧棲區安仁里文化路二段63號",
@@ -9083,7 +9083,7 @@
     {
       "name": "席拉米主題餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.7,
       "reviews": 544,
       "address": "435台灣臺中市梧棲區南簡里大智路一段1060號停車場進入。",
@@ -9098,7 +9098,7 @@
     {
       "name": "豪品鐵板燒 烏日店",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.7,
       "reviews": 2479,
       "address": "414台灣臺中市烏日區仁德里光德路309號",
@@ -9113,7 +9113,7 @@
     {
       "name": "石岡水舍 蝦蝦飯主題餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.7,
       "reviews": 633,
       "address": "422台灣臺中市石岡區石岡里石城街47-1號",
@@ -9128,7 +9128,7 @@
     {
       "name": "惹鍋The Guo Pot大肚店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.7,
       "reviews": 583,
       "address": "432台灣臺中市大肚區頂街里榮華街42號",
@@ -9143,7 +9143,7 @@
     {
       "name": "SiZZO 款款好食｜台中唯一潛水觀景窗餐廳｜特色餐廳｜",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.7,
       "reviews": 504,
       "address": "407台灣臺中市西屯區協和里安和西路69號1樓",
@@ -9158,7 +9158,7 @@
     {
       "name": "松川餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.7,
       "reviews": 597,
       "address": "424102台灣臺中市和平區博愛里東關路一段裡冷巷56號",
@@ -9173,7 +9173,7 @@
     {
       "name": "烏龍麵所 潭子店",
       "description": "日式料理餐廳",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.7,
       "reviews": 1460,
       "address": "427229台灣臺中市潭子區潭陽里福潭路480號",
@@ -9188,7 +9188,7 @@
     {
       "name": "采色麵疙瘩店（總店）",
       "description": "麵食專賣店，湯頭講究",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.7,
       "reviews": 612,
       "address": "427台灣臺中市潭子區嘉仁里福潭路575號",
@@ -9248,7 +9248,7 @@
     {
       "name": "有沒有牛肉麵台中西屯店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 751,
       "categories": [
@@ -9276,7 +9276,7 @@
     {
       "name": "阿康古法牛肉麵｜大里美食｜大里麵食｜",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 301,
       "categories": [
@@ -9290,7 +9290,7 @@
     {
       "name": "吉祥蔬食現炒店（純素、無五辛）/北屯必吃素食/大坑口必吃素食/素食現炒CP值最高 /「維根主義（Vegan）」/台中市必吃蔬食/心懷感恩/東山路素食/穿在天津/吃在北平/全素猴頭菇/客家素食料理/蔬食餐廳性價比最高/聯安醫院/寵物友善餐廳/",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 79,
       "categories": [
@@ -9304,7 +9304,7 @@
     {
       "name": "布洛思廚PURO taverna",
       "description": "提供多樣化的台菜選擇, 每道料理都充滿家鄉的味道。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 723,
       "categories": [
@@ -9332,7 +9332,7 @@
     {
       "name": "BUBU ART CAFE 橘子布藝術咖啡（台中審計店）",
       "description": "啡, 藝術氛圍濃厚的咖啡館，適合藝術愛好者聚會。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.6,
       "reviews": 334,
       "categories": [
@@ -9360,7 +9360,7 @@
     {
       "name": "一品園 客家菜&平價現炒 （東勢美食）",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.6,
       "reviews": 540,
       "categories": [
@@ -9374,7 +9374,7 @@
     {
       "name": "將滋 Just bakery（每日售完為止）",
       "description": "招牌美食日日限量，讓人期待每次的美味享受。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.6,
       "reviews": 253,
       "categories": [
@@ -9388,7 +9388,7 @@
     {
       "name": "頤陞蔬食坊 - 台中龍井健康蔬食簡餐｜咖啡飲品",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.6,
       "reviews": 45,
       "categories": [
@@ -9402,7 +9402,7 @@
     {
       "name": "嘉義李火雞肉飯 大里店",
       "description": "大里店，招牌火雞肉飯，受歡迎的台式美食。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 670,
       "categories": [
@@ -9444,7 +9444,7 @@
     {
       "name": "邱家涼麵",
       "description": "清爽可口的涼麵，適合夏季消暑的最佳選擇。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 154,
       "categories": [
@@ -9472,7 +9472,7 @@
     {
       "name": "暖谷莊園-台中外燴/西式外燴/茶點餐會",
       "description": "提供精緻西式外燴，適合各種聚會的高端選擇。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 2266,
       "categories": [
@@ -9486,7 +9486,7 @@
     {
       "name": "吃。東西",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 1589,
       "categories": [
@@ -9500,7 +9500,7 @@
     {
       "name": "叁食初私房菜",
       "description": "明亮低調的餐廳，供應輕食和套餐，以及以桌面爐台烹煮的台式火鍋。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 3015,
       "categories": [
@@ -9514,7 +9514,7 @@
     {
       "name": "V Di JA 餐廳",
       "description": "裝潢溫馨的質樸餐廳，供應義式創新融合料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.6,
       "reviews": 966,
       "categories": [
@@ -9626,7 +9626,7 @@
     {
       "name": "小日子和風食堂",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 618,
       "categories": [
@@ -9640,7 +9640,7 @@
     {
       "name": "食久。茶事",
       "description": "小巧的波希米亞風咖啡廳，供應有機茶飲、豐盛的異國料理和經典甜點，並設有庭院。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 1094,
       "categories": [
@@ -9654,7 +9654,7 @@
     {
       "name": "品心港式飲茶 大里店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 11594,
       "categories": [
@@ -9668,7 +9668,7 @@
     {
       "name": "五樂小食",
       "description": "供應多樣台菜小吃，人氣不斷，讓你每次都有新驚喜。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.6,
       "reviews": 448,
       "categories": [
@@ -9682,7 +9682,7 @@
     {
       "name": "上楓麵店",
       "description": "招牌麵品新鮮可口，深受食客讚譽。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.6,
       "reviews": 1049,
       "categories": [
@@ -9696,7 +9696,7 @@
     {
       "name": "晉文樂廚/晉文酒吧 預約制 /美食/餐廳/晚餐/餐酒館/聚餐/包場",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.6,
       "reviews": 972,
       "categories": [
@@ -9710,7 +9710,7 @@
     {
       "name": "️朝朝暮暮招待所《行前請看停車資訊喔ℹ️無預約、現金付款、寵物友善、人生休息站》",
       "description": "朝朝暮暮招待所，無預約及寵物友善，適合休息放鬆的理想場所，餐點新鮮美味。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.6,
       "reviews": 403,
       "categories": [
@@ -9724,7 +9724,7 @@
     {
       "name": "坂街",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.6,
       "reviews": 350,
       "categories": [
@@ -9738,7 +9738,7 @@
     {
       "name": "魚川壽司（台中沙鹿美食必吃餐廳推薦／台中日式料理／台中平價生魚片壽司丼飯）",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 229,
       "categories": [
@@ -9752,7 +9752,7 @@
     {
       "name": "太鼓TAIKO",
       "description": "以傳統台菜為主打, 每道菜品都展現出精緻的烹飪技藝。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 2658,
       "categories": [
@@ -9766,7 +9766,7 @@
     {
       "name": "青海牛肉麵",
       "description": "專注於牛肉麵的濃郁湯頭，口感滑順，深受食客喜愛。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 639,
       "categories": [
@@ -9808,7 +9808,7 @@
     {
       "name": "拾鑶鍋物太平店",
       "description": "人氣火鍋，提供豐富的食材選擇，讓你一次滿足火鍋 cravings。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.6,
       "reviews": 1920,
       "categories": [
@@ -9822,7 +9822,7 @@
     {
       "name": "久違石頭火鍋逢甲店（收客至20:30）",
       "description": "色彩繽紛的火鍋餐廳，供應以桌面爐台烹煮的肉類和海鮮餐點。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 3730,
       "categories": [
@@ -9906,7 +9906,7 @@
     {
       "name": "Raven Coffee 逢甲店｜台中咖啡廳",
       "description": "招牌咖啡喫茶，環境優雅，適合悠閒聚會。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 784,
       "categories": [
@@ -10186,7 +10186,7 @@
     {
       "name": "老乾杯 台中市政店",
       "description": "供應烤牛肉、海鮮和烤豬肉料理的休閒餐廳。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 2700,
       "categories": [
@@ -10214,7 +10214,7 @@
     {
       "name": "凱恩斯岩燒牛排 台中文心店 (最後供餐時間為20:00）",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 9326,
       "categories": [
@@ -10312,7 +10312,7 @@
     {
       "name": "萬華甜不辣",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 589,
       "categories": [
@@ -10326,7 +10326,7 @@
     {
       "name": "Mr.38 咖哩美食餐廳（逢甲店）",
       "description": "超人氣咖哩料理口味多樣, 深受廣大食客喜愛。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 6450,
       "categories": [
@@ -10424,7 +10424,7 @@
     {
       "name": "杉盒便當製所 大里店",
       "description": "精緻中式便當，色香味俱全，讓人每餐都想光顧。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 1006,
       "categories": [
@@ -10438,7 +10438,7 @@
     {
       "name": "三豐小吃部",
       "description": "提供多樣小吃，精緻口味讓人念念不忘，是夜市裡的不錯選擇。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.6,
       "reviews": 237,
       "categories": [
@@ -10453,7 +10453,7 @@
     {
       "name": "一福味麵食館 東勢美食「當天才可電話預訂」（11:15）後打_會依現場狀況接聽",
       "description": "招牌麵食需提前預訂, 人氣美食吸引眾多食客光臨。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.6,
       "reviews": 1845,
       "categories": [
@@ -10467,7 +10467,7 @@
     {
       "name": "羅記 清涼半世紀 粉圓冰 四月到十月",
       "description": "夏季必嘗的冰品，清爽可口，深受歡迎。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.6,
       "reviews": 354,
       "categories": [
@@ -10495,7 +10495,7 @@
     {
       "name": "第四橫街那家",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.6,
       "reviews": 242,
       "categories": [
@@ -10509,7 +10509,7 @@
     {
       "name": "滔月景觀咖啡廳",
       "description": "享受美味咖啡與美麗景觀，讓你的午後時光更加悠閒。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 1735,
       "categories": [
@@ -10523,7 +10523,7 @@
     {
       "name": "卯食 mouth 沙鹿店",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 816,
       "categories": [
@@ -10537,7 +10537,7 @@
     {
       "name": "蠔膽你來",
       "description": "超人氣的蠔類小吃，讓你一次滿足海鮮的渴望。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 5498,
       "categories": [
@@ -10551,7 +10551,7 @@
     {
       "name": "順伯粉腸",
       "description": "夜市經典小吃，粉腸香氣撲鼻，讓人一吃成主顧，受到廣大食客喜愛。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 170,
       "categories": [
@@ -10566,7 +10566,7 @@
     {
       "name": "巷弄茉莉 Molly-台中大甲店",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 338,
       "categories": [
@@ -10580,7 +10580,7 @@
     {
       "name": "Oh 莫！韓式料理 大甲店-大甲韓式料理|特色餐廳|人氣餐廳|在地推薦餐廳|韓式烤肉|鎮瀾宮美食",
       "description": "大甲韓式烤肉為主打，人氣餐廳值得一訪。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 518,
       "categories": [
@@ -10594,7 +10594,7 @@
     {
       "name": "峰之饌複合式餐廳",
       "description": "小吃與多樣菜系，超人氣聚餐好去處。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.6,
       "reviews": 3191,
       "categories": [
@@ -10608,7 +10608,7 @@
     {
       "name": "海食堂",
       "description": "海鮮小吃新鮮美味，吸引食客一再回訪的好地方。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.6,
       "reviews": 319,
       "categories": [
@@ -10622,7 +10622,7 @@
     {
       "name": "珍饌複合式餐飲",
       "description": "小吃與夜市美食的絕佳搭配，讓人流連忘返。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.6,
       "reviews": 327,
       "categories": [
@@ -10636,7 +10636,7 @@
     {
       "name": "小胖鮮鍋（霧峰店）",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.6,
       "reviews": 3042,
       "categories": [
@@ -10692,7 +10692,7 @@
     {
       "name": "小莉川味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 351,
       "categories": [
@@ -10706,7 +10706,7 @@
     {
       "name": "大慈天然素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 1474,
       "categories": [
@@ -10720,7 +10720,7 @@
     {
       "name": "萬仙樓素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 568,
       "categories": [
@@ -10734,7 +10734,7 @@
     {
       "name": "蔬想起蔬食料理 素食(以單點為主，不定期推出新品）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 424,
       "categories": [
@@ -10748,7 +10748,7 @@
     {
       "name": "大光明健康養生蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 154,
       "categories": [
@@ -10762,7 +10762,7 @@
     {
       "name": "南屯素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.6,
       "reviews": 448,
       "categories": [
@@ -10776,7 +10776,7 @@
     {
       "name": "饗食拉麵•質感無肉專門店素食·停車自費",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.6,
       "reviews": 2955,
       "categories": [
@@ -10790,7 +10790,7 @@
     {
       "name": "雀珍素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.6,
       "reviews": 112,
       "categories": [
@@ -10804,7 +10804,7 @@
     {
       "name": "芸芸蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.6,
       "reviews": 12,
       "categories": [
@@ -10818,7 +10818,7 @@
     {
       "name": "稻香、悟空池上蔬食便當",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.6,
       "reviews": 171,
       "categories": [
@@ -10832,7 +10832,7 @@
     {
       "name": "植界蔬食大里店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 60,
       "categories": [
@@ -10846,7 +10846,7 @@
     {
       "name": "在廚房蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 763,
       "categories": [
@@ -10860,7 +10860,7 @@
     {
       "name": "何家健康素食（大里店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 194,
       "categories": [
@@ -10874,7 +10874,7 @@
     {
       "name": "小回向素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 100,
       "categories": [
@@ -10888,7 +10888,7 @@
     {
       "name": "樂樂蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.6,
       "reviews": 94,
       "categories": [
@@ -10902,7 +10902,7 @@
     {
       "name": "烏日溪南素食早午餐（天一素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.6,
       "reviews": 37,
       "categories": [
@@ -10916,7 +10916,7 @@
     {
       "name": "新穎蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.6,
       "reviews": 19,
       "categories": [
@@ -10930,7 +10930,7 @@
     {
       "name": "青山素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.6,
       "reviews": 359,
       "categories": [
@@ -10944,7 +10944,7 @@
     {
       "name": "新社山沐斯達蔬食餐廳民宿",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.6,
       "reviews": 706,
       "categories": [
@@ -10958,7 +10958,7 @@
     {
       "name": "草緣齋素食6/24店休一天",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.6,
       "reviews": 154,
       "categories": [
@@ -10972,7 +10972,7 @@
     {
       "name": "原田蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.6,
       "reviews": 172,
       "categories": [
@@ -10986,7 +10986,7 @@
     {
       "name": "吉棧素食大雅店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.6,
       "reviews": 218,
       "categories": [
@@ -11000,7 +11000,7 @@
     {
       "name": "大雅至善園素食餐廳（需預約）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.6,
       "reviews": 38,
       "categories": [
@@ -11014,7 +11014,7 @@
     {
       "name": "慶宗-素食臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.6,
       "reviews": 115,
       "categories": [
@@ -11028,7 +11028,7 @@
     {
       "name": "樂活健康素食園",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.6,
       "reviews": 16,
       "categories": [
@@ -11042,7 +11042,7 @@
     {
       "name": "品齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.6,
       "reviews": 37,
       "categories": [
@@ -11056,7 +11056,7 @@
     {
       "name": "釀味屋(素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 119,
       "categories": [
@@ -11070,7 +11070,7 @@
     {
       "name": "驛泰豐素食滷味-龍井必吃滷味|沙鹿素食滷味|特色滷味|素食美食|外帶素食|熱門滷味|人氣麻辣滷味|巷弄美食|在地推薦滷味|好吃蛋奶素",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.6,
       "reviews": 90,
       "categories": [
@@ -11084,7 +11084,7 @@
     {
       "name": "銅板蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.6,
       "reviews": 55,
       "categories": [
@@ -11098,7 +11098,7 @@
     {
       "name": "慈心素食-梧棲區",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.6,
       "reviews": 34,
       "categories": [
@@ -11112,7 +11112,7 @@
     {
       "name": "福慧素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.6,
       "reviews": 25,
       "categories": [
@@ -11126,7 +11126,7 @@
     {
       "name": "大秀素食早餐店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.6,
       "reviews": 128,
       "categories": [
@@ -11140,7 +11140,7 @@
     {
       "name": "匯禾養生素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 233,
       "categories": [
@@ -11154,7 +11154,7 @@
     {
       "name": "禾日蔬食 （店休日請看FB、官方Line）打烊前 30 分鐘停止接待內用",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 160,
       "categories": [
@@ -11168,7 +11168,7 @@
     {
       "name": "大甲素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 50,
       "categories": [
@@ -11182,7 +11182,7 @@
     {
       "name": "樂樂素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 52,
       "categories": [
@@ -11196,7 +11196,7 @@
     {
       "name": "花悅蔬香｜素食火鍋｜全素",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 374,
       "categories": [
@@ -11210,7 +11210,7 @@
     {
       "name": "植饗天糰Vegan目前暫時無店面，請看簡介",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 11,
       "categories": [
@@ -11224,7 +11224,7 @@
     {
       "name": "一葉方舟 | 私房純素蔬食料理 | 創始店 | 台中蔬食餐廳 | 炒飯 | 餐盒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 108,
       "categories": [
@@ -11238,7 +11238,7 @@
     {
       "name": "一點心蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 186,
       "categories": [
@@ -11252,7 +11252,7 @@
     {
       "name": "清金緣蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.6,
       "reviews": 229,
       "categories": [
@@ -11266,7 +11266,7 @@
     {
       "name": "福恩素食（原天慈）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.6,
       "reviews": 280,
       "categories": [
@@ -11280,7 +11280,7 @@
     {
       "name": "一齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.6,
       "reviews": 64,
       "categories": [
@@ -11294,7 +11294,7 @@
     {
       "name": "清晨什光蔬食早餐（最後點餐時間請在打烊時間前30分鐘）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.6,
       "reviews": 64,
       "categories": [
@@ -11308,7 +11308,7 @@
     {
       "name": "閃亮二姐妹蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.6,
       "reviews": 11,
       "categories": [
@@ -11322,7 +11322,7 @@
     {
       "name": "禾作食堂",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 1152,
       "address": "406台灣臺中市北屯區舊社里軍福十九路788號",
@@ -11337,7 +11337,7 @@
     {
       "name": "云如意茶館【台中美食餐廳】【大坑北屯美食餐廳】中式餐廳 | 套餐 | 火鍋 | 麵食",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 1366,
       "address": "406台灣臺中市北屯區廍子里景賢路288號",
@@ -11352,7 +11352,7 @@
     {
       "name": "Mooie 花園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 978,
       "address": "406台灣臺中市北屯區山西路三段161號",
@@ -11367,7 +11367,7 @@
     {
       "name": "燚 (一ˋ)條柴直火料理 Fire 4 Kitchen Lab - 餐酒館",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.6,
       "reviews": 1352,
       "address": "406台灣臺中市北屯區昌平路二段12之15巷57號1樓",
@@ -11382,7 +11382,7 @@
     {
       "name": "小聚哉麻醬館",
       "description": "麵食專賣店，湯頭講究",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.6,
       "reviews": 511,
       "address": "411台灣臺中市太平區新福里中山路四段215號",
@@ -11397,7 +11397,7 @@
     {
       "name": "王爺王肉羹(太平店)古早味魚翅肉羹・滷肉飯專賣/台中太平美食/太平馬卡龍公園美食/restaurants",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.6,
       "reviews": 760,
       "address": "411台灣臺中市太平區新福里中山路四段105號",
@@ -11412,7 +11412,7 @@
     {
       "name": "釿 炘 燒 肉 ｜梧棲｜人氣燒肉｜熱門燒肉｜必吃燒肉｜熱門餐廳｜必吃美食｜推薦餐廳",
       "description": "日式料理餐廳",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.6,
       "reviews": 2493,
       "address": "435台灣臺中市梧棲區草湳里台灣大道九段103號",
@@ -11427,7 +11427,7 @@
     {
       "name": "手工現擀 蒸餃麵食館",
       "description": "麵食專賣店，湯頭講究",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.6,
       "reviews": 570,
       "address": "429台灣臺中市神岡區中山路26號",
@@ -11442,7 +11442,7 @@
     {
       "name": "普羅旺斯庭園餐廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.6,
       "reviews": 643,
       "address": "406台灣臺中市北屯區民德里東山路二段205-1號",
@@ -11457,7 +11457,7 @@
     {
       "name": "鹿寮享自在 台中北屯 大坑新社 景觀餐廳特色飲食 聚餐/旅遊/美食/登山《大坑風景區景觀餐廳》北屯/新社庭園餐廳｜主題餐廳｜特色料理｜熱門｜人氣｜下午茶簡餐",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.6,
       "reviews": 1795,
       "address": "406台灣臺中市北屯區民德里東山路二段207-5號",
@@ -11472,7 +11472,7 @@
     {
       "name": "八廚職人弁当 后里甲后店",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.6,
       "reviews": 609,
       "address": "421台灣臺中市后里區后里里甲后路一段338號",
@@ -11487,7 +11487,7 @@
     {
       "name": "春坂 Harusaka-寵物友善餐廳",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.6,
       "reviews": 552,
       "address": "42151台灣臺中市后里區墩東里民生路218號",
@@ -11502,7 +11502,7 @@
     {
       "name": "時時香RICE BAR_台中麗寶店 (台中后里必吃特色美食／台中麗寶餐廳推薦／台中中式料理家庭聚餐)",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.6,
       "reviews": 1602,
       "address": "421台灣臺中市后里區福容路201號B區1樓",
@@ -11517,7 +11517,7 @@
     {
       "name": "鶴芝庭園餐坊",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.6,
       "reviews": 569,
       "address": "424台灣臺中市和平區博愛里東關路一段松鶴三巷69號",
@@ -11577,7 +11577,7 @@
     {
       "name": "重慶店-小眷村牛肉麵 |台中人氣牛肉麵 |西屯必吃牛肉麵| 眷村美食| 中央公園美食推薦",
       "description": "台中人氣牛肉麵，肉質鮮嫩，湯頭香醇，讓人一試成主顧。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 504,
       "categories": [
@@ -11605,7 +11605,7 @@
     {
       "name": "新口味爌肉飯（阿達爌肉飯）",
       "description": "爌肉飯的美味升級，讓你體驗不一樣的口感。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 607,
       "categories": [
@@ -11619,7 +11619,7 @@
     {
       "name": "星饗道國際自助餐 In Sky International Buffet",
       "description": "超人氣自助餐，豐富的選擇與無限的口味。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 9984,
       "categories": [
@@ -11633,7 +11633,7 @@
     {
       "name": "Return 迴鮭",
       "description": "氣氛悠閒的小巧餐廳，供應法式料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 760,
       "categories": [
@@ -11689,7 +11689,7 @@
     {
       "name": "豬對有韓式烤肉吃到飽 台中逢甲店",
       "description": "附有工業風用餐區的時髦餐廳，供應韓式燒肉餐點。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 6126,
       "categories": [
@@ -11731,7 +11731,7 @@
     {
       "name": "炙肉高手-台中逢甲店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 2003,
       "categories": [
@@ -11745,7 +11745,7 @@
     {
       "name": "湯香滿屋雞湯《雞湯推薦》沙鹿區雞湯專賣｜必吃雞湯粥｜人氣小吃｜平價料理｜熱門｜特色｜好喝",
       "description": "必吃雞湯粥，人氣小吃，讓你品味到家的溫暖。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 154,
       "categories": [
@@ -11759,7 +11759,7 @@
     {
       "name": "MITAKA 3e CAFE",
       "description": "人氣咖啡與甜點的完美結合，適合休閒聚會。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 2763,
       "categories": [
@@ -11773,7 +11773,7 @@
     {
       "name": "大甲阿富小籠湯包",
       "description": "鮮美湯汁藏於薄皮之中，令人回味無窮。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 306,
       "categories": [
@@ -11787,7 +11787,7 @@
     {
       "name": "玩素生活Wanna VEGSelect/素食·咖啡·空間",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.5,
       "reviews": 1377,
       "categories": [
@@ -11801,7 +11801,7 @@
     {
       "name": "UncleQ by Veganday 純植創意料理餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1063,
       "categories": [
@@ -11857,7 +11857,7 @@
     {
       "name": "廟東川代菱角酥",
       "description": "外酥內軟的菱角酥，香氣四溢，深受食客喜愛的人氣小吃。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 2653,
       "categories": [
@@ -11871,7 +11871,7 @@
     {
       "name": "純米古早味碗粿/ 大腸麵線/ 肉羹麵線",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.5,
       "reviews": 158,
       "categories": [
@@ -11885,7 +11885,7 @@
     {
       "name": "一品軒素食燴館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 79,
       "categories": [
@@ -11899,7 +11899,7 @@
     {
       "name": "回家健康蔬食餐廳.有機安心.在地當季養生料理.能量餐盒.低卡飯盒.素食便當.早 中 晚餐｜請先預訂 以免久候｜",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.5,
       "reviews": 42,
       "categories": [
@@ -11913,7 +11913,7 @@
     {
       "name": "新社特製煎包",
       "description": "新社興安路必買水煎包皮薄酥脆內餡飽滿一到營業時間就排隊",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.5,
       "reviews": 694,
       "categories": [
@@ -11927,7 +11927,7 @@
     {
       "name": "羅林小館",
       "description": "休閒餐館，供應家常中式料理，如紅燒肉和麻婆豆腐。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 1644,
       "categories": [
@@ -11941,7 +11941,7 @@
     {
       "name": "HUN混 義大利麵 逢甲店",
       "description": "氣氛悠閒的餐廳，主打義大利麵、義式肉類和海鮮餐點，另供應早午餐。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 5244,
       "categories": [
@@ -11955,7 +11955,7 @@
     {
       "name": "鵝房宮概念日本料理 公益旗艦店",
       "description": "寬敞愜意的餐廳，供應壽司、生魚片和其他日式料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.5,
       "reviews": 6145,
       "categories": [
@@ -12039,7 +12039,7 @@
     {
       "name": "小春Koharu 大里旗艦店",
       "description": "大里旗艦的經典台菜，超人氣。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 2516,
       "categories": [
@@ -12053,7 +12053,7 @@
     {
       "name": "烏龍麵所 豐原店",
       "description": "特色烏龍麵搭配傳統台菜，人氣餐廳，溫暖你的味蕾。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 1542,
       "categories": [
@@ -12067,7 +12067,7 @@
     {
       "name": "良拌｜｜功夫麵",
       "description": "良拌, 精緻功夫麵，口味多樣化，滿足不同需求。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.5,
       "reviews": 259,
       "categories": [
@@ -12081,7 +12081,7 @@
     {
       "name": "哈塔牛排沙鹿店",
       "description": "｜專注牛排，超人氣，豐富的選擇讓每位食客都能找到最愛。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 3777,
       "categories": [
@@ -12137,7 +12137,7 @@
     {
       "name": "萬客什鍋 青海店",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 9263,
       "categories": [
@@ -12193,7 +12193,7 @@
     {
       "name": "老地方現炒店-青海店",
       "description": "中式/台菜，現炒料理新鮮可口，讓人回味無窮。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 939,
       "categories": [
@@ -12361,7 +12361,7 @@
     {
       "name": "游日本料理【西屯日式無菜單料理】高級日料｜板前料理｜日本料理｜日料無菜單",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 318,
       "categories": [
@@ -12417,7 +12417,7 @@
     {
       "name": "春三朝午 台中餐廳推薦 西屯美食 台中包廂餐廳 台中早午餐 台中義大利麵 台中寵物友善餐廳 台中美食",
       "description": "新潮的工業時尚風咖啡廳，供應咖啡、甜點和各式在地美食。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 4131,
       "categories": [
@@ -12487,7 +12487,7 @@
     {
       "name": "法雅 文心店 -義式冰淇淋.冰淇淋蛋糕.早午餐.下午茶",
       "description": "法雅文心店, 人氣義式冰淇淋，搭配精緻的蛋糕與下午茶享受。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 773,
       "categories": [
@@ -12515,7 +12515,7 @@
     {
       "name": "茶六燒肉堂 新朝富店",
       "description": "超人氣的燒肉堂，提供多樣化的選擇，讓你大快朵頤。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 17981,
       "categories": [
@@ -12683,7 +12683,7 @@
     {
       "name": "津香鍋盔（一、二公休）",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 213,
       "categories": [
@@ -12698,7 +12698,7 @@
     {
       "name": "屘水煎包",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 126,
       "categories": [
@@ -12712,7 +12712,7 @@
     {
       "name": "王記滷味",
       "description": "滷味選擇多樣, 口味鮮美讓人回味無窮。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 167,
       "categories": [
@@ -12726,7 +12726,7 @@
     {
       "name": "CIRCHURROS 油吉條-逢甲店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 234,
       "categories": [
@@ -12782,7 +12782,7 @@
     {
       "name": "紋綻潤餅",
       "description": "口感豐富的潤餅，讓人回味無窮的美味小吃。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 525,
       "categories": [
@@ -12796,7 +12796,7 @@
     {
       "name": "有間大湯包",
       "description": "大湯包肉汁豐富，令人垂涎欲滴",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 611,
       "categories": [
@@ -12810,7 +12810,7 @@
     {
       "name": "人見人愛螺螄粉 大里永興店 -大里必吃螺螄粉 螺螄粉推薦｜大陸小吃｜特色小吃｜正宗螺螄粉｜在地推薦小吃｜經典螺螄粉",
       "description": "正宗螺螄粉，經典小吃，受歡迎的夜市美食。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 110,
       "categories": [
@@ -12824,7 +12824,7 @@
     {
       "name": "大里雞母古早味炒麵",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 252,
       "categories": [
@@ -12838,7 +12838,7 @@
     {
       "name": "茗豐食堂",
       "description": "擁有多樣小吃，搭配新鮮食材，讓每一口都充滿驚喜。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 113,
       "categories": [
@@ -12852,7 +12852,7 @@
     {
       "name": "大富小吃",
       "description": "提供多樣小吃選擇，雖然評論數不多，但依然是值得一嘗的好店。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 122,
       "categories": [
@@ -12866,7 +12866,7 @@
     {
       "name": "豐原鮮湯包",
       "description": "鮮美湯包口感滑嫩，帶來滿滿幸福感。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 505,
       "categories": [
@@ -12880,7 +12880,7 @@
     {
       "name": "🐶卯食mouth 豐原總店",
       "description": "簡樸的休閒餐廳，供應蛋餅、培根吐司、麵食、咖啡和茶飲。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 2673,
       "categories": [
@@ -12894,7 +12894,7 @@
     {
       "name": "南園食坊現炒",
       "description": "現炒美味小吃，讓你感受台灣夜市的熱情。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 262,
       "categories": [
@@ -12909,7 +12909,7 @@
     {
       "name": "一賞鍋物 東勢火鍋、東勢美食、晚餐首選、麻辣鴨血、車站附近、平價首選",
       "description": "平價火鍋的最佳選擇，麻辣鴨血令人垂涎，晚餐理想之地。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.5,
       "reviews": 129,
       "categories": [
@@ -12923,7 +12923,7 @@
     {
       "name": "張鴨子擀麵7/15-8/27店休",
       "description": "特色手工擀麵，讓每位食客都能感受到麵的Q彈口感。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.5,
       "reviews": 624,
       "categories": [
@@ -12937,7 +12937,7 @@
     {
       "name": "傳承擔仔麵",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.5,
       "reviews": 181,
       "categories": [
@@ -12951,7 +12951,7 @@
     {
       "name": "巷弄茉莉 Molly",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.5,
       "reviews": 152,
       "categories": [
@@ -12965,7 +12965,7 @@
     {
       "name": "阿娥越南小吃",
       "description": "口味正宗的越南料理，帶來異國風情的美食體驗。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.5,
       "reviews": 111,
       "categories": [
@@ -12979,7 +12979,7 @@
     {
       "name": "乳牛牧場景觀餐廳",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 8467,
       "categories": [
@@ -12993,7 +12993,7 @@
     {
       "name": "韓滋銅盤烤肉 試賣中（冷氣已加強）現場候位",
       "description": "超人氣的烤肉體驗，冷氣加強讓你舒適享用。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 2713,
       "categories": [
@@ -13007,7 +13007,7 @@
     {
       "name": "一鍋撈-沙鹿店-沙鹿人氣鍋物|熱門鍋物|特色鍋物|平價火鍋|必吃火鍋|在地推薦火鍋|沙鹿美食|沙鹿火鍋",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 1069,
       "categories": [
@@ -13021,7 +13021,7 @@
     {
       "name": "宜吉九層塔粉蔥餅",
       "description": "人氣小吃，外酥內軟，搭配九層塔香氣，令人回味無窮。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 1090,
       "categories": [
@@ -13035,7 +13035,7 @@
     {
       "name": "莊招小吃",
       "description": "人氣小吃攤，提供多樣夜市美食，滿足你的味蕾。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 313,
       "categories": [
@@ -13050,7 +13050,7 @@
     {
       "name": "大甲白肉焿",
       "description": "經典小吃，湯頭鮮美，讓人回味無窮。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 176,
       "categories": [
@@ -13064,7 +13064,7 @@
     {
       "name": "茉莫 La monmon",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 397,
       "categories": [
@@ -13078,7 +13078,7 @@
     {
       "name": "霧峰 古早味蚵嗲",
       "description": "傳統小吃，外酥內嫩的口感讓人懷念。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 246,
       "categories": [
@@ -13092,7 +13092,7 @@
     {
       "name": "霧峰鄒記餡餅（霧峰市區）",
       "description": "手工餡餅鮮美可口，成為當地小吃的代表之一。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 480,
       "categories": [
@@ -13106,7 +13106,7 @@
     {
       "name": "亞大快餐",
       "description": "夜市小吃的經典，快速滿足你的味蕾需求。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 226,
       "categories": [
@@ -13120,7 +13120,7 @@
     {
       "name": "六扇門時尚湯鍋-霧峰中正店",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 1335,
       "categories": [
@@ -13218,7 +13218,7 @@
     {
       "name": "陶然左岸蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.5,
       "reviews": 2724,
       "categories": [
@@ -13232,7 +13232,7 @@
     {
       "name": "初一 素蔬食自助餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.5,
       "reviews": 578,
       "categories": [
@@ -13246,7 +13246,7 @@
     {
       "name": "太平素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 216,
       "categories": [
@@ -13260,7 +13260,7 @@
     {
       "name": "家誠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 173,
       "categories": [
@@ -13274,7 +13274,7 @@
     {
       "name": "廣來素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 139,
       "categories": [
@@ -13288,7 +13288,7 @@
     {
       "name": "立心蔬食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 111,
       "categories": [
@@ -13302,7 +13302,7 @@
     {
       "name": "波羅蜜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.5,
       "reviews": 178,
       "categories": [
@@ -13316,7 +13316,7 @@
     {
       "name": "佛有緣素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.5,
       "reviews": 52,
       "categories": [
@@ -13330,7 +13330,7 @@
     {
       "name": "祥馨素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 444,
       "categories": [
@@ -13344,7 +13344,7 @@
     {
       "name": "烏日明道素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 95,
       "categories": [
@@ -13358,7 +13358,7 @@
     {
       "name": "慈恩素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 68,
       "categories": [
@@ -13372,7 +13372,7 @@
     {
       "name": "晨饗素食坊 台中烏日",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 167,
       "categories": [
@@ -13386,7 +13386,7 @@
     {
       "name": "妙香素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 30,
       "categories": [
@@ -13400,7 +13400,7 @@
     {
       "name": "翁濟素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 161,
       "categories": [
@@ -13414,7 +13414,7 @@
     {
       "name": "天慈素食(中華店)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 124,
       "categories": [
@@ -13428,7 +13428,7 @@
     {
       "name": "一念之間蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 643,
       "categories": [
@@ -13442,7 +13442,7 @@
     {
       "name": "口味素食(博愛店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 97,
       "categories": [
@@ -13456,7 +13456,7 @@
     {
       "name": "羣芳蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 915,
       "categories": [
@@ -13470,7 +13470,7 @@
     {
       "name": "劉媽媽素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 163,
       "categories": [
@@ -13484,7 +13484,7 @@
     {
       "name": "宜豐素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.5,
       "reviews": 210,
       "categories": [
@@ -13498,7 +13498,7 @@
     {
       "name": "天慈素食 后里店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.5,
       "reviews": 166,
       "categories": [
@@ -13512,7 +13512,7 @@
     {
       "name": "行真素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.5,
       "reviews": 36,
       "categories": [
@@ -13526,7 +13526,7 @@
     {
       "name": "素食香噴噴臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.5,
       "reviews": 134,
       "categories": [
@@ -13540,7 +13540,7 @@
     {
       "name": "吉祥素食客家風",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.5,
       "reviews": 64,
       "categories": [
@@ -13554,7 +13554,7 @@
     {
       "name": "喜悅素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.5,
       "reviews": 11,
       "categories": [
@@ -13568,7 +13568,7 @@
     {
       "name": "菩提蘭若蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.5,
       "reviews": 84,
       "categories": [
@@ -13582,7 +13582,7 @@
     {
       "name": "尚和素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.5,
       "reviews": 218,
       "categories": [
@@ -13596,7 +13596,7 @@
     {
       "name": "蘭心園素食坊/台中美食/台中小吃/台中素食/台中推薦餐廳/附近美食/台中必吃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.5,
       "reviews": 385,
       "categories": [
@@ -13610,7 +13610,7 @@
     {
       "name": "東東素食 潭子中山店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.5,
       "reviews": 83,
       "categories": [
@@ -13624,7 +13624,7 @@
     {
       "name": "姮春素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.5,
       "reviews": 54,
       "categories": [
@@ -13638,7 +13638,7 @@
     {
       "name": "三蔬食素~素食臭臭鍋 鐵板麵(原型食材)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.5,
       "reviews": 69,
       "categories": [
@@ -13652,7 +13652,7 @@
     {
       "name": "社口素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.5,
       "reviews": 30,
       "categories": [
@@ -13666,7 +13666,7 @@
     {
       "name": "南投意麵（素食飯麵）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.5,
       "reviews": 56,
       "categories": [
@@ -13680,7 +13680,7 @@
     {
       "name": "熱浪小島-沙鹿店｜海線蔬食推薦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 175,
       "categories": [
@@ -13694,7 +13694,7 @@
     {
       "name": "劉師傅素蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.5,
       "reviews": 143,
       "categories": [
@@ -13708,7 +13708,7 @@
     {
       "name": "豐味素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.5,
       "reviews": 160,
       "categories": [
@@ -13722,7 +13722,7 @@
     {
       "name": "來得素(素食 早午晚餐)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.5,
       "reviews": 138,
       "categories": [
@@ -13736,7 +13736,7 @@
     {
       "name": "梧籽檸檬蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 292,
       "categories": [
@@ -13750,7 +13750,7 @@
     {
       "name": "我吃素麵店 大甲素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.5,
       "reviews": 37,
       "categories": [
@@ -13764,7 +13764,7 @@
     {
       "name": "Chao•炒炒新亞洲蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1440,
       "categories": [
@@ -13778,7 +13778,7 @@
     {
       "name": "幕川蔬食壽司串燒居酒屋",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.5,
       "reviews": 736,
       "categories": [
@@ -13792,7 +13792,7 @@
     {
       "name": "起若雅蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.5,
       "reviews": 326,
       "categories": [
@@ -13806,7 +13806,7 @@
     {
       "name": "本草堂素食迴轉火鍋",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.5,
       "reviews": 954,
       "categories": [
@@ -13820,7 +13820,7 @@
     {
       "name": "餃子蔬 健康蔬食(素食)早午餐餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 117,
       "categories": [
@@ -13834,7 +13834,7 @@
     {
       "name": "苜蓿春捲•苜蓿燒餅(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 32,
       "categories": [
@@ -13848,7 +13848,7 @@
     {
       "name": "玉蘭香天然素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.5,
       "reviews": 53,
       "categories": [
@@ -13862,7 +13862,7 @@
     {
       "name": "雅風筑雲",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.5,
       "reviews": 1814,
       "address": "406台灣臺中市北屯區和平里東山路一段377-26號",
@@ -13877,7 +13877,7 @@
     {
       "name": "彭城堂台菜海鮮餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 4937,
       "address": "411台灣臺中市太平區宜昌里宜昌路377號",
@@ -13892,7 +13892,7 @@
     {
       "name": "霖記甕缸雞 太平旗艦店",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 5220,
       "address": "401台灣臺中市太平區環中東路四段457號",
@@ -13907,7 +13907,7 @@
     {
       "name": "爽爽。shabu涮涮鍋 太平社宅店（最後收客2100）",
       "description": "日式料理餐廳",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.5,
       "reviews": 1001,
       "address": "411041台灣臺中市太平區新高里環中東路三段350號",
@@ -13922,7 +13922,7 @@
     {
       "name": "五國真湯梧棲店",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.5,
       "reviews": 520,
       "address": "435台灣臺中市梧棲區中正里中和街113號",
@@ -13937,7 +13937,7 @@
     {
       "name": "老派廚房 Two Tables",
       "description": "中式餐廳，在地美味",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 582,
       "address": "414台灣臺中市烏日區三和里三榮路一段366號",
@@ -13952,7 +13952,7 @@
     {
       "name": "NU PASTA 烏日店",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.5,
       "reviews": 2086,
       "address": "41448台灣臺中市烏日區九德里長春街418號",
@@ -13967,7 +13967,7 @@
     {
       "name": "新岡土虱（神岡創始店）",
       "description": "中式餐廳，在地美味",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.5,
       "reviews": 756,
       "address": "429台灣臺中市神岡區社南里中山路841號",
@@ -13982,7 +13982,7 @@
     {
       "name": "崑派餅店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.5,
       "reviews": 551,
       "address": "429台灣臺中市神岡區社口里中山路546號",
@@ -13997,7 +13997,7 @@
     {
       "name": "安妮公主花園餐廳",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.5,
       "reviews": 5412,
       "address": "426台灣臺中市新社區協成里中興街223號",
@@ -14012,7 +14012,7 @@
     {
       "name": "享自在 臺中最美落羽松秘境|景觀餐廳|熱門親子景點|寵物友善景點|新社花海周邊景點|大坑登山步道",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.5,
       "reviews": 1687,
       "address": "406台灣臺中市北屯區東山路二段 民興巷207-5號",
@@ -14027,7 +14027,7 @@
     {
       "name": "菇菇部屋",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.5,
       "reviews": 3116,
       "address": "426台灣臺中市新社區協成里協中街189-1號",
@@ -14042,7 +14042,7 @@
     {
       "name": "膳禾軒私房料理溯源餐廳",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.5,
       "reviews": 594,
       "address": "421台灣臺中市后里區厚里里成功路265巷11號",
@@ -14057,7 +14057,7 @@
     {
       "name": "布魯諾咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.5,
       "reviews": 881,
       "address": "432台灣臺中市大肚區大東里大肚藍色公路47號",
@@ -14072,7 +14072,7 @@
     {
       "name": "佛羅倫斯義法料理",
       "description": "",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.5,
       "reviews": 848,
       "address": "434台灣臺中市龍井區藝術街38巷14號",
@@ -14087,7 +14087,7 @@
     {
       "name": "那兩蚵烤鮮蚵",
       "description": "日式料理餐廳",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.5,
       "reviews": 4165,
       "address": "434台灣臺中市龍井區新庄里台灣大道六段259號",
@@ -14102,7 +14102,7 @@
     {
       "name": "新川生鱘龍鱒魚餐廳(附設停車場）",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.5,
       "reviews": 3225,
       "address": "424台灣臺中市和平區博愛里東關路一段137之1號",
@@ -14117,7 +14117,7 @@
     {
       "name": "比度咖啡屋",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.5,
       "reviews": 865,
       "address": "424台灣臺中市和平區達觀里東崎路一段天嶺巷1之4號",
@@ -14132,7 +14132,7 @@
     {
       "name": "金谷餐廳-台式合菜料理 家庭團體聚餐 山產熱炒美食 近谷關溫泉(人氣推薦必吃)",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.5,
       "reviews": 7239,
       "address": "424台灣臺中市和平區博愛里東關路一段132號",
@@ -14147,7 +14147,7 @@
     {
       "name": "谷關玉芳活魚客家餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.5,
       "reviews": 561,
       "address": "424台灣臺中市和平區博愛里東關路一段141號",
@@ -14162,7 +14162,7 @@
     {
       "name": "旺角小卷米粉鋪",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 402,
       "categories": [
@@ -14176,7 +14176,7 @@
     {
       "name": "沐青餐廳 Mu Ching Restaurant",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.4,
       "reviews": 663,
       "categories": [
@@ -14190,7 +14190,7 @@
     {
       "name": "NEST kitchen",
       "description": "氣氛愜意的迷人餐廳，設有露台，供應各式歐式料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 580,
       "categories": [
@@ -14204,7 +14204,7 @@
     {
       "name": "宇日茶食Andayteafood",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 574,
       "categories": [
@@ -14288,7 +14288,7 @@
     {
       "name": "家中vegetarian house",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 42,
       "categories": [
@@ -14302,7 +14302,7 @@
     {
       "name": "一點心意 - 台中市南屯區推薦道地港式料理餐廳 人氣在地美食 手工點心 外送外帶首選 港式飲茶 小吃 熱門下午茶 聚餐約會 必吃特色流沙包 叉燒包 網美打卡餐廳",
       "description": "｜道地港式料理，熱門流沙包和叉燒包，人氣美食，適合聚會約會。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 410,
       "categories": [
@@ -14344,7 +14344,7 @@
     {
       "name": "莫家豬血湯",
       "description": "濃郁湯頭與新鮮食材，經典夜市美味，溫暖你的胃。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.4,
       "reviews": 468,
       "categories": [
@@ -14373,7 +14373,7 @@
     {
       "name": "霧峰爌肉飯",
       "description": "霧峰中正路30年老店85元爌肉飯肉量誇張蓋不住飯燉滷入味超下飯",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 876,
       "categories": [
@@ -14387,7 +14387,7 @@
     {
       "name": "小西藏館",
       "description": "色彩繽紛的舒適餐廳，供應傳統印度料理、西藏料理和蔬食餐點。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.4,
       "reviews": 1990,
       "categories": [
@@ -14401,7 +14401,7 @@
     {
       "name": "銅鑼灣文記港式餐廳",
       "description": "氣氛悠閒的餐廳，供應茶飲、手工港式點心及傳統港式料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.4,
       "reviews": 5025,
       "categories": [
@@ -14415,7 +14415,7 @@
     {
       "name": "春梅家（只接受現場候位）",
       "description": "空間小巧的休閒餐廳，供應傳統紅燒牛肉麵。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 1478,
       "categories": [
@@ -14457,7 +14457,7 @@
     {
       "name": "老點_Homies",
       "description": "招牌中式台菜，超人氣選擇，令人期待的每一道菜。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 2759,
       "categories": [
@@ -14471,7 +14471,7 @@
     {
       "name": "樹太老日本定食-台中大里店",
       "description": "精緻日式定食，超人氣美味，令人驚艷的用餐體驗。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 2824,
       "categories": [
@@ -14485,7 +14485,7 @@
     {
       "name": "石全石美石鍋專賣店 | 豐原美食 |",
       "description": "供應石鍋拌飯、泡菜鍋和其他韓式特色料理的休閒餐館，另提供蔬食餐點。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 1375,
       "categories": [
@@ -14499,7 +14499,7 @@
     {
       "name": "虎踞城北方美食館",
       "description": "質樸的餐廳，供應麵食、火鍋和豐盛的中式料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 2959,
       "categories": [
@@ -14513,7 +14513,7 @@
     {
       "name": "台中南屯-小初店",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 2378,
       "categories": [
@@ -14737,7 +14737,7 @@
     {
       "name": "伍宅晨食-民生總店",
       "description": "提供外帶服務的簡樸餐廳，供應異國早午餐料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.4,
       "reviews": 982,
       "categories": [
@@ -14821,7 +14821,7 @@
     {
       "name": "羊角炭火燒肉文心店",
       "description": "氛圍閒適的當代風餐廳，供應海鮮與肉類燒烤餐點。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.4,
       "reviews": 3804,
       "categories": [
@@ -14891,7 +14891,7 @@
     {
       "name": "小時厚牛排-台中逢甲店",
       "description": "超人氣厚切牛排，吸引眾多食客光臨。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.4,
       "reviews": 4483,
       "categories": [
@@ -15045,7 +15045,7 @@
     {
       "name": "越好吃越南料理大里店",
       "description": "主打傳統越南湯品的樸實餐廳，並提供外帶服務。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 3012,
       "categories": [
@@ -15059,7 +15059,7 @@
     {
       "name": "大里涼傘樹肉圓",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 1224,
       "categories": [
@@ -15073,7 +15073,7 @@
     {
       "name": "林記飯館（大里益民總店）",
       "description": "招牌飯菜，人氣小吃，滿足各種味蕾。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 1535,
       "categories": [
@@ -15087,7 +15087,7 @@
     {
       "name": "中興飯糰",
       "description": "特色飯糰，口感豐富，夜市小吃的好選擇。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 553,
       "categories": [
@@ -15101,7 +15101,7 @@
     {
       "name": "清水肉圓仔湯",
       "description": "肉圓搭配清湯，清爽可口，令人心情愉悅。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 303,
       "categories": [
@@ -15115,7 +15115,7 @@
     {
       "name": "中興小吃",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 526,
       "categories": [
@@ -15130,7 +15130,7 @@
     {
       "name": "彭媽綜合麵",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 201,
       "categories": [
@@ -15144,7 +15144,7 @@
     {
       "name": "登喜味傳統客家米食-廟東店",
       "description": "傳統客家米食，口味正宗，讓人回味無窮。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 319,
       "categories": [
@@ -15158,7 +15158,7 @@
     {
       "name": "丸仔斌",
       "description": "人氣小吃攤位，提供各式美味丸類，深受食客喜愛。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 161,
       "categories": [
@@ -15172,7 +15172,7 @@
     {
       "name": "檳園食坊",
       "description": "夜市小吃的聚集地，提供多樣選擇，人氣不斷上升。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.4,
       "reviews": 2110,
       "categories": [
@@ -15186,7 +15186,7 @@
     {
       "name": "十月紅豆餅",
       "description": "香甜可口的紅豆餅，讓人一試成主顧。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.4,
       "reviews": 622,
       "categories": [
@@ -15214,7 +15214,7 @@
     {
       "name": "泗陽大浯江（清水分局旁）",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 398,
       "categories": [
@@ -15228,7 +15228,7 @@
     {
       "name": "阿邦小吃店",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 612,
       "categories": [
@@ -15242,7 +15242,7 @@
     {
       "name": "清水楊家肉圓仔湯",
       "description": "肉圓搭配鮮美湯頭，暖心又美味。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 264,
       "categories": [
@@ -15256,7 +15256,7 @@
     {
       "name": "宵夜DAMN 沙鹿靜宜店［下午茶］［晚餐］［宵夜］",
       "description": "提供多樣宵夜選擇，適合夜貓子享用的輕食天堂。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 544,
       "categories": [
@@ -15270,7 +15270,7 @@
     {
       "name": "保正軒",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 829,
       "categories": [
@@ -15284,7 +15284,7 @@
     {
       "name": "來來牛排(原沙鹿市場口)",
       "description": "精緻的台式牛排，令人回味無窮的美味。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 2421,
       "categories": [
@@ -15298,7 +15298,7 @@
     {
       "name": "壽喜燒一丁沙鹿店",
       "description": "氛圍閒適的餐廳，顧客可自選火鍋湯底、肉品和蔬菜食材，另提供甜點。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 1552,
       "categories": [
@@ -15312,7 +15312,7 @@
     {
       "name": "大甲~五甲地香酥芋泥球",
       "description": "口感酥脆，內餡綿密香甜，是夜市小吃的絕佳選擇。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.4,
       "reviews": 502,
       "categories": [
@@ -15327,7 +15327,7 @@
     {
       "name": "正兄弟當歸鴨（大甲總店）",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.4,
       "reviews": 1467,
       "categories": [
@@ -15341,7 +15341,7 @@
     {
       "name": "貴州風味小吃",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 646,
       "categories": [
@@ -15355,7 +15355,7 @@
     {
       "name": "霧峰民生故事館",
       "description": "提供多樣夜市小吃，讓人感受在地的美食文化。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 1088,
       "categories": [
@@ -15369,7 +15369,7 @@
     {
       "name": "燒金爐Golden Stove Kitchen",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 786,
       "categories": [
@@ -15383,7 +15383,7 @@
     {
       "name": "糧-私房手作廚房(6月19.20日 店休二日)",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 610,
       "categories": [
@@ -15397,7 +15397,7 @@
     {
       "name": "越南小吃-江映雪小吃",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 231,
       "categories": [
@@ -15411,7 +15411,7 @@
     {
       "name": "梔子花開．田秧私廚",
       "description": "設有露台的別緻日式餐廳，供應精緻海鮮和肉類料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.4,
       "reviews": 1160,
       "categories": [
@@ -15425,7 +15425,7 @@
     {
       "name": "可口排骨飯",
       "description": "特色排骨飯，肉質鮮嫩，搭配香醇醬汁，讓你一吃成主顧。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 125,
       "categories": [
@@ -15467,7 +15467,7 @@
     {
       "name": "拾伍蔬食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.4,
       "reviews": 532,
       "categories": [
@@ -15481,7 +15481,7 @@
     {
       "name": "蓮荷蔬食創意料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.4,
       "reviews": 4509,
       "categories": [
@@ -15495,7 +15495,7 @@
     {
       "name": "發居齋素食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 388,
       "categories": [
@@ -15509,7 +15509,7 @@
     {
       "name": "柯越南素食河粉",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 69,
       "categories": [
@@ -15523,7 +15523,7 @@
     {
       "name": "有緣素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 187,
       "categories": [
@@ -15537,7 +15537,7 @@
     {
       "name": "金廚坊素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 354,
       "categories": [
@@ -15551,7 +15551,7 @@
     {
       "name": "善源素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.4,
       "reviews": 70,
       "categories": [
@@ -15565,7 +15565,7 @@
     {
       "name": "圓光素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.4,
       "reviews": 266,
       "categories": [
@@ -15579,7 +15579,7 @@
     {
       "name": "上品素食茶坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.4,
       "reviews": 389,
       "categories": [
@@ -15593,7 +15593,7 @@
     {
       "name": "玖琻蔬食堂 - （台中總店）（素食關東煮、素食鹽水G）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.4,
       "reviews": 142,
       "categories": [
@@ -15607,7 +15607,7 @@
     {
       "name": "福伯素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 546,
       "categories": [
@@ -15621,7 +15621,7 @@
     {
       "name": "天慈素食-霧峰四德店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 212,
       "categories": [
@@ -15635,7 +15635,7 @@
     {
       "name": "普恩素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.4,
       "reviews": 91,
       "categories": [
@@ -15649,7 +15649,7 @@
     {
       "name": "一心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.4,
       "reviews": 187,
       "categories": [
@@ -15663,7 +15663,7 @@
     {
       "name": "春風素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.4,
       "reviews": 435,
       "categories": [
@@ -15677,7 +15677,7 @@
     {
       "name": "得來素蔬食早午餐-潭子勝利店（半小時前為最後點餐）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.4,
       "reviews": 118,
       "categories": [
@@ -15691,7 +15691,7 @@
     {
       "name": "天得素食（無內用，最後點餐18:30前，可先來電19:00前取）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.4,
       "reviews": 124,
       "categories": [
@@ -15705,7 +15705,7 @@
     {
       "name": "大雅素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.4,
       "reviews": 34,
       "categories": [
@@ -15719,7 +15719,7 @@
     {
       "name": "大雅健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.4,
       "reviews": 131,
       "categories": [
@@ -15733,7 +15733,7 @@
     {
       "name": "惠心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.4,
       "reviews": 167,
       "categories": [
@@ -15747,7 +15747,7 @@
     {
       "name": "國際耀谷素食餐飲",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 1849,
       "categories": [
@@ -15761,7 +15761,7 @@
     {
       "name": "有一間蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 259,
       "categories": [
@@ -15775,7 +15775,7 @@
     {
       "name": "十方養生素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 243,
       "categories": [
@@ -15789,7 +15789,7 @@
     {
       "name": "荷泰養生料理雄好吃素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 216,
       "categories": [
@@ -15803,7 +15803,7 @@
     {
       "name": "悠冉蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 140,
       "categories": [
@@ -15817,7 +15817,7 @@
     {
       "name": "福記蔬食 台中龍井 東海素食 素炒飯 素炒麵 素水餃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.4,
       "reviews": 60,
       "categories": [
@@ -15831,7 +15831,7 @@
     {
       "name": "輕田坊蔬食茶飲",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.4,
       "reviews": 66,
       "categories": [
@@ -15845,7 +15845,7 @@
     {
       "name": "蔬愿(素食早餐 炸物)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.4,
       "reviews": 131,
       "categories": [
@@ -15859,7 +15859,7 @@
     {
       "name": "德慧素食生活館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 562,
       "categories": [
@@ -15873,7 +15873,7 @@
     {
       "name": "清水如來素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 102,
       "categories": [
@@ -15887,7 +15887,7 @@
     {
       "name": "聖華宮蔬食料理(臺中市清水區)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 20,
       "categories": [
@@ -15901,7 +15901,7 @@
     {
       "name": "蔬香園自助式素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.4,
       "reviews": 180,
       "categories": [
@@ -15915,7 +15915,7 @@
     {
       "name": "口味素食保康路店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.4,
       "reviews": 253,
       "categories": [
@@ -15929,7 +15929,7 @@
     {
       "name": "惜福緣素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.4,
       "reviews": 108,
       "categories": [
@@ -15943,7 +15943,7 @@
     {
       "name": "觀音軒素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.4,
       "reviews": 60,
       "categories": [
@@ -15957,7 +15957,7 @@
     {
       "name": "金香Jin pang",
       "description": "中式餐廳，在地美味",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.4,
       "reviews": 1259,
       "address": "406台灣臺中市北屯區水湳里大連路一段16巷16號",
@@ -15972,7 +15972,7 @@
     {
       "name": "眺高",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.4,
       "reviews": 8875,
       "address": "406台灣臺中市北屯區部子路700巷11弄36號",
@@ -15987,7 +15987,7 @@
     {
       "name": "老三良麵（已轉型為果然日常）",
       "description": "日式料理餐廳",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.4,
       "reviews": 917,
       "address": "406台灣臺中市北屯區松勇里北屯路489號",
@@ -16002,7 +16002,7 @@
     {
       "name": "爸爸酸菜白肉鍋（長億店）🧧建議電話預約",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.4,
       "reviews": 644,
       "address": "411台灣臺中市太平區永成里永成北路58號",
@@ -16017,7 +16017,7 @@
     {
       "name": "橙黃橘綠咖啡廳 EarlyWinter Cafe",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.4,
       "reviews": 905,
       "address": "435台灣臺中市梧棲區文化里中興路67巷28弄46號",
@@ -16032,7 +16032,7 @@
     {
       "name": "「餃子詠湯包」煎餃/湯包/蒸餃/關東煮/蛤蜊湯麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.4,
       "reviews": 673,
       "address": "435台灣臺中市梧棲區下寮里文化路二段334號",
@@ -16047,7 +16047,7 @@
     {
       "name": "一風堂 台中高鐵店",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.4,
       "reviews": 2404,
       "address": "414台灣臺中市烏日區站區二路8號",
@@ -16062,7 +16062,7 @@
     {
       "name": "富貴園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.4,
       "reviews": 1172,
       "address": "429台灣臺中市神岡區北庄里中山路1208號",
@@ -16077,7 +16077,7 @@
     {
       "name": "Pho Long越南小吃店",
       "description": "中式餐廳，在地美味",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.4,
       "reviews": 1058,
       "address": "429台灣臺中市神岡區神岡里神岡路140號",
@@ -16092,7 +16092,7 @@
     {
       "name": "桃李河畔",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.4,
       "reviews": 3786,
       "address": "426台灣臺中市新社區中和里中興街98-1號",
@@ -16107,7 +16107,7 @@
     {
       "name": "牧釜燒 后里總店",
       "description": "日式料理餐廳",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.4,
       "reviews": 825,
       "address": "421台灣臺中市后里區墩東里成功路586號",
@@ -16122,7 +16122,7 @@
     {
       "name": "王田鵝肉",
       "description": "中式餐廳，在地美味",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.4,
       "reviews": 2402,
       "address": "432台灣臺中市大肚區王田里沙田路一段260號",
@@ -16137,7 +16137,7 @@
     {
       "name": "廣味香燒臘鴨莊",
       "description": "中式餐廳，在地美味",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.4,
       "reviews": 560,
       "address": "432台灣臺中市大肚區自強里遊園路二段181巷30號",
@@ -16152,7 +16152,7 @@
     {
       "name": "啡文學 龍井店",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.4,
       "reviews": 2809,
       "address": "434台灣臺中市龍井區新庄里中廍路",
@@ -16167,7 +16167,7 @@
     {
       "name": "向宏魯肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.4,
       "reviews": 1756,
       "address": "434台灣臺中市龍井區新東里新興路38號",
@@ -16182,7 +16182,7 @@
     {
       "name": "魚之鄉谷關 鱘龍魚料理餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.4,
       "reviews": 1765,
       "address": "424台灣臺中市和平區博愛里東關路一段松鶴一巷20-1號",
@@ -16197,7 +16197,7 @@
     {
       "name": "炒飯超人潭子店",
       "description": "中式餐廳，在地美味",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.4,
       "reviews": 759,
       "address": "427台灣臺中市潭子區甘蔗里勝利路267號",
@@ -16298,7 +16298,7 @@
     {
       "name": "阿宏師涼麵嘉義雞肉飯 北屯昌平店",
       "description": "招牌涼麵搭配雞肉飯，口感清爽，適合夏季享用。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.3,
       "reviews": 300,
       "categories": [
@@ -16326,7 +16326,7 @@
     {
       "name": "小籠包",
       "description": "平實的中式餐廳，供應餃子、麵食、湯品和熱炒。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 535,
       "categories": [
@@ -16340,7 +16340,7 @@
     {
       "name": "大吃小吃｜大甲鎮瀾宮美食、Q彈肉圓、古早味炒麵/炒米飯、魯肉飯、豬血湯",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 148,
       "categories": [
@@ -16354,7 +16354,7 @@
     {
       "name": "其森牛肉湯逢甲店",
       "description": "文華路歡樂星內，溫體牛肉湯內用肉燥飯滷蛋無限吃到飽",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 808,
       "categories": [
@@ -16382,7 +16382,7 @@
     {
       "name": "家料理",
       "description": "｜傳統台菜，溫暖家常味，受歡迎但評論數不多。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.3,
       "reviews": 951,
       "categories": [
@@ -16452,7 +16452,7 @@
     {
       "name": "憶鵝時 客家小炒",
       "description": "樸實的餐廳，提供鵝肉料理、海鮮、豬腳和湯品等在地美食。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 1752,
       "categories": [
@@ -16466,7 +16466,7 @@
     {
       "name": "老黑輪肉圓店（老店）",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.3,
       "reviews": 1837,
       "categories": [
@@ -16480,7 +16480,7 @@
     {
       "name": "阿曼品味麵麵館／葷食-多種口味-鍋燒麵（另售-素食-鍋燒麵)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.3,
       "reviews": 147,
       "categories": [
@@ -16550,7 +16550,7 @@
     {
       "name": "李林烤肉之家~永興總店",
       "description": "座位有限的簡約小吃攤，專賣烤肉、蔬菜串及啤酒。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.3,
       "reviews": 1333,
       "categories": [
@@ -16564,7 +16564,7 @@
     {
       "name": "康康豬豬血湯",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 5365,
       "categories": [
@@ -16578,7 +16578,7 @@
     {
       "name": "陳大牌排骨麵",
       "description": "口感鮮嫩的排骨麵，成為夜市美食的熱門選擇。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 769,
       "categories": [
@@ -16592,7 +16592,7 @@
     {
       "name": "萬峰食全牛肉麵",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.3,
       "reviews": 603,
       "categories": [
@@ -16606,7 +16606,7 @@
     {
       "name": "得來素蔬食早午餐-大雅民生店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.3,
       "reviews": 130,
       "categories": [
@@ -16690,7 +16690,7 @@
     {
       "name": "菇神餐廳新社店",
       "description": "新社米其林必比登推薦菇類美食天堂原木菇菇牛肉火鍋多種熱炒",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 3765,
       "categories": [
@@ -16718,7 +16718,7 @@
     {
       "name": "復興餐廳",
       "description": "氛圍閒適的餐廳，供應炒飯和宮保雞丁等傳統中式美食。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.3,
       "reviews": 3518,
       "categories": [
@@ -16732,7 +16732,7 @@
     {
       "name": "花鵝斗斗開",
       "description": "傳統中式台菜，菜色多樣，讓人感受到家的味道。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 256,
       "categories": [
@@ -16746,7 +16746,7 @@
     {
       "name": "任家擀麵",
       "description": "擀麵為招牌，人氣美食，口感滑順，適合喜愛中式台菜的食客。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 1037,
       "categories": [
@@ -16914,7 +16914,7 @@
     {
       "name": "平禄壽司-五權店",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.3,
       "reviews": 9326,
       "categories": [
@@ -17082,7 +17082,7 @@
     {
       "name": "老王客家莊（五權總店）需一樓位請告知",
       "description": "",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.3,
       "reviews": 837,
       "categories": [
@@ -17180,7 +17180,7 @@
     {
       "name": "短腿丫鹿餅乾 逢甲店",
       "description": "以長頸鹿為主題的烘焙坊，專售裝在繽紛鐵盒中的美味餅乾。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 3278,
       "categories": [
@@ -17194,7 +17194,7 @@
     {
       "name": "紅燒當歸鴨麵線",
       "description": "招牌鴨肉湯頭濃郁，搭配滑順麵線，讓人回味無窮。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 1292,
       "categories": [
@@ -17208,7 +17208,7 @@
     {
       "name": "赤鬼炙燒牛排 逢甲店",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 6742,
       "categories": [
@@ -17222,7 +17222,7 @@
     {
       "name": "逢甲旺伯臭豆腐",
       "description": "酥脆的臭豆腐外皮，搭配特製醬汁，令人一試成主顧。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 456,
       "categories": [
@@ -17320,7 +17320,7 @@
     {
       "name": "阿忠意麵(手工煎餃)",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.3,
       "reviews": 462,
       "categories": [
@@ -17334,7 +17334,7 @@
     {
       "name": "正宗麻豆碗粿",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.3,
       "reviews": 309,
       "categories": [
@@ -17348,7 +17348,7 @@
     {
       "name": "成都日嚐",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.3,
       "reviews": 656,
       "categories": [
@@ -17362,7 +17362,7 @@
     {
       "name": "正老牌豐原肉丸",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 1618,
       "categories": [
@@ -17377,7 +17377,7 @@
     {
       "name": "永芳亭扁食 肉粽",
       "description": "傳統扁食與肉粽的完美結合，經典口味吸引著不少食客。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 837,
       "categories": [
@@ -17391,7 +17391,7 @@
     {
       "name": "豐榮肉丸 （冷氣開放）源豐創始店 餐廳 小吃",
       "description": "經典肉丸小吃，冷氣環境舒適，是夜市的美食寶藏。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 1024,
       "categories": [
@@ -17406,7 +17406,7 @@
     {
       "name": "豐中炒麵蘿蔔糕50年老店（每週一公休，特別休息時間請看「最新動態」）",
       "description": "經典炒麵與蘿蔔糕，五十年歷史的老店，深受當地喜愛。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 921,
       "categories": [
@@ -17420,7 +17420,7 @@
     {
       "name": "阿玉早點",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.3,
       "reviews": 328,
       "categories": [
@@ -17434,7 +17434,7 @@
     {
       "name": "鮮味饌台中清水好吃的美食小吃",
       "description": "提供多樣好吃的小吃，讓你在夜市中品味美食的鮮美。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 137,
       "categories": [
@@ -17448,7 +17448,7 @@
     {
       "name": "東北哈爾濱小吃",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 167,
       "categories": [
@@ -17462,7 +17462,7 @@
     {
       "name": "阿泉米糕",
       "description": "米糕的柔軟與美味相結合，讓你一次滿足台灣味。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 152,
       "categories": [
@@ -17476,7 +17476,7 @@
     {
       "name": "鹿港老三的店",
       "description": "經典夜市小吃，讓你品味在地的美味。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 353,
       "categories": [
@@ -17490,7 +17490,7 @@
     {
       "name": "陳媽媽涼麵",
       "description": "清爽可口的涼麵，適合炎熱的夏季享用。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 239,
       "categories": [
@@ -17504,7 +17504,7 @@
     {
       "name": "黑 森林景觀咖啡",
       "description": "採用玻璃帷幕的三角形咖啡廳，供應療癒美食、咖啡和酒精飲品，並享有美景。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 5070,
       "categories": [
@@ -17518,7 +17518,7 @@
     {
       "name": "意馨園-正宗雲南小鍋米線·米干專賣 總店",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 672,
       "categories": [
@@ -17532,7 +17532,7 @@
     {
       "name": "月半食堂（沙鹿總店） - 晚餐/宵夜/早點/豆漿/寵物友善",
       "description": "多樣化的餐點選擇，適合早晚餐與宵夜。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 372,
       "categories": [
@@ -17546,7 +17546,7 @@
     {
       "name": "聚亭軒茶飲美食館",
       "description": "專注於咖啡與茶飲，舒適環境適合放鬆，讓人回味無窮。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 509,
       "categories": [
@@ -17560,7 +17560,7 @@
     {
       "name": "清水阿吉米糕",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 633,
       "categories": [
@@ -17574,7 +17574,7 @@
     {
       "name": "小不點美食",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 267,
       "categories": [
@@ -17588,7 +17588,7 @@
     {
       "name": "道地越南小吃",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.3,
       "reviews": 1115,
       "categories": [
@@ -17602,7 +17602,7 @@
     {
       "name": "消波塊大人 霧峰區服務處",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.3,
       "reviews": 208,
       "categories": [
@@ -17644,7 +17644,7 @@
     {
       "name": "Looway蔬食滷味食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.3,
       "reviews": 223,
       "categories": [
@@ -17658,7 +17658,7 @@
     {
       "name": "感恩現炒素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.3,
       "reviews": 795,
       "categories": [
@@ -17672,7 +17672,7 @@
     {
       "name": "繼宗素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.3,
       "reviews": 105,
       "categories": [
@@ -17686,7 +17686,7 @@
     {
       "name": "蓮華素食自助餐（蓮華食堂）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.3,
       "reviews": 111,
       "categories": [
@@ -17700,7 +17700,7 @@
     {
       "name": "五教素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.3,
       "reviews": 93,
       "categories": [
@@ -17714,7 +17714,7 @@
     {
       "name": "烏日大華素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.3,
       "reviews": 7,
       "categories": [
@@ -17728,7 +17728,7 @@
     {
       "name": "雲淡風清義式蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 434,
       "categories": [
@@ -17742,7 +17742,7 @@
     {
       "name": "妙觀音素食-中和和平店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.3,
       "reviews": 6,
       "categories": [
@@ -17756,7 +17756,7 @@
     {
       "name": "小喬流水咖啡蔬食民宿",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 26,
       "categories": [
@@ -17770,7 +17770,7 @@
     {
       "name": "法筵素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.3,
       "reviews": 257,
       "categories": [
@@ -17784,7 +17784,7 @@
     {
       "name": "忠義素食勝利店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.3,
       "reviews": 134,
       "categories": [
@@ -17798,7 +17798,7 @@
     {
       "name": "福仁素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.3,
       "reviews": 55,
       "categories": [
@@ -17812,7 +17812,7 @@
     {
       "name": "沙鹿天心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 130,
       "categories": [
@@ -17826,7 +17826,7 @@
     {
       "name": "YES素健康素食鹽酥G",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 186,
       "categories": [
@@ -17840,7 +17840,7 @@
     {
       "name": "維香素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.3,
       "reviews": 72,
       "categories": [
@@ -17854,7 +17854,7 @@
     {
       "name": "御品齋素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.3,
       "reviews": 25,
       "categories": [
@@ -17868,7 +17868,7 @@
     {
       "name": "福智素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 319,
       "categories": [
@@ -17882,7 +17882,7 @@
     {
       "name": "福緣素食麵食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.3,
       "reviews": 194,
       "categories": [
@@ -17896,7 +17896,7 @@
     {
       "name": "素之香蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 291,
       "categories": [
@@ -17910,7 +17910,7 @@
     {
       "name": "清太健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 433,
       "categories": [
@@ -17924,7 +17924,7 @@
     {
       "name": "勤慧素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 50,
       "categories": [
@@ -17938,7 +17938,7 @@
     {
       "name": "卡帛素食烘培‧義式廚房‧港式餐點 總店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1361,
       "categories": [
@@ -17952,7 +17952,7 @@
     {
       "name": "里仁SUN面健康蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.3,
       "reviews": 318,
       "categories": [
@@ -17966,7 +17966,7 @@
     {
       "name": "阜裕齋素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.3,
       "reviews": 128,
       "categories": [
@@ -17980,7 +17980,7 @@
     {
       "name": "滿春園餐廳蔬食‧咖啡‧庭園",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.3,
       "reviews": 38,
       "categories": [
@@ -17994,7 +17994,7 @@
     {
       "name": "阡維素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.3,
       "reviews": 63,
       "categories": [
@@ -18008,7 +18008,7 @@
     {
       "name": "得來素蔬食早午餐-大甲順天店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.3,
       "reviews": 123,
       "categories": [
@@ -18022,7 +18022,7 @@
     {
       "name": "甲八碗米糕-太平店",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.3,
       "reviews": 1025,
       "address": "411台灣臺中市太平區新城里中山路三段123號",
@@ -18037,7 +18037,7 @@
     {
       "name": "新天地梧棲創始店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.3,
       "reviews": 4000,
       "address": "435台灣臺中市梧棲區頂寮里大智路二段400號",
@@ -18052,7 +18052,7 @@
     {
       "name": "中港好家海鮮餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.3,
       "reviews": 1550,
       "address": "436台灣臺中市清水區海濱里北堤路30號",
@@ -18067,7 +18067,7 @@
     {
       "name": "新海岸餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.3,
       "reviews": 1070,
       "address": "435台灣臺中市梧棲區下寮里大智路二段379之1號",
@@ -18082,7 +18082,7 @@
     {
       "name": "春風稻鐵板燒丼飯-烏日新興店",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.3,
       "reviews": 1161,
       "address": "414台灣臺中市烏日區烏日里新興路356號",
@@ -18097,7 +18097,7 @@
     {
       "name": "仙塘跡農園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.3,
       "reviews": 3370,
       "address": "422台灣臺中市石岡區龍興里萬仙街仙塘坪巷3號",
@@ -18112,7 +18112,7 @@
     {
       "name": "石岡担担麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.3,
       "reviews": 1128,
       "address": "422台灣臺中市石岡區九房里明德路61號",
@@ -18127,7 +18127,7 @@
     {
       "name": "石岡小吃",
       "description": "中式餐廳，在地美味",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.3,
       "reviews": 698,
       "address": "422台灣臺中市石岡區石岡里豐勢路1167號",
@@ -18142,7 +18142,7 @@
     {
       "name": "山水啡庭園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 755,
       "address": "426台灣臺中市新社區協成里協中街6-3號",
@@ -18157,7 +18157,7 @@
     {
       "name": "飛花落院 Inflorescence",
       "description": "日式料理餐廳",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 1548,
       "address": "426台灣臺中市新社區永源里中興嶺街一段111號",
@@ -18172,7 +18172,7 @@
     {
       "name": "菇神-新社店",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 3765,
       "address": "426台灣臺中市新社區協成里協中街287號",
@@ -18187,7 +18187,7 @@
     {
       "name": "沐莯小館 Mumu Bistro",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.3,
       "reviews": 595,
       "address": "421台灣臺中市后里區后里里成功路62號",
@@ -18202,7 +18202,7 @@
     {
       "name": "東達極品美饌",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.3,
       "reviews": 3274,
       "address": "421台灣臺中市后里區墩東里成功路478號",
@@ -18217,7 +18217,7 @@
     {
       "name": "利眾醉鵝塩水鵝",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.3,
       "reviews": 1063,
       "address": "421台灣臺中市后里區墩北里甲后路一段871號",
@@ -18232,7 +18232,7 @@
     {
       "name": "大眾海鮮食堂",
       "description": "中式餐廳，在地美味",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.3,
       "reviews": 852,
       "address": "432台灣臺中市大肚區沙田路一段554號",
@@ -18247,7 +18247,7 @@
     {
       "name": "大肚藍色公路",
       "description": "中式餐廳，在地美味",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.3,
       "reviews": 2955,
       "address": "432台灣臺中市大肚區大肚藍色公路",
@@ -18262,7 +18262,7 @@
     {
       "name": "不夜天夜景餐廳",
       "description": "",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.3,
       "reviews": 3473,
       "address": "434台灣臺中市龍井區新庄里台灣大道六段55號",
@@ -18277,7 +18277,7 @@
     {
       "name": "東海蓮心冰雞爪凍",
       "description": "中式餐廳，在地美味",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.3,
       "reviews": 4063,
       "address": "434台灣臺中市龍井區新東里新興路1巷1號1之1號",
@@ -18292,7 +18292,7 @@
     {
       "name": "白冷冰棒",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4.3,
       "reviews": 6016,
       "address": "424台灣臺中市和平區天輪里東關路二段91號",
@@ -18336,7 +18336,7 @@
     {
       "name": "阿宏師涼麵 嘉義雞肉飯 (市政府惠中店)",
       "description": "嘉義雞肉飯（市政府惠中店），創新口味的雞肉飯，深受食客喜愛。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 319,
       "categories": [
@@ -18420,7 +18420,7 @@
     {
       "name": "台中西屯 張記牛肉麵",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 831,
       "categories": [
@@ -18518,7 +18518,7 @@
     {
       "name": "日祥生機園地 蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 1437,
       "categories": [
@@ -18546,7 +18546,7 @@
     {
       "name": "一碗牛肉麵｜臺中南屯店",
       "description": "南屯店的牛肉麵美味可口，平價又好吃，適合各類食客。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.2,
       "reviews": 661,
       "categories": [
@@ -18616,7 +18616,7 @@
     {
       "name": "清水阿財米糕",
       "description": "清水西寧路50年老店財伯米糕一碗45元配肉羹湯海線必吃米糕代表",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 11718,
       "categories": [
@@ -18630,7 +18630,7 @@
     {
       "name": "梧棲漁港現流海鮮",
       "description": "直送海鮮餐廳尚青的海洋直送魚蟹蝦貝新鮮度破表",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.2,
       "reviews": 14610,
       "categories": [
@@ -18644,7 +18644,7 @@
     {
       "name": "小林無骨鵝肉海鮮",
       "description": "美味無骨鵝肉搭配海鮮, 讓人回味無窮",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.2,
       "reviews": 3026,
       "categories": [
@@ -18658,7 +18658,7 @@
     {
       "name": "恬果義大利麵",
       "description": "",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.2,
       "reviews": 582,
       "categories": [
@@ -18672,7 +18672,7 @@
     {
       "name": "阿財米糕店",
       "description": "超人氣的米糕小吃，口感絕佳，滿足你的夜市美食 cravings。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 11719,
       "categories": [
@@ -18686,7 +18686,7 @@
     {
       "name": "福宴國際創意美食餐廳",
       "description": "空間寬敞的餐廳，提供各式湯品、海鮮及傳統料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 2627,
       "categories": [
@@ -18700,7 +18700,7 @@
     {
       "name": "新口味擀麵專門店",
       "description": "擀麵創新口味，深受食客喜愛，適合嚐鮮的台菜愛好者。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 1085,
       "categories": [
@@ -18742,7 +18742,7 @@
     {
       "name": "梧棲來來海鮮餐廳-梧棲必吃海鮮熱炒|推薦海鮮料理|平價海鮮料理|知名海鮮餐廳|公司聚餐|熱門熱炒",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.2,
       "reviews": 6801,
       "categories": [
@@ -18868,7 +18868,7 @@
     {
       "name": "台中正老牌魷魚羹",
       "description": "招牌魷魚羹湯頭鮮美，深受食客喜愛的人氣美食。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.2,
       "reviews": 1025,
       "categories": [
@@ -19092,7 +19092,7 @@
     {
       "name": "逢甲埔里米糕",
       "description": "人氣米糕小吃，帶來傳統夜市的美味回憶。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 531,
       "categories": [
@@ -19107,7 +19107,7 @@
     {
       "name": "炳叔烤玉米逢甲總店",
       "description": "招牌烤玉米香氣四溢, 人氣小吃吸引眾多食客。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 1177,
       "categories": [
@@ -19121,7 +19121,7 @@
     {
       "name": "NAMI米熱狗",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 304,
       "categories": [
@@ -19164,7 +19164,7 @@
     {
       "name": "美滿傳統小吃",
       "description": "",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.2,
       "reviews": 287,
       "categories": [
@@ -19178,7 +19178,7 @@
     {
       "name": "阿成炒麵",
       "description": "炒麵為主打，人氣小吃，味道正宗。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.2,
       "reviews": 1177,
       "categories": [
@@ -19192,7 +19192,7 @@
     {
       "name": "濟州金先生韓食專賣",
       "description": "供應傳統韓式料理、拉麵和熱炒料理的休閒餐廳。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.2,
       "reviews": 1399,
       "categories": [
@@ -19206,7 +19206,7 @@
     {
       "name": "幸福ㄟ味",
       "description": "地道小吃，讓每一口都充滿家的味道，令人倍感溫馨。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.2,
       "reviews": 511,
       "categories": [
@@ -19220,7 +19220,7 @@
     {
       "name": "阿旺澄食堂（三十年老店）",
       "description": "擁有三十年歷史的小吃店，經典美味吸引眾多回頭客的人氣選擇。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.2,
       "reviews": 1617,
       "categories": [
@@ -19234,7 +19234,7 @@
     {
       "name": "阿婆炒麵",
       "description": "炒麵香氣四溢, 小吃界的熱門選擇。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.2,
       "reviews": 2021,
       "categories": [
@@ -19248,7 +19248,7 @@
     {
       "name": "阿木大眾餐館",
       "description": "提供多樣小吃，深受夜市食客喜愛，人氣不斷上升。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.2,
       "reviews": 736,
       "categories": [
@@ -19262,7 +19262,7 @@
     {
       "name": "東勢囍臨門小吃",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.2,
       "reviews": 186,
       "categories": [
@@ -19276,7 +19276,7 @@
     {
       "name": "愛麵子餐館",
       "description": "精緻的小吃選擇，帶來絕佳的夜市用餐體驗。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.2,
       "reviews": 278,
       "categories": [
@@ -19290,7 +19290,7 @@
     {
       "name": "長春餐廳，喜宴合菜，客家料理",
       "description": "專注於合菜與客家料理，適合家庭聚餐。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.2,
       "reviews": 248,
       "categories": [
@@ -19304,7 +19304,7 @@
     {
       "name": "浯江御麵館",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 1406,
       "categories": [
@@ -19318,7 +19318,7 @@
     {
       "name": "阿騰米糕",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.2,
       "reviews": 1053,
       "categories": [
@@ -19332,7 +19332,7 @@
     {
       "name": "鹿雅森林",
       "description": "超人氣的小吃，深受食客喜愛的夜市美食天堂。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 1585,
       "categories": [
@@ -19346,7 +19346,7 @@
     {
       "name": "阿火獅鵝肉担",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 2038,
       "categories": [
@@ -19360,7 +19360,7 @@
     {
       "name": "九巷麵食館",
       "description": "手工麵食搭配新鮮食材，讓你品味地道的台灣美味。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 391,
       "categories": [
@@ -19374,7 +19374,7 @@
     {
       "name": "小，迷路",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 878,
       "categories": [
@@ -19388,7 +19388,7 @@
     {
       "name": "沙鹿肉圓-清",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 1045,
       "categories": [
@@ -19402,7 +19402,7 @@
     {
       "name": "岳家庄夜景咖啡廳",
       "description": "提供美味咖啡與茶品，擁有迷人夜景，人氣不容錯過。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.2,
       "reviews": 2032,
       "categories": [
@@ -19416,7 +19416,7 @@
     {
       "name": "嘉家樂肉丸(大甲)",
       "description": "肉圓口感滑嫩，鮮美湯汁令人陶醉，超人氣的小吃之選。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.2,
       "reviews": 2656,
       "categories": [
@@ -19430,7 +19430,7 @@
     {
       "name": "佛跳牆",
       "description": "經典台灣小吃，香氣撲鼻，令人垂涎欲滴的美味。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.2,
       "reviews": 424,
       "categories": [
@@ -19444,7 +19444,7 @@
     {
       "name": "台中炒麵",
       "description": "經典夜市炒麵，口感Q彈，簡單卻讓人難忘。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.2,
       "reviews": 103,
       "categories": [
@@ -19459,7 +19459,7 @@
     {
       "name": "龍之軒-蚵嗲",
       "description": "特色蚵嗲口感酥脆，讓人一吃成主顧。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.2,
       "reviews": 307,
       "categories": [
@@ -19473,7 +19473,7 @@
     {
       "name": "霖記甕缸雞創始店",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.2,
       "reviews": 1979,
       "categories": [
@@ -19501,7 +19501,7 @@
     {
       "name": "忠義素食西屯店農曆初一、十五正常營業",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 613,
       "categories": [
@@ -19515,7 +19515,7 @@
     {
       "name": "傳祥園素食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.2,
       "reviews": 932,
       "categories": [
@@ -19529,7 +19529,7 @@
     {
       "name": "普明素食現炒館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.2,
       "reviews": 181,
       "categories": [
@@ -19543,7 +19543,7 @@
     {
       "name": "豐盛素食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.2,
       "reviews": 130,
       "categories": [
@@ -19557,7 +19557,7 @@
     {
       "name": "十方亭素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.2,
       "reviews": 53,
       "categories": [
@@ -19571,7 +19571,7 @@
     {
       "name": "慈圓健康素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.2,
       "reviews": 130,
       "categories": [
@@ -19585,7 +19585,7 @@
     {
       "name": "好樂里庭園蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.2,
       "reviews": 1133,
       "categories": [
@@ -19599,7 +19599,7 @@
     {
       "name": "如來素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.2,
       "reviews": 158,
       "categories": [
@@ -19613,7 +19613,7 @@
     {
       "name": "菩提園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.2,
       "reviews": 19,
       "categories": [
@@ -19627,7 +19627,7 @@
     {
       "name": "天喜健康素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.2,
       "reviews": 17,
       "categories": [
@@ -19641,7 +19641,7 @@
     {
       "name": "素食麵攤",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.2,
       "reviews": 21,
       "categories": [
@@ -19655,7 +19655,7 @@
     {
       "name": "廣達素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.2,
       "reviews": 277,
       "categories": [
@@ -19669,7 +19669,7 @@
     {
       "name": "天慈素食 新興店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.2,
       "reviews": 129,
       "categories": [
@@ -19683,7 +19683,7 @@
     {
       "name": "梧棲市場旁素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.2,
       "reviews": 24,
       "categories": [
@@ -19697,7 +19697,7 @@
     {
       "name": "蓮華齋素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.2,
       "reviews": 33,
       "categories": [
@@ -19711,7 +19711,7 @@
     {
       "name": "The Green Room 泰式蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 1164,
       "categories": [
@@ -19725,7 +19725,7 @@
     {
       "name": "圓明素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.2,
       "reviews": 28,
       "categories": [
@@ -19739,7 +19739,7 @@
     {
       "name": "好喔貨櫃餐廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.2,
       "reviews": 1187,
       "address": "406台灣臺中市北屯區軍福十六路177號",
@@ -19754,7 +19754,7 @@
     {
       "name": "三禾手打烏龍麵 旱溪店",
       "description": "日式料理餐廳",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.2,
       "reviews": 1496,
       "address": "411台灣臺中市太平區新福里旱溪東路二段321號",
@@ -19769,7 +19769,7 @@
     {
       "name": "大戸屋台中新高鐵站",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.2,
       "reviews": 1754,
       "address": "414台灣臺中市烏日區湖日里站區二路8號2樓",
@@ -19784,7 +19784,7 @@
     {
       "name": "又見一炊煙",
       "description": "日式料理餐廳",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.2,
       "reviews": 6047,
       "address": "426台灣臺中市新社區中興嶺街一段107號",
@@ -19799,7 +19799,7 @@
     {
       "name": "云饌休閒庭園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.2,
       "reviews": 624,
       "address": "423台灣臺中市東勢區慶福里東關路四段999號",
@@ -19814,7 +19814,7 @@
     {
       "name": "新社老街豆腐宗",
       "description": "中式餐廳，在地美味",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.2,
       "reviews": 776,
       "address": "426台灣臺中市新社區新社里中和街四段283號",
@@ -19829,7 +19829,7 @@
     {
       "name": "麗寶福容大飯店 福粵樓",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.2,
       "reviews": 727,
       "address": "421台灣臺中市后里區月眉里福容路88 號",
@@ -19844,7 +19844,7 @@
     {
       "name": "香蕉樹餐飲店（無任何分店）",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.2,
       "reviews": 1118,
       "address": "421台灣臺中市后里區后里里復興街85號",
@@ -19859,7 +19859,7 @@
     {
       "name": "鄭爌肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.2,
       "reviews": 1619,
       "address": "421台灣臺中市后里區后里里三豐路三段955號",
@@ -19874,7 +19874,7 @@
     {
       "name": "外埔肉粽(原田媽媽外埔肉粽）",
       "description": "中式餐廳，在地美味",
-      "area": "外埔區",
+      "area": "外埔",
       "rating": 4.2,
       "reviews": 919,
       "address": "438台灣臺中市外埔區中山里中山路486號",
@@ -19889,7 +19889,7 @@
     {
       "name": "東喜堂花園茶館",
       "description": "中式餐廳，在地美味",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.2,
       "reviews": 5653,
       "address": "427台灣臺中市潭子區東寶里雅潭路三段東寶巷9號",
@@ -19904,7 +19904,7 @@
     {
       "name": "阿宏師涼麵嘉義雞肉飯-台中大里店",
       "description": "涼麵與雞肉飯的絕妙搭配，值得一試。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 412,
       "categories": [
@@ -19932,7 +19932,7 @@
     {
       "name": "阿宏師火雞肉飯-光華總店",
       "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.1,
       "reviews": 9157,
       "categories": [
@@ -19974,7 +19974,7 @@
     {
       "name": "宋家藥燉排骨。臭豆腐",
       "description": "",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.1,
       "reviews": 468,
       "categories": [
@@ -19988,7 +19988,7 @@
     {
       "name": "老趙排骨牛肉麵",
       "description": "濃郁湯頭與豐富配料，讓每一碗都令人滿意。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 780,
       "categories": [
@@ -20002,7 +20002,7 @@
     {
       "name": "郝家清燉牛肉麵",
       "description": "招牌清燉牛肉麵，肉質鮮嫩，湯頭濃郁，是麵食愛好者的最愛。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.1,
       "reviews": 335,
       "categories": [
@@ -20045,7 +20045,7 @@
     {
       "name": "鹽與胡椒餐館SALT&PEPPER RESTAURANT",
       "description": "專門供應義式料理、合菜、雞尾酒和甜點的時尚餐廳。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4.1,
       "reviews": 1822,
       "categories": [
@@ -20087,7 +20087,7 @@
     {
       "name": "逢甲炒餅條 Taiwan Pancake。",
       "description": "外脆內軟的炒餅條，口味多樣，深受喜愛。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.1,
       "reviews": 934,
       "categories": [
@@ -20101,7 +20101,7 @@
     {
       "name": "崎頭肉丸筒仔米糕",
       "description": "經典台式小吃，口感豐富，讓人忍不住想再來。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 438,
       "categories": [
@@ -20157,7 +20157,7 @@
     {
       "name": "后里國中肉圓",
       "description": "后里傳承三代70年老店紅糟肉圓外皮Q彈內餡扎實在地人從小吃到大",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.1,
       "reviews": 641,
       "categories": [
@@ -20171,7 +20171,7 @@
     {
       "name": "廟東清水排骨麵店",
       "description": "人氣排骨麵，湯頭鮮美，令人欲罷不能。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.1,
       "reviews": 4084,
       "categories": [
@@ -20185,7 +20185,7 @@
     {
       "name": "巧味膳房",
       "description": "巧味膳房, 提供多樣化的中式佳餚，人氣餐廳選擇。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 1627,
       "categories": [
@@ -20199,7 +20199,7 @@
     {
       "name": "石全石美石鍋專賣店 | 大雅美食 |",
       "description": "特色石鍋料理，人氣餐廳，讓你感受不同的飲食文化。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.1,
       "reviews": 1411,
       "categories": [
@@ -20213,7 +20213,7 @@
     {
       "name": "老趙傳統麵食 鄰近地區可外送",
       "description": "招牌麵食口感彈牙，人氣美味令人回味。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.1,
       "reviews": 1658,
       "categories": [
@@ -20227,7 +20227,7 @@
     {
       "name": "六和堂水餃",
       "description": "招牌水餃皮薄餡多，人氣美食廣受推崇。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.1,
       "reviews": 2102,
       "categories": [
@@ -20241,7 +20241,7 @@
     {
       "name": "清水社口樓海鮮",
       "description": "新鮮海鮮的中式台菜，帶給你海味十足的美食體驗。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.1,
       "reviews": 1417,
       "categories": [
@@ -20619,7 +20619,7 @@
     {
       "name": "傻瓜麵",
       "description": "招牌麵條口感滑順, 深受夜市小吃愛好者喜愛。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.1,
       "reviews": 692,
       "categories": [
@@ -20676,7 +20676,7 @@
     {
       "name": "鮮見麵（大里店）",
       "description": "招牌麵食，人氣小吃，深受夜市食客喜愛。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 1349,
       "categories": [
@@ -20690,7 +20690,7 @@
     {
       "name": "立麒鮮肉湯包",
       "description": "鮮嫩多汁的湯包，搭配自製醬油，獲得食客青睞的超人氣麵食。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.1,
       "reviews": 2383,
       "categories": [
@@ -20704,7 +20704,7 @@
     {
       "name": "一口悶三角圓",
       "description": "",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.1,
       "reviews": 209,
       "categories": [
@@ -20719,7 +20719,7 @@
     {
       "name": "盛東餃子館",
       "description": "精緻的餃子讓人垂涎欲滴, 人氣餐廳深受食客喜愛。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 2263,
       "categories": [
@@ -20733,7 +20733,7 @@
     {
       "name": "東勢-你好小吃店",
       "description": "多樣小吃選擇，非常適合夜市愛好者。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 529,
       "categories": [
@@ -20747,7 +20747,7 @@
     {
       "name": "東勢田媽媽- 品佳客家田園料理",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 452,
       "categories": [
@@ -20761,7 +20761,7 @@
     {
       "name": "東口小店",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 644,
       "categories": [
@@ -20775,7 +20775,7 @@
     {
       "name": "老祖早餐灌蛋餅",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 963,
       "categories": [
@@ -20789,7 +20789,7 @@
     {
       "name": "老鄰居招牌豆干絲 (無供應麵(熱)食‼️）",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 343,
       "categories": [
@@ -20803,7 +20803,7 @@
     {
       "name": "麥當勞-東勢中正餐廳－設有得來速",
       "description": "老字號的經典連鎖速食店，以漢堡和薯條聞名。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4.1,
       "reviews": 3835,
       "categories": [
@@ -20817,7 +20817,7 @@
     {
       "name": "山東早點 (外帶店)",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 184,
       "categories": [
@@ -20831,7 +20831,7 @@
     {
       "name": "東勢竹豐牛排",
       "description": "",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4.1,
       "reviews": 688,
       "categories": [
@@ -20845,7 +20845,7 @@
     {
       "name": "阿忠米糕店",
       "description": "提供道地的米糕和小吃，讓每位顧客都能體驗台灣的美味。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.1,
       "reviews": 415,
       "categories": [
@@ -20859,7 +20859,7 @@
     {
       "name": "傑理歐法小館",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4.1,
       "reviews": 366,
       "categories": [
@@ -20873,7 +20873,7 @@
     {
       "name": "一品香水煎包專賣店",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.1,
       "reviews": 1090,
       "categories": [
@@ -20888,7 +20888,7 @@
     {
       "name": "大甲城燒餅",
       "description": "酥脆燒餅香氣四溢，搭配各式飲品，成為受歡迎的咖啡喫茶選擇。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.1,
       "reviews": 807,
       "categories": [
@@ -20902,7 +20902,7 @@
     {
       "name": "大甲黑石頭碳烤玉米",
       "description": "",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4.1,
       "reviews": 469,
       "categories": [
@@ -20916,7 +20916,7 @@
     {
       "name": "萬里香餐廳",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.1,
       "reviews": 1042,
       "categories": [
@@ -20944,7 +20944,7 @@
     {
       "name": "于庭健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.1,
       "reviews": 275,
       "categories": [
@@ -20958,7 +20958,7 @@
     {
       "name": "蔬福自在解禪蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 213,
       "categories": [
@@ -20972,7 +20972,7 @@
     {
       "name": "來來素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 252,
       "categories": [
@@ -20986,7 +20986,7 @@
     {
       "name": "上豪素食之家",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.1,
       "reviews": 10,
       "categories": [
@@ -21000,7 +21000,7 @@
     {
       "name": "羅素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.1,
       "reviews": 16,
       "categories": [
@@ -21014,7 +21014,7 @@
     {
       "name": "美味樓健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.1,
       "reviews": 47,
       "categories": [
@@ -21028,7 +21028,7 @@
     {
       "name": "福田素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4.1,
       "reviews": 28,
       "categories": [
@@ -21042,7 +21042,7 @@
     {
       "name": "大肚 文昌素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 4.1,
       "reviews": 9,
       "categories": [
@@ -21056,7 +21056,7 @@
     {
       "name": "慧德齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.1,
       "reviews": 299,
       "categories": [
@@ -21070,7 +21070,7 @@
     {
       "name": "清太素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4.1,
       "reviews": 37,
       "categories": [
@@ -21084,7 +21084,7 @@
     {
       "name": "春天素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4.1,
       "reviews": 1511,
       "categories": [
@@ -21098,7 +21098,7 @@
     {
       "name": "葉綠素素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大里區",
+      "area": "大里",
       "rating": 4.1,
       "reviews": 256,
       "categories": [
@@ -21112,7 +21112,7 @@
     {
       "name": "原味鴨肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.1,
       "reviews": 1450,
       "address": "406台灣臺中市太平區新吉里中山路三段22號",
@@ -21127,7 +21127,7 @@
     {
       "name": "餓了 (台式丼飯) 太平店",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4.1,
       "reviews": 804,
       "address": "411台灣臺中市太平區新平路一段47號",
@@ -21142,7 +21142,7 @@
     {
       "name": "海港城平價海鮮",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.1,
       "reviews": 2550,
       "address": "435台灣臺中市梧棲區中正里文化路二段159號",
@@ -21157,7 +21157,7 @@
     {
       "name": "古早味海鮮館",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.1,
       "reviews": 1778,
       "address": "435台灣臺中市梧棲區下寮里文化路二段393號",
@@ -21172,7 +21172,7 @@
     {
       "name": "秋茗居複合式餐飲-旋轉餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4.1,
       "reviews": 1560,
       "address": "435台灣臺中市梧棲區大庄里台灣大道八段699號25樓",
@@ -21187,7 +21187,7 @@
     {
       "name": "三禾手打麵 烏日店",
       "description": "日式料理餐廳",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4.1,
       "reviews": 1460,
       "address": "414台灣臺中市烏日區烏日里公園路282號",
@@ -21202,7 +21202,7 @@
     {
       "name": "風飛沙小吃店",
       "description": "中式餐廳，在地美味",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4.1,
       "reviews": 1323,
       "address": "429台灣臺中市神岡區庄後里大圳路86號",
@@ -21217,7 +21217,7 @@
     {
       "name": "石山丘的三十光陰",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4.1,
       "reviews": 661,
       "address": "422台灣臺中市石岡區萬安里大仁街10號",
@@ -21232,7 +21232,7 @@
     {
       "name": "恩典景觀咖啡廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4.1,
       "reviews": 9041,
       "address": "421台灣臺中市后里區永豐里月眉北路486號",
@@ -21247,7 +21247,7 @@
     {
       "name": "小莊壽司店",
       "description": "日式料理餐廳",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 4.1,
       "reviews": 2827,
       "address": "434台灣臺中市龍井區南寮里向上路六段50號",
@@ -21262,7 +21262,7 @@
     {
       "name": "石全石美石鍋專賣店 | 潭子美食 |",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.1,
       "reviews": 1051,
       "address": "427台灣臺中市潭子區甘蔗里興華一路303號",
@@ -21277,7 +21277,7 @@
     {
       "name": "呂爌肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4.1,
       "reviews": 556,
       "address": "427台灣臺中市潭子區嘉仁里福潭路828號",
@@ -21320,7 +21320,7 @@
     {
       "name": "士官長擀麵",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4,
       "reviews": 2190,
       "categories": [
@@ -21362,7 +21362,7 @@
     {
       "name": "東勢牛稼莊",
       "description": "這間氣氛輕鬆的餐廳設有露台，供應牛肉與特色內臟料理。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4,
       "reviews": 2442,
       "categories": [
@@ -21376,7 +21376,7 @@
     {
       "name": "榮記米糕 清水本舖",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4,
       "reviews": 1423,
       "categories": [
@@ -21432,7 +21432,7 @@
     {
       "name": "霧峰光復新村市場牛肉麵（圓環上方市場）",
       "description": "經典牛肉麵的口感，吸引眾多食客光臨。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4,
       "reviews": 756,
       "categories": [
@@ -21446,7 +21446,7 @@
     {
       "name": "惡魔雞排逢甲總店",
       "description": "逢甲文華路，薄皮香酥脆口厚度可觀，鮮美多汁紅到海外",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4,
       "reviews": 815,
       "categories": [
@@ -21460,7 +21460,7 @@
     {
       "name": "大甲芋頭城",
       "description": "逢甲路夏季消暑必備，芋頭冰綿密，配料豐富",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4,
       "reviews": 1373,
       "categories": [
@@ -21474,7 +21474,7 @@
     {
       "name": "梧棲57夯肉",
       "description": "梧棲燒肉火鍋吃到飽海線朋友聚餐新選擇CP值高適合多人",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4,
       "reviews": 1598,
       "categories": [
@@ -21488,7 +21488,7 @@
     {
       "name": "人間食解生態養生坊",
       "description": "有庭園和池塘的平實餐廳，供應養生餐點和甜點。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4,
       "reviews": 1277,
       "categories": [
@@ -21502,7 +21502,7 @@
     {
       "name": "大雅牛肉麵",
       "description": "牛肉麵的美味與品質兼具，湯頭香濃，吸引不少食客光臨。",
-      "area": "大雅區",
+      "area": "大雅",
       "rating": 4,
       "reviews": 1270,
       "categories": [
@@ -21614,7 +21614,7 @@
     {
       "name": "非常豪牛排館天津店",
       "description": "環境明亮、附設垂直花園和鞦韆的休閒餐廳，供應台式牛排、義大利麵和湯品。",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4,
       "reviews": 1587,
       "categories": [
@@ -21642,7 +21642,7 @@
     {
       "name": "梅川園客家現炒",
       "description": "多樣化的現炒選擇, 是愛好客家菜的必訪之地",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4,
       "reviews": 541,
       "categories": [
@@ -21698,7 +21698,7 @@
     {
       "name": "北平烤鴨",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4,
       "reviews": 2866,
       "categories": [
@@ -21712,7 +21712,7 @@
     {
       "name": "金牌巨無霸香酥臭豆腐",
       "description": "香酥可口的臭豆腐，獲得食客熱愛，非常受歡迎。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4,
       "reviews": 312,
       "categories": [
@@ -21726,7 +21726,7 @@
     {
       "name": "大甲芋頭城逢甲店",
       "description": "芋頭甜品綿密香甜, 讓人一試成主顧。",
-      "area": "西屯區",
+      "area": "西屯",
       "rating": 4,
       "reviews": 1373,
       "categories": [
@@ -21812,7 +21812,7 @@
     {
       "name": "魯肉賴小吃店",
       "description": "經典魯肉飯，滷汁香濃，讓人一試成主顧。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4,
       "reviews": 1090,
       "categories": [
@@ -21826,7 +21826,7 @@
     {
       "name": "秋吉商行【豐原人氣早午餐】",
       "description": "豐原人氣早午餐，咖啡與輕食搭配，適合悠閒的早晨。",
-      "area": "豐原區",
+      "area": "豐原",
       "rating": 4,
       "reviews": 413,
       "categories": [
@@ -21840,7 +21840,7 @@
     {
       "name": "阿水牛肉城",
       "description": "提供美味牛肉小吃，是夜市的必訪之地。",
-      "area": "東勢區",
+      "area": "東勢",
       "rating": 4,
       "reviews": 542,
       "categories": [
@@ -21854,7 +21854,7 @@
     {
       "name": "清水三代燒炸粿",
       "description": "",
-      "area": "清水區",
+      "area": "清水",
       "rating": 4,
       "reviews": 479,
       "categories": [
@@ -21868,7 +21868,7 @@
     {
       "name": "沙鹿肉圓福",
       "description": "",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4,
       "reviews": 963,
       "categories": [
@@ -21882,7 +21882,7 @@
     {
       "name": "大甲芋香包",
       "description": "香甜的芋頭內餡，搭配外皮的酥脆，是夜市必嘗的美味。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4,
       "reviews": 529,
       "categories": [
@@ -21897,7 +21897,7 @@
     {
       "name": "員園美食館 老牌羊肉",
       "description": "羊肉料理歷久彌新，人氣不斷上升。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4,
       "reviews": 1863,
       "categories": [
@@ -21911,7 +21911,7 @@
     {
       "name": "肉圓婆",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4,
       "reviews": 613,
       "categories": [
@@ -21925,7 +21925,7 @@
     {
       "name": "豪菩提素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南屯區",
+      "area": "南屯",
       "rating": 4,
       "reviews": 375,
       "categories": [
@@ -21939,7 +21939,7 @@
     {
       "name": "仟味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "后里區",
+      "area": "后里",
       "rating": 4,
       "reviews": 43,
       "categories": [
@@ -21953,7 +21953,7 @@
     {
       "name": "中興素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4,
       "reviews": 65,
       "categories": [
@@ -21967,7 +21967,7 @@
     {
       "name": "紫林素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4,
       "reviews": 150,
       "categories": [
@@ -21981,7 +21981,7 @@
     {
       "name": "明珠閣素食饗宴 | 素食餐廳 蔬食餐廳 蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4,
       "reviews": 4,
       "categories": [
@@ -21995,7 +21995,7 @@
     {
       "name": "天界素食（菜嗲）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "沙鹿區",
+      "area": "沙鹿",
       "rating": 4,
       "reviews": 1,
       "categories": [
@@ -22009,7 +22009,7 @@
     {
       "name": "千奇素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大甲區",
+      "area": "大甲",
       "rating": 4,
       "reviews": 42,
       "categories": [
@@ -22023,7 +22023,7 @@
     {
       "name": "立偉麵食-台中美食-餐廳",
       "description": "麵食專賣店，湯頭講究",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4,
       "reviews": 1410,
       "address": "406台灣臺中市北屯區北屯里太原路三段211號",
@@ -22038,7 +22038,7 @@
     {
       "name": "一品萱茶亭",
       "description": "中式餐廳，在地美味",
-      "area": "太平區",
+      "area": "太平",
       "rating": 4,
       "reviews": 613,
       "address": "411台灣臺中市太平區中興里中興路88-3號",
@@ -22053,7 +22053,7 @@
     {
       "name": "一畝田手工拉麵",
       "description": "日式料理餐廳",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 4,
       "reviews": 1296,
       "address": "435台灣臺中市梧棲區中正里文化路二段267號",
@@ -22068,7 +22068,7 @@
     {
       "name": "樂雅樂餐廳 台中高鐵店",
       "description": "中式餐廳，在地美味",
-      "area": "烏日區",
+      "area": "烏日",
       "rating": 4,
       "reviews": 4251,
       "address": "414台灣臺中市烏日區湖日里站區二路8號2樓",
@@ -22083,7 +22083,7 @@
     {
       "name": "政義美食婚宴會館",
       "description": "",
-      "area": "神岡區",
+      "area": "神岡",
       "rating": 4,
       "reviews": 606,
       "address": "429台灣臺中市神岡區社南里社南街173號",
@@ -22098,7 +22098,7 @@
     {
       "name": "牧莊原汁牛肉麵-石岡店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "石岡區",
+      "area": "石岡",
       "rating": 4,
       "reviews": 1122,
       "address": "422台灣臺中市石岡區萬興里萬仙街41號",
@@ -22113,7 +22113,7 @@
     {
       "name": "千樺花園餐廳-新社網美餐廳|景觀餐廳|人氣餐廳|親子餐廳|聚餐推薦|美食餐廳|賞花秘境",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4,
       "reviews": 929,
       "address": "426台灣臺中市新社區協成里協興街61號",
@@ -22128,7 +22128,7 @@
     {
       "name": "山東開心小館",
       "description": "中式餐廳，在地美味",
-      "area": "和平區",
+      "area": "和平",
       "rating": 4,
       "reviews": 1071,
       "address": "424台灣臺中市和平區博愛里東關路一段營前巷16號",
@@ -22143,7 +22143,7 @@
     {
       "name": "大慶麵食館",
       "description": "麵食專賣店，湯頭講究",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 4,
       "reviews": 1162,
       "address": "427台灣臺中市潭子區福仁里圓通南路265號",
@@ -22158,7 +22158,7 @@
     {
       "name": "梨山萬國餐廳（團體、素食、單點、水果）歡迎來電詢問",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "和平區",
+      "area": "和平",
       "rating": 3.9,
       "reviews": 610,
       "categories": [
@@ -22172,7 +22172,7 @@
     {
       "name": "上慈素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大肚區",
+      "area": "大肚",
       "rating": 3.9,
       "reviews": 16,
       "categories": [
@@ -22186,7 +22186,7 @@
     {
       "name": "梧棲福慧素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "梧棲區",
+      "area": "梧棲",
       "rating": 3.9,
       "reviews": 92,
       "categories": [
@@ -22200,7 +22200,7 @@
     {
       "name": "中興素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "潭子區",
+      "area": "潭子",
       "rating": 3.7,
       "reviews": 62,
       "categories": [
@@ -22214,7 +22214,7 @@
     {
       "name": "素食高麗菜煎餅",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "龍井區",
+      "area": "龍井",
       "rating": 3.7,
       "reviews": 29,
       "categories": [
@@ -22228,7 +22228,7 @@
     {
       "name": "臻芯Sincere=舒活慢飲•蔬食素物",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 3,
       "reviews": 13,
       "categories": [
@@ -22271,7 +22271,7 @@
     {
       "name": "東山棧",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.3,
       "reviews": 10153,
       "categories": [
@@ -22374,7 +22374,7 @@
     {
       "name": "溫叨",
       "description": "",
-      "area": "北屯區",
+      "area": "北屯",
       "rating": 4.7,
       "reviews": 4335,
       "categories": [
@@ -22459,7 +22459,7 @@
     },
     {
       "name": "Papawash 咖啡",
-      "area": "南屯區",
+      "area": "南屯",
       "description": "精選咖啡與舒適環境，完美的悠閒時光去處。",
       "categories": [
         "咖啡廳"
@@ -22809,7 +22809,7 @@
     {
       "name": "菇神（新社）",
       "description": "台中新社菇類主題餐廳，三代經營香菇事業，招牌原木冬菇土雞湯，米其林必比登推介。",
-      "area": "新社區",
+      "area": "新社",
       "rating": 4.3,
       "reviews": 1500,
       "categories": [
@@ -22935,7 +22935,7 @@
     {
       "name": "時哉VEGETARIAN/手工素抓餅",
       "description": "",
-      "area": "霧峰區",
+      "area": "霧峰",
       "rating": 4.8,
       "reviews": 76,
       "address": "413台灣臺中市霧峰區萬豐里中正路146之24號",

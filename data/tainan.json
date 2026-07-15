@@ -638,7 +638,7 @@
     {
       "name": "葉家小卷米粉",
       "description": "米粉滑嫩，搭配新鮮小卷，人氣美食。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 5338,
       "categories": [
@@ -674,7 +674,7 @@
     {
       "name": "田媽媽 長盈海味屋-米其林必比登推介、十大神農獎）",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.3,
       "reviews": 543,
       "address": "727台灣臺南市北門區慈安里484號",
@@ -707,7 +707,7 @@
     {
       "name": "阿興虱目魚",
       "description": "新鮮虱目魚料理，肉質鮮嫩，人氣佳品。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 2845,
       "categories": [
@@ -724,7 +724,7 @@
     {
       "name": "東香台菜海味料理",
       "description": "特色海味台菜，色香味俱全，讓人驚艷。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 714,
       "categories": [
@@ -741,7 +741,7 @@
     {
       "name": "黃家蝦捲",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 1786,
       "categories": [
@@ -775,7 +775,7 @@
     {
       "name": "尚好吃牛肉湯",
       "description": "招牌牛肉湯濃郁，讓人回味無窮。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.2,
       "reviews": 913,
       "categories": [
@@ -809,7 +809,7 @@
     {
       "name": "黑琵食堂餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.5,
       "reviews": 1760,
       "address": "724台灣臺南市七股區十份里海埔17之18號",
@@ -826,7 +826,7 @@
     {
       "name": "永通虱目魚粥_學甲",
       "description": "虱目魚粥香滑可口，吸引眾多食客光臨。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 3497,
       "categories": [
@@ -842,7 +842,7 @@
     {
       "name": "府城食府",
       "description": "傳統台菜精緻呈現，家庭聚餐的好去處。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 9057,
       "categories": [
@@ -859,7 +859,7 @@
     {
       "name": "王氏魚皮",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 14109,
       "categories": [
@@ -876,7 +876,7 @@
     {
       "name": "永通虱目魚粥",
       "description": "虱目魚粥鮮美滑順，早餐的理想選擇。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 3497,
       "categories": [
@@ -893,7 +893,7 @@
     {
       "name": "七股養蚵園家",
       "description": "新鮮蚵仔料理，海味十足的美食天堂。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 397,
       "categories": [
@@ -926,7 +926,7 @@
     {
       "name": "龍山楊記廟口蚵嗲",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.7,
       "reviews": 983,
       "address": "724台灣臺南市七股區龍山里211號",
@@ -960,7 +960,7 @@
     {
       "name": "點點心台灣 台南三井店",
       "description": "",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.7,
       "reviews": 3504,
       "address": "",
@@ -993,7 +993,7 @@
     {
       "name": "金花點心攤新市店",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.5,
       "reviews": 1018,
       "address": "744台灣臺南市新市區社內里富安一街59號",
@@ -1026,7 +1026,7 @@
     {
       "name": "金花點心攤新化創始店",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 214,
       "categories": [
@@ -1042,7 +1042,7 @@
     {
       "name": "文章牛肉湯 安平總店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 23041,
       "categories": [
@@ -1058,7 +1058,7 @@
     {
       "name": "蒜頭飯",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.1,
       "reviews": 2051,
       "address": "711台灣臺南市歸仁區大潭里長榮路一段279號",
@@ -1075,7 +1075,7 @@
     {
       "name": "蓮霧腳羊肉",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 416,
       "categories": [
@@ -1089,7 +1089,7 @@
     {
       "name": "長盈海味屋",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 543,
       "categories": [
@@ -1118,7 +1118,7 @@
     {
       "name": "鼎大沙茶爐-永康沙茶爐推薦|人氣鍋物|特色鍋物|平價火鍋|台式火鍋|必吃火鍋|在地推薦火鍋|聚餐餐廳",
       "description": "平價火鍋提供特色沙茶湯底，人氣聚餐選擇令人滿意。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 605,
       "categories": [
@@ -1132,7 +1132,7 @@
     {
       "name": "大噹家 日式街邊料理",
       "description": "提供正宗日式街邊小吃，讓你隨時隨地享受美味。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 842,
       "categories": [
@@ -1146,7 +1146,7 @@
     {
       "name": "八寶食堂善化店",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 5,
       "reviews": 1424,
       "categories": [
@@ -1188,7 +1188,7 @@
     {
       "name": "盈成火鍋-新化人氣鍋物|熱門鍋物|特色鍋物|平價火鍋|必吃火鍋|在地推薦火鍋",
       "description": "超人氣火鍋，平價又好吃，讓人想一再回訪。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 5,
       "reviews": 109,
       "categories": [
@@ -1230,7 +1230,7 @@
     {
       "name": "祝清香素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1244,7 +1244,7 @@
     {
       "name": "芊品素食鹹酥G",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 5,
       "reviews": 9,
       "categories": [
@@ -1258,7 +1258,7 @@
     {
       "name": "歸仁林家素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1272,7 +1272,7 @@
     {
       "name": "緣素素食專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -1286,7 +1286,7 @@
     {
       "name": "植蔬蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -1300,7 +1300,7 @@
     {
       "name": "冰棧素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西港區",
+      "area": "西港",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -1314,7 +1314,7 @@
     {
       "name": "立月麥面-唯自然豐蔬食廚房",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七股區",
+      "area": "七股",
       "rating": 5,
       "reviews": 97,
       "categories": [
@@ -1328,7 +1328,7 @@
     {
       "name": "好耶人早餐素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 5,
       "reviews": 5,
       "categories": [
@@ -1342,7 +1342,7 @@
     {
       "name": "素食菜丸子",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 5,
       "reviews": 6,
       "categories": [
@@ -1356,7 +1356,7 @@
     {
       "name": "吉祥平安素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1370,7 +1370,7 @@
     {
       "name": "微笑素食蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1384,7 +1384,7 @@
     {
       "name": "阿安素食外燴",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 5,
       "reviews": 40,
       "categories": [
@@ -1398,7 +1398,7 @@
     {
       "name": "福賀美蔬食（素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 5,
       "reviews": 4,
       "categories": [
@@ -1412,7 +1412,7 @@
     {
       "name": "素食燒烤",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 5,
       "reviews": 7,
       "categories": [
@@ -1426,7 +1426,7 @@
     {
       "name": "瓷皮蓮蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 5,
       "reviews": 7,
       "categories": [
@@ -1440,7 +1440,7 @@
     {
       "name": "容小妹蔬食關東煮",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 5,
       "reviews": 5,
       "categories": [
@@ -1496,7 +1496,7 @@
     {
       "name": "恆河仙雞（恆河蔬食手作）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 18,
       "categories": [
@@ -1510,7 +1510,7 @@
     {
       "name": "大灣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 1,
       "categories": [
@@ -1524,7 +1524,7 @@
     {
       "name": "旺旺蔬食飯捲（公休不一定）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 15,
       "categories": [
@@ -1538,7 +1538,7 @@
     {
       "name": "Phở chay素食河粉",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 5,
       "reviews": 5,
       "categories": [
@@ -1552,7 +1552,7 @@
     {
       "name": "芸蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 5,
       "reviews": 6,
       "categories": [
@@ -1566,7 +1566,7 @@
     {
       "name": "吳菜單素食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 5,
       "reviews": 6,
       "categories": [
@@ -1580,7 +1580,7 @@
     {
       "name": "樂緣素食（素食麵線糊、素食割包）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -1594,7 +1594,7 @@
     {
       "name": "天意素食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 5,
       "reviews": 3,
       "categories": [
@@ -1608,7 +1608,7 @@
     {
       "name": "品源素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 5,
       "reviews": 41,
       "categories": [
@@ -1622,7 +1622,7 @@
     {
       "name": "廣佶達素食商店(安南店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 5,
       "reviews": 49,
       "categories": [
@@ -1636,7 +1636,7 @@
     {
       "name": "阿綢炒飯",
       "description": "",
-      "area": "安定區",
+      "area": "安定",
       "rating": 5,
       "reviews": 474,
       "address": "",
@@ -1651,7 +1651,7 @@
     {
       "name": "天馬星空餐酒館",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 5,
       "reviews": 10701,
       "address": "",
@@ -1666,7 +1666,7 @@
     {
       "name": "Bula 冷奶油咖椰吐司-新市店（休假詳見Ig公告為主）",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 5,
       "reviews": 380,
       "address": "",
@@ -1723,7 +1723,7 @@
     {
       "name": "念念Table",
       "description": "以精緻的中式料理為主打，給人溫馨舒適的用餐體驗。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.9,
       "reviews": 218,
       "categories": [
@@ -1793,7 +1793,7 @@
     {
       "name": "善化素食炸炸（杏鮑菇、炒飯麵、鍋燒）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.9,
       "reviews": 18,
       "categories": [
@@ -1807,7 +1807,7 @@
     {
       "name": "Puffin Café Vegetarian & Vegan",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.9,
       "reviews": 1567,
       "categories": [
@@ -1821,7 +1821,7 @@
     {
       "name": "客來吃樂·善化店 | 大腸蚵仔麵線·黑糖綠豆蒜｜",
       "description": "特色大腸蚵仔麵線，搭配黑糖綠豆蒜讓人回味無窮。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.9,
       "reviews": 283,
       "categories": [
@@ -1877,7 +1877,7 @@
     {
       "name": "聚 日式鍋物 台南中華西店",
       "description": "人氣日式鍋物，湯頭鮮美，食材新鮮多樣。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.9,
       "reviews": 7751,
       "categories": [
@@ -1891,7 +1891,7 @@
     {
       "name": "府城夜宴_台南無光餐廳",
       "description": "以創意中式料理著稱，夜間無光的神秘氛圍令人期待。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.9,
       "reviews": 1168,
       "categories": [
@@ -1905,7 +1905,7 @@
     {
       "name": "蔚旭WESH古早味蛋糕 台南南科總店",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.9,
       "reviews": 2149,
       "categories": [
@@ -2297,7 +2297,7 @@
     {
       "name": "德記油雞",
       "description": "肉質鮮嫩的油雞，輕鬆俘獲食客的味蕾。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.9,
       "reviews": 236,
       "categories": [
@@ -2311,7 +2311,7 @@
     {
       "name": "賞螢觀景山寮仔咖啡簡餐火鍋",
       "description": "結合咖啡與火鍋的創意餐點，令人垂涎欲滴。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.9,
       "reviews": 551,
       "categories": [
@@ -2339,7 +2339,7 @@
     {
       "name": "嗑肉石鍋-台南新營店(二代店)",
       "description": "｜超人氣石鍋料理，鮮嫩肉質令人一試成主顧。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.9,
       "reviews": 5641,
       "categories": [
@@ -2436,7 +2436,7 @@
     {
       "name": "森饗創意蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.9,
       "reviews": 141,
       "categories": [
@@ -2463,7 +2463,7 @@
     {
       "name": "極圓素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.9,
       "reviews": 454,
       "categories": [
@@ -2477,7 +2477,7 @@
     {
       "name": "慈喜緣素食超市.現炸蔬食鹹酥雞《下午營業》～麻豆素食專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.9,
       "reviews": 19,
       "categories": [
@@ -2491,7 +2491,7 @@
     {
       "name": "光投醬師 素食小舖 蔬食湯滷",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.9,
       "reviews": 144,
       "categories": [
@@ -2505,7 +2505,7 @@
     {
       "name": "新月義式蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.9,
       "reviews": 537,
       "categories": [
@@ -2519,7 +2519,7 @@
     {
       "name": "良珍庭園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.9,
       "reviews": 46,
       "categories": [
@@ -2533,7 +2533,7 @@
     {
       "name": "慈宇蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.9,
       "reviews": 48,
       "categories": [
@@ -2547,7 +2547,7 @@
     {
       "name": "九町麗素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.9,
       "reviews": 108,
       "categories": [
@@ -2574,7 +2574,7 @@
     {
       "name": "薩達印度蔬食料理餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.9,
       "reviews": 605,
       "categories": [
@@ -2602,7 +2602,7 @@
     {
       "name": "莘咖哩 Veganers World",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.9,
       "reviews": 2920,
       "categories": [
@@ -2616,7 +2616,7 @@
     {
       "name": "享豐盛蔬食燒烤-崇德店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.9,
       "reviews": 10,
       "categories": [
@@ -2630,7 +2630,7 @@
     {
       "name": "i 蔬活蔬食披薩創始店｜6/29（ㄧ）正常營運｜初一十五正常營業|下午茶",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.9,
       "reviews": 169,
       "categories": [
@@ -2644,7 +2644,7 @@
     {
       "name": "一河漉蔬食餐（店休請看官方LINE IG FB)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.9,
       "reviews": 118,
       "categories": [
@@ -2658,7 +2658,7 @@
     {
       "name": "心膳緣蔬食肉骨茶",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.9,
       "reviews": 7,
       "categories": [
@@ -2672,7 +2672,7 @@
     {
       "name": "阿枝素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.9,
       "reviews": 29,
       "categories": [
@@ -2686,7 +2686,7 @@
     {
       "name": "文蔬素食餐坊（外帶專賣）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.9,
       "reviews": 37,
       "categories": [
@@ -2714,7 +2714,7 @@
     {
       "name": "來點美食工坊",
       "description": "中式餐廳，在地美味",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.9,
       "reviews": 669,
       "address": "71755台灣臺南市仁德區保安里文賢路一段640號",
@@ -2729,7 +2729,7 @@
     {
       "name": "TASTY西堤牛排 仁德中山店",
       "description": "排餐餐廳，主廚精選",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.9,
       "reviews": 16058,
       "address": "717台灣臺南市仁德區仁德里中山路777號",
@@ -2744,7 +2744,7 @@
     {
       "name": "黃金蕎麥探索館",
       "description": "中式餐廳，在地美味",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.9,
       "reviews": 9115,
       "address": "714台灣臺南市玉井區竹圍里內山公路288號",
@@ -2759,7 +2759,7 @@
     {
       "name": "玉梅芒果冰",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.9,
       "reviews": 3625,
       "address": "714台灣臺南市玉井區玉井里中正路134號",
@@ -2774,7 +2774,7 @@
     {
       "name": "小歇冰舖簡餐咖啡廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.9,
       "reviews": 1551,
       "address": "716台灣臺南市南化區北寮里49號",
@@ -2789,7 +2789,7 @@
     {
       "name": "饗翻天mini鍋物-西港店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4.9,
       "reviews": 1021,
       "address": "723台灣臺南市西港區慶安里新興街8-13號",
@@ -2804,7 +2804,7 @@
     {
       "name": "千賞x老胡小餓《推薦火鍋》｜火鍋｜宮廷火鍋｜麻辣鍋｜鴛鴦鍋｜安南區火鍋｜聚餐｜晚餐｜平價｜總店",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.9,
       "reviews": 764,
       "address": "709台灣臺南市安南區怡安路二段172號",
@@ -2819,7 +2819,7 @@
     {
       "name": "卡西法No.46廚房-歸仁創始店",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.9,
       "reviews": 1631,
       "address": "711台灣臺南市歸仁區辜厝里中正六街32號",
@@ -2834,7 +2834,7 @@
     {
       "name": "良生火鍋店（原家星極鍋物）",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.9,
       "reviews": 955,
       "address": "711台灣臺南市歸仁區歸仁里大通路76-2號",
@@ -2849,7 +2849,7 @@
     {
       "name": "心生活食堂",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.9,
       "reviews": 697,
       "address": "737台灣臺南市鹽水區117號",
@@ -2864,7 +2864,7 @@
     {
       "name": "NU PASTA 台南佳里店",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.9,
       "reviews": 7563,
       "address": "",
@@ -2879,7 +2879,7 @@
     {
       "name": "古早味六甲煎盤粿",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.9,
       "reviews": 483,
       "address": "",
@@ -2894,7 +2894,7 @@
     {
       "name": "汣禾家 - 果物美學",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.9,
       "reviews": 1068,
       "address": "",
@@ -2909,7 +2909,7 @@
     {
       "name": "八號有家烤魚（僅提供外帶及外送服務）",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.9,
       "reviews": 275,
       "address": "",
@@ -2924,7 +2924,7 @@
     {
       "name": "旭更廚房",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.9,
       "reviews": 372,
       "address": "",
@@ -2939,7 +2939,7 @@
     {
       "name": "烤友社",
       "description": "",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.9,
       "reviews": 475,
       "address": "",
@@ -2954,7 +2954,7 @@
     {
       "name": "饗徠火鍋",
       "description": "",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.9,
       "reviews": 317,
       "address": "",
@@ -2969,7 +2969,7 @@
     {
       "name": "謎壽司工作室【預約制丨外帶店丨提前預訂】 台南壽司 隱藏版 巷弄美食丨日本料理 小吃 壽司蛋糕 客製",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.9,
       "reviews": 313,
       "address": "",
@@ -2984,7 +2984,7 @@
     {
       "name": "一家拉麵ラーメン（麻豆店）",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.9,
       "reviews": 501,
       "address": "",
@@ -2999,7 +2999,7 @@
     {
       "name": "孫家小卷米粉",
       "description": "人氣米粉料理，搭配新鮮的小卷，口感滑順。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 1768,
       "categories": [
@@ -3027,7 +3027,7 @@
     {
       "name": "AKS brunch",
       "description": "享受精緻的咖啡和早午餐，人氣餐廳氣氛輕鬆愜意。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 1931,
       "categories": [
@@ -3232,7 +3232,7 @@
     {
       "name": "一葉牛肉清湯",
       "description": "清湯牛肉鮮甜可口，令人一再光顧。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.8,
       "reviews": 524,
       "categories": [
@@ -3286,7 +3286,7 @@
     {
       "name": "素食店/便當/蛋包飯/鍋燒意麵/臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.8,
       "reviews": 37,
       "categories": [
@@ -3410,7 +3410,7 @@
     {
       "name": "屋裏的湯",
       "description": "超人氣湯品，暖心的味道令人倍感安心與滿足。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 3215,
       "categories": [
@@ -3424,7 +3424,7 @@
     {
       "name": "爾遇",
       "description": "特色台菜讓人驚艷，傳遞出家的溫暖與情感。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 1080,
       "categories": [
@@ -3438,7 +3438,7 @@
     {
       "name": "老廣粵 花雕雞創意坊",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 6831,
       "categories": [
@@ -3452,7 +3452,7 @@
     {
       "name": "府城食府正宗台南料理-安平總店",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 9057,
       "categories": [
@@ -3466,7 +3466,7 @@
     {
       "name": "良人煮鍋｜手作鍋物｜安平區美食",
       "description": "手作鍋物，精緻食材搭配，帶來暖心的聚餐體驗。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 1927,
       "categories": [
@@ -3480,7 +3480,7 @@
     {
       "name": "初沐 義麵坊",
       "description": "創新義大利麵料理，搭配多種醬料選擇，令人驚喜。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 2802,
       "categories": [
@@ -3494,7 +3494,7 @@
     {
       "name": "NT牛排",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 5494,
       "categories": [
@@ -3508,7 +3508,7 @@
     {
       "name": "食光宴鐵板料理-善化本心宴",
       "description": "人氣鐵板料理，現場烹調的美味讓人食指大動。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.8,
       "reviews": 1097,
       "categories": [
@@ -4128,7 +4128,7 @@
     {
       "name": "茹奶奶手工水餃(專賣冷凍水餃)",
       "description": "專賣冷凍水餃，手工製作，口感滑嫩。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.8,
       "reviews": 109,
       "categories": [
@@ -4155,7 +4155,7 @@
     {
       "name": "佳里羊肉",
       "description": "鮮美羊肉小吃，口感細膩，深受食客喜愛。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 206,
       "categories": [
@@ -4182,7 +4182,7 @@
     {
       "name": "嗜麻殿_麻辣炒乾鍋_佳里分店",
       "description": "麻辣乾鍋香氣四溢，是麻辣愛好者的必訪之地。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 255,
       "categories": [
@@ -4209,7 +4209,7 @@
     {
       "name": "魚弄-酸菜魚、蓉城烤魚",
       "description": "提供多樣魚料理，讓味蕾享受盛宴。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.8,
       "reviews": 124,
       "categories": [
@@ -4306,7 +4306,7 @@
     {
       "name": "全養知 異國蔬食 奇美店｜台南蔬食推薦 優質台南素食 永康蔬食首選 永康素食好評 專業奇美蔬食 好吃美食奇美素食 中式西式蔬食評價 異國美食 健康餐飲",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 58,
       "categories": [
@@ -4320,7 +4320,7 @@
     {
       "name": "䊆ㄐㄧㄡˋ是蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 204,
       "categories": [
@@ -4347,7 +4347,7 @@
     {
       "name": "正新蔬食早午餐店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.8,
       "reviews": 111,
       "categories": [
@@ -4374,7 +4374,7 @@
     {
       "name": "圓璞素食館（鹹酥G)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.8,
       "reviews": 65,
       "categories": [
@@ -4388,7 +4388,7 @@
     {
       "name": "素食越南法國麵包",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 100,
       "categories": [
@@ -4415,7 +4415,7 @@
     {
       "name": "膳緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.8,
       "reviews": 25,
       "categories": [
@@ -4429,7 +4429,7 @@
     {
       "name": "素食烙餅",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.8,
       "reviews": 12,
       "categories": [
@@ -4443,7 +4443,7 @@
     {
       "name": "佳恩蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.8,
       "reviews": 64,
       "categories": [
@@ -4457,7 +4457,7 @@
     {
       "name": "友間爹豆花—蔬食手作坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 119,
       "categories": [
@@ -4484,7 +4484,7 @@
     {
       "name": "蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 5,
       "categories": [
@@ -4498,7 +4498,7 @@
     {
       "name": "素食水煎包",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4.8,
       "reviews": 20,
       "categories": [
@@ -4512,7 +4512,7 @@
     {
       "name": "盛齋素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.8,
       "reviews": 5,
       "categories": [
@@ -4526,7 +4526,7 @@
     {
       "name": "恩潔素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.8,
       "reviews": 185,
       "categories": [
@@ -4540,7 +4540,7 @@
     {
       "name": "綵珍素食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.8,
       "reviews": 6,
       "categories": [
@@ -4554,7 +4554,7 @@
     {
       "name": "天昇素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.8,
       "reviews": 36,
       "categories": [
@@ -4568,7 +4568,7 @@
     {
       "name": "美味素食館-鐵板麵/飯（特價50元）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.8,
       "reviews": 64,
       "categories": [
@@ -4596,7 +4596,7 @@
     {
       "name": "早菜單蔬食手作",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 191,
       "categories": [
@@ -4623,7 +4623,7 @@
     {
       "name": "廣緣蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 16,
       "categories": [
@@ -4637,7 +4637,7 @@
     {
       "name": "菩悅坊蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.8,
       "reviews": 76,
       "categories": [
@@ -4651,7 +4651,7 @@
     {
       "name": "有機素食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 35,
       "categories": [
@@ -4665,7 +4665,7 @@
     {
       "name": "道心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 6,
       "categories": [
@@ -4679,7 +4679,7 @@
     {
       "name": "元德素食麵食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.8,
       "reviews": 37,
       "categories": [
@@ -4693,7 +4693,7 @@
     {
       "name": "昭明烤蚵",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.8,
       "reviews": 826,
       "address": "724台灣臺南市七股區龍山里龍山里山仔寮211 之 3 號",
@@ -4721,7 +4721,7 @@
     {
       "name": "小松台南町食事所",
       "description": "日式料理餐廳",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.8,
       "reviews": 789,
       "address": "717台灣臺南市仁德區後壁里德糖路372號",
@@ -4749,7 +4749,7 @@
     {
       "name": "洋城義大利餐廳-台南新仁萬家福店",
       "description": "",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.8,
       "reviews": 2913,
       "address": "717台灣臺南市仁德區仁愛里大同路三段755號1樓",
@@ -4764,7 +4764,7 @@
     {
       "name": "新營海宴餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.8,
       "reviews": 3271,
       "address": "730台灣臺南市新營區忠政里健康路46號",
@@ -4779,7 +4779,7 @@
     {
       "name": "MINI.D COFFEE 新營館",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.8,
       "reviews": 628,
       "address": "730台灣臺南市新營區三民路148之7號",
@@ -4807,7 +4807,7 @@
     {
       "name": "西堤牛排 新營萬家福店",
       "description": "排餐餐廳，主廚精選",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.8,
       "reviews": 14649,
       "address": "730台灣臺南市新營區健康路251號新營康達盛通2F2樓",
@@ -4822,7 +4822,7 @@
     {
       "name": "太康食堂",
       "description": "中式餐廳，在地美味",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.8,
       "reviews": 1367,
       "address": "736台灣臺南市柳營區太康里義士路三段121號2樓",
@@ -4837,7 +4837,7 @@
     {
       "name": "露彎彎 The dew.",
       "description": "中式餐廳，在地美味",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4.8,
       "reviews": 655,
       "address": "723台灣臺南市西港區慶安里慶安路95-5號",
@@ -4865,7 +4865,7 @@
     {
       "name": "消磨蒔光家常料理 早午餐 下午茶 晚餐 複合式餐廳",
       "description": "",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.8,
       "reviews": 733,
       "address": "709台灣臺南市安南區原佃里怡安路二段170號",
@@ -4880,7 +4880,7 @@
     {
       "name": "焯玥食堂(排骨酥專賣店）",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.8,
       "reviews": 703,
       "address": "709台灣臺南市安南區海佃里國安街76號",
@@ -4895,7 +4895,7 @@
     {
       "name": "橫菁料理",
       "description": "日式料理餐廳",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 1705,
       "address": "711台灣臺南市歸仁區武東里光明街408號",
@@ -4910,7 +4910,7 @@
     {
       "name": "付家多采貴州風味羊肉粉（歸仁總店）/restaurants/takeout/美食/小吃/晚餐/螺蛳粉",
       "description": "",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 1516,
       "address": "",
@@ -4925,7 +4925,7 @@
     {
       "name": "馬祖新村 台南歸仁店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 596,
       "address": "711台灣臺南市歸仁區新厝里大成路58號",
@@ -4953,7 +4953,7 @@
     {
       "name": "Tea代液婆媳鹽水意麵，主打：意麵，火雞肉飯，",
       "description": "麵食專賣店，湯頭講究",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.8,
       "reviews": 612,
       "address": "737台灣臺南市鹽水區中山路2-1 號",
@@ -4977,7 +4977,7 @@
     {
       "name": "鰻牛 佳里店",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.8,
       "reviews": 264,
       "address": "",
@@ -5005,7 +5005,7 @@
     {
       "name": "享糊牛肉麵（安定創始店）",
       "description": "",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.8,
       "reviews": 430,
       "address": "",
@@ -5020,7 +5020,7 @@
     {
       "name": "甲桂林港式茶餐廳",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.8,
       "reviews": 3009,
       "address": "",
@@ -5035,7 +5035,7 @@
     {
       "name": "蒔柒鐵板燒",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.8,
       "reviews": 313,
       "address": "",
@@ -5050,7 +5050,7 @@
     {
       "name": "非螄不可｜螺螄粉新市旗艦店",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.8,
       "reviews": 396,
       "address": "",
@@ -5065,7 +5065,7 @@
     {
       "name": "小兔來了餐廳-新市總店",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.8,
       "reviews": 391,
       "address": "",
@@ -5080,7 +5080,7 @@
     {
       "name": "A咖熊幸福鐵道景觀餐廳",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.8,
       "reviews": 1070,
       "address": "",
@@ -5095,7 +5095,7 @@
     {
       "name": "好寶好食 The Fabulous /椬式感｜歸仁健康餐盒．抓周派對．輕食外燴",
       "description": "",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.8,
       "reviews": 369,
       "address": "",
@@ -5110,7 +5110,7 @@
     {
       "name": "匠子煮｜ 燒肉丼飯/韓式豆腐鍋 /烏龍麵 專賣店（營業時間看粉專）",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.8,
       "reviews": 761,
       "address": "",
@@ -5125,7 +5125,7 @@
     {
       "name": "空白餐館",
       "description": "",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.8,
       "reviews": 293,
       "address": "",
@@ -5153,7 +5153,7 @@
     {
       "name": "深緣及水-關廟服務區(北上)",
       "description": "",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.8,
       "reviews": 384,
       "address": "",
@@ -5168,7 +5168,7 @@
     {
       "name": "妙哉素食",
       "description": "",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.8,
       "reviews": 8,
       "address": "743台灣臺南市山上區327-8 號",
@@ -5211,7 +5211,7 @@
     {
       "name": "SunnyPasta陽光義式廚坊",
       "description": "附設露台的質樸義式餐廳，供應義大利麵、海鮮、肉類料理和甜點。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 2251,
       "categories": [
@@ -5337,7 +5337,7 @@
     {
       "name": "新化老街黃家牛肉湯",
       "description": "人氣牛肉湯，濃郁湯頭搭配嫩牛肉，滋味無窮。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 120,
       "categories": [
@@ -5379,7 +5379,7 @@
     {
       "name": "兒本蔬食餐廳 善化店｜Earthborn Restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 312,
       "categories": [
@@ -5393,7 +5393,7 @@
     {
       "name": "福爾摩莎 - 素食小點 Vegetarian",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.7,
       "reviews": 37,
       "categories": [
@@ -5407,7 +5407,7 @@
     {
       "name": "上慈素食便當、海苔飯捲、素食桌、炒飯、炒麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.7,
       "reviews": 177,
       "categories": [
@@ -5421,7 +5421,7 @@
     {
       "name": "種素素食早午餐Zone Su brunch｜ Vegetarian ｜Vegan｜Gluten Free",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.7,
       "reviews": 471,
       "categories": [
@@ -5435,7 +5435,7 @@
     {
       "name": "月德宴-品幻蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.7,
       "reviews": 369,
       "categories": [
@@ -5449,7 +5449,7 @@
     {
       "name": "【力康天然食品屋】養生外帶蔬食餐盒小菜/無添加食品/有機綠拿鐵精力湯/小農蔬果/維健寶蔬菜粉",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.7,
       "reviews": 76,
       "categories": [
@@ -5519,7 +5519,7 @@
     {
       "name": "夏慕尼新香榭鐵板燒 台南永華店",
       "description": "超人氣鐵板燒，現煮現烤，滿足味蕾的享受。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.7,
       "reviews": 4571,
       "categories": [
@@ -5533,7 +5533,7 @@
     {
       "name": "東悅坊港式飲茶-台南店",
       "description": "超人氣的港式飲茶，品味多樣精緻點心，讓人回味無窮。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 6092,
       "categories": [
@@ -5547,7 +5547,7 @@
     {
       "name": "彌燉道9號",
       "description": "氣氛悠閒的餐廳，供應義大利麵、披薩、燉飯與帕尼尼等經典義式料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 3723,
       "categories": [
@@ -5561,7 +5561,7 @@
     {
       "name": "LA-墨川樟茶鴨/永康店",
       "description": "超人氣的樟茶鴨料理，濃郁味道讓你一次滿足。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 6687,
       "categories": [
@@ -5575,7 +5575,7 @@
     {
       "name": "洋城義大利餐廳-台南中正萬家福店",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 1952,
       "categories": [
@@ -5589,7 +5589,7 @@
     {
       "name": "台南芬菊健康餐廳",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.7,
       "reviews": 1123,
       "categories": [
@@ -5603,7 +5603,7 @@
     {
       "name": "灣裡燒肉專門所",
       "description": "超人氣燒肉專賣店，肉質鮮嫩多汁，口感絕佳，讓人一再回訪。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.7,
       "reviews": 365,
       "categories": [
@@ -6065,7 +6065,7 @@
     {
       "name": "善化無名豆菜麵-宵夜早餐",
       "description": "豆菜麵口感滑順，適合宵夜和早餐享用。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.7,
       "reviews": 565,
       "categories": [
@@ -6079,7 +6079,7 @@
     {
       "name": "大好蒸餃店",
       "description": "蒸餃超人氣，皮薄餡多，令人回味無窮。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.7,
       "reviews": 397,
       "categories": [
@@ -6093,7 +6093,7 @@
     {
       "name": "街役場古蹟餐坊",
       "description": "人氣小吃之地，提供各式經典夜市美食，讓人回味無窮。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 2308,
       "categories": [
@@ -6107,7 +6107,7 @@
     {
       "name": "Kizuna Café（店內有貓，請斟酌入店；六位以上恕不接待）",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 409,
       "categories": [
@@ -6121,7 +6121,7 @@
     {
       "name": "双木林 • 健康餐-佳里店",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.7,
       "reviews": 304,
       "categories": [
@@ -6135,7 +6135,7 @@
     {
       "name": "植朵 輕甜品-佳里店",
       "description": "輕甜品選擇多樣，讓你的午後時光更加甜蜜。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.7,
       "reviews": 173,
       "categories": [
@@ -6149,7 +6149,7 @@
     {
       "name": "晨曦庭園美食",
       "description": "環境優雅，提供新鮮小吃，適合與友人聚餐。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.7,
       "reviews": 419,
       "categories": [
@@ -6163,7 +6163,7 @@
     {
       "name": "溪北飯桌",
       "description": "地道小吃，夜市裡的隱藏美味，帶來滿滿的家鄉滋味。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 254,
       "categories": [
@@ -6248,7 +6248,7 @@
     {
       "name": "金門素食城",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 228,
       "categories": [
@@ -6262,7 +6262,7 @@
     {
       "name": "老街素食（新化老街/素食餐廳）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 81,
       "categories": [
@@ -6276,7 +6276,7 @@
     {
       "name": "玉詩越南素食美食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.7,
       "reviews": 115,
       "categories": [
@@ -6290,7 +6290,7 @@
     {
       "name": "日珍素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.7,
       "reviews": 7,
       "categories": [
@@ -6304,7 +6304,7 @@
     {
       "name": "好食光健康蔬食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.7,
       "reviews": 27,
       "categories": [
@@ -6318,7 +6318,7 @@
     {
       "name": "國香園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.7,
       "reviews": 3,
       "categories": [
@@ -6332,7 +6332,7 @@
     {
       "name": "慈弘素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.7,
       "reviews": 12,
       "categories": [
@@ -6346,7 +6346,7 @@
     {
       "name": "G•BURGER 佳里店 蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.7,
       "reviews": 95,
       "categories": [
@@ -6360,7 +6360,7 @@
     {
       "name": "獨蔬人蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.7,
       "reviews": 324,
       "categories": [
@@ -6374,7 +6374,7 @@
     {
       "name": "大新素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.7,
       "reviews": 14,
       "categories": [
@@ -6388,7 +6388,7 @@
     {
       "name": "妙蓮素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.7,
       "reviews": 43,
       "categories": [
@@ -6402,7 +6402,7 @@
     {
       "name": "妙心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.7,
       "reviews": 59,
       "categories": [
@@ -6416,7 +6416,7 @@
     {
       "name": "憲忠師中西式素食早餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.7,
       "reviews": 30,
       "categories": [
@@ -6430,7 +6430,7 @@
     {
       "name": "素食薏仁粥",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.7,
       "reviews": 15,
       "categories": [
@@ -6444,7 +6444,7 @@
     {
       "name": "建德素食養生坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.7,
       "reviews": 302,
       "categories": [
@@ -6458,7 +6458,7 @@
     {
       "name": "老爹蔬食X拾叁珈琲",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.7,
       "reviews": 392,
       "categories": [
@@ -6472,7 +6472,7 @@
     {
       "name": "大員蔬食（冷凍食品專賣）（無熟食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.7,
       "reviews": 40,
       "categories": [
@@ -6514,7 +6514,7 @@
     {
       "name": "好食齋素食 （6/25至7/6店休）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 91,
       "categories": [
@@ -6528,7 +6528,7 @@
     {
       "name": "素食脆皮薯薯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 58,
       "categories": [
@@ -6542,7 +6542,7 @@
     {
       "name": "鮮肉/素食煎餃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.7,
       "reviews": 9,
       "categories": [
@@ -6556,7 +6556,7 @@
     {
       "name": "南無阿彌陀佛(蔬)素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.7,
       "reviews": 97,
       "categories": [
@@ -6570,7 +6570,7 @@
     {
       "name": "曉蝶海產店",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.7,
       "reviews": 678,
       "address": "724台灣臺南市七股區龍山里",
@@ -6585,7 +6585,7 @@
     {
       "name": "七股龍海號生態之旅（海寮碼頭）",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.7,
       "reviews": 3340,
       "address": "72447台灣臺南市七股區南31鄉道",
@@ -6600,7 +6600,7 @@
     {
       "name": "億品鍋_台南仁德店 Mini Shabu Shabu",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.7,
       "reviews": 1939,
       "address": "717台灣臺南市仁德區仁義里中正路三段18號",
@@ -6615,7 +6615,7 @@
     {
       "name": "阿嬤的珍藏",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.7,
       "reviews": 1262,
       "address": "717台灣臺南市仁德區仁德里文華路三段428巷111號",
@@ -6645,7 +6645,7 @@
     {
       "name": "寶寶夢想城堡",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 515,
       "address": "73009台灣臺南市新營區民生里三民路149-1號",
@@ -6660,7 +6660,7 @@
     {
       "name": "魔法森林景觀咖啡小餐館",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.7,
       "reviews": 2874,
       "address": "71442台灣臺南市玉井區層林里1-8號",
@@ -6675,7 +6675,7 @@
     {
       "name": "三千院",
       "description": "日式料理餐廳",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.7,
       "reviews": 2194,
       "address": "714002台灣臺南市玉井區層林里層林1之8號",
@@ -6690,7 +6690,7 @@
     {
       "name": "玉井讚冰店-芒果冰 總店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.7,
       "reviews": 1429,
       "address": "714台灣臺南市玉井區玉井里中正路95號",
@@ -6705,7 +6705,7 @@
     {
       "name": "小東門咖哩-台南新市店",
       "description": "日式料理餐廳",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.7,
       "reviews": 1118,
       "address": "744台灣臺南市新市區新和里仁愛街147號",
@@ -6720,7 +6720,7 @@
     {
       "name": "七陶里季",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.7,
       "reviews": 1230,
       "address": "709台灣臺南市安南區頂安里北安路二段530、532號",
@@ -6735,7 +6735,7 @@
     {
       "name": "洪老記牛肉麵-佳里直營店(每週四公休）",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.7,
       "reviews": 714,
       "address": "",
@@ -6750,7 +6750,7 @@
     {
       "name": "枝姨古早味虱目魚碗粿",
       "description": "",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.7,
       "reviews": 274,
       "address": "",
@@ -6765,7 +6765,7 @@
     {
       "name": "五鮮級鍋物專賣 學甲自強店",
       "description": "",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.7,
       "reviews": 1145,
       "address": "",
@@ -6780,7 +6780,7 @@
     {
       "name": "盈賓休閒餐廳 | 土雞料理 | 宴客合菜 |",
       "description": "",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.7,
       "reviews": 465,
       "address": "",
@@ -6795,7 +6795,7 @@
     {
       "name": "LA-墨川樟茶烤鴨/安平店",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.7,
       "reviews": 1660,
       "address": "",
@@ -6810,7 +6810,7 @@
     {
       "name": "湛燃燒肉-台南安平店 Yakiniku Azure-台南人氣燒肉|必吃燒肉|聚餐推薦|熱門餐廳|日式",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.7,
       "reviews": 1484,
       "address": "",
@@ -6825,7 +6825,7 @@
     {
       "name": "濃咖哩Bar",
       "description": "",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.7,
       "reviews": 260,
       "address": "",
@@ -6840,7 +6840,7 @@
     {
       "name": "泉威布丁豆花-新化武德殿",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.7,
       "reviews": 266,
       "address": "",
@@ -6855,7 +6855,7 @@
     {
       "name": "來呷飯川食堂（新營店）",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 735,
       "address": "",
@@ -6870,7 +6870,7 @@
     {
       "name": "隨園食鍋 Be Garden",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 787,
       "address": "",
@@ -6885,7 +6885,7 @@
     {
       "name": "Joyfull台灣珍有福 台南新營店",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 1492,
       "address": "",
@@ -6900,7 +6900,7 @@
     {
       "name": "牛丁次郎坊x台南支店",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.7,
       "reviews": 904,
       "address": "",
@@ -6915,7 +6915,7 @@
     {
       "name": "東山阿華砂鍋魚頭",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.7,
       "reviews": 749,
       "address": "",
@@ -6930,7 +6930,7 @@
     {
       "name": "小牧鍋Minimoo-台南永康店",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 295,
       "address": "",
@@ -6945,7 +6945,7 @@
     {
       "name": "NU PASTA 台南永康店",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.7,
       "reviews": 4456,
       "address": "",
@@ -6960,7 +6960,7 @@
     {
       "name": "2031幸福包裝場",
       "description": "",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.7,
       "reviews": 346,
       "address": "",
@@ -6975,7 +6975,7 @@
     {
       "name": "山景土雞城",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.7,
       "reviews": 2931,
       "address": "",
@@ -6990,7 +6990,7 @@
     {
       "name": "竹茅土雞城",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.7,
       "reviews": 496,
       "address": "",
@@ -7075,7 +7075,7 @@
     {
       "name": "陽光有次日式家庭料理",
       "description": "提供溫馨的日式家庭料理，讓人感受到家的味道。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.6,
       "reviews": 414,
       "categories": [
@@ -7145,7 +7145,7 @@
     {
       "name": "MEGOPUN Hamburger",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 895,
       "categories": [
@@ -7159,7 +7159,7 @@
     {
       "name": "白河萬里長城 主題文化館 - 台南 人氣部落客推薦熱門景點 網美IG拍照打卡 學校團體家庭親子觀光旅遊首選",
       "description": "主題文化館結合美食，超人氣打卡景點，適合家庭聚餐。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.6,
       "reviews": 326,
       "categories": [
@@ -7173,7 +7173,7 @@
     {
       "name": "Sow Vegan",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.6,
       "reviews": 41,
       "categories": [
@@ -7201,7 +7201,7 @@
     {
       "name": "（暫時休息中）在新化的阿蓮黑輪攤（阿蓮大腸香腸）",
       "description": "阿蓮黑輪攤，暫時休息中，知名黑輪和大腸香腸，讓人期待再度開業。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.6,
       "reviews": 429,
       "categories": [
@@ -7285,7 +7285,7 @@
     {
       "name": "居心地安平",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 203,
       "categories": [
@@ -7299,7 +7299,7 @@
     {
       "name": "廳舍餐廳",
       "description": "結合傳統與創新，提供精緻的中式台菜，深受食客喜愛。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 1108,
       "categories": [
@@ -7313,7 +7313,7 @@
     {
       "name": "咖樂聚 善化店",
       "description": "人氣餐廳以多樣化的台菜和友好的服務著稱。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 1924,
       "categories": [
@@ -7705,7 +7705,7 @@
     {
       "name": "桂田酒店_阿力海百匯餐廳",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.6,
       "reviews": 17406,
       "categories": [
@@ -7719,7 +7719,7 @@
     {
       "name": "超悅涼麵",
       "description": "專賣清爽涼麵，夏季消暑的最佳選擇。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 485,
       "categories": [
@@ -7733,7 +7733,7 @@
     {
       "name": "阿嬤ㄟ古早味(善化店）",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 137,
       "categories": [
@@ -7747,7 +7747,7 @@
     {
       "name": "敲早",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.6,
       "reviews": 180,
       "categories": [
@@ -7761,7 +7761,7 @@
     {
       "name": "黃金美 • 食",
       "description": "夜市小吃的代表，讓你體驗地道台灣滋味。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 226,
       "categories": [
@@ -7775,7 +7775,7 @@
     {
       "name": "品香心肝湯",
       "description": "熱騰騰的湯品，讓人暖心又暖胃的夜市美食。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 590,
       "categories": [
@@ -7789,7 +7789,7 @@
     {
       "name": "好日。comfort food",
       "description": "提供各式舒適小吃，讓你感受家的味道。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 614,
       "categories": [
@@ -7803,7 +7803,7 @@
     {
       "name": "佳里阿彌專業臭豆腐",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 923,
       "categories": [
@@ -7817,7 +7817,7 @@
     {
       "name": "寶記粥麵館",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 130,
       "categories": [
@@ -7831,7 +7831,7 @@
     {
       "name": "云瑄越南脆皮烤豬",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 225,
       "categories": [
@@ -7845,7 +7845,7 @@
     {
       "name": "雨露森林景觀咖啡",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.6,
       "reviews": 766,
       "categories": [
@@ -7859,7 +7859,7 @@
     {
       "name": "5021餐廳",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.6,
       "reviews": 294,
       "categories": [
@@ -7873,7 +7873,7 @@
     {
       "name": "田園甕仔雞",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.6,
       "reviews": 431,
       "categories": [
@@ -7887,7 +7887,7 @@
     {
       "name": "好姿位麵館",
       "description": "",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.6,
       "reviews": 111,
       "categories": [
@@ -7901,7 +7901,7 @@
     {
       "name": "學甲鹽酥雞",
       "description": "人氣鹽酥雞，外酥內嫩，口感絕佳，夜市小吃首選。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.6,
       "reviews": 294,
       "categories": [
@@ -7915,7 +7915,7 @@
     {
       "name": "步穀農創館〈OK物流-後壁步穀店〉",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.6,
       "reviews": 136,
       "categories": [
@@ -7999,7 +7999,7 @@
     {
       "name": "永康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.6,
       "reviews": 236,
       "categories": [
@@ -8013,7 +8013,7 @@
     {
       "name": "大樂蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.6,
       "reviews": 231,
       "categories": [
@@ -8027,7 +8027,7 @@
     {
       "name": "茴香食蔬飯包-新化店｜素食便當｜便當外送",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.6,
       "reviews": 65,
       "categories": [
@@ -8041,7 +8041,7 @@
     {
       "name": "三玳蔬食(蛋奶素、全素)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.6,
       "reviews": 105,
       "categories": [
@@ -8055,7 +8055,7 @@
     {
       "name": "苷簞蔬食-裕農總店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.6,
       "reviews": 481,
       "categories": [
@@ -8069,7 +8069,7 @@
     {
       "name": "呷好寶素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.6,
       "reviews": 224,
       "categories": [
@@ -8083,7 +8083,7 @@
     {
       "name": "素食小館(玉井)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.6,
       "reviews": 16,
       "categories": [
@@ -8097,7 +8097,7 @@
     {
       "name": "緣圓素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.6,
       "reviews": 43,
       "categories": [
@@ -8111,7 +8111,7 @@
     {
       "name": "顏媽媽素食攤",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.6,
       "reviews": 83,
       "categories": [
@@ -8125,7 +8125,7 @@
     {
       "name": "麻豆素食章魚燒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.6,
       "reviews": 46,
       "categories": [
@@ -8139,7 +8139,7 @@
     {
       "name": "全家素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 13,
       "categories": [
@@ -8153,7 +8153,7 @@
     {
       "name": "快樂素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 12,
       "categories": [
@@ -8167,7 +8167,7 @@
     {
       "name": "香靜素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 16,
       "categories": [
@@ -8181,7 +8181,7 @@
     {
       "name": "知三素香麵線- 蔬食料理 Vegan 城隍廟商圈美食 （轉入全家巷內）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.6,
       "reviews": 153,
       "categories": [
@@ -8195,7 +8195,7 @@
     {
       "name": "臻園素食拉麵專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 297,
       "categories": [
@@ -8209,7 +8209,7 @@
     {
       "name": "上品素食（新營第一公有市場內）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 224,
       "categories": [
@@ -8223,7 +8223,7 @@
     {
       "name": "安和素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 109,
       "categories": [
@@ -8237,7 +8237,7 @@
     {
       "name": "正昇素食部",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.6,
       "reviews": 5,
       "categories": [
@@ -8251,7 +8251,7 @@
     {
       "name": "真味素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.6,
       "reviews": 194,
       "categories": [
@@ -8265,7 +8265,7 @@
     {
       "name": "御素界平價素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.6,
       "reviews": 167,
       "categories": [
@@ -8279,7 +8279,7 @@
     {
       "name": "玉慈香素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.6,
       "reviews": 95,
       "categories": [
@@ -8293,7 +8293,7 @@
     {
       "name": "家恩素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.6,
       "reviews": 158,
       "categories": [
@@ -8307,7 +8307,7 @@
     {
       "name": "蔬果子蔬食料理安平店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 70,
       "categories": [
@@ -8321,7 +8321,7 @@
     {
       "name": "綠竹素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 152,
       "categories": [
@@ -8377,7 +8377,7 @@
     {
       "name": "京享蔬食百匯餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.6,
       "reviews": 1394,
       "categories": [
@@ -8391,7 +8391,7 @@
     {
       "name": "飯麵素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.6,
       "reviews": 37,
       "categories": [
@@ -8405,7 +8405,7 @@
     {
       "name": "也甜蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 5,
       "categories": [
@@ -8419,7 +8419,7 @@
     {
       "name": "安來素食簡餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.6,
       "reviews": 42,
       "categories": [
@@ -8433,7 +8433,7 @@
     {
       "name": "幸福館蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.6,
       "reviews": 9,
       "categories": [
@@ -8447,7 +8447,7 @@
     {
       "name": "東益烤鮮蚵海鮮快炒",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.6,
       "reviews": 1094,
       "address": "724台灣臺南市七股區大潭里西部濱海公路18號",
@@ -8462,7 +8462,7 @@
     {
       "name": "地果咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.6,
       "reviews": 1578,
       "address": "71755台灣臺南市仁德區仁愛里大同路三段838號",
@@ -8477,7 +8477,7 @@
     {
       "name": "海口海鮮餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 6461,
       "address": "730台灣臺南市新營區南興里新進路二段215-8號",
@@ -8492,7 +8492,7 @@
     {
       "name": "小紅堂牛肉麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 685,
       "address": "730台灣臺南市新營區民權里民權路118-5號",
@@ -8507,7 +8507,7 @@
     {
       "name": "清海鮮魚湯",
       "description": "中式餐廳，在地美味",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.6,
       "reviews": 506,
       "address": "74342台灣臺南市山上區南洲里72之2號",
@@ -8522,7 +8522,7 @@
     {
       "name": "隱田山房",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.6,
       "reviews": 4771,
       "address": "714台灣臺南市玉井區層林里10號",
@@ -8537,7 +8537,7 @@
     {
       "name": "森甜秘境_STMJ cafe",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.6,
       "reviews": 919,
       "address": "714台灣臺南市玉井區豐里里89之16號",
@@ -8552,7 +8552,7 @@
     {
       "name": "太山梅仔雞創始店",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.6,
       "reviews": 1542,
       "address": "715台灣臺南市楠西區灣丘里4號",
@@ -8567,7 +8567,7 @@
     {
       "name": "牛山烤雞",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.6,
       "reviews": 566,
       "address": "715台灣臺南市楠西區照興里78之3號",
@@ -8582,7 +8582,7 @@
     {
       "name": "左鎮碳烤土雞",
       "description": "中式餐廳，在地美味",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.6,
       "reviews": 1272,
       "address": "713台灣台南市左镇区睦光里26-1號",
@@ -8597,7 +8597,7 @@
     {
       "name": "平埔族美食",
       "description": "中式餐廳，在地美味",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.6,
       "reviews": 2901,
       "address": "713台灣臺南市左鎮區中正里8號之7號",
@@ -8612,7 +8612,7 @@
     {
       "name": "橋前駅貨櫃咖啡 Ciao cafe",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.6,
       "reviews": 697,
       "address": "71841台灣臺南市關廟區新埔里南雄路二段688號",
@@ -8627,7 +8627,7 @@
     {
       "name": "小菱居",
       "description": "中式餐廳，在地美味",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.6,
       "reviews": 514,
       "address": "720台灣臺南市官田區隆田里四維街1號",
@@ -8642,7 +8642,7 @@
     {
       "name": "台南買記鍋燒意麵",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.6,
       "reviews": 735,
       "address": "720台灣臺南市官田區隆田里中山路一段36號",
@@ -8657,7 +8657,7 @@
     {
       "name": "林家豆菜麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.6,
       "reviews": 562,
       "address": "No. 7號 中正路422巷 六甲里六甲區臺南市台灣 734",
@@ -8672,7 +8672,7 @@
     {
       "name": "六甲媽祖廟剉冰",
       "description": "中式餐廳，在地美味",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.6,
       "reviews": 3251,
       "address": "734台灣臺南市六甲區六甲里仁愛街28號",
@@ -8687,7 +8687,7 @@
     {
       "name": "Mr.Wheat 小麥先生創意料理 - 新市創始店",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.6,
       "reviews": 4352,
       "address": "744台灣臺南市新市區新和里富林路352號",
@@ -8702,7 +8702,7 @@
     {
       "name": "YO義思-新市店",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.6,
       "reviews": 594,
       "address": "74446台灣臺南市新市區社內里社內2之4號",
@@ -8717,7 +8717,7 @@
     {
       "name": "南鯤鯓海產店",
       "description": "中式餐廳，在地美味",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.6,
       "reviews": 643,
       "address": "727台灣臺南市北門區蚵寮里985號",
@@ -8732,7 +8732,7 @@
     {
       "name": "壽老人製丼所｜台南海佃店｜午餐晚餐｜最好吃的丼飯｜人氣美食｜安南美食｜restaurant｜咖哩｜定食｜便當｜餐廳｜",
       "description": "日式料理餐廳",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.6,
       "reviews": 1005,
       "address": "709台灣臺南市安南區溪墘里海佃路一段330號",
@@ -8747,7 +8747,7 @@
     {
       "name": "徠 台灣新知味 台南歸仁總店",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.6,
       "reviews": 1358,
       "address": "711台灣臺南市歸仁區南興里中山路三段455號",
@@ -8762,7 +8762,7 @@
     {
       "name": "旭麵",
       "description": "日式料理餐廳",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.6,
       "reviews": 757,
       "address": "711台灣臺南市歸仁區南保里民權南路170號1樓",
@@ -8777,7 +8777,7 @@
     {
       "name": "清香馨牛肉麵 (每週二公休)",
       "description": "麵食專賣店，湯頭講究",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.6,
       "reviews": 541,
       "address": "737台灣臺南市鹽水區岸內里朝琴路247號",
@@ -8792,7 +8792,7 @@
     {
       "name": "娜Na手作廚房",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.6,
       "reviews": 1230,
       "address": "",
@@ -8807,7 +8807,7 @@
     {
       "name": "台北真來馫烤鴨莊 學甲分店",
       "description": "",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.6,
       "reviews": 254,
       "address": "",
@@ -8822,7 +8822,7 @@
     {
       "name": "涵花庭",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 5524,
       "address": "",
@@ -8837,7 +8837,7 @@
     {
       "name": "納瑪泰泰式餐廳",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.6,
       "reviews": 761,
       "address": "",
@@ -8852,7 +8852,7 @@
     {
       "name": "老街 手工自製麵",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.6,
       "reviews": 339,
       "address": "",
@@ -8867,7 +8867,7 @@
     {
       "name": "45 House",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.6,
       "reviews": 343,
       "address": "",
@@ -8882,7 +8882,7 @@
     {
       "name": "樸拾(無提供訂位)",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 399,
       "address": "",
@@ -8897,7 +8897,7 @@
     {
       "name": "禾沐日式料理",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.6,
       "reviews": 446,
       "address": "",
@@ -8912,7 +8912,7 @@
     {
       "name": "珍饌古早味排骨湯",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.6,
       "reviews": 305,
       "address": "",
@@ -8927,7 +8927,7 @@
     {
       "name": "天吉屋食堂",
       "description": "",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.6,
       "reviews": 287,
       "address": "",
@@ -8942,7 +8942,7 @@
     {
       "name": "易家香甕仔雞",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.6,
       "reviews": 1212,
       "address": "",
@@ -8957,7 +8957,7 @@
     {
       "name": "鹽水點心城冬瓜茶",
       "description": "",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.6,
       "reviews": 314,
       "address": "",
@@ -8972,7 +8972,7 @@
     {
       "name": "五鮮級鍋物專賣-台南麻豆店",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.6,
       "reviews": 1497,
       "address": "",
@@ -8987,7 +8987,7 @@
     {
       "name": "167咖啡 海銀花園",
       "description": "",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.6,
       "reviews": 394,
       "address": "",
@@ -9044,7 +9044,7 @@
     {
       "name": "阿牛仔牛肉湯-善化店",
       "description": "超人氣牛肉湯暖心又滋補，是宵夜首選。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 3142,
       "categories": [
@@ -9170,7 +9170,7 @@
     {
       "name": "其森牛肉湯-麻豆總店",
       "description": "湯頭濃郁的牛肉湯，深受食客喜愛。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.5,
       "reviews": 1857,
       "categories": [
@@ -9184,7 +9184,7 @@
     {
       "name": "林媽媽鍋燒意麵",
       "description": "人氣鍋燒意麵，口感滑順，湯頭鮮美。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.5,
       "reviews": 1044,
       "categories": [
@@ -9212,7 +9212,7 @@
     {
       "name": "小小蔬房 Xiaoxiao Place（每週四14：00-17：30 無麩質快樂時光 Happy GF Hour，無麩質點心飲料特價供應）#Vegan #Vegetarian #Gluten-free",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.5,
       "reviews": 173,
       "categories": [
@@ -9268,7 +9268,7 @@
     {
       "name": "益伯水里肉圓『新化店』",
       "description": "人氣肉圓專賣，皮薄餡多，口感滑嫩，深受食客喜愛。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.5,
       "reviews": 468,
       "categories": [
@@ -9282,7 +9282,7 @@
     {
       "name": "佳里福品軒素食店06-7230558負責人李咨吟",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 38,
       "categories": [
@@ -9296,7 +9296,7 @@
     {
       "name": "素食炒臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 152,
       "categories": [
@@ -9366,7 +9366,7 @@
     {
       "name": "橄饗家西班牙嚴選美食餐廳",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 700,
       "categories": [
@@ -9380,7 +9380,7 @@
     {
       "name": "船家堡食尚工藝",
       "description": "精緻的中式料理，注重食材的鮮美與工藝。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 414,
       "categories": [
@@ -9394,7 +9394,7 @@
     {
       "name": "瑪莉洋房義法料理",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 759,
       "categories": [
@@ -9408,7 +9408,7 @@
     {
       "name": "纓風壽司-永康店",
       "description": "超人氣的壽司選擇，新鮮食材搭配精湛技藝，令人驚艷。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.5,
       "reviews": 3405,
       "categories": [
@@ -9422,7 +9422,7 @@
     {
       "name": "古城豆花庄",
       "description": "質樸的餐廳，供應傳統米飯料理、麵食、湯品和甜品。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.5,
       "reviews": 6030,
       "categories": [
@@ -9436,7 +9436,7 @@
     {
       "name": "LA-墨川樟茶烤鴨/善化店",
       "description": "人氣招牌烤鴨，外皮酥脆，肉質鮮嫩，吸引眾多食客。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 1537,
       "categories": [
@@ -10010,7 +10010,7 @@
     {
       "name": "呷知味",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 190,
       "categories": [
@@ -10025,7 +10025,7 @@
     {
       "name": "曾記傳統小炒",
       "description": "傳統小炒菜色多樣，口味道地深受歡迎。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 181,
       "categories": [
@@ -10039,7 +10039,7 @@
     {
       "name": "崛日餐廳，手作創意料理",
       "description": "環境樸實的小巧日式餐廳，供應家常菜色。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 512,
       "categories": [
@@ -10053,7 +10053,7 @@
     {
       "name": "同學黑輪",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.5,
       "reviews": 371,
       "categories": [
@@ -10067,7 +10067,7 @@
     {
       "name": "新化楊家土魠魚焿",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.5,
       "reviews": 320,
       "categories": [
@@ -10081,7 +10081,7 @@
     {
       "name": "姑姑的茶葉蛋 新化創始店",
       "description": "簡約的外帶小吃攤，供應各種口味的茶葉蛋。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.5,
       "reviews": 1900,
       "categories": [
@@ -10095,7 +10095,7 @@
     {
       "name": "阿鳳肉粿",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.5,
       "reviews": 288,
       "categories": [
@@ -10109,7 +10109,7 @@
     {
       "name": "佳里春長外省麵",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 304,
       "categories": [
@@ -10123,7 +10123,7 @@
     {
       "name": "萬林牛肉湯",
       "description": "人氣牛肉湯濃郁入味，暖心又暖胃的經典選擇。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 1197,
       "categories": [
@@ -10151,7 +10151,7 @@
     {
       "name": "五鮮級鍋物專賣 佳里安西店",
       "description": "美味鍋物的熱門選擇, 讓人享受聚餐樂趣。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 1632,
       "categories": [
@@ -10165,7 +10165,7 @@
     {
       "name": "八森鐵板燒",
       "description": "招牌鐵板燒料理，口味鮮美，深受食客喜愛。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 452,
       "categories": [
@@ -10179,7 +10179,7 @@
     {
       "name": "懷香食堂",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.5,
       "reviews": 1057,
       "categories": [
@@ -10207,7 +10207,7 @@
     {
       "name": "李王子小碗菜-新營健康店",
       "description": "｜健康的小吃選擇，滿足味蕾又不忘營養。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 1752,
       "categories": [
@@ -10221,7 +10221,7 @@
     {
       "name": "卓也灶腳",
       "description": "人氣小吃，夜市經典美味，讓人垂涎的灶腳料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 481,
       "categories": [
@@ -10292,7 +10292,7 @@
     {
       "name": "淞子坊健康素食／Vegville",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.5,
       "reviews": 456,
       "categories": [
@@ -10306,7 +10306,7 @@
     {
       "name": "自然味素食 素披薩(玉井)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.5,
       "reviews": 49,
       "categories": [
@@ -10320,7 +10320,7 @@
     {
       "name": "妙元素食坊(楠西)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.5,
       "reviews": 138,
       "categories": [
@@ -10334,7 +10334,7 @@
     {
       "name": "漢來蔬食 台南南紡店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.5,
       "reviews": 1940,
       "categories": [
@@ -10348,7 +10348,7 @@
     {
       "name": "天然素食(臺南歸仁)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.5,
       "reviews": 83,
       "categories": [
@@ -10362,7 +10362,7 @@
     {
       "name": "林媽媽素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.5,
       "reviews": 30,
       "categories": [
@@ -10376,7 +10376,7 @@
     {
       "name": "素食軒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.5,
       "reviews": 110,
       "categories": [
@@ -10390,7 +10390,7 @@
     {
       "name": "田園素食（只有外帶）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 73,
       "categories": [
@@ -10404,7 +10404,7 @@
     {
       "name": "妙音素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4.5,
       "reviews": 268,
       "categories": [
@@ -10418,7 +10418,7 @@
     {
       "name": "赤崁璽樓蔬食 (請先訂位)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.5,
       "reviews": 2201,
       "categories": [
@@ -10432,7 +10432,7 @@
     {
       "name": "美味素食水煎包(餡餅)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.5,
       "reviews": 187,
       "categories": [
@@ -10446,7 +10446,7 @@
     {
       "name": "鎂素廚房（素食餐館）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 451,
       "categories": [
@@ -10460,7 +10460,7 @@
     {
       "name": "巧瀁蔬食坊（素食料理）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 553,
       "categories": [
@@ -10474,7 +10474,7 @@
     {
       "name": "阿妙素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.5,
       "reviews": 255,
       "categories": [
@@ -10488,7 +10488,7 @@
     {
       "name": "慈雲素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.5,
       "reviews": 49,
       "categories": [
@@ -10502,7 +10502,7 @@
     {
       "name": "一貫素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.5,
       "reviews": 10,
       "categories": [
@@ -10516,7 +10516,7 @@
     {
       "name": "福慧素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.5,
       "reviews": 31,
       "categories": [
@@ -10530,7 +10530,7 @@
     {
       "name": "蓮印素食筵席外燴",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.5,
       "reviews": 2,
       "categories": [
@@ -10544,7 +10544,7 @@
     {
       "name": "理善蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 632,
       "categories": [
@@ -10558,7 +10558,7 @@
     {
       "name": "善化麒珍素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 137,
       "categories": [
@@ -10572,7 +10572,7 @@
     {
       "name": "蔬食小棧",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.5,
       "reviews": 56,
       "categories": [
@@ -10586,7 +10586,7 @@
     {
       "name": "喜緣心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.5,
       "reviews": 58,
       "categories": [
@@ -10600,7 +10600,7 @@
     {
       "name": "寶養蔬食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.5,
       "reviews": 66,
       "categories": [
@@ -10614,7 +10614,7 @@
     {
       "name": "普慧素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.5,
       "reviews": 8,
       "categories": [
@@ -10628,7 +10628,7 @@
     {
       "name": "台南素食章魚燒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.5,
       "reviews": 178,
       "categories": [
@@ -10642,7 +10642,7 @@
     {
       "name": "聚品素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.5,
       "reviews": 17,
       "categories": [
@@ -10656,7 +10656,7 @@
     {
       "name": "十三番地蔬食壽司，外帶店，請先用Line：@vkd1237u 預訂外帶",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 243,
       "categories": [
@@ -10670,7 +10670,7 @@
     {
       "name": "有緣素食快炒",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 220,
       "categories": [
@@ -10684,7 +10684,7 @@
     {
       "name": "紅番茄素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 213,
       "categories": [
@@ -10726,7 +10726,7 @@
     {
       "name": "妙香林素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.5,
       "reviews": 4,
       "categories": [
@@ -10740,7 +10740,7 @@
     {
       "name": "天心岩蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.5,
       "reviews": 3265,
       "categories": [
@@ -10754,7 +10754,7 @@
     {
       "name": "養生梵音蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.5,
       "reviews": 40,
       "categories": [
@@ -10768,7 +10768,7 @@
     {
       "name": "同德素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 117,
       "categories": [
@@ -10782,7 +10782,7 @@
     {
       "name": "蘭莊法式蔬食咖啡館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.5,
       "reviews": 96,
       "categories": [
@@ -10796,7 +10796,7 @@
     {
       "name": "永順號遊潟湖",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.5,
       "reviews": 3231,
       "address": "724台灣臺南市七股區龍山里龍山211-7號",
@@ -10811,7 +10811,7 @@
     {
       "name": "大手前鐵板燒 台南仁德店",
       "description": "日式料理餐廳",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.5,
       "reviews": 1320,
       "address": "717台灣臺南市仁德區仁德里中山路711號",
@@ -10826,7 +10826,7 @@
     {
       "name": "臭灶腳—仁德總店 深坑臭豆腐",
       "description": "中式餐廳，在地美味",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.5,
       "reviews": 743,
       "address": "717台灣臺南市仁德區中清路19號",
@@ -10856,7 +10856,7 @@
     {
       "name": "懶的丼 · 鷄唐揚げ專賣",
       "description": "日式料理餐廳",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 822,
       "address": "730台灣臺南市新營區大宏里民治路35號",
@@ -10871,7 +10871,7 @@
     {
       "name": "龍崎文衡殿",
       "description": "中式餐廳，在地美味",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.5,
       "reviews": 2632,
       "address": "719台灣臺南市龍崎區中坑里中坑里中坑3-2號",
@@ -10886,7 +10886,7 @@
     {
       "name": "阿燕姨冰枝店",
       "description": "中式餐廳，在地美味",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.5,
       "reviews": 555,
       "address": "743台灣臺南市山上區南洲60號",
@@ -10901,7 +10901,7 @@
     {
       "name": "窯窯Woody",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.5,
       "reviews": 501,
       "address": "715台灣臺南市楠西區照興里122號",
@@ -10916,7 +10916,7 @@
     {
       "name": "文川古梅庭園咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.5,
       "reviews": 621,
       "address": "灣丘里29-2號, 楠西區臺南市台灣 715",
@@ -10931,7 +10931,7 @@
     {
       "name": "臺南左鎮化石園區",
       "description": "中式餐廳，在地美味",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.5,
       "reviews": 11833,
       "address": "713台灣臺南市左鎮區榮和里61-23號",
@@ -10946,7 +10946,7 @@
     {
       "name": "柳營奇林純鮮乳豆花",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.5,
       "reviews": 531,
       "address": "736台灣臺南市柳營區光福里柳營路二段80號",
@@ -10961,7 +10961,7 @@
     {
       "name": "霸王海鮮塔汕頭沙茶爐",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.5,
       "reviews": 507,
       "address": "744台灣臺南市新市區新和里民生路93號",
@@ -10976,7 +10976,7 @@
     {
       "name": "潮味決·湯滷專門店 台南新市分社",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.5,
       "reviews": 526,
       "address": "744台灣臺南市新市區新市里中正路258號",
@@ -10991,7 +10991,7 @@
     {
       "name": "歸仁鍋燒意麵(迷克夏旁)",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.5,
       "reviews": 531,
       "address": "711台灣臺南市歸仁區許厝里中山路一段460號",
@@ -11006,7 +11006,7 @@
     {
       "name": "Mochi Mochi 鬆餅屋 - 台南三井 Outlet 店",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.5,
       "reviews": 1607,
       "address": "711台灣臺南市歸仁區武東里歸仁大道101號靠近南門1F",
@@ -11021,7 +11021,7 @@
     {
       "name": "中營無名（憨霞）麵店",
       "description": "",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.5,
       "reviews": 262,
       "address": "",
@@ -11036,7 +11036,7 @@
     {
       "name": "大谷鵝肉城",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.5,
       "reviews": 454,
       "address": "",
@@ -11051,7 +11051,7 @@
     {
       "name": "東北小館",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.5,
       "reviews": 321,
       "address": "",
@@ -11066,7 +11066,7 @@
     {
       "name": "香榭灣火鍋簡餐廳",
       "description": "",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.5,
       "reviews": 275,
       "address": "",
@@ -11081,7 +11081,7 @@
     {
       "name": "金鈴意麵",
       "description": "",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.5,
       "reviews": 430,
       "address": "",
@@ -11096,7 +11096,7 @@
     {
       "name": "寓･永恆",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.5,
       "reviews": 3275,
       "address": "",
@@ -11111,7 +11111,7 @@
     {
       "name": "麵公坊（無外送服務及電話訂位）",
       "description": "",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.5,
       "reviews": 345,
       "address": "",
@@ -11126,7 +11126,7 @@
     {
       "name": "海商海鮮餐廳",
       "description": "",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.5,
       "reviews": 392,
       "address": "",
@@ -11141,7 +11141,7 @@
     {
       "name": "漚汪阿娥虱目魚粥",
       "description": "",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.5,
       "reviews": 381,
       "address": "",
@@ -11156,7 +11156,7 @@
     {
       "name": "鄉土情土雞小吃",
       "description": "",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.5,
       "reviews": 265,
       "address": "",
@@ -11171,7 +11171,7 @@
     {
       "name": "佳佳園桶仔鶏",
       "description": "",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.5,
       "reviews": 363,
       "address": "",
@@ -11186,7 +11186,7 @@
     {
       "name": "後壁黃家古厝 Lumière",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.5,
       "reviews": 264,
       "address": "",
@@ -11201,7 +11201,7 @@
     {
       "name": "鴻澄鐵板燒",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.5,
       "reviews": 809,
       "address": "",
@@ -11216,7 +11216,7 @@
     {
       "name": "丹品咖啡",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.5,
       "reviews": 813,
       "address": "",
@@ -11231,7 +11231,7 @@
     {
       "name": "臺南最高峰五隆園咖啡B&B景觀莊園",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.5,
       "reviews": 427,
       "address": "",
@@ -11246,7 +11246,7 @@
     {
       "name": "寶琴山產小吃",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.5,
       "reviews": 361,
       "address": "",
@@ -11289,7 +11289,7 @@
     {
       "name": "白河當歸羊肉",
       "description": "當歸羊肉湯鮮美滋補，是小吃愛好者的最愛。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 111,
       "categories": [
@@ -11303,7 +11303,7 @@
     {
       "name": "陳家古早味（阿茂）香菇肉羹",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 264,
       "categories": [
@@ -11331,7 +11331,7 @@
     {
       "name": "香橙料理食坊",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.4,
       "reviews": 321,
       "categories": [
@@ -11387,7 +11387,7 @@
     {
       "name": "麻豆土魠魚焿",
       "description": "鮮美的魚焿湯品，讓人一試成主顧。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 1349,
       "categories": [
@@ -11401,7 +11401,7 @@
     {
       "name": "郭家小館",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 119,
       "categories": [
@@ -11415,7 +11415,7 @@
     {
       "name": "福泉古早味 (Fuquan Old-time Favorites)",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 329,
       "categories": [
@@ -11429,7 +11429,7 @@
     {
       "name": "學甲鵝肉-學甲店",
       "description": "",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.4,
       "reviews": 830,
       "categories": [
@@ -11443,7 +11443,7 @@
     {
       "name": "順德土產牛肉湯",
       "description": "招牌牛肉湯，湯頭濃郁，暖心又美味，人氣。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.4,
       "reviews": 1116,
       "categories": [
@@ -11499,7 +11499,7 @@
     {
       "name": "香姐滷肉飯白河總店",
       "description": "滷肉飯香氣撲鼻，經典台菜人氣小吃必嚐之選。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 101,
       "categories": [
@@ -11709,7 +11709,7 @@
     {
       "name": "阿財牛肉湯",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 9152,
       "categories": [
@@ -11723,7 +11723,7 @@
     {
       "name": "請上桌 戶外海景海鮮燒烤餐廳",
       "description": "超人氣海鮮燒烤，享受美味與海景的雙重饗宴。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 2761,
       "categories": [
@@ -11737,7 +11737,7 @@
     {
       "name": "漁光島荳荳園",
       "description": "特色豆製品料理，搭配新鮮食材，健康美味。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 895,
       "categories": [
@@ -11751,7 +11751,7 @@
     {
       "name": "暫停。慢食",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.4,
       "reviews": 568,
       "categories": [
@@ -11765,7 +11765,7 @@
     {
       "name": "米莉餐酒 Millie's bistro",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 510,
       "categories": [
@@ -11779,7 +11779,7 @@
     {
       "name": "弁棠",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 453,
       "categories": [
@@ -11793,7 +11793,7 @@
     {
       "name": "唯咖喱",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 514,
       "categories": [
@@ -12115,7 +12115,7 @@
     {
       "name": "台灣情，古早心－後頭厝",
       "description": "提供道地台灣小吃，帶來懷舊的美味體驗。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 151,
       "categories": [
@@ -12129,7 +12129,7 @@
     {
       "name": "百禾雞腿飯",
       "description": "招牌雞腿飯美味可口，深受食客喜愛。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 970,
       "categories": [
@@ -12143,7 +12143,7 @@
     {
       "name": "皇聖食堂",
       "description": "經典小吃選擇多樣，讓你大快朵頤。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.4,
       "reviews": 454,
       "categories": [
@@ -12157,7 +12157,7 @@
     {
       "name": "阿助麻豆碗粿",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 1811,
       "categories": [
@@ -12171,7 +12171,7 @@
     {
       "name": "麻豆圓環外省麵",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 828,
       "categories": [
@@ -12185,7 +12185,7 @@
     {
       "name": "合歡山冰城",
       "description": "清涼冰品選擇多，消暑必訪，夏日最佳伴侶。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 518,
       "categories": [
@@ -12199,7 +12199,7 @@
     {
       "name": "無名排骨麵",
       "description": "排骨麵香氣四溢，口感極佳，讓人難以忘懷。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 143,
       "categories": [
@@ -12213,7 +12213,7 @@
     {
       "name": "新化黑輪伯",
       "description": "經典黑輪小吃，口感彈牙，搭配各式醬料，讓人垂涎欲滴。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 170,
       "categories": [
@@ -12227,7 +12227,7 @@
     {
       "name": "筱庭杏仁豆腐冰",
       "description": "清爽杏仁豆腐冰口感滑順，是夏日消暑的絕佳選擇。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 648,
       "categories": [
@@ -12241,7 +12241,7 @@
     {
       "name": "古丁原味品茶館(新化店)",
       "description": "提供多種茶品，適合想要放鬆的咖啡喫茶場所。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 100,
       "categories": [
@@ -12255,7 +12255,7 @@
     {
       "name": "慧謙素食",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 227,
       "categories": [
@@ -12269,7 +12269,7 @@
     {
       "name": "三姊妹 越南烤乳豬",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.4,
       "reviews": 1429,
       "categories": [
@@ -12283,7 +12283,7 @@
     {
       "name": "山水汀麵館",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.4,
       "reviews": 420,
       "categories": [
@@ -12297,7 +12297,7 @@
     {
       "name": "好食雞(鬍鬚)現炸香雞排",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.4,
       "reviews": 145,
       "categories": [
@@ -12311,7 +12311,7 @@
     {
       "name": "金葡萄蛋黃酥 -佳里興總店",
       "description": "招牌蛋黃酥香酥可口，深受夜市遊客喜愛。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.4,
       "reviews": 874,
       "categories": [
@@ -12339,7 +12339,7 @@
     {
       "name": "北京大鍋烙餅",
       "description": "招牌烙餅外酥內軟，夜市小吃人氣之選。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 188,
       "categories": [
@@ -12353,7 +12353,7 @@
     {
       "name": "原味山產美食",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 881,
       "categories": [
@@ -12367,7 +12367,7 @@
     {
       "name": "品軒香甕仔雞",
       "description": "香氣四溢的甕仔雞，夜市小吃的美味代表。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 519,
       "categories": [
@@ -12381,7 +12381,7 @@
     {
       "name": "老街山產美食景觀餐廳",
       "description": "山產料理美味可口，適合享受美景的夜市小吃場所。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 680,
       "categories": [
@@ -12395,7 +12395,7 @@
     {
       "name": "嶺景土雞城",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 625,
       "categories": [
@@ -12409,7 +12409,7 @@
     {
       "name": "蜀葵花文化節",
       "description": "",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.4,
       "reviews": 2078,
       "categories": [
@@ -12423,7 +12423,7 @@
     {
       "name": "明豐冰菓室",
       "description": "清涼冰品，口味多樣，新鮮水果搭配，夏日消暑佳品。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.4,
       "reviews": 143,
       "categories": [
@@ -12437,7 +12437,7 @@
     {
       "name": "和興冰菓部",
       "description": "清爽冰品，多種口味選擇，適合各年齡層，甜蜜消暑享受。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 341,
       "categories": [
@@ -12451,7 +12451,7 @@
     {
       "name": "金德興 阮家古厝",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 188,
       "categories": [
@@ -12465,7 +12465,7 @@
     {
       "name": "楊媽媽菓子工坊 MaMaYang Bakery",
       "description": "｜超人氣手工菓子，甜蜜滋味讓人心動不已。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 2178,
       "categories": [
@@ -12479,7 +12479,7 @@
     {
       "name": "義昌碾米廠/MINIcoffee",
       "description": "｜結合咖啡與米食的創意小吃，讓人耳目一新。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 143,
       "categories": [
@@ -12577,7 +12577,7 @@
     {
       "name": "緣園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.4,
       "reviews": 421,
       "categories": [
@@ -12591,7 +12591,7 @@
     {
       "name": "聖覺蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.4,
       "reviews": 48,
       "categories": [
@@ -12605,7 +12605,7 @@
     {
       "name": "呂香素食小館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.4,
       "reviews": 308,
       "categories": [
@@ -12619,7 +12619,7 @@
     {
       "name": "有緣素食琥珀主題館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.4,
       "reviews": 161,
       "categories": [
@@ -12633,7 +12633,7 @@
     {
       "name": "阿華素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.4,
       "reviews": 21,
       "categories": [
@@ -12647,7 +12647,7 @@
     {
       "name": "綠蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.4,
       "reviews": 111,
       "categories": [
@@ -12661,7 +12661,7 @@
     {
       "name": "西港菜粽-蓮華素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4.4,
       "reviews": 145,
       "categories": [
@@ -12675,7 +12675,7 @@
     {
       "name": "宏林素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.4,
       "reviews": 543,
       "categories": [
@@ -12689,7 +12689,7 @@
     {
       "name": "玄德素食（大慈素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.4,
       "reviews": 240,
       "categories": [
@@ -12703,7 +12703,7 @@
     {
       "name": "唯品素食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.4,
       "reviews": 73,
       "categories": [
@@ -12717,7 +12717,7 @@
     {
       "name": "十方源咖啡館(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 359,
       "categories": [
@@ -12731,7 +12731,7 @@
     {
       "name": "東東素食 東山店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.4,
       "reviews": 147,
       "categories": [
@@ -12745,7 +12745,7 @@
     {
       "name": "鹽水慈心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.4,
       "reviews": 12,
       "categories": [
@@ -12759,7 +12759,7 @@
     {
       "name": "新素健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.4,
       "reviews": 125,
       "categories": [
@@ -12773,7 +12773,7 @@
     {
       "name": "長春健康素食餐飲連鎖-台南安和店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 715,
       "categories": [
@@ -12787,7 +12787,7 @@
     {
       "name": "蕫媽媽 素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 75,
       "categories": [
@@ -12801,7 +12801,7 @@
     {
       "name": "家林素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 44,
       "categories": [
@@ -12815,7 +12815,7 @@
     {
       "name": "素心齋健康素食館-華平店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 404,
       "categories": [
@@ -12829,7 +12829,7 @@
     {
       "name": "古密蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 734,
       "categories": [
@@ -12843,7 +12843,7 @@
     {
       "name": "皆大喜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 229,
       "categories": [
@@ -12871,7 +12871,7 @@
     {
       "name": "青居素食東山路總店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.4,
       "reviews": 195,
       "categories": [
@@ -12885,7 +12885,7 @@
     {
       "name": "61線活海產",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.4,
       "reviews": 1409,
       "address": "724台灣臺南市七股區南38鄉道",
@@ -12900,7 +12900,7 @@
     {
       "name": "Joyfull台灣珍有福 台南仁德店",
       "description": "日式料理餐廳",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.4,
       "reviews": 929,
       "address": "717台灣臺南市仁德區中山路711號1樓",
@@ -12915,7 +12915,7 @@
     {
       "name": "成功牛排新營店",
       "description": "排餐餐廳，主廚精選",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.4,
       "reviews": 939,
       "address": "730台灣臺南市新營區新南里民治路163號",
@@ -12930,7 +12930,7 @@
     {
       "name": "雅聞湖濱療癒森林",
       "description": "中式餐廳，在地美味",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.4,
       "reviews": 5024,
       "address": "73141台灣臺南市後壁區上茄苳里12之66號",
@@ -12945,7 +12945,7 @@
     {
       "name": "臺南山上花園水道博物館::6/22（一）至6/26（五）閉園整修，6/27（六）起正常開館::",
       "description": "中式餐廳，在地美味",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.4,
       "reviews": 6310,
       "address": "743台灣台南市山上区山上里16號",
@@ -12960,7 +12960,7 @@
     {
       "name": "瓦樣山巷-城堡餐廳-玉井芒果冰",
       "description": "中式餐廳，在地美味",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.4,
       "reviews": 1138,
       "address": "714台灣臺南市玉井區豐里里60-28號海拔高度",
@@ -12975,7 +12975,7 @@
     {
       "name": "玉井有間冰舖芒果冰",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.4,
       "reviews": 7559,
       "address": "714台灣臺南市玉井區玉田里中正路154號",
@@ -12990,7 +12990,7 @@
     {
       "name": "森77黑白切小吃店",
       "description": "中式餐廳，在地美味",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.4,
       "reviews": 565,
       "address": "714台灣臺南市玉井區玉田里中華路367號",
@@ -13005,7 +13005,7 @@
     {
       "name": "梅花飯店水庫店（人手有限，需要預約提前點餐，謝謝🙏）",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.4,
       "reviews": 932,
       "address": "715台灣臺南市楠西區82號",
@@ -13020,7 +13020,7 @@
     {
       "name": "二層坪梅子雞",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.4,
       "reviews": 631,
       "address": "71542台灣台南市楠西区湾丘里29號",
@@ -13035,7 +13035,7 @@
     {
       "name": "揚梅吐氣",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.4,
       "reviews": 569,
       "address": "715台灣臺南市楠西區灣丘里1-5號",
@@ -13050,7 +13050,7 @@
     {
       "name": "左鎮老街",
       "description": "中式餐廳，在地美味",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.4,
       "reviews": 577,
       "address": "713台灣臺南市左鎮區101-113號",
@@ -13065,7 +13065,7 @@
     {
       "name": "銓弘土雞城",
       "description": "中式餐廳，在地美味",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.4,
       "reviews": 1230,
       "address": "720台灣台南市官田区八田路一段21巷66號",
@@ -13080,7 +13080,7 @@
     {
       "name": "黑輪將",
       "description": "日式料理餐廳",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.4,
       "reviews": 2130,
       "address": "734台灣臺南市六甲區六甲里民權街60號",
@@ -13095,7 +13095,7 @@
     {
       "name": "嘟嘟現炒餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.4,
       "reviews": 1211,
       "address": "735台灣臺南市下營區新興里中興南路158號",
@@ -13110,7 +13110,7 @@
     {
       "name": "真讚燻茶鵝",
       "description": "中式餐廳，在地美味",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.4,
       "reviews": 765,
       "address": "735台灣臺南市下營區仁里里公園路31號",
@@ -13125,7 +13125,7 @@
     {
       "name": "老陳牛肉麵新市店/台南美食/台南麵食/台南小吃/台南必吃/台南牛肉麵/附近美食",
       "description": "麵食專賣店，湯頭講究",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.4,
       "reviews": 507,
       "address": "744台灣臺南市新市區社內里民權路76號",
@@ -13140,7 +13140,7 @@
     {
       "name": "一二三木頭人炙燒牛排《平價牛排館》安南區平價牛排｜便宜｜Cp值｜推薦｜超值｜優惠｜人氣｜精選牛排館",
       "description": "排餐餐廳，主廚精選",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 1380,
       "address": "709台灣臺南市安南區長和路三段177號",
@@ -13155,7 +13155,7 @@
     {
       "name": "椰庭餐廳（假日沒接訂位.店休請看FB,IG.）",
       "description": "日式料理餐廳",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 966,
       "address": "709台灣臺南市安南區四草里四草大道261號",
@@ -13170,7 +13170,7 @@
     {
       "name": "宮本武丼 台南安和《日料美食》日式定食｜日式便當｜餐盒外送｜平價特色｜人氣丼飯｜熱門日料｜特色丼飯",
       "description": "日式料理餐廳",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.4,
       "reviews": 1425,
       "address": "709台灣臺南市安南區安和路二段71號",
@@ -13185,7 +13185,7 @@
     {
       "name": "阪泉麵食館",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.4,
       "reviews": 332,
       "address": "",
@@ -13200,7 +13200,7 @@
     {
       "name": "佳品美食",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.4,
       "reviews": 313,
       "address": "",
@@ -13215,7 +13215,7 @@
     {
       "name": "楓慕牛排",
       "description": "",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.4,
       "reviews": 282,
       "address": "",
@@ -13230,7 +13230,7 @@
     {
       "name": "塔作伙",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 468,
       "address": "",
@@ -13245,7 +13245,7 @@
     {
       "name": "棧",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.4,
       "reviews": 2788,
       "address": "",
@@ -13260,7 +13260,7 @@
     {
       "name": "烏山頭情義相挺磚窯雞",
       "description": "",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.4,
       "reviews": 282,
       "address": "",
@@ -13275,7 +13275,7 @@
     {
       "name": "珍好呷蚵嗲",
       "description": "",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.4,
       "reviews": 389,
       "address": "",
@@ -13290,7 +13290,7 @@
     {
       "name": "金妹麵館（超市早點）",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.4,
       "reviews": 295,
       "address": "",
@@ -13305,7 +13305,7 @@
     {
       "name": "胡椒黃",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.4,
       "reviews": 336,
       "address": "",
@@ -13320,7 +13320,7 @@
     {
       "name": "鄉寓食事所｜新營美食｜建議提前訂餐訂位可以直接點餐｜最後點餐19:30",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.4,
       "reviews": 446,
       "address": "",
@@ -13335,7 +13335,7 @@
     {
       "name": "清風日式小吃",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.4,
       "reviews": 267,
       "address": "",
@@ -13350,7 +13350,7 @@
     {
       "name": "龍點心（港式點心）",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.4,
       "reviews": 627,
       "address": "",
@@ -13365,7 +13365,7 @@
     {
       "name": "竹香園甕缸雞-仙草旗艦店",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 5662,
       "address": "",
@@ -13380,7 +13380,7 @@
     {
       "name": "其樂磚窯雞",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.4,
       "reviews": 1695,
       "address": "",
@@ -13395,7 +13395,7 @@
     {
       "name": "泰膳娘泰式料理",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.4,
       "reviews": 876,
       "address": "",
@@ -13438,7 +13438,7 @@
     {
       "name": "上班食堂 和風家庭料理",
       "description": "專注於健康的和風家庭料理，適合上班族的輕食選擇。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.3,
       "reviews": 329,
       "categories": [
@@ -13536,7 +13536,7 @@
     {
       "name": "麻豆阿榮牛肉湯-總店",
       "description": "陳設簡約的餐廳，供應傳統牛肉湯、飯食與大份量煎蛋料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 2629,
       "categories": [
@@ -13550,7 +13550,7 @@
     {
       "name": "順福溫體牛肉湯-總店",
       "description": "人氣牛肉湯，肉質鮮嫩，湯頭濃郁。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 2203,
       "categories": [
@@ -13564,7 +13564,7 @@
     {
       "name": "山裏 Plant Vibes Coffee",
       "description": "香醇咖啡搭配自然氛圍，適合悠閒時光。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 727,
       "categories": [
@@ -13578,7 +13578,7 @@
     {
       "name": "阿素虱目魚粥",
       "description": "特色虱目魚粥，湯頭鮮美，深受食客喜愛。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.3,
       "reviews": 207,
       "categories": [
@@ -13592,7 +13592,7 @@
     {
       "name": "學甲鵝肉 新營分店",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.3,
       "reviews": 144,
       "categories": [
@@ -13606,7 +13606,7 @@
     {
       "name": "合和蔬食料理（Hehe Vegetarian Cuisine）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 396,
       "categories": [
@@ -13662,7 +13662,7 @@
     {
       "name": "白河阿惠火雞肉飯",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 183,
       "categories": [
@@ -13676,7 +13676,7 @@
     {
       "name": "學甲濃濃木瓜牛奶 (酪梨牛奶 芒果牛奶 草莓牛奶 芭樂檸檬)",
       "description": "多種口味牛奶，口感濃郁，消暑佳品。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.3,
       "reviews": 140,
       "categories": [
@@ -13858,7 +13858,7 @@
     {
       "name": "麗琴小吃",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 241,
       "categories": [
@@ -13872,7 +13872,7 @@
     {
       "name": "瑞玲外省仔麵 台南永康旗艦店",
       "description": "精緻的餐廳，供應各式各樣的當地、季節性和特色麵食。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.3,
       "reviews": 1775,
       "categories": [
@@ -13886,7 +13886,7 @@
     {
       "name": "洋食堂-善化",
       "description": "提供多樣的中式與台菜，適合家庭聚餐的好去處。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.3,
       "reviews": 878,
       "categories": [
@@ -14404,7 +14404,7 @@
     {
       "name": "百陞雞腿飯",
       "description": "招牌雞腿飯香氣撲鼻，讓人一試成主顧。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.3,
       "reviews": 841,
       "categories": [
@@ -14418,7 +14418,7 @@
     {
       "name": "小猴子飲料、便當",
       "description": "提供多樣化飲品與便當，口感新鮮。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.3,
       "reviews": 509,
       "categories": [
@@ -14432,7 +14432,7 @@
     {
       "name": "南方米造",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 1042,
       "categories": [
@@ -14446,7 +14446,7 @@
     {
       "name": "德春米糕",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 463,
       "categories": [
@@ -14460,7 +14460,7 @@
     {
       "name": "麻豆信義路餡餅",
       "description": "餡餅香脆可口，夜市小吃必試之選。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 186,
       "categories": [
@@ -14474,7 +14474,7 @@
     {
       "name": "麻豆上味陽春麵-博愛店",
       "description": "招牌陽春麵，簡單卻令人懷念的美味。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 141,
       "categories": [
@@ -14488,7 +14488,7 @@
     {
       "name": "阿昌草魚湯",
       "description": "新鮮草魚湯品，清爽滋味，滿足你的味蕾。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 215,
       "categories": [
@@ -14502,7 +14502,7 @@
     {
       "name": "金水冷飲部",
       "description": "清涼解渴的飲品專賣，讓你在夜市中享受清新的滋味。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 159,
       "categories": [
@@ -14516,7 +14516,7 @@
     {
       "name": "新化煎粿攤",
       "description": "香脆可口的煎粿，外酥內軟，是夜市裡的必吃小吃之一。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 303,
       "categories": [
@@ -14530,7 +14530,7 @@
     {
       "name": "所長茶葉蛋 (新化店)",
       "description": "招牌茶葉蛋香氣四溢，搭配夜市小吃，令人垂涎欲滴。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 636,
       "categories": [
@@ -14544,7 +14544,7 @@
     {
       "name": "大螃蟹海鮮碳烤店",
       "description": "超人氣海鮮碳烤，讓海味在舌尖綻放。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 1612,
       "categories": [
@@ -14558,7 +14558,7 @@
     {
       "name": "西港油雞烤雞",
       "description": "香氣四溢的烤雞美味, 夜市人氣小吃之一。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 189,
       "categories": [
@@ -14572,7 +14572,7 @@
     {
       "name": "義民街富林早點美食/佳里美食/鍋燒/早午餐",
       "description": "早午餐與鍋燒美味兼具，適合悠閒享用。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 232,
       "categories": [
@@ -14586,7 +14586,7 @@
     {
       "name": "樸軒食房（休息時間為最後點餐時間）",
       "description": "夜市小吃選擇多元，令人流連忘返的美食天堂。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 879,
       "categories": [
@@ -14600,7 +14600,7 @@
     {
       "name": "白河鮮魚粥",
       "description": "新鮮魚粥湯頭鮮美，適合喜愛海鮮的食客。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 160,
       "categories": [
@@ -14614,7 +14614,7 @@
     {
       "name": "岩頂自然休閒坊",
       "description": "設有頂棚和戶外露台、採木質裝潢的餐廳，供應咖啡和烤雞。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 2070,
       "categories": [
@@ -14628,7 +14628,7 @@
     {
       "name": "笠居園餐廳",
       "description": "夜市中氛圍悠閒，提供多樣小吃選擇。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 680,
       "categories": [
@@ -14642,7 +14642,7 @@
     {
       "name": "永安豆菜麵",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 198,
       "categories": [
@@ -14656,7 +14656,7 @@
     {
       "name": "店仔口肉丸",
       "description": "肉丸鮮美彈牙，是夜市必嘗的小吃之一。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.3,
       "reviews": 112,
       "categories": [
@@ -14670,7 +14670,7 @@
     {
       "name": "佳香美食館",
       "description": "招牌小吃，口味道地，適合家庭聚餐，滿足味蕾需求。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.3,
       "reviews": 225,
       "categories": [
@@ -14684,7 +14684,7 @@
     {
       "name": "麗昭麵店",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.3,
       "reviews": 170,
       "categories": [
@@ -14726,7 +14726,7 @@
     {
       "name": "廣軒素食＆林伯斯創意蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.3,
       "reviews": 119,
       "categories": [
@@ -14740,7 +14740,7 @@
     {
       "name": "宏恩素食 新化店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 1112,
       "categories": [
@@ -14754,7 +14754,7 @@
     {
       "name": "圓法素食(臺南市新化區)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 110,
       "categories": [
@@ -14768,7 +14768,7 @@
     {
       "name": "心心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 45,
       "categories": [
@@ -14782,7 +14782,7 @@
     {
       "name": "蔬食樂 初始店 SoothRoad Original",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.3,
       "reviews": 452,
       "categories": [
@@ -14796,7 +14796,7 @@
     {
       "name": "玉井長壽屋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.3,
       "reviews": 253,
       "categories": [
@@ -14810,7 +14810,7 @@
     {
       "name": "活佛素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 2887,
       "categories": [
@@ -14824,7 +14824,7 @@
     {
       "name": "仁德素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 49,
       "categories": [
@@ -14838,7 +14838,7 @@
     {
       "name": "慈香庭素食餐廳（台南店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 743,
       "categories": [
@@ -14852,7 +14852,7 @@
     {
       "name": "維根素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.3,
       "reviews": 334,
       "categories": [
@@ -14866,7 +14866,7 @@
     {
       "name": "宏恩素食 麻豆店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 713,
       "categories": [
@@ -14880,7 +14880,7 @@
     {
       "name": "13號素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.3,
       "reviews": 239,
       "categories": [
@@ -14894,7 +14894,7 @@
     {
       "name": "菩提園素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 33,
       "categories": [
@@ -14908,7 +14908,7 @@
     {
       "name": "菇morning蔬素食-佳里店6/26店休",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 123,
       "categories": [
@@ -14922,7 +14922,7 @@
     {
       "name": "思嘉莊蔬食餐廳素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.3,
       "reviews": 330,
       "categories": [
@@ -14936,7 +14936,7 @@
     {
       "name": "學甲素食麵攤 | 李重義素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.3,
       "reviews": 33,
       "categories": [
@@ -14950,7 +14950,7 @@
     {
       "name": "妙觀音素食-北車許昌店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.3,
       "reviews": 519,
       "categories": [
@@ -14964,7 +14964,7 @@
     {
       "name": "禪味健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.3,
       "reviews": 49,
       "categories": [
@@ -14978,7 +14978,7 @@
     {
       "name": "柳營群康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.3,
       "reviews": 108,
       "categories": [
@@ -14992,7 +14992,7 @@
     {
       "name": "大愛素食園",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.3,
       "reviews": 80,
       "categories": [
@@ -15006,7 +15006,7 @@
     {
       "name": "宏恩素食 安平店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 955,
       "categories": [
@@ -15020,7 +15020,7 @@
     {
       "name": "凱瑞美式蔬食廚房",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 583,
       "categories": [
@@ -15048,7 +15048,7 @@
     {
       "name": "太子素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 31,
       "categories": [
@@ -15062,7 +15062,7 @@
     {
       "name": "張家水餃店",
       "description": "中式餐廳，在地美味",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 1554,
       "address": "717台灣臺南市仁德區仁義里仁義路23號",
@@ -15077,7 +15077,7 @@
     {
       "name": "丹丹漢堡 仁德店",
       "description": "中式餐廳，在地美味",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.3,
       "reviews": 6585,
       "address": "717台灣臺南市仁德區仁義里中山路272號",
@@ -15152,7 +15152,7 @@
     {
       "name": "虎形山公園",
       "description": "中式餐廳，在地美味",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.3,
       "reviews": 6289,
       "address": "719台灣臺南市龍崎區崎頂里",
@@ -15167,7 +15167,7 @@
     {
       "name": "景美是吉景觀咖啡餐廳",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.3,
       "reviews": 718,
       "address": "715台灣臺南市楠西區灣丘里香蕉山28之3",
@@ -15182,7 +15182,7 @@
     {
       "name": "果農之家",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.3,
       "reviews": 1370,
       "address": "715台灣台南市楠西区密枝里6號",
@@ -15197,7 +15197,7 @@
     {
       "name": "椰子林土雞城（烤雞販售中！）｜左鎮烤雞｜左鎮化石館附近美食",
       "description": "中式餐廳，在地美味",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.3,
       "reviews": 632,
       "address": "713台灣台南市左镇区左镇里112-1號",
@@ -15212,7 +15212,7 @@
     {
       "name": "林門玉餃",
       "description": "麵食專賣店，湯頭講究",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.3,
       "reviews": 1339,
       "address": "718台灣臺南市關廟區香洋里中正路886號",
@@ -15227,7 +15227,7 @@
     {
       "name": "嘉祥粿仔店",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.3,
       "reviews": 944,
       "address": "718台灣臺南市關廟區花園里中正路751號",
@@ -15242,7 +15242,7 @@
     {
       "name": "隆田米糕",
       "description": "中式餐廳，在地美味",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.3,
       "reviews": 783,
       "address": "720台灣臺南市官田區隆田里文化街22號",
@@ -15257,7 +15257,7 @@
     {
       "name": "樹谷懷舊餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.3,
       "reviews": 1008,
       "address": "744台灣臺南市新市區豐華里中心路8號",
@@ -15272,7 +15272,7 @@
     {
       "name": "KALUWA泰式音樂餐廳",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.3,
       "reviews": 815,
       "address": "744台灣臺南市新市區新和里民權路50號",
@@ -15287,7 +15287,7 @@
     {
       "name": "姑婆麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.3,
       "reviews": 937,
       "address": "744台灣臺南市新市區新市里仁愛街306號",
@@ -15302,7 +15302,7 @@
     {
       "name": "豐海鮮漁府",
       "description": "中式餐廳，在地美味",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.3,
       "reviews": 1882,
       "address": "725台灣臺南市將軍區長沙146之10號",
@@ -15317,7 +15317,7 @@
     {
       "name": "萬味珍餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.3,
       "reviews": 867,
       "address": "72549台灣臺南市將軍區長沙里125號",
@@ -15332,7 +15332,7 @@
     {
       "name": "青鯤鯓古早味蚵嗲（內用收單至17：00，電話預約僅提供外帶）",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.3,
       "reviews": 2744,
       "address": "725台灣臺南市將軍區鯤鯓里3-4號",
@@ -15347,7 +15347,7 @@
     {
       "name": "青鯤鯓阿君蚵仔麵線&蚵嗲（每週四公休）",
       "description": "麵食專賣店，湯頭講究",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.3,
       "reviews": 989,
       "address": "725台灣臺南市將軍區鯤鯓里4-4號",
@@ -15362,7 +15362,7 @@
     {
       "name": "鹽鄉民宿餐廳 Salt Country House",
       "description": "中式餐廳，在地美味",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.3,
       "reviews": 1244,
       "address": "727台灣臺南市北門區北門里57號",
@@ -15377,7 +15377,7 @@
     {
       "name": "北門豆花",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.3,
       "reviews": 610,
       "address": "727台灣臺南市北門區永隆里44號 北門區永隆宮廟前廣場",
@@ -15392,7 +15392,7 @@
     {
       "name": "五十一番日式居食屋",
       "description": "日式料理餐廳",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.3,
       "reviews": 826,
       "address": "709台灣臺南市安南區鳳凰里北安路三段51號",
@@ -15407,7 +15407,7 @@
     {
       "name": "阿童米糕",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.3,
       "reviews": 603,
       "address": "709台灣臺南市安南區溪心里海佃路二段774號",
@@ -15422,7 +15422,7 @@
     {
       "name": "鹽水豆簽羹（傳統古早味美食～售完即打烊）",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.3,
       "reviews": 816,
       "address": "737台灣臺南市鹽水區津城里朝琴路19號",
@@ -15437,7 +15437,7 @@
     {
       "name": "燈塔正阿芬活海鮮",
       "description": "",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.3,
       "reviews": 465,
       "address": "",
@@ -15452,7 +15452,7 @@
     {
       "name": "意林牛肉湯",
       "description": "",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.3,
       "reviews": 398,
       "address": "",
@@ -15467,7 +15467,7 @@
     {
       "name": "御鱔房",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.3,
       "reviews": 564,
       "address": "",
@@ -15482,7 +15482,7 @@
     {
       "name": "愛媽廚房",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.3,
       "reviews": 494,
       "address": "",
@@ -15497,7 +15497,7 @@
     {
       "name": "菊園壽司",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.3,
       "reviews": 263,
       "address": "",
@@ -15512,7 +15512,7 @@
     {
       "name": "炊牛牛肉湯",
       "description": "",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.3,
       "reviews": 407,
       "address": "",
@@ -15527,7 +15527,7 @@
     {
       "name": "烏山咖啡",
       "description": "",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.3,
       "reviews": 291,
       "address": "",
@@ -15542,7 +15542,7 @@
     {
       "name": "王氏魚皮6月26日正常營業外帶預定線上點餐免排隊food panda Ubereats同步營業中",
       "description": "",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.3,
       "reviews": 14108,
       "address": "",
@@ -15557,7 +15557,7 @@
     {
       "name": "隆田鴨肉麵",
       "description": "",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.3,
       "reviews": 395,
       "address": "",
@@ -15572,7 +15572,7 @@
     {
       "name": "重慶迎久現炒",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.3,
       "reviews": 376,
       "address": "",
@@ -15587,7 +15587,7 @@
     {
       "name": "174翼騎士驛站",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.3,
       "reviews": 4203,
       "address": "",
@@ -15602,7 +15602,7 @@
     {
       "name": "張家鹽水意麵",
       "description": "",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.3,
       "reviews": 400,
       "address": "",
@@ -15631,7 +15631,7 @@
     {
       "name": "三鮮台海鮮平價料理",
       "description": "令人放鬆的明亮餐廳，供應家常海鮮餐點、湯品和簡單主食。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 2045,
       "categories": [
@@ -15715,7 +15715,7 @@
     {
       "name": "阿蜜家廚料理",
       "description": "地道家常料理，美味又實惠，值得一嚐。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.2,
       "reviews": 885,
       "categories": [
@@ -15729,7 +15729,7 @@
     {
       "name": "麻豆翔美雪花冰｜36年老店｜鍋燒｜豆花｜簡餐-麻豆美食推薦|在地推薦美食|必吃美食|午餐推薦|推薦晚餐|必吃鍋燒麵|鍋燒麵推薦|在地推薦鍋燒麵",
       "description": "經典雪花冰，清甜滑口，深受當地人喜愛。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.2,
       "reviews": 596,
       "categories": [
@@ -15743,7 +15743,7 @@
     {
       "name": "白河鴨肉麵 | 八十年老店",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.2,
       "reviews": 621,
       "categories": [
@@ -15813,7 +15813,7 @@
     {
       "name": "白河康家豆花",
       "description": "招牌豆花滑嫩可口，甜品愛好者的必訪之地。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.2,
       "reviews": 261,
       "categories": [
@@ -15911,7 +15911,7 @@
     {
       "name": "魚小璐和洋廚房",
       "description": "",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 1100,
       "categories": [
@@ -15925,7 +15925,7 @@
     {
       "name": "久丼 創意料理（生魚片/定食）",
       "description": "久丼，創意日式料理，搭配新鮮生魚片與多樣定食，讓人驚喜不已。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 803,
       "categories": [
@@ -16359,7 +16359,7 @@
     {
       "name": "双赫日式拉麵",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 784,
       "categories": [
@@ -16373,7 +16373,7 @@
     {
       "name": "康情涼麵",
       "description": "清新涼麵刷新夏日口感，健康又美味。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 557,
       "categories": [
@@ -16387,7 +16387,7 @@
     {
       "name": "阿呆海鮮粥",
       "description": "新鮮海鮮粥香濃，適合喜愛海鮮的你。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 400,
       "categories": [
@@ -16401,7 +16401,7 @@
     {
       "name": "福勝牛肉湯",
       "description": "牛肉湯醇厚美味，讓人難以抗拒。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 693,
       "categories": [
@@ -16415,7 +16415,7 @@
     {
       "name": "珊瑚水煎包",
       "description": "招牌水煎包外酥內嫩，深受食客喜愛。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 141,
       "categories": [
@@ -16429,7 +16429,7 @@
     {
       "name": "麻豆阿蘭碗粿",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.2,
       "reviews": 21599,
       "categories": [
@@ -16443,7 +16443,7 @@
     {
       "name": "龍泉冰店",
       "description": "經典台灣甜品冰品，夏日消暑的最佳選擇。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.2,
       "reviews": 1971,
       "categories": [
@@ -16457,7 +16457,7 @@
     {
       "name": "阿娥麵店",
       "description": "招牌麵食，手工製作，吃出家的味道，令人懷念。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 554,
       "categories": [
@@ -16471,7 +16471,7 @@
     {
       "name": "葉麥克中藥炸雞",
       "description": "質樸的露天外帶店鋪，供應各種部位的炸雞和薯條。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 4209,
       "categories": [
@@ -16485,7 +16485,7 @@
     {
       "name": "新化元氣三寶",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 204,
       "categories": [
@@ -16499,7 +16499,7 @@
     {
       "name": "知點新時尚料理餐廳",
       "description": "創新料理搭配精緻擺盤，適合喜愛新口味的食客。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 853,
       "categories": [
@@ -16513,7 +16513,7 @@
     {
       "name": "原街役場（非用餐評論區）",
       "description": "多樣化的小吃選擇，吸引眾多食客光臨，人氣十足。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 2038,
       "categories": [
@@ -16541,7 +16541,7 @@
     {
       "name": "王家燻羊肉",
       "description": "",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.2,
       "reviews": 1872,
       "categories": [
@@ -16555,7 +16555,7 @@
     {
       "name": "吉野村現烤蛋糕",
       "description": "現烤蛋糕香氣四溢，是甜品愛好者的絕佳選擇。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 275,
       "categories": [
@@ -16569,7 +16569,7 @@
     {
       "name": "佳里外省麵",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 749,
       "categories": [
@@ -16583,7 +16583,7 @@
     {
       "name": "嚴家水餃 佳里店",
       "description": "水餃皮薄餡多，口感彈牙，讓人一試成主顧。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 231,
       "categories": [
@@ -16597,7 +16597,7 @@
     {
       "name": "阿英越南烤乳豬",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 684,
       "categories": [
@@ -16611,7 +16611,7 @@
     {
       "name": "鴨肉雄",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 182,
       "categories": [
@@ -16625,7 +16625,7 @@
     {
       "name": "莊良伯麵攤",
       "description": "美味小吃麵條，口感彈牙，是夜市中的隱藏版美食。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.2,
       "reviews": 860,
       "categories": [
@@ -16639,7 +16639,7 @@
     {
       "name": "白河烤鴨",
       "description": "外焦內嫩的烤鴨，讓每一口都充滿肉香四溢。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.2,
       "reviews": 132,
       "categories": [
@@ -16653,7 +16653,7 @@
     {
       "name": "白河麗玉桶仔雞",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.2,
       "reviews": 659,
       "categories": [
@@ -16667,7 +16667,7 @@
     {
       "name": "學甲虱目魚粥",
       "description": "超人氣虱目魚粥，鮮美口感深受食客喜愛。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 3370,
       "categories": [
@@ -16681,7 +16681,7 @@
     {
       "name": "太祖虱目魚粥",
       "description": "招牌虱目魚粥，搭配新鮮食材，口感滑順。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 193,
       "categories": [
@@ -16695,7 +16695,7 @@
     {
       "name": "邵師傅薄皮生煎湯包",
       "description": "薄皮生煎湯包，外脆內嫩，汁多鮮美。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 111,
       "categories": [
@@ -16737,7 +16737,7 @@
     {
       "name": "菁寮老街",
       "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.2,
       "reviews": 6810,
       "categories": [
@@ -16765,7 +16765,7 @@
     {
       "name": "慈濟園素食餐廳(臺南永康)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 621,
       "categories": [
@@ -16779,7 +16779,7 @@
     {
       "name": "一心園素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 555,
       "categories": [
@@ -16793,7 +16793,7 @@
     {
       "name": "廣結緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 414,
       "categories": [
@@ -16807,7 +16807,7 @@
     {
       "name": "淨湘園素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 358,
       "categories": [
@@ -16821,7 +16821,7 @@
     {
       "name": "蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.2,
       "reviews": 168,
       "categories": [
@@ -16835,7 +16835,7 @@
     {
       "name": "宏恩素食 佳里店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 451,
       "categories": [
@@ -16849,7 +16849,7 @@
     {
       "name": "隨緣居素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 146,
       "categories": [
@@ -16863,7 +16863,7 @@
     {
       "name": "羽儂蔬食百匯",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 651,
       "categories": [
@@ -16877,7 +16877,7 @@
     {
       "name": "崇仁素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.2,
       "reviews": 39,
       "categories": [
@@ -16891,7 +16891,7 @@
     {
       "name": "尚通素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.2,
       "reviews": 6,
       "categories": [
@@ -16905,7 +16905,7 @@
     {
       "name": "修圓素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.2,
       "reviews": 2076,
       "categories": [
@@ -16919,7 +16919,7 @@
     {
       "name": "新廣東蔬食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.2,
       "reviews": 119,
       "categories": [
@@ -16933,7 +16933,7 @@
     {
       "name": "禾佳素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.2,
       "reviews": 40,
       "categories": [
@@ -16947,7 +16947,7 @@
     {
       "name": "自然素食 海東店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.2,
       "reviews": 82,
       "categories": [
@@ -16961,7 +16961,7 @@
     {
       "name": "養心養生蔬食（原養聖齋崇道店，遷至崇道路89號）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.2,
       "reviews": 350,
       "categories": [
@@ -16975,7 +16975,7 @@
     {
       "name": "永坤素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.2,
       "reviews": 43,
       "categories": [
@@ -16989,7 +16989,7 @@
     {
       "name": "木木江浙素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.2,
       "reviews": 23,
       "categories": [
@@ -17003,7 +17003,7 @@
     {
       "name": "三股海鮮 四季海產",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.2,
       "reviews": 557,
       "address": "724台灣臺南市七股區南38鄉道",
@@ -17018,7 +17018,7 @@
     {
       "name": "阿宗蚵爹",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.2,
       "reviews": 1590,
       "address": "724台灣臺南市七股區龍山里11-25號",
@@ -17033,7 +17033,7 @@
     {
       "name": "川味榨菜肉絲麵-仁德店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.2,
       "reviews": 512,
       "address": "717台灣臺南市仁德區後壁里德安路40號",
@@ -17063,7 +17063,7 @@
     {
       "name": "卡布里義廚",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.2,
       "reviews": 581,
       "address": "No. 83, No. 83復興路永平里新營區臺南市台灣 730",
@@ -17078,7 +17078,7 @@
     {
       "name": "康樂胚芽意麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.2,
       "reviews": 1988,
       "address": "730台灣臺南市新營區永平里康樂街44號",
@@ -17093,7 +17093,7 @@
     {
       "name": "龍鳳東大門韓國料理",
       "description": "中式餐廳，在地美味",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.2,
       "reviews": 1365,
       "address": "730台灣臺南市新營區大宏里中正路12號",
@@ -17108,7 +17108,7 @@
     {
       "name": "港口牛肉湯",
       "description": "中式餐廳，在地美味",
-      "area": "安定區",
+      "area": "安定",
       "rating": 4.2,
       "reviews": 844,
       "address": "745台灣臺南市安定區台南支線聯絡道",
@@ -17123,7 +17123,7 @@
     {
       "name": "水道咖啡",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.2,
       "reviews": 1137,
       "address": "743台灣臺南市山上區山上里16號",
@@ -17138,7 +17138,7 @@
     {
       "name": "Orchid Botanical Garden",
       "description": "中式餐廳，在地美味",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.2,
       "reviews": 570,
       "address": "743台灣臺南市山上區玉峯里11-2號",
@@ -17153,7 +17153,7 @@
     {
       "name": "玉井二空涼麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.2,
       "reviews": 785,
       "address": "714台灣臺南市玉井區玉田里中華路197號",
@@ -17168,7 +17168,7 @@
     {
       "name": "南化遊客中心",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.2,
       "reviews": 1268,
       "address": "716台灣臺南市南化區西埔里1之3號",
@@ -17183,7 +17183,7 @@
     {
       "name": "松仔腳(阿發)黃金水餃",
       "description": "中式餐廳，在地美味",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.2,
       "reviews": 840,
       "address": "718台灣臺南市關廟區 勝利街 18號",
@@ -17198,7 +17198,7 @@
     {
       "name": "深緣及水台南關廟店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.2,
       "reviews": 1314,
       "address": "718台灣臺南市關廟區松腳里旺萊路295號",
@@ -17213,7 +17213,7 @@
     {
       "name": "關廟張家竹筍水餃意麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.2,
       "reviews": 651,
       "address": "718台灣臺南市關廟區山西里文衡路99號",
@@ -17228,7 +17228,7 @@
     {
       "name": "嘉芳麵包店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.2,
       "reviews": 816,
       "address": "718台灣臺南市關廟區香洋里中正路952號",
@@ -17243,7 +17243,7 @@
     {
       "name": "寶芝林燻茶鵝",
       "description": "中式餐廳，在地美味",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.2,
       "reviews": 597,
       "address": "735台灣臺南市下營區新興里中興南路141號",
@@ -17258,7 +17258,7 @@
     {
       "name": "謙備伯冰店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.2,
       "reviews": 954,
       "address": "725036台灣臺南市將軍區鯤鯓里71號",
@@ -17273,7 +17273,7 @@
     {
       "name": "築地大將",
       "description": "日式料理餐廳",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.2,
       "reviews": 651,
       "address": "709台灣臺南市安南區理想里大安街726號",
@@ -17288,7 +17288,7 @@
     {
       "name": "一畝田園生活美食",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.2,
       "reviews": 999,
       "address": "709台灣臺南市安南區佃西里佃西一街38號",
@@ -17303,7 +17303,7 @@
     {
       "name": "深緣及水台南高鐵店",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.2,
       "reviews": 661,
       "address": "711台灣臺南市歸仁區武東里歸仁大道100號",
@@ -17318,7 +17318,7 @@
     {
       "name": "MITSUI OUTLET PARK 台南",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.2,
       "reviews": 9421,
       "address": "711台灣臺南市歸仁區武東里歸仁大道101號",
@@ -17333,7 +17333,7 @@
     {
       "name": "大胖進焢肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.2,
       "reviews": 1061,
       "address": "711台灣臺南市歸仁區許厝里中山路一段529號",
@@ -17348,7 +17348,7 @@
     {
       "name": "佳美味-蔥爆牛/豬肉飯",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.2,
       "reviews": 539,
       "address": "711台灣臺南市歸仁區辜厝里大順街26號",
@@ -17363,7 +17363,7 @@
     {
       "name": "鹽水點心城阿妙意麵！！！",
       "description": "麵食專賣店，湯頭講究",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.2,
       "reviews": 1593,
       "address": "737台灣臺南市鹽水區月港里康樂路67號",
@@ -17378,7 +17378,7 @@
     {
       "name": "阿桐意麵",
       "description": "麵食專賣店，湯頭講究",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.2,
       "reviews": 3479,
       "address": "737台灣臺南市鹽水區津城里信義路4-6號",
@@ -17393,7 +17393,7 @@
     {
       "name": "田媽媽北門嶼風味餐廳",
       "description": "",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.2,
       "reviews": 483,
       "address": "",
@@ -17408,7 +17408,7 @@
     {
       "name": "九叔公餐廳 (將軍漁港）",
       "description": "",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.2,
       "reviews": 404,
       "address": "",
@@ -17423,7 +17423,7 @@
     {
       "name": "頂好水餃麵館",
       "description": "",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.2,
       "reviews": 334,
       "address": "",
@@ -17438,7 +17438,7 @@
     {
       "name": "葉陶楊坊人文餐廳",
       "description": "",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.2,
       "reviews": 2366,
       "address": "",
@@ -17453,7 +17453,7 @@
     {
       "name": "小卒砂鍋雞米飯(新市店)",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.2,
       "reviews": 278,
       "address": "",
@@ -17468,7 +17468,7 @@
     {
       "name": "吃飯吧 Let's eat 日式餐館",
       "description": "",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.2,
       "reviews": 382,
       "address": "",
@@ -17483,7 +17483,7 @@
     {
       "name": "合記東山鴨頭",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.2,
       "reviews": 2653,
       "address": "",
@@ -17498,7 +17498,7 @@
     {
       "name": "阿文肉丸大腸",
       "description": "",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4.2,
       "reviews": 559,
       "address": "",
@@ -17513,7 +17513,7 @@
     {
       "name": "田媽媽 好食包概念館",
       "description": "",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.2,
       "reviews": 497,
       "address": "",
@@ -17528,7 +17528,7 @@
     {
       "name": "宮仔檸檬雞",
       "description": "",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.2,
       "reviews": 1979,
       "address": "",
@@ -17543,7 +17543,7 @@
     {
       "name": "關廟服務區 (南向)",
       "description": "",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.2,
       "reviews": 1150,
       "address": "",
@@ -17586,7 +17586,7 @@
     {
       "name": "黃家水餃 牛肉麵",
       "description": "精緻水餃與牛肉麵的完美搭配，讓人回味無窮。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4.1,
       "reviews": 334,
       "categories": [
@@ -17600,7 +17600,7 @@
     {
       "name": "鮮道口福牛肉麵",
       "description": "招牌牛肉麵濃郁入味，讓人一試成主顧。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.1,
       "reviews": 390,
       "categories": [
@@ -17642,7 +17642,7 @@
     {
       "name": "朝陽田園蔬菜素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "永康區",
+      "area": "永康",
       "rating": 4.1,
       "reviews": 152,
       "categories": [
@@ -17656,7 +17656,7 @@
     {
       "name": "善化蔬(素)食館Shanhua Vegetarian Restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.1,
       "reviews": 248,
       "categories": [
@@ -17810,7 +17810,7 @@
     {
       "name": "海之味",
       "description": "新鮮海鮮台菜，讓每一口都充滿海洋的鮮美。",
-      "area": "安平區",
+      "area": "安平",
       "rating": 4.1,
       "reviews": 4450,
       "categories": [
@@ -17824,7 +17824,7 @@
     {
       "name": "立緹餐廳",
       "description": "中式菜色多樣化，環境舒適，適合家庭聚餐或好友小聚。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.1,
       "reviews": 969,
       "categories": [
@@ -18062,7 +18062,7 @@
     {
       "name": "輕鬆點",
       "description": "輕鬆享用的美味小吃，適合夜市隨意品嚐。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.1,
       "reviews": 116,
       "categories": [
@@ -18077,7 +18077,7 @@
     {
       "name": "玉竹根麵食館",
       "description": "提供多樣化麵食選擇，適合各類食客。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4.1,
       "reviews": 665,
       "categories": [
@@ -18091,7 +18091,7 @@
     {
       "name": "麻善橋麵攤",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.1,
       "reviews": 388,
       "categories": [
@@ -18105,7 +18105,7 @@
     {
       "name": "醉月軒",
       "description": "",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4.1,
       "reviews": 260,
       "categories": [
@@ -18119,7 +18119,7 @@
     {
       "name": "發財車現炸雞排",
       "description": "現炸雞排外酥內嫩，香氣四溢，令人垂涎。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.1,
       "reviews": 156,
       "categories": [
@@ -18133,7 +18133,7 @@
     {
       "name": "現烤雞蛋糕",
       "description": "香甜雞蛋糕，新鮮現烤，外脆內軟，讓人一口接一口。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4.1,
       "reviews": 173,
       "categories": [
@@ -18161,7 +18161,7 @@
     {
       "name": "小南海風景區",
       "description": "｜人氣小吃聚集地，讓你享受美食與美景的完美結合。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4.1,
       "reviews": 2808,
       "categories": [
@@ -18189,7 +18189,7 @@
     {
       "name": "玉光素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.1,
       "reviews": 7,
       "categories": [
@@ -18203,7 +18203,7 @@
     {
       "name": "禾米蔬食（無內用，外帶請事先預訂）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.1,
       "reviews": 348,
       "categories": [
@@ -18217,7 +18217,7 @@
     {
       "name": "佛珍素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.1,
       "reviews": 172,
       "categories": [
@@ -18231,7 +18231,7 @@
     {
       "name": "一品素食園",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.1,
       "reviews": 303,
       "categories": [
@@ -18245,7 +18245,7 @@
     {
       "name": "紫妙素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4.1,
       "reviews": 139,
       "categories": [
@@ -18259,7 +18259,7 @@
     {
       "name": "南瓜樹蔬食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.1,
       "reviews": 39,
       "categories": [
@@ -18273,7 +18273,7 @@
     {
       "name": "華德素食館-素食自助餐｜素食外燴｜喜宴外燴｜宮廟外燴｜水煎包｜素食便當",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.1,
       "reviews": 43,
       "categories": [
@@ -18287,7 +18287,7 @@
     {
       "name": "五嬸活海鮮",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.1,
       "reviews": 682,
       "address": "724台灣台南市七股区十份里海埔地30-6號",
@@ -18302,7 +18302,7 @@
     {
       "name": "ㄌㄜˋ腳王",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4.1,
       "reviews": 761,
       "address": "724台灣臺南市七股區176縣道",
@@ -18317,7 +18317,7 @@
     {
       "name": "覓秘複合式咖啡 Secret Cafe",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 4.1,
       "reviews": 1306,
       "address": "717台灣臺南市仁德區仁德里文善街116號",
@@ -18332,7 +18332,7 @@
     {
       "name": "阿輝土雞城",
       "description": "中式餐廳，在地美味",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.1,
       "reviews": 976,
       "address": "718台灣臺南市關廟區新光里中正路20巷1號",
@@ -18347,7 +18347,7 @@
     {
       "name": "牛埔泥岩水土保持教學園區",
       "description": "中式餐廳，在地美味",
-      "area": "龍崎區",
+      "area": "龍崎",
       "rating": 4.1,
       "reviews": 1622,
       "address": "719台灣臺南市龍崎區牛埔里10號",
@@ -18362,7 +18362,7 @@
     {
       "name": "綠色空間",
       "description": "中式餐廳，在地美味",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.1,
       "reviews": 1603,
       "address": "714台灣臺南市玉井區沙田25-66號",
@@ -18377,7 +18377,7 @@
     {
       "name": "瑪莎園",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "山上區",
+      "area": "山上",
       "rating": 4.1,
       "reviews": 1125,
       "address": "714台灣台南市玉井区沙田里25-66號",
@@ -18392,7 +18392,7 @@
     {
       "name": "梅嶺福來梅仔雞餐廳（薑黃雞創始店）",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.1,
       "reviews": 1429,
       "address": "715台灣臺南市楠西區32-3號",
@@ -18407,7 +18407,7 @@
     {
       "name": "文川梅子雞城(楠西)",
       "description": "中式餐廳，在地美味",
-      "area": "楠西區",
+      "area": "楠西",
       "rating": 4.1,
       "reviews": 3136,
       "address": "715台灣臺南市楠西區灣丘里香蕉山29-2號",
@@ -18422,7 +18422,7 @@
     {
       "name": "南化 錢記大腸香腸",
       "description": "中式餐廳，在地美味",
-      "area": "南化區",
+      "area": "南化",
       "rating": 4.1,
       "reviews": 539,
       "address": "716台灣臺南市南化區南化里168號",
@@ -18437,7 +18437,7 @@
     {
       "name": "山之內土雞城",
       "description": "中式餐廳，在地美味",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4.1,
       "reviews": 1116,
       "address": "720台灣台南市官田区社子里2鄰號1之15號 社子里2鄰社子1之15號",
@@ -18452,7 +18452,7 @@
     {
       "name": "宏珍宴席餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.1,
       "reviews": 618,
       "address": "734台灣臺南市六甲區甲南里珊瑚路82號",
@@ -18467,7 +18467,7 @@
     {
       "name": "九品蓮花生態教育園區",
       "description": "中式餐廳，在地美味",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4.1,
       "reviews": 1608,
       "address": "734台灣臺南市六甲區中社里109-1號",
@@ -18482,7 +18482,7 @@
     {
       "name": "下營田媽媽鵝鄉園餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4.1,
       "reviews": 1948,
       "address": "735台灣臺南市下營區新興里中興南路21號",
@@ -18497,7 +18497,7 @@
     {
       "name": "家屋簡餐",
       "description": "中式餐廳，在地美味",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4.1,
       "reviews": 1024,
       "address": "736台灣臺南市柳營區東昇里中山東路二段863號",
@@ -18512,7 +18512,7 @@
     {
       "name": "新市豬腳",
       "description": "中式餐廳，在地美味",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.1,
       "reviews": 1129,
       "address": "744台灣臺南市新市區永就里中山路177-1號",
@@ -18527,7 +18527,7 @@
     {
       "name": "將軍漁港-觀光海樓",
       "description": "中式餐廳，在地美味",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.1,
       "reviews": 1590,
       "address": "72549台灣臺南市將軍區平沙157號",
@@ -18542,7 +18542,7 @@
     {
       "name": "北門遊客中心",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.1,
       "reviews": 5410,
       "address": "727台灣臺南市北門區北門里200號",
@@ -18557,7 +18557,7 @@
     {
       "name": "微笑家廚餐坊",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.1,
       "reviews": 866,
       "address": "709台灣臺南市安南區淵中里安中路三段303號",
@@ -18572,7 +18572,7 @@
     {
       "name": "水瀨閣水上木屋景觀海鮮",
       "description": "中式餐廳，在地美味",
-      "area": "安南區",
+      "area": "安南",
       "rating": 4.1,
       "reviews": 1215,
       "address": "709台灣臺南市安南區城南里城西街二段318巷66號",
@@ -18587,7 +18587,7 @@
     {
       "name": "阿菊食堂",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.1,
       "reviews": 2378,
       "address": "No. 1號 保大路二段 西埔里歸仁區臺南市台灣 711",
@@ -18602,7 +18602,7 @@
     {
       "name": "琉球海鮮城",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4.1,
       "reviews": 767,
       "address": "711台灣臺南市歸仁區後市里民權三街31號",
@@ -18617,7 +18617,7 @@
     {
       "name": "銀鋒冰果室",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.1,
       "reviews": 906,
       "address": "737台灣台南市盐水区月港里中山路4巷1號",
@@ -18632,7 +18632,7 @@
     {
       "name": "鬍鬚豬頭飯",
       "description": "中式餐廳，在地美味",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4.1,
       "reviews": 1153,
       "address": "737台灣臺南市鹽水區橋南里南門路89號",
@@ -18647,7 +18647,7 @@
     {
       "name": "添福麵館佳里店",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4.1,
       "reviews": 288,
       "address": "",
@@ -18662,7 +18662,7 @@
     {
       "name": "北門廟口小吃",
       "description": "",
-      "area": "北門區",
+      "area": "北門",
       "rating": 4.1,
       "reviews": 315,
       "address": "",
@@ -18677,7 +18677,7 @@
     {
       "name": "風鈴屋",
       "description": "",
-      "area": "將軍區",
+      "area": "將軍",
       "rating": 4.1,
       "reviews": 401,
       "address": "",
@@ -18692,7 +18692,7 @@
     {
       "name": "農舍庭園餐廳",
       "description": "",
-      "area": "左鎮區",
+      "area": "左鎮",
       "rating": 4.1,
       "reviews": 1677,
       "address": "",
@@ -18707,7 +18707,7 @@
     {
       "name": "鉄大正咖哩專門新市店信義街176號",
       "description": "",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4.1,
       "reviews": 363,
       "address": "",
@@ -18722,7 +18722,7 @@
     {
       "name": "米町廚房",
       "description": "",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4.1,
       "reviews": 250,
       "address": "",
@@ -18737,7 +18737,7 @@
     {
       "name": "86上河甲台菜餐廳",
       "description": "",
-      "area": "關廟區",
+      "area": "關廟",
       "rating": 4.1,
       "reviews": 282,
       "address": "",
@@ -18752,7 +18752,7 @@
     {
       "name": "蘋果森林休閒餐飲",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4.1,
       "reviews": 364,
       "address": "",
@@ -18823,7 +18823,7 @@
     {
       "name": "麵兒見 （原山東小吃）",
       "description": "",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4,
       "reviews": 834,
       "categories": [
@@ -19173,7 +19173,7 @@
     {
       "name": "麻豆紅飯",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4,
       "reviews": 248,
       "categories": [
@@ -19187,7 +19187,7 @@
     {
       "name": "裕益碗粿王",
       "description": "人氣碗粿，軟嫩可口，令人一次又一次回訪。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4,
       "reviews": 1187,
       "categories": [
@@ -19201,7 +19201,7 @@
     {
       "name": "新化排骨麵(新化店)附🅿️冷氣開放中",
       "description": "招牌排骨麵湯頭鮮美，人氣小吃，讓人心滿意足。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4,
       "reviews": 1325,
       "categories": [
@@ -19215,7 +19215,7 @@
     {
       "name": "佳里宜肉圓",
       "description": "肉圓外皮Q彈，內餡鮮美，是小吃愛好者的心頭好。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4,
       "reviews": 742,
       "categories": [
@@ -19229,7 +19229,7 @@
     {
       "name": "佳里｜老朋友簡餐 • 小火鍋",
       "description": "",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4,
       "reviews": 400,
       "categories": [
@@ -19243,7 +19243,7 @@
     {
       "name": "能量甕仔雞｜白河山產合菜・甕仔雞專賣",
       "description": "甕仔雞專賣，搭配新鮮山產合菜，滋味無窮。",
-      "area": "白河區",
+      "area": "白河",
       "rating": 4,
       "reviews": 726,
       "categories": [
@@ -19257,7 +19257,7 @@
     {
       "name": "展哥虱目魚粥（永通二店）",
       "description": "美味虱目魚粥，食材新鮮，口感佳。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4,
       "reviews": 998,
       "categories": [
@@ -19271,7 +19271,7 @@
     {
       "name": "烏樹林休閒園區",
       "description": "｜多樣化的小吃選擇，適合全家人一起享受的美好時光。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4,
       "reviews": 2158,
       "categories": [
@@ -19285,7 +19285,7 @@
     {
       "name": "烏樹林休閒園區|烏樹林糖廠|烏樹林車站",
       "description": "｜融合多樣小吃，帶來甜蜜的休閒時光。",
-      "area": "後壁區",
+      "area": "後壁",
       "rating": 4,
       "reviews": 1587,
       "categories": [
@@ -19299,7 +19299,7 @@
     {
       "name": "守一素食 (守一行)",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新化區",
+      "area": "新化",
       "rating": 4,
       "reviews": 5,
       "categories": [
@@ -19313,7 +19313,7 @@
     {
       "name": "阿賢素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19327,7 +19327,7 @@
     {
       "name": "千家香素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4,
       "reviews": 41,
       "categories": [
@@ -19341,7 +19341,7 @@
     {
       "name": "小菊素食麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "佳里區",
+      "area": "佳里",
       "rating": 4,
       "reviews": 47,
       "categories": [
@@ -19355,7 +19355,7 @@
     {
       "name": "阿玲素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 4,
       "reviews": 1,
       "categories": [
@@ -19369,7 +19369,7 @@
     {
       "name": "素食筵席包辦",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "下營區",
+      "area": "下營",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19383,7 +19383,7 @@
     {
       "name": "謙家悅蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "鹽水區",
+      "area": "鹽水",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19397,7 +19397,7 @@
     {
       "name": "純鮮然蔬食飲品",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "善化區",
+      "area": "善化",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19411,7 +19411,7 @@
     {
       "name": "小華素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4,
       "reviews": 219,
       "categories": [
@@ -19425,7 +19425,7 @@
     {
       "name": "樂蓉素食（素食麵線糊、割包）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19439,7 +19439,7 @@
     {
       "name": "慈祥堂素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西港區",
+      "area": "西港",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19453,7 +19453,7 @@
     {
       "name": "仁愛素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 4,
       "reviews": 0,
       "categories": [
@@ -19467,7 +19467,7 @@
     {
       "name": "安哥海產店",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4,
       "reviews": 1997,
       "address": "724台灣臺南市七股區七股里2之8號",
@@ -19482,7 +19482,7 @@
     {
       "name": "三不等海味餐廳 | 七股溪南休閒農業區",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4,
       "reviews": 1040,
       "address": "724台灣臺南市七股區七股里2之1號",
@@ -19497,7 +19497,7 @@
     {
       "name": "鹽山阿城",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4,
       "reviews": 864,
       "address": "724台灣臺南市七股區中寮里中寮45號",
@@ -19512,7 +19512,7 @@
     {
       "name": "阿樂活海產",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4,
       "reviews": 1012,
       "address": "724台灣臺南市七股區三股里118號",
@@ -19527,7 +19527,7 @@
     {
       "name": "阿月虱目魚粥",
       "description": "中式餐廳，在地美味",
-      "area": "七股區",
+      "area": "七股",
       "rating": 4,
       "reviews": 762,
       "address": "72453台灣台南市七股区85之3",
@@ -19542,7 +19542,7 @@
     {
       "name": "家屋手作料理",
       "description": "中式餐廳，在地美味",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4,
       "reviews": 1229,
       "address": "730台灣臺南市新營區王公里民族路300號",
@@ -19557,7 +19557,7 @@
     {
       "name": "華味香景觀宴會餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "新營區",
+      "area": "新營",
       "rating": 4,
       "reviews": 1402,
       "address": "730台灣臺南市新營區新南里長榮路二段1020號",
@@ -19572,7 +19572,7 @@
     {
       "name": "九叔公餐廳 玉井宴席餐廳 桶仔雞",
       "description": "中式餐廳，在地美味",
-      "area": "玉井區",
+      "area": "玉井",
       "rating": 4,
       "reviews": 667,
       "address": "714台灣臺南市玉井區玉田里中華路283號晚間 時段 建議 預約",
@@ -19587,7 +19587,7 @@
     {
       "name": "良賓山海產店",
       "description": "中式餐廳，在地美味",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 4,
       "reviews": 670,
       "address": "734台灣臺南市六甲區六甲里中華路18號",
@@ -19602,7 +19602,7 @@
     {
       "name": "台南柳營露水雞",
       "description": "中式餐廳，在地美味",
-      "area": "柳營區",
+      "area": "柳營",
       "rating": 4,
       "reviews": 996,
       "address": "736台灣臺南市柳營區旭山里21之25號里山子腳",
@@ -19617,7 +19617,7 @@
     {
       "name": "紅瓦町炸蝦壽司",
       "description": "日式料理餐廳",
-      "area": "新市區",
+      "area": "新市",
       "rating": 4,
       "reviews": 1523,
       "address": "744台灣臺南市新市區港墘里長安街111-5號",
@@ -19632,7 +19632,7 @@
     {
       "name": "三皇三家歸仁店",
       "description": "中式餐廳，在地美味",
-      "area": "歸仁區",
+      "area": "歸仁",
       "rating": 4,
       "reviews": 1393,
       "address": "711台灣臺南市歸仁區南保里中山路三段28號",
@@ -19647,7 +19647,7 @@
     {
       "name": "駱駝咖啡・簡餐",
       "description": "",
-      "area": "官田區",
+      "area": "官田",
       "rating": 4,
       "reviews": 398,
       "address": "",
@@ -19662,7 +19662,7 @@
     {
       "name": "喬美海鮮碳烤餐廳",
       "description": "",
-      "area": "麻豆區",
+      "area": "麻豆",
       "rating": 4,
       "reviews": 1209,
       "address": "",
@@ -19677,7 +19677,7 @@
     {
       "name": "三來素食館 Sun Like Vegetarian Restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "北門區",
+      "area": "北門",
       "rating": 3.9,
       "reviews": 876,
       "categories": [
@@ -19691,7 +19691,7 @@
     {
       "name": "潤德素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "學甲區",
+      "area": "學甲",
       "rating": 3.8,
       "reviews": 87,
       "categories": [
@@ -19705,7 +19705,7 @@
     {
       "name": "健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "仁德區",
+      "area": "仁德",
       "rating": 3.6,
       "reviews": 16,
       "categories": [
@@ -19719,7 +19719,7 @@
     {
       "name": "慈湘素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "六甲區",
+      "area": "六甲",
       "rating": 3.6,
       "reviews": 46,
       "categories": [
@@ -19733,7 +19733,7 @@
     {
       "name": "如意園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "官田區",
+      "area": "官田",
       "rating": 3.5,
       "reviews": 2,
       "categories": [
@@ -19747,7 +19747,7 @@
     {
       "name": "東山素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "東山區",
+      "area": "東山",
       "rating": 2.8,
       "reviews": 5,
       "categories": [

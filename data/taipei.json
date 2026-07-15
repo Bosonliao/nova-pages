@@ -797,7 +797,7 @@
     {
       "name": "雙月食品社北投店",
       "description": "連續七年米其林必比登推薦雞湯專賣店，澎湃蛤蠣雞湯",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.9,
       "reviews": 11467,
       "categories": [
@@ -815,7 +815,7 @@
     {
       "name": "吾旺再季",
       "description": "招牌中式台菜，人氣餐廳，菜品鮮美。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 1066,
       "categories": [
@@ -833,7 +833,7 @@
     {
       "name": "祥和蔬食料理（鎮江店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 1681,
       "categories": [
@@ -881,7 +881,7 @@
     {
       "name": "杭州小籠湯包",
       "description": "湯包皮薄多汁，搭配清爽配菜",
-      "area": "大安區",
+      "area": "大安",
       "rating": 3.8,
       "reviews": 9074,
       "categories": [
@@ -898,7 +898,7 @@
     {
       "name": "老山東牛肉家常麵店",
       "description": "牛肉麵與山東餃子，西門町老店",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4,
       "reviews": 5499,
       "categories": [
@@ -915,7 +915,7 @@
     {
       "name": "無名推車燒餅",
       "description": "推車現烤燒餅，凌晨限定美食",
-      "area": "大安區",
+      "area": "大安",
       "rating": 3.5,
       "reviews": 878,
       "categories": [
@@ -932,7 +932,7 @@
     {
       "name": "雞家莊",
       "description": "老字號台菜餐廳，以雞湯與台式宴席菜聞名",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 4618,
       "categories": [
@@ -949,7 +949,7 @@
     {
       "name": "鍾家原上海生煎包",
       "description": "上海生煎包專賣，外皮酥脆內餡多汁",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1698,
       "categories": [
@@ -966,7 +966,7 @@
     {
       "name": "大橋頭老牌筒仔米糕",
       "description": "傳統筒仔米糕與滷肉飯，大同區老字號",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 5344,
       "categories": [
@@ -983,7 +983,7 @@
     {
       "name": "好朋友涼麵",
       "description": "招牌麻醬涼麵與酸辣湯，夏日必吃",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 1689,
       "categories": [
@@ -1000,7 +1000,7 @@
     {
       "name": "小酌之家",
       "description": "台式熱炒與家常菜，深夜食堂氛圍",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 595,
       "categories": [
@@ -1017,7 +1017,7 @@
     {
       "name": "雄記蔥抓餅",
       "description": "酥香蔥抓餅與多樣配料，排隊名店",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 970,
       "categories": [
@@ -1034,7 +1034,7 @@
     {
       "name": "黃記魯肉飯",
       "description": "經典滷肉飯與紅燒肉，台北必吃",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 6295,
       "categories": [
@@ -1051,7 +1051,7 @@
     {
       "name": "隱食家",
       "description": "精緻創意中菜，隱藏巷弄美食",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 504,
       "categories": [
@@ -1068,7 +1068,7 @@
     {
       "name": "人和園",
       "description": "北方麵食與家常菜，老字號麵館",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 2524,
       "categories": [
@@ -1085,7 +1085,7 @@
     {
       "name": "金賞軒",
       "description": "供應地道的中式台菜, 每道菜都讓人懷念家鄉味。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 1119,
       "categories": [
@@ -1102,7 +1102,7 @@
     {
       "name": "小小樹食",
       "description": "創意蔬食餐廳，精緻素食料理",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 2677,
       "categories": [
@@ -1119,7 +1119,7 @@
     {
       "name": "賣麵炎仔",
       "description": "米粉湯與滷味小吃，大橋頭排隊店",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 5838,
       "categories": [
@@ -1136,7 +1136,7 @@
     {
       "name": "茂園",
       "description": "傳統台菜與海鮮料理，辦桌等級",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.1,
       "reviews": 3157,
       "categories": [
@@ -1153,7 +1153,7 @@
     {
       "name": "番紅花印度美饌",
       "description": "印度咖哩與烤餅，道地印度味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1687,
       "categories": [
@@ -1170,7 +1170,7 @@
     {
       "name": "祥和蔬食",
       "description": "中式創意素食料理，葷食者也愛",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 2169,
       "categories": [
@@ -1187,7 +1187,7 @@
     {
       "name": "欣葉小聚",
       "description": "現代台菜與中式料理，欣葉體系",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 2193,
       "categories": [
@@ -1204,7 +1204,7 @@
     {
       "name": "心潮飯店",
       "description": "精緻的中式台菜, 總能帶給顧客美好的用餐體驗。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 3324,
       "categories": [
@@ -1221,7 +1221,7 @@
     {
       "name": "軟食力",
       "description": "提供多樣甜品和冰品, 讓人回味無窮的咖啡時光。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.1,
       "reviews": 2297,
       "categories": [
@@ -1238,7 +1238,7 @@
     {
       "name": "松竹園",
       "description": "傳統中式台菜的好去處, 讓人感受到家的溫暖。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 6357,
       "categories": [
@@ -1255,7 +1255,7 @@
     {
       "name": "巷子龍家常菜",
       "description": "以道地的家常菜取勝, 讓人感受到熟悉的味道。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 3.9,
       "reviews": 819,
       "categories": [
@@ -1272,7 +1272,7 @@
     {
       "name": "天下三絕",
       "description": "招牌麵食口感滑順, 吸引眾多食客前來一嚐為快。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 3063,
       "categories": [
@@ -1289,7 +1289,7 @@
     {
       "name": "醉楓園小館",
       "description": "以精緻中式台菜聞名, 總能讓食客感受到美味。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 1782,
       "categories": [
@@ -1306,7 +1306,7 @@
     {
       "name": "小王煮瓜",
       "description": "滷肉飯與苦瓜湯，西門町平價美食",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.1,
       "reviews": 14150,
       "categories": [
@@ -1323,7 +1323,7 @@
     {
       "name": "小品雅廚",
       "description": "精緻中式台菜，適合聚會，口味絕佳。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1863,
       "categories": [
@@ -1340,7 +1340,7 @@
     {
       "name": "一甲子餐飲",
       "description": "傳統米粉與羹湯，大橋頭老店",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 6817,
       "categories": [
@@ -1357,7 +1357,7 @@
     {
       "name": "源芳刈包",
       "description": "招牌刈包與四神湯，艋舺美食",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 2880,
       "categories": [
@@ -1374,7 +1374,7 @@
     {
       "name": "HUGH dessert dining",
       "description": "精緻甜品與咖啡喫茶的完美結合，適合聚會放鬆。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 202,
       "categories": [
@@ -1391,7 +1391,7 @@
     {
       "name": "清真中國牛肉麵食館 (大安)",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 3776,
       "categories": [
@@ -1407,7 +1407,7 @@
     {
       "name": "好公道金雞園",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 3.9,
       "reviews": 4226,
       "categories": [
@@ -1424,7 +1424,7 @@
     {
       "name": "施家鮮肉湯圓",
       "description": "甜品界的明星，肉餡豐富，口感滑嫩。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 3752,
       "categories": [
@@ -1441,7 +1441,7 @@
     {
       "name": "元味料理",
       "description": "",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 353,
       "categories": [
@@ -1458,7 +1458,7 @@
     {
       "name": "彭家園",
       "description": "經典中式台菜，適合家庭聚餐，人氣之選。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 1323,
       "categories": [
@@ -1475,7 +1475,7 @@
     {
       "name": "阿城鵝肉",
       "description": "｜招牌鵝肉，肉質鮮嫩，人氣。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 7853,
       "categories": [
@@ -1492,7 +1492,7 @@
     {
       "name": "阿國切仔麵",
       "description": "寧夏市場旁切仔麵，豬骨清湯",
-      "area": "大同區",
+      "area": "大同",
       "rating": 3.8,
       "reviews": 2143,
       "categories": [
@@ -1509,7 +1509,7 @@
     {
       "name": "都一處",
       "description": "北平菜館60年歷史，炸丸子必吃",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 3266,
       "categories": [
@@ -1526,7 +1526,7 @@
     {
       "name": "女娘的店",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 1383,
       "categories": [
@@ -1543,7 +1543,7 @@
     {
       "name": "榮榮園",
       "description": "浙寧餐廳1965年，火靠排骨",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 3492,
       "categories": [
@@ -1560,7 +1560,7 @@
     {
       "name": "泰姬",
       "description": "北印菜色，香料與廚師來自印度",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 4311,
       "categories": [
@@ -1577,7 +1577,7 @@
     {
       "name": "昶鴻麵點",
       "description": "夜市小吃的經典之選，滿足你的味蕾。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.1,
       "reviews": 688,
       "categories": [
@@ -1594,7 +1594,7 @@
     {
       "name": "高麗菜飯 原汁排骨湯",
       "description": "傳統台菜的絕妙搭配，令人回味無窮。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4,
       "reviews": 3156,
       "categories": [
@@ -1611,7 +1611,7 @@
     {
       "name": "磐石坊",
       "description": "經典台菜的匠心之作，讓人一試成主顧。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1041,
       "categories": [
@@ -1628,7 +1628,7 @@
     {
       "name": "阿國滷味",
       "description": "人氣夜市小吃，滷汁香醇，令人一再光顧。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 3.5,
       "reviews": 456,
       "categories": [
@@ -1646,7 +1646,7 @@
     {
       "name": "鼎泰豐信義店",
       "description": "信義路二段米其林指南餐廳，小籠包是全球必吃台灣美食代表，皮薄餡多汁鮮",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 13097,
       "categories": [
@@ -1679,7 +1679,7 @@
     {
       "name": "渣男TaiwanBistro 木柵二渣",
       "description": "",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.8,
       "reviews": 2555,
       "categories": [
@@ -1695,7 +1695,7 @@
     {
       "name": "樂崎火鍋-信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 739,
       "categories": [
@@ -1711,7 +1711,7 @@
     {
       "name": "金雞母Jingimoo｜永康｜",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 2389,
       "categories": [
@@ -1727,7 +1727,7 @@
     {
       "name": "夫妻飯莊(南機場)",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 792,
       "categories": [
@@ -1791,7 +1791,7 @@
     {
       "name": "曉迪筒仔米糕",
       "description": "｜米糕口感滑嫩，搭配各式配料，讓你回味無窮。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 2974,
       "categories": [
@@ -1807,7 +1807,7 @@
     {
       "name": "龍哥無骨雞腿排",
       "description": "無骨雞腿排外脆內嫩，令人難以抗拒的美味。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 459,
       "categories": [
@@ -1823,7 +1823,7 @@
     {
       "name": "龍潭豆花",
       "description": "甜品冰品的最佳選擇，滑嫩豆花令人難以抗拒。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 2128,
       "categories": [
@@ -1839,7 +1839,7 @@
     {
       "name": "南機場 彰化肉圓",
       "description": "彰化肉圓，口感滑嫩的肉圓，人氣小吃，深受食客喜愛。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 1085,
       "categories": [
@@ -1871,7 +1871,7 @@
     {
       "name": "溫州街蘿蔔絲餅達人",
       "description": "臨櫃點餐的質樸店鋪，供應包有蔬菜內餡的手工煎餅。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 5761,
       "categories": [
@@ -1887,7 +1887,7 @@
     {
       "name": "南機場芋頭大王",
       "description": "｜芋頭甜香濃郁，甜品愛好者的必訪之地。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 1306,
       "categories": [
@@ -1903,7 +1903,7 @@
     {
       "name": "好初早餐 中山",
       "description": "清新早餐選擇，受歡迎的咖啡喫茶，是開始一天的理想之地。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1282,
       "categories": [
@@ -1935,7 +1935,7 @@
     {
       "name": "林東芳牛肉麵",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 3.8,
       "reviews": 12473,
       "categories": [
@@ -1952,7 +1952,7 @@
     {
       "name": "陳董藥燉排骨",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 3.5,
       "reviews": 1565,
       "categories": [
@@ -1969,7 +1969,7 @@
     {
       "name": "福州世祖胡椒餅",
       "description": "｜香脆胡椒餅，內餡豐富，超人氣。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 2714,
       "categories": [
@@ -1986,7 +1986,7 @@
     {
       "name": "劉山東牛肉麵",
       "description": "招牌牛肉麵，肉質鮮嫩，湯頭香濃，人氣不斷上升。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 11290,
       "categories": [
@@ -2003,7 +2003,7 @@
     {
       "name": "阜杭豆漿",
       "description": "台北必吃早餐，厚餅蛋夾油條",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 23936,
       "categories": [
@@ -2020,7 +2020,7 @@
     {
       "name": "阿男麻油雞",
       "description": "特色麻油雞，滋味濃郁，是夜市小吃中的人氣之選。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 2354,
       "categories": [
@@ -2038,7 +2038,7 @@
     {
       "name": "臭老闆現蒸臭豆腐",
       "description": "招牌臭豆腐，外酥內嫩，超人氣夜市美食。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 2444,
       "categories": [
@@ -2071,7 +2071,7 @@
     {
       "name": "雲川水月",
       "description": "當代亞洲蔬食，融入台灣原型食材",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 327,
       "categories": [
@@ -2086,7 +2086,7 @@
     {
       "name": "蘇來傳",
       "description": "傳統肉圓與芋粿，70年老店",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4,
       "reviews": 2123,
       "categories": [
@@ -2101,7 +2101,7 @@
     {
       "name": "Tableau by Craig Yang",
       "description": "法式技巧結合台灣辦桌菜，預約制",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 187,
       "categories": [
@@ -2116,7 +2116,7 @@
     {
       "name": "山海盒子-乾燒蛤",
       "description": "極品乾燒蛤蜊，讓你感受海味的鮮美。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 5,
       "reviews": 224,
       "categories": [
@@ -2130,7 +2130,7 @@
     {
       "name": "三燔北投 Mihan Beitou",
       "description": "火烤美味台菜，人氣，滿足你的味蕾渴望。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.9,
       "reviews": 2593,
       "categories": [
@@ -2144,7 +2144,7 @@
     {
       "name": "酒米食堂chumi_canteen－北投店beitou",
       "description": "店，創新台式料理，超人氣，讓人回味無窮。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.9,
       "reviews": 3702,
       "categories": [
@@ -2158,7 +2158,7 @@
     {
       "name": "泉源閣 Bando Club",
       "description": "招牌料理融合傳統與創新，讓食客在品嚐中感受驚喜。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.9,
       "reviews": 607,
       "categories": [
@@ -2186,7 +2186,7 @@
     {
       "name": "老井極上燒肉 台北信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 12272,
       "categories": [
@@ -2200,7 +2200,7 @@
     {
       "name": "尚好烤肉（饒河店）Authentic Taiwanese BBQ Skewers",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 116,
       "categories": [
@@ -2214,7 +2214,7 @@
     {
       "name": "燒肉眾精緻炭火燒肉 台北西門店",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.9,
       "reviews": 11320,
       "categories": [
@@ -2228,7 +2228,7 @@
     {
       "name": "士林貳貳參丼飯",
       "description": "專注日式丼飯，口味豐富，超人氣餐廳，必嚐美味。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 3184,
       "categories": [
@@ -2242,7 +2242,7 @@
     {
       "name": "士林店",
       "description": "特色日式料理，食材新鮮，超人氣，深受食客喜愛。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 5086,
       "categories": [
@@ -2256,7 +2256,7 @@
     {
       "name": "豚馬日本料理",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 7555,
       "categories": [
@@ -2270,7 +2270,7 @@
     {
       "name": "不葷主義茶餐廳 台北店 (13:30/20:30最後點餐｜僅收現金)",
       "description": "招牌無肉餐點，超人氣，健康美味兼顧，滿足你的味蕾。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 12420,
       "categories": [
@@ -2284,7 +2284,7 @@
     {
       "name": "大鵬壽司",
       "description": "招牌新鮮壽司，超人氣，讓你感受日式料理的精緻與美味。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 4831,
       "categories": [
@@ -2298,7 +2298,7 @@
     {
       "name": "巴雷巴雷印度餐廳",
       "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 23030,
       "categories": [
@@ -2326,7 +2326,7 @@
     {
       "name": "肥龍老火鍋（重慶風味）- 台北林森店-台北麻辣火鍋推薦|台北重慶火鍋|台北聚餐餐廳|中山聚餐|必吃火鍋|中山美食推薦|中山火鍋|重慶麻辣鍋",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 2672,
       "categories": [
@@ -2340,7 +2340,7 @@
     {
       "name": "手工殿麻辣鍋物 信義店",
       "description": "人氣火鍋，手工製作的食材與濃郁湯頭相得益彰。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 1153,
       "categories": [
@@ -2354,7 +2354,7 @@
     {
       "name": "鼎楓寶島火鍋 信義Att店",
       "description": "人氣火鍋，豐富食材與鮮美湯底讓人回味無窮。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 1421,
       "categories": [
@@ -2382,7 +2382,7 @@
     {
       "name": "無老鍋(台北信義店)",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 1661,
       "categories": [
@@ -2410,7 +2410,7 @@
     {
       "name": "仨弄砂鍋煲-台北科大|火鍋|熱炒|餐酒館|運動賽事|聚餐|寵物友善餐廳推薦|台北大安區",
       "description": "多元的火鍋與熱炒選擇，寵物友善環境讓聚餐更添樂趣。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.9,
       "reviews": 1045,
       "categories": [
@@ -2424,7 +2424,7 @@
     {
       "name": "黃小妹地攤火鍋－四川重慶火鍋店｜麻辣鍋推薦｜宵夜｜開到凌晨｜台北中山區｜捷運中山站",
       "description": "推薦麻辣鍋，宵夜最佳選擇，人氣火鍋店，開到凌晨。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.9,
       "reviews": 1667,
       "categories": [
@@ -2438,7 +2438,7 @@
     {
       "name": "《擼吉霸》正宗成都四川麻辣串串火鍋創始店｜全台最多種擼串｜人氣平價麻辣｜宵夜、聚餐、包埸｜捷運站美食｜串串｜火鍋｜麻辣｜宵夜｜林森北路美食｜中山區美食｜四川串串｜美食推薦",
       "description": "四川串串，擁有全台最多種擼串，超人氣平價麻辣宵夜。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.9,
       "reviews": 10985,
       "categories": [
@@ -2508,7 +2508,7 @@
     {
       "name": "四時輕燒肉概念屋 台北最強健康輕燒肉",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 12916,
       "categories": [
@@ -2536,7 +2536,7 @@
     {
       "name": "梨谷-韓式鐵板炭火烤肉 信義ATT店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 4093,
       "categories": [
@@ -2564,7 +2564,7 @@
     {
       "name": "肉你好燒肉-延吉店",
       "description": "精緻燒肉選擇，口味絕佳，吸引眾多食客。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.9,
       "reviews": 1453,
       "categories": [
@@ -2578,7 +2578,7 @@
     {
       "name": "香香小吃",
       "description": "超人氣夜市小吃，口味多樣，讓人一次品嚐多種美味。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 1839,
       "categories": [
@@ -2592,7 +2592,7 @@
     {
       "name": "士林堃叔手作糯米腸",
       "description": "超人氣糯米腸，外皮Q彈，內餡豐富，口感絕佳。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 868,
       "categories": [
@@ -2606,7 +2606,7 @@
     {
       "name": "士林串燒",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 1918,
       "categories": [
@@ -2620,7 +2620,7 @@
     {
       "name": "吳爸食堂 水餃/蒸餃/紅油抄手/氣鍋雞湯",
       "description": "手工水餃和紅油抄手，為你帶來家常的溫暖滋味。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.9,
       "reviews": 124,
       "categories": [
@@ -2648,7 +2648,7 @@
     {
       "name": "柒息地串燒居酒屋士林店",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.9,
       "reviews": 6456,
       "categories": [
@@ -2662,7 +2662,7 @@
     {
       "name": "萬墨蔬食漢堡OM vegan Burger",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 107,
       "categories": [
@@ -2676,7 +2676,7 @@
     {
       "name": "大自然幸福蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.9,
       "reviews": 15,
       "categories": [
@@ -2690,7 +2690,7 @@
     {
       "name": "聚善緣蔬食民權店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.9,
       "reviews": 23,
       "categories": [
@@ -2704,7 +2704,7 @@
     {
       "name": "君曜雞湯",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.9,
       "reviews": 1158,
       "address": "110台灣臺北市信義區中興里信義路四段393號",
@@ -2719,7 +2719,7 @@
     {
       "name": "王師父脆皮豬｜台北大同區美食",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.9,
       "reviews": 503,
       "address": "103台灣臺北市大同區建明里長安西路220巷9號",
@@ -2748,7 +2748,7 @@
     {
       "name": "臺北窗口｜蔬食Vegetarian—素手捲 素刈包 輕食 中式點心",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 72,
       "categories": [
@@ -2762,7 +2762,7 @@
     {
       "name": "荷麵亭 HASUMENTEI 北投店",
       "description": "精緻台菜麵食，人氣，提供優雅的用餐體驗。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.8,
       "reviews": 2399,
       "categories": [
@@ -2776,7 +2776,7 @@
     {
       "name": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店",
       "description": "招牌海南雞飯, 人氣餐廳，提供正宗星馬料理。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.8,
       "reviews": 1677,
       "categories": [
@@ -2790,7 +2790,7 @@
     {
       "name": "肉老大頂級肉品涮涮鍋 台北中山火鍋店| 錦西",
       "description": "新鮮海鮮料理專賣，超人氣的海味選擇",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 7515,
       "categories": [
@@ -2804,7 +2804,7 @@
     {
       "name": "肉老大頂級肉品涮涮鍋 台北大安火鍋店| 敦南",
       "description": "樸實的餐廳，專門供應肉類、海鮮與蔬食火鍋。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 5263,
       "categories": [
@@ -2874,7 +2874,7 @@
     {
       "name": "素食 | 蔬食 | Vegetarian | 吉彖蔬食堂＆沙茶芝麻醬麻辣燙、皮蛋乾麵",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.8,
       "reviews": 533,
       "categories": [
@@ -2888,7 +2888,7 @@
     {
       "name": "啼岸VeganResort 蔬食素食髮廊餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 772,
       "categories": [
@@ -2902,7 +2902,7 @@
     {
       "name": "寶吉祥蔬食料理廚房",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 553,
       "categories": [
@@ -2916,7 +2916,7 @@
     {
       "name": "馬友友印度蔬食餐廳 Mayur Indian Kitchen Vegetarian restaurant, MIK-3",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 7162,
       "categories": [
@@ -2930,7 +2930,7 @@
     {
       "name": "雞肉本家 信維店 (雞肉飯專賣店/健康餐)",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.8,
       "reviews": 708,
       "categories": [
@@ -2958,7 +2958,7 @@
     {
       "name": "李氏兄弟44號餐酒館(李氏餐坊)",
       "description": "悠閒的餐廳，供應亞洲和西式佳餚，並提供葡萄酒、啤酒和雞尾酒。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.8,
       "reviews": 867,
       "categories": [
@@ -2972,7 +2972,7 @@
     {
       "name": "長生塩人 北投車站",
       "description": "超人氣，招牌鹽焗料理令人回味無窮，搭配新鮮食材，滿足你的味蕾。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.8,
       "reviews": 3546,
       "categories": [
@@ -2986,7 +2986,7 @@
     {
       "name": "谷炭燒肉/北投美食 北投燒肉 北投餐廳 石牌美食 石牌燒肉 石牌餐廳",
       "description": "人氣，提供高品質燒肉體驗，搭配炭火烤製，肉質鮮嫩多汁。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.8,
       "reviews": 2400,
       "categories": [
@@ -3000,7 +3000,7 @@
     {
       "name": "Knock Knock Heaven 內湖店",
       "description": "提供精緻中式料理，人氣餐廳，環境放鬆舒適。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.8,
       "reviews": 684,
       "categories": [
@@ -3014,7 +3014,7 @@
     {
       "name": "小貳 。食樂 little two 火鍋/簡餐/輕食 內湖美食 內湖鍋物 內湖外帶美食 內湖便當 內湖必吃 內湖火鍋",
       "description": "火鍋與輕食完美結合，人氣餐廳，內湖區的美食新選擇。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.8,
       "reviews": 216,
       "categories": [
@@ -3041,7 +3041,7 @@
     {
       "name": "農耕車石頭火鍋",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.8,
       "reviews": 5202,
       "categories": [
@@ -3055,7 +3055,7 @@
     {
       "name": "四川龍府",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.8,
       "reviews": 4303,
       "categories": [
@@ -3069,7 +3069,7 @@
     {
       "name": "島語 台北漢來店",
       "description": "島語, 超人氣台灣小吃, 提供多樣化的經典台灣美食。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.8,
       "reviews": 14553,
       "categories": [
@@ -3083,7 +3083,7 @@
     {
       "name": "夏綠沁-義大利麵燉飯-餐酒館下午茶-松山機場美食-適合外帶外送",
       "description": "招牌義大利麵與燉飯，適合外帶外送，讓你在家也能享受美味。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.8,
       "reviews": 908,
       "categories": [
@@ -3139,7 +3139,7 @@
     {
       "name": "米釉麻辣鍋物｜大巨蛋美食｜大安區美食｜麻辣鴛鴦鍋",
       "description": "人氣麻辣鴛鴦鍋，麻辣與清湯的完美搭配，火辣刺激。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 2169,
       "categories": [
@@ -3167,7 +3167,7 @@
     {
       "name": "東華川府重慶老火鍋 - 台北忠孝店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.8,
       "reviews": 1131,
       "categories": [
@@ -3181,7 +3181,7 @@
     {
       "name": "問鼎 ‧ 皇上吉祥 麻辣養生鍋-西門店",
       "description": "麻辣口味搭配養生元素，超人氣聚餐首選。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.8,
       "reviews": 11827,
       "categories": [
@@ -3251,7 +3251,7 @@
     {
       "name": "時刻饗聚MF｜士林芝山甜點、咖啡下午茶、義大利麵、Pizza",
       "description": "精緻甜點與義大利麵並重，適合下午茶，深受食客喜愛。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.8,
       "reviews": 733,
       "categories": [
@@ -3292,7 +3292,7 @@
     {
       "name": "安和咖啡商號 Cafe Ah! 信義安和咖啡/印度咖哩/美食/甜點",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 393,
       "categories": [
@@ -3334,7 +3334,7 @@
     {
       "name": "林居sushi日本料理 永吉店",
       "description": "永吉店, 日式料理美味，人氣持續上升，值得推薦。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 2819,
       "categories": [
@@ -3445,7 +3445,7 @@
     {
       "name": "山上走走 日式燒肉台北華山店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 14368,
       "categories": [
@@ -3500,7 +3500,7 @@
     {
       "name": "胖肚肚燒肉 大安店",
       "description": "人氣中式燒肉，豐富的選擇與美味醬料，令人一再光顧。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 5104,
       "categories": [
@@ -3514,7 +3514,7 @@
     {
       "name": "王品牛排 台北中山北店",
       "description": "超人氣牛排館，以高品質的牛排和優質服務著稱，口味無人能敵。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 12528,
       "categories": [
@@ -3528,7 +3528,7 @@
     {
       "name": "王品牛排 台北南京東店",
       "description": "以精緻牛排和優雅氛圍聞名，吸引眾多食客光臨的超人氣餐廳。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 8041,
       "categories": [
@@ -3556,7 +3556,7 @@
     {
       "name": "雞老闆 桶仔雞 士林店",
       "description": "人氣桶仔雞，肉質鮮美，香氣四溢，是宵夜首選。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.8,
       "reviews": 1035,
       "categories": [
@@ -3570,7 +3570,7 @@
     {
       "name": "戰 鬥 雞 無骨 醉雞/油雞 饒河店",
       "description": "無骨雞肉柔嫩多汁，值得一試的夜市美味。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.8,
       "reviews": 101,
       "categories": [
@@ -3598,7 +3598,7 @@
     {
       "name": "香菘河內烤肉粉專賣店",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.8,
       "reviews": 717,
       "categories": [
@@ -3612,7 +3612,7 @@
     {
       "name": "Monday蔬食料理 錦州店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 1344,
       "categories": [
@@ -3626,7 +3626,7 @@
     {
       "name": "麵屋技庵",
       "description": "日式料理餐廳",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.8,
       "reviews": 1427,
       "address": "10491台灣臺北市中山區大直里大直街18號",
@@ -3641,7 +3641,7 @@
     {
       "name": "HU’s Restaurant 互餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.8,
       "reviews": 674,
       "address": "103台灣臺北市大同區延平里重慶北路二段172號2樓",
@@ -3656,7 +3656,7 @@
     {
       "name": "雲水食堂 yunshuikitchen|2025台北國際牛肉麵金牌獎|臺北牛肉麵推薦|萬華牛肉麵推薦|臺北美食推薦|萬華美食推薦|艋舺美食推薦beefnoodlesoup",
       "description": "推薦金牌牛肉麵，湯頭清爽，肉質鮮美。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.7,
       "reviews": 507,
       "categories": [
@@ -3670,7 +3670,7 @@
     {
       "name": "Takeout burger & cafe 內湖店（最後點餐晚上9點，恕不接待10歲以下幼童內用）",
       "description": "e 內湖店, 招牌外帶漢堡, 人氣咖啡喫茶店，晚上9點後不接待10歲以下幼童內用。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.7,
       "reviews": 918,
       "categories": [
@@ -3684,7 +3684,7 @@
     {
       "name": "COCA泰式海鮮火鍋 ‧ 泰式料理-聚餐餐廳推薦｜商務聚餐｜台北東區｜大安區｜忠孝敦化",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1216,
       "categories": [
@@ -3726,7 +3726,7 @@
     {
       "name": "燒肉中山｜台北信義",
       "description": "人氣燒肉場所，提供多樣化的肉品選擇，滿足食客的需求。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 5197,
       "categories": [
@@ -3768,7 +3768,7 @@
     {
       "name": "PAPA RESTAURANT （台北師大店）／師大美食/師大義大利麵/師大簡餐/師大披薩/師大手工烘培/師大歐式麵包/師大下午茶/師大聚餐推薦/師大商業午餐/師大包場",
       "description": "歐式餐點多樣，手工披薩與義大利麵深受喜愛。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 2127,
       "categories": [
@@ -3782,7 +3782,7 @@
     {
       "name": "13_Burger",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 901,
       "categories": [
@@ -3796,7 +3796,7 @@
     {
       "name": "肉桂樹 The Cinnamon Tree 肉桂捲-師大店",
       "description": "e, 肉桂捲香氣四溢，受歡迎的甜品選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 553,
       "categories": [
@@ -3824,7 +3824,7 @@
     {
       "name": "味萊樹 創意蔬食料理 台北總店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 427,
       "categories": [
@@ -3838,7 +3838,7 @@
     {
       "name": "Gaia Flow 全植料理 | 純素 | 無麩質 | 有機 | 自然 | 友善農法 | Vegan Restaurant | Gluten Free",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 91,
       "categories": [
@@ -3852,7 +3852,7 @@
     {
       "name": "丰禾 台味風格料理 台北南京東店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 10923,
       "categories": [
@@ -3866,7 +3866,7 @@
     {
       "name": "師大雞肉飯專門店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1127,
       "categories": [
@@ -3908,7 +3908,7 @@
     {
       "name": "肉多多火鍋-台北西門店",
       "description": "專注肉類火鍋，口味豐富，人氣火鍋選擇。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.7,
       "reviews": 1648,
       "categories": [
@@ -3936,7 +3936,7 @@
     {
       "name": "이집_這家韓式烤肉 1號店_延吉店",
       "description": "招牌韓式烤肉，人氣餐廳，讓你感受濃厚的韓國風情。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 2152,
       "categories": [
@@ -3964,7 +3964,7 @@
     {
       "name": "Cow過來（原悅喀西餐）",
       "description": "",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.7,
       "reviews": 299,
       "categories": [
@@ -3978,7 +3978,7 @@
     {
       "name": "呼嚕小酒館 Purrson Bistro",
       "description": "人氣，特色中式料理，讓您在輕鬆氛圍中品味台灣味道。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.7,
       "reviews": 2345,
       "categories": [
@@ -3992,7 +3992,7 @@
     {
       "name": "18精緻小館",
       "description": "精緻的台菜料理，讓每一口都充滿驚喜與滿足感。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.7,
       "reviews": 820,
       "categories": [
@@ -4006,7 +4006,7 @@
     {
       "name": "小倉庫食研所",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.7,
       "reviews": 7975,
       "categories": [
@@ -4020,7 +4020,7 @@
     {
       "name": "歡樂便所主題餐廳",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.7,
       "reviews": 4610,
       "categories": [
@@ -4034,7 +4034,7 @@
     {
       "name": "John的料理/士林官邸美食/無提供化妝室",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.7,
       "reviews": 265,
       "categories": [
@@ -4048,7 +4048,7 @@
     {
       "name": "漁噹家食堂",
       "description": "招牌海鮮菜品新鮮美味，適合家庭聚餐，讓人感受到家的溫暖。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 324,
       "categories": [
@@ -4062,7 +4062,7 @@
     {
       "name": "北投奇岩一號",
       "description": "招牌台菜創意料理，讓你在享受美食的同時感受北投的自然之美。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 457,
       "categories": [
@@ -4076,7 +4076,7 @@
     {
       "name": "左爺爺風味小館",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 372,
       "categories": [
@@ -4090,7 +4090,7 @@
     {
       "name": "百鍋匯 北投美食",
       "description": "特色鍋品多樣，人氣餐廳，適合分享的聚餐選擇。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 240,
       "categories": [
@@ -4104,7 +4104,7 @@
     {
       "name": "天空廚房",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 473,
       "categories": [
@@ -4118,7 +4118,7 @@
     {
       "name": "阿亮小吃 (必吃宵夜美食、平價麵館 滷味小吃、人氣銅板料理)",
       "description": "必吃宵夜美食，平價美味麵食超人氣，讓你一試成主顧。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 2814,
       "categories": [
@@ -4132,7 +4132,7 @@
     {
       "name": "Agusto奧古斯托 牛排龍蝦餐酒館 內科店｜台北美食義式餐廳 生日聚餐包場推薦",
       "description": "科店, 精緻義式牛排與龍蝦, 生日聚餐的理想選擇。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.7,
       "reviews": 378,
       "categories": [
@@ -4146,7 +4146,7 @@
     {
       "name": "羽樂歐陸創意料理",
       "description": "現代風格餐廳，供應海鮮料理、義大利麵與沙拉等異國美食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.7,
       "reviews": 4375,
       "categories": [
@@ -4160,7 +4160,7 @@
     {
       "name": "NAGOYA 道地日式蛋包飯（開放電話及私訊訂位）",
       "description": "招牌日式蛋包飯，超人氣，濃郁醬汁包裹著軟嫩蛋皮。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.7,
       "reviews": 4529,
       "categories": [
@@ -4174,7 +4174,7 @@
     {
       "name": "鄞家食堂",
       "description": "簡約的餐廳，供應在地美食，包括魚類、肉類菜餚、湯品和麵食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.7,
       "reviews": 1804,
       "categories": [
@@ -4188,7 +4188,7 @@
     {
       "name": "關東本家",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.7,
       "reviews": 1662,
       "categories": [
@@ -4202,7 +4202,7 @@
     {
       "name": "青樓中式餐酒館",
       "description": "裝飾溫馨的舒適餐廳，提供烤鴨料理，還有海鮮與熱炒料理。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.7,
       "reviews": 2634,
       "categories": [
@@ -4230,7 +4230,7 @@
     {
       "name": "這一小鍋 台北東森站前店（無接受訂位）【呷Bar店】",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 3699,
       "categories": [
@@ -4244,7 +4244,7 @@
     {
       "name": "青花驕麻辣鍋 台北中山北店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 21288,
       "categories": [
@@ -4342,7 +4342,7 @@
     {
       "name": "游壽司麗水店",
       "description": "超人氣日式壽司, 新鮮食材令人讚不絕口。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1994,
       "categories": [
@@ -4398,7 +4398,7 @@
     {
       "name": "真芳現烤吐司 大安和平店 台北早餐三明治",
       "description": "愜意的早餐店，供應鹹三明治和甜吐司，另有咖啡與茶飲。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 2807,
       "categories": [
@@ -4426,7 +4426,7 @@
     {
       "name": "禧太炭火燒肉店-台北推薦燒肉 東區烤肉",
       "description": "氛圍平實溫馨的質樸餐廳，供應經典的燒肉料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 2808,
       "categories": [
@@ -4482,7 +4482,7 @@
     {
       "name": "川火·成都燒烤",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.7,
       "reviews": 699,
       "categories": [
@@ -4538,7 +4538,7 @@
     {
       "name": "月老湯包 龍山寺店",
       "description": "皮薄湯多的湯包, 讓每一口都充滿驚喜與鮮美。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.7,
       "reviews": 233,
       "categories": [
@@ -4552,7 +4552,7 @@
     {
       "name": "小美米粉湯",
       "description": "米粉湯品清爽可口，深受食客喜愛的經典美味。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.7,
       "reviews": 253,
       "categories": [
@@ -4580,7 +4580,7 @@
     {
       "name": "蓉記莫名堂（師大店）",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 374,
       "categories": [
@@ -4594,7 +4594,7 @@
     {
       "name": "築本屋公館店",
       "description": "人氣小吃，提供各式夜市美食，讓人回味無窮。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 2249,
       "categories": [
@@ -4609,7 +4609,7 @@
     {
       "name": "老铁沒毛病酸菜魚",
       "description": "酸辣魚湯鮮美，人氣小吃深受喜愛。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.7,
       "reviews": 2138,
       "categories": [
@@ -4651,7 +4651,7 @@
     {
       "name": "林記肉圓",
       "description": "人氣小吃，招牌肉圓口感Q彈，值得一試。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.7,
       "reviews": 137,
       "categories": [
@@ -4665,7 +4665,7 @@
     {
       "name": "金孫韓廚 義大利麵(士林店)",
       "description": "義大利麵，招牌義大利麵口味多樣，超人氣的異國料理選擇。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.7,
       "reviews": 3802,
       "categories": [
@@ -4679,7 +4679,7 @@
     {
       "name": "叡哥溫州大餛飩",
       "description": "手工餛飩口感滑順，人氣美味讓人回味無窮。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.7,
       "reviews": 115,
       "categories": [
@@ -4693,7 +4693,7 @@
     {
       "name": "小蔬同手作蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 213,
       "categories": [
@@ -4707,7 +4707,7 @@
     {
       "name": "三本手工拉麵（素食餐廳）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 2662,
       "categories": [
@@ -4721,7 +4721,7 @@
     {
       "name": "三個傻瓜印度蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 4598,
       "categories": [
@@ -4735,7 +4735,7 @@
     {
       "name": "永青素食點心坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 582,
       "categories": [
@@ -4749,7 +4749,7 @@
     {
       "name": "樂道蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 39,
       "categories": [
@@ -4763,7 +4763,7 @@
     {
       "name": "葉甘單蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 276,
       "categories": [
@@ -4777,7 +4777,7 @@
     {
       "name": "164餐廚 蔬食餐盒專賣【葷素】",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 39,
       "categories": [
@@ -4791,7 +4791,7 @@
     {
       "name": "逸春園蔬食、滷味",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 47,
       "categories": [
@@ -4805,7 +4805,7 @@
     {
       "name": "明水然・樂-遠百信義店(遠百A13店)",
       "description": "日式料理餐廳",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 2660,
       "address": "110台灣臺北市信義區西村里松仁路58號遠百A13店14樓",
@@ -4820,7 +4820,7 @@
     {
       "name": "HOOTERS美式餐廳 信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 5934,
       "address": "110台灣臺北市信義區松仁路58號14樓",
@@ -4835,7 +4835,7 @@
     {
       "name": "瑪喜餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 519,
       "address": "10491台灣臺北市中山區中山北路三段26-1號民權西路捷運站 9 or 10號出口400公尺",
@@ -4850,7 +4850,7 @@
     {
       "name": "徜徉餐廳",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 598,
       "address": "104037台灣臺北市中山區劍潭里北安路303號1樓",
@@ -4865,7 +4865,7 @@
     {
       "name": "水云濮花椒麻辣麵中山店-茶葉禮盒/林森北路/素食/中山區美食推薦/古樹普洱茶/黑茶/捷運雙連站中山站美食",
       "description": "麵食專賣店，湯頭講究",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 2419,
       "address": "10491台灣臺北市中山區中山里新生北路二段60巷36號",
@@ -4880,7 +4880,7 @@
     {
       "name": "BirDining蔦飼料餐食料理",
       "description": "日式料理餐廳",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.7,
       "reviews": 796,
       "address": "10491台灣臺北市中山區大直里大直街32號",
@@ -4895,7 +4895,7 @@
     {
       "name": "渾水摸魚料亭 Japanese restaurant",
       "description": "日式料理餐廳",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.7,
       "reviews": 831,
       "address": "103台灣臺北市大同區建泰里太原路79巷38號1F",
@@ -4910,7 +4910,7 @@
     {
       "name": "燦津 呷滷肉飯米粉湯",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.7,
       "reviews": 623,
       "address": "103台灣臺北市大同區保安里酒泉街139號",
@@ -4925,7 +4925,7 @@
     {
       "name": "江牛樓",
       "description": "日式料理餐廳",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.7,
       "reviews": 866,
       "address": "103台灣臺北市大同區 大同区 民樂街6號",
@@ -4940,7 +4940,7 @@
     {
       "name": "金樺城鵝肉担-延三店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.7,
       "reviews": 984,
       "address": "103台灣臺北市大同區景星里延平北路三段24號",
@@ -4997,7 +4997,7 @@
     {
       "name": "荷麵亭 HASUMENTEI 士林店",
       "description": "小巧悠閒的日式餐廳，供應傳統拉麵料理，並採用懷舊的家具擺設。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.6,
       "reviews": 5017,
       "categories": [
@@ -5011,7 +5011,7 @@
     {
       "name": "Tierra Casa Restaurant",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.6,
       "reviews": 455,
       "categories": [
@@ -5025,7 +5025,7 @@
     {
       "name": "CHIT CHAT Cafe 南京店",
       "description": "提供精緻咖啡與輕食，人氣喫茶場所，適合悠閒聚會。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 1358,
       "categories": [
@@ -5151,7 +5151,7 @@
     {
       "name": "半島牛肉麵",
       "description": "信義區忠孝東路五段巷弄，台北牛肉麵節冠軍，Google 8000則4.6星，牛肉超大超霸氣",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 8452,
       "categories": [
@@ -5165,7 +5165,7 @@
     {
       "name": "— LAX 慵懶 — 貓空 ｜",
       "description": "超人氣台菜餐廳，悠閒氛圍與美味並存。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.6,
       "reviews": 2494,
       "categories": [
@@ -5179,7 +5179,7 @@
     {
       "name": "祥二屋 日式丼飯料理專門店",
       "description": "",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.6,
       "reviews": 783,
       "categories": [
@@ -5193,7 +5193,7 @@
     {
       "name": "村民食堂廚窗港點 士林官邸店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.6,
       "reviews": 12970,
       "categories": [
@@ -5207,7 +5207,7 @@
     {
       "name": "春霖小食",
       "description": "傳統中式台菜，適合小份量品嚐，口感不錯，值得一試。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.6,
       "reviews": 555,
       "categories": [
@@ -5221,7 +5221,7 @@
     {
       "name": "九井自慢料理",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.6,
       "reviews": 1034,
       "categories": [
@@ -5235,7 +5235,7 @@
     {
       "name": "五漁村丼飯屋",
       "description": "日式丼飯料理獨具一格，超人氣，口味鮮美不容錯過。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.6,
       "reviews": 1645,
       "categories": [
@@ -5249,7 +5249,7 @@
     {
       "name": "百魚鮮食屋",
       "description": "供應壽司、湯品和海鮮料理的簡約日式餐廳，設有吧台座位區。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.6,
       "reviews": 1963,
       "categories": [
@@ -5263,7 +5263,7 @@
     {
       "name": "瀧厚炙燒熟成牛排 台北.南港店",
       "description": "招牌熟成牛排，人氣餐廳，讓每一口都充滿肉香與鮮嫩。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.6,
       "reviews": 4320,
       "categories": [
@@ -5277,7 +5277,7 @@
     {
       "name": "千層吧",
       "description": "招牌甜品千層蛋糕，層次分明，吃一口就讓人心情愉快。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 817,
       "categories": [
@@ -5305,7 +5305,7 @@
     {
       "name": "這一鍋 台北信義殿",
       "description": "超人氣火鍋，創意湯底與新鮮食材，令人一試成主顧。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 6356,
       "categories": [
@@ -5319,7 +5319,7 @@
     {
       "name": "海牧水產鍋物 台北通化店",
       "description": "創新火鍋體驗，以新鮮水產為主打，吸引不少食客。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 383,
       "categories": [
@@ -5459,7 +5459,7 @@
     {
       "name": "日鑫壽司 Rixin Sushi -中正日式餐廳|道地日式料理|精緻日料|熱門日料|在地推薦餐廳|必吃日本料理|人氣壽司|壽司首選",
       "description": "道地日本料理, 人氣壽司選擇多樣。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 415,
       "categories": [
@@ -5725,7 +5725,7 @@
     {
       "name": "燒肉眾精緻炭火燒肉 台北吉林店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 1717,
       "categories": [
@@ -5837,7 +5837,7 @@
     {
       "name": "胖肚肚燒肉吃到飽599-中山店｜炭火燒肉",
       "description": "座無虛席的日式燒肉餐廳，供應以桌面烤爐料理的肉類和海鮮餐點。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 5121,
       "categories": [
@@ -5851,7 +5851,7 @@
     {
       "name": "心心港式腸粉 SIN SIN HK Rice Rolls",
       "description": "招牌腸粉口感滑嫩，搭配多樣醬汁，深受食客喜愛。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 343,
       "categories": [
@@ -5865,7 +5865,7 @@
     {
       "name": "哈囉海鮮鍋燒",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 1056,
       "categories": [
@@ -5879,7 +5879,7 @@
     {
       "name": "李記蚵仔煎&魷魚羹(公休日請至選單臉書網站查詢）",
       "description": "鮮美蚵仔煎與魷魚羹，深受食客喜愛的小吃店。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 264,
       "categories": [
@@ -5893,7 +5893,7 @@
     {
       "name": "肖肖瓶罐米線",
       "description": "創意瓶罐盛裝米線，別具一格的小吃體驗，讓人耳目一新。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.6,
       "reviews": 131,
       "categories": [
@@ -5907,7 +5907,7 @@
     {
       "name": "料理長胡椒蝦",
       "description": "",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.6,
       "reviews": 341,
       "categories": [
@@ -5935,7 +5935,7 @@
     {
       "name": "小胖好吃鹽水雞35年老攤",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 446,
       "categories": [
@@ -5949,7 +5949,7 @@
     {
       "name": "麻麵控 通化店",
       "description": "手工麻麵滑順入味，是夜市小吃的絕佳選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 872,
       "categories": [
@@ -5963,7 +5963,7 @@
     {
       "name": "銀兔湯咖哩(師大本店)",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 5647,
       "categories": [
@@ -5977,7 +5977,7 @@
     {
       "name": "焦糖楓串燒連鎖第一品牌/師大直營店(內用/外帶)",
       "description": "招牌串燒美味，獲得超人氣的美食體驗。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 1875,
       "categories": [
@@ -5991,7 +5991,7 @@
     {
       "name": "公館阿姨滷味-滷味/輕食/健康養生/平價美食",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 449,
       "categories": [
@@ -6005,7 +6005,7 @@
     {
       "name": "阿薄郎薄皮餃子－公館店",
       "description": "人氣薄皮餃子，餡料豐富，口感極佳。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 2535,
       "categories": [
@@ -6019,7 +6019,7 @@
     {
       "name": "炎弟炒飯鐵板燒 - 公館店",
       "description": "招牌鐵板炒飯，超人氣選擇，口味豐富。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 4046,
       "categories": [
@@ -6103,7 +6103,7 @@
     {
       "name": "台北【麥飯糰】夏日輕食推薦 l 團體訂餐推薦 l 北投親子友善推薦｜北投美食推薦｜北投握飯糰/素食（蛋奶素）飯糰｜北投平價美食推薦｜北投下午茶推薦｜北投午餐推薦｜北投晚餐推薦",
       "description": "北投握飯糰，素食飯糰，美味健康，適合親子共享的輕食選擇。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.6,
       "reviews": 102,
       "categories": [
@@ -6117,7 +6117,7 @@
     {
       "name": "彌樂事蔬食食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 320,
       "categories": [
@@ -6131,7 +6131,7 @@
     {
       "name": "光慧素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 18,
       "categories": [
@@ -6145,7 +6145,7 @@
     {
       "name": "京席素食料理（寧波店）",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 258,
       "categories": [
@@ -6159,7 +6159,7 @@
     {
       "name": "賴媽媽素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.6,
       "reviews": 415,
       "categories": [
@@ -6173,7 +6173,7 @@
     {
       "name": "禾花素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 582,
       "categories": [
@@ -6187,7 +6187,7 @@
     {
       "name": "享食贊蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 117,
       "categories": [
@@ -6201,7 +6201,7 @@
     {
       "name": "SHANN SHANN 小香 台北三越信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 1108,
       "address": "110台灣臺北市信義區西村里松壽路9號6樓",
@@ -6216,7 +6216,7 @@
     {
       "name": "SALT&STONE 台北101餐廳",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 5295,
       "address": "110台灣臺北市信義區西村里市府路45號4樓",
@@ -6231,7 +6231,7 @@
     {
       "name": "小小麥 信義新光A11",
       "description": "日式料理餐廳",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 2138,
       "address": "11064台灣臺北市信義區松壽路11號B2",
@@ -6246,7 +6246,7 @@
     {
       "name": "隱世餐酒館(台北永春店)",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 1535,
       "address": "110台灣臺北市信義區富台里忠孝東路五段297號B1F",
@@ -6261,7 +6261,7 @@
     {
       "name": "依鼎越式美食",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 3944,
       "address": "110台灣臺北市信義區景勤里吳興街140號",
@@ -6276,7 +6276,7 @@
     {
       "name": "頁小館",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 2300,
       "address": "10463台灣臺北市中山區大直里北安路595巷20弄4號1樓",
@@ -6291,7 +6291,7 @@
     {
       "name": "WOW Bistro旺.慢食餐酒館 -中山店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 5624,
       "address": "10491台灣臺北市中山區民安里中山北路二段42巷34號",
@@ -6306,7 +6306,7 @@
     {
       "name": "嘉廚 Collective Excellent restaurant",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 608,
       "address": "104台灣臺北市中山區中山北路二段96-1號雙連郵局隔壁",
@@ -6321,7 +6321,7 @@
     {
       "name": "Felice饗樂 Pasta&Dessert &鍋物",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.6,
       "reviews": 613,
       "address": "10491台灣臺北市中山區中山里中山北路二段59巷16號",
@@ -6336,7 +6336,7 @@
     {
       "name": "無口小廚 Mukuchi Kitchen & Bar",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.6,
       "reviews": 1826,
       "address": "10343台灣臺北市大同區南芳里環河北路一段431號一樓",
@@ -6351,7 +6351,7 @@
     {
       "name": "寶杏堂 手切滷肉飯 溫補羊肉湯",
       "description": "手切滷肉飯和溫補羊肉湯，適合喜歡暖心料理的食客。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 1006,
       "categories": [
@@ -6365,7 +6365,7 @@
     {
       "name": "竣師父牛肉麵-大安店",
       "description": "牛肉麵湯頭濃郁，搭配手工麵條，深受食客喜愛。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1462,
       "categories": [
@@ -6379,7 +6379,7 @@
     {
       "name": "門前隱味牛肉麵 西門漢口",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 1656,
       "categories": [
@@ -6393,7 +6393,7 @@
     {
       "name": "老唐牛肉麵 台北東區店",
       "description": "超人氣牛肉麵，肉質鮮嫩，湯頭香醇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 359,
       "categories": [
@@ -6421,7 +6421,7 @@
     {
       "name": "宵夜牛肉麵大王 大安店 / NIGHT BEEF NOODLES KING DAAN",
       "description": "大份量牛肉麵，宵夜最佳選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 203,
       "categories": [
@@ -6449,7 +6449,7 @@
     {
       "name": "BELLINI Pasta Pasta 南港潤泰店",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.5,
       "reviews": 1757,
       "categories": [
@@ -6603,7 +6603,7 @@
     {
       "name": "ConfitRémi 黑米",
       "description": "裝飾溫馨的愜意餐廳，供應現代義大利料理和披薩。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 2518,
       "categories": [
@@ -6617,7 +6617,7 @@
     {
       "name": "饗食雪屋_🥘酸菜魚•椒麻雞•冰酥🍧",
       "description": "招牌酸菜魚和椒麻雞，搭配清涼冰品，完美的夏日享受。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 459,
       "categories": [
@@ -6631,7 +6631,7 @@
     {
       "name": "徙巷小餐酒x徙巷早午餐",
       "description": "早午餐和咖啡的完美結合，適合悠閒的午後時光。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 691,
       "categories": [
@@ -6645,7 +6645,7 @@
     {
       "name": "大隻佬 食堂",
       "description": "人氣中式餐廳，提供豐富的台菜選擇，滿足您的味蕾。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 1217,
       "categories": [
@@ -6659,7 +6659,7 @@
     {
       "name": "貓空清泉山莊 景點餐廳",
       "description": "享受中式台菜美味, 人氣餐廳，環境優雅，適合聚餐。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.5,
       "reviews": 2429,
       "categories": [
@@ -6673,7 +6673,7 @@
     {
       "name": "台之最餐廳",
       "description": "提供多樣中式台菜，環境舒適，適合聚會，深受食客喜愛。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -6687,7 +6687,7 @@
     {
       "name": "道樂屋台",
       "description": "充滿特色的中式台菜，創意十足，人氣餐廳，吸引眾多食客。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.5,
       "reviews": 2730,
       "categories": [
@@ -6701,7 +6701,7 @@
     {
       "name": "北投飢廠",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.5,
       "reviews": 258,
       "categories": [
@@ -6715,7 +6715,7 @@
     {
       "name": "武侍酒 日式居酒屋",
       "description": "氣氛溫馨熱絡的日式餐廳，主打烤肉料理。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.5,
       "reviews": 2101,
       "categories": [
@@ -6729,7 +6729,7 @@
     {
       "name": "非常泰 - 南港中信店",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.5,
       "reviews": 1858,
       "categories": [
@@ -6743,7 +6743,7 @@
     {
       "name": "有間小館",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.5,
       "reviews": 381,
       "categories": [
@@ -6757,7 +6757,7 @@
     {
       "name": "小院子⋄特色地方熱炒⋄陝西外省⋄麵食⋄飯類⋄/台北美食/台北熱炒/台北推薦餐廳/台北必吃/台北陝西菜/附近美食",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.5,
       "reviews": 344,
       "categories": [
@@ -6799,7 +6799,7 @@
     {
       "name": "詹記麻辣火鍋-西門大世界",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.5,
       "reviews": 2196,
       "categories": [
@@ -7037,7 +7037,7 @@
     {
       "name": "覓糖Mi Tang 台北興安店",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.5,
       "reviews": 946,
       "categories": [
@@ -7107,7 +7107,7 @@
     {
       "name": "瀧厚炙燒熟成牛排 臺北.大安店",
       "description": "氣氛放鬆的連鎖牛排館，供應牛肉、豬肉與雞肉主餐，另還有燉飯及火鍋。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 4359,
       "categories": [
@@ -7177,7 +7177,7 @@
     {
       "name": "瀧厚炙燒熟成牛排 台北.信義ATT店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 2410,
       "categories": [
@@ -7219,7 +7219,7 @@
     {
       "name": "天母紅瓦厝客家餐廳",
       "description": "傳統客家料理為主，環境優雅，人氣餐廳，適合聚會。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.5,
       "reviews": 393,
       "categories": [
@@ -7233,7 +7233,7 @@
     {
       "name": "便當人台北大安店 I`M BENTO",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -7247,7 +7247,7 @@
     {
       "name": "焼肉スマイル（燒肉Smile）大安忠孝店(自助吧)",
       "description": "燒肉Smile自助吧, 超人氣自助燒肉，讓食客隨心所欲享受美味。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 4518,
       "categories": [
@@ -7261,7 +7261,7 @@
     {
       "name": "甘泉豆花-饒河店",
       "description": "提供滑嫩豆花，甜品愛好者的首選，人氣甜品店。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.5,
       "reviews": 325,
       "categories": [
@@ -7275,7 +7275,7 @@
     {
       "name": "侏儸紀醬汁魷魚、啤酒螺專賣店",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.5,
       "reviews": 735,
       "categories": [
@@ -7290,7 +7290,7 @@
     {
       "name": "萬華阿源小吃",
       "description": "經典夜市小吃，口味多樣，深受食客喜愛。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.5,
       "reviews": 269,
       "categories": [
@@ -7304,7 +7304,7 @@
     {
       "name": "Lucky Machi 正宗義大利手工提拉米蘇",
       "description": "手工製作的義大利提拉米蘇，口感細膩，甜而不膩。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 364,
       "categories": [
@@ -7318,7 +7318,7 @@
     {
       "name": "夜店食堂",
       "description": "小吃夜市人氣，夜晚品味精緻小吃的最佳選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 140,
       "categories": [
@@ -7332,7 +7332,7 @@
     {
       "name": "燈籠滷味 通化店",
       "description": "小吃夜市超人氣，以美味滷味吸引食客。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 2070,
       "categories": [
@@ -7346,7 +7346,7 @@
     {
       "name": "紅花天后麻辣鹽水雞-通化創始總店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 4401,
       "categories": [
@@ -7360,7 +7360,7 @@
     {
       "name": "大狗麵線（師大店）",
       "description": "濃郁湯頭與彈牙麵條，成為師大地區的美食代表。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1564,
       "categories": [
@@ -7374,7 +7374,7 @@
     {
       "name": "雲鼎阿二麻辣食堂-師大店",
       "description": "以麻辣火鍋聞名，人氣火爆的小吃店。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1671,
       "categories": [
@@ -7388,7 +7388,7 @@
     {
       "name": "喬一喬韓食（師大店）",
       "description": "提供多樣化的韓式小吃，人氣持續上升。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 364,
       "categories": [
@@ -7402,7 +7402,7 @@
     {
       "name": "皇泰泰",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 287,
       "categories": [
@@ -7458,7 +7458,7 @@
     {
       "name": "北投36私房麵",
       "description": "私房麵條搭配秘製湯頭，讓人一試成主顧。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.5,
       "reviews": 444,
       "categories": [
@@ -7472,7 +7472,7 @@
     {
       "name": "芳阿姨小吃店",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.5,
       "reviews": 170,
       "categories": [
@@ -7486,7 +7486,7 @@
     {
       "name": "【泓得素食】健康蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 627,
       "categories": [
@@ -7500,7 +7500,7 @@
     {
       "name": "觀音亭素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 486,
       "categories": [
@@ -7514,7 +7514,7 @@
     {
       "name": "艾香養生素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 262,
       "categories": [
@@ -7528,7 +7528,7 @@
     {
       "name": "禾苗素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 390,
       "categories": [
@@ -7542,7 +7542,7 @@
     {
       "name": "豐味亭異國素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 637,
       "categories": [
@@ -7556,7 +7556,7 @@
     {
       "name": "長青素食點心",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 579,
       "categories": [
@@ -7570,7 +7570,7 @@
     {
       "name": "宜亨齋蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 286,
       "categories": [
@@ -7584,7 +7584,7 @@
     {
       "name": "世界素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 538,
       "categories": [
@@ -7598,7 +7598,7 @@
     {
       "name": "稻舍食館 微風信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 518,
       "address": "110台灣臺北市信義區興雅里忠孝東路五段68號4 樓",
@@ -7613,7 +7613,7 @@
     {
       "name": "新高軒信義店(A11-B2)",
       "description": "日式料理餐廳",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 1912,
       "address": "110台灣臺北市信義區西村里松壽路11號號地下二樓",
@@ -7628,7 +7628,7 @@
     {
       "name": "刁民-酸菜魚 信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 3582,
       "address": "110台灣臺北市信義區西村里松壽路12號1 樓",
@@ -7643,7 +7643,7 @@
     {
       "name": "四川吳抄手 信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 1767,
       "address": "110台灣臺北市信義區西村里松仁路58號4 樓",
@@ -7658,7 +7658,7 @@
     {
       "name": "豐 FOOD 海陸百匯",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 25991,
       "address": "10491台灣臺北市中山區成功里植福路8號1樓",
@@ -7673,7 +7673,7 @@
     {
       "name": "First One Bistro 佛斯特旺餐酒館（南西中山站義式餐廳）",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 3529,
       "address": "103台灣臺北市大同區建泰里南京西路18巷6弄5號",
@@ -7688,7 +7688,7 @@
     {
       "name": "紅磡 新飲茶 （林森店）中山區 / 外帶 / 外送 / 下午茶 / 宵夜 / 人氣餐廳 / 推薦餐廳 / 生日聚餐 / 家庭聚餐 / 朋友聚餐 / 約會餐廳",
       "description": "日式料理餐廳",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 8427,
       "address": "10491台灣臺北市中山區康樂里林森北路263號2F-1",
@@ -7703,7 +7703,7 @@
     {
       "name": "梅子台灣料理餐廳 林森老店",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 2092,
       "address": "10443台灣臺北市中山區正義里林森北路107巷1號",
@@ -7718,7 +7718,7 @@
     {
       "name": "齊亨燒臘 中山區烤鴨燒臘飯美食燒肉便當原張吳記",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.5,
       "reviews": 816,
       "address": "104台灣臺北市中山區江山里合江街77號",
@@ -7733,7 +7733,7 @@
     {
       "name": "漁匠甘霖",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 1918,
       "address": "103台灣臺北市大同區永樂里迪化街一段21號",
@@ -7748,7 +7748,7 @@
     {
       "name": "POTTI & POTTI CAFE",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 978,
       "address": "103台灣臺北市大同區國慶里民族西路225巷5號",
@@ -7763,7 +7763,7 @@
     {
       "name": "大烹小饌",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 1829,
       "address": "103台灣臺北市大同區光能里民生西路146-1號",
@@ -7778,7 +7778,7 @@
     {
       "name": "幹嘛日式餐酒館",
       "description": "日式料理餐廳",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 625,
       "address": "103台灣臺北市大同區永樂里民樂街18號",
@@ -7835,7 +7835,7 @@
     {
       "name": "路邊烤肉WildBBQ 台北中山店（台北中山區美食推薦／晴光市場商圈晚餐／中山區宵夜餐廳）",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 1046,
       "categories": [
@@ -7849,7 +7849,7 @@
     {
       "name": "白家通化 十全排骨 滷肉飯 大安區小吃 通化街小吃",
       "description": "招牌滷肉飯和排骨飯口味一流，超人氣小吃店。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 2297,
       "categories": [
@@ -7877,7 +7877,7 @@
     {
       "name": "水某小卷米粉",
       "description": "米粉搭配新鮮小卷，滋味絕佳，值得一試。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.4,
       "reviews": 956,
       "categories": [
@@ -7891,7 +7891,7 @@
     {
       "name": "P.Ming泰式廚坊",
       "description": "設有簡單用餐區的樸實餐廳，供應經典泰式料理。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.4,
       "reviews": 1445,
       "categories": [
@@ -7933,7 +7933,7 @@
     {
       "name": "ALL DAY ROASTING COMPANY 民生店",
       "description": "現代化的工業時尚風咖啡廳，供應美味咖啡飲品、甜點和鹹食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.4,
       "reviews": 2306,
       "categories": [
@@ -7947,7 +7947,7 @@
     {
       "name": "餵我早餐 The Whale 大安店 (不接受訂位)",
       "description": "供應美式早餐及早午餐的休閒用餐去處，品項包含漢堡、義大利麵和三明治。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1615,
       "categories": [
@@ -7975,7 +7975,7 @@
     {
       "name": "Meat Love橡木炭火韓國烤肉 信義店",
       "description": "氣氛熱鬧的休閒餐廳，以桌上型烤爐供應韓式燒烤。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 4226,
       "categories": [
@@ -8017,7 +8017,7 @@
     {
       "name": "廣州街無名牛肉湯 排骨湯",
       "description": "鮮美湯頭搭配嫩肉, 是夜市裡的經典美味。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.4,
       "reviews": 224,
       "categories": [
@@ -8031,7 +8031,7 @@
     {
       "name": "華西街台南擔仔麵海鮮餐廳",
       "description": "新鮮海鮮搭配經典擔仔麵, 味道絕佳的台灣美食。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.4,
       "reviews": 705,
       "categories": [
@@ -8059,7 +8059,7 @@
     {
       "name": "瑞哥雞肉飯信義店",
       "description": "人氣雞肉飯吸引眾多食客光臨。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 539,
       "categories": [
@@ -8073,7 +8073,7 @@
     {
       "name": "好腸 好嚐 香腸&大腸圈",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.4,
       "reviews": 242,
       "categories": [
@@ -8087,7 +8087,7 @@
     {
       "name": "南港老張胡椒餅",
       "description": "南港車站附近，現烤胡椒餅外酥內多汁，排隊名店",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.4,
       "reviews": 4815,
       "categories": [
@@ -8101,7 +8101,7 @@
     {
       "name": "查記麵館",
       "description": "信義區吳興街爆紅皮蛋麵，首創皮蛋加麻醬加抄手加紅油與彈牙麵條攪拌，銅板小吃創意十足",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 2182,
       "categories": [
@@ -8115,7 +8115,7 @@
     {
       "name": "擺渡冰室",
       "description": "清爽的甜品和冰品，讓您在炎熱的日子裡找到消暑良伴。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.4,
       "reviews": 925,
       "categories": [
@@ -8129,7 +8129,7 @@
     {
       "name": "白房子Yang Ｍing Caf’e",
       "description": "附設露台的樸實餐廳，供應異國佳餚、甜點和咖啡。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 5661,
       "categories": [
@@ -8143,7 +8143,7 @@
     {
       "name": "上享庭園餐廳",
       "description": "提供精緻中式菜餚，人氣餐廳，環境優雅舒適。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.4,
       "reviews": 1319,
       "categories": [
@@ -8157,7 +8157,7 @@
     {
       "name": "小庭院泰食",
       "description": "專注於中式菜餚，人氣餐廳，環境優美適合聚會用餐。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.4,
       "reviews": 405,
       "categories": [
@@ -8171,7 +8171,7 @@
     {
       "name": "饗趣31義式景觀餐廳",
       "description": "擁有迷人景觀的義式料理, 超人氣餐廳，適合各種聚會。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.4,
       "reviews": 3851,
       "categories": [
@@ -8185,7 +8185,7 @@
     {
       "name": "時時香 南港車站店",
       "description": "特色中式料理, 人氣店面，口味多樣，令人回味無窮。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.4,
       "reviews": 2134,
       "categories": [
@@ -8199,7 +8199,7 @@
     {
       "name": "金春喜韓廚-Citylink南港店",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.4,
       "reviews": 254,
       "categories": [
@@ -8213,7 +8213,7 @@
     {
       "name": "磚窯古早料理南港創始店",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.4,
       "reviews": 1539,
       "categories": [
@@ -8241,7 +8241,7 @@
     {
       "name": "忠誠牛肉麵",
       "description": "人氣牛肉麵專賣店，肉質鮮嫩，湯頭香醇，讓人停不下來。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 4359,
       "categories": [
@@ -8255,7 +8255,7 @@
     {
       "name": "隱鍋 台北林森北路店",
       "description": "工業風的時髦餐廳，供應多種湯底的火鍋，並搭配各種肉品、海鮮和蔬菜。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 4706,
       "categories": [
@@ -8367,7 +8367,7 @@
     {
       "name": "大同海產商行",
       "description": "新鮮海產料理為主打，擁有高評價，海鮮愛好者不容錯過。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 557,
       "categories": [
@@ -8437,7 +8437,7 @@
     {
       "name": "The Quiet Light 默光咖啡（松山店）",
       "description": "靜謐的環境與香醇咖啡，適合思考與放鬆。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.4,
       "reviews": 512,
       "categories": [
@@ -8507,7 +8507,7 @@
     {
       "name": "THE·春 Fusion 中山（最後收客時間 20:30）",
       "description": "只收現金的狹小餐廳，在溫馨的環境中供應傳統日式料理和飲品。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 2727,
       "categories": [
@@ -8563,7 +8563,7 @@
     {
       "name": "真芳碳烤吐司-信義創始店 台北早餐三明治",
       "description": "招牌碳烤吐司，人氣早餐三明治，搭配香濃咖啡。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 3062,
       "categories": [
@@ -8577,7 +8577,7 @@
     {
       "name": "M One Cafe 大安",
       "description": "氣氛閒適的餐廳，供應單片三明治、漢堡，以及份量十足的美式療癒料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 5093,
       "categories": [
@@ -8773,7 +8773,7 @@
     {
       "name": "德州鮮切牛排 松高店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 6618,
       "categories": [
@@ -8955,7 +8955,7 @@
     {
       "name": "玉米家",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 622,
       "categories": [
@@ -8969,7 +8969,7 @@
     {
       "name": "郭家炒牛肉",
       "description": "招牌牛肉炒至鮮嫩入味, 人氣小吃深受夜市食客喜愛。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.4,
       "reviews": 1413,
       "categories": [
@@ -8983,7 +8983,7 @@
     {
       "name": "北港甜湯",
       "description": "清涼甜品多樣化, 讓人回味無窮的夏日消暑良品。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.4,
       "reviews": 1282,
       "categories": [
@@ -8997,7 +8997,7 @@
     {
       "name": "兩喜號 Liang Xi Hao - 總店",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.4,
       "reviews": 1221,
       "categories": [
@@ -9011,7 +9011,7 @@
     {
       "name": "御品元冰火湯圓",
       "description": "樸實的餐館，專門販售不同餡料的湯圓。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 3872,
       "categories": [
@@ -9039,7 +9039,7 @@
     {
       "name": "楊婆婆八寶粥",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 239,
       "categories": [
@@ -9053,7 +9053,7 @@
     {
       "name": "燈籠滷味 創始總店",
       "description": "悠閒的餐廳，在氣氛融洽的簡約空間中供應現點現做的滷味。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 6165,
       "categories": [
@@ -9067,7 +9067,7 @@
     {
       "name": "水粵香",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 718,
       "categories": [
@@ -9081,7 +9081,7 @@
     {
       "name": "騎士碁ChessChicken 師大總店 預約外送請最少提前一日",
       "description": "招牌雞肉料理，口味鮮美的夜市選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 213,
       "categories": [
@@ -9096,7 +9096,7 @@
     {
       "name": "阿諾可麗餅",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1757,
       "categories": [
@@ -9110,7 +9110,7 @@
     {
       "name": "好呷拉麵 甜品吃到飽(公館) *呷：ㄒㄧㄚˊ",
       "description": "日式拉麵與甜品無限享受，令人滿足。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 1646,
       "categories": [
@@ -9194,7 +9194,7 @@
     {
       "name": "曾記",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.4,
       "reviews": 284,
       "categories": [
@@ -9209,7 +9209,7 @@
     {
       "name": "九十九樓滷味店｜連假有時會休可來電確認",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.4,
       "reviews": 156,
       "categories": [
@@ -9223,7 +9223,7 @@
     {
       "name": "北投高記茶莊總店",
       "description": "經營多年的老字號店家，供應特調與季節茶飲以及點心。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.4,
       "reviews": 4435,
       "categories": [
@@ -9237,7 +9237,7 @@
     {
       "name": "水蛙麵攤",
       "description": "小吃美味簡單，夜市必嘗的經典小吃。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 225,
       "categories": [
@@ -9251,7 +9251,7 @@
     {
       "name": "隱家拉麵 士林店",
       "description": "環境舒適的休閒餐廳，專賣拉麵，開放顧客觀賞廚房的設計趣味十足。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 3618,
       "categories": [
@@ -9265,7 +9265,7 @@
     {
       "name": "及品鍋貼水餃專賣店",
       "description": "樸實的小巧店鋪，專門供應手工餃類，並提供外帶服務。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 3928,
       "categories": [
@@ -9279,7 +9279,7 @@
     {
       "name": "一全和食",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 517,
       "categories": [
@@ -9293,7 +9293,7 @@
     {
       "name": "百八龍拉麵",
       "description": "超人氣日式拉麵，湯頭濃郁，麵條彈牙。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.4,
       "reviews": 1904,
       "categories": [
@@ -9307,7 +9307,7 @@
     {
       "name": "Yache 韓式蔬食 信義店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 381,
       "categories": [
@@ -9321,7 +9321,7 @@
     {
       "name": "京園素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 1013,
       "categories": [
@@ -9335,7 +9335,7 @@
     {
       "name": "來欣素食手工水餃",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 698,
       "categories": [
@@ -9349,7 +9349,7 @@
     {
       "name": "gubami Social",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 886,
       "address": "110台灣臺北市信義區西村里松壽路9號6樓",
@@ -9364,7 +9364,7 @@
     {
       "name": "30 BRUNCH",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 1891,
       "address": "110台灣臺北市信義區逸仙路26巷17號",
@@ -9379,7 +9379,7 @@
     {
       "name": "Second Floor 貳樓中山南西店",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 3479,
       "address": "104台灣臺北市中山區民安里中山北路二段16巷22號",
@@ -9394,7 +9394,7 @@
     {
       "name": "驢子餐廳 L'IDIOT GRILL&PASTA 春大直店",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 3083,
       "address": "104台灣臺北市中山區金泰里樂群三路303號3樓",
@@ -9409,7 +9409,7 @@
     {
       "name": "潮丼日式定食/平價美食餐廳",
       "description": "日式料理餐廳",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 1385,
       "address": "104台灣臺北市中山區集英里民生西路45巷7弄21號",
@@ -9424,7 +9424,7 @@
     {
       "name": "同安樂｜餐廳・茶館・展覽",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 1531,
       "address": "103台灣臺北市大同區大有里迪化街一段235號1號樓 二進",
@@ -9439,7 +9439,7 @@
     {
       "name": "漁陶屋 日式料理",
       "description": "日式料理餐廳",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 4070,
       "address": "103台灣臺北市大同區至聖里承德路三段206之1號",
@@ -9454,7 +9454,7 @@
     {
       "name": "鯉魚 The Carp",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 1430,
       "address": "10347台灣臺北市大同區大有里迪化街一段177號",
@@ -9469,7 +9469,7 @@
     {
       "name": "Les tables",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 932,
       "address": "103台灣臺北市大同區永樂里貴德街75-2號1樓",
@@ -9484,7 +9484,7 @@
     {
       "name": "香滿園",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 1724,
       "address": "103台灣臺北市大同區雙連里萬全街8巷",
@@ -9499,7 +9499,7 @@
     {
       "name": "69年老店麵攤（米粉湯）",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 765,
       "address": "103台灣臺北市大同區建明里華陰街101巷5號",
@@ -9514,7 +9514,7 @@
     {
       "name": "阿宏師涼麵 嘉義雞肉飯(西門康定店)",
       "description": "雞肉飯與涼麵的完美結合, 讓人欲罷不能。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 448,
       "categories": [
@@ -9542,7 +9542,7 @@
     {
       "name": "丰園小館",
       "description": "傳統中式台菜，人氣，帶來地道的家常美味。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 293,
       "categories": [
@@ -9668,7 +9668,7 @@
     {
       "name": "鍾原上海生煎包",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 1698,
       "categories": [
@@ -9696,7 +9696,7 @@
     {
       "name": "水龜伯古早味",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.3,
       "reviews": 8448,
       "categories": [
@@ -9766,7 +9766,7 @@
     {
       "name": "阿川蚵仔麵線",
       "description": "｜蚵仔新鮮，湯頭鮮美，讓每一口都充滿海味。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 1951,
       "categories": [
@@ -9780,7 +9780,7 @@
     {
       "name": "TARO ONIGIRI 太朗飯糰-華榮市場創始店",
       "description": "太朗飯糰，口味多樣化的飯糰，人氣的小吃選擇。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 1589,
       "categories": [
@@ -9794,7 +9794,7 @@
     {
       "name": "萬華百年肉圓",
       "description": "2026必比登新入選，酥脆外皮像炸荷包蛋，內餡十足新竹肉圓風",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 2591,
       "categories": [
@@ -9836,7 +9836,7 @@
     {
       "name": "Bremen不萊梅",
       "description": "小巧的工業風連鎖餐館，專門提供義大利麵。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 2653,
       "categories": [
@@ -9850,7 +9850,7 @@
     {
       "name": "吉祥小館",
       "description": "經典台菜佳餚，人氣，讓每位食客都能感受家的溫暖。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 848,
       "categories": [
@@ -9864,7 +9864,7 @@
     {
       "name": "胃太小私房菜",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 1477,
       "categories": [
@@ -9878,7 +9878,7 @@
     {
       "name": "Pastaio 內湖",
       "description": "氣氛悠閒的時尚餐廳，專門供應自製的義式義大利麵食。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.3,
       "reviews": 2051,
       "categories": [
@@ -9892,7 +9892,7 @@
     {
       "name": "飯BAR 內湖創始店",
       "description": "空間寬敞的當代風餐廳，供應中式融合料理。",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.3,
       "reviews": 3039,
       "categories": [
@@ -9906,7 +9906,7 @@
     {
       "name": "Second Floor 貳樓西湖店",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.3,
       "reviews": 6259,
       "categories": [
@@ -9920,7 +9920,7 @@
     {
       "name": "NEVERLAND Bakery Cafe",
       "description": "甜點與咖啡的完美搭配, 人氣咖啡喫茶店，適合悠閒時光。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 1522,
       "categories": [
@@ -9934,7 +9934,7 @@
     {
       "name": "Second Floor 貳樓南港車站店",
       "description": "受歡迎的中式菜肴, 超人氣聚餐場所，讓人倍感親切。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 6179,
       "categories": [
@@ -9948,7 +9948,7 @@
     {
       "name": "春月日式食堂",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 1198,
       "categories": [
@@ -9962,7 +9962,7 @@
     {
       "name": "辛隱",
       "description": "招牌中式佳餚, 餐點精緻，讓人驚喜的用餐體驗。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 584,
       "categories": [
@@ -9976,7 +9976,7 @@
     {
       "name": "粵亮廣式料理",
       "description": "特色廣東菜, 精緻美味，讓人忍不住再訪。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 2405,
       "categories": [
@@ -9990,7 +9990,7 @@
     {
       "name": "Mövenpick Café -莫凡彼南港車站店",
       "description": "精緻咖啡與甜品, 人氣悠閒餐廳，適合聚會與放鬆。",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.3,
       "reviews": 1233,
       "categories": [
@@ -10004,7 +10004,7 @@
     {
       "name": "四海一家（每個禮拜一店休，如遇假日順延一天）",
       "description": "1970 年開業至今的家庭餐廳，供應傳統北京料理。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 4292,
       "categories": [
@@ -10018,7 +10018,7 @@
     {
       "name": "小北平麵食館",
       "description": "內裝繽紛的典雅餐廳，供應傳統中式美食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 978,
       "categories": [
@@ -10032,7 +10032,7 @@
     {
       "name": "時時",
       "description": "經典台菜呈現，每道料理都充滿用心，人氣選擇，讓食客流連忘返。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 1003,
       "categories": [
@@ -10046,7 +10046,7 @@
     {
       "name": "一茶一瓦 OTOT｜一號糧倉店",
       "description": "氛圍輕鬆的餐廳，供應湯品和麵食等療癒美食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 3208,
       "categories": [
@@ -10298,7 +10298,7 @@
     {
       "name": "熊一頂級燒肉-西門店",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 15240,
       "categories": [
@@ -10410,7 +10410,7 @@
     {
       "name": "長林記大餅包小餅",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 154,
       "categories": [
@@ -10424,7 +10424,7 @@
     {
       "name": "蔥海手工蔥油餅",
       "description": "香脆可口的手工蔥油餅，讓人一口接一口。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 514,
       "categories": [
@@ -10438,7 +10438,7 @@
     {
       "name": "御品元冰火湯圓-台北饒河店",
       "description": "特色冰火湯圓，口感綿密，甜而不膩，受到廣大喜愛。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 1497,
       "categories": [
@@ -10452,7 +10452,7 @@
     {
       "name": "阿根脆皮臭豆腐",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 166,
       "categories": [
@@ -10466,7 +10466,7 @@
     {
       "name": "阿布拉小吃店 偶有臨時店休請查閱臉書粉專公告",
       "description": "隨時可能臨時休店，提供多樣小吃，值得隨時關注的美食點。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 237,
       "categories": [
@@ -10480,7 +10480,7 @@
     {
       "name": "撒旦牛滷味",
       "description": "特色滷味選擇多樣，夜市小吃的美味代表，讓人回味無窮。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 217,
       "categories": [
@@ -10495,7 +10495,7 @@
     {
       "name": "穗 廣式腸粉",
       "description": "廣式腸粉口感滑順，是喜愛粵菜的食客必試的美食。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 162,
       "categories": [
@@ -10509,7 +10509,7 @@
     {
       "name": "艋舺雞排 饒河店",
       "description": "外酥內嫩的雞排，超人氣小吃，讓人一試成主顧。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.3,
       "reviews": 1494,
       "categories": [
@@ -10523,7 +10523,7 @@
     {
       "name": "蒸好吃佛跳牆",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 672,
       "categories": [
@@ -10537,7 +10537,7 @@
     {
       "name": "沛對原汁排骨湯",
       "description": "鮮美排骨湯底濃郁, 是夜市饕餮的必選之品。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 298,
       "categories": [
@@ -10551,7 +10551,7 @@
     {
       "name": "當歸鄉當歸豬腳",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.3,
       "reviews": 312,
       "categories": [
@@ -10565,7 +10565,7 @@
     {
       "name": "銀泰小館",
       "description": "樸實的臨櫃點餐式餐廳，供應熱炒和麵食料理。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1008,
       "categories": [
@@ -10579,7 +10579,7 @@
     {
       "name": "再來蔬菜蛋餅",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 149,
       "categories": [
@@ -10593,7 +10593,7 @@
     {
       "name": "洋芋屋",
       "description": "招牌洋芋小吃，口感酥脆，深受食客喜愛。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 895,
       "categories": [
@@ -10607,7 +10607,7 @@
     {
       "name": "真劍拉麵",
       "description": "氣氛閒適的狹長餐廳，供應傳統拉麵，並提供有限的吧台座位區。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 2712,
       "categories": [
@@ -10621,7 +10621,7 @@
     {
       "name": "賢夫美食",
       "description": "餐點口味多樣，深受食客喜愛的熱點。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 961,
       "categories": [
@@ -10635,7 +10635,7 @@
     {
       "name": "狗一下居酒食堂-公館店",
       "description": "超人氣日式居酒屋，提供豐富的日式料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 4615,
       "categories": [
@@ -10649,7 +10649,7 @@
     {
       "name": "公館水岸廣場",
       "description": "這條河濱大道是散步及騎乘自行車的熱門景點，沿路設有酒吧和露天咖啡座，入夜後燈火通明。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 2527,
       "categories": [
@@ -10677,7 +10677,7 @@
     {
       "name": "威宇牛排 - 公館店",
       "description": "精緻牛排料理，超人氣聚餐好去處，讓人想再來。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 3739,
       "categories": [
@@ -10691,7 +10691,7 @@
     {
       "name": "美食屋早餐店-士林人氣必吃早餐 推薦熱門銅板美食 好吃早午餐店 便宜好吃 好評 早餐首選",
       "description": "早餐選擇豐富，便宜好吃的士林人氣早餐店。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 292,
       "categories": [
@@ -10705,7 +10705,7 @@
     {
       "name": "越鄉越南美食館",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 2615,
       "categories": [
@@ -10719,7 +10719,7 @@
     {
       "name": "包子商行 BAO SO HARD士林店",
       "description": "招牌包子鮮美多汁，人氣的夜市小吃。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 588,
       "categories": [
@@ -10734,7 +10734,7 @@
     {
       "name": "金馥記脆皮烤鴨 士林店",
       "description": "人聲鼎沸的外帶小餐館，專門供應淋上醬汁的炭烤鴨肉。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 2309,
       "categories": [
@@ -10748,7 +10748,7 @@
     {
       "name": "劉家棧香港煲仔飯專賣店（台灣水草俱樂部餐館）",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 1322,
       "categories": [
@@ -10762,7 +10762,7 @@
     {
       "name": "養心茶樓 蔬食飲茶 信義店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 394,
       "categories": [
@@ -10776,7 +10776,7 @@
     {
       "name": "蓮池蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 548,
       "categories": [
@@ -10790,7 +10790,7 @@
     {
       "name": "蛋奶樹蔬食專賣",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 975,
       "categories": [
@@ -10804,7 +10804,7 @@
     {
       "name": "致德蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 329,
       "categories": [
@@ -10818,7 +10818,7 @@
     {
       "name": "小麟素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 351,
       "categories": [
@@ -10832,7 +10832,7 @@
     {
       "name": "養心茶樓 蔬食飲茶 松江店",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 8611,
       "categories": [
@@ -10846,7 +10846,7 @@
     {
       "name": "Miacucina信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 4696,
       "address": "110台灣臺北市信義區西村里松壽路11號2 樓",
@@ -10861,7 +10861,7 @@
     {
       "name": "筷炒KUAICHAO",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 1163,
       "address": "11073台灣臺北市信義區松仁路58號14樓",
@@ -10876,7 +10876,7 @@
     {
       "name": "吉比鮮釀餐廳 台北信義店 GBA Brewery Restaurant - Taipei Hsinyi Store",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 3790,
       "address": "110台灣臺北市信義區西村里松壽路11號2樓",
@@ -10891,7 +10891,7 @@
     {
       "name": "心潮飯店｜台北微風信義店 SINCHAO RICE SHOPPE",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 3324,
       "address": "110台灣臺北市信義區興雅里忠孝東路五段68號2樓",
@@ -10906,7 +10906,7 @@
     {
       "name": "The Chips 信義店",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 2905,
       "address": "110台灣臺北市信義區西村里松壽路12號5 樓",
@@ -10921,7 +10921,7 @@
     {
       "name": "大師兄銷魂麵舖-信義店(新光三越A11，B2)",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 2667,
       "address": "110台灣臺北市信義區西村里松壽路11號",
@@ -10936,7 +10936,7 @@
     {
       "name": "台灣鹽酥雞 大直創始總店 - Taiwanese Popcorn Fried Chicken King (Dazhi Restaurant )",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 5736,
       "address": "104台灣臺北市中山區北安路530號",
@@ -10951,7 +10951,7 @@
     {
       "name": "胡饕米粉湯（台北興安店）台北美食 台北小吃 台北米粉湯 中山區美食 中山區小吃 南京復興美食 台北宵夜",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 796,
       "address": "104台灣臺北市中山區朱馥里興安街78之12號1樓",
@@ -10966,7 +10966,7 @@
     {
       "name": "稻舍食館 迪化店",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 1858,
       "address": "103台灣臺北市大同區南芳里迪化街一段329號",
@@ -10981,7 +10981,7 @@
     {
       "name": "牧山丘",
       "description": "",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 2858,
       "address": "103台灣臺北市大同區大有里迪化街一段173號",
@@ -10996,7 +10996,7 @@
     {
       "name": "老麵店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 4343,
       "address": "103台灣臺北市大同區鄰江里迪化街二段215-8號",
@@ -11011,7 +11011,7 @@
     {
       "name": "大橋頭米糕",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 5343,
       "address": "103台灣臺北市大同區隆和里延平北路三段41號",
@@ -11040,7 +11040,7 @@
     {
       "name": "阿宏師/阿鳳師 涼麵嘉義雞肉飯 信義福德店",
       "description": "特色涼麵與雞肉飯的絕佳搭配, 口感豐富。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 420,
       "categories": [
@@ -11096,7 +11096,7 @@
     {
       "name": "老北投 芝山店",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.2,
       "reviews": 899,
       "categories": [
@@ -11110,7 +11110,7 @@
     {
       "name": "老凃食堂 Tu's Meal House",
       "description": "傳統中式台菜，家庭式用餐氛圍，受到好評。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.2,
       "reviews": 697,
       "categories": [
@@ -11124,7 +11124,7 @@
     {
       "name": "PURE CUISINE",
       "description": "創新的健康飲食理念，搭配精緻台菜，讓每一口都充滿驚喜。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 562,
       "categories": [
@@ -11264,7 +11264,7 @@
     {
       "name": "雞肉本家 本田店（雞肉飯專賣店/健康餐）",
       "description": "專注健康雞肉飯，口味清新，適合注重飲食的人。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 271,
       "categories": [
@@ -11278,7 +11278,7 @@
     {
       "name": "武田雞肉 (雞肉飯專賣店/健康餐)",
       "description": "健康餐的雞肉飯選擇，讓人享受美味又不負擔。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 401,
       "categories": [
@@ -11320,7 +11320,7 @@
     {
       "name": "加賀魷魚大王",
       "description": "鮮美魷魚料理，夜市中的美味必吃選擇。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 687,
       "categories": [
@@ -11335,7 +11335,7 @@
     {
       "name": "饒河街東山鴨頭",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 299,
       "categories": [
@@ -11349,7 +11349,7 @@
     {
       "name": "大溪家香臭豆腐＆涼麵",
       "description": "香氣四溢的臭豆腐與清爽涼麵，絕對讓你愛不釋口。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 453,
       "categories": [
@@ -11363,7 +11363,7 @@
     {
       "name": "素食茄汁牛肉麵",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 559,
       "categories": [
@@ -11419,7 +11419,7 @@
     {
       "name": "西門麵店",
       "description": "萬華內江街60年老麵店，24小時營業，銷魂豬腳飯和蛋包魯肉飯是招牌，觀光客必朝聖",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 11000,
       "categories": [
@@ -11433,7 +11433,7 @@
     {
       "name": "敘緣小館",
       "description": "傳統中式料理，讓您回味無窮，品味家鄉的熟悉滋味。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.2,
       "reviews": 616,
       "categories": [
@@ -11447,7 +11447,7 @@
     {
       "name": "少帥禪園-台北北投張學良幽禁舊居",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 2184,
       "categories": [
@@ -11461,7 +11461,7 @@
     {
       "name": "大戶屋新北投店",
       "description": "氣氛溫馨的簡樸餐廳，供應傳統日式麵食、丼飯和燒烤。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 1461,
       "categories": [
@@ -11475,7 +11475,7 @@
     {
       "name": "松果院子(午晚餐最後點餐時間：15:50/19:50)",
       "description": "氛圍輕鬆的餐廳，供應手工麵食、烘焙點心、飯食和小點。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 2312,
       "categories": [
@@ -11489,7 +11489,7 @@
     {
       "name": "敘。暖暖｜warm place（台北松山區必吃特色午晚餐 / 松山泰式料理餐廳 / 台北義大利麵推薦）",
       "description": "招牌特色泰式料理與義大利麵，讓你在松山區享受美味。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 856,
       "categories": [
@@ -11699,7 +11699,7 @@
     {
       "name": "頂級甜不辣-台北美食 台北小吃 萬華美食 台北甜不辣 台北宵夜 龍山寺美食 附近餐廳 台北美食推薦",
       "description": "",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 2020,
       "categories": [
@@ -11825,7 +11825,7 @@
     {
       "name": "咖央早午餐｜東區大露台包場空間｜聚會拍攝場地｜東區咖啡廳 寵物友善 花店花束",
       "description": "寵物友善的早午餐咖啡廳，適合聚會拍攝，環境優雅。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 813,
       "categories": [
@@ -11923,7 +11923,7 @@
     {
       "name": "好想吃冰 日式蔬食 中山赤峰店",
       "description": "超人氣店家，結合日式風格與冰品的創新選擇。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 4021,
       "categories": [
@@ -11937,7 +11937,7 @@
     {
       "name": "六堆伙房 中山南西店",
       "description": "超人氣客家菜館，以豐富多樣的菜品吸引眾多食客光臨。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 4857,
       "categories": [
@@ -12021,7 +12021,7 @@
     {
       "name": "五豬牛排",
       "description": "人氣台式牛排，肉質鮮嫩，搭配醬汁，讓人一試成主顧。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.2,
       "reviews": 1412,
       "categories": [
@@ -12035,7 +12035,7 @@
     {
       "name": "牛魔王牛排館",
       "description": "超人氣牛排館，以多樣化的牛排選擇聞名。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.2,
       "reviews": 2876,
       "categories": [
@@ -12049,7 +12049,7 @@
     {
       "name": "豆花莊",
       "description": "人氣咖啡廳，提供優質咖啡與輕食",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 6526,
       "categories": [
@@ -12063,7 +12063,7 @@
     {
       "name": "陳記腸蚵專業麵線",
       "description": "平實的麵店，專門供應傳統美食、鮮蚵湯和大腸料理。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 4817,
       "categories": [
@@ -12077,7 +12077,7 @@
     {
       "name": "阿義魯肉飯",
       "description": "招牌魯肉飯，醬汁香濃，超人氣美食。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 5385,
       "categories": [
@@ -12091,7 +12091,7 @@
     {
       "name": "華西街珍果",
       "description": "新鮮水果製成的甜品, 讓人吃得健康又滿足。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 830,
       "categories": [
@@ -12105,7 +12105,7 @@
     {
       "name": "阿伯蛋包麵",
       "description": "平實的麵館，供應蛋包麵、湯品和其他常見的療癒美食。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 3467,
       "categories": [
@@ -12119,7 +12119,7 @@
     {
       "name": "魏記水餃",
       "description": "麵食的經典之選，現包水餃讓人回味無窮。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 206,
       "categories": [
@@ -12133,7 +12133,7 @@
     {
       "name": "難吃 2019",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 738,
       "categories": [
@@ -12147,7 +12147,7 @@
     {
       "name": "師園鹽酥雞 本店",
       "description": "外酥內嫩的鹽酥雞，超人氣夜市小吃之選。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 3831,
       "categories": [
@@ -12161,7 +12161,7 @@
     {
       "name": "Second Floor 貳樓師大店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 4116,
       "categories": [
@@ -12176,7 +12176,7 @@
     {
       "name": "隱家拉麵 公館店",
       "description": "人氣日式拉麵，湯頭濃郁，麵條彈牙。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 2025,
       "categories": [
@@ -12232,7 +12232,7 @@
     {
       "name": "丰清揚小吃店",
       "description": "人氣小吃，招牌菜品多樣，滿足不同口味需求。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 1400,
       "categories": [
@@ -12246,7 +12246,7 @@
     {
       "name": "阿婆甜不辣",
       "description": "",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.2,
       "reviews": 319,
       "categories": [
@@ -12260,7 +12260,7 @@
     {
       "name": "日向洋食",
       "description": "招牌小吃多樣化，超人氣的夜市美食天堂。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.2,
       "reviews": 4902,
       "categories": [
@@ -12274,7 +12274,7 @@
     {
       "name": "十味蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 304,
       "categories": [
@@ -12302,7 +12302,7 @@
     {
       "name": "輪輪1976 和食茶酒駅",
       "description": "日式料理餐廳",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 1461,
       "address": "110405台灣臺北市信義區西村里松壽路11號3樓",
@@ -12317,7 +12317,7 @@
     {
       "name": "欣葉台菜 信義新天地A9店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 2366,
       "address": "110台灣臺北市信義區西村里松壽路9號8樓",
@@ -12332,7 +12332,7 @@
     {
       "name": "INPARADISE 饗饗 微風信義店",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 12220,
       "address": "110台灣台北市信义区兴雅里忠孝東路五段68號46樓微風信義",
@@ -12347,7 +12347,7 @@
     {
       "name": "樂天皇朝 信義店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 2816,
       "address": "110台灣臺北市信義區興雅里忠孝東路五段68號, 微風信義商場, 4樓",
@@ -12362,7 +12362,7 @@
     {
       "name": "新光三越A8館美食街",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 617,
       "address": "110台灣臺北市信義區西村里松高路12號B2",
@@ -12377,7 +12377,7 @@
     {
       "name": "欣葉台菜創始店",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 6397,
       "address": "10491台灣臺北市中山區晴光里雙城街34之1號",
@@ -12392,7 +12392,7 @@
     {
       "name": "米匠Mi Jian 中山店",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 994,
       "address": "104台灣臺北市中山區康樂里中山北路一段140巷3號",
@@ -12407,7 +12407,7 @@
     {
       "name": "蜀留香正宗重慶手工酸辣粉",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 1373,
       "address": "10491台灣臺北市中山區新生里民權東路二段92巷6之2號",
@@ -12422,7 +12422,7 @@
     {
       "name": "春大直",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.2,
       "reviews": 1135,
       "address": "10491台灣臺北市中山區金泰里樂群三路303號",
@@ -12437,7 +12437,7 @@
     {
       "name": "梅滿美食",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 1180,
       "address": "103台灣臺北市大同區保安里哈密街83號",
@@ -12452,7 +12452,7 @@
     {
       "name": "老程麵店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 1267,
       "address": "103台灣臺北市大同區國順里延平北路三段152號",
@@ -12467,7 +12467,7 @@
     {
       "name": "雲祥麵食",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 798,
       "address": "103台灣臺北市大同區斯文里大龍街85巷2號",
@@ -12482,7 +12482,7 @@
     {
       "name": "大稻埕米粉湯",
       "description": "中式餐廳，在地美味",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.2,
       "reviews": 962,
       "address": "103台灣臺北市大同區建功里重慶北路一段26巷15號",
@@ -12623,7 +12623,7 @@
     {
       "name": "東引小吃店（推薦深夜美食 台北宵夜 牛肉麵 捷運南京三民站",
       "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.1,
       "reviews": 6502,
       "categories": [
@@ -12637,7 +12637,7 @@
     {
       "name": "大頭龍蚵仔煎",
       "description": "受歡迎的蚵仔煎，外脆內嫩，海味十足，令人垂涎欲滴。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.1,
       "reviews": 161,
       "categories": [
@@ -12651,7 +12651,7 @@
     {
       "name": "台北士林廣澤擔仔麵｜芝山捷運站美食｜士林排隊美食｜天母推薦人氣必吃餐廳",
       "description": "口味地道擔仔麵，排隊美食，人氣必吃，讓人回味。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.1,
       "reviews": 1918,
       "categories": [
@@ -12735,7 +12735,7 @@
     {
       "name": "傑克兄弟牛排 臺北信義店｜JACK BROTHERS STEAKHOUSE Taipei Xinyi",
       "description": "播放老歌的休閒市景餐廳，供應美式牛排。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 2634,
       "categories": [
@@ -12791,7 +12791,7 @@
     {
       "name": "EatFat Pasta",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 151,
       "categories": [
@@ -12805,7 +12805,7 @@
     {
       "name": "公館清蒸肉圓",
       "description": "清蒸肉圓皮薄餡嫩，傳統小吃受歡迎。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 239,
       "categories": [
@@ -12819,7 +12819,7 @@
     {
       "name": "北投林家涼麵",
       "description": "北投自強街人氣涼麵，雙寶涼麵一次吃到酢醬與榨菜肉絲，自製酸辣醋加下去味道超有層次",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.1,
       "reviews": 456,
       "categories": [
@@ -12847,7 +12847,7 @@
     {
       "name": "雞肉本家 鑫光店 (雞肉飯專賣店/健康餐)",
       "description": "口味多樣的雞肉飯，適合各種食客的需求。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.1,
       "reviews": 371,
       "categories": [
@@ -12875,7 +12875,7 @@
     {
       "name": "林記南機場臭豆腐",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 386,
       "categories": [
@@ -12889,7 +12889,7 @@
     {
       "name": "通化肉圓",
       "description": "超人氣肉圓，外皮Q彈，內餡豐富，讓人一試成主顧。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 1746,
       "categories": [
@@ -12903,7 +12903,7 @@
     {
       "name": "滷三塊五花肉飯",
       "description": "超人氣美食，五花肉滷得入味，飯量十足。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.1,
       "reviews": 4616,
       "categories": [
@@ -12917,7 +12917,7 @@
     {
       "name": "西門町阿宗麵線",
       "description": "排隊名店，柴魚高湯配大腸麵線，站著吃也甘願",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.1,
       "reviews": 18223,
       "categories": [
@@ -12931,7 +12931,7 @@
     {
       "name": "燕樓小館",
       "description": "地道中式菜色，讓您感受到家庭般的溫馨和美味。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.1,
       "reviews": 699,
       "categories": [
@@ -12945,7 +12945,7 @@
     {
       "name": "LI RA義大利廚房",
       "description": "鄉村風格的義式餐廳，供應義大利麵、燉飯、燒烤料理和自製甜點。",
-      "area": "文山區",
+      "area": "文山",
       "rating": 4.1,
       "reviews": 2283,
       "categories": [
@@ -12959,7 +12959,7 @@
     {
       "name": "故宮晶華",
       "description": "精緻台菜料理，超人氣，融合文化與美食的典範。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.1,
       "reviews": 5492,
       "categories": [
@@ -12973,7 +12973,7 @@
     {
       "name": "樂子 南港店",
       "description": "",
-      "area": "南港區",
+      "area": "南港",
       "rating": 4.1,
       "reviews": 2872,
       "categories": [
@@ -12987,7 +12987,7 @@
     {
       "name": "海真私房菜民生店",
       "description": "招牌私房菜豐富多樣，人氣餐廳，讓人回味無窮。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.1,
       "reviews": 2236,
       "categories": [
@@ -13057,7 +13057,7 @@
     {
       "name": "鑫鱻熱炒吉林總店",
       "description": "供應多樣海鮮料理和傳統炒菜的熱炒店。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.1,
       "reviews": 2256,
       "categories": [
@@ -13225,7 +13225,7 @@
     {
       "name": "BRUN不然-信義店(捷運大安站)",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 1160,
       "categories": [
@@ -13239,7 +13239,7 @@
     {
       "name": "LEAVES Cafe 午葉內湖旗艦店",
       "description": "",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.1,
       "reviews": 973,
       "categories": [
@@ -13351,7 +13351,7 @@
     {
       "name": "滿佳香",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.1,
       "reviews": 1200,
       "categories": [
@@ -13365,7 +13365,7 @@
     {
       "name": "松山市場水餃",
       "description": "水餃皮薄餡多，湯汁鮮美，讓人忍不住一口接一口。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.1,
       "reviews": 656,
       "categories": [
@@ -13379,7 +13379,7 @@
     {
       "name": "冰霖古早味豆花",
       "description": "這間老字號的商店專門販售豆花和刨冰等傳統台式甜點。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.1,
       "reviews": 3711,
       "categories": [
@@ -13393,7 +13393,7 @@
     {
       "name": "天天利美食坊",
       "description": "｜超人氣小吃店，提供多樣美食，讓人一次滿足所有 cravings。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.1,
       "reviews": 8384,
       "categories": [
@@ -13407,7 +13407,7 @@
     {
       "name": "龍泉深海鮮魚湯",
       "description": "鮮美魚湯，滋味濃郁，人氣海鮮選擇。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 2435,
       "categories": [
@@ -13421,7 +13421,7 @@
     {
       "name": "安徽妹子烙餅店_師大店 師大美食",
       "description": "地道的安徽烙餅，吸引眾多食客光臨。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 373,
       "categories": [
@@ -13449,7 +13449,7 @@
     {
       "name": "晴光紅豆餅",
       "description": "外酥內軟的紅豆餅，口感絕佳的夜市美食。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 879,
       "categories": [
@@ -13491,7 +13491,7 @@
     {
       "name": "上全肉羹",
       "description": "招牌肉羹湯頭鮮美，人氣餐廳，讓人一再回味。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.1,
       "reviews": 1594,
       "categories": [
@@ -13505,7 +13505,7 @@
     {
       "name": "洪記涼麵/湯麵/粥品/烏龍麵（北投_石牌創始店）",
       "description": "清爽涼麵，搭配多樣配料，口感豐富。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.1,
       "reviews": 346,
       "categories": [
@@ -13519,7 +13519,7 @@
     {
       "name": "蕭記大餛飩",
       "description": "餛飩麵食，餛飩皮薄餡多，湯頭清爽可口。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.1,
       "reviews": 2492,
       "categories": [
@@ -13533,7 +13533,7 @@
     {
       "name": "越南祥記美食",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.1,
       "reviews": 1261,
       "categories": [
@@ -13547,7 +13547,7 @@
     {
       "name": "蔡老師蔬食 Vegan Deli｜站前地下街店｜素食便當",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.1,
       "reviews": 16,
       "categories": [
@@ -13561,7 +13561,7 @@
     {
       "name": "胡饕米粉湯 台北市府店",
       "description": "中式餐廳，在地美味",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 2006,
       "address": "110台灣臺北市信義區興雅里永吉路30巷158弄3號",
@@ -13576,7 +13576,7 @@
     {
       "name": "韓姜熙의小廚房 信義A11店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 1116,
       "address": "110405台灣臺北市信義區西村里松壽路11號B2",
@@ -13591,7 +13591,7 @@
     {
       "name": "PappaRich金爸爸-新光信義A9店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.1,
       "reviews": 2303,
       "address": "110台灣台北市信义区西村里松寿路9號7樓",
@@ -13606,7 +13606,7 @@
     {
       "name": "Garden Kitchen",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.1,
       "reviews": 1463,
       "address": "10491台灣臺北市中山區金泰里樂群二路199號",
@@ -13621,7 +13621,7 @@
     {
       "name": "D.G. Café",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.1,
       "reviews": 816,
       "address": "103台灣臺北市大同區南芳里迪化街一段334號",
@@ -13636,7 +13636,7 @@
     {
       "name": "Lisa泰式美食",
       "description": "",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.1,
       "reviews": 1744,
       "address": "103台灣臺北市大同區雙連里承德路二段215號",
@@ -13665,7 +13665,7 @@
     {
       "name": "鼎吾記（原玖伍）牛肉麵 (台北中正區必吃牛肉麵推薦／光華商場三創美食薦 / 台北人好吃滷味水餃)",
       "description": "牛肉麵，人氣牛肉麵，兼具滷味與水餃，口感多樣。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 3060,
       "categories": [
@@ -13679,7 +13679,7 @@
     {
       "name": "西門車輪餅｜台北西門町必吃點心銅板美食下午茶甜點紅豆餅推薦在地小吃",
       "description": "銅板美食，紅豆餅香酥可口，下午茶必選。",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4,
       "reviews": 755,
       "categories": [
@@ -13707,7 +13707,7 @@
     {
       "name": "大上海生煎包",
       "description": "人氣生煎包，外酥內嫩，香氣四溢，讓人一口接一口。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4,
       "reviews": 720,
       "categories": [
@@ -13721,7 +13721,7 @@
     {
       "name": "山東赤肉蒸餃",
       "description": "｜招牌蒸餃口感鮮嫩，肉餡豐富，令人垂涎欲滴。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4,
       "reviews": 352,
       "categories": [
@@ -13735,7 +13735,7 @@
     {
       "name": "穆記牛肉麵",
       "description": "信義區吳興街米其林必比登推薦，1979年開業近50年，紅燒牛肉麵湯濃醇厚斤餅肉絲超推薦",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 3672,
       "categories": [
@@ -13749,7 +13749,7 @@
     {
       "name": "嘉義第一名火雞肉飯-南昌店",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 978,
       "categories": [
@@ -13791,7 +13791,7 @@
     {
       "name": "雞肉本家 光華店 (雞肉飯專賣店/健康餐)",
       "description": "",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4,
       "reviews": 430,
       "categories": [
@@ -13805,7 +13805,7 @@
     {
       "name": "路邊烤肉WildBBQ 台北東區店（台北大安區必吃美食／台北東區宵夜烤肉推薦／台北家庭聚餐餐廳）",
       "description": "簡約風格的中式燒肉，適合家庭聚餐或宵夜享用。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4,
       "reviews": 797,
       "categories": [
@@ -13819,7 +13819,7 @@
     {
       "name": "寧夏014成記魷魚羹炒米粉",
       "description": "｜魷魚羹和炒米粉的完美搭配，口感豐富。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4,
       "reviews": 168,
       "categories": [
@@ -13833,7 +13833,7 @@
     {
       "name": "朱記餡餅粥永康店",
       "description": "永康街知名北方麵食，厚實炸排骨與爆汁牛肉餡餅必點",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4,
       "reviews": 2376,
       "categories": [
@@ -13847,7 +13847,7 @@
     {
       "name": "台灣媳婦切仔麵",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 550,
       "categories": [
@@ -13875,7 +13875,7 @@
     {
       "name": "歐品鄉廚",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4,
       "reviews": 1736,
       "categories": [
@@ -14169,7 +14169,7 @@
     {
       "name": "辛發亭冰品名店",
       "description": "超人氣冰品，清涼消暑，口味多樣，甜而不膩。",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4,
       "reviews": 2369,
       "categories": [
@@ -14183,7 +14183,7 @@
     {
       "name": "雷雨食堂",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4,
       "reviews": 415,
       "categories": [
@@ -14197,7 +14197,7 @@
     {
       "name": "阿花蚵仔煎",
       "description": "招牌蚵仔煎外脆內嫩，搭配特製醬汁，讓人一試成主顧。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4,
       "reviews": 142,
       "categories": [
@@ -14211,7 +14211,7 @@
     {
       "name": "銘鄉豬高飯",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 463,
       "categories": [
@@ -14225,7 +14225,7 @@
     {
       "name": "小妹弄堂 - 師大店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4,
       "reviews": 132,
       "categories": [
@@ -14240,7 +14240,7 @@
     {
       "name": "小飯館兒",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 3223,
       "categories": [
@@ -14254,7 +14254,7 @@
     {
       "name": "得記麻辣脆皮臭豆腐",
       "description": "",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 2005,
       "categories": [
@@ -14310,7 +14310,7 @@
     {
       "name": "老北投 北投捷運店",
       "description": "經典小吃，提供多樣美味，深受食客喜愛。",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4,
       "reviews": 560,
       "categories": [
@@ -14324,7 +14324,7 @@
     {
       "name": "蔬食樂",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 182,
       "categories": [
@@ -14338,7 +14338,7 @@
     {
       "name": "段純貞-信義威秀店",
       "description": "",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 2370,
       "address": "110台灣臺北市信義區西村里松壽路20號2樓",
@@ -14353,7 +14353,7 @@
     {
       "name": "兄妹美食館",
       "description": "中式餐廳，在地美味",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 1226,
       "address": "10491台灣臺北市中山區江寧里錦州街325號",
@@ -14368,7 +14368,7 @@
     {
       "name": "廣誠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 3.8,
       "reviews": 483,
       "categories": [
@@ -14382,7 +14382,7 @@
     {
       "name": "永康牛肉麵",
       "description": "永康街老字號川味紅燒牛肉麵，歷久不衰的經典台北味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 3.7,
       "reviews": 11880,
       "categories": [
@@ -14397,7 +14397,7 @@
     {
       "name": "牛店精燉牛肉麵",
       "description": "精緻牛肉麵，湯頭絕妙，讓人一試成主顧。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 3996,
       "categories": [
@@ -14412,7 +14412,7 @@
     {
       "name": "廖家牛肉麵",
       "description": "口感滑嫩的牛肉麵，人氣選擇，吸引眾多食客光臨。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 2909,
       "categories": [
@@ -14427,7 +14427,7 @@
     {
       "name": "劉芋仔",
       "description": "｜招牌芋頭小吃，口感綿密，超人氣。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 3.5,
       "reviews": 3103,
       "categories": [
@@ -14442,7 +14442,7 @@
     {
       "name": "美麗餐廳",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.1,
       "reviews": 591,
       "categories": [
@@ -14457,7 +14457,7 @@
     {
       "name": "My 灶",
       "description": "專注於家常中式台菜，讓人懷念的熟悉味道。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 3.9,
       "reviews": 2118,
       "categories": [
@@ -14472,7 +14472,7 @@
     {
       "name": "我家小廚房",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.9,
       "reviews": 49,
       "categories": [
@@ -14487,7 +14487,7 @@
     {
       "name": "點水樓",
       "description": "專注於各式麵食，口感滑順，人氣十足。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4,
       "reviews": 3112,
       "categories": [
@@ -14502,7 +14502,7 @@
     {
       "name": "宋廚菜館",
       "description": "提供地道中式台菜，口味正宗，值得一試。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4,
       "reviews": 1703,
       "categories": [
@@ -14517,7 +14517,7 @@
     {
       "name": "北平陶然亭",
       "description": "專注於傳統麵食，口味豐富，超人氣。",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.2,
       "reviews": 4561,
       "categories": [
@@ -14532,7 +14532,7 @@
     {
       "name": "濱松屋",
       "description": "招牌日式料理，鮮美刺身與定食深受食客喜愛。",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4,
       "reviews": 912,
       "categories": [
@@ -14547,7 +14547,7 @@
     {
       "name": "想想廚房",
       "description": "",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 725,
       "categories": [
@@ -14562,7 +14562,7 @@
     {
       "name": "一號糧倉",
       "description": "精選台菜經典，傳承家鄉味，讓人懷念的美好滋味。",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 3210,
       "categories": [
@@ -14577,7 +14577,7 @@
     {
       "name": "建宏牛肉麵",
       "description": "西門町平價牛肉麵，24小時",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 3.7,
       "reviews": 9139,
       "categories": [
@@ -14592,7 +14592,7 @@
     {
       "name": "豬肝榮仔",
       "description": "｜專賣豬肝小吃，鮮嫩多汁，人氣。",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.1,
       "reviews": 1239,
       "categories": [
@@ -14607,7 +14607,7 @@
     {
       "name": "施老闆麻辣臭豆腐",
       "description": "｜麻辣味道十足，臭豆腐香脆，人氣。",
-      "area": "松山區",
+      "area": "松山",
       "rating": 2.5,
       "reviews": 471,
       "categories": [
@@ -14622,7 +14622,7 @@
     {
       "name": "海友十全排骨",
       "description": "",
-      "area": "士林區",
+      "area": "士林",
       "rating": 3.8,
       "reviews": 3615,
       "categories": [
@@ -14637,7 +14637,7 @@
     {
       "name": "梁記滷味",
       "description": "｜經典滷味，醬香濃郁，超人氣。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 2.6,
       "reviews": 1315,
       "categories": [
@@ -14652,7 +14652,7 @@
     {
       "name": "駱記小炒",
       "description": "｜多元小炒料理，味道鮮美，人氣。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 2.9,
       "reviews": 1891,
       "categories": [
@@ -14667,7 +14667,7 @@
     {
       "name": "四川吳抄手",
       "description": "｜手工抄手，湯頭醇厚，人氣。",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 1767,
       "categories": [
@@ -14682,7 +14682,7 @@
     {
       "name": "義興樓",
       "description": "1938年台菜老店，金錢蝦餅",
-      "area": "文山區",
+      "area": "文山",
       "rating": 3.7,
       "reviews": 836,
       "categories": [
@@ -14696,7 +14696,7 @@
     },
     {
       "name": "興波咖啡 Simple Kaffa",
-      "area": "大安區",
+      "area": "大安",
       "description": "亞洲最佳咖啡館冠軍，手沖精品咖啡旗艦店",
       "categories": [
         "咖啡廳"
@@ -14710,7 +14710,7 @@
     },
     {
       "name": "微微甜點 Petit Dee",
-      "area": "中正區",
+      "area": "中正",
       "description": "南機公寓甜點工作室，每日限定手作蛋糕",
       "categories": [
         "咖啡廳"
@@ -14724,7 +14724,7 @@
     },
     {
       "name": "G u a r d 烏鴉咖啡",
-      "area": "大同區",
+      "area": "大同",
       "description": "迪化街老宅咖啡，自家烘焙深焙咖啡",
       "categories": [
         "咖啡廳"
@@ -14738,7 +14738,7 @@
     },
     {
       "name": "珠寶盒法式甜點 L'JOY",
-      "area": "中正區",
+      "area": "中正",
       "description": "台大周邊精緻法式甜點，地形图甜點聞名",
       "categories": [
         "甜品"
@@ -14752,7 +14752,7 @@
     },
     {
       "name": "Fika Fika Cafe",
-      "area": "中山區",
+      "area": "中山",
       "description": "北歐風咖啡館，光線明亮咖啡品質穩定",
       "categories": [
         "咖啡廳"
@@ -14766,7 +14766,7 @@
     },
     {
       "name": "好物咖啡 Howla Coffee",
-      "area": "大安區",
+      "area": "大安",
       "description": "赤峰街質感咖啡店，自家烘焙與甜點",
       "categories": [
         "咖啡廳"
@@ -14780,7 +14780,7 @@
     },
     {
       "name": " Nonzero Coffee Lab",
-      "area": "大安區",
+      "area": "大安",
       "description": "溫州街咖啡實驗室，淺焙單品咖啡",
       "categories": [
         "咖啡廳"
@@ -14794,7 +14794,7 @@
     },
     {
       "name": "了凡咖啡 ACME Cafe",
-      "area": "大同區",
+      "area": "大同",
       "description": "圓山老宅咖啡，眺望城市天際線",
       "categories": [
         "咖啡廳"
@@ -14809,7 +14809,7 @@
     {
       "name": "金蓬萊遵古台菜",
       "description": "天母傳承超過一甲子的老字號台菜餐廳，連續七年獲米其林一星，招牌排骨酥和佛跳牆聞名",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 4505,
       "categories": [
@@ -14827,7 +14827,7 @@
     {
       "name": "頤宮 (Le Palais)",
       "description": "君品酒店17樓的粵菜餐廳，米其林三星，以精緻粵菜和烤鴨聞名",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 2961,
       "categories": [
@@ -14845,7 +14845,7 @@
     {
       "name": "ZEA",
       "description": "阿根廷主廚的拉丁美洲Fine Dining，融合台灣在地食材，米其林一星",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 265,
       "categories": [
@@ -14863,7 +14863,7 @@
     {
       "name": "RAW",
       "description": "國際名廚江振誠創辦的台菜Fine Dining餐廳，米其林二星，以創新台灣料理聞名",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 201,
       "categories": [
@@ -14881,7 +14881,7 @@
     {
       "name": "Impromptu by Paul Lee",
       "description": "主廚李皞掌舵的創新菜餐廳，位於晶華酒店地下，結合法式手法與台灣食材，米其林一星",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 14,
       "categories": [
@@ -14899,7 +14899,7 @@
     {
       "name": "吉兆割烹壽司 (Kitcho)",
       "description": "連續七年米其林一星的高級壽司店，無菜單料理以當季新鮮海鮮為主",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 625,
       "categories": [
@@ -14968,7 +14968,7 @@
     {
       "name": "INITA",
       "description": "主廚萩本邦弘的時尚義大利餐廳，融合日本與義大利料理經驗，米其林必比登推介",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.8,
       "reviews": 176,
       "categories": [
@@ -15016,7 +15016,7 @@
     {
       "name": "A Cut",
       "description": "台北國賓大飯店的頂級牛排館，米其林一星，以優質牛排和現代裝潢聞名",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 2492,
       "categories": [
@@ -15034,7 +15034,7 @@
     {
       "name": "NOBUO",
       "description": "主廚李信男的日法融合料理，米其林一星，以海鮮為主軸的單一菜單",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 194,
       "categories": [
@@ -15150,7 +15150,7 @@
     {
       "name": "鮨野村 (Sushi Nomura)",
       "description": "大安區江戶前壽司餐廳，米其林一星，食材從日本引進，連煮米水都用富士山水",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 684,
       "categories": [
@@ -15168,7 +15168,7 @@
     {
       "name": "侯布雄 (L'Atelier de Joël Robuchon)",
       "description": "傳奇廚師Joël Robuchon的法式餐廳，米其林二星，信義區寶麗廣場",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 2117,
       "categories": [
@@ -15203,7 +15203,7 @@
     {
       "name": "Logy",
       "description": "內湖區的亞洲當代料理餐廳，米其林二星，融合日本與台灣文化",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 779,
       "categories": [
@@ -15255,7 +15255,7 @@
     {
       "name": "長春藤 (Ivy)",
       "description": "米其林推薦餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 0,
       "reviews": 0,
       "categories": [
@@ -15307,7 +15307,7 @@
     {
       "name": "雅閣 (Ya Ge)",
       "description": "台北文華東方酒店的粵菜餐廳，連續八年米其林一星",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 1140,
       "categories": [
@@ -15325,7 +15325,7 @@
     {
       "name": "SENS",
       "description": "松山區老公寓改建的法式餐廳，米其林一星，主廚對醬汁特別講究",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.7,
       "reviews": 157,
       "categories": [
@@ -15343,7 +15343,7 @@
     {
       "name": "Eika",
       "description": "大同區的當代日本料理餐廳，米其林一星，板前座位可近距離觀賞主廚",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 86,
       "categories": [
@@ -15361,7 +15361,7 @@
     {
       "name": "雋 (Guan)",
       "description": "米其林推薦餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 0,
       "reviews": 0,
       "categories": [
@@ -15379,7 +15379,7 @@
     {
       "name": "明福台菜海鮮",
       "description": "近50年歷史的台菜餐廳，米其林一星，招牌佛跳牆和蒜酥土雞聞名",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.4,
       "reviews": 1000,
       "categories": [
@@ -15414,7 +15414,7 @@
     {
       "name": "T+T",
       "description": "松山區的時尚亞洲菜餐廳，米其林一星，tapas tasting概念精緻小巧",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 1166,
       "categories": [
@@ -15449,7 +15449,7 @@
     {
       "name": "Wok by Radici",
       "description": "中山區的創新菜餐廳，米其林一星，由知名酒吧Tei by O'bond經營者創立",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 164,
       "categories": [
@@ -15467,7 +15467,7 @@
     {
       "name": "De Nuit",
       "description": "大安區的時尚法國菜餐廳，米其林一星，香港主廚結合法式傳統與季節變化的八道菜套餐",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 477,
       "categories": [
@@ -15502,7 +15502,7 @@
     {
       "name": "富錦樹台菜香檳 (敦北)",
       "description": "松山區的創新台菜餐廳，米其林一星，台南創辦人將台菜與香檳文化結合",
-      "area": "松山區",
+      "area": "松山",
       "rating": 4.2,
       "reviews": 2010,
       "categories": [
@@ -15537,7 +15537,7 @@
     {
       "name": "文公館 (La Maison de Win)",
       "description": "中法融合的時尚中菜餐廳，米其林一星，由粵菜主廚蔣文正與法式主廚林昊語攜手",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.5,
       "reviews": 500,
       "categories": [
@@ -15554,7 +15554,7 @@
     {
       "name": "Ad Astra",
       "description": "中山區的時尚歐陸菜餐廳，米其林一星，主廚Kevin Rose的無菜單料理",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 143,
       "categories": [
@@ -15619,7 +15619,7 @@
     {
       "name": "Lawry's 勞瑞斯",
       "description": "信義區的美式牛肋排餐廳，米其林入選，1938年創立於比佛利山莊的經典品牌",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.6,
       "reviews": 82,
       "categories": [
@@ -15637,7 +15637,7 @@
     {
       "name": "郁坊小館",
       "description": "松山區的日式無菜單料理小館，米其林入選，以新鮮食材和親切價位聞名",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 800,
       "categories": [
@@ -15672,7 +15672,7 @@
     {
       "name": "維多麗亞 N°168 Prime",
       "description": "維多麗亞酒店的牛排館，米其林入選，提供頂級牛排和海鮮",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -15690,7 +15690,7 @@
     {
       "name": "老四川巴蜀麻辣燙",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1500,
       "categories": [
@@ -15708,7 +15708,7 @@
     {
       "name": "新東南海鮮 (汀州路)",
       "description": "汀州路的台菜海鮮餐廳，米其林入選，以新鮮海鮮和台式料理聞名",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 2000,
       "categories": [
@@ -15759,7 +15759,7 @@
     {
       "name": "DiVino",
       "description": "台北義式餐酒館，米其林入選，提供精緻義大利料理",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 500,
       "categories": [
@@ -15777,7 +15777,7 @@
     {
       "name": "北平都一處",
       "description": "北平都一處是台北知名北方菜館，米其林入選，以北方餃子和麵食聞名",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 900,
       "categories": [
@@ -15795,7 +15795,7 @@
     {
       "name": "森住康二拉麵",
       "description": "日式拉麵專賣店，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 400,
       "categories": [
@@ -15813,7 +15813,7 @@
     {
       "name": "Baan",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -15831,7 +15831,7 @@
     {
       "name": "新利大雅",
       "description": "新利大雅為台北老字號餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 300,
       "categories": [
@@ -15849,7 +15849,7 @@
     {
       "name": "羽黑割烹",
       "description": "日式割烹料理餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 200,
       "categories": [
@@ -15901,7 +15901,7 @@
     {
       "name": "Cuisine M",
       "description": "精緻料理餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 200,
       "categories": [
@@ -15919,7 +15919,7 @@
     {
       "name": "Whinos Too",
       "description": "Whinos Too是餐酒館，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 300,
       "categories": [
@@ -16005,7 +16005,7 @@
     {
       "name": "Duchamp",
       "description": "法式餐酒館，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 300,
       "categories": [
@@ -16040,7 +16040,7 @@
     {
       "name": "辰園 (喜來登)",
       "description": "喜來登酒店內的粵菜餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 800,
       "categories": [
@@ -16160,7 +16160,7 @@
     {
       "name": "福臨門",
       "description": "粵菜餐廳，米其林入選，以傳統粵菜聞名",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1000,
       "categories": [
@@ -16178,7 +16178,7 @@
     {
       "name": "問鼎麻辣鍋",
       "description": "知名麻辣鍋品牌，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 2000,
       "categories": [
@@ -16230,7 +16230,7 @@
     {
       "name": "夜上海",
       "description": "上海菜餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 800,
       "categories": [
@@ -16248,7 +16248,7 @@
     {
       "name": "小馬 (Sushi Soba)",
       "description": "日式壽司蕎麥麵餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1500,
       "categories": [
@@ -16283,7 +16283,7 @@
     {
       "name": "真的好海鮮",
       "description": "高級海鮮餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 800,
       "categories": [
@@ -16318,7 +16318,7 @@
     {
       "name": "上海鄉村",
       "description": "上海菜餐廳連鎖品牌，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 2000,
       "categories": [
@@ -16353,7 +16353,7 @@
     {
       "name": "美濃屋拉麵",
       "description": "日式拉麵專賣店，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1000,
       "categories": [
@@ -16388,7 +16388,7 @@
     {
       "name": "樂軒和牛專賣店",
       "description": "和牛專賣店，米其林入選，提供頂級和牛燒烤",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -16406,7 +16406,7 @@
     {
       "name": "九記海鮮",
       "description": "港式海鮮餐廳，米其林入選",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.4,
       "reviews": 1000,
       "categories": [
@@ -16441,7 +16441,7 @@
     {
       "name": "Morton's 莫爾頓",
       "description": "知名美式牛排館品牌，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 1500,
       "categories": [
@@ -16476,7 +16476,7 @@
     {
       "name": "Ephernité",
       "description": "法式Fine Dining餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 400,
       "categories": [
@@ -16562,7 +16562,7 @@
     {
       "name": "Chou Chou",
       "description": "法式餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 400,
       "categories": [
@@ -16597,7 +16597,7 @@
     {
       "name": "胡同燒肉 (一號店)",
       "description": "知名燒肉品牌一號店，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 2500,
       "categories": [
@@ -16632,7 +16632,7 @@
     {
       "name": "野生大尾",
       "description": "野生大尾是海鮮餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 400,
       "categories": [
@@ -16667,7 +16667,7 @@
     {
       "name": "一兵一卒",
       "description": "一兵一卒是北方菜餐廳，米其林入選",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 400,
       "categories": [
@@ -16753,7 +16753,7 @@
     {
       "name": "茹絲葵牛排館",
       "description": "知名美式牛排館品牌，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.4,
       "reviews": 2000,
       "categories": [
@@ -16771,7 +16771,7 @@
     {
       "name": "丸本陣",
       "description": "日式料理餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 300,
       "categories": [
@@ -16806,7 +16806,7 @@
     {
       "name": "頂鮮台北101",
       "description": "頂鮮是台北101高級餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.3,
       "reviews": 800,
       "categories": [
@@ -16858,7 +16858,7 @@
     {
       "name": "紅樓 (晶華)",
       "description": "晶華酒店紅樓餐廳，米其林入選",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 600,
       "categories": [
@@ -16876,7 +16876,7 @@
     {
       "name": "東門餃子館",
       "description": "東門餃子館是知名北方麵食店，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 2000,
       "categories": [
@@ -16894,7 +16894,7 @@
     {
       "name": "冶春茶社",
       "description": "冶春茶社是中式茶餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -16946,7 +16946,7 @@
     {
       "name": "銀翼餐廳",
       "description": "銀翼餐廳是台北老字號空軍眷村菜館，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.2,
       "reviews": 1500,
       "categories": [
@@ -16981,7 +16981,7 @@
     {
       "name": "Bencotto (文華東方)",
       "description": "文華東方酒店義式餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 400,
       "categories": [
@@ -16999,7 +16999,7 @@
     {
       "name": "田園海鮮",
       "description": "田園海鮮是台菜海鮮餐廳，米其林入選",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 600,
       "categories": [
@@ -17034,7 +17034,7 @@
     {
       "name": "Gēn Creative",
       "description": "Gēn Creative是創意料理餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 300,
       "categories": [
@@ -17069,7 +17069,7 @@
     {
       "name": "Botega del Vin",
       "description": "義式餐酒館，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 600,
       "categories": [
@@ -17104,7 +17104,7 @@
     {
       "name": "留園",
       "description": "留園是中式餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 500,
       "categories": [
@@ -17156,7 +17156,7 @@
     {
       "name": "詹記麻辣火鍋",
       "description": "詹記麻辣火鍋是台北知名麻辣鍋品牌，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 5000,
       "categories": [
@@ -17191,7 +17191,7 @@
     {
       "name": "Tutto Bello",
       "description": "Tutto Bello是義式餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 800,
       "categories": [
@@ -17209,7 +17209,7 @@
     {
       "name": "五月雪客家私房菜",
       "description": "五月雪是客家私房菜餐廳，米其林入選",
-      "area": "士林區",
+      "area": "士林",
       "rating": 4.3,
       "reviews": 400,
       "categories": [
@@ -17244,7 +17244,7 @@
     {
       "name": "守破離",
       "description": "守破離是日式料理餐廳，米其林入選",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 200,
       "categories": [
@@ -17262,7 +17262,7 @@
     {
       "name": "先進海鮮",
       "description": "先進海鮮是台菜海鮮餐廳，米其林入選",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -17365,7 +17365,7 @@
     {
       "name": "寬巷子",
       "description": "寬巷子是知名火鍋品牌，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1500,
       "categories": [
@@ -17434,7 +17434,7 @@
     {
       "name": "笹鮨 (Sasa)",
       "description": "笹鮨是高級壽司餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 400,
       "categories": [
@@ -17452,7 +17452,7 @@
     {
       "name": "蓬萊台菜",
       "description": "蓬萊台菜是老字號台菜餐廳，米其林入選",
-      "area": "中山區",
+      "area": "中山",
       "rating": 4.3,
       "reviews": 1000,
       "categories": [
@@ -17470,7 +17470,7 @@
     {
       "name": "蘇杭 (濟南路)",
       "description": "蘇杭是江浙菜餐廳，米其林入選",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 800,
       "categories": [
@@ -17488,7 +17488,7 @@
     {
       "name": "梵燒肉",
       "description": "梵燒肉是高級日式燒肉，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 500,
       "categories": [
@@ -17540,7 +17540,7 @@
     {
       "name": "游壽司 (麗水店)",
       "description": "游壽司是日式壽司餐廳，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 500,
       "categories": [
@@ -17557,7 +17557,7 @@
     {
       "name": "橘色涮涮屋 (大安)",
       "description": "橘色涮涮屋是日式涮涮鍋品牌，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1000,
       "categories": [
@@ -17642,7 +17642,7 @@
     {
       "name": "Tsuta 蔦 (台北店)",
       "description": "Tsuta蔦是日式拉麵品牌台北店，米其林入選",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1000,
       "categories": [
@@ -17728,7 +17728,7 @@
     {
       "name": "犁園湯包館",
       "description": "犁園湯包館是小籠湯包專賣店，米其林必比登推介",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.5,
       "reviews": 800,
       "categories": [
@@ -17746,7 +17746,7 @@
     {
       "name": "盛園絲瓜小籠湯包",
       "description": "盛園是小籠湯包專賣店，米其林必比登推介",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.4,
       "reviews": 1000,
       "categories": [
@@ -17832,7 +17832,7 @@
     {
       "name": "阿昌麵線",
       "description": "麵線專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 500,
       "categories": [
@@ -17884,7 +17884,7 @@
     {
       "name": "武田咖哩",
       "description": "武田咖哩是日式咖哩專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 800,
       "categories": [
@@ -17953,7 +17953,7 @@
     {
       "name": "蘭芳麵食館",
       "description": "蘭芳麵食館是知名麵食店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 2000,
       "categories": [
@@ -18107,7 +18107,7 @@
     {
       "name": "阿輝麵線",
       "description": "阿輝麵線是麵線專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 800,
       "categories": [
@@ -18176,7 +18176,7 @@
     {
       "name": "東發號",
       "description": "東發號是傳統小吃店，米其林必比登推介",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -18228,7 +18228,7 @@
     {
       "name": "汕頭炒麵",
       "description": "汕頭炒麵是炒麵專賣店，米其林必比登推介",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -18412,7 +18412,7 @@
     {
       "name": "鼎泰豐（信義路）",
       "description": "鼎泰豐是台灣知名小籠包品牌，米其林必比登推介",
-      "area": "信義區",
+      "area": "信義",
       "rating": 4.5,
       "reviews": 20000,
       "categories": [
@@ -18549,7 +18549,7 @@
     {
       "name": "許記生煎包",
       "description": "許記生煎包是生煎包專賣店，米其林必比登推介",
-      "area": "大同區",
+      "area": "大同",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -18584,7 +18584,7 @@
     {
       "name": "大理街香腸",
       "description": "大理街香腸是香腸專賣店，米其林必比登推介",
-      "area": "萬華區",
+      "area": "萬華",
       "rating": 4.2,
       "reviews": 500,
       "categories": [
@@ -18686,7 +18686,7 @@
     {
       "name": "紅燒牛肉麵牛雜湯",
       "description": "牛肉麵牛雜湯專賣店，米其林必比登推介",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -18738,7 +18738,7 @@
     {
       "name": "燕山鹹湯圓",
       "description": "燕山鹹湯圓是湯圓專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -18807,7 +18807,7 @@
     {
       "name": "阿田麵",
       "description": "阿田麵是麵食專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 800,
       "categories": [
@@ -19012,7 +19012,7 @@
     {
       "name": "開囍",
       "description": "開囍是傳統小吃店，米其林必比登推介",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -19234,7 +19234,7 @@
     {
       "name": "光明切仔麵",
       "description": "光明切仔麵是切仔麵專賣店，米其林必比登推介",
-      "area": "北投區",
+      "area": "北投",
       "rating": 4.3,
       "reviews": 500,
       "categories": [
@@ -19489,7 +19489,7 @@
     {
       "name": "濟南鮮湯包",
       "description": "濟南鮮湯包是湯包專賣店，米其林必比登推介",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 800,
       "categories": [
@@ -19575,7 +19575,7 @@
     {
       "name": "好想見麵 大安信義店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4,
       "reviews": 2239,
       "address": "10657台灣臺北市大安區龍圖里信義路三段186號",
@@ -19590,7 +19590,7 @@
     {
       "name": "Butcher Lab by LànPéngYǒu 大安",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.1,
       "reviews": 2119,
       "address": "106026台灣臺北市大安區龍淵里和平東路二段118巷4-1號1樓",
@@ -19605,7 +19605,7 @@
     {
       "name": "大安站那邊 精緻熱炒",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.2,
       "reviews": 854,
       "address": "106台灣臺北市大安區住安里復興南路二段13-1號1樓",
@@ -19620,7 +19620,7 @@
     {
       "name": "饞食坊",
       "description": "日式料理餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 1859,
       "address": "106台灣臺北市大安區住安里信義路四段30巷58號",
@@ -19635,7 +19635,7 @@
     {
       "name": "樂子the Diner 瑞安店",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 4259,
       "address": "106台灣臺北市大安區龍生里瑞安街145號",
@@ -19650,7 +19650,7 @@
     {
       "name": "好米亞",
       "description": "甜品專賣店，消暑好選擇",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.3,
       "reviews": 3181,
       "address": "106台灣臺北市大安區仁愛里敦化南路一段270巷6號",
@@ -19665,7 +19665,7 @@
     {
       "name": "11PASTA Trattoria 食義_大安店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 683,
       "address": "106台灣臺北市大安區龍淵里和平東路二段118巷2弄1號1樓",
@@ -19680,7 +19680,7 @@
     {
       "name": "樂食堂",
       "description": "日式料理餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 839,
       "address": "106台灣臺北市大安區虎嘯里臥龍街11號",
@@ -19695,7 +19695,7 @@
     {
       "name": "義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.4,
       "reviews": 1703,
       "address": "106台灣臺北市大安區光武里復興南路一段107巷7號1樓",
@@ -19710,7 +19710,7 @@
     {
       "name": "神樂屋 酒•和食",
       "description": "日式料理餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.5,
       "reviews": 527,
       "address": "106台灣臺北市大安區龍陣里和平東路二段175巷25號",
@@ -19725,7 +19725,7 @@
     {
       "name": "小姐姐麻辣食堂",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 2609,
       "address": "106台灣臺北市大安區龍淵里和平東路二段118巷4弄2號",
@@ -19740,7 +19740,7 @@
     {
       "name": "泔 米食堂",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 517,
       "address": "106台灣臺北市大安區龍生里和平東路二段175巷12號",
@@ -19755,7 +19755,7 @@
     {
       "name": "荷李活茶街 HOLLYWOOD STREET (SOGO忠孝店) ｜港式飲茶 手工點心 台北美食 大安區美食 東區必吃",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 4392,
       "address": "106台灣臺北市大安區光武里忠孝東路四段45號2 樓",
@@ -19770,7 +19770,7 @@
     {
       "name": "姥義麵 La pasta di nonna 義大利小館",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 869,
       "address": "106台灣臺北市大安區群賢里四維路208巷14號",
@@ -19785,7 +19785,7 @@
     {
       "name": "Snail 蝸牛義大利餐廳 敦南店",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 4031,
       "address": "106台灣臺北市大安區義安里敦化南路二段81巷49號",
@@ -19800,7 +19800,7 @@
     {
       "name": "Oregano奧瑞岡義式餐廳",
       "description": "",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 2830,
       "address": "106台灣臺北市大安區住安里四維路96號",
@@ -19815,7 +19815,7 @@
     {
       "name": "Ombré敦南店｜大安區餐酒館 - 多國料理餐廳 - 台北早午餐推薦",
       "description": "早午餐餐廳，活力一天的開始",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.6,
       "reviews": 4410,
       "address": "106台灣台北市大安区北市敦化南路一段161巷70號",
@@ -19830,7 +19830,7 @@
     {
       "name": "大安米粉湯",
       "description": "麵食專賣店，湯頭講究",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1273,
       "address": "106台灣臺北市大安區龍淵里復興南路二段316號",
@@ -19845,7 +19845,7 @@
     {
       "name": "Eatfoodie udon 好好吃餐房(烏龍麵 鍋燒意麵)",
       "description": "火鍋餐廳，適合聚餐",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 1689,
       "address": "106台灣臺北市大安區群賢里和平東路三段1巷6-1號號",
@@ -19860,7 +19860,7 @@
     {
       "name": "文｜火｜處｜方 料理所",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.7,
       "reviews": 603,
       "address": "106台灣臺北市大安區文昌街80號1樓",
@@ -19875,7 +19875,7 @@
     {
       "name": "梧貳WUERFOODS歐姆蛋包飯專賣店",
       "description": "中式餐廳，在地美味",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 2871,
       "address": "106台灣臺北市大安區群賢里和平東路二段311巷7號",
@@ -19903,7 +19903,7 @@
     {
       "name": "Takeout Burger&Cafe 延吉店 （最後點餐21：30）/美式漢堡/寵物友善/大安區美食/貓咪餐廳",
       "description": "日式料理餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 1818,
       "address": "106台灣臺北市大安區車層里延吉街160巷5之3號",
@@ -19931,7 +19931,7 @@
     {
       "name": "ONE GOOD烤肉飯(大安店）",
       "description": "日式料理餐廳",
-      "area": "大安區",
+      "area": "大安",
       "rating": 4.8,
       "reviews": 1418,
       "address": "10663台灣臺北市大安區龍淵里復興南路二段340巷5號1樓",
@@ -19946,7 +19946,7 @@
     {
       "name": "三味香麵店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "中正區",
+      "area": "中正",
       "rating": 4,
       "reviews": 1055,
       "address": "100台灣臺北市中正區建國里桃源街19號",
@@ -19961,7 +19961,7 @@
     {
       "name": "穠舍田園咖啡 餐廳 休閒農場",
       "description": "咖啡廳，適合放鬆休憩",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.3,
       "reviews": 1519,
       "address": "114台灣臺北市內湖區碧山里碧山路38號",
@@ -19976,7 +19976,7 @@
     {
       "name": "東引小吃店-內湖店",
       "description": "麵食專賣店，湯頭講究",
-      "area": "內湖區",
+      "area": "內湖",
       "rating": 4.8,
       "reviews": 1684,
       "address": "114036台灣臺北市內湖區港墘里瑞光路293號",
