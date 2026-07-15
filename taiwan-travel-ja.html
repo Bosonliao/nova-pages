@@ -811,7 +811,7 @@ function initApp(){
     const d = DATA[c];
     const badge = document.getElementById('badge-'+c);
     if(badge){
-      badge.textContent = (d.routes||[]).length;
+      badge.textContent = d ? (d.routes||[]).length : '...';
     }
   });
   selectCounty('台北');
