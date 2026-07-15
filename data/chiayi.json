@@ -12782,7 +12782,7 @@
       "category": "中式",
       "tags": [
         "sp",
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 2,
       "dishes": []
@@ -12799,7 +12799,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12816,7 +12816,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12833,7 +12833,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12850,7 +12850,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12867,7 +12867,7 @@
       "michelin": "bib",
       "category": "咖啡廳",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12884,7 +12884,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12901,7 +12901,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12918,7 +12918,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12936,7 +12936,7 @@
       "nm_area": "武聖夜市",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12953,7 +12953,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12970,7 +12970,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -12988,7 +12988,7 @@
       "nm_area": "武聖夜市",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13005,7 +13005,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13022,7 +13022,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13039,7 +13039,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13057,7 +13057,7 @@
       "nm_area": "武聖夜市",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13074,7 +13074,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13091,7 +13091,7 @@
       "michelin": "bib",
       "category": "甜品",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13108,7 +13108,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -13126,7 +13126,7 @@
       "nm_area": "武聖夜市",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 3,
       "dishes": []
@@ -13143,7 +13143,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 3,
       "dishes": []
@@ -13161,7 +13161,7 @@
       "nm_area": "武聖夜市",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 3,
       "dishes": []
@@ -14312,7 +14312,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民生路二段 36 號",
@@ -14330,7 +14330,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14348,7 +14348,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14366,7 +14366,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14384,7 +14384,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14402,7 +14402,7 @@
       "michelin": "selected",
       "category": "日式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14420,7 +14420,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14438,7 +14438,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14456,7 +14456,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區府前路一段 16 號",
@@ -14474,7 +14474,7 @@
       "michelin": "selected",
       "category": "日式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14492,7 +14492,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14510,7 +14510,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區海安路一段 16 號",
@@ -14528,7 +14528,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區府前路一段 12 號",
@@ -14546,7 +14546,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14564,7 +14564,7 @@
       "michelin": "selected",
       "category": "日式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區中華西路一段 16 號",
@@ -14582,7 +14582,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區府前路一段 16 號",
@@ -14600,7 +14600,7 @@
       "michelin": "selected",
       "category": "日式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14618,7 +14618,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區海安路一段 16 號",
@@ -14636,7 +14636,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區崑崙路 12 號",
@@ -14654,7 +14654,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區府前路一段 16 號",
@@ -14672,7 +14672,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區民權路二段 6 號",
@@ -14690,7 +14690,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區海安路一段 16 號",
@@ -14708,7 +14708,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "台南市中西區中華西路一段 16 號",
@@ -14726,7 +14726,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "address": "台南市中西區中華西路一段 16 號",
@@ -14744,7 +14744,7 @@
       "michelin": "bib",
       "category": "義式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14762,7 +14762,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "address": "台南市中西區海安路一段 16 號",
@@ -14780,7 +14780,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "address": "台南市中西區民族路二段 36 號",
@@ -14798,7 +14798,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "address": "台南市中西區海安路一段 16 號",
@@ -14816,7 +14816,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "dishes": []

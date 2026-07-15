@@ -408,7 +408,7 @@
       "category": "中式",
       "tags": [
         "sp",
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 0,
       "dishes": []
@@ -425,7 +425,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -442,7 +442,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -459,7 +459,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -476,7 +476,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -493,7 +493,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -510,7 +510,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -526,7 +526,7 @@
       ],
       "michelin": "bib",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "category": "中式",
       "_sort": 1,
@@ -544,7 +544,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -561,7 +561,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -578,7 +578,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -595,7 +595,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -612,7 +612,7 @@
       "michelin": "bib",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 1,
       "dishes": []
@@ -628,7 +628,7 @@
       ],
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-bib"
       ],
       "_sort": 3,
       "dishes": []
@@ -22448,7 +22448,7 @@
       "michelin": "star",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-star"
       ],
       "_sort": 0,
       "address": "新北市三峽區中正路123號",
@@ -22466,7 +22466,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "新北市貢寮區富基漁港",
@@ -22484,7 +22484,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "新北市永和區中正路789號",
@@ -22502,7 +22502,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "address": "新北市新店區中央路456號",
@@ -22646,7 +22646,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "dishes": []
@@ -22677,7 +22677,7 @@
       "michelin": "selected",
       "category": "中式",
       "tags": [
-        "michelin"
+        "michelin-selected"
       ],
       "_sort": 0,
       "dishes": []

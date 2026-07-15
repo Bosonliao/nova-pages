@@ -92,9 +92,13 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-tag.popular{background:#ff6f00;color:#fff;border:1px solid #e65100;font-weight:700;}
 .food-card[data-popular="1"]{border-left:4px solid #ff6f00;background:linear-gradient(90deg,#fff8e1 0%,#ffffff 30%);}
 .food-card[data-popular="1"] .name{color:#e65100;}
-.food-tag.michelin{background:#fff9c4;color:#b71c1c;border:1px solid #fbc02d;font-weight:600;}
+.food-tag.michelin-star{background:#b71c1c;color:#fff;border:1px solid #b71c1c;font-weight:700;}
+.food-tag.michelin-bib{background:#ff6f00;color:#fff;border:1px solid #ff6f00;font-weight:600;}
+.food-tag.michelin-selected{background:#fff9c4;color:#b71c1c;border:1px solid #fbc02d;font-weight:600;}
 .food-cat-btn.popular-filter{background:#ff6f00;color:#fff;border-color:#ff6f00;}
-.food-cat-btn.michelin-filter{background:#b71c1c;color:#fff;border-color:#b71c1c;}
+.food-cat-btn.michelin-star-filter{background:#b71c1c;color:#fff;border-color:#b71c1c;}
+.food-cat-btn.michelin-bib-filter{background:#ff6f00;color:#fff;border-color:#ff6f00;}
+.food-cat-btn.michelin-selected-filter{background:#fbc02d;color:#b71c1c;border-color:#fbc02d;}
 .food-tag.footsoak{background:#e0f2f1;color:#00695c;border:1px solid #00897b;}
 .food-tag.sstc{background:#f3e5f5;color:#7b1fa2;border:1px solid #ce93d8;font-weight:600;}
 .food-cat-btn.area-btn{background:#1565c0;color:#fff;border-color:#1565c0;font-size:11px;}
@@ -610,9 +614,9 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
-        const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u7c73\u5176\u6797\u003c/span\u003e' : '';
+        const michelinTag = hasTag(f,'michelin-star') ? '\u003cspan class="food-tag michelin-star"\u003e\u7c73\u5176\u6797\u003c/span\u003e' : hasTag(f,'michelin-bib') ? '\u003cspan class="food-tag michelin-bib"\u003e\u5fc5\u6bd4\u767b\u003c/span\u003e' : hasTag(f,'michelin-selected') ? '\u003cspan class="food-tag michelin-selected"\u003e\u7c73\u5176\u6797\u5165\u9078\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0">
+        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="icon">🍽</div>
           <div class="info">
             <div class="name">${f.name}${ratingHtml}</div>
@@ -643,11 +647,11 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
-        const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u7c73\u5176\u6797\u003c/span\u003e' : '';
+        const michelinTag = hasTag(f,'michelin-star') ? '\u003cspan class="food-tag michelin-star"\u003e\u7c73\u5176\u6797\u003c/span\u003e' : hasTag(f,'michelin-bib') ? '\u003cspan class="food-tag michelin-bib"\u003e\u5fc5\u6bd4\u767b\u003c/span\u003e' : hasTag(f,'michelin-selected') ? '\u003cspan class="food-tag michelin-selected"\u003e\u7c73\u5176\u6797\u5165\u9078\u003c/span\u003e' : '';
         const isFootSoak = (f.description||'').includes('\u6ce1\u8173')||(f.name||'').includes('\u6ce1\u8173');
         const footSoakTag = isFootSoak ? '\u003cspan class="food-tag footsoak"\u003e\ud83e\uddb6 \u6ce1\u8173\u5496\u5561\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
+        return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
           \u003cdiv class="info"\u003e
             \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e
