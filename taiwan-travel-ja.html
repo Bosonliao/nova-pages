@@ -550,7 +550,8 @@ function renderTab(routes,food,spots,indoor,souvenirs){
     // Area filter bar (top row)
     let areaBar = '<div class="food-cat-bar"><button class="food-cat-btn area-btn active" onclick="filterArea(this,\'\')">全區</button>';
     areaList.forEach(a=>{
-      const displayA = a.replace(/[鄉鎮市]$/, '');
+      let displayA = a.replace(/[鄉鎮市]$/, '');
+      if (displayA.length > 2 && displayA.endsWith('區')) displayA = displayA.slice(0, -1);
       areaBar += `<button class="food-cat-btn area-btn" onclick="filterArea(this,'${a}')">${displayA}</button>`;
     });
     areaBar += '</div>';
