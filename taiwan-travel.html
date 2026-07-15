@@ -566,7 +566,17 @@ function renderTab(routes,food,spots,indoor,souvenirs){
         const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
         const michelinTag = (hasTag(f,'michelin')) ? '\u003cspan class="food-tag michelin"\u003e\u2b50 \u7c73\u5176\u6797\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
-        return `\u003cdiv class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0"\u003e\n          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e\n          \u003cdiv class="info"\u003e\n            \u003cdiv class="name"\u003e${f.name}${ratingHtml}\u003c/div\u003e\n            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${sstcTag}${cats}\u003c/div\u003e\n            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}\n          \u003c/div\u003e\n          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\n        \u003c/div\u003e`;
+        return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin'))?1:0}" data-footsoak="0">
+          <div class="icon">🍽</div>
+          <div class="info">
+            <div class="name">${f.name}${ratingHtml}</div>
+            <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
+            ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
+            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span> <span class="dish-desc">${d.desc}</span></div>`).join('')}</div>`:''}
+          </div>
+          <a class="glink menu-link" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(f.name + ' ' + currentCounty + ' 菜單')}" target="_blank">📋 菜單</a>
+          <a class="glink" href="${link}" target="_blank">📍 導航</a>
+        </div>`;
       }).join('');
       noAreaHtml = `<div class="area-group" data-area="">\n        <div class="area-body">${noAreaCards}</div>\n      </div>`;
     }
