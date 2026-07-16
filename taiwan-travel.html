@@ -282,7 +282,7 @@ function loadCounty(c){
 }
 
 function gmapLink(query, county){
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query + ' ' + county)}`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query + ' ' + county + ' 台灣')}`;
 }
 
 function toggleDishes(card){
@@ -618,7 +618,8 @@ function renderTab(routes,food,spots,indoor,souvenirs){
     let noAreaHtml = '';
     if(noArea.length){
       const noAreaCards = noArea.map(f=>{
-        const link = gmapLink(f.name, currentCounty);
+        const firstCat = (f.categories||[])[0]||'';
+  const link = gmapLink(f.name, currentCounty + (firstCat?' '+firstCat:''));
         let ratingHtml = '';
         if(f.rating !== null && f.rating !== undefined && f.rating > 0){
           const stars = '★'.repeat(Math.round(f.rating));
