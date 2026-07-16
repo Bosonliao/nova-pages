@@ -871,7 +871,13 @@
         "michelin-bib"
       ],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "名單",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "魚皮湯",
+        "王氏魚皮"
+      ]
     },
     {
       "name": "永通虱目魚粥",
@@ -1053,7 +1059,13 @@
         "sp"
       ],
       "_sort": 2,
-      "dishes": []
+      "dishes": [
+        "牛肉湯",
+        "芥蘭炒牛肉",
+        "牛肉燥飯",
+        "牛腩湯",
+        "薑絲牛肉"
+      ]
     },
     {
       "name": "蒜頭飯",
@@ -1113,7 +1125,12 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "️ 炙燒 ..."
+      ]
     },
     {
       "name": "鼎大沙茶爐-永康沙茶爐推薦|人氣鍋物|特色鍋物|平價火鍋|台式火鍋|必吃火鍋|在地推薦火鍋|聚餐餐廳",
@@ -2709,7 +2726,13 @@
       "tags": [],
       "category": "西式",
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "美國Choice牛小排",
+        "豬梅花",
+        "雞腿肉",
+        "霜淇淋",
+        "哈根達斯冰淇淋"
+      ]
     },
     {
       "name": "來點美食工坊",
@@ -2739,7 +2762,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "牛排",
+        "鴨胸",
+        "沙拉",
+        "酥皮濃湯",
+        "甜點"
+      ]
     },
     {
       "name": "黃金蕎麥探索館",
@@ -4002,7 +4031,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "石燒蒜蝦飯",
+        "椒鹽豬舌",
+        "紋甲花枝",
+        "松葉蟹三部曲",
+        "起司牛舌握壽司"
+      ]
     },
     {
       "name": "焼肉ショジョYakiniku SHOJO|台南安平店|日式平價美食|居酒屋餐廳(聚餐慶生推薦",
@@ -4803,7 +4838,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "Book at TASTy西堤牛排",
+        "TASTy西堤牛排",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "太康食堂",
@@ -7686,7 +7727,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "生蠔",
+        "牛排",
+        "握壽司",
+        "螃蟹",
+        "哈根達斯冰淇淋"
+      ]
     },
     {
       "name": "超悅涼麵",
@@ -10885,7 +10932,9 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [],
+      "dishes_searched": true,
+      "dishes_note": "非餐廳，為化石園區/博物館"
     },
     {
       "name": "柳營奇林純鮮乳豆花",
@@ -15454,7 +15503,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "| 吃哪",
+        "招牌 at DuckDuckGo",
+        "王氏魚皮外帶預定線上點餐免排隊food"
+      ]
     },
     {
       "name": "隆田鴨肉麵",
@@ -15738,7 +15793,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "仁德好可口烤鴨",
@@ -15766,7 +15821,12 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "碗粿",
+        "豬腸湯",
+        "肉粽",
+        "芋粿"
+      ]
     },
     {
       "name": "悠然居生活茶坊",
@@ -16312,7 +16372,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "碗粿",
+        "豬腸湯",
+        "肉粽",
+        "芋粿",
+        "碗糕"
+      ]
     },
     {
       "name": "龍泉冰店",
@@ -17609,7 +17675,11 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "的蝦仁飯",
+        "炸蝦捲",
+        "招牌炸蝦捲"
+      ]
     },
     {
       "name": "二空洪記涼皮涼麵",
@@ -18832,7 +18902,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "945夯（崑大店）",

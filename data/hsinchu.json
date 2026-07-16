@@ -750,7 +750,12 @@
         "michelin-bib"
       ],
       "_sort": 1,
-      "dishes": []
+      "dishes": [
+        "乾麵",
+        "丸子三兄弟湯",
+        "鴨肉飯",
+        "肉圓"
+      ]
     },
     {
       "name": "九添福牛肉麵館",
@@ -1409,7 +1414,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "牛小排",
+        "豬梅花",
+        "雞腿肉",
+        "松阪豬",
+        "海鮮拼盤"
+      ]
     },
     {
       "name": "森森燒肉 新竹清大店",
@@ -1479,7 +1490,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "美國Choice牛小排",
+        "豬梅花",
+        "雞腿肉",
+        "北海道干貝",
+        "霜淇淋"
+      ]
     },
     {
       "name": "阿叔燒肉（金城店）",
@@ -1944,7 +1961,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "私嚐咖哩唐揚雞飯",
+        "螺旋禮服蛋",
+        "好多蛤蜊烏龍麵",
+        "私嚐咖哩嫩肩牛排",
+        "私藏咖哩炸豬排"
+      ]
     },
     {
       "name": "鹿森林",
@@ -1972,7 +1995,8 @@
       "category": "日式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [],
+      "dishes_searched": true
     },
     {
       "name": "明水然・樂 新竹大遠百店",
@@ -2222,7 +2246,13 @@
       "category": "火鍋",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "番茄鍋底",
+        "麻辣鍋底",
+        "撈麵",
+        "蝦滑",
+        "肥牛"
+      ]
     },
     {
       "name": "養鍋 Yang Guo 石頭涮涮鍋 (新竹光復店)",
@@ -2581,7 +2611,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "牛排",
+        "鴨胸",
+        "沙拉",
+        "酥皮濃湯",
+        "甜點"
+      ]
     },
     {
       "name": "王品牛排 竹北光明店",
@@ -3129,7 +3165,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "山上走走 日式無菜單燒肉專門店",
@@ -3143,7 +3179,11 @@
       "category": "日式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "泰銷魂-新竹三民店",
@@ -7625,7 +7665,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "柴寮披薩 Luau pizza",
@@ -9267,7 +9307,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "竹蓮什錦麵",
@@ -12157,7 +12197,13 @@
       "tags": [],
       "category": "中式",
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "必點有鴨肉飯",
+        "鴨肉飯",
+        "招牌必點有鴨肉飯",
+        "有鴨肉飯",
+        "肉桂捲"
+      ]
     },
     {
       "name": "可口福素食自助餐",
@@ -12445,7 +12491,13 @@
       ],
       "_sort": 0,
       "address": "新竹市",
-      "dishes": []
+      "dishes": [
+        "炒鴨血",
+        "鴨肉湯麵",
+        "鴨肉飯",
+        "鴨肉切盤",
+        "炒鴨腸"
+      ]
     }
   ]
 }

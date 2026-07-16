@@ -822,7 +822,7 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "山木 SunMoon",
@@ -6423,7 +6423,13 @@
       "tags": [],
       "category": "中式",
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "- 涼子是也",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "- Mimi韓の旅遊指南",
+        "招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "原始部落山地美食",
@@ -6479,7 +6485,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "- Mimi韓の旅遊指南",
+        "招牌 at DuckDuckGo",
+        "在地小吃老店"
+      ]
     },
     {
       "name": "阿汶平價海鮮小吃",

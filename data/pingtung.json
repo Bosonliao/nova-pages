@@ -1279,7 +1279,7 @@
       "category": "火鍋",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "馥余煲湯鍋 屏東內埔本店",
@@ -1531,7 +1531,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "牛排",
+        "鴨胸",
+        "沙拉",
+        "酥皮濃湯",
+        "甜點"
+      ]
     },
     {
       "name": "好食臭臭鍋 萬丹店",
@@ -1903,7 +1909,14 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "清燉半筋半肉湯",
+        "花肉湯",
+        "蔥爆牛肉",
+        "香炒牛筋",
+        "沙茶牛肉"
+      ],
+      "dishes_note": "ifoodie上名稱為牛大福"
     },
     {
       "name": "恆春嘟啥泰式小館",
@@ -4362,7 +4375,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "居高招牌岩燒雞",
+        "海皇芋香盅",
+        "魯凱族阿拜",
+        "居高一品雞湯",
+        "鍋巴鮮蝦球"
+      ]
     },
     {
       "name": "清靜莊園",
@@ -9266,7 +9285,9 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "非餐廳"
+      ]
     },
     {
       "name": "客婆客家菜",
@@ -9392,7 +9413,9 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "非餐廳"
+      ]
     },
     {
       "name": "亞士都海產店",
@@ -10328,7 +10351,7 @@
       "category": "日式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "三哥熱炒",

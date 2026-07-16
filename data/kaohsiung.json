@@ -858,7 +858,13 @@
         "michelin-bib"
       ],
       "_sort": 1,
-      "dishes": []
+      "dishes": [
+        "1. 爆漿蒸餃系列",
+        "北平楊寶寶蒸餃",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "首頁 - 北平楊寶寶蒸餃"
+      ]
     },
     {
       "name": "岡山舊市羊肉",
@@ -1214,7 +1220,12 @@
         "michelin-bib"
       ],
       "_sort": 1,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "首頁 - 北平楊寶寶蒸餃",
+        "推薦 招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "柏弘肉燥",
@@ -1282,7 +1293,13 @@
         "michelin-bib"
       ],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "紅蟳糯米糕",
+        "煙燻骰子牛",
+        "蒜子燒大蝦",
+        "蔥香青麻鮑",
+        "花生豬腳燉雞湯"
+      ]
     },
     {
       "name": "老爺美食館",
@@ -1968,7 +1985,13 @@
       "tags": [],
       "category": "西式",
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "美國Choice牛小排",
+        "豬梅花",
+        "雞腿肉",
+        "北海道干貝",
+        "霜淇淋"
+      ]
     },
     {
       "name": "爭鮮迴轉壽司-大寮店",
@@ -2389,7 +2412,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "和牛涮日式鍋物放題 高雄博愛店",
@@ -2403,7 +2426,13 @@
       "category": "火鍋",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "極上和牛涮煮",
+        "和牛炙燒壽司",
+        "和牛黑咖哩",
+        "鯛魚燒冰淇淋",
+        "蔬菜自助吧"
+      ]
     },
     {
       "name": "聚 日式鍋物 高雄大樂店",
@@ -2515,7 +2544,12 @@
       "category": "火鍋",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "高雄夢時代店 - 和牛涮日式鍋物放題",
+        "推薦 招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "百味饕客熱炒",
@@ -3119,7 +3153,10 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "爆爆蛤肉鍋",
+        "獨特辛香花蓮剝皮辣椒湯"
+      ]
     },
     {
       "name": "野森動物學校",
@@ -3602,7 +3639,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "- 涼子是也",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "東悅坊港式飲茶",
+        "招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "曾氏福建炒麵 高雄鳳山店",
@@ -3818,7 +3861,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "莆田荔枝肉",
+        "海蟄皮",
+        "紅燒豆腐",
+        "扁肉燕",
+        "炒米粉"
+      ]
     },
     {
       "name": "玉子屋丼飯專賣",
@@ -4430,7 +4479,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "石燒蒜蝦飯",
+        "椒鹽豬舌",
+        "紋甲花枝",
+        "松葉蟹三部曲",
+        "起司牛舌握壽司"
+      ]
     },
     {
       "name": "高雄形象概念店｜日式平價美食｜居酒屋餐廳｜聚餐慶生推薦",
@@ -4500,7 +4555,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "王品招牌牛排",
+        "法式紐約客牛排",
+        "嫩煎干貝",
+        "法式洋蔥湯",
+        "熔岩巧克力蛋糕"
+      ]
     },
     {
       "name": "西堤牛排 高雄富國店",
@@ -4514,7 +4575,12 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "TASTy西堤牛排"
+      ]
     },
     {
       "name": "YuRay廚坊/潤餅皮蛋餅",
@@ -5665,7 +5731,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "逛街吃飯看電影",
+        "盛合套餐 650元 菜單｜燒肉スマイル",
+        "焼肉スマイル（燒肉",
+        "at DuckDuckGo",
+        "岡山除了 延香炭食 外，想吃燒肉還有"
+      ]
     },
     {
       "name": "灶垰和風洋食｜寵物友善｜高雄美食｜新興區美食｜義大利麵｜高雄平價美食｜",
@@ -6068,7 +6140,13 @@
       "category": "火鍋",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "沙茶火鍋",
+        "牛肉盤",
+        "魚餃",
+        "手工丸子",
+        "凍豆腐"
+      ]
     },
     {
       "name": "老汕頭原味火鍋（高雄博愛店）",
@@ -7528,7 +7606,9 @@
       "category": "日式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "日式丼飯"
+      ]
     },
     {
       "name": "Q Burger 高雄橋頭店",
@@ -7903,7 +7983,13 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "黑蒜鮑魚燉烏雞",
+        "成都燒鴨麻辣燙",
+        "綠竹筍清燉牛肉湯",
+        "麻油雙寶",
+        "天門冬瑤柱燉子排"
+      ]
     },
     {
       "name": "金品川味牛肉麵館",
@@ -8099,7 +8185,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "牛小排",
+        "豬梅花",
+        "雞腿肉",
+        "松阪豬",
+        "冰淇淋"
+      ]
     },
     {
       "name": "旗津番薯椪",
@@ -10126,7 +10218,13 @@
       "category": "西式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "好好吃肉",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "韓式烤肉吃到飽"
+      ]
     },
     {
       "name": "Carbon Steak 富國牛排",
@@ -10925,7 +11023,9 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "非餐廳"
+      ]
     },
     {
       "name": "樂天羊肉",
@@ -13958,7 +14058,7 @@
       "tags": [],
       "category": "中式",
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "品珍緣台川菜",
@@ -14834,7 +14934,13 @@
       "category": "日式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "野饌燒肉七賢店 | 淘卡特約店",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo",
+        "招牌 at DuckDuckGo",
+        "06/12/2025 04 ..."
+      ]
     },
     {
       "name": "春夏冬 あきない家庭料理",
@@ -14932,7 +15038,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "旗山老街小吃",
@@ -15324,7 +15430,7 @@
       "category": "中式",
       "tags": [],
       "_sort": 3,
-      "dishes": []
+      "dishes_searched": true
     },
     {
       "name": "清溪小吃部",
@@ -19228,7 +19334,13 @@
       "tags": [],
       "category": "中式",
       "_sort": 3,
-      "dishes": []
+      "dishes": [
+        "肉粽泰Tai",
+        "》郭家肉粽",
+        "-高雄-🍴肉粽泰",
+        "at DuckDuckGo",
+        "推薦 招牌 at DuckDuckGo"
+      ]
     },
     {
       "name": "郭 嘉義火雞肉飯",
