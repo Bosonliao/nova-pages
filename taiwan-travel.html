@@ -310,7 +310,9 @@ function selectCounty(c){
 
 function selectTab(t){
   currentTab = t;
-  render();
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  event.target.classList.add('active');
+  renderTabContent();
 }
 
 function showImage(src){
@@ -508,7 +510,6 @@ function render(){
         ${tips?`<div class="tips">${tips}</div>`:''}
         <div class="update-time">更新於 ${DATA._updatedAt || '未知'}</div>
       </div>
-      <!-- map placeholder - maps pending verification -->
       
       <div class="tabs">
         <div class="tab ${currentTab==='routes'?'active':''}" onclick="selectTab('routes')">🛣️ 路線 (${routes.length})</div>
@@ -519,10 +520,21 @@ function render(){
         
         <div class="tab ${currentTab==='nightmarkets'?'active':''}" onclick="selectTab('nightmarkets')">🌃 夜市老街 (${(DATA.nightmarkets||[]).filter(m=>m.city===currentCounty).length})</div>
       </div>
-      <div id="tab-content">${renderTab(routes,food,d.spots||[],d.indoor||[],d.souvenirs||[])}</div>
+      <div id="tab-content"></div>
     </div>
   `;
   document.getElementById('content').innerHTML = html;
+  renderTabContent();
+}
+
+function renderTabContent(){
+  const d = DATA[currentCounty];
+  if(!d) return;
+  const routes = d.routes||[];
+  const food = d.food||[];
+  const el = document.getElementById('tab-content');
+  if(!el) return;
+  el.innerHTML = renderTab(routes,food,d.spots||[],d.indoor||[],d.souvenirs||[]);
 }
 
 function renderTab(routes,food,spots,indoor,souvenirs){
