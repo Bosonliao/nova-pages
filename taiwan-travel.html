@@ -595,15 +595,18 @@ function renderTab(routes,food,spots,indoor,souvenirs){
     // Add special filter buttons
     // Tags shown on cards only, no filter buttons
     catBar += '</div>';
-    // Sort food: michelin first, then by rating*reviews (weighted), then reviews desc
+    // Sort food: weighted score (rating * log reviews) + small boost for _sort (食尚玩家)
     const sortedFood = [...food].sort((a,b)=>{
-      const aS = a._sort !== undefined ? a._sort : 3;
-      const bS = b._sort !== undefined ? b._sort : 3;
-      if(aS !== bS) return aS - bS;
-      // Weighted score: rating * log(reviews+1) to penalize low-review high-rating
-      const aWeighted = (a.rating||0) * Math.log10((a.reviews||0)+1);
-      const bWeighted = (b.rating||0) * Math.log10((b.reviews||0)+1);
-      if(Math.abs(bWeighted - aWeighted) > 0.01) return bWeighted - aWeighted;
+      // Weighted score: rating * log10(reviews+1)
+      const aW = (a.rating||0) * Math.log10((a.reviews||0)+1);
+      const bW = (b.rating||0) * Math.log10((b.reviews||0)+1);
+      // Small boost for lower _sort values (食尚玩家 etc), but not enough to override review count
+      // _sort 0 = +3, 1 = +2, 2 = +1, 3 = +0
+      const aS = a._sort !== undefined ? (3 - a._sort) : 0;
+      const bS = b._sort !== undefined ? (3 - b._sort) : 0;
+      const aFinal = aW + aS;
+      const bFinal = bW + bS;
+      if(Math.abs(bFinal - aFinal) > 0.01) return bFinal - aFinal;
       return (b.reviews||0) - (a.reviews||0);
     });
     const groups = {};
