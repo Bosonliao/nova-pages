@@ -865,8 +865,12 @@ function getUserLocation() {
       }
     },
     (err) => {
-      const banner = document.getElementById('geo-banner');
-      if (banner) banner.classList.add('hide');
+      // 定位失敗時不隱藏 banner，讓使用者可以再點「允許定位」
+      // 但如果之前已經定位成功過(userLocation已存在)，保持靜默
+      if (!userLocation) {
+        const banner = document.getElementById('geo-banner');
+        if (banner) { banner.classList.remove('hide'); banner.querySelector('span').textContent = '⚠️ 定位失敗，請再試一次'; }
+      }
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
