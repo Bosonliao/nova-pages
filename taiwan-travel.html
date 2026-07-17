@@ -846,7 +846,7 @@ function haversine(lat1, lng1, lat2, lng2) {
 
 function getUserLocation() {
   if (!navigator.geolocation) { return; }
-  // 嘗試用上次記住的位置（瀏覽器記住權限後永久有效）
+  // 嘗試用上次記住的位置
   try {
     const saved = localStorage.getItem('userLocation');
     if (saved) {
@@ -856,7 +856,7 @@ function getUserLocation() {
       render();
     }
   } catch(e) {}
-  // 重新定位（瀏覽器記住權限後不會再問，直接回傳位置）
+  // 重新定位（瀏覽器記住權限後不會再問）
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
@@ -866,8 +866,6 @@ function getUserLocation() {
       render();
     },
     (err) => {
-      // 定位失敗時：如果有記住的位置就用舊的，隱藏 banner
-      // 如果沒有記住的位置，保留 banner 讓使用者可以重試
       if (!userLocation) {
         const banner = document.getElementById('geo-banner');
         if (banner) { banner.classList.remove('hide'); banner.querySelector('span').textContent = '⚠️ 定位失敗，請再試一次'; }
@@ -877,7 +875,7 @@ function getUserLocation() {
       }
       render();
     },
-    { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
+    { enableHighAccuracy: false, timeout: 15000, maximumAge: 600000 }
   );
 }
 
