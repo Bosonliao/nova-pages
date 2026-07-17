@@ -856,7 +856,7 @@ function getUserLocation() {
       render();
     }
   } catch(e) {}
-  // 重新定位（瀏覽器記住權限後不會再問）
+  // 重新定位
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
@@ -866,16 +866,11 @@ function getUserLocation() {
       render();
     },
     (err) => {
-      if (!userLocation) {
-        const banner = document.getElementById('geo-banner');
-        if (banner) { banner.classList.remove('hide'); banner.querySelector('span').textContent = '⚠️ 定位失敗，請再試一次'; }
-      } else {
-        const banner = document.getElementById('geo-banner');
-        if (banner) banner.classList.add('hide');
-      }
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
-    { enableHighAccuracy: false, timeout: 15000, maximumAge: 600000 }
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
 }
 
