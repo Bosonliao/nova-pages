@@ -290,6 +290,7 @@
     white-space: nowrap;
     flex-shrink: 0;
   }
+  .card-actions{display:flex;align-items:center;gap:4px;flex-shrink:0;}
   .card-desc {
     font-size: 0.85rem;
     color: var(--gray);
@@ -1005,9 +1006,10 @@ function render() {
     <div class="card${popularClass}" data-cat="${item.cat}">
       <div class="card-head">
         <div>
-          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${award2Badge} ${award3Badge} ${linkIcon} ${uberLink(item.lat, item.lng, item.name)} ${distBadge(item.lat, item.lng)}</div>
+          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${award2Badge} ${award3Badge} ${distBadge(item.lat, item.lng)}</div>
           ${ratingHtml}
         </div>
+        <div class="card-actions">${uberLink(item.lat, item.lng, item.name)}${linkIcon}</div>
         <span class="card-tag">${item.tag}</span>
       </div>
       <div class="card-desc">${item.desc}</div>
