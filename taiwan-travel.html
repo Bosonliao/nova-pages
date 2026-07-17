@@ -845,46 +845,24 @@ function haversine(lat1, lng1, lat2, lng2) {
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 }
 
-function hideBanner(){
-  const banner = document.getElementById('geo-banner');
-  if(banner) banner.classList.add('hide');
-  document.body.classList.remove('has-banner');
-}
-
 function getUserLocation() {
   if (!navigator.geolocation) { return; }
-  document.body.classList.add('has-banner');
-  // 嘗試用上次記住的位置
-  try {
-    const saved = localStorage.getItem('userLocation');
-    if (saved) {
-      userLocation = JSON.parse(saved);
-      hideBanner();
-      if (DATA[currentCounty]) { render(); } else { setTimeout(() => { if (DATA[currentCounty]) render(); }, 1000); }
-    }
-  } catch(e) {}
-  // 重新定位
-  let gotResponse = false;
   navigator.geolocation.getCurrentPosition(
     (pos) => {
-      gotResponse = true;
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      try { localStorage.setItem('userLocation', JSON.stringify(userLocation)); } catch(e) {}
-      hideBanner();
-      // 確保資料已載入才 render
-      if (DATA[currentCounty]) { render(); } else { setTimeout(() => { if (DATA[currentCounty]) render(); }, 1000); }
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
+      document.body.classList.remove('has-banner');
+      render();
     },
     (err) => {
-      gotResponse = true;
-      hideBanner();
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
+      document.body.classList.remove('has-banner');
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
-  // 保護：如果 12 秒內沒回應，強制隱藏 banner
-  setTimeout(() => {
-    if (!gotResponse) { hideBanner(); render(); }
-  }, 12000);
 }
 
 // 用座標反查縣市
@@ -925,6 +903,6 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button><span style="font-size:10px;opacity:0.6;cursor:pointer;margin-left:8px;" onclick="alert('userLocation: '+JSON.stringify(userLocation)+'\nlocalStorage: '+(localStorage.getItem('userLocation')||'null'))">?</span></div>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 </body>
 </html>
