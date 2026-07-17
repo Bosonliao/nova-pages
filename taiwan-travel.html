@@ -849,28 +849,11 @@ function getUserLocation() {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
-      // 自動切換到使用者所在的縣市
-      const detectedCity = detectCityByCoords(userLocation.lat, userLocation.lng);
-      if (detectedCity && detectedCity !== currentCounty) {
-        const oldCounty = currentCounty;
-        selectCounty(detectedCity);
-        // 顯示提示
-        const tip = document.createElement('div');
-        tip.style.cssText = 'position:fixed;top:60px;left:50%;transform:translateX(-50%);background:#4caf50;color:#fff;padding:8px 20px;border-radius:20px;font-size:14px;z-index:1001;box-shadow:0 2px 12px rgba(0,0,0,.3);animation:slideDown .4s ease;';
-        tip.textContent = '📍 已自動切換到 ' + detectedCity;
-        document.body.appendChild(tip);
-        setTimeout(() => { tip.style.opacity='0'; tip.style.transition='opacity .5s'; setTimeout(()=>tip.remove(), 500); }, 3000);
-      } else {
-        render();
-      }
+      render();
     },
     (err) => {
-      // 定位失敗時不隱藏 banner，讓使用者可以再點「允許定位」
-      // 但如果之前已經定位成功過(userLocation已存在)，保持靜默
-      if (!userLocation) {
-        const banner = document.getElementById('geo-banner');
-        if (banner) { banner.classList.remove('hide'); banner.querySelector('span').textContent = '⚠️ 定位失敗，請再試一次'; }
-      }
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
@@ -878,35 +861,6 @@ function getUserLocation() {
 }
 
 // 用座標反查縣市
-function detectCityByCoords(lat, lng) {
-  const CITY_BBOX = {
-    '基隆': [25.08, 25.20, 121.70, 121.85],
-    '台北': [24.95, 25.20, 121.43, 121.70],
-    '新北': [24.70, 25.30, 121.28, 122.10],
-    '桃園': [24.75, 25.05, 121.05, 121.35],
-    '新竹': [24.50, 24.90, 120.85, 121.20],
-    '苗栗': [24.30, 24.70, 120.70, 121.20],
-    '台中': [24.00, 24.30, 120.50, 121.10],
-    '彰化': [23.85, 24.15, 120.30, 120.70],
-    '南投': [23.50, 24.20, 120.60, 121.30],
-    '雲林': [23.50, 23.80, 120.10, 120.65],
-    '嘉義': [23.30, 23.60, 120.20, 120.85],
-    '台南': [22.85, 23.45, 120.05, 120.60],
-    '高雄': [22.55, 23.35, 120.20, 121.15],
-    '屏東': [21.90, 22.85, 120.25, 120.95],
-    '宜蘭': [24.40, 24.95, 121.50, 121.95],
-    '花蓮': [23.10, 24.50, 121.20, 121.80],
-    '台東': [21.90, 23.50, 120.85, 121.80],
-    '澎湖': [23.40, 23.75, 119.40, 119.70]
-  };
-  for (const [city, box] of Object.entries(CITY_BBOX)) {
-    if (lat >= box[0] && lat <= box[1] && lng >= box[2] && lng <= box[3]) {
-      return city;
-    }
-  }
-  return null;
-}
-
 function distBadge(lat, lng) {
   if (!userLocation || lat == null || lng == null) return '';
   const d = haversine(userLocation.lat, userLocation.lng, lat, lng);
