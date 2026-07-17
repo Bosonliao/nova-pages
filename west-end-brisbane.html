@@ -922,7 +922,8 @@ function setSortMode(mode) {
 
 function uberLink(lat, lng, name) {
   if (lat == null || lng == null) return '';
-  const url = 'https://m.uber.com/go?action=setPickup&pickup=my_location&dropoff[latitude]=' + lat + '&dropoff[longitude]=' + lng + '&dropoff[nickname]=' + encodeURIComponent(name);
+  const drop = JSON.stringify({latitude: lat, longitude: lng, addressLine1: name});
+  const url = 'https://m.uber.com/looking?drop%5B0%5D=' + encodeURIComponent(drop) + '&pickup=my_location';
   return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">🚗</a>';
 }
 
