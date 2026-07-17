@@ -657,9 +657,7 @@ function renderTab(routes,food,spots,souvenirs){
   const link = gmapLink(f.name, currentCounty + (firstCat?' '+firstCat:''));
         let ratingHtml = '';
         if(f.rating !== null && f.rating !== undefined && f.rating > 0){
-          const stars = '★'.repeat(Math.round(f.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          ratingHtml = `<span class="rating"><span class="stars">★</span> ${f.rating}`;
           if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}則)</span>`;
           }
@@ -689,9 +687,7 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(f.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(f.rating !== null && f.rating !== undefined && f.rating > 0){
-          const stars = '★'.repeat(Math.round(f.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          ratingHtml = `<span class="rating"><span class="stars">★</span> ${f.rating}`;
           if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}則)</span>`;
           }
@@ -743,9 +739,7 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(s.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(s.rating !== null && s.rating !== undefined){
-          const stars = '★'.repeat(Math.round(s.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(s.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${s.rating}`;
+          ratingHtml = `<span class="rating"><span class="stars">★</span> ${s.rating}`;
           if(s.reviews !== null && s.reviews !== undefined){
             ratingHtml += ` <span class="reviews">(${s.reviews.toLocaleString()}則)</span>`;
           }
@@ -783,9 +777,7 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(s.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(s.rating !== null && s.rating !== undefined){
-          const stars = '★'.repeat(Math.round(s.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(s.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${s.rating}`;
+          ratingHtml = `<span class="rating"><span class="stars">★</span> ${s.rating}`;
           if(s.reviews !== null && s.reviews !== undefined){
             ratingHtml += ` <span class="reviews">(${s.reviews.toLocaleString()}則)</span>`;
           }
