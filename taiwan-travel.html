@@ -202,8 +202,8 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .geo-banner.hide{display:none;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
 .geo-banner button:hover{background:#e8f0fe;}
-.uber-link{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#000;color:#fff;font-size:12px;text-decoration:none;margin-left:4px;vertical-align:middle;}
-.uber-link:hover{background:#333;transform:scale(1.1);}
+.uber-link{display:inline-flex;align-items:center;justify-content:center;background:#000;color:#fff;font-size:10px;font-weight:700;text-decoration:none;margin-left:4px;vertical-align:middle;border-radius:4px;padding:2px 6px;letter-spacing:0.5px;}
+.uber-link:hover{background:#333;transform:scale(1.05);}
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
 /* 距離標籤 */
@@ -889,7 +889,7 @@ function uberLink(lat, lng, name) {
   if (lat == null || lng == null) return '';
   const drop = JSON.stringify({latitude: lat, longitude: lng, addressLine1: name});
   const url = 'https://m.uber.com/looking?drop%5B0%5D=' + encodeURIComponent(drop) + '&pickup=my_location';
-  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">🚗</a>';
+  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">Uber</a>';
 }
 
 // 排序狀態
