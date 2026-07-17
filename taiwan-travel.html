@@ -77,15 +77,15 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .route-card .stop a:hover{text-decoration:underline;}
 .route-card .stop-arrow{color:#999;padding:3px 2px;font-size:12px;}
 
-.food-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);display:flex;flex-direction:column;gap:6px;transition:box-shadow .2s,transform .2s;border-left:4px solid #A8DADC;}
+.food-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);display:flex;flex-direction:column;gap:6px;transition:box-shadow .2s,transform .2s;border-left:4px solid #A8DADC;position:relative;}
 .food-card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.1);}
 .food-card .icon{font-size:18px;flex-shrink:0;display:inline;margin-right:4px;}
 .food-card .info{width:100%;}
-.food-card .name{font-weight:700;color:#264653;font-size:1.05rem;line-height:1.35;}
+.food-card .name{font-weight:700;color:#264653;font-size:1.05rem;line-height:1.35;display:flex;align-items:center;flex-wrap:wrap;}
 .food-card .desc{font-size:0.85rem;color:#6B7B7E;line-height:1.5;margin-top:2px;}
 .food-card .glink{flex-shrink:0;font-size:0.85rem;color:#2A9D8F;text-decoration:none;white-space:nowrap;transition:color .2s;}
 .food-card .glink:hover{color:#E76F51;}
-.card-actions{display:inline-flex;align-items:center;gap:4px;margin-left:8px;vertical-align:middle;}
+.card-actions{display:inline-flex;align-items:center;gap:4px;margin-left:auto;flex-shrink:0;}
 .food-cat-bar{display:flex;flex-wrap:wrap;gap:4px;padding:6px 10px;margin-bottom:4px;background:#fff;border-top:1px solid #eee;justify-content:center;}
 .food-cat-btn{border:1px solid #e0e0e0;border-radius:14px;padding:3px 10px;font-size:13px;background:#fff;color:#555;cursor:pointer;white-space:nowrap;}
 .food-cat-btn:hover{background:#fff3e0;border-color:#ffb74d;}
@@ -120,9 +120,9 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .route-tag-food{background:#fff3e0;color:#e65100;border:1px solid #ffb74d;}
 .route-tag-general{background:#eceff1;color:#546e7a;border:1px solid #b0bec5;}
 
-.nm-card{background:#fff;border-radius:14px;padding:16px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);border-left:4px solid #7b1fa2;display:flex;align-items:flex-start;gap:10px;transition:all .2s;}
+.nm-card{background:#fff;border-radius:14px;padding:16px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);border-left:4px solid #7b1fa2;display:flex;align-items:flex-start;gap:10px;transition:all .2s;position:relative;}
 .nm-card .nm-info{flex:1;min-width:0;}
-.nm-card .nm-name{font-weight:700;color:#7b1fa2;font-size:15px;}
+.nm-card .nm-name{font-weight:700;color:#7b1fa2;font-size:15px;display:flex;align-items:center;flex-wrap:wrap;}
 .nm-card .nm-days{display:inline-block;font-size:11px;background:#f3e5f5;color:#7b1fa2;border-radius:4px;padding:2px 8px;margin-left:8px;}
 .nm-card .nm-loc{font-size:12px;color:#888;margin-top:3px;}
 .nm-card .nm-desc{font-size:12px;color:#666;margin-top:4px;}
@@ -617,7 +617,7 @@ function render(){
         ${tips?`<div class="tips">${tips}</div>`:''}
         <div class="header-right-info" style="font-size:12px; color:#666; text-align:right;">
           <div>更新於 2026-07-17</div>
-          <div>版次 V1.17</div>
+          <div>版次 V1.20</div>
         </div>
       </div>
       
@@ -763,7 +763,7 @@ function renderTab(routes,food,spots,souvenirs){
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="info">
-            <div class="name">${f.name}${ratingHtml}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</span></div>
+            <div class="name">${f.name}${ratingHtml}<a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</div>
             <div class="food-tags">${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${sstcTag}${cats}</div>
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
@@ -796,7 +796,7 @@ function renderTab(routes,food,spots,souvenirs){
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e ${f.name}${ratingHtml}\u003cspan class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/span\u003e\u003c/div\u003e
+            \u003cdiv class="name"\u003e ${f.name}${ratingHtml}\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
@@ -842,7 +842,7 @@ function renderTab(routes,food,spots,souvenirs){
         }
         return `<div class="food-card">
           <div class="info">
-            <div class="name">📸 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
+            <div class="name">📸 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
         </div>`;
@@ -881,7 +881,7 @@ function renderTab(routes,food,spots,souvenirs){
         }
         return `<div class="food-card">
           <div class="info">
-            <div class="name">🏪 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
+            <div class="name">🏪 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
         </div>`;
@@ -918,7 +918,7 @@ function renderTab(routes,food,spots,souvenirs){
         <div class="nm-info">
 
 
-          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</span><span class="nm-days">${m.openDays}</span></div>
+          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</div>
           <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
         </div>
