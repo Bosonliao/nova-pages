@@ -671,8 +671,8 @@ function renderTab(routes,food,spots,souvenirs){
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="info">
-            <div class="name">🍽 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</span></div>
-            <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
+            <div class="name">🍽 ${f.name}${ratingHtml}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</span></div>
+            <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}${distBadge(f.lat, f.lng)}</div>
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>{const dn=typeof d==='string'?d:(d.name||'');const dp=typeof d==='object'?(d.price||''):'';const dd=typeof d==='object'?(d.description||''):'';return `<div class="dish-item"><span class="dish-name">${dn}</span>${dp?` <span class="dish-price">$${dp}</span>`:''} <span class="dish-desc">${dd}</span></div>`}).join('')}</div>`:''}
@@ -703,7 +703,7 @@ function renderTab(routes,food,spots,souvenirs){
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e\ud83c\udf74 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003cspan class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/span\u003e\u003c/div\u003e
+            \u003cdiv class="name"\u003e\ud83c\udf74 ${f.name}${ratingHtml}\u003cspan class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/span\u003e\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
@@ -748,8 +748,9 @@ function renderTab(routes,food,spots,souvenirs){
         }
         return `<div class="food-card">
           <div class="info">
-            <div class="name">📸 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
+            <div class="name">📸 ${s.name}${ratingHtml}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
+                        ${distBadge(s.lat, s.lng)}
           </div>
         </div>`;
       }).join('');
@@ -786,8 +787,9 @@ function renderTab(routes,food,spots,souvenirs){
         }
         return `<div class="food-card">
           <div class="info">
-            <div class="name">🏪 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
+            <div class="name">🏪 ${s.name}${ratingHtml}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</span></div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
+                        ${distBadge(s.lat, s.lng)}
           </div>
         </div>`;
       }).join('');
@@ -821,8 +823,8 @@ function renderTab(routes,food,spots,souvenirs){
       const typeColor = type==='夜市'?'#7b1fa2':type==='老街'?'#5d4037':type==='商圈'?'#00695c':'#37474f';
       return `<div class="nm-card" data-nm-type="${type}" style="border-left-color:${typeColor}">
         <div class="nm-info">
-          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</span><span class="nm-days">${m.openDays}</span></div>
-          <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
+          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</span><span class="nm-days">${m.openDays}</span></div>
+          <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''} ${distBadge(m.lat, m.lng)}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
         </div>
       </div>`;
