@@ -860,7 +860,7 @@ function getUserLocation() {
     if (saved) {
       userLocation = JSON.parse(saved);
       hideBanner();
-      render();
+      if (DATA[currentCounty]) { render(); } else { setTimeout(() => { if (DATA[currentCounty]) render(); }, 1000); }
     }
   } catch(e) {}
   // 重新定位
@@ -871,7 +871,8 @@ function getUserLocation() {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       try { localStorage.setItem('userLocation', JSON.stringify(userLocation)); } catch(e) {}
       hideBanner();
-      render();
+      // 確保資料已載入才 render
+      if (DATA[currentCounty]) { render(); } else { setTimeout(() => { if (DATA[currentCounty]) render(); }, 1000); }
     },
     (err) => {
       gotResponse = true;
