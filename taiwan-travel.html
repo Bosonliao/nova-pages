@@ -536,9 +536,9 @@ function render(){
       
       <div class="tabs">
         <div class="tab ${currentTab==='routes'?'active':''}" onclick="selectTab('routes')">🛣️ 路線 (${routes.length})</div>
-        <div class="tab ${currentTab==='food'?'active':''}" onclick="selectTab('food')">🍜 美食 (${food.length})</div>
         <div class="tab ${currentTab==='spots'?'active':''}" onclick="selectTab('spots')">📸 景點 (${(d.spots||[]).length})</div>
         <div class="tab ${currentTab==='souvenirs'?'active':''}" onclick="selectTab('souvenirs')">🏪 伴手禮 (${(d.souvenirs||[]).length})</div>
+        <div class="tab ${currentTab==='food'?'active':''}" onclick="selectTab('food')">🍜 美食 (${food.length})</div>
         
         <div class="tab ${currentTab==='nightmarkets'?'active':''}" onclick="selectTab('nightmarkets')">🌃 夜市老街 (${(DATA.nightmarkets||[]).filter(m=>m.city===currentCounty).length})</div>
       </div>
