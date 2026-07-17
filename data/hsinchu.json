@@ -14250,6 +14250,25 @@
       ],
       "lat": 24.8056834,
       "lng": 120.9657791
+    },
+    {
+      "name": "新埔粄條大王",
+      "description": "客家粄條專賣店，米其林必比登推介",
+      "area": "新埔鎮",
+      "rating": 4.3,
+      "reviews": 800,
+      "categories": [
+        "中式"
+      ],
+      "michelin": "bib",
+      "category": "中式",
+      "tags": [
+        "michelin-bib"
+      ],
+      "_sort": 0,
+      "dishes": [],
+      "lat": 24.8279158,
+      "lng": 121.0813848
     }
   ]
 }
