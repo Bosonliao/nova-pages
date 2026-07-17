@@ -26530,6 +26530,1315 @@
       "dishes": [],
       "lat": 24.3474361,
       "lng": 120.6200044
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1452092,
+      "lng": 120.6811984,
+      "area": "中區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.3054619,
+      "lng": 120.7133009,
+      "area": "后里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.3088282,
+      "lng": 120.7232638,
+      "area": "后里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.181864,
+      "lng": 120.5839883,
+      "area": "龍井區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.0636219,
+      "lng": 120.6984168,
+      "area": "霧峰區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1771255,
+      "lng": 120.6856352,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1867327,
+      "lng": 120.6103268,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.2578412,
+      "lng": 120.5320844,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.2549452,
+      "lng": 120.5303782,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1357607,
+      "lng": 120.6615626,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1469245,
+      "lng": 120.6558309,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1698333,
+      "lng": 120.6917687,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1792777,
+      "lng": 120.6675099,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1480374,
+      "lng": 120.6838501,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.1368679,
+      "lng": 120.680922,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1537256,
+      "lng": 120.6941986,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1710654,
+      "lng": 120.6840523,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1501898,
+      "lng": 120.6551966,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.2749734,
+      "lng": 120.5712026,
+      "area": "清水區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.2572585,
+      "lng": 120.5317884,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.2471944,
+      "lng": 120.5382478,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1872678,
+      "lng": 120.5955235,
+      "area": "龍井區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1774885,
+      "lng": 120.6693837,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1770906,
+      "lng": 120.6182756,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1747886,
+      "lng": 120.6467425,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1756958,
+      "lng": 120.6452011,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1480689,
+      "lng": 120.6837495,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1355803,
+      "lng": 120.6615705,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.1752315,
+      "lng": 120.6498088,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.329637,
+      "lng": 120.6557705,
+      "area": "外埔區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.0886711,
+      "lng": 120.7023995,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.2514901,
+      "lng": 120.7187452,
+      "area": "豐原區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.136199,
+      "lng": 120.6615566,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1460414,
+      "lng": 120.6367064,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1938627,
+      "lng": 120.6818164,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1530642,
+      "lng": 120.6852879,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1584866,
+      "lng": 120.6946115,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1068951,
+      "lng": 120.6860617,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1410939,
+      "lng": 120.6830907,
+      "area": "中區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.2071992,
+      "lng": 120.7019502,
+      "area": "潭子區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1513541,
+      "lng": 120.7166397,
+      "area": "太平區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1519197,
+      "lng": 120.6618429,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1767725,
+      "lng": 120.6181549,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1254284,
+      "lng": 120.6753127,
+      "area": "南區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.1819514,
+      "lng": 120.6448925,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.2563394,
+      "lng": 120.5309945,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "八曜和茶",
+      "lat": 24.1508274,
+      "lng": 120.6771849,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "八曜和茶",
+      "lat": 24.3460546,
+      "lng": 120.6224676,
+      "area": "大甲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "八曜和茶",
+      "lat": 24.1506751,
+      "lng": 120.6629377,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "八曜和茶",
+      "lat": 24.16724,
+      "lng": 120.6818853,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.1361428,
+      "lng": 120.6618266,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.1671464,
+      "lng": 120.6836678,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.1737333,
+      "lng": 120.6469627,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.115189,
+      "lng": 120.6818298,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.1521839,
+      "lng": 120.6618527,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.1761957,
+      "lng": 120.6177901,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.10477,
+      "lng": 120.688981,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "龜記茗品",
+      "lat": 24.1651087,
+      "lng": 120.6364556,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "龜記茗品",
+      "lat": 24.151285,
+      "lng": 120.6615648,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "五桐號",
+      "lat": 24.1671483,
+      "lng": 120.6835066,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "五桐號",
+      "lat": 24.1069722,
+      "lng": 120.6896397,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.148839,
+      "lng": 120.6476617,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.2520438,
+      "lng": 120.7198439,
+      "area": "豐原區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.1534345,
+      "lng": 120.6350467,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.1511637,
+      "lng": 120.6618184,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.141578,
+      "lng": 120.6726874,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 24.1706312,
+      "lng": 120.6913972,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.256351,
+      "lng": 120.5314276,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1075414,
+      "lng": 120.6378443,
+      "area": "烏日區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.2568175,
+      "lng": 120.8283669,
+      "area": "東勢區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1274229,
+      "lng": 120.7160662,
+      "area": "太平區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1684839,
+      "lng": 120.6386348,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1743987,
+      "lng": 120.6477636,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.2505551,
+      "lng": 120.720421,
+      "area": "豐原區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1757755,
+      "lng": 120.7196692,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.2277958,
+      "lng": 120.6516355,
+      "area": "大雅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.1426943,
+      "lng": 120.6794313,
+      "area": "中區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.2392142,
+      "lng": 120.7219335,
+      "area": "豐原區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.2476316,
+      "lng": 120.5381385,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.1744772,
+      "lng": 120.6442745,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.043811,
+      "lng": 120.6884928,
+      "area": "霧峰區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.063019,
+      "lng": 120.6967887,
+      "area": "霧峰區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.2157185,
+      "lng": 120.6912946,
+      "area": "潭子區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "COMEBUY",
+      "lat": 24.1642283,
+      "lng": 120.6609421,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.2236435,
+      "lng": 120.6482857,
+      "area": "大雅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.136368,
+      "lng": 120.6615569,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.2531917,
+      "lng": 120.7177357,
+      "area": "豐原區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1760151,
+      "lng": 120.7196177,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.107556,
+      "lng": 120.6367706,
+      "area": "烏日區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1104009,
+      "lng": 120.68374,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.0890246,
+      "lng": 120.6996911,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.0632247,
+      "lng": 120.6982377,
+      "area": "霧峰區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1262197,
+      "lng": 120.7139459,
+      "area": "太平區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1364243,
+      "lng": 120.6436907,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1379476,
+      "lng": 120.6797766,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1534648,
+      "lng": 120.6498659,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1534813,
+      "lng": 120.6350383,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.1369087,
+      "lng": 120.6496959,
+      "area": "南屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 24.3088566,
+      "lng": 120.7237533,
+      "area": "后里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 24.2552567,
+      "lng": 120.5305157,
+      "area": "梧棲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "珍煮丹",
+      "lat": 24.1696403,
+      "lng": 120.691901,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "珍煮丹",
+      "lat": 24.0733654,
+      "lng": 120.5395244,
+      "area": "彰化市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "老虎堂",
+      "lat": 24.1101724,
+      "lng": 120.6152093,
+      "area": "烏日區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "老虎堂",
+      "lat": 24.1494098,
+      "lng": 120.6852797,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "日出茶太",
+      "lat": 24.1404636,
+      "lng": 120.6897754,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "日出茶太",
+      "lat": 24.1553294,
+      "lng": 120.6617532,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1520421,
+      "lng": 120.6550166,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.3458174,
+      "lng": 120.6235521,
+      "area": "大甲區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1775399,
+      "lng": 120.6452789,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.0892391,
+      "lng": 120.703102,
+      "area": "大里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1729709,
+      "lng": 120.6907834,
+      "area": "北屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1886497,
+      "lng": 120.6164743,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.3089975,
+      "lng": 120.7228248,
+      "area": "后里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1172349,
+      "lng": 120.6666652,
+      "area": "南區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.3088469,
+      "lng": 120.7235428,
+      "area": "后里區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.2387129,
+      "lng": 120.5599087,
+      "area": "沙鹿區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.1482739,
+      "lng": 120.7034433,
+      "area": "太平區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一芳",
+      "lat": 24.1830106,
+      "lng": 120.6161879,
+      "area": "西屯區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一芳",
+      "lat": 24.151518,
+      "lng": 120.6550269,
+      "area": "西區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
     }
   ]
 }

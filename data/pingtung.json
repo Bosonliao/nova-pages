@@ -15127,6 +15127,512 @@
       "dishes": [],
       "lat": 22.4675925,
       "lng": 120.4530444
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.6729516,
+      "lng": 120.4997503,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.6622067,
+      "lng": 120.5070073,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.6822913,
+      "lng": 120.4922171,
+      "area": "崇仁新村 通海區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.8253911,
+      "lng": 120.6002946,
+      "area": "高樹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.4656948,
+      "lng": 120.4520688,
+      "area": "東港鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.5884168,
+      "lng": 120.49007,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.3663111,
+      "lng": 120.5948304,
+      "area": "枋寮鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 22.6841595,
+      "lng": 120.4974817,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 22.6708545,
+      "lng": 120.498828,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 22.6160263,
+      "lng": 120.4684939,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 22.591706,
+      "lng": 120.489093,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 22.7764275,
+      "lng": 120.4912051,
+      "area": "里港鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 22.659694,
+      "lng": 120.5119783,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6618581,
+      "lng": 120.5075986,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6830152,
+      "lng": 120.4987603,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6723097,
+      "lng": 120.4992522,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6877594,
+      "lng": 120.4906864,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6634754,
+      "lng": 120.4786429,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6732958,
+      "lng": 120.4905192,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.6561777,
+      "lng": 120.4820035,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.4660605,
+      "lng": 120.4518772,
+      "area": "東港鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.588747,
+      "lng": 120.4898408,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 22.3667041,
+      "lng": 120.5944753,
+      "area": "枋寮鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "五桐號",
+      "lat": 22.6847119,
+      "lng": 120.4972276,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 22.6839338,
+      "lng": 120.4980767,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "一沐日",
+      "lat": 22.6788194,
+      "lng": 120.4784265,
+      "area": "崇仁新村 空翔區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 22.678815,
+      "lng": 120.4781705,
+      "area": "崇仁新村 空翔區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 22.6735715,
+      "lng": 120.4996212,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.6633772,
+      "lng": 120.5049131,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.6998152,
+      "lng": 120.5094553,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.6866722,
+      "lng": 120.4941039,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.6723049,
+      "lng": 120.483903,
+      "area": "崇仁新村 成功區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.0031162,
+      "lng": 120.7447892,
+      "area": "恆春鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.4611599,
+      "lng": 120.4672843,
+      "area": "東港鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.5871523,
+      "lng": 120.4876507,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.3849433,
+      "lng": 120.5949362,
+      "area": "枋寮鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.3520386,
+      "lng": 120.3802747,
+      "area": "琉球鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 22.784951,
+      "lng": 120.3040032,
+      "area": "岡山區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 22.6732854,
+      "lng": 120.4905612,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 22.6733026,
+      "lng": 120.4998704,
+      "area": "屏東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 22.0034743,
+      "lng": 120.7441635,
+      "area": "恆春鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 22.551198,
+      "lng": 120.5402568,
+      "area": "潮州鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.5509906,
+      "lng": 120.5398786,
+      "area": "潮州鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.5901106,
+      "lng": 120.4889617,
+      "area": "萬丹鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.3851707,
+      "lng": 120.5948164,
+      "area": "枋寮鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.3502819,
+      "lng": 120.3799181,
+      "area": "琉球鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
     }
   ]
 }

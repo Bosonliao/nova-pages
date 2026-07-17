@@ -14258,6 +14258,941 @@
       "dishes": [],
       "lat": 24.8017467,
       "lng": 120.9637306
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.7853647,
+      "lng": 120.9890914,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.7784449,
+      "lng": 121.0203649,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.7971125,
+      "lng": 120.9760224,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.7883713,
+      "lng": 120.966829,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.809534,
+      "lng": 120.9773951,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.8156261,
+      "lng": 121.0269776,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.8250497,
+      "lng": 121.027576,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.834014,
+      "lng": 121.0072749,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.8352227,
+      "lng": 121.0127374,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.8404485,
+      "lng": 121.0017504,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.7446702,
+      "lng": 121.0827504,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.737835,
+      "lng": 121.0885948,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.8729307,
+      "lng": 121.014722,
+      "area": "新竹產業園區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "50嵐",
+      "lat": 24.9018766,
+      "lng": 121.04619,
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.804105,
+      "lng": 120.9677623,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7968093,
+      "lng": 120.9682557,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.8443185,
+      "lng": 120.9304053,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7977956,
+      "lng": 120.9625246,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7894187,
+      "lng": 120.9278078,
+      "area": "香山區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7956888,
+      "lng": 120.9425532,
+      "area": "香山區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.8080368,
+      "lng": 120.9610275,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7847898,
+      "lng": 121.0138903,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7969319,
+      "lng": 120.9844291,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.8010221,
+      "lng": 120.9672845,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7981385,
+      "lng": 120.9968741,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.8101285,
+      "lng": 120.9779001,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.802318,
+      "lng": 120.9620301,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.8155636,
+      "lng": 120.9677791,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "清心福全",
+      "lat": 24.7879808,
+      "lng": 120.9672932,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.7771194,
+      "lng": 121.0232771,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8408705,
+      "lng": 120.9371779,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.7969421,
+      "lng": 120.9757405,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8088625,
+      "lng": 120.9742087,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8339023,
+      "lng": 121.010436,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8381099,
+      "lng": 121.0097778,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.818703,
+      "lng": 121.0232625,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8146055,
+      "lng": 121.0244437,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8409087,
+      "lng": 121.000225,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8350751,
+      "lng": 121.0144392,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.8259646,
+      "lng": 121.0089759,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.822752,
+      "lng": 121.0264645,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.7373209,
+      "lng": 121.0886868,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.7372062,
+      "lng": 121.0890392,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.7219604,
+      "lng": 121.0963532,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.785232,
+      "lng": 121.0190767,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.7770384,
+      "lng": 121.0205819,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.7973088,
+      "lng": 120.9982716,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.8047445,
+      "lng": 120.9721565,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.8024299,
+      "lng": 120.9647994,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.7967211,
+      "lng": 120.9759264,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.8215829,
+      "lng": 121.0259883,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "迷客夏",
+      "lat": 24.7386569,
+      "lng": 121.0876101,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "麻古茶坊",
+      "lat": 24.7968373,
+      "lng": 120.9761174,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "龜記茗品",
+      "lat": 24.7385808,
+      "lng": 121.0876611,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "五桐號",
+      "lat": 24.8180052,
+      "lng": 120.9720365,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.7915487,
+      "lng": 121.0154876,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.8087225,
+      "lng": 120.974705,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.7981524,
+      "lng": 120.9977583,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.802513,
+      "lng": 120.9713218,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.8335813,
+      "lng": 121.0113783,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "可不可熟成紅茶",
+      "lat": 24.7442505,
+      "lng": 121.0831813,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶的魔手",
+      "lat": 24.7376274,
+      "lng": 121.0888331,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.8124201,
+      "lng": 120.9642392,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.7824549,
+      "lng": 121.0191104,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.7985545,
+      "lng": 120.997933,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.8062083,
+      "lng": 120.9626295,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.7968148,
+      "lng": 120.9695908,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.802786,
+      "lng": 120.9651514,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.804919,
+      "lng": 120.9554034,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.8342458,
+      "lng": 121.0100769,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.8262977,
+      "lng": 121.0091626,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.7373045,
+      "lng": 121.0889453,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶湯會",
+      "lat": 24.8729232,
+      "lng": 121.0144127,
+      "area": "新竹產業園區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "珍煮丹",
+      "lat": 24.7979803,
+      "lng": 120.9978265,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.7978453,
+      "lng": 120.9699455,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.7970787,
+      "lng": 120.9983597,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.8064659,
+      "lng": 120.9630062,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.7848112,
+      "lng": 121.0138338,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.8019264,
+      "lng": 120.9705898,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.7777411,
+      "lng": 121.0210914,
+      "area": "東區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.8146465,
+      "lng": 120.9625632,
+      "area": "北區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.8224424,
+      "lng": 121.0273594,
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.7377278,
+      "lng": 121.0883937,
+      "area": "竹東鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.9024943,
+      "lng": 121.0445084,
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "大苑子",
+      "lat": 24.8694309,
+      "lng": 120.9957734,
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
     }
   ]
 }

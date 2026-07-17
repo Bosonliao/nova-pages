@@ -9314,6 +9314,72 @@
       "dishes": [],
       "lat": 23.4758352,
       "lng": 120.8999932
+    },
+    {
+      "name": "50嵐",
+      "lat": 22.7496707,
+      "lng": 121.1486037,
+      "area": "臺東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.7571749,
+      "lng": 121.1440784,
+      "area": "臺東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.7571906,
+      "lng": 121.1514325,
+      "area": "臺東市",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 22.669694,
+      "lng": 121.4675997,
+      "area": "綠島鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 23.1253757,
+      "lng": 121.2195645,
+      "area": "池上鄉",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "鮮茶道",
+      "lat": 23.045503,
+      "lng": 121.1632383,
+      "area": "關山鎮",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
     }
   ]
 }
