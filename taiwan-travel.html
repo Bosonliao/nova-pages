@@ -137,7 +137,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .fade-in{animation:fadeIn .4s ease;}
 @keyframes fadeIn{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
 
-.hamburger{display:none;position:fixed;top:52px;left:0;z-index:1001;background:linear-gradient(135deg,#1a237e,#283593);color:#fff;border:none;border-radius:0 0 12px 0;width:auto;height:52px;font-size:15px;cursor:pointer;box-shadow:0 2px 12px rgba(0,0,0,.3);padding:0 20px 0 14px;gap:8px;align-items:center;justify-content:flex-start;font-weight:600;letter-spacing:1px;}
+.hamburger{display:none;position:fixed;top:0;left:0;z-index:1001;background:linear-gradient(135deg,#1a237e,#283593);color:#fff;border:none;border-radius:0 0 12px 0;width:auto;height:52px;font-size:15px;cursor:pointer;box-shadow:0 2px 12px rgba(0,0,0,.3);padding:0 20px 0 14px;gap:8px;align-items:center;justify-content:flex-start;font-weight:600;letter-spacing:1px;}
 .hamburger .ham-icon{font-size:22px;}
 .hamburger .ham-text{font-size:18px;opacity:.95;font-weight:700;}
 .hamburger .ham-arrow{font-size:14px;opacity:.7;margin-left:6px;}
@@ -852,27 +852,19 @@ function haversine(lat1, lng1, lat2, lng2) {
 
 function getUserLocation() {
   if (!navigator.geolocation) { return; }
-  const banner = document.getElementById('geo-banner');
-  if (banner) {
-    banner.classList.remove('hide');
-    banner.innerHTML = '<span>📍 定位中...</span>';
-  }
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      if (banner) {
-        banner.innerHTML = '<span>✅ 定位成功！距離已顯示</span>';
-        setTimeout(() => { banner.classList.add('hide'); }, 3000);
-      }
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
     (err) => {
-      if (banner) {
-        banner.innerHTML = '<span>⚠️ 定位失敗（' + err.code + '）請點重試</span><button onclick="getUserLocation()">重試</button>';
-      }
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
-    { enableHighAccuracy: true, timeout: 15000, maximumAge: 0 }
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
 }
 
@@ -888,41 +880,6 @@ function uberLink(lat, lng, name) {
   const drop = JSON.stringify({latitude: lat, longitude: lng, addressLine1: name});
   const url = 'https://m.uber.com/looking?drop%5B0%5D=' + encodeURIComponent(drop) + '&pickup=my_location';
   return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">Uber</a>';
-}
-
-// 手動選擇縣市中心點
-const CITY_CENTERS = {
-  '基隆':{lat:25.1276,lng:121.7392},
-  '台北':{lat:25.0330,lng:121.5654},
-  '新北':{lat:25.0120,lng:121.4652},
-  '宜蘭':{lat:24.7021,lng:121.7375},
-  '桃園':{lat:24.9936,lng:121.3016},
-  '新竹':{lat:24.8016,lng:120.9686},
-  '苗栗':{lat:24.5615,lng:120.8090},
-  '台中':{lat:24.1477,lng:120.6736},
-  '南投':{lat:23.9190,lng:120.6910},
-  '彰化':{lat:24.0660,lng:120.5410},
-  '雲林':{lat:23.7092,lng:120.4363},
-  '嘉義':{lat:23.4800,lng:120.4491},
-  '台南':{lat:22.9908,lng:120.2133},
-  '高雄':{lat:22.6273,lng:120.3014},
-  '屏東':{lat:22.6692,lng:120.4866},
-  '花蓮':{lat:23.9871,lng:121.6016},
-  '台東':{lat:22.7583,lng:121.1444},
-  '澎湖':{lat:23.5650,lng:119.6150},
-  '金馬':{lat:24.4368,lng:118.3186}
-};
-function manualLocation(){
-  const city = currentCounty;
-  const c = CITY_CENTERS[city];
-  if(c){
-    userLocation = {lat:c.lat, lng:c.lng};
-    const banner = document.getElementById('geo-banner');
-    if(banner){
-      banner.innerHTML = '<span>✅ 已設定位置：' + city + '市中心（距離為預估值）</span>';
-    }
-    render();
-  }
 }
 
 // 排序狀態
@@ -948,6 +905,6 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」或「手動選擇」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button><button onclick="manualLocation()">手動選擇</button></div>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 </body>
 </html>
