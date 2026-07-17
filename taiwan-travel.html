@@ -202,6 +202,8 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .geo-banner.hide{display:none;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
 .geo-banner button:hover{background:#e8f0fe;}
+.uber-link{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#000;color:#fff;font-size:12px;text-decoration:none;margin-left:4px;vertical-align:middle;}
+.uber-link:hover{background:#333;transform:scale(1.1);}
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
 /* 距離標籤 */
@@ -670,7 +672,7 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="icon">🍽</div>
           <div class="info">
-            <div class="name">${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}</div>
+            <div class="name">${f.name}${ratingHtml}${uberLink(f.lat, f.lng, f.name)}${distBadge(f.lat, f.lng)}</div>
             <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
@@ -705,7 +707,7 @@ function renderTab(routes,food,spots,souvenirs){
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003c/div\u003e
+            \u003cdiv class="name"\u003e${f.name}${ratingHtml}${uberLink(f.lat, f.lng, f.name)}${distBadge(f.lat, f.lng)}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
@@ -752,7 +754,7 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card">
           <div class="icon">📸</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">${s.name}${ratingHtml}${uberLink(s.lat, s.lng, s.name)}${distBadge(s.lat, s.lng)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
           <a class="glink" href="${link}" target="_blank">📍 導航</a>
@@ -794,7 +796,7 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card">
           <div class="icon">🏪</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">${s.name}${ratingHtml}${uberLink(s.lat, s.lng, s.name)}${distBadge(s.lat, s.lng)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
           <a class="glink" href="${link}" target="_blank">📍 導航</a>
@@ -830,7 +832,7 @@ function renderTab(routes,food,spots,souvenirs){
       const typeColor = type==='夜市'?'#7b1fa2':type==='老街'?'#5d4037':type==='商圈'?'#00695c':'#37474f';
       return `<div class="nm-card" data-nm-type="${type}" style="border-left-color:${typeColor}">
         <div class="nm-info">
-          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span></div>
+          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${uberLink(m.lat, m.lng, m.name)}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span></div>
           <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
         </div>
@@ -883,6 +885,12 @@ function distBadge(lat, lng) {
   return ` <span class="dist-badge ${cls}">📏 ${d.toFixed(1)}km</span>`;
 }
 
+function uberLink(lat, lng, name) {
+  if (lat == null || lng == null) return '';
+  const url = 'https://m.uber.com/go?action=setPickup&pickup=my_location&dropoff[latitude]=' + lat + '&dropoff[longitude]=' + lng + '&dropoff[nickname]=' + encodeURIComponent(name);
+  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">🚗</a>';
+}
+
 // 排序狀態
 let sortMode = 'weighted'; // 'weighted' | 'distance'
 
@@ -906,7 +914,7 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📏 啟用定位來顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
+<div id="geo-banner" class="geo-banner"><span>📍 按右下角 GPS 按鈕啟用定位，即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 <button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="定位我的位置">📍</button>
 </body>
 </html>
