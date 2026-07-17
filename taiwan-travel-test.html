@@ -13,18 +13,18 @@
   gtag('js', new Date());
   gtag('config', 'G-204ZGJ4Y11');
 </script>
-<title>星思旅食快查指南-台灣 | Taiwan Travel & Michelin Food Guide — 19 Counties · 276 Routes · 600+ Michelin Star/Bib/Selected · 9000+ Google Top-Rated Restaurants</title>
+<title>星思旅食快搜神器-台灣 | Taiwan Travel & Michelin Food Guide — 19 Counties · 276 Routes · 600+ Michelin Star/Bib/Selected · 9000+ Google Top-Rated Restaurants</title>
 <meta name="description" content="Complete Taiwan travel guide with 276 day-trip routes, 600+ Michelin restaurants, Google top-rated food, night markets, and souvenirs across 19 counties. 台灣旅遊路線與米其林人氣美食完整攻略，276條路線、600+米其林餐廳、Google高分美食、夜市小吃、伴手禮推薦。">
 <meta name="keywords" content="Taiwan travel, Taiwan day trip, Taiwan attractions, Michelin restaurants Taiwan, Bib Gourmet Taiwan, Taiwan food guide, Taipei day trip, Taichung travel, Tainan food, Kaohsiung attractions, Hualien travel, Sun Moon Lake, Alishan, Kenting, Penghu, Taiwan night markets, Taiwan souvenirs, 台灣一日遊, 台灣旅遊, 台灣景點, 米其林餐廳, 必比登, 食尚玩家, Google美食, 台北一日遊, 台中一日遊, 台南美食, 高雄景點, 花蓮旅遊, 日月潭, 阿里山, 墾丁, 澎湖, 台灣夜市, 台灣伴手禮">
 <meta name="author" content="Nova">
 <meta name="robots" content="index,follow">
-<meta property="og:title" content="星思旅食快查指南-台灣 | Taiwan Travel & Michelin Food Guide">
+<meta property="og:title" content="星思旅食快搜神器-台灣 | Taiwan Travel & Michelin Food Guide">
 <meta property="og:description" content="Complete Taiwan travel guide with 276 day-trip routes, 600+ Michelin restaurants, Google top-rated food, night markets, and souvenirs. 台灣19縣市一日遊完整攻略，276條路線、600+米其林餐廳。">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:url" content="https://bosonliao.github.io/nova-pages/taiwan-travel.html">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="星思旅食快查指南-台灣 | Taiwan Travel & Michelin Food Guide">
+<meta name="twitter:title" content="星思旅食快搜神器-台灣 | Taiwan Travel & Michelin Food Guide">
 <meta name="twitter:description" content="Complete Taiwan travel guide with 276 day-trip routes, 600+ Michelin restaurants, Google top-rated food across 19 counties.">
 <meta name="theme-color" content="#1a237e">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -84,6 +84,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-card .desc{font-size:12px;color:#777;margin-top:2px;}
 .food-card .glink{flex-shrink:0;font-size:12px;color:#1a73e8;text-decoration:none;background:#e8f0fe;border-radius:6px;padding:4px 10px;white-space:nowrap;}
 .food-card .glink:hover{background:#d2e3fc;}
+.card-actions{display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0;}
 .food-cat-bar{display:flex;flex-wrap:wrap;gap:4px;padding:6px 10px;margin-bottom:4px;background:#fff;border-top:1px solid #eee;justify-content:center;}
 .food-cat-btn{border:1px solid #e0e0e0;border-radius:14px;padding:3px 10px;font-size:13px;background:#fff;color:#555;cursor:pointer;white-space:nowrap;}
 .food-cat-btn:hover{background:#fff3e0;border-color:#ffb74d;}
@@ -202,8 +203,8 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .geo-banner.hide{display:none;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
 .geo-banner button:hover{background:#e8f0fe;}
-.uber-link{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#000;color:#fff;font-size:12px;text-decoration:none;margin-left:4px;vertical-align:middle;}
-.uber-link:hover{background:#333;transform:scale(1.1);}
+.uber-link{display:inline-flex;align-items:center;justify-content:center;background:#000;color:#fff;font-size:10px;font-weight:700;text-decoration:none;margin-left:4px;vertical-align:middle;border-radius:4px;padding:2px 6px;letter-spacing:0.5px;}
+.uber-link:hover{background:#333;transform:scale(1.05);}
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
 /* 距離標籤 */
@@ -221,7 +222,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 <div class="sidebar" id="sidebar">
   <div class="sidebar-header">
     <img src="miss-nova-logo.png" class="sidebar-logo" alt="星思旅食">
-    <h1>星思旅食快查指南</h1>
+    <h1>星思旅食快搜神器</h1>
     <div class="brand">Taiwan Travel & Michelin Food Guide</div>
     <div class="sub">19縣市旅遊路線 · 600+米其林星級/必比登/入選 · Google人氣高分餐廳 · 夜市小吃 · 伴手禮</div>
   </div>
@@ -672,12 +673,12 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="icon">🍽</div>
           <div class="info">
-            <div class="name">${f.name}${ratingHtml}${uberLink(f.lat, f.lng, f.name)}${distBadge(f.lat, f.lng)}</div>
+            <div class="name">${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}</div>
             <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
           </div>
-          <a class="glink" href="${link}" target="_blank">📍 導航</a>
+          <div class="card-actions">${uberLink(f.lat, f.lng, f.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
         </div>`;
       }).join('');
       noAreaHtml = `<div class="area-group" data-area="">\n        <div class="area-body">${noAreaCards}</div>\n      </div>`;
@@ -707,12 +708,12 @@ function renderTab(routes,food,spots,souvenirs){
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e${f.name}${ratingHtml}${uberLink(f.lat, f.lng, f.name)}${distBadge(f.lat, f.lng)}\u003c/div\u003e
+            \u003cdiv class="name"\u003e${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
           \u003c/div\u003e
-          \u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e
+          \u003cdiv class="card-actions"\u003e${uberLink(f.lat, f.lng, f.name)}\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e\u003c/div\u003e
         \u003c/div\u003e`;
       }).join('');
       return `<div class="area-group" data-area="${area}">
@@ -754,10 +755,10 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card">
           <div class="icon">📸</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${uberLink(s.lat, s.lng, s.name)}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
-          <a class="glink" href="${link}" target="_blank">📍 導航</a>
+          <div class="card-actions">${uberLink(s.lat, s.lng, s.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
         </div>`;
       }).join('');
       return `<div class="area-group">
@@ -796,10 +797,10 @@ function renderTab(routes,food,spots,souvenirs){
         return `<div class="food-card">
           <div class="icon">🏪</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${uberLink(s.lat, s.lng, s.name)}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
-          <a class="glink" href="${link}" target="_blank">📍 導航</a>
+          <div class="card-actions">${uberLink(s.lat, s.lng, s.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
         </div>`;
       }).join('');
       return `<div class="area-group">
@@ -832,11 +833,11 @@ function renderTab(routes,food,spots,souvenirs){
       const typeColor = type==='夜市'?'#7b1fa2':type==='老街'?'#5d4037':type==='商圈'?'#00695c':'#37474f';
       return `<div class="nm-card" data-nm-type="${type}" style="border-left-color:${typeColor}">
         <div class="nm-info">
-          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${uberLink(m.lat, m.lng, m.name)}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span></div>
+          <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span></div>
           <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
         </div>
-        <a class="glink" href="${link}" target="_blank">📍 導航</a>
+        <div class="card-actions">${uberLink(m.lat, m.lng, m.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
       </div>`;
     }).join('');
   }
@@ -855,21 +856,15 @@ function haversine(lat1, lng1, lat2, lng2) {
 }
 
 function getUserLocation() {
-  const btn = document.getElementById('geo-btn');
   if (!navigator.geolocation) { return; }
-  btn.classList.add('loading');
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      btn.classList.remove('loading');
-      btn.classList.add('located');
-      btn.title = `已定位: ${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}`;
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
       render();
     },
     (err) => {
-      btn.classList.remove('loading');
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
       render();
@@ -887,8 +882,9 @@ function distBadge(lat, lng) {
 
 function uberLink(lat, lng, name) {
   if (lat == null || lng == null) return '';
-  const url = 'https://m.uber.com/go?action=setPickup&pickup=my_location&dropoff[latitude]=' + lat + '&dropoff[longitude]=' + lng + '&dropoff[nickname]=' + encodeURIComponent(name);
-  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">🚗</a>';
+  const drop = JSON.stringify({latitude: lat, longitude: lng, addressLine1: name});
+  const url = 'https://m.uber.com/looking?drop%5B0%5D=' + encodeURIComponent(drop) + '&pickup=my_location';
+  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">Uber</a>';
 }
 
 // 排序狀態
@@ -914,7 +910,6 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📍 按右下角 GPS 按鈕啟用定位，即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
-<button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="定位我的位置">📍</button>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 </body>
 </html>
