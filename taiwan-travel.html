@@ -202,7 +202,6 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .geo-btn.loading{background:#ff9800;animation:spin 1s linear infinite;}
 .geo-banner{position:fixed;top:0;left:0;right:0;z-index:1002;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:14px 20px;text-align:center;font-size:14px;box-shadow:0 2px 12px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;gap:10px;animation:slideDown .4s ease;}
 .geo-banner.hide{display:none;}
-body.has-banner .hamburger{top:52px;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
 .geo-banner button:hover{background:#e8f0fe;}
 .uber-link{display:inline-flex;align-items:center;justify-content:center;background:#000;color:#fff;font-size:10px;font-weight:700;text-decoration:none;margin-left:4px;vertical-align:middle;border-radius:4px;padding:2px 6px;letter-spacing:0.5px;}
@@ -852,20 +851,17 @@ function getUserLocation() {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
-      document.body.classList.remove('has-banner');
       render();
     },
     (err) => {
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
-      document.body.classList.remove('has-banner');
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
 }
 
-// 用座標反查縣市
 function distBadge(lat, lng) {
   if (!userLocation || lat == null || lng == null) return '';
   const d = haversine(userLocation.lat, userLocation.lng, lat, lng);
