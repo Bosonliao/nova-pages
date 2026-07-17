@@ -77,22 +77,23 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .route-card .stop a:hover{text-decoration:underline;}
 .route-card .stop-arrow{color:#999;padding:3px 2px;font-size:12px;}
 
-.food-card{background:#fff;border-radius:12px;padding:12px 16px;margin-bottom:8px;box-shadow:0 2px 10px rgba(0,0,0,.05);display:flex;align-items:flex-start;gap:8px;transition:all .2s;}
-.food-card .icon{font-size:20px;flex-shrink:0;}
-.food-card .info{flex:1;min-width:0;}
-.food-card .name{font-weight:700;color:#e65100;font-size:16px;}
-.food-card .desc{font-size:12px;color:#777;margin-top:2px;}
-.food-card .glink{flex-shrink:0;font-size:12px;color:#1a73e8;text-decoration:none;background:#e8f0fe;border-radius:6px;padding:4px 10px;white-space:nowrap;}
-.food-card .glink:hover{background:#d2e3fc;}
-.card-actions{display:flex;flex-direction:row;align-items:center;gap:6px;flex-shrink:0;margin-top:6px;}
+.food-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);display:flex;flex-direction:column;gap:6px;transition:box-shadow .2s,transform .2s;border-left:4px solid #A8DADC;}
+.food-card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.1);}
+.food-card .icon{font-size:18px;flex-shrink:0;display:inline;margin-right:4px;}
+.food-card .info{width:100%;}
+.food-card .name{font-weight:700;color:#264653;font-size:1.05rem;line-height:1.35;}
+.food-card .desc{font-size:0.85rem;color:#6B7B7E;line-height:1.5;margin-top:2px;}
+.food-card .glink{flex-shrink:0;font-size:0.85rem;color:#2A9D8F;text-decoration:none;white-space:nowrap;transition:color .2s;}
+.food-card .glink:hover{color:#E76F51;}
+.card-actions{display:flex;flex-direction:row;align-items:center;gap:6px;flex-shrink:0;margin-top:4px;}
 .food-cat-bar{display:flex;flex-wrap:wrap;gap:4px;padding:6px 10px;margin-bottom:4px;background:#fff;border-top:1px solid #eee;justify-content:center;}
 .food-cat-btn{border:1px solid #e0e0e0;border-radius:14px;padding:3px 10px;font-size:13px;background:#fff;color:#555;cursor:pointer;white-space:nowrap;}
 .food-cat-btn:hover{background:#fff3e0;border-color:#ffb74d;}
 .food-cat-btn.active{background:#e65100;color:#fff;border-color:#e65100;}
-.food-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:3px;}
-.food-tag{font-size:10px;background:#f5f5f5;color:#888;border-radius:4px;padding:1px 6px;}
+.food-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px;}
+.food-tag{font-size:0.68rem;font-weight:600;padding:3px 10px;border-radius:10px;background:#E9F5F4;color:#1D6F64;white-space:nowrap;}
 .food-tag.popular{background:#ff6f00;color:#fff;border:1px solid #e65100;font-weight:700;}
-.food-card[data-popular="1"]{border-left:4px solid #ff6f00;background:linear-gradient(90deg,#fff8e1 0%,#ffffff 30%);}
+.food-card[data-popular="1"]{border-left:4px solid #ff6f00;background:linear-gradient(90deg,#fff8e1 0%,#ffffff 40%);}
 .food-card[data-popular="1"] .name{color:#e65100;}
 .food-tag.michelin-star{background:#b71c1c;color:#fff;border:1px solid #b71c1c;font-weight:700;}
 .food-tag.michelin-bib{background:#ff6f00;color:#fff;border:1px solid #ff6f00;font-weight:600;}
@@ -154,7 +155,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
   .stat-card{min-width:65px;padding:8px 12px;}.stat-card .num{font-size:20px;}
   .stat-card .num{font-size:22px;}
 
-  .tab{font-size:14px;padding:6px 10px;}.food-card{flex-wrap:wrap;}
+  .tab{font-size:14px;padding:6px 10px;}
   .food-card .glink{margin-top:4px;}
 }
 .overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.4);z-index:999;}
@@ -671,9 +672,8 @@ function renderTab(routes,food,spots,souvenirs){
         const michelinTag = hasTag(f,'michelin-star') ? '\u003cspan class="food-tag michelin-star"\u003e\u7c73\u5176\u6797\u003c/span\u003e' : hasTag(f,'michelin-bib') ? '\u003cspan class="food-tag michelin-bib"\u003e\u5fc5\u6bd4\u767b\u003c/span\u003e' : hasTag(f,'michelin-selected') ? '\u003cspan class="food-tag michelin-selected"\u003e\u7c73\u5176\u6797\u5165\u9078\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
-          <div class="icon">🍽</div>
           <div class="info">
-            <div class="name">${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}</div>
+            <div class="name">🍽 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}</div>
             <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
             <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</div>
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
@@ -706,9 +706,8 @@ function renderTab(routes,food,spots,souvenirs){
         const footSoakTag = isFootSoak ? '\u003cspan class="food-tag footsoak"\u003e\ud83e\uddb6 \u6ce1\u8173\u5496\u5561\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
-          \u003cdiv class="icon"\u003e\ud83c\udf74\u003c/div\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003c/div\u003e
+            \u003cdiv class="name"\u003e\ud83c\udf74 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
             \u003cdiv class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/div\u003e
 
@@ -755,9 +754,8 @@ function renderTab(routes,food,spots,souvenirs){
           ratingHtml += `</span>`;
         }
         return `<div class="food-card">
-          <div class="icon">📸</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">📸 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
             <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
@@ -797,9 +795,8 @@ function renderTab(routes,food,spots,souvenirs){
           ratingHtml += `</span>`;
         }
         return `<div class="food-card">
-          <div class="icon">🏪</div>
           <div class="info">
-            <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="name">🏪 ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
             <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
