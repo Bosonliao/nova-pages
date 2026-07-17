@@ -319,7 +319,6 @@ function toggleSidebar(){
 }
 
 function selectCounty(c){
-  currentCounty = c;
   currentTab = 'food';
   document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
   const item = document.querySelector(`[data-county="${c}"]`);
