@@ -22251,6 +22251,150 @@
       "dishes": [],
       "lat": 25.0306999,
       "lng": 121.538605
+    },
+    {
+      "name": "素元齋Vegan",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "公館鄉",
+      "rating": 4.8,
+      "reviews": 56,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0136509,
+      "lng": 121.5349726
+    },
+    {
+      "name": "妙觀音素食-公館汀州店",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "公館鄉",
+      "rating": 4.8,
+      "reviews": 572,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0135532,
+      "lng": 121.5342346
+    },
+    {
+      "name": "小蔬杭 絕對蔬食(台大二活店）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "公館鄉",
+      "rating": 4.7,
+      "reviews": 2779,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0127898,
+      "lng": 121.5367879
+    },
+    {
+      "name": "公館VEGAN素食麻辣臭豆腐-No.54號攤",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "公館鄉",
+      "rating": 4.4,
+      "reviews": 341,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0132594,
+      "lng": 121.5352346
+    },
+    {
+      "name": "新卡莎素食西餐廳",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "公館鄉",
+      "rating": 4.3,
+      "reviews": 723,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0147648,
+      "lng": 121.5334323
+    },
+    {
+      "name": "全養知異國蔬食 莊敬店",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "信義鄉",
+      "rating": 4.8,
+      "reviews": 1251,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0269014,
+      "lng": 121.567031
+    },
+    {
+      "name": "廣香廚素食館",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "信義鄉",
+      "rating": 4.5,
+      "reviews": 412,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0270054,
+      "lng": 121.5666478
+    },
+    {
+      "name": "BaganHood 蔬食餐酒館",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "信義鄉",
+      "rating": 4.5,
+      "reviews": 1962,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0443206,
+      "lng": 121.5634869
+    },
+    {
+      "name": "草蔬宴義式蔬食餐廳",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "信義鄉",
+      "rating": 4.4,
+      "reviews": 1696,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0430055,
+      "lng": 121.5628404
     }
   ]
 }

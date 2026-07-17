@@ -2946,22 +2946,6 @@
       "lng": 120.9249865
     },
     {
-      "name": "全養知異國蔬食 莊敬店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義鄉",
-      "rating": 4.8,
-      "reviews": 1251,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0269014,
-      "lng": 121.567031
-    },
-    {
       "name": "賓飲涼品複合式蔬食餐飲",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "南投市",
@@ -5999,38 +5983,6 @@
       "lng": 120.9718638
     },
     {
-      "name": "廣香廚素食館",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義鄉",
-      "rating": 4.5,
-      "reviews": 412,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0270054,
-      "lng": 121.5666478
-    },
-    {
-      "name": "BaganHood 蔬食餐酒館",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義鄉",
-      "rating": 4.5,
-      "reviews": 1962,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0443206,
-      "lng": 121.5634869
-    },
-    {
       "name": "埔里~樂川茶食(蔬食,",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "埔里鎮",
@@ -7380,22 +7332,6 @@
       "dishes": [],
       "lat": 23.8149254,
       "lng": 120.8545611
-    },
-    {
-      "name": "草蔬宴義式蔬食餐廳",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "信義鄉",
-      "rating": 4.4,
-      "reviews": 1696,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0430055,
-      "lng": 121.5628404
     },
     {
       "name": "蔬香素食",

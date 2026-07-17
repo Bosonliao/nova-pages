@@ -1593,22 +1593,6 @@
       "lng": 120.7881685
     },
     {
-      "name": "素元齋Vegan",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "公館鄉",
-      "rating": 4.8,
-      "reviews": 56,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0136509,
-      "lng": 121.5349726
-    },
-    {
       "name": "快樂蘇打苗栗店",
       "description": "招牌台菜令人愉悅，人氣餐廳讓人流連忘返。",
       "area": "苗栗市",
@@ -2287,22 +2271,6 @@
       "lng": 121.03351
     },
     {
-      "name": "妙觀音素食-公館汀州店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "公館鄉",
-      "rating": 4.8,
-      "reviews": 572,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0135532,
-      "lng": 121.5342346
-    },
-    {
       "name": "美鳳的家",
       "description": "中式餐廳，在地美味",
       "area": "三灣鄉",
@@ -2515,22 +2483,6 @@
       "dishes": [],
       "lat": 24.6248068,
       "lng": 120.8613785
-    },
-    {
-      "name": "小蔬杭 絕對蔬食(台大二活店）",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "公館鄉",
-      "rating": 4.7,
-      "reviews": 2779,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0127898,
-      "lng": 121.5367879
     },
     {
       "name": "天慈素食Day and Night Vegetarian Restaurant",
@@ -6057,22 +6009,6 @@
       "lng": 120.8211796
     },
     {
-      "name": "公館VEGAN素食麻辣臭豆腐-No.54號攤",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 341,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0132594,
-      "lng": 121.5352346
-    },
-    {
       "name": "阿花素食小吃店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "後龍鎮",
@@ -7261,22 +7197,6 @@
       "dishes": [],
       "lat": 24.4438984,
       "lng": 120.6530936
-    },
-    {
-      "name": "新卡莎素食西餐廳",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "公館鄉",
-      "rating": 4.3,
-      "reviews": 723,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0147648,
-      "lng": 121.5334323
     },
     {
       "name": "大湖珍珍小吃",
