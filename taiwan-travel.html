@@ -209,7 +209,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
 /* 距離標籤 */
-.dist-badge{display:inline-flex;align-items:center;gap:2px;margin-left:6px;font-size:11px;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 8px;white-space:nowrap;}
+.dist-badge{display:inline-flex;align-items:center;gap:2px;margin-left:6px;font-size:14px;font-weight:600;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 8px;white-space:nowrap;}
 .dist-badge.near{color:#2e7d32;background:#e8f5e9;}
 .dist-badge.far{color:#757575;background:#f5f5f5;}
 /* 排序按鈕 */
@@ -268,6 +268,90 @@ let currentCounty = '台北';
 let currentTab = 'routes';
 
 const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜蘭":"yilan","桃園":"taoyuan","新竹":"hsinchu","苗栗":"miaoli","台中":"taichung","南投":"nantou","彰化":"changhua","雲林":"yunlin","嘉義":"chiayi","台南":"tainan","高雄":"kaohsiung","屏東":"pingtung","花蓮":"hualien","台東":"taitung","澎湖":"penghu","金馬":"kinmen"};
+
+// 台灣19縣市中心座標（用於 GPS 自動偵測最近縣市）
+const CITY_CENTER = {
+  "基隆":{lat:25.1276,lng:121.7392},
+  "台北":{lat:25.0330,lng:121.5654},
+  "新北":{lat:25.0120,lng:121.4650},
+  "宜蘭":{lat:24.7021,lng:121.7390},
+  "桃園":{lat:24.9936,lng:121.3010},
+  "新竹":{lat:24.8016,lng:120.9686},
+  "苗栗":{lat:24.5600,lng:120.8210},
+  "台中":{lat:24.1477,lng:120.6047},
+  "南投":{lat:23.8388,lng:120.9870},
+  "彰化":{lat:24.0883,lng:120.5410},
+  "雲林":{lat:23.7277,lng:120.3897},
+  "嘉義":{lat:23.4597,lng:120.2542},
+  "台南":{lat:22.9908,lng:120.2133},
+  "高雄":{lat:22.6273,lng:120.3014},
+  "屏東":{lat:22.6692,lng:120.4879},
+  "花蓮":{lat:23.9871,lng:121.6016},
+  "台東":{lat:22.7583,lng:121.1444},
+  "澎湖":{lat:23.5650,lng:119.6150},
+  "金馬":{lat:24.4340,lng:118.3170}
+};
+
+// GPS 自動偵測最近的縣市
+let autoDetectedCounty = null;
+let autoDetectedArea = null;
+
+function detectNearestCounty(lat, lng){
+  let nearest = null;
+  let minDist = Infinity;
+  for(const c of ORDER){
+    const center = CITY_CENTER[c];
+    if(!center) continue;
+    const d = haversine(lat, lng, center.lat, center.lng);
+    if(d < minDist){ minDist = d; nearest = c; }
+  }
+  return nearest;
+}
+
+// 根據 GPS 座標找到最近的區域(area)
+function detectNearestArea(lat, lng){
+  const d = DATA[currentCounty];
+  if(!d || !d.food) return null;
+  let nearest = null;
+  let minDist = Infinity;
+  d.food.forEach(f=>{
+    if(f.lat != null && f.lng != null && f.area){
+      const dist = haversine(lat, lng, f.lat, f.lng);
+      if(dist < minDist){ minDist = dist; nearest = f.area; }
+    }
+  });
+  return nearest;
+}
+
+function autoSwitchCounty(lat, lng){
+  const county = detectNearestCounty(lat, lng);
+  if(!county || county === currentCounty) return;
+  autoDetectedCounty = county;
+  autoDetectedArea = null;
+  selectCounty(county);
+  // 優先切換到距離排序
+  sortMode = 'distance';
+  // 等資料載入完成後再偵測區域
+  setTimeout(()=>{
+    const area = detectNearestArea(lat, lng);
+    if(area){
+      autoDetectedArea = area;
+      // 計算顯示名稱（與 area-btn 的顯示邏輯一致）
+      let displayArea = area.replace(/[鄉鎮市]$/, '');
+      if (displayArea.length > 2 && displayArea.endsWith('區')) displayArea = displayArea.slice(0, -1);
+      if (area === '平鎮區') displayArea = '平鎮';
+      if (displayArea.endsWith('平')) displayArea = displayArea + '鎮';
+      // 找到對應的 area-btn 並點擊
+      const btns = document.querySelectorAll('.area-btn');
+      btns.forEach(b=>{
+        if(b.textContent.trim() === displayArea || b.textContent.trim() === area){
+          filterArea(b, area);
+          return;
+        }
+      });
+    }
+  }, 1500);
+}
 
 // Load metadata + nightmarkets first (small files)
 Promise.all([
@@ -531,7 +615,10 @@ function render(){
       <div class="main-header">
         <h2>${currentCounty}</h2>
         ${tips?`<div class="tips">${tips}</div>`:''}
-        <div class="update-time">更新於 ${DATA._updatedAt || '未知'}</div>
+        <div class="header-right-info" style="font-size:12px; color:#666; text-align:right;">
+          <div>更新於 2026-07-17</div>
+          <div>版次 V1.17</div>
+        </div>
       </div>
       
       <div class="tabs">
@@ -606,6 +693,10 @@ function renderTab(routes,food,spots,souvenirs){
     areaList.forEach(a=>{
       let displayA = a.replace(/[鄉鎮市]$/, '');
       if (displayA.length > 2 && displayA.endsWith('區')) displayA = displayA.slice(0, -1);
+      // 例外：平鎮區維持「平鎮」
+      if (a === '平鎮區') displayA = '平鎮';
+      // 例外：結尾是「平」時補回「鎮」字
+      if (displayA.endsWith('平')) displayA = displayA + '鎮';
       areaBar += `<button class="food-cat-btn area-btn" onclick="filterArea(this,'${a}')">${displayA}</button>`;
     });
     areaBar += '</div>';
@@ -620,8 +711,8 @@ function renderTab(routes,food,spots,souvenirs){
     // 排序按鈕（僅定位後顯示距離排序）
     if (userLocation) {
       catBar += '<div style="margin:4px 0 8px;">';
-      catBar += `<span class="sort-btn ${sortMode==='weighted'?'active':''}" onclick="setSortMode('weighted')">📊 加權排序</span>`;
       catBar += `<span class="sort-btn ${sortMode==='distance'?'active':''}" onclick="setSortMode('distance')">📏 距離排序</span>`;
+      catBar += `<span class="sort-btn ${sortMode==='weighted'?'active':''}" onclick="setSortMode('weighted')">📊 加權排序</span>`;
       catBar += '</div>';
     }
     // Sort food: weighted score (rating * log reviews) + small boost for _sort (食尚玩家)
@@ -658,9 +749,8 @@ function renderTab(routes,food,spots,souvenirs){
   const link = gmapLink(f.name, currentCounty + (firstCat?' '+firstCat:''));
         let ratingHtml = '';
         if(f.rating !== null && f.rating !== undefined && f.rating > 0){
-          const stars = '★'.repeat(Math.round(f.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          const stars = '★'.repeat(1);
+          ratingHtml = `<span class="rating"><span class="stars">${stars}</span> ${f.rating}`;
           if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}則)</span>`;
           }
@@ -668,13 +758,13 @@ function renderTab(routes,food,spots,souvenirs){
         }
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
-        const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
+        const popularTag = isPopular ? '<span class="food-tag popular">人氣</span>' : '';
         const michelinTag = hasTag(f,'michelin-star') ? '\u003cspan class="food-tag michelin-star"\u003e\u7c73\u5176\u6797\u003c/span\u003e' : hasTag(f,'michelin-bib') ? '\u003cspan class="food-tag michelin-bib"\u003e\u5fc5\u6bd4\u767b\u003c/span\u003e' : hasTag(f,'michelin-selected') ? '\u003cspan class="food-tag michelin-selected"\u003e\u7c73\u5176\u6797\u5165\u9078\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `<div class="food-card" data-cats="${(f.categories||['其他']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="0">
           <div class="info">
-            <div class="name">🍽 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</span></div>
-            <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
+            <div class="name">${f.name}${ratingHtml}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</span></div>
+            <div class="food-tags">${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${sstcTag}${cats}</div>
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
@@ -690,9 +780,8 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(f.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(f.rating !== null && f.rating !== undefined && f.rating > 0){
-          const stars = '★'.repeat(Math.round(f.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(f.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${f.rating}`;
+          const stars = '★'.repeat(1);
+          ratingHtml = `<span class="rating"><span class="stars">${stars}</span> ${f.rating}`;
           if(f.reviews !== null && f.reviews !== undefined && f.reviews > 0){
             ratingHtml += ` <span class="reviews">(${f.reviews.toLocaleString()}則)</span>`;
           }
@@ -700,15 +789,15 @@ function renderTab(routes,food,spots,souvenirs){
         }
         const cats = (f.categories||['其他']).map(c=>`<span class="food-tag">${c}</span>`).join('');
         const isPopular = (f.rating>=4.0 && f.reviews>=1000);
-        const popularTag = isPopular ? '<span class="food-tag popular">🔥 人氣</span>' : '';
+        const popularTag = isPopular ? '<span class="food-tag popular">人氣</span>' : '';
         const michelinTag = hasTag(f,'michelin-star') ? '\u003cspan class="food-tag michelin-star"\u003e\u7c73\u5176\u6797\u003c/span\u003e' : hasTag(f,'michelin-bib') ? '\u003cspan class="food-tag michelin-bib"\u003e\u5fc5\u6bd4\u767b\u003c/span\u003e' : hasTag(f,'michelin-selected') ? '\u003cspan class="food-tag michelin-selected"\u003e\u7c73\u5176\u6797\u5165\u9078\u003c/span\u003e' : '';
         const isFootSoak = (f.description||'').includes('\u6ce1\u8173')||(f.name||'').includes('\u6ce1\u8173');
         const footSoakTag = isFootSoak ? '\u003cspan class="food-tag footsoak"\u003e\ud83e\uddb6 \u6ce1\u8173\u5496\u5561\u003c/span\u003e' : '';
         const sstcTag = (hasTag(f,'sp')) ? '\u003cspan class="food-tag sstc"\u003e\ud83c\udfa5 \u98df\u5c1a\u73a9\u5bb6\u003c/span\u003e' : '';
         return `\u003cdiv class="food-card" data-cats="${(f.categories||['\u5176\u4ed6']).join(',')}" data-popular="${isPopular?1:0}" data-michelin="${(hasTag(f,'michelin-star')||hasTag(f,'michelin-bib')||hasTag(f,'michelin-selected'))?1:0}" data-footsoak="${isFootSoak?1:0}"\u003e
           \u003cdiv class="info"\u003e
-            \u003cdiv class="name"\u003e\ud83c\udf74 ${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003cspan class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/span\u003e\u003c/div\u003e
-            \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
+            \u003cdiv class="name"\u003e ${f.name}${ratingHtml}\u003cspan class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/span\u003e\u003c/div\u003e
+            \u003cdiv class="food-tags"\u003e${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
@@ -744,9 +833,8 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(s.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(s.rating !== null && s.rating !== undefined){
-          const stars = '★'.repeat(Math.round(s.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(s.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${s.rating}`;
+          const stars = '★'.repeat(1);
+          ratingHtml = `<span class="rating"><span class="stars">${stars}</span> ${s.rating}`;
           if(s.reviews !== null && s.reviews !== undefined){
             ratingHtml += ` <span class="reviews">(${s.reviews.toLocaleString()}則)</span>`;
           }
@@ -784,9 +872,8 @@ function renderTab(routes,food,spots,souvenirs){
         const link = gmapLink(s.name, currentCounty + ' ' + area);
         let ratingHtml = '';
         if(s.rating !== null && s.rating !== undefined){
-          const stars = '★'.repeat(Math.round(s.rating));
-          const emptyStars = '☆'.repeat(5 - Math.round(s.rating));
-          ratingHtml = `<span class="rating"><span class="stars">${stars}${emptyStars}</span> ${s.rating}`;
+          const stars = '★'.repeat(1);
+          ratingHtml = `<span class="rating"><span class="stars">${stars}</span> ${s.rating}`;
           if(s.reviews !== null && s.reviews !== undefined){
             ratingHtml += ` <span class="reviews">(${s.reviews.toLocaleString()}則)</span>`;
           }
@@ -829,6 +916,8 @@ function renderTab(routes,food,spots,souvenirs){
       const typeColor = type==='夜市'?'#7b1fa2':type==='老街'?'#5d4037':type==='商圈'?'#00695c':'#37474f';
       return `<div class="nm-card" data-nm-type="${type}" style="border-left-color:${typeColor}">
         <div class="nm-info">
+
+
           <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</span><span class="nm-days">${m.openDays}</span></div>
           <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
@@ -845,7 +934,7 @@ let userLocation = null; // {lat, lng}
 function haversine(lat1, lng1, lat2, lng2) {
   const R = 6371; // 地球半徑 km
   const dLat = (lat2 - lat1) * Math.PI / 180;
-  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180 / 180;
   const a = Math.sin(dLat/2) ** 2 + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLng/2) ** 2;
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 }
@@ -857,6 +946,8 @@ function getUserLocation() {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
+      // 自動偵測最近縣市並切換
+      autoSwitchCounty(userLocation.lat, userLocation.lng);
       render();
     },
     (err) => {
@@ -872,7 +963,7 @@ function distBadge(lat, lng) {
   if (!userLocation || lat == null || lng == null) return '';
   const d = haversine(userLocation.lat, userLocation.lng, lat, lng);
   let cls = d < 5 ? 'near' : d > 50 ? 'far' : '';
-  return ` <span class="dist-badge ${cls}">📏 ${d.toFixed(1)}km</span>`;
+  return ` <span class="dist-badge ${cls}">${d.toFixed(1)}km</span>`;
 }
 
 function uberLink(lat, lng, name) {
