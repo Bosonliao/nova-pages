@@ -856,12 +856,12 @@ function getUserLocation() {
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       const banner = document.getElementById('geo-banner');
-      if (banner) banner.classList.add('hide');
+      if (banner) banner.innerHTML = '<span>✅ 定位成功！距離已顯示</span>';
       render();
     },
     (err) => {
       const banner = document.getElementById('geo-banner');
-      if (banner) banner.classList.add('hide');
+      if (banner) banner.innerHTML = '<span>⚠️ 定位失敗，請點「手動選擇」</span>';
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
@@ -898,7 +898,6 @@ function manualLocation(){
     const banner = document.getElementById('geo-banner');
     if(banner){
       banner.innerHTML = '<span>✅ 已設定位置：' + city + '市中心（距離為預估值）</span>';
-      setTimeout(() => { banner.classList.add('hide'); }, 3000);
     }
     render();
   }
