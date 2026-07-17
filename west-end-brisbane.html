@@ -450,6 +450,8 @@
 .dish-item .dish-desc{color:#795548;font-size:12px;}
 .dish-item .dish-price{font-weight:600;color:#2e7d32;font-size:12px;margin-left:4px;}
 .geo-btn{position:fixed;bottom:20px;right:20px;z-index:999;background:#1a73e8;color:#fff;border:none;border-radius:50%;width:40px;height:40px;font-size:18px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.2);transition:all .3s;display:flex;align-items:center;justify-content:center;opacity:0.6;}
+.uber-link{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;background:#000;color:#fff;font-size:12px;text-decoration:none;margin-left:4px;vertical-align:middle;}
+.uber-link:hover{background:#333;transform:scale(1.1);}
 .geo-banner{position:fixed;top:0;left:0;right:0;z-index:1000;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:14px 20px;text-align:center;font-size:14px;box-shadow:0 2px 12px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;gap:10px;animation:slideDown .4s ease;}
 .geo-banner.hide{display:none;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
@@ -918,6 +920,12 @@ function setSortMode(mode) {
   render();
 }
 
+function uberLink(lat, lng, name) {
+  if (lat == null || lng == null) return '';
+  const url = 'https://m.uber.com/go?action=setPickup&pickup=my_location&dropoff[latitude]=' + lat + '&dropoff[longitude]=' + lng + '&dropoff[nickname]=' + encodeURIComponent(name);
+  return ' <a class="uber-link" href="' + url + '" target="_blank" title="叫 Uber">🚗</a>';
+}
+
 function render() {
   // Route tab: show routes, hide grid
   if (activeFilter === 'route') {
@@ -996,7 +1004,7 @@ function render() {
     <div class="card${popularClass}" data-cat="${item.cat}">
       <div class="card-head">
         <div>
-          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${award2Badge} ${award3Badge} ${linkIcon} ${distBadge(item.lat, item.lng)}</div>
+          <div class="card-name">${item.name} ${popularBadge} ${awardBadge} ${award2Badge} ${award3Badge} ${linkIcon} ${uberLink(item.lat, item.lng, item.name)} ${distBadge(item.lat, item.lng)}</div>
           ${ratingHtml}
         </div>
         <span class="card-tag">${item.tag}</span>
@@ -1035,7 +1043,7 @@ getUserLocation();
   <div>✨ 星思旅食快查指南 · <a href="https://novamind.tw" style="color:var(--teal);text-decoration:none;">novamind.tw</a> · 由 Nova 製作維護 · 2026-07-14</div>
   <div style="margin-top:6px;opacity:0.6;">資料來源：Google Maps · AGFG · Broadsheet · Gourmet Traveller</div>
 </footer>
-<div id="geo-banner" class="geo-banner"><span>📏 啟用定位來顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
+<div id="geo-banner" class="geo-banner"><span>📍 按右下角 GPS 按鈕啟用定位，即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 <button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="My location">📍</button>
 </body>
 </html>
