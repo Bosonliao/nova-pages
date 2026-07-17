@@ -864,19 +864,26 @@ function getUserLocation() {
     }
   } catch(e) {}
   // 重新定位
+  let gotResponse = false;
   navigator.geolocation.getCurrentPosition(
     (pos) => {
+      gotResponse = true;
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       try { localStorage.setItem('userLocation', JSON.stringify(userLocation)); } catch(e) {}
       hideBanner();
       render();
     },
     (err) => {
+      gotResponse = true;
       hideBanner();
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
+  // 保護：如果 12 秒內沒回應，強制隱藏 banner
+  setTimeout(() => {
+    if (!gotResponse) { hideBanner(); render(); }
+  }, 12000);
 }
 
 // 用座標反查縣市
@@ -917,6 +924,6 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button><span style="font-size:10px;opacity:0.6;cursor:pointer;margin-left:8px;" onclick="alert('userLocation: '+JSON.stringify(userLocation)+'\nlocalStorage: '+(localStorage.getItem('userLocation')||'null'))">?</span></div>
 </body>
 </html>
