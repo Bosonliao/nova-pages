@@ -770,16 +770,6 @@
       "lng": 121.5300045
     },
     {
-      "name": "九斗村農場(官方LINEID:@abc101洽詢、預約請加入)團康大型活動 家庭日 戶外教學 迎新露營 有機農場生態現採蔬果 推薦人氣好玩",
-      "description": "位於台北近郊的有機休閒農場，提供團康活動、露營、生態導覽與現採蔬果體驗，適合家庭出遊、戶外教學與企業家庭日活動。",
-      "area": "其他",
-      "rating": 4.9,
-      "reviews": 17598,
-      "tags": [],
-      "lat": 24.9607349,
-      "lng": 121.1289554
-    },
-    {
       "name": "大湖公園",
       "description": "位於台北內湖的都會公園，以白鷺鷥造型的錦帶橋與湖光山色聞名，環湖步道與錦帶橋倒影是台北最美的拍照景點之一。",
       "area": "其他",
@@ -2825,22 +2815,6 @@
       "dishes": [],
       "lat": 25.052685,
       "lng": 121.520391
-    },
-    {
-      "name": "《擼吉霸》正宗成都四川麻辣串串火鍋創始店｜全台最多種擼串｜人氣平價麻辣｜宵夜、聚餐、包埸｜捷運站美食｜串串｜火鍋｜麻辣｜宵夜｜林森北路美食｜中山區美食｜四川串串｜美食推薦",
-      "description": "四川串串，擁有全台最多種擼串，超人氣平價麻辣宵夜。",
-      "area": "中山",
-      "rating": 4.9,
-      "reviews": 10985,
-      "categories": [
-        "火鍋"
-      ],
-      "category": "火鍋",
-      "tags": [],
-      "_sort": 3,
-      "dishes_searched": true,
-      "lat": 30.5722599,
-      "lng": 104.0665099
     },
     {
       "name": "1+1鍋物—忠孝店",
@@ -10349,22 +10323,6 @@
       "lng": 121.4426363
     },
     {
-      "name": "淡海阿婆小吃店（週日店休，其他公休看臉書）",
-      "description": "",
-      "area": "",
-      "rating": 4.4,
-      "reviews": 596,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.183236,
-      "lng": 121.4198701
-    },
-    {
       "name": "口福早餐店",
       "description": "提供美味咖啡與多樣早餐，讓你的一天從這裡開始。",
       "area": "",
@@ -13649,22 +13607,6 @@
       "dishes": [],
       "lat": 25.1700038,
       "lng": 121.4402777
-    },
-    {
-      "name": "新翠園美食",
-      "description": "夜市小吃多樣選擇，食客口碑極佳，讓人欲罷不能。",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 279,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.1761009,
-      "lng": 121.4264302
     },
     {
       "name": "丰清揚小吃店",
@@ -17178,25 +17120,6 @@
       "lng": 121.5720055
     },
     {
-      "name": "牡丹 (Mudani)",
-      "description": "大安區的日式天婦羅專門店，米其林二星，全台唯一獲二星的天婦羅餐廳",
-      "area": "",
-      "rating": 4.6,
-      "reviews": 666,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "star",
-      "category": "中式",
-      "tags": [
-        "michelin-star"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 25.060363,
-      "lng": 121.849732
-    },
-    {
       "name": "Wok by Radici",
       "description": "中山區的創新菜餐廳，米其林一星，由知名酒吧Tei by O'bond經營者創立",
       "area": "信義",
@@ -17423,25 +17346,6 @@
       "dishes": [],
       "lat": 25.0350403,
       "lng": 121.5079264
-    },
-    {
-      "name": "飛龍肉圓",
-      "description": "台北知名肉圓專賣店，米其林入選，以皮薄餡多的肉圓聞名",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 1200,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 24.8017467,
-      "lng": 120.9637306
     },
     {
       "name": "維多麗亞 N°168 Prime",
@@ -17680,25 +17584,6 @@
       "lng": 121.5233334
     },
     {
-      "name": "阿基師觀海茶樓",
-      "description": "知名台菜餐廳，米其林入選，由阿基師主持",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 800,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 25.1815815,
-      "lng": 121.4159164
-    },
-    {
       "name": "Cuisine M",
       "description": "精緻料理餐廳，米其林入選",
       "area": "信義",
@@ -17872,25 +17757,6 @@
       "dishes": [],
       "lat": 25.0447021,
       "lng": 121.5219894
-    },
-    {
-      "name": "食不厭",
-      "description": "食不厭是台菜餐廳，米其林入選",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 25.112006,
-      "lng": 121.847796
     },
     {
       "name": "碳佐麻里",
@@ -19494,25 +19360,6 @@
       "lng": 121.5493491
     },
     {
-      "name": "寬哥那邊",
-      "description": "寬哥那邊是台菜餐廳，米其林入選",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 300,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 25.0587956,
-      "lng": 121.8221011
-    },
-    {
       "name": "美濃樓",
       "description": "美濃樓是客家菜餐廳，米其林入選",
       "area": "",
@@ -19587,25 +19434,6 @@
       "dishes": [],
       "lat": 25.0804515,
       "lng": 121.5589435
-    },
-    {
-      "name": "茶寮",
-      "description": "茶寮是日式茶飲店，米其林入選",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 300,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 25.0149532,
-      "lng": 121.2853805
     },
     {
       "name": "金牌黑店",
@@ -20719,25 +20547,6 @@
       "dishes": [],
       "lat": 25.0560001,
       "lng": 121.510546
-    },
-    {
-      "name": "田媽媽北門",
-      "description": "田媽媽北門是傳統台菜餐廳，米其林必比登推介",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 0,
-      "dishes": [],
-      "lat": 23.2866026,
-      "lng": 120.1242853
     },
     {
       "name": "多麼咖啡",
@@ -22256,6 +22065,38 @@
       "dishes": [],
       "lat": 25.0756389,
       "lng": 121.5763836
+    },
+    {
+      "name": "田中園 (大安店)",
+      "description": "知名夜市小吃, 提供美味小點心，適合隨時品嘗",
+      "area": "",
+      "rating": 4.4,
+      "reviews": 476,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0249441,
+      "lng": 121.5433783
+    },
+    {
+      "name": "Miss Energy 能量小姐 新北比漾 直營門市 低卡餐盒|低脂便當|健身餐盒|健康餐盒|商務便當|必吃便當|減脂餐|低卡美食",
+      "description": "低卡餐盒選擇多樣，健身族群的健康美食首選。",
+      "area": "",
+      "rating": 4.4,
+      "reviews": 338,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 25.0169826,
+      "lng": 121.4627868
     }
   ]
 }

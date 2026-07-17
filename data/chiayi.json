@@ -1329,24 +1329,6 @@
       "lng": 120.449629
     },
     {
-      "name": "布袋高跟鞋教堂周邊小吃",
-      "description": "布袋高跟鞋教堂周邊小吃, 中式台菜小吃，超人氣美食吸引眾多食客光臨。",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 26380,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [
-        "非餐廳"
-      ],
-      "lat": 23.3777863,
-      "lng": 120.1487636
-    },
-    {
       "name": "東石烤鮮蚵",
       "description": "東石漁港現烤鮮蚵肥美多汁擠檸檬汁最鮮甜吃法",
       "area": "",
@@ -2088,23 +2070,6 @@
       "lng": 120.1551632
     },
     {
-      "name": "喵子食堂ニャンコ-日式家庭料理·洋食",
-      "description": "",
-      "area": "西區",
-      "rating": 4.9,
-      "reviews": 368,
-      "address": "",
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9890143,
-      "lng": 120.1947816
-    },
-    {
       "name": "台北深坑脆皮臭豆腐嘉義蒜頭店",
       "description": "",
       "area": "六腳鄉",
@@ -2375,54 +2340,6 @@
       "dishes": [],
       "lat": 23.4980543,
       "lng": 120.3814864
-    },
-    {
-      "name": "布袋漁港海鮮",
-      "description": "觀光魚市現流海鮮新鮮魚蟹蝦貝海港直送",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 6003,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.3839703750904,
-      "lng": 120.1546001037253
-    },
-    {
-      "name": "東石漁港海鮮",
-      "description": "直送海鮮餐廳新鮮蚵仔魚蟹蝦貝海港第一手鮮甜",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 7009,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.45071858489107,
-      "lng": 120.1376390996579
-    },
-    {
-      "name": "東石蚵仔",
-      "description": "東石特產鮮蚵肥美多汁現烤鮮蚵蚵仔煎蚵仔麵線海港必吃",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 4752,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.4513027,
-      "lng": 120.1352366
     },
     {
       "name": "初·仨食（無訂位）",
@@ -2856,35 +2773,6 @@
       ],
       "lat": 23.47148,
       "lng": 120.4448829
-    },
-    {
-      "name": "Ice樂冰屋 嘉義冰店/雪花冰/傳統冰/三色布丁豆花/嫩仙草/不定期店休,請來電確認",
-      "description": "傳統冰品與創意雪花冰，讓你享受清涼甜蜜的滋味。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 218,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [
-        {
-          "name": "雪花冰",
-          "description": "多種口味雪花冰，傳統冰品"
-        },
-        {
-          "name": "三色布丁豆花",
-          "description": "招牌豆花搭配布丁，古早味甜點"
-        },
-        {
-          "name": "嫩仙草",
-          "description": "滑嫩仙草搭配配料，消暑首選"
-        }
-      ],
-      "lat": 24.1304164,
-      "lng": 120.6869713
     },
     {
       "name": "玖凉冰品·咖哩專賣店",
@@ -4763,23 +4651,6 @@
       "lng": 120.3786346
     },
     {
-      "name": "時時香 - 新竹巨城店",
-      "description": "",
-      "area": "東區",
-      "rating": 4.7,
-      "reviews": 5761,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.8094861,
-      "lng": 120.974721
-    },
-    {
       "name": "Agusto奧古斯托 牛排龍蝦餐酒館 大安店｜台北美食義式餐廳 生日聚餐包場推薦",
       "description": "",
       "area": "東區",
@@ -6254,22 +6125,6 @@
       "lng": 120.4534743
     },
     {
-      "name": "火力雞-火雞肉飯(平鎮店)",
-      "description": "招牌火雞肉飯味道鮮美, 吸引不少食客前來品嚐。",
-      "area": "",
-      "rating": 4.5,
-      "reviews": 1122,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.9296022,
-      "lng": 121.2053963
-    },
-    {
       "name": "火雞牧場火雞肉飯",
       "description": "美味火雞肉飯讓人垂涎，口碑不斷提升。",
       "area": "",
@@ -7464,23 +7319,6 @@
       "dishes": [],
       "lat": 23.382225,
       "lng": 120.1938248
-    },
-    {
-      "name": "GoodHouse好室好事",
-      "description": "",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 419,
-      "address": "",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9926545,
-      "lng": 120.2105635
     },
     {
       "name": "緩食 ゆっくり",
@@ -9353,23 +9191,6 @@
       "dishes": [],
       "lat": 23.4541353,
       "lng": 120.2975286
-    },
-    {
-      "name": "woosa洋食パンケーキ 屋莎洋食鬆餅屋 新竹巨城店",
-      "description": "",
-      "area": "東區",
-      "rating": 4.4,
-      "reviews": 2638,
-      "address": "",
-      "categories": [
-        "甜品"
-      ],
-      "category": "甜品",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.7920609,
-      "lng": 120.993378
     },
     {
       "name": "福山酒莊",
@@ -11401,28 +11222,6 @@
       "dishes": [],
       "lat": 23.5541309,
       "lng": 120.3456011
-    },
-    {
-      "name": "正統新加坡肉骨茶",
-      "description": "嘉義人氣肉骨茶，藥膳湯頭配排骨，暖胃十足",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 32766,
-      "categories": [
-        "異國"
-      ],
-      "category": "異國",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [
-        "肉骨茶",
-        "滷味拼盤",
-        "油條",
-        "排骨湯",
-        "花生"
-      ],
-      "lat": 1.352083,
-      "lng": 103.819836
     },
     {
       "name": "奮起湖甜甜圈",
@@ -14638,83 +14437,6 @@
       "lng": 120.5509358
     },
     {
-      "name": "阿明豬心冬粉",
-      "description": "",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 7047,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "sp",
-        "michelin-bib"
-      ],
-      "_sort": 2,
-      "dishes": [],
-      "lat": 22.9904542,
-      "lng": 120.1961378
-    },
-    {
-      "name": "阿星鹹粥",
-      "description": "",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 2818,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 23.0000073,
-      "lng": 120.1922409
-    },
-    {
-      "name": "大勇街無名鹹粥",
-      "description": "",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 3310,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.9898423,
-      "lng": 120.1933084
-    },
-    {
-      "name": "阿文米粿",
-      "description": "米粿口感Q彈，搭配多樣醬料，令人回味無窮。",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 2253,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.9904781,
-      "lng": 120.1960822
-    },
-    {
       "name": "阿美飯店",
       "description": "",
       "area": "西區",
@@ -14732,25 +14454,6 @@
       "dishes": [],
       "lat": 23.475947,
       "lng": 120.4403124
-    },
-    {
-      "name": "麥謎食驗室",
-      "description": "精緻甜品與咖啡，氛圍悠閒，適合約會與放鬆。",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 331,
-      "categories": [
-        "咖啡廳"
-      ],
-      "michelin": "bib",
-      "category": "咖啡廳",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.99197,
-      "lng": 120.2081856
     },
     {
       "name": "誠實鍋燒意麵",
@@ -14791,25 +14494,6 @@
       "lng": 120.4464299
     },
     {
-      "name": "福泰飯桌第三代",
-      "description": "傳承經典台菜，讓您品味道地家常滋味。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 1303,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.9957939,
-      "lng": 120.2050935
-    },
-    {
       "name": "好農家米糕",
       "description": "",
       "area": "西區",
@@ -14828,25 +14512,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "西羅殿牛肉湯",
-      "description": "經典牛肉湯，湯頭濃郁，肉質鮮嫩。",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 5625,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 23.001528,
-      "lng": 120.2074439
     },
     {
       "name": "開元紅燒土魠魚羮",
@@ -14926,25 +14591,6 @@
       "lng": 120.4404113
     },
     {
-      "name": "三好一公道當歸鴨",
-      "description": "當歸鴨麵食，滋補美味，令人回味無窮。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 233,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.9891525,
-      "lng": 120.2108317
-    },
-    {
       "name": "鮮蒸蝦仁肉圓",
       "description": "肉圓鮮嫩多汁，夜市小吃的代表。",
       "area": "西區",
@@ -14963,25 +14609,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "小公園擔仔麵",
-      "description": "",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 1339,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 22.9971649,
-      "lng": 120.1996052
     },
     {
       "name": "一味品",
@@ -15003,45 +14630,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "筑馨居",
-      "description": "",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 1656,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 23.000299,
-      "lng": 120.194981
-    },
-    {
-      "name": "下大道蘭米糕",
-      "description": "",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 2287,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9898958,
-      "lng": 120.1939339
-    },
-    {
       "name": "康樂街牛肉湯",
       "description": "牛肉湯熬煮入味，暖心美食受歡迎。",
       "area": "西區",
@@ -15059,44 +14647,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "保安路米糕",
-      "description": "米糕香滑可口，夜市小吃人氣選擇。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 2397,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9902938,
-      "lng": 120.1972159
-    },
-    {
-      "name": "水仙宮曾家古早味麻糬",
-      "description": "",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 144,
-      "categories": [
-        "中式"
-      ],
-      "tags": [
-        "sp"
-      ],
-      "category": "中式",
-      "_sort": 2,
-      "dishes": [],
-      "lat": 22.9966622,
-      "lng": 120.1976321
     },
     {
       "name": "無名米糕",
@@ -15117,155 +14667,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "富盛號",
-      "description": "超人氣餐廳，提供多樣化的美味料理選擇",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 6923,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [
-        "sp"
-      ],
-      "_sort": 2,
-      "dishes": [],
-      "lat": 22.9975504,
-      "lng": 120.199
-    },
-    {
-      "name": "蓮霧腳羊肉湯",
-      "description": "當歸湯底羊肉湯，70年老店",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 416,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [],
-      "_sort": 1,
-      "dishes": [],
-      "lat": 23.0344907,
-      "lng": 120.3082679
-    },
-    {
-      "name": "慈氏素食軒",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 5,
-      "reviews": 2,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9973917,
-      "lng": 120.1984827
-    },
-    {
-      "name": "My老爹紅茶屋",
-      "description": "招牌紅茶與小吃結合, 受歡迎的咖啡喫茶店。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 777,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9968391,
-      "lng": 120.198719
-    },
-    {
-      "name": "巷丼食堂",
-      "description": "樸實的小型餐館，供應日式家常料理。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 2374,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9898041,
-      "lng": 120.1966883
-    },
-    {
-      "name": "雛菊餐桌-台南府前店｜生日慶生｜甜點｜聚餐｜台南美食",
-      "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 14841,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [
-        "at DuckDuckGo",
-        "招牌 at DuckDuckGo",
-        "推薦 招牌 at DuckDuckGo",
-        "手搖推薦 甜點推薦 買一送一 優惠訊息"
-      ],
-      "lat": 22.9927633,
-      "lng": 120.1872501
-    },
-    {
-      "name": "艷食堂",
-      "description": "提供色香味俱全的台菜，深受食客喜愛，人氣不斷上升。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 523,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [
-        {
-          "name": "鐵板煎牛舌",
-          "description": "台南首創的早午餐牛舌套餐，牛舌切得有厚度且煎得外香內嫩、肉汁飽滿。"
-        },
-        {
-          "name": "馬鈴薯千層",
-          "description": "網友評價極高的精緻單品，層次分明，外皮金黃酥脆、內裡鬆軟可口。"
-        },
-        {
-          "name": "厚切炸咖哩豬排",
-          "description": "厚切豬排炸至金黃酥脆，肉質紮實有彈性，搭配濃郁的特製咖哩醬汁。"
-        }
-      ],
-      "lat": 22.992977,
-      "lng": 120.2035595
-    },
-    {
-      "name": "負債女孩［6/21.22公休］",
-      "description": "",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 1902,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9994822,
-      "lng": 120.1961488
-    },
-    {
       "name": "大丸家",
       "description": "氣氛悠閒的餐廳，供應咖哩、飯食、雞肉料理和手工甜甜圈。",
       "area": "西區",
@@ -15280,83 +14681,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "尚品丰禾食(素食日料/壽司/串燒)(收客至2030)",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 945,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9844944,
-      "lng": 120.2056839
-    },
-    {
-      "name": "三津制麵x水萬湯麵Vegan",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.8,
-      "reviews": 243,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [
-        {
-          "name": "自製拉麵",
-          "description": "全素自製拉麵，日式文青風老宅宅麵店，寵物友善"
-        },
-        {
-          "name": " Vegan湯麵",
-          "description": "純素湯頭搭配手工麵條，清爽健康無負擔"
-        },
-        {
-          "name": "季節蔬菜麵",
-          "description": "使用當季蔬菜的素食麵品，新鮮美味"
-        }
-      ],
-      "lat": 22.9887567,
-      "lng": 120.194623
-    },
-    {
-      "name": "THE CARGO茶屋",
-      "description": "",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 815,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9944276,
-      "lng": 120.1972983
-    },
-    {
-      "name": "小北家灶咖ZAOKA",
-      "description": "",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 3400,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9990604,
-      "lng": 120.1992421
     },
     {
       "name": "戰鬥雞",
@@ -15375,38 +14699,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "順慶海鮮粥麵",
-      "description": "新鮮海鮮與粥麵完美結合，適合喜愛海味的食客。",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 583,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9967161,
-      "lng": 120.198668
-    },
-    {
-      "name": "純古味素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 296,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9888119,
-      "lng": 120.2088793
-    },
-    {
       "name": "純素食堂",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西區",
@@ -15421,103 +14713,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "舒濃蔬食料理",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.7,
-      "reviews": 117,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9817443,
-      "lng": 120.2116751
-    },
-    {
-      "name": "米寓",
-      "description": "樸實的餐廳，供應早午餐、輕食、甜點、鬆餅、咖啡和茶飲。",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 705,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9959083,
-      "lng": 120.197181
-    },
-    {
-      "name": "食東西自助餐廳",
-      "description": "豐富多樣的自助餐選擇，讓食客無法抗拒，超人氣。",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 3177,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9893644,
-      "lng": 120.1997232
-    },
-    {
-      "name": "皮嚓先生",
-      "description": "",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 1081,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9938714,
-      "lng": 120.2075149
-    },
-    {
-      "name": "水仙宮三兄弟魚湯店",
-      "description": "鮮魚湯濃郁，湯頭清爽，夜市中不可錯過的美味。",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 1391,
-      "categories": [
-        "中式"
-      ],
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9965899,
-      "lng": 120.1985186
-    },
-    {
-      "name": "村吉蔬素食養生創意料理",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.6,
-      "reviews": 366,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9988178,
-      "lng": 120.198607
     },
     {
       "name": "小碟子vegan手作蔬食",
@@ -15536,38 +14731,6 @@
       "lng": 120.4491113
     },
     {
-      "name": "子龍點鴨 正興本店-中西區鴨肉羹推薦|外帶美食|特色小吃|道地美食|平價美食|在地小吃推薦|鴨肉切盤|鴨肉飯推薦",
-      "description": "鴨肉羹與切盤必試, 超人氣在地小吃。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 2721,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.995529,
-      "lng": 120.2098422
-    },
-    {
-      "name": "Second Floor 貳樓台南店",
-      "description": "創意台菜與經典口味交融，吸引眾多食客，超人氣餐廳。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 2446,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9993676,
-      "lng": 120.1864624
-    },
-    {
       "name": "老宅·南",
       "description": "古色古香的環境中享受傳統台菜，吸引不少食客光臨。",
       "area": "西區",
@@ -15582,103 +14745,6 @@
       "dishes": [],
       "lat": 23.4800751,
       "lng": 120.4491113
-    },
-    {
-      "name": "蛸屋本舖",
-      "description": "精緻的台菜料理，雖評論數稍少但仍受食客喜愛。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 804,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9946256,
-      "lng": 120.200207
-    },
-    {
-      "name": "米玥麻糬堂 - 台南國華店",
-      "description": "特色麻糬口感Q彈, 受歡迎的夜市小吃。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 565,
-      "categories": [
-        "中式"
-      ],
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9932316,
-      "lng": 120.1974875
-    },
-    {
-      "name": "蔡家糙米碗粿",
-      "description": "健康糙米碗粿, 受到食客喜愛的人氣小吃。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 334,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9982484,
-      "lng": 120.1990325
-    },
-    {
-      "name": "日月禪食養生蔬食館",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 281,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9851015,
-      "lng": 120.2028933
-    },
-    {
-      "name": "太郎中華拉麵 純素",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 1626,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9943769,
-      "lng": 120.2001012
-    },
-    {
-      "name": "台南愛家古都蔬食(Loving Hut)",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 307,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9841629,
-      "lng": 120.2056834
     },
     {
       "name": "水仙宮古早味鍋燒麵",
@@ -15698,119 +14764,6 @@
       "lng": 120.4491113
     },
     {
-      "name": "好曬（以instagram資訊為主）",
-      "description": "充滿復古氛圍的溫馨餐館，供應肉類及海鮮義大利麵及輕食。",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 900,
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9913651,
-      "lng": 120.2007725
-    },
-    {
-      "name": "綣綣屋 台南國華總店",
-      "description": "",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 1667,
-      "categories": [
-        "中式"
-      ],
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9936344,
-      "lng": 120.1976231
-    },
-    {
-      "name": "麵條王海產麵",
-      "description": "新鮮海鮮搭配麵條, 人氣十足的台菜美食。",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 1307,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9968239,
-      "lng": 120.1982456
-    },
-    {
-      "name": "福味珍手作魚丸",
-      "description": "手工製作的魚丸，鮮嫩口感令人無法抗拒。",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 106,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9966751,
-      "lng": 120.198032
-    },
-    {
-      "name": "三元齋素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 635,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.992523,
-      "lng": 120.2073247
-    },
-    {
-      "name": "佛世緣素食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.4,
-      "reviews": 1153,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.0008641,
-      "lng": 120.1973397
-    },
-    {
-      "name": "陳家阿嬤拔絲地瓜—高雄&台南",
-      "description": "特色拔絲地瓜，外脆內軟的美味甜點，令人驚艷。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 215,
-      "categories": [
-        "甜品"
-      ],
-      "category": "甜品",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.0041071,
-      "lng": 120.1908676
-    },
-    {
       "name": "春蚵嗲",
       "description": "",
       "area": "西區",
@@ -15826,38 +14779,6 @@
       "dishes": [],
       "lat": 23.4756276,
       "lng": 120.4476938
-    },
-    {
-      "name": "修安扁擔豆花 Xiu'an Douhua",
-      "description": "綿密豆花搭配多種配料，超人氣甜品，冰品的最佳選擇。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 5799,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9971844,
-      "lng": 120.1987348
-    },
-    {
-      "name": "國華美食魷魚羹",
-      "description": "鮮美魷魚羹湯頭清甜，適合喜愛海鮮的人士。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 142,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9932669,
-      "lng": 120.197495
     },
     {
       "name": "吉慶行",
@@ -15876,38 +14797,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "福欣素食坊",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 207,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9896355,
-      "lng": 120.2047791
-    },
-    {
-      "name": "添厚家常手路",
-      "description": "提供溫暖的家常料理，讓人倍感親切。",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 423,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9969473,
-      "lng": 120.2004723
-    },
-    {
       "name": "國華街肉燥飯",
       "description": "醇厚肉燥飯，搭配香氣四溢的醬汁，人氣美食。",
       "area": "西區",
@@ -15924,22 +14813,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "好味紅燒𩵚魠魚羹",
-      "description": "魚羹湯頭鮮美, 受喜愛的小吃選擇。",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 1096,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9975245,
-      "lng": 120.198996
-    },
-    {
       "name": "秀里蚵嗲",
       "description": "在地人激推老字號，肥美蚵仔一吃愛上，炸得酥脆金黃",
       "area": "西區",
@@ -15954,54 +14827,6 @@
       "dishes": [],
       "lat": 23.4756276,
       "lng": 120.4476938
-    },
-    {
-      "name": "十平",
-      "description": "氛圍愜意的小巧日式餐廳，設有吧台座位。",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 1376,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9957517,
-      "lng": 120.2043788
-    },
-    {
-      "name": "炸雞洋行(歡迎電話預訂)",
-      "description": "招牌炸雞外酥內嫩，人氣小吃，歡迎電話預訂。",
-      "area": "西區",
-      "rating": 4.2,
-      "reviews": 2129,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9942462,
-      "lng": 120.1973897
-    },
-    {
-      "name": "穀粒自然風味 Guli Natural Vegan House",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 99,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.991665,
-      "lng": 120.189901
     },
     {
       "name": "阿婆魯麵",
@@ -16021,22 +14846,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "福樓餐廳",
-      "description": "",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 2013,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9891517,
-      "lng": 120.1883476
-    },
-    {
       "name": "永樂牛肉湯",
       "description": "平實的餐廳，供應在地特色牛肉湯，並設有少量戶外座位。",
       "area": "西區",
@@ -16051,22 +14860,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "水仙宮粽葉米糕",
-      "description": "",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 1632,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9965199,
-      "lng": 120.1984857
     },
     {
       "name": "江川肉燥飯",
@@ -16085,87 +14878,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "鴨米•鴨米脆皮薯條專賣店",
-      "description": "招牌脆皮薯條口感酥脆, 人氣小吃專賣。",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 652,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9919958,
-      "lng": 120.1971744
-    },
-    {
-      "name": "水仙宮飯丸",
-      "description": "口感Q彈的飯丸，結合多種餡料，深受夜市遊客喜愛。",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 512,
-      "categories": [
-        "中式"
-      ],
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9986454,
-      "lng": 120.1967885
-    },
-    {
-      "name": "達也濱家漁場",
-      "description": "超人氣海鮮小吃，鮮美的漁獲讓人一試成主顧。",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 1158,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9968031,
-      "lng": 120.1978045
-    },
-    {
-      "name": "水仙宮煎餃肉圓",
-      "description": "香脆的煎餃搭配多汁肉圓，讓你一次滿足。",
-      "area": "西區",
-      "rating": 4.1,
-      "reviews": 290,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9986961,
-      "lng": 120.195882
-    },
-    {
-      "name": "邱家小卷米粉",
-      "description": "中西區民生路必吃，小卷新鮮大器米粉特別，湯頭清甜不腥",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 8842,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9992354,
-      "lng": 120.199585
-    },
-    {
       "name": "阿財香腸熟肉",
       "description": "台南中西區保安路必吃，香腸熟肉大腸香腸米腸，沾蒜醬配薑片越吃越順口",
       "area": "西區",
@@ -16180,55 +14892,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "七誠米粿",
-      "description": "口感Q彈的米粿，搭配多樣醬料，超人氣夜市小吃。",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 2404,
-      "categories": [
-        "中式"
-      ],
-      "nm_area": "武聖夜市",
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.9958018,
-      "lng": 120.1981319
-    },
-    {
-      "name": "黃家鱔魚意麵",
-      "description": "鱔魚意麵濃郁美味, 超人氣的麵食選擇。",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 3244,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.996477,
-      "lng": 120.198469
-    },
-    {
-      "name": "韓氏古早味油飯",
-      "description": "傳統油飯味道香醇, 受歡迎的台式小吃選擇。",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 182,
-      "categories": [
-        "中式"
-      ],
-      "tags": [],
-      "category": "中式",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 22.996924,
-      "lng": 120.1981286
     },
     {
       "name": "葉桑生炒鴨肉羹",
@@ -16296,22 +14959,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "蜷尾家甘味處",
-      "area": "西區",
-      "description": "台南人氣霜淇淋店，每日限定口味",
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "rating": 4.1,
-      "reviews": 7075,
-      "dishes": [],
-      "lat": 22.9943353,
-      "lng": 120.1971048
-    },
-    {
       "name": "正興咖啡館",
       "area": "西區",
       "description": "正興街老宅咖啡，手沖甜點文創風",
@@ -16344,22 +14991,6 @@
       "lng": 120.4435979
     },
     {
-      "name": "莉莉水果店",
-      "area": "西區",
-      "description": "台南經典水果冰店，八十多年歷史",
-      "categories": [
-        "咖啡廳"
-      ],
-      "category": "咖啡廳",
-      "tags": [],
-      "_sort": 3,
-      "rating": 4.3,
-      "reviews": 6670,
-      "dishes": [],
-      "lat": 22.9890496,
-      "lng": 120.204125
-    },
-    {
       "name": "isucafe isu咖啡",
       "area": "西區",
       "description": "台南巷弄質感咖啡，法式甜點手沖",
@@ -16374,26 +15005,6 @@
       "dishes": [],
       "lat": 23.4772399,
       "lng": 120.4406613
-    },
-    {
-      "name": "萬川號",
-      "description": "台南府城百年老餅舖，創立於1871年，招牌香濃肉包和水晶餃，米其林指南入選。",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 470,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民生路二段 36 號",
-      "dishes": [],
-      "lat": 22.9919988,
-      "lng": 120.2076422
     },
     {
       "name": "甘淬",
@@ -16414,46 +15025,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "六千牛肉湯",
-      "description": "台南知名牛肉湯店，每日現宰溫體牛，大排長龍，米其林指南入選。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 2500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民權路二段 6 號",
-      "dishes": [],
-      "lat": 22.9892199,
-      "lng": 120.1948478
-    },
-    {
-      "name": "度小月擔仔麵（本舖）",
-      "description": "台南百年老店，創立於1895年，傳承四代的擔仔麵，米其林指南入選店家。",
-      "area": "西區",
-      "rating": 4,
-      "reviews": 3500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民族路二段 36 號",
-      "dishes": [],
-      "lat": 22.9923333,
-      "lng": 120.2037083
     },
     {
       "name": "帝一鐤",
@@ -16516,26 +15087,6 @@
       "lng": 120.4242406
     },
     {
-      "name": "阿村第二代牛肉湯",
-      "description": "台南知名牛肉湯店，第二代傳承，溫體牛肉新鮮現切，米其林指南入選。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 2000,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民族路二段 36 號",
-      "dishes": [],
-      "lat": 22.9902056,
-      "lng": 120.1965775
-    },
-    {
       "name": "原則 (Principle)",
       "description": "台南精緻料理餐廳，米其林指南入選，以創新烹調手法呈現在地食材。",
       "area": "西區",
@@ -16554,46 +15105,6 @@
       "dishes": [],
       "lat": 23.4803991,
       "lng": 120.4242406
-    },
-    {
-      "name": "室町鰻丼三吃",
-      "description": "台南鰻魚飯專賣店，米其林指南入選，提供道地鰻丼三吃體驗。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 1500,
-      "categories": [
-        "日式"
-      ],
-      "michelin": "selected",
-      "category": "日式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民權路二段 6 號",
-      "dishes": [],
-      "lat": 22.9977554,
-      "lng": 120.1962568
-    },
-    {
-      "name": "㕩肉舖 (Pankoko)",
-      "description": "台南肉料理專賣店，米其林指南入選，以精緻肉品料理聞名。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 400,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民族路二段 36 號",
-      "dishes": [],
-      "lat": 22.9958764,
-      "lng": 120.2024869
     },
     {
       "name": "豐海鮮餐廳",
@@ -16676,26 +15187,6 @@
       "lng": 120.4426507
     },
     {
-      "name": "城前料理亭",
-      "description": "台南日式料理餐廳，米其林指南入選，提供精緻日式定食。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 300,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區府前路一段 16 號",
-      "dishes": [],
-      "lat": 22.9907131,
-      "lng": 120.1939852
-    },
-    {
       "name": "宇樂居酒屋",
       "description": "台南居酒屋，米其林指南入選，提供日式串燒和清酒。",
       "area": "西區",
@@ -16714,26 +15205,6 @@
       "dishes": [],
       "lat": 23.4753284,
       "lng": 120.4400112
-    },
-    {
-      "name": "阿江炒鱔魚",
-      "description": "台南炒鱔魚老店，米其林指南入選，以大火快炒鱔魚麵聞名。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 1500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "selected",
-      "category": "中式",
-      "tags": [
-        "michelin-selected"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區海安路一段 16 號",
-      "dishes": [],
-      "lat": 22.9983651,
-      "lng": 120.1969598
     },
     {
       "name": "阿裕牛肉涮涮鍋（崑崙店）",
@@ -16876,66 +15347,6 @@
       "lng": 120.4325316
     },
     {
-      "name": "八三鱔魚意麵",
-      "description": "台南鱔魚意麵老店，米其林必比登推介，以酸甜勾芡鱔魚意麵聞名。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 800,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區海安路一段 16 號",
-      "dishes": [],
-      "lat": 22.9962238,
-      "lng": 120.2045551
-    },
-    {
-      "name": "一味品碗粿",
-      "description": "台南碗粿專賣店，米其林必比登推介，以軟Q碗粿和醬料聞名。",
-      "area": "西區",
-      "rating": 4.5,
-      "reviews": 600,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區民族路二段 36 號",
-      "dishes": [],
-      "lat": 22.9975513,
-      "lng": 120.1988988
-    },
-    {
-      "name": "上海華都小吃",
-      "description": "台南上海菜小吃店，米其林必比登推介，提供道地上海味點心。",
-      "area": "西區",
-      "rating": 4.3,
-      "reviews": 500,
-      "categories": [
-        "中式"
-      ],
-      "michelin": "bib",
-      "category": "中式",
-      "tags": [
-        "michelin-bib"
-      ],
-      "_sort": 0,
-      "address": "台南市中西區海安路一段 16 號",
-      "dishes": [],
-      "lat": 22.9941042,
-      "lng": 120.2061947
-    },
-    {
       "name": "阿霞飯店",
       "description": "阿霞飯店是台南知名台菜餐廳，米其林必比登推介",
       "area": "西區",
@@ -16953,6 +15364,38 @@
       "dishes": [],
       "lat": 23.4827247,
       "lng": 120.448874
+    },
+    {
+      "name": "阿宏師火雞肉飯-光華總店",
+      "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
+      "area": "",
+      "rating": 4.1,
+      "reviews": 9157,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 23.4785816,
+      "lng": 120.4522296
+    },
+    {
+      "name": "嘉林火雞肉飯",
+      "description": "火雞肉飯口味佳，肉汁豐富，受到食客一致好評，值得一試。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 256,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 23.494266,
+      "lng": 120.456447
     }
   ]
 }

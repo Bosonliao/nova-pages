@@ -656,6 +656,16 @@
       "description": "各式小吃匯聚，超人氣美食天堂",
       "lat": 24.9919474,
       "lng": 121.3072513
+    },
+    {
+      "name": "九斗村農場(官方LINEID:@abc101洽詢、預約請加入)團康大型活動 家庭日 戶外教學 迎新露營 有機農場生態現採蔬果 推薦人氣好玩",
+      "description": "位於台北近郊的有機休閒農場，提供團康活動、露營、生態導覽與現採蔬果體驗，適合家庭出遊、戶外教學與企業家庭日活動。",
+      "area": "其他",
+      "rating": 4.9,
+      "reviews": 17598,
+      "tags": [],
+      "lat": 24.9607349,
+      "lng": 121.1289554
     }
   ],
   "souvenirs": [
@@ -2107,22 +2117,6 @@
       "lng": 121.2188184
     },
     {
-      "name": "鯓．魚片－新北三峽｜日式料理 推薦 人氣 三峽北大 平價美食 熱門 新鮮生魚片拚盤 刺身專賣 評價 高CP值 炙燒干貝 胭脂蝦 好評 午餐晚餐宵夜 啤 酒 外帶 必吃丼飯 價格 優惠",
-      "description": "日式料理專賣，新鮮生魚片拚盤及丼飯，高CP值的平價選擇。",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 301,
-      "categories": [
-        "日式"
-      ],
-      "category": "日式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.9426464,
-      "lng": 121.3737687
-    },
-    {
       "name": "初鍋趣-新莊八德店-新莊熱門鍋物|特色鍋物|人氣鍋物|四季火鍋|必吃火鍋|精緻鍋物|在地推薦火鍋|必吃涮涮鍋",
       "description": "精緻鍋物讓你在火鍋中品味四季的美好，人氣火鍋推薦。",
       "area": "八德",
@@ -2838,22 +2832,6 @@
       ],
       "lat": 24.882263,
       "lng": 121.2099722
-    },
-    {
-      "name": "北橫之星原味餐廳",
-      "description": "復興北橫公路原民餐廳山產野菜新鮮現炒馬告香腸特色必點",
-      "area": "",
-      "rating": 4.8,
-      "reviews": 1690,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.7674732,
-      "lng": 121.3510284
     },
     {
       "name": "NU PASTA 楊梅店",
@@ -8474,22 +8452,6 @@
       "lng": 121.291153
     },
     {
-      "name": "Ikinari steak 桃園春日店【人氣日本和牛】|高級西餐廳推薦|熱門現切牛排|首選厚切牛排館|無骨牛小排|家庭聚餐慶生|老饕肋眼|排隊商業午餐|必吃和牛套餐",
-      "description": "招牌厚切牛排, 必吃和牛套餐，人氣高級西餐廳，適合家庭聚餐慶生。",
-      "area": "桃園",
-      "rating": 4.5,
-      "reviews": 493,
-      "categories": [
-        "西式"
-      ],
-      "category": "西式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 36.204824,
-      "lng": 138.252924
-    },
-    {
       "name": "鴨肉扁客家小吃",
       "description": "傳統客家美食, 鴨肉料理的最佳選擇。",
       "area": "楊梅",
@@ -13737,22 +13699,6 @@
       "lng": 121.1538349
     },
     {
-      "name": "真味阿國鵝肉",
-      "description": "蘆竹南崁在地鵝肉店現切鵝肉肉質鮮嫩鵝血糕米血必點小菜",
-      "area": "",
-      "rating": 4.2,
-      "reviews": 574,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.061987,
-      "lng": 121.288373
-    },
-    {
       "name": "大楊梅鵝莊",
       "description": "楊梅創始店，招牌白斬鵝肉、鵝腸、客家小炒，三代老店",
       "area": "楊梅",
@@ -18105,6 +18051,342 @@
       "dishes": [],
       "lat": 24.8202266,
       "lng": 121.287072
+    },
+    {
+      "name": "火力雞-火雞肉飯(平鎮店)",
+      "description": "招牌火雞肉飯味道鮮美, 吸引不少食客前來品嚐。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 1122,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9296022,
+      "lng": 121.2053963
+    },
+    {
+      "name": "阿婆臭豆腐",
+      "description": "湖口車站旁飄香40年臭豆腐外酥內嫩咬下爆汁自製泡菜蒜泥酸爽",
+      "area": "",
+      "rating": 4,
+      "reviews": 135,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9021791,
+      "lng": 121.0459604
+    },
+    {
+      "name": "尋路Cafe《全日供餐》",
+      "description": "提供多樣化的咖啡和輕食，讓您享受悠閒的用餐時光。",
+      "area": "",
+      "rating": 4.3,
+      "reviews": 825,
+      "categories": [
+        "咖啡廳"
+      ],
+      "tags": [],
+      "category": "咖啡廳",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.921154,
+      "lng": 121.056184
+    },
+    {
+      "name": "漁師 小料理",
+      "description": "地道台菜與海鮮，讓人感受家的溫暖。",
+      "area": "",
+      "rating": 4.8,
+      "reviews": 1541,
+      "categories": [
+        "日式"
+      ],
+      "category": "日式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9618676,
+      "lng": 121.2258771
+    },
+    {
+      "name": "李媽媽黃金QQ球",
+      "description": "",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 113,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9593689,
+      "lng": 121.2150127
+    },
+    {
+      "name": "小時厚牛排-桃園平鎮店",
+      "description": "人氣牛排店, 讓你享受豐富的用餐體驗。",
+      "area": "",
+      "rating": 4.1,
+      "reviews": 1328,
+      "categories": [
+        "西式"
+      ],
+      "category": "西式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9544671,
+      "lng": 121.2069862
+    },
+    {
+      "name": "善園客家小館",
+      "description": "提供地道的客家家常菜，讓每位食客感受家的溫暖。",
+      "area": "",
+      "rating": 4.3,
+      "reviews": 970,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9416033,
+      "lng": 121.2246657
+    },
+    {
+      "name": "有煎平價牛排",
+      "description": "提供實惠的美味牛排, 適合各種預算的消費者。",
+      "area": "",
+      "rating": 4.4,
+      "reviews": 870,
+      "categories": [
+        "西式"
+      ],
+      "category": "西式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9581865,
+      "lng": 121.2179865
+    },
+    {
+      "name": "熾焰美式炭烤牛排The Flame STEAK HOUSE",
+      "description": "",
+      "area": "",
+      "rating": 4.4,
+      "reviews": 1209,
+      "categories": [
+        "西式"
+      ],
+      "category": "西式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9630737,
+      "lng": 121.201246
+    },
+    {
+      "name": "巴豆夭牛排",
+      "description": "鮮嫩牛排與道地台菜結合，人氣餐廳，吸引眾多食客光臨。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 1130,
+      "categories": [
+        "西式"
+      ],
+      "category": "西式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9590561,
+      "lng": 121.2143662
+    },
+    {
+      "name": "Jun. B 禾荷咖啡店",
+      "description": "特色咖啡，舒適環境，是享受悠閒時光的理想場所。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 536,
+      "categories": [
+        "咖啡廳"
+      ],
+      "category": "咖啡廳",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9563853,
+      "lng": 121.2050696
+    },
+    {
+      "name": "肉先生牛排館",
+      "description": "專注牛排的美味，搭配精緻台菜，深受食客喜愛。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 962,
+      "categories": [
+        "西式"
+      ],
+      "category": "西式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9510496,
+      "lng": 121.2121392
+    },
+    {
+      "name": "厚冶 Bakery & Cafe",
+      "description": "精緻糕點與咖啡完美結合，超人氣的早午餐選擇。",
+      "area": "",
+      "rating": 4.6,
+      "reviews": 2922,
+      "categories": [
+        "咖啡廳"
+      ],
+      "tags": [],
+      "category": "咖啡廳",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9583797,
+      "lng": 121.1839644
+    },
+    {
+      "name": "日日朝食(平鎮總店)",
+      "description": "",
+      "area": "",
+      "rating": 4.9,
+      "reviews": 4271,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9403397,
+      "lng": 121.2121777
+    },
+    {
+      "name": "QQ田甜品工坊-桃園龍潭大池店-龍潭創意日式冰品|首選手作冰店|日式特色冰店|人氣冰店|熱門手作豆花仙草甜湯店|水果冰品|必吃人氣甜品|在地推薦冰店",
+      "description": "人氣日式手作冰品，創意水果冰和豆花仙草讓人回味無窮。",
+      "area": "",
+      "rating": 4.7,
+      "reviews": 511,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.8617042,
+      "lng": 121.2100481
+    },
+    {
+      "name": "里歐歐式早餐-中壢民權店",
+      "description": "提供多樣化的歐式早餐選擇，讓你每天都有新鮮感。",
+      "area": "",
+      "rating": 4.1,
+      "reviews": 385,
+      "categories": [
+        "咖啡廳"
+      ],
+      "category": "咖啡廳",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9721514,
+      "lng": 121.2053963
+    },
+    {
+      "name": "里歐歐式早午餐中壢中北店",
+      "description": "中壢中北店提供豐富的早午餐，讓你一天開始充滿活力。",
+      "area": "",
+      "rating": 4.4,
+      "reviews": 537,
+      "categories": [
+        "咖啡廳"
+      ],
+      "category": "咖啡廳",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9721514,
+      "lng": 121.2053963
+    },
+    {
+      "name": "Eat here 吃這 炭火土司 早午餐 (平鎮總店）",
+      "description": "招牌炭火土司早午餐令人垂涎，人氣餐廳之一。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 1429,
+      "categories": [
+        "咖啡廳"
+      ],
+      "category": "咖啡廳",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9296022,
+      "lng": 121.2053963
+    },
+    {
+      "name": "早點名早午餐（手桿不認酥蛋餅專賣店）中壢美食、中壢早午餐、銅板美食、人氣商店",
+      "description": "專賣手桿不認酥蛋餅，成為當地的銅板美食人氣商店。",
+      "area": "",
+      "rating": 4.7,
+      "reviews": 239,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9721514,
+      "lng": 121.2053963
+    },
+    {
+      "name": "弘爺漢堡/文化聖祥店-平鎮人氣早午餐|熱門早午餐|在地推薦早午餐|外帶漢堡|外帶早午餐|CP漢堡|平價早午餐",
+      "description": "主打平鎮人氣早午餐，外帶漢堡和特色咖啡，讓你早晨充滿活力。",
+      "area": "",
+      "rating": 4.8,
+      "reviews": 366,
+      "categories": [
+        "咖啡廳"
+      ],
+      "category": "咖啡廳",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9296022,
+      "lng": 121.2053963
+    },
+    {
+      "name": "日日朝食(平鎮總店)",
+      "description": "超人氣台式早午餐，招牌菜品讓你回味無窮，滿足味蕾的最佳選擇。",
+      "area": "",
+      "rating": 4.9,
+      "reviews": 4271,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9296022,
+      "lng": 121.2053963
     }
   ]
 }

@@ -781,16 +781,6 @@
       "lng": 120.6705875
     },
     {
-      "name": "武陵農場",
-      "description": "位於台中市和平區的高山農場，海拔約1750公尺，以春季櫻花、秋季楓紅與高冷蔬菜聞名，是賞花避暑與親近自然的勝地。",
-      "area": "其他",
-      "rating": 4.6,
-      "reviews": 13753,
-      "tags": [],
-      "lat": 24.3450052,
-      "lng": 121.3082054
-    },
-    {
       "name": "新社莊園",
       "description": "位於台中新社的歐式庭園餐廳，以古堡建築與花園造景聞名，有台灣小歐洲之稱，提供下午茶與浪漫拍照場景。",
       "area": "其他",
@@ -809,16 +799,6 @@
       "tags": [],
       "lat": 24.180193,
       "lng": 120.733698
-    },
-    {
-      "name": "中社觀光花市",
-      "description": "位於台中后里的觀光花市，佔地廣大四季皆有不同花卉可賞，提供花卉採摘與園藝購買，是賞花拍照的熱門景點。",
-      "area": "其他",
-      "rating": 4.2,
-      "reviews": 18485,
-      "tags": [],
-      "lat": 24.3346766,
-      "lng": 120.7299995
     },
     {
       "name": "秋紅谷景觀生態公園",
@@ -2501,22 +2481,6 @@
       "dishes": [],
       "lat": 24.1466129,
       "lng": 120.6701438
-    },
-    {
-      "name": "木夏 Muxia深夜咖啡_酒吧_頌缽（頌缽服務需官方line預約) 深夜Cafe&BAR Coffee/Dessert/Cocktail/singing bowl",
-      "description": "",
-      "area": "",
-      "rating": 4.9,
-      "reviews": 377,
-      "categories": [
-        "咖啡廳"
-      ],
-      "tags": [],
-      "category": "咖啡廳",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 43.1041888,
-      "lng": -9.218291299999999
     },
     {
       "name": "火火燒肉販賣所 台中公益總店",
@@ -9667,22 +9631,6 @@
       "dishes": [],
       "lat": 24.2377939,
       "lng": 120.5854674
-    },
-    {
-      "name": "宮本武丼 南投草屯《日料美食》日式定食｜日式便當｜餐盒外送｜平價特色｜人氣丼飯｜熱門日料｜特色丼飯",
-      "description": "人氣日式丼飯，平價又美味，適合喜愛日料的你，值得一試。",
-      "area": "",
-      "rating": 4.7,
-      "reviews": 2044,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 23.9742855,
-      "lng": 120.6835658
     },
     {
       "name": "山倉蔬食",
@@ -26166,6 +26114,576 @@
       "dishes": [],
       "lat": 24.115465,
       "lng": 120.6539989
+    },
+    {
+      "name": "藝蔬創意蔬食 滷味鹹水G",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 5,
+      "reviews": 1,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1231436,
+      "lng": 120.6554858
+    },
+    {
+      "name": "善緣素食堂",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 5,
+      "reviews": 93,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.166321,
+      "lng": 120.6690022
+    },
+    {
+      "name": "樹中央蔬食早午餐",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 5,
+      "reviews": 27,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1201744,
+      "lng": 120.6539949
+    },
+    {
+      "name": "映象蔬食臭豆腐煎餃",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 5,
+      "reviews": 11,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1180316,
+      "lng": 120.6676551
+    },
+    {
+      "name": "阿喜家蘿蔔糕（素食）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.9,
+      "reviews": 212,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1201457,
+      "lng": 120.681164
+    },
+    {
+      "name": "饗樂蔬房🥬｜北區素食推薦｜台中素食餐廳｜義大利麵｜便當｜商業午餐｜推薦套餐｜捷運素食|天津路年貨大街|天津路素食|母親節素食餐廳",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.9,
+      "reviews": 204,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1700912,
+      "lng": 120.6725749
+    },
+    {
+      "name": "Gfood穀馥紅豆薏仁十穀健康美食/素食養生粥/大慶中山醫店",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.9,
+      "reviews": 29,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1148583,
+      "lng": 120.6517275
+    },
+    {
+      "name": "THE ARIGATOU 蔬食餐廳",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.8,
+      "reviews": 730,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [
+        {
+          "name": "綠寶石大地風味野菇燉飯",
+          "description": "推薦必點菜色"
+        },
+        {
+          "name": "法國頂級黑松露牛肝菌燉飯",
+          "description": "推薦必點菜色"
+        },
+        {
+          "name": "義大利經典煙花女義大利麵",
+          "description": "推薦必點菜色"
+        }
+      ],
+      "lat": 24.1577297,
+      "lng": 120.68412
+    },
+    {
+      "name": "易素緣 歡迎來電預訂（素食飯捲/火鍋/便當/各式麵類）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.8,
+      "reviews": 664,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1346845,
+      "lng": 120.6826691
+    },
+    {
+      "name": "寶芯素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.8,
+      "reviews": 33,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1284776,
+      "lng": 120.6789602
+    },
+    {
+      "name": "擺渡人文蔬食料理",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.8,
+      "reviews": 1106,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1595809,
+      "lng": 120.6807749
+    },
+    {
+      "name": "栗花蔬食料理｜北區蔬食聚餐推薦｜義式西式特色小點",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.8,
+      "reviews": 69,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1582723,
+      "lng": 120.6805565
+    },
+    {
+      "name": "大德素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.7,
+      "reviews": 205,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1595614,
+      "lng": 120.6785475
+    },
+    {
+      "name": "龍廚素食（純素無蛋無奶無五辛）（台式拉麵、拌飯）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.7,
+      "reviews": 655,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1643158,
+      "lng": 120.6824586
+    },
+    {
+      "name": "轉念蔬食料理",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.7,
+      "reviews": 88,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1716557,
+      "lng": 120.6747384
+    },
+    {
+      "name": "山上的蔬食野菜選物火鍋",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.6,
+      "reviews": 400,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1237072,
+      "lng": 120.6798345
+    },
+    {
+      "name": "美姨素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.6,
+      "reviews": 117,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1332404,
+      "lng": 120.6821882
+    },
+    {
+      "name": "未央蔬食炸物 素食鹽酥雞 (營業時間1500-2230,下午茶需求請提前一天預訂)",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.6,
+      "reviews": 202,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.124995,
+      "lng": 120.6750569
+    },
+    {
+      "name": "囍廚房蔬食早・午餐",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.6,
+      "reviews": 299,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1146806,
+      "lng": 120.6705339
+    },
+    {
+      "name": "天然素食午晚餐",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.6,
+      "reviews": 97,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1543874,
+      "lng": 120.6666219
+    },
+    {
+      "name": "佳旺素食(炸物、炒飯、便當、手工素料）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.5,
+      "reviews": 141,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1188793,
+      "lng": 120.671719
+    },
+    {
+      "name": "十方素食(五義街)",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.5,
+      "reviews": 555,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1545033,
+      "lng": 120.6816649
+    },
+    {
+      "name": "健康素食的家",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.5,
+      "reviews": 2,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1180905,
+      "lng": 120.6697609
+    },
+    {
+      "name": "雲羨坊（原夜光蔬食）食材用完會提早打烊~~再請先來電詢問。",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.4,
+      "reviews": 124,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1265084,
+      "lng": 120.6820008
+    },
+    {
+      "name": "小潛艇素食創意料理",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.4,
+      "reviews": 791,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1256805,
+      "lng": 120.6735772
+    },
+    {
+      "name": "忠義素食 國光店",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.4,
+      "reviews": 136,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1315655,
+      "lng": 120.6764832
+    },
+    {
+      "name": "澄心素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.3,
+      "reviews": 240,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1170116,
+      "lng": 120.6678368
+    },
+    {
+      "name": "韓閣蔬食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "北區",
+      "rating": 4.3,
+      "reviews": 729,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.169985,
+      "lng": 120.678243
+    },
+    {
+      "name": "唯吾知足自在素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.2,
+      "reviews": 954,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1299334,
+      "lng": 120.6822922
+    },
+    {
+      "name": "三姨素食",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4.1,
+      "reviews": 2281,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1298458,
+      "lng": 120.6621591
+    },
+    {
+      "name": "Nhà hàng chay Hakka（客家素食）",
+      "description": "素食餐廳，提供健康蔬食料理。",
+      "area": "南區",
+      "rating": 4,
+      "reviews": 549,
+      "categories": [
+        "素食"
+      ],
+      "tags": [],
+      "category": "素食",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.127922,
+      "lng": 120.6784096
+    },
+    {
+      "name": "Ice樂冰屋 嘉義冰店/雪花冰/傳統冰/三色布丁豆花/嫩仙草/不定期店休,請來電確認",
+      "description": "傳統冰品與創意雪花冰，讓你享受清涼甜蜜的滋味。",
+      "area": "西區",
+      "rating": 4.8,
+      "reviews": 218,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [
+        {
+          "name": "雪花冰",
+          "description": "多種口味雪花冰，傳統冰品"
+        },
+        {
+          "name": "三色布丁豆花",
+          "description": "招牌豆花搭配布丁，古早味甜點"
+        },
+        {
+          "name": "嫩仙草",
+          "description": "滑嫩仙草搭配配料，消暑首選"
+        }
+      ],
+      "lat": 24.1304164,
+      "lng": 120.6869713
+    },
+    {
+      "name": "二代米苔目-（當日製作數量有限、售完會提早打烊，請見諒）夏季米苔目、黑糖豆花、冬季紅豆湯、燒仙草專門店",
+      "description": "限量製作的米苔目與豆花，讓每次品嘗都成為一種期待。",
+      "area": "北區",
+      "rating": 4.5,
+      "reviews": 506,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.1573171,
+      "lng": 120.6832556
+    },
+    {
+      "name": "莊招小吃",
+      "description": "提供各式夜市小吃，令你回味無窮。",
+      "area": "",
+      "rating": 4.5,
+      "reviews": 313,
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.3474361,
+      "lng": 120.6200044
     }
   ]
 }

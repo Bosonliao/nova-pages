@@ -6513,22 +6513,6 @@
       "lng": 120.970476
     },
     {
-      "name": "二代米苔目-（當日製作數量有限、售完會提早打烊，請見諒）夏季米苔目、黑糖豆花、冬季紅豆湯、燒仙草專門店",
-      "description": "限量製作的米苔目與豆花，讓每次品嘗都成為一種期待。",
-      "area": "北區",
-      "rating": 4.5,
-      "reviews": 506,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.1573171,
-      "lng": 120.6832556
-    },
-    {
       "name": "814冰棒大同冰店",
       "description": "平實的外帶店鋪，販賣店內製作的傳統口味冰品。",
       "area": "北區",
@@ -9103,22 +9087,6 @@
       "dishes": [],
       "lat": 24.8095958,
       "lng": 120.9735533
-    },
-    {
-      "name": "尋路Cafe《全日供餐》",
-      "description": "提供多樣化的咖啡和輕食，讓您享受悠閒的用餐時光。",
-      "area": "",
-      "rating": 4.3,
-      "reviews": 825,
-      "categories": [
-        "咖啡廳"
-      ],
-      "tags": [],
-      "category": "咖啡廳",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.921154,
-      "lng": 121.056184
     },
     {
       "name": "好所在客家美食",
@@ -13061,22 +13029,6 @@
       "lng": 120.9706672
     },
     {
-      "name": "阿婆臭豆腐",
-      "description": "湖口車站旁飄香40年臭豆腐外酥內嫩咬下爆汁自製泡菜蒜泥酸爽",
-      "area": "",
-      "rating": 4,
-      "reviews": 135,
-      "categories": [
-        "中式"
-      ],
-      "category": "中式",
-      "tags": [],
-      "_sort": 3,
-      "dishes": [],
-      "lat": 24.9021791,
-      "lng": 121.0459604
-    },
-    {
       "name": "馥懋牛肉麵",
       "description": "新豐在地老牌牛肉麵紅燒湯頭醇厚牛腱軟嫩學生族群愛店",
       "area": "",
@@ -14269,6 +14221,59 @@
       "dishes": [],
       "lat": 24.8279158,
       "lng": 121.0813848
+    },
+    {
+      "name": "woosa洋食パンケーキ 屋莎洋食鬆餅屋 新竹巨城店",
+      "description": "",
+      "area": "東區",
+      "rating": 4.4,
+      "reviews": 2638,
+      "address": "",
+      "categories": [
+        "甜品"
+      ],
+      "category": "甜品",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.7920609,
+      "lng": 120.993378
+    },
+    {
+      "name": "時時香 - 新竹巨城店",
+      "description": "",
+      "area": "東區",
+      "rating": 4.7,
+      "reviews": 5761,
+      "address": "",
+      "categories": [
+        "中式"
+      ],
+      "category": "中式",
+      "tags": [],
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.8094861,
+      "lng": 120.974721
+    },
+    {
+      "name": "飛龍肉圓",
+      "description": "台北知名肉圓專賣店，米其林入選，以皮薄餡多的肉圓聞名",
+      "area": "",
+      "rating": 4.2,
+      "reviews": 1200,
+      "categories": [
+        "中式"
+      ],
+      "michelin": "selected",
+      "category": "中式",
+      "tags": [
+        "michelin-selected"
+      ],
+      "_sort": 0,
+      "dishes": [],
+      "lat": 24.8017467,
+      "lng": 120.9637306
     }
   ]
 }
