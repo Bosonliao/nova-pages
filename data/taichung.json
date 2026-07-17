@@ -4741,35 +4741,6 @@
       "lng": 120.569162
     },
     {
-      "name": "Eating Love 蔬食酸種披薩",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.8,
-      "reviews": 292,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [
-        {
-          "name": "瑪格麗特披薩",
-          "description": "經典窯烤瑪格麗特，酸種麵皮發酵24小時的獨特口感"
-        },
-        {
-          "name": "蔬食酸種三明治",
-          "description": "酸種麵包製作的蔬食三明治，層次豐富異國風情"
-        },
-        {
-          "name": "印度風味蔬食披薩",
-          "description": "印度知名蔬食品牌引進，口味道地充滿異國風情"
-        }
-      ],
-      "lat": 25.0276181,
-      "lng": 121.5546219
-    },
-    {
       "name": "雞肉本家 一中店 (雞肉飯專賣店/健康餐)",
       "description": "專賣健康雞肉飯，口感嫩滑，人氣餐點，讓人吃得安心。",
       "area": "北區",
@@ -7219,35 +7190,6 @@
       ],
       "lat": 24.3439526,
       "lng": 120.6219449
-    },
-    {
-      "name": "妙觀音素食-大安師大店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.8,
-      "reviews": 623,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [
-        {
-          "name": "素食套餐",
-          "description": "精緻素食套餐，多道蔬食料理，營養均衡"
-        },
-        {
-          "name": "蔬食火鍋",
-          "description": "招牌蔬食火蔬食火鍋，湯頭清爽，配料豐富"
-        },
-        {
-          "name": "素食炒飯",
-          "description": "蔬食炒飯，粒粒分明，香氣十足"
-        }
-      ],
-      "lat": 25.0224075,
-      "lng": 121.5282769
     },
     {
       "name": "BAA / Veg Cuisine 蔬食餐廳",
@@ -10191,38 +10133,6 @@
       "dishes": [],
       "lat": 24.2279323,
       "lng": 120.6308733
-    },
-    {
-      "name": "開心農場素食店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.7,
-      "reviews": 614,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0294846,
-      "lng": 121.5388685
-    },
-    {
-      "name": "撒福豆無麩質蔬食餐廳-忠孝店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.7,
-      "reviews": 1169,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0405776,
-      "lng": 121.552825
     },
     {
       "name": "品嘉茶餐廳 北屯店",
@@ -13415,22 +13325,6 @@
       "lng": 120.6462553
     },
     {
-      "name": "UncleQ by Veganday 純植創意料理餐廳",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.5,
-      "reviews": 1063,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0287932,
-      "lng": 121.5274731
-    },
-    {
       "name": "上泓園川燙牛肉麵",
       "description": "招牌牛肉麵搭配川燙手法，口感滑順，人氣餐廳。",
       "area": "",
@@ -15613,22 +15507,6 @@
       "dishes": [],
       "lat": 24.3464274,
       "lng": 120.6245958
-    },
-    {
-      "name": "Chao•炒炒新亞洲蔬食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.5,
-      "reviews": 1440,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0431752,
-      "lng": 121.5451503
     },
     {
       "name": "幕川蔬食壽司串燒居酒屋",
@@ -20312,22 +20190,6 @@
       "lng": 120.6241903
     },
     {
-      "name": "卡帛素食烘培‧義式廚房‧港式餐點 總店",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.3,
-      "reviews": 1361,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0236612,
-      "lng": 121.542976
-    },
-    {
       "name": "里仁SUN面健康蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西屯",
@@ -22320,22 +22182,6 @@
       "dishes": [],
       "lat": 24.3484045,
       "lng": 120.6199077
-    },
-    {
-      "name": "The Green Room 泰式蔬食",
-      "description": "素食餐廳，提供健康蔬食料理。",
-      "area": "大安",
-      "rating": 4.2,
-      "reviews": 1164,
-      "categories": [
-        "素食"
-      ],
-      "tags": [],
-      "category": "素食",
-      "_sort": 3,
-      "dishes": [],
-      "lat": 25.0306999,
-      "lng": 121.538605
     },
     {
       "name": "圓明素食",
