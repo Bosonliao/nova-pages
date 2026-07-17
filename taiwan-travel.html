@@ -617,7 +617,7 @@ function render(){
         ${tips?`<div class="tips">${tips}</div>`:''}
         <div class="header-right-info" style="font-size:12px; color:#666; text-align:right;">
           <div>更新於 2026-07-17</div>
-          <div>版次 V1.20</div>
+          <div>版次 V1.22</div>
         </div>
       </div>
       
@@ -683,7 +683,7 @@ function renderTab(routes,food,spots,souvenirs){
     // Collect all categories
     const allCats = new Set();
     food.forEach(f=>{(f.categories||['其他']).forEach(c=>allCats.add(c))});
-    const catOrder = ['中式','西式','日式','異國','義式','甜品','咖啡廳','火鍋','素食','烘焙']; const catList = [...catOrder.filter(c=>allCats.has(c)), ...Array.from(allCats).filter(c=>!catOrder.includes(c))];
+    const catOrder = ['中式','西式','日式','異國','義式','甜品','咖啡廳','火鍋','素食','烘焙','飲品']; const catList = [...catOrder.filter(c=>allCats.has(c)), ...Array.from(allCats).filter(c=>!catOrder.includes(c))];
     // Collect areas
     const allAreas = new Set();
     food.forEach(f=>{if(f.area && f.area.trim()) allAreas.add(f.area)});
@@ -767,7 +767,7 @@ function renderTab(routes,food,spots,souvenirs){
             <div class="food-tags">${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${sstcTag}${cats}</div>
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
-            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
+            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>{const dn=typeof d==='string'?d:d.name;const dp=typeof d==='object'?d.price:null;const dd=typeof d==='object'?d.description:'';return `<div class="dish-item"><span class="dish-name">${dn}</span>${dp?` <span class="dish-price">$${dp}</span>`:''} <span class="dish-desc">${dd||''}</span></div>`}).join('')}</div>`:''}
           </div>
         </div>`;
       }).join('');
@@ -800,7 +800,7 @@ function renderTab(routes,food,spots,souvenirs){
             \u003cdiv class="food-tags"\u003e${distBadge(f.lat, f.lng)}${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
 
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
-            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
+            ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>{const dn=typeof d==='string'?d:d.name;const dp=typeof d==='object'?d.price:null;const dd=typeof d==='object'?d.description:'';return `<div class="dish-item"><span class="dish-name">${dn}</span>${dp?` <span class="dish-price">$${dp}</span>`:''} <span class="dish-desc">${dd||''}</span></div>`}).join('')}</div>`:''}
           \u003c/div\u003e
           
         \u003c/div\u003e`;
