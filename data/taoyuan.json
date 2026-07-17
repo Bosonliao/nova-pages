@@ -19624,6 +19624,105 @@
       ],
       "rating": 0,
       "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9117605,
+      "lng": 121.1832237,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9176788,
+      "lng": 121.184812,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9133309,
+      "lng": 121.1461214,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9384068,
+      "lng": 121.1232016,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9344135,
+      "lng": 121.1229678,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶聚",
+      "lat": 24.9000916,
+      "lng": 121.147428,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "茶聚",
+      "lat": 24.9266536,
+      "lng": 121.1746786,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "COMEBUY",
+      "lat": 24.9107787,
+      "lng": 121.1457976,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
+    },
+    {
+      "name": "CoCo都可",
+      "lat": 24.9520304,
+      "lng": 121.2033981,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "rating": 0,
+      "reviews": 0
     }
   ]
 }
