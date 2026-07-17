@@ -84,7 +84,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .food-card .desc{font-size:12px;color:#777;margin-top:2px;}
 .food-card .glink{flex-shrink:0;font-size:12px;color:#1a73e8;text-decoration:none;background:#e8f0fe;border-radius:6px;padding:4px 10px;white-space:nowrap;}
 .food-card .glink:hover{background:#d2e3fc;}
-.card-actions{display:flex;flex-direction:column;align-items:flex-start;gap:4px;flex-shrink:0;}
+.card-actions{display:flex;flex-direction:row;align-items:center;gap:6px;flex-shrink:0;margin-top:6px;}
 .food-cat-bar{display:flex;flex-wrap:wrap;gap:4px;padding:6px 10px;margin-bottom:4px;background:#fff;border-top:1px solid #eee;justify-content:center;}
 .food-cat-btn{border:1px solid #e0e0e0;border-radius:14px;padding:3px 10px;font-size:13px;background:#fff;color:#555;cursor:pointer;white-space:nowrap;}
 .food-cat-btn:hover{background:#fff3e0;border-color:#ffb74d;}
@@ -675,10 +675,10 @@ function renderTab(routes,food,spots,souvenirs){
           <div class="info">
             <div class="name">${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}</div>
             <div class="food-tags">${michelinTag}${popularTag}${sstcTag}${cats}</div>
+            <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</div>
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`<div class="desc">${f.description}</div>`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
           </div>
-          <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(f.lat, f.lng, f.name)}</div>
         </div>`;
       }).join('');
       noAreaHtml = `<div class="area-group" data-area="">\n        <div class="area-body">${noAreaCards}</div>\n      </div>`;
@@ -710,10 +710,12 @@ function renderTab(routes,food,spots,souvenirs){
           \u003cdiv class="info"\u003e
             \u003cdiv class="name"\u003e${f.name}${ratingHtml}${distBadge(f.lat, f.lng)}\u003c/div\u003e
             \u003cdiv class="food-tags"\u003e${michelinTag}${popularTag}${footSoakTag}${sstcTag}${cats}\u003c/div\u003e
+            \u003cdiv class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/div\u003e
+
             ${(f.description&&!/^Google \d+\.?\d*★ \d+評論$/.test(f.description))?`\u003cdiv class="desc"\u003e${f.description}\u003c/div\u003e`:''}
             ${(f.dishes&&f.dishes.length)?`<div class="dishes-btn" onclick="toggleDishes(this.parentElement)">🍽 推薦品項</div><div class="dishes-list">${f.dishes.map(d=>`<div class="dish-item"><span class="dish-name">${d.name}</span>${d.price?` <span class="dish-price">$${d.price}</span>`:''} <span class="dish-desc">${d.description||''}</span></div>`).join('')}</div>`:''}
           \u003c/div\u003e
-          \u003cdiv class="card-actions"\u003e\u003ca class="glink" href="${link}" target="_blank"\u003e\ud83d\udccd \u5c0e\u822a\u003c/a\u003e${uberLink(f.lat, f.lng, f.name)}\u003c/div\u003e
+          
         \u003c/div\u003e`;
       }).join('');
       return `<div class="area-group" data-area="${area}">
@@ -756,9 +758,9 @@ function renderTab(routes,food,spots,souvenirs){
           <div class="icon">📸</div>
           <div class="info">
             <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
-          <div class="card-actions">${uberLink(s.lat, s.lng, s.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
         </div>`;
       }).join('');
       return `<div class="area-group">
@@ -798,9 +800,9 @@ function renderTab(routes,food,spots,souvenirs){
           <div class="icon">🏪</div>
           <div class="info">
             <div class="name">${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}</div>
+            <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
             ${s.description?`<div class="desc">${s.description}</div>`:''}
           </div>
-          <div class="card-actions">${uberLink(s.lat, s.lng, s.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
         </div>`;
       }).join('');
       return `<div class="area-group">
@@ -835,9 +837,9 @@ function renderTab(routes,food,spots,souvenirs){
         <div class="nm-info">
           <div class="nm-name" style="color:${typeColor}">${icon} ${m.name}${distBadge(m.lat, m.lng)}<span class="nm-days">${m.openDays}</span></div>
           <div class="nm-loc">📍 ${m.city}${m.district} · ${m.location||''}</div>
+          <div class="card-actions"><a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(m.lat, m.lng, m.name)}</div>
           ${m.description?`<div class="nm-desc">${m.description}</div>`:''}
         </div>
-        <div class="card-actions">${uberLink(m.lat, m.lng, m.name)}<a class="glink" href="${link}" target="_blank">📍 導航</a></div>
       </div>`;
     }).join('');
   }
