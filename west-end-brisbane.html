@@ -890,20 +890,18 @@ function haversine(lat1, lng1, lat2, lng2) {
 }
 
 function getUserLocation() {
-  const btn = document.getElementById('geo-btn');
-  if (!navigator.geolocation) { alert('Your browser does not support geolocation'); return; }
-  btn.classList.add('loading');
+  if (!navigator.geolocation) { return; }
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      btn.classList.remove('loading');
-      btn.classList.add('located');
-      btn.title = `Located: ${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}`;
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
     (err) => {
-      btn.classList.remove('loading');
-      alert('Location failed: ' + err.message);
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
+      render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
@@ -1046,7 +1044,6 @@ getUserLocation();
   <div>✨ 星思旅食快搜神器 · <a href="https://novamind.tw" style="color:var(--teal);text-decoration:none;">novamind.tw</a> · 由 Nova 製作維護 · 2026-07-14</div>
   <div style="margin-top:6px;opacity:0.6;">資料來源：Google Maps · AGFG · Broadsheet · Gourmet Traveller</div>
 </footer>
-<div id="geo-banner" class="geo-banner"><span>📍 按右下角 GPS 按鈕啟用定位，即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
-<button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="My location">📍</button>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 </body>
 </html>

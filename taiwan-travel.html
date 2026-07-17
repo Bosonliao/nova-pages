@@ -856,21 +856,15 @@ function haversine(lat1, lng1, lat2, lng2) {
 }
 
 function getUserLocation() {
-  const btn = document.getElementById('geo-btn');
   if (!navigator.geolocation) { return; }
-  btn.classList.add('loading');
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      btn.classList.remove('loading');
-      btn.classList.add('located');
-      btn.title = `已定位: ${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}`;
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
       render();
     },
     (err) => {
-      btn.classList.remove('loading');
       const banner = document.getElementById('geo-banner');
       if (banner) banner.classList.add('hide');
       render();
@@ -916,7 +910,6 @@ function initApp(){
 }
 </script>
 
-<div id="geo-banner" class="geo-banner"><span>📍 按右下角 GPS 按鈕啟用定位，即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
-<button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="定位我的位置">📍</button>
+<div id="geo-banner" class="geo-banner"><span>📍 點「允許定位」即可顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 </body>
 </html>
