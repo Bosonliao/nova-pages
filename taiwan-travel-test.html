@@ -194,10 +194,15 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .city-map{margin:10px 0 15px;text-align:center;}
 .city-map img{max-width:100%;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.1);}
 /* 定位按鈕 */
-.geo-btn{position:fixed;bottom:20px;right:20px;z-index:999;background:#1a73e8;color:#fff;border:none;border-radius:50%;width:56px;height:56px;font-size:24px;cursor:pointer;box-shadow:0 4px 12px rgba(0,0,0,.3);transition:all .3s;display:flex;align-items:center;justify-content:center;}
+.geo-btn{position:fixed;bottom:20px;right:20px;z-index:999;background:#1a73e8;color:#fff;border:none;border-radius:50%;width:40px;height:40px;font-size:18px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.2);transition:all .3s;display:flex;align-items:center;justify-content:center;opacity:0.6;}
 .geo-btn:hover{transform:scale(1.1);box-shadow:0 6px 16px rgba(0,0,0,.4);}
 .geo-btn.located{background:#4caf50;}
 .geo-btn.loading{background:#ff9800;animation:spin 1s linear infinite;}
+.geo-banner{position:fixed;top:0;left:0;right:0;z-index:1000;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:14px 20px;text-align:center;font-size:14px;box-shadow:0 2px 12px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;gap:10px;animation:slideDown .4s ease;}
+.geo-banner.hide{display:none;}
+.geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
+.geo-banner button:hover{background:#e8f0fe;}
+@keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
 /* 距離標籤 */
 .dist-badge{display:inline-flex;align-items:center;gap:2px;margin-left:6px;font-size:11px;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 8px;white-space:nowrap;}
@@ -849,7 +854,7 @@ function haversine(lat1, lng1, lat2, lng2) {
 
 function getUserLocation() {
   const btn = document.getElementById('geo-btn');
-  if (!navigator.geolocation) { alert('您的瀏覽器不支援定位功能'); return; }
+  if (!navigator.geolocation) { return; }
   btn.classList.add('loading');
   navigator.geolocation.getCurrentPosition(
     (pos) => {
@@ -857,16 +862,15 @@ function getUserLocation() {
       btn.classList.remove('loading');
       btn.classList.add('located');
       btn.title = `已定位: ${userLocation.lat.toFixed(4)}, ${userLocation.lng.toFixed(4)}`;
-      // 重新渲染當前頁面以顯示距離
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
       render();
     },
     (err) => {
       btn.classList.remove('loading');
-      let msg = '定位失敗';
-      if (err.code === 1) msg = '您拒絕了定位請求';
-      else if (err.code === 2) msg = '定位資訊不可用';
-      else if (err.code === 3) msg = '定位逾時';
-      alert(msg);
+      const banner = document.getElementById('geo-banner');
+      if (banner) banner.classList.add('hide');
+      render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
@@ -897,9 +901,12 @@ function initApp(){
   });
   // Pulse hint on load
   setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
+  // Auto request location
+  getUserLocation();
 }
 </script>
 
+<div id="geo-banner" class="geo-banner"><span>📏 啟用定位來顯示距離</span><button onclick="getUserLocation()">允許定位</button></div>
 <button class="geo-btn" id="geo-btn" onclick="getUserLocation()" title="定位我的位置">📍</button>
 </body>
 </html>
