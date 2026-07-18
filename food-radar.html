@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
@@ -69,40 +69,70 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .city-area-bar .area-btn.active{background:var(--teal);color:var(--white);border-color:var(--teal);font-weight:600;}
 .city-area-bar .area-btn .cnt{font-size:10px;opacity:.5;margin-left:2px;}
 
-/* ===== Grid View (symmetric) ===== */
-.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-auto-rows:auto;gap:10px;}
+/* ===== Group View (4 rows, horizontal scroll) ===== */
+.group-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:8px 0 10px;}
 
-/* All cards same size */
-.cat-card{min-height:100px;padding:14px 16px;}
-.cat-card .icon{font-size:44px;}
-.cat-card .label{font-size:22px;}
-.cat-card .count{font-size:15px;}
-.cat-card .near{font-size:13px;}
-.cat-card .text-wrap{gap:2px;}
+.group-section{margin-bottom:6px;}
+.group-title{font-size:12px;font-weight:700;color:var(--teal-dark);text-transform:uppercase;letter-spacing:1px;padding:6px 14px 4px;opacity:.7;}
+.group-scroll{display:flex;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding:4px 10px 6px;scroll-snap-type:x proximity;scrollbar-width:none;}
+.group-scroll::-webkit-scrollbar{display:none;}
 
-.cat-card{background:var(--white);border-radius:var(--radius);display:flex;flex-direction:row;align-items:center;justify-content:flex-start;gap:12px;cursor:pointer;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden;box-shadow:var(--shadow);min-height:0;border-left:4px solid var(--teal-light);padding:10px 14px;}
-.cat-card:active{transform:scale(0.96);box-shadow:var(--shadow-hover);}
-.cat-card .bg-icon{position:absolute;font-size:72px;opacity:.05;right:-8px;bottom:-16px;pointer-events:none;}
-.cat-card .icon{font-size:42px;position:relative;z-index:1;flex-shrink:0;}
-.cat-card .text-wrap{position:relative;z-index:1;display:flex;flex-direction:column;gap:1px;min-width:0;}
-.cat-card .label{font-size:22px;font-weight:700;color:var(--navy);line-height:1.1;}
-.cat-card .count{font-size:15px;color:var(--gray);font-weight:500;}
-.cat-card .near{font-size:13px;color:var(--teal-dark);font-weight:600;}
+.group-card{flex:0 0 auto;width:120px;min-height:88px;background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid var(--teal-light);padding:10px 12px;display:flex;flex-direction:column;justify-content:center;gap:2px;cursor:pointer;transition:transform .15s,box-shadow .15s;scroll-snap-align:start;position:relative;overflow:hidden;}
+.group-card:active{transform:scale(0.95);box-shadow:var(--shadow-hover);}
+.group-card .label{font-size:16px;font-weight:700;color:var(--navy);line-height:1.2;}
+.group-card .count{font-size:12px;color:var(--gray);font-weight:500;}
+.group-card .near{font-size:11px;color:var(--teal-dark);font-weight:600;}
+.group-card.empty{opacity:.35;}
+.group-card.empty .count{color:var(--gray);}
 
-/* Category accent colors (left border) */
-.cat-card[data-cat="麵類"]{border-left-color:#E76F51;}
-.cat-card[data-cat="飯類"]{border-left-color:#F4A261;}
-.cat-card[data-cat="餃子小籠"]{border-left-color:#E9C46A;}
-.cat-card[data-cat="火鍋"]{border-left-color:#E63946;}
-.cat-card[data-cat="日式"]{border-left-color:#457B9D;}
-.cat-card[data-cat="異國料理"]{border-left-color:#9B5DE5;}
-.cat-card[data-cat="咖啡廳"]{border-left-color:#C8A87E;}
-.cat-card[data-cat="甜點冰品"]{border-left-color:#F4A261;}
-.cat-card[data-cat="飲品"]{border-left-color:#2A9D8F;}
-.cat-card[data-cat="早餐"]{border-left-color:#FFB74D;}
-.cat-card[data-cat="素食"]{border-left-color:#66BB6A;}
-.cat-card[data-cat="米其林推薦"]{border-left-color:#b71c1c;}
-.cat-card[data-cat="食尚玩家"]{border-left-color:#6a1b9a;}
+/* Group section accent colors */
+.group-section[data-group="cuisine"] .group-card{border-left-color:#2A9D8F;}
+.group-section[data-group="mealtype"] .group-card{border-left-color:#F4A261;}
+.group-section[data-group="vibe"] .group-card{border-left-color:#9B5DE5;}
+.group-section[data-group="award"] .group-card{border-left-color:#E63946;}
+
+/* Per-category accent */
+.group-card[data-cat="牛肉麵"]{border-left-color:#E76F51;}
+.group-card[data-cat="麵類"]{border-left-color:#E76F51;}
+.group-card[data-cat="飯類"]{border-left-color:#F4A261;}
+.group-card[data-cat="餃子小籠"]{border-left-color:#E9C46A;}
+.group-card[data-cat="鍋類"]{border-left-color:#E63946;}
+.group-card[data-cat="日式"]{border-left-color:#457B9D;}
+.group-card[data-cat="壽司"]{border-left-color:#457B9D;}
+.group-card[data-cat="拉麵"]{border-left-color:#457B9D;}
+.group-card[data-cat="燒肉"]{border-left-color:#E63946;}
+.group-card[data-cat="居酒屋"]{border-left-color:#457B9D;}
+.group-card[data-cat="串燒"]{border-left-color:#E76F51;}
+.group-card[data-cat="牛排"]{border-left-color:#8B0000;}
+.group-card[data-cat="韓式"]{border-left-color:#1565C0;}
+.group-card[data-cat="泰式"]{border-left-color:#F4A261;}
+.group-card[data-cat="義式"]{border-left-color:#4CAF50;}
+.group-card[data-cat="港式"]{border-left-color:#7B1FA2;}
+.group-card[data-cat="美式"]{border-left-color:#FF7043;}
+.group-card[data-cat="熱炒"]{border-left-color:#E76F51;}
+.group-card[data-cat="小吃"]{border-left-color:#FFB74D;}
+.group-card[data-cat="素食"]{border-left-color:#66BB6A;}
+.group-card[data-cat="輕食"]{border-left-color:#81C784;}
+.group-card[data-cat="漢堡"]{border-left-color:#FF7043;}
+.group-card[data-cat="早餐"]{border-left-color:#FFB74D;}
+.group-card[data-cat="早午餐"]{border-left-color:#FFB74D;}
+.group-card[data-cat="咖啡"]{border-left-color:#C8A87E;}
+.group-card[data-cat="下午茶"]{border-left-color:#C8A87E;}
+.group-card[data-cat="甜點"]{border-left-color:#F4A261;}
+.group-card[data-cat="蛋糕"]{border-left-color:#F4A261;}
+.group-card[data-cat="飲料店"]{border-left-color:#2A9D8F;}
+.group-card[data-cat="冰品"]{border-left-color:#42A5F5;}
+.group-card[data-cat="吃到飽"]{border-left-color:#AB47BC;}
+.group-card[data-cat="合菜"]{border-left-color:#5C6BC0;}
+.group-card[data-cat="餐酒館"]{border-left-color:#6A1B9A;}
+.group-card[data-cat="酒吧"]{border-left-color:#5E35B1;}
+.group-card[data-cat="精緻高級"]{border-left-color:#b71c1c;}
+.group-card[data-cat="約會餐廳"]{border-left-color:#E91E63;}
+.group-card[data-cat="寵物友善"]{border-left-color:#8D6E63;}
+.group-card[data-cat="景觀餐廳"]{border-left-color:#26A69A;}
+.group-card[data-cat="親子餐廳"]{border-left-color:#43A047;}
+.group-card[data-cat="米其林推薦"]{border-left-color:#b71c1c;}
+.group-card[data-cat="食尚玩家"]{border-left-color:#6a1b9a;}
 
 /* ===== List View ===== */
 .list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
@@ -168,11 +198,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .footer a{color:var(--teal);text-decoration:none;}
 
 @media(max-width:360px){
-  .cat-card{min-height:80px;padding:10px 12px;}
-  .cat-card .icon{font-size:36px;}
-  .cat-card .label{font-size:18px;}
-  .cat-card .count{font-size:13px;}
-  .cat-card .near{font-size:11px;}
+  .group-card{width:105px;min-height:76px;padding:8px 10px;}
+  .group-card .label{font-size:14px;}
+  .group-card .count{font-size:11px;}
+  .group-card .near{font-size:10px;}
+  .group-title{font-size:11px;padding:4px 12px 3px;}
   .app-header .title{font-size:15px;}
 }
 </style>
@@ -188,7 +218,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">12 大分類 · 距離+評價排序</div>
+    <div class="sub">37 屬性分類 · 10km 內快速決策</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -205,8 +235,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <div class="area-scroll" id="area-scroll"></div>
 </div>
 
-<!-- Grid View -->
-<div class="grid-view" id="grid-view" style="display:none;"></div>
+<!-- Group View -->
+<div class="group-view" id="grid-view" style="display:none;"></div>
 
 <!-- List View -->
 <div class="list-view" id="list-view">
@@ -225,7 +255,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 <div class="no-gps" id="no-gps-prompt">
   <div class="icon">📡</div>
   <h2>啟動美食雷達</h2>
-  <p>GPS 定位後，自動偵測所在縣市<br>12 大分類帶你找到最近的美食</p>
+  <p>GPS 定位後，自動偵測所在縣市<br>37 屬性分類帶你找到最近的美食</p>
   <button onclick="locateMe()">📍 允許定位</button>
 </div>
 
@@ -245,6 +275,13 @@ const CITY_CENTER = {
   "花蓮":{lat:23.9871,lng:121.6016},"台東":{lat:22.7583,lng:121.1444},"澎湖":{lat:23.5650,lng:119.6150},
   "金馬":{lat:24.4340,lng:118.3170}
 };
+
+const GROUPS = [
+  {id:'cuisine', title:'料理風格', keys:['hotpot','japanese','sushi','ramen','yakiniku','korean','thai','italian','hk','american','izakaya','skewer','steak','beefnoodle','noodle','rice','dumpling','seafood','snack','vegetarian','lightmeal','burger']},
+  {id:'mealtype', title:'餐點形態', keys:['breakfast','brunch','coffee','tea','dessert','cake','drink','ice']},
+  {id:'vibe', title:'消費情境', keys:['buffet','group','bistro','bar','fine','date','pet','view','family']},
+  {id:'award', title:'評價公信', keys:['michelin','sp']},
+];
 
 const CATEGORIES = [
   // === 料理風格 ===
@@ -477,25 +514,28 @@ function selectArea(area) {
   else renderGrid();
 }
 
-// ===== Grid =====
+// ===== Group View =====
 function renderGrid() {
   let html = '';
-  CATEGORIES.forEach(cat => {
-    const count = countByCategory(cat);
-    const nearest = nearestByCategory(cat);
-    let nearText = '';
-    if (nearest && userLocation) {
-      nearText = nearest._dist < 1 ? `最近 ${(nearest._dist * 1000).toFixed(0)}m` : `最近 ${nearest._dist.toFixed(1)}km`;
-    }
-    html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">
-      <span class="bg-icon">${cat.icon}</span>
-      <span class="icon">${cat.icon}</span>
-      <span class="text-wrap">
-        <span class="label">${cat.label}</span>
-        <span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>
-        ${nearText ? `<span class="near">${nearText}</span>` : ''}
-      </span>
-    </div>`;
+  GROUPS.forEach(group => {
+    const cats = group.keys.map(k => CATEGORIES.find(c => c.key === k)).filter(Boolean);
+    html += `<div class="group-section" data-group="${group.id}">`;
+    html += `<div class="group-title">${group.title}</div>`;
+    html += `<div class="group-scroll">`;
+    cats.forEach(cat => {
+      const count = countByCategory(cat);
+      const nearest = nearestByCategory(cat);
+      let nearText = '';
+      if (nearest && userLocation) {
+        nearText = nearest._dist < 1 ? `最近 ${(nearest._dist * 1000).toFixed(0)}m` : `最近 ${nearest._dist.toFixed(1)}km`;
+      }
+      html += `<div class="group-card${count === 0 ? ' empty' : ''}" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">`;
+      html += `<span class="label">${cat.label}</span>`;
+      html += `<span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>`;
+      if (nearText) html += `<span class="near">${nearText}</span>`;
+      html += `</div>`;
+    });
+    html += `</div></div>`;
   });
   document.getElementById('grid-view').innerHTML = html;
 }
@@ -517,7 +557,7 @@ function openCategory(catKey) {
 
 function showGrid() {
   document.getElementById('list-view').style.display = 'none';
-  document.getElementById('grid-view').style.display = 'grid';
+  document.getElementById('grid-view').style.display = 'block';
   document.getElementById('list-header').style.display = 'none';
   document.getElementById('list-stats').style.display = 'none';
   document.getElementById('fab').classList.remove('hidden');
@@ -597,7 +637,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.09 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.10 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
@@ -654,7 +694,7 @@ function locateMe() {
       renderSidebar();
       renderAreaBar();
       renderGrid();
-      document.getElementById('grid-view').style.display = 'grid';
+      document.getElementById('grid-view').style.display = 'block';
       document.getElementById('fab').classList.remove('hidden');
       showGeoBanner(`✅ 已切換到 ${CITY_DISPLAY[currentCounty]}${detectedArea ? ' ' + detectedArea : ''}`, false);
       setTimeout(() => document.getElementById('geo-banner').classList.add('hide'), 3000);
