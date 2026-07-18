@@ -496,11 +496,16 @@ function toggleSort() {
   document.getElementById('list-content').scrollTop = 0;
 }
 
+const MAX_DIST_KM = 10;
 function renderList() {
-  const items = getFoodByCategory(currentCat).map(f => {
+  let items = getFoodByCategory(currentCat).map(f => {
     if (f.lat == null || !userLocation) return {...f, _dist: 0};
     return {...f, _dist: haversine(userLocation.lat, userLocation.lng, f.lat, f.lng)};
   });
+  // Filter to 10km when GPS is available
+  if (userLocation) {
+    items = items.filter(f => f._dist <= MAX_DIST_KM);
+  }
   if (sortMode === 'dist') {
     items.sort((a, b) => a._dist - b._dist);
   } else {
@@ -514,9 +519,11 @@ function renderList() {
   let statsHtml = `📍 <span class="pos">${userLocation ? userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4) : '--'}</span>`;
   statsHtml += ` · ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'}`;
   statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
+  if (userLocation) statsHtml += ` · 📏10km內`;
   document.getElementById('list-stats').innerHTML = statsHtml;
   if (!items.length) {
-    document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:var(--gray);font-size:13px;">此區域找不到此分類的美食</div>';
+    const emptyMsg = userLocation ? '10km 內找不到此分類的美食，試試切換縣市或區域' : '此區域找不到此分類的美食';
+    document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:var(--gray);font-size:13px;">' + emptyMsg + '</div>';
     return;
   }
   let html = '';
@@ -554,7 +561,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.07 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.08 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
