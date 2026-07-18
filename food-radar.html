@@ -73,25 +73,35 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-auto-rows:auto;gap:10px;}
 
 /* Large cards (料理風格) - span 2 rows */
-.cat-card.large{grid-row:span 2;padding:14px 16px;}
+.cat-card.large{grid-row:span 2;padding:16px 18px;min-height:120px;}
 .cat-card.large .icon{font-size:48px;}
-.cat-card.large .label{font-size:26px;}
-.cat-card.large .count{font-size:17px;}
-.cat-card.large .near{font-size:14px;}
+.cat-card.large .label{font-size:24px;}
+.cat-card.large .count{font-size:16px;}
+.cat-card.large .near{font-size:13px;}
+.cat-card.large .text-wrap{gap:3px;}
 
 /* Wide card (評價公信) - span 2 columns */
-.cat-card.wide{grid-column:span 2;padding:14px 18px;}
+.cat-card.wide{grid-column:span 2;padding:16px 20px;min-height:70px;}
 .cat-card.wide .icon{font-size:44px;}
-.cat-card.wide .label{font-size:24px;}
-.cat-card.wide .count{font-size:16px;}
+.cat-card.wide .label{font-size:22px;}
+.cat-card.wide .count{font-size:15px;}
 .cat-card.wide .near{font-size:13px;}
 .cat-card.wide .bg-icon{font-size:96px;right:-12px;bottom:-24px;}
 
 /* Small card (情境/特殊) */
+.cat-card.small{min-height:60px;padding:10px 14px;}
 .cat-card.small .icon{font-size:36px;}
 .cat-card.small .label{font-size:18px;}
 .cat-card.small .count{font-size:13px;}
 .cat-card.small .near{font-size:11px;}
+
+/* Default card */
+.cat-card{min-height:80px;padding:12px 14px;}
+.cat-card .icon{font-size:38px;}
+.cat-card .label{font-size:20px;}
+.cat-card .count{font-size:14px;}
+.cat-card .near{font-size:12px;}
+.cat-card .text-wrap{gap:2px;}
 
 .cat-card{background:var(--white);border-radius:var(--radius);display:flex;flex-direction:row;align-items:center;justify-content:flex-start;gap:12px;cursor:pointer;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden;box-shadow:var(--shadow);min-height:0;border-left:4px solid var(--teal-light);padding:10px 14px;}
 .cat-card:active{transform:scale(0.96);box-shadow:var(--shadow-hover);}
@@ -181,16 +191,23 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .footer a{color:var(--teal);text-decoration:none;}
 
 @media(max-width:360px){
+  .cat-card.large{min-height:100px;padding:12px 14px;}
   .cat-card.large .icon{font-size:38px;}
-  .cat-card.large .label{font-size:21px;}
-  .cat-card.large .count{font-size:14px;}
-  .cat-card.large .near{font-size:12px;}
+  .cat-card.large .label{font-size:20px;}
+  .cat-card.large .count{font-size:13px;}
+  .cat-card.large .near{font-size:11px;}
+  .cat-card.small{min-height:50px;padding:8px 12px;}
   .cat-card.small .icon{font-size:30px;}
   .cat-card.small .label{font-size:15px;}
   .cat-card.small .count{font-size:11px;}
   .cat-card.small .near{font-size:10px;}
   .cat-card.wide .icon{font-size:36px;}
-  .cat-card.wide .label{font-size:20px;}
+  .cat-card.wide .label{font-size:18px;}
+  .cat-card{min-height:65px;padding:10px 12px;}
+  .cat-card .icon{font-size:32px;}
+  .cat-card .label{font-size:16px;}
+  .cat-card .count{font-size:12px;}
+  .cat-card .near{font-size:10px;}
   .app-header .title{font-size:15px;}
 }
 </style>
@@ -573,7 +590,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.04 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.05 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
