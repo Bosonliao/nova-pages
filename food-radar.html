@@ -56,16 +56,42 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .geo-banner span{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 .geo-banner button{background:var(--white);color:var(--teal-dark);border:none;border-radius:12px;padding:3px 12px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;}
 
-/* ===== Area Labels ===== */
-.area-bar{display:flex;gap:5px;padding:8px 12px;overflow-x:auto;-webkit-overflow-scrolling:touch;flex-shrink:0;background:var(--white);border-bottom:1px solid var(--gray-light);scrollbar-width:none;box-shadow:var(--shadow);}
-.area-bar::-webkit-scrollbar{display:none;}
-.area-btn{border:2px solid var(--gray-light);border-radius:20px;padding:5px 13px;font-size:13px;background:var(--white);color:var(--navy);cursor:pointer;white-space:nowrap;transition:all .2s;flex-shrink:0;font-weight:500;}
-.area-btn:active{transform:scale(0.95);}
-.area-btn.active{background:var(--teal);color:var(--white);border-color:var(--teal);font-weight:600;}
-.area-btn .cnt{font-size:10px;opacity:.5;margin-left:2px;}
+/* ===== County + Area Bar ===== */
+.city-area-bar{display:flex;gap:6px;padding:8px 12px;flex-shrink:0;background:var(--white);border-bottom:1px solid var(--gray-light);box-shadow:var(--shadow);align-items:center;}
+.city-area-bar .select-btn{background:linear-gradient(135deg,var(--teal-dark),var(--teal));color:var(--white);border:none;border-radius:20px;padding:6px 14px;font-size:14px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:4px;white-space:nowrap;}
+.city-area-bar .select-btn:active{transform:scale(0.96);}
+.city-area-bar .select-btn.area{background:var(--white);color:var(--navy);border:2px solid var(--teal-light);}
+.city-area-bar .select-btn.area.active{background:var(--teal);color:var(--white);border-color:var(--teal);}
+.city-area-bar .area-scroll{display:flex;gap:4px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;flex:1;}
+.city-area-bar .area-scroll::-webkit-scrollbar{display:none;}
+.city-area-bar .area-btn{border:1px solid var(--gray-light);border-radius:16px;padding:4px 10px;font-size:12px;background:var(--white);color:var(--navy);cursor:pointer;white-space:nowrap;transition:all .15s;flex-shrink:0;font-weight:500;}
+.city-area-bar .area-btn:active{transform:scale(0.95);}
+.city-area-bar .area-btn.active{background:var(--teal);color:var(--white);border-color:var(--teal);font-weight:600;}
+.city-area-bar .area-btn .cnt{font-size:10px;opacity:.5;margin-left:2px;}
 
-/* ===== Grid View (6x2) ===== */
-.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(6,1fr);gap:10px;}
+/* ===== Grid View (asymmetric) ===== */
+.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-auto-rows:auto;gap:10px;}
+
+/* Large cards (料理風格) - span 2 rows */
+.cat-card.large{grid-row:span 2;padding:14px 16px;}
+.cat-card.large .icon{font-size:48px;}
+.cat-card.large .label{font-size:26px;}
+.cat-card.large .count{font-size:17px;}
+.cat-card.large .near{font-size:14px;}
+
+/* Wide card (評價公信) - span 2 columns */
+.cat-card.wide{grid-column:span 2;padding:14px 18px;}
+.cat-card.wide .icon{font-size:44px;}
+.cat-card.wide .label{font-size:24px;}
+.cat-card.wide .count{font-size:16px;}
+.cat-card.wide .near{font-size:13px;}
+.cat-card.wide .bg-icon{font-size:96px;right:-12px;bottom:-24px;}
+
+/* Small card (情境/特殊) */
+.cat-card.small .icon{font-size:36px;}
+.cat-card.small .label{font-size:18px;}
+.cat-card.small .count{font-size:13px;}
+.cat-card.small .near{font-size:11px;}
 
 .cat-card{background:var(--white);border-radius:var(--radius);display:flex;flex-direction:row;align-items:center;justify-content:flex-start;gap:12px;cursor:pointer;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden;box-shadow:var(--shadow);min-height:0;border-left:4px solid var(--teal-light);padding:10px 14px;}
 .cat-card:active{transform:scale(0.96);box-shadow:var(--shadow-hover);}
@@ -89,6 +115,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .cat-card[data-cat="早餐"]{border-left-color:#FFB74D;}
 .cat-card[data-cat="素食"]{border-left-color:#66BB6A;}
 .cat-card[data-cat="米其林推薦"]{border-left-color:#b71c1c;}
+.cat-card[data-cat="食尚玩家"]{border-left-color:#6a1b9a;}
 
 /* ===== List View ===== */
 .list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
@@ -154,10 +181,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .footer a{color:var(--teal);text-decoration:none;}
 
 @media(max-width:360px){
-  .cat-card .icon{font-size:34px;}
-  .cat-card .label{font-size:18px;}
-  .cat-card .count{font-size:13px;}
-  .cat-card .near{font-size:11px;}
+  .cat-card.large .icon{font-size:38px;}
+  .cat-card.large .label{font-size:21px;}
+  .cat-card.large .count{font-size:14px;}
+  .cat-card.large .near{font-size:12px;}
+  .cat-card.small .icon{font-size:30px;}
+  .cat-card.small .label{font-size:15px;}
+  .cat-card.small .count{font-size:11px;}
+  .cat-card.small .near{font-size:10px;}
+  .cat-card.wide .icon{font-size:36px;}
+  .cat-card.wide .label{font-size:20px;}
   .app-header .title{font-size:15px;}
 }
 </style>
@@ -175,7 +208,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
     <div class="title">📡 美食雷達</div>
     <div class="sub">12 大分類 · 距離+評價排序</div>
   </div>
-  <button class="city-btn" id="city-btn" onclick="toggleSidebar()">台北市 <span style="font-size:10px;">▾</span></button>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
 
@@ -185,8 +217,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <button onclick="locateMe()">允許定位</button>
 </div>
 
-<!-- Area Labels -->
-<div class="area-bar" id="area-bar" style="display:none;"></div>
+<!-- County + Area Bar -->
+<div class="city-area-bar" id="city-area-bar" style="display:none;">
+  <button class="select-btn" id="city-btn-top" onclick="toggleSidebar()">台北市 ▾</button>
+  <div class="area-scroll" id="area-scroll"></div>
+</div>
 
 <!-- Grid View -->
 <div class="grid-view" id="grid-view" style="display:none;"></div>
@@ -230,22 +265,23 @@ const CITY_CENTER = {
 };
 
 const CATEGORIES = [
-  // 料理風格
-  {key:'noodle', icon:'🍜', label:'麵類', keywords:['牛肉麵','拉麵','乾麵','湯麵','炒麵','意麵','擔仔麵','麵線','麵店','陽春麵','麻醬麵','炸醬麵','細麵','板麵','刀削麵']},
-  {key:'rice', icon:'🍚', label:'飯類', keywords:['滷肉飯','控肉飯','雞肉飯','豬腳飯','排骨飯','爌肉飯','肉燥飯','便當','咖喱飯','咖哩飯','炒飯','燴飯','快餐','飯館']},
+  // 料理風格 (large)
+  {key:'noodle', icon:'🍜', label:'麵類', size:'large', keywords:['牛肉麵','拉麵','乾麵','湯麵','炒麵','意麵','擔仔麵','麵線','麵店','陽春麵','麻醬麵','炸醬麵','細麵','板麵','刀削麵']},
+  {key:'rice', icon:'🍚', label:'飯類', size:'large', keywords:['滷肉飯','控肉飯','雞肉飯','豬腳飯','排骨飯','爌肉飯','肉燥飯','便當','咖喱飯','咖哩飯','炒飯','燴飯','快餐','飯館']},
+  {key:'hotpot', icon:'🍲', label:'火鍋', size:'large', categories:['火鍋'], keywords:['麻辣鍋','涮涮鍋','石頭火鍋','薑母鴨','羊肉爐']},
+  {key:'japanese', icon:'🍣', label:'日式', size:'large', categories:['日式'], keywords:['壽司','刺身','居酒屋','天婦羅','日本料理','定食','丼飯','串炸','日式炸物']},
+  // 餐點形態 (default)
   {key:'dumpling', icon:'🥟', label:'餃子小籠', keywords:['湯包','生煎包','水煎包','鍋貼','餃子','水餃','蒸餃','小籠包','煎餃','餡餅']},
-  {key:'hotpot', icon:'🍲', label:'火鍋', categories:['火鍋'], keywords:['麻辣鍋','涮涮鍋','石頭火鍋','薑母鴨','羊肉爐']},
-  {key:'japanese', icon:'🍣', label:'日式', categories:['日式'], keywords:['壽司','刺身','居酒屋','天婦羅','日本料理','定食','丼飯','串炸','日式炸物']},
   {key:'exotic', icon:'🌍', label:'異國料理', categories:['異國','義式','西式'], keywords:['韓式','韓國','部隊鍋','石鍋','泡菜','泰式','泰國','冬蔭','打拋','越南','河粉','法式','美式','墨西哥','印度','中東']},
-  // 餐點形態
   {key:'coffee', icon:'☕', label:'咖啡廳', categories:['咖啡廳']},
   {key:'dessert', icon:'🍰', label:'甜點冰品', categories:['甜品'], keywords:['甜點','蛋糕','布丁','奶酪','雪花冰','刨冰','冰品','豆花','仙草','挫冰','冰沙']},
   {key:'drink', icon:'🥤', label:'飲品', categories:['飲品','饮品']},
-  // 消費情境
-  {key:'breakfast', icon:'🍳', label:'早餐', keywords:['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','吐司','蔥油餅']},
-  {key:'vegetarian', icon:'🥗', label:'素食', categories:['素食']},
-  // 評價公信
-  {key:'michelin', icon:'🏆', label:'米其林推薦', isMichelin:true},
+  // 情境 (small)
+  {key:'breakfast', icon:'🍳', label:'早餐', size:'small', keywords:['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','吐司','蔥油餅']},
+  {key:'vegetarian', icon:'🥗', label:'素食', size:'small', categories:['素食']},
+  // 評價公信 (wide, bottom)
+  {key:'michelin', icon:'🏆', label:'米其林推薦', size:'wide', isMichelin:true},
+  {key:'sp', icon:'🎬', label:'食尚玩家', size:'wide', isSP:true},
 ];
 
 const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','阜杭','劉山東','好味豆','吐司','鍋貼','蔥油餅'];
@@ -343,7 +379,6 @@ function toggleSidebar() {
 function selectCounty(c) {
   currentCounty = c;
   currentArea = '';
-  document.getElementById('city-btn').innerHTML = `${CITY_DISPLAY[c]} <span style="font-size:10px;">▾</span>`;
   toggleSidebar();
   renderAreaBar();
   renderGrid();
@@ -365,6 +400,10 @@ function getFoodByCategory(cat) {
   // Michelin special case
   if (cat.isMichelin) {
     return items.filter(f => hasTag(f,'michelin-star') || hasTag(f,'michelin-bib') || hasTag(f,'michelin-selected'));
+  }
+  // Food Steppenwolf (食尚玩家) special case
+  if (cat.isSP) {
+    return items.filter(f => hasTag(f,'sp'));
   }
   let result = items;
   // Filter by categories field
@@ -393,7 +432,7 @@ function nearestByCategory(cat) {
   }, null);
 }
 
-// ===== Area Bar =====
+// ===== Area Bar (inside city-area-bar) =====
 function renderAreaBar() {
   const food = getCountyFood(currentCounty);
   const areas = {};
@@ -407,8 +446,9 @@ function renderAreaBar() {
     if (displayA.endsWith('平')) displayA = displayA + '鎮';
     html += `<span class="area-btn ${currentArea===a?'active':''}" onclick="selectArea('${a}')">${displayA} <span class="cnt">${areas[a]}</span></span>`;
   });
-  document.getElementById('area-bar').innerHTML = html;
-  document.getElementById('area-bar').style.display = 'flex';
+  document.getElementById('area-scroll').innerHTML = html;
+  document.getElementById('city-area-bar').style.display = 'flex';
+  document.getElementById('city-btn-top').textContent = CITY_DISPLAY[currentCounty] + ' ▾';
 }
 
 function selectArea(area) {
@@ -429,7 +469,8 @@ function renderGrid() {
     if (nearest && userLocation) {
       nearText = nearest._dist < 1 ? `最近 ${(nearest._dist * 1000).toFixed(0)}m` : `最近 ${nearest._dist.toFixed(1)}km`;
     }
-    html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">
+    const sizeClass = cat.size || '';
+    html += `<div class="cat-card ${sizeClass}" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">
       <span class="bg-icon">${cat.icon}</span>
       <span class="icon">${cat.icon}</span>
       <span class="text-wrap">
@@ -532,7 +573,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.03 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.04 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
@@ -582,7 +623,7 @@ function locateMe() {
       const detected = detectNearestCounty(userLocation.lat, userLocation.lng);
       if (detected) {
         currentCounty = detected;
-        document.getElementById('city-btn').innerHTML = `${CITY_DISPLAY[detected]} <span style="font-size:10px;">▾</span>`;
+        document.getElementById('city-btn-top').textContent = CITY_DISPLAY[detected] + ' ▾';
       }
       const detectedArea = detectNearestArea(userLocation.lat, userLocation.lng);
       if (detectedArea) currentArea = detectedArea;
