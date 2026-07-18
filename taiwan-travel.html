@@ -632,6 +632,7 @@ function render(){
         <div class="tab ${currentTab==='spots'?'active':''}" onclick="selectTab('spots')">📸 景點 (${(d.spots||[]).length})</div>
         <div class="tab ${currentTab==='souvenirs'?'active':''}" onclick="selectTab('souvenirs')">🏪 伴手禮 (${(d.souvenirs||[]).length})</div>
         <div class="tab ${currentTab==='food'?'active':''}" onclick="selectTab('food')">🍜 美食 (${food.length})</div>
+        <div class="tab ${currentTab==='indoor'?'active':''}" onclick="selectTab('indoor')">🏛️ 室內景點</div>
         
         <div class="tab ${currentTab==='nightmarkets'?'active':''}" onclick="selectTab('nightmarkets')">🌃 夜市老街 (${(DATA.nightmarkets||[]).filter(m=>m.city===currentCounty).length})</div>
       </div>
@@ -822,7 +823,44 @@ function renderTab(routes,food,spots,souvenirs){
     }).join('');
   }
   if(currentTab==='indoor'){
-    return '<p style="color:#999;padding:20px;">室內景點資料整理中</p>';
+    const indoorKeywords = ['博物館','美術館','紀念館','紀念堂','文物館','展示館','展覽館','科博館','科教館','天文館','圖書館','書店','誠品','商場','百貨','購物中心','Outlet','地下街','觀光工廠','文化園區','文創園區','1914','華山','松山文創','音樂廳','戲院','電影院','影城','威秀','秀泰','in89','國賓','大魯閣','湯姆熊','密室逃脫','桌遊','VR','體驗館','探索館','寺廟','宮','廟','教堂','藝廊','畫廊','溫泉','SPA','水療','烘焙','料理教室','手作','DIY','工作坊','Studio'];
+    const indoorSpots = (d.spots||[]).filter(s => {
+      const name = s.name || '';
+      return indoorKeywords.some(k => name.includes(k));
+    });
+    if(!indoorSpots.length) return '<p style="color:#999;padding:20px;">尚無室內景點資料</p>';
+    const groups = {};
+    indoorSpots.forEach(s=>{
+      const area = s.area || '其他';
+      if(!groups[area]) groups[area] = [];
+      groups[area].push(s);
+    });
+    return Object.keys(groups).map(area=>{
+      const items = groups[area];
+      const id = 'indoor-area-' + area.replace(/[^a-zA-Z0-9]/g,'');
+      const cards = items.map(s=>{
+        const link = gmapLink(s.name, currentCounty + ' ' + area);
+        let ratingHtml = '';
+        if(s.rating !== null && s.rating !== undefined){
+          const stars = '★'.repeat(1);
+          ratingHtml = `<span class="rating"><span class="stars">${stars}</span> ${s.rating}`;
+          if(s.reviews !== null && s.reviews !== undefined){
+            ratingHtml += ` <span class="reviews">(${s.reviews.toLocaleString()}則)</span>`;
+          }
+          ratingHtml += `</span>`;
+        }
+        return `<div class="food-card">
+          <div class="info">
+            <div class="name">🏛️ ${s.name}${ratingHtml}${distBadge(s.lat, s.lng)}<a class="glink" href="${link}" target="_blank">📍 導航</a>${uberLink(s.lat, s.lng, s.name)}</div>
+            ${s.description?`<div class="desc">${s.description}</div>`:''}
+          </div>
+        </div>`;
+      }).join('');
+      return `<div class="area-group">
+        <div class="area-header" onclick="toggleArea('${id}')"><span>${area} (${items.length})</span><span class="arrow">▾</span></div>
+        <div class="area-body" id="${id}">${cards}</div>
+      </div>`;
+    }).join('');
   }
   if(currentTab==='spots'){
     if(!spots.length) return '<p style="color:#999;padding:20px;">尚無景點資料</p>';
