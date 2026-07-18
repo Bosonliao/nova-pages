@@ -213,7 +213,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.15</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.16</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -331,6 +331,7 @@ const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯
 let userLocation = null;
 let allData = {};
 let currentCounty = '台北';
+let autoLocated = false;
 let currentArea = '';
 let currentCat = null;
 let sortMode = 'dist';
@@ -421,6 +422,7 @@ function toggleSidebar() {
 function selectCounty(c) {
   currentCounty = c;
   currentArea = '';
+  autoLocated = false;
   toggleSidebar();
   renderAreaBar();
   renderGrid();
@@ -446,8 +448,8 @@ function getFilteredFood() {
 }
 
 function getFoodByCategory(cat) {
-  // When GPS is available, search all food within 30km (not limited to county/area)
-  let items = userLocation ? getAllFood() : getFilteredFood();
+  // When auto-located by GPS, search all food within 30km; when manually selected county, limit to that county
+  let items = (autoLocated && userLocation) ? getAllFood() : getFilteredFood();
   // Michelin special case
   if (cat.isMichelin) {
     return items.filter(f => hasTag(f,'michelin-star') || hasTag(f,'michelin-bib') || hasTag(f,'michelin-selected'));
@@ -580,8 +582,8 @@ function renderList() {
     if (f.lat == null || !userLocation) return {...f, _dist: 0};
     return {...f, _dist: haversine(userLocation.lat, userLocation.lng, f.lat, f.lng)};
   });
-  // Filter to 30km when GPS is available
-  if (userLocation) {
+  // Filter to 30km only when auto-located by GPS (not when manually selecting county)
+  if (autoLocated && userLocation) {
     items = items.filter(f => f._dist <= MAX_DIST_KM);
   }
   if (sortMode === 'dist') {
@@ -597,10 +599,10 @@ function renderList() {
   let statsHtml = `📍 <span class="pos">${userLocation ? userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4) : '--'}</span>`;
   statsHtml += ` · ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'}`;
   statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
-  if (userLocation) statsHtml += ` · 📏30km內`;
+  if (autoLocated && userLocation) statsHtml += ` · 📏30km內`;
   document.getElementById('list-stats').innerHTML = statsHtml;
   if (!items.length) {
-    const emptyMsg = userLocation ? '30km 內找不到此分類的美食，試試切換縣市或區域' : '此區域找不到此分類的美食';
+    const emptyMsg = (autoLocated && userLocation) ? '30km 內找不到此分類的美食，試試切換縣市或區域' : '此區域找不到此分類的美食';
     document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:var(--gray);font-size:13px;">' + emptyMsg + '</div>';
     return;
   }
@@ -639,7 +641,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.15 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.16 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
@@ -689,6 +691,7 @@ function locateMe() {
       const detected = detectNearestCounty(userLocation.lat, userLocation.lng);
       if (detected) {
         currentCounty = detected;
+        autoLocated = true;
         document.getElementById('city-btn-top').textContent = CITY_DISPLAY[detected] + ' ▾';
       }
       const detectedArea = detectNearestArea(userLocation.lat, userLocation.lng);
