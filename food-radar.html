@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <title>美食雷達 - 星思旅食快搜神器</title>
-<meta name="description" content="GPS 美食雷達，12 大分類，點進去帶出離你最近的美食，距離+評價排序。">
+<meta name="description" content="GPS 美食雷達，12 大分類，縣市+鄉鎮市區切換，距離+評價排序。">
 <meta name="theme-color" content="#e65100">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/png" href="favicon-32.png">
@@ -24,30 +24,51 @@ html,body{height:100%;overflow:hidden;}
 body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;height:100vh;height:100dvh;}
 
 /* ===== Header ===== */
-.app-header{background:linear-gradient(135deg,var(--primary-dark),var(--primary));color:#fff;padding:10px 14px;flex-shrink:0;z-index:100;box-shadow:0 2px 6px rgba(0,0,0,.12);display:flex;align-items:center;gap:8px;}
-.app-header .logo{width:30px;height:30px;border-radius:50%;border:1.5px solid rgba(255,255,255,.3);flex-shrink:0;}
-.app-header .title{font-size:17px;font-weight:800;line-height:1.1;}
-.app-header .sub{font-size:9px;opacity:.7;}
-.app-header .back{margin-left:auto;color:#fff;text-decoration:none;font-size:12px;opacity:.85;padding:5px 10px;border:1px solid rgba(255,255,255,.3);border-radius:16px;}
+.app-header{background:linear-gradient(135deg,var(--primary-dark),var(--primary));color:#fff;padding:8px 12px;flex-shrink:0;z-index:100;box-shadow:0 2px 6px rgba(0,0,0,.12);display:flex;align-items:center;gap:8px;}
+.app-header .logo{width:28px;height:28px;border-radius:50%;border:1.5px solid rgba(255,255,255,.3);flex-shrink:0;}
+.app-header .title{font-size:16px;font-weight:800;line-height:1.1;}
+.app-header .sub{font-size:9px;opacity:.6;}
+.app-header .city-btn{margin-left:auto;background:rgba(255,255,255,.15);color:#fff;border:1px solid rgba(255,255,255,.3);border-radius:16px;padding:4px 12px;font-size:14px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:4px;}
+.app-header .city-btn:active{background:rgba(255,255,255,.25);}
+.app-header .back{color:#fff;text-decoration:none;font-size:12px;opacity:.7;padding:4px 8px;}
+
+/* ===== County Sidebar ===== */
+.sidebar{position:fixed;top:0;left:0;height:100%;width:240px;background:linear-gradient(180deg,#bf360c,#e65100);color:#fff;z-index:1001;transform:translateX(-100%);transition:transform .3s;overflow-y:auto;padding-top:52px;}
+.sidebar.open{transform:translateX(0);box-shadow:4px 0 20px rgba(0,0,0,.3);}
+.sidebar .nav-section{padding:10px 18px 4px;font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:.5;}
+.sidebar .nav-item{padding:12px 18px;cursor:pointer;font-size:16px;transition:background .2s;border-left:3px solid transparent;}
+.sidebar .nav-item:hover{background:rgba(255,255,255,.1);}
+.sidebar .nav-item.active{background:rgba(255,255,255,.15);border-left-color:#ffd54f;}
+.sidebar .nav-item .badge{background:rgba(255,213,79,.9);color:var(--primary-dark);border-radius:10px;padding:1px 7px;font-size:12px;font-weight:600;margin-left:6px;}
+.overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.4);z-index:1000;display:none;}
+.overlay.show{display:block;}
 
 /* ===== Geo Banner ===== */
-.geo-banner{background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:7px 14px;font-size:12px;display:flex;align-items:center;justify-content:space-between;gap:6px;flex-shrink:0;transition:all .3s;overflow:hidden;max-height:36px;}
+.geo-banner{background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:6px 14px;font-size:12px;display:flex;align-items:center;justify-content:space-between;gap:6px;flex-shrink:0;transition:all .3s;overflow:hidden;max-height:34px;}
 .geo-banner.hide{max-height:0;padding:0;opacity:0;}
 .geo-banner span{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 .geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:12px;padding:3px 12px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;}
 
+/* ===== Area Labels (鄉鎮市區) ===== */
+.area-bar{display:flex;gap:4px;padding:6px 10px;overflow-x:auto;-webkit-overflow-scrolling:touch;flex-shrink:0;background:#fff;border-bottom:1px solid #eee;scrollbar-width:none;}
+.area-bar::-webkit-scrollbar{display:none;}
+.area-btn{border:1px solid #e0e0e0;border-radius:14px;padding:4px 11px;font-size:13px;background:#fff;color:#666;cursor:pointer;white-space:nowrap;transition:all .15s;flex-shrink:0;}
+.area-btn:active{transform:scale(0.95);}
+.area-btn.active{background:var(--primary);color:#fff;border-color:var(--primary);font-weight:600;}
+.area-btn .cnt{font-size:10px;opacity:.5;margin-left:2px;}
+
 /* ===== Grid View (6x2) ===== */
-.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(6,1fr);gap:8px;}
+.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:8px;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(6,1fr);gap:8px;}
 
 .cat-card{background:var(--card-bg);border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:pointer;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.06);min-height:0;}
 .cat-card:active{transform:scale(0.95);box-shadow:0 2px 12px rgba(0,0,0,.12);}
-.cat-card .bg-icon{position:absolute;font-size:64px;opacity:.08;top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none;}
-.cat-card .icon{font-size:32px;margin-bottom:6px;position:relative;z-index:1;}
-.cat-card .label{font-size:15px;font-weight:700;color:#333;position:relative;z-index:1;}
-.cat-card .count{font-size:11px;color:#999;margin-top:2px;position:relative;z-index:1;}
-.cat-card .near{font-size:10px;color:#1565c0;margin-top:2px;font-weight:600;position:relative;z-index:1;}
+.cat-card .bg-icon{position:absolute;font-size:56px;opacity:.08;top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none;}
+.cat-card .icon{font-size:30px;margin-bottom:4px;position:relative;z-index:1;}
+.cat-card .label{font-size:14px;font-weight:700;color:#333;position:relative;z-index:1;}
+.cat-card .count{font-size:11px;color:#999;margin-top:1px;position:relative;z-index:1;}
+.cat-card .near{font-size:10px;color:#1565c0;margin-top:1px;font-weight:600;position:relative;z-index:1;}
 
-/* Category-specific accent colors */
+/* Category accent colors */
 .cat-card[data-cat="中式"]{border-bottom:3px solid #e65100;}
 .cat-card[data-cat="日式"]{border-bottom:3px solid #1565c0;}
 .cat-card[data-cat="火鍋"]{border-bottom:3px solid #d32f2f;}
@@ -61,26 +82,17 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
 .cat-card[data-cat="烘焙"]{border-bottom:3px solid #8d6e63;}
 .cat-card[data-cat="早餐"]{border-bottom:3px solid #ffa726;}
 
-/* ===== No GPS ===== */
-.no-gps{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 24px;text-align:center;}
-.no-gps .icon{font-size:64px;margin-bottom:16px;animation:bounce 2s ease-in-out infinite;}
-@keyframes bounce{0%,100%{transform:translateY(0);}50%{transform:translateY(-10px);}}
-.no-gps h2{color:var(--primary);font-size:20px;margin-bottom:8px;}
-.no-gps p{color:#666;font-size:14px;margin-bottom:20px;line-height:1.6;}
-.no-gps button{padding:14px 40px;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;border:none;border-radius:28px;font-size:16px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(26,115,232,.3);}
-.no-gps button:active{transform:scale(0.96);}
-
 /* ===== List View ===== */
 .list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
 
-.list-header{display:flex;align-items:center;gap:8px;padding:10px 14px;background:#fff;border-bottom:1px solid #e0e0e0;flex-shrink:0;position:sticky;top:0;z-index:10;}
+.list-header{display:flex;align-items:center;gap:8px;padding:8px 12px;background:#fff;border-bottom:1px solid #e0e0e0;flex-shrink:0;position:sticky;top:0;z-index:10;}
 .list-header .back-btn{font-size:20px;cursor:pointer;color:var(--primary);flex-shrink:0;padding:4px 8px;}
-.list-header .cat-icon{font-size:22px;}
-.list-header .cat-name{font-size:16px;font-weight:700;color:#333;}
-.list-header .cat-count{font-size:12px;color:#999;margin-left:4px;}
+.list-header .cat-icon{font-size:20px;}
+.list-header .cat-name{font-size:15px;font-weight:700;color:#333;}
+.list-header .cat-count{font-size:11px;color:#999;}
 .list-header .sort-toggle{margin-left:auto;font-size:12px;color:var(--primary);cursor:pointer;padding:4px 10px;border:1px solid var(--primary);border-radius:12px;font-weight:600;}
 
-.list-stats{padding:6px 14px 4px;font-size:11px;color:#999;text-align:center;flex-shrink:0;}
+.list-stats{padding:4px 14px 2px;font-size:11px;color:#999;text-align:center;flex-shrink:0;}
 .list-stats .pos{color:var(--primary);font-weight:600;}
 
 .card{background:#fff;margin:0 10px 5px;border-radius:10px;padding:11px 13px;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:transform .12s;}
@@ -113,6 +125,15 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
 .loading .spinner{width:36px;height:36px;border:3px solid #e0e0e0;border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 10px;}
 @keyframes spin{to{transform:rotate(360deg);}}
 
+/* ===== No GPS ===== */
+.no-gps{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 24px;text-align:center;}
+.no-gps .icon{font-size:64px;margin-bottom:16px;animation:bounce 2s ease-in-out infinite;}
+@keyframes bounce{0%,100%{transform:translateY(0);}50%{transform:translateY(-10px);}}
+.no-gps h2{color:var(--primary);font-size:20px;margin-bottom:8px;}
+.no-gps p{color:#666;font-size:14px;margin-bottom:20px;line-height:1.6;}
+.no-gps button{padding:14px 40px;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;border:none;border-radius:28px;font-size:16px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(26,115,232,.3);}
+.no-gps button:active{transform:scale(0.96);}
+
 /* ===== FAB ===== */
 .fab{position:fixed;bottom:12px;right:12px;z-index:99;background:var(--primary);color:#fff;border:none;border-radius:50%;width:42px;height:42px;font-size:18px;cursor:pointer;box-shadow:0 3px 10px rgba(0,0,0,.2);transition:all .2s;display:flex;align-items:center;justify-content:center;}
 .fab:active{transform:scale(0.9);}
@@ -126,26 +147,35 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
   .cat-card .label{font-size:13px;}
   .cat-card .count{font-size:10px;}
   .cat-card .near{font-size:9px;}
+  .app-header .title{font-size:15px;}
 }
 </style>
 </head>
 <body>
+
+<!-- Sidebar -->
+<div class="sidebar" id="sidebar"></div>
+<div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
 
 <!-- Header -->
 <div class="app-header">
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">GPS 定位 · 12 大分類 · 距離+評價排序</div>
+    <div class="sub">12 大分類 · 距離+評價排序</div>
   </div>
-  <a href="taiwan-travel.html" class="back">← 主站</a>
+  <button class="city-btn" id="city-btn" onclick="toggleSidebar()">台北市 <span style="font-size:10px;">▾</span></button>
+  <a href="taiwan-travel.html" class="back">主站</a>
 </div>
 
 <!-- Geo Banner -->
 <div class="geo-banner" id="geo-banner">
-  <span>📍 點「允許定位」啟動美食雷達</span>
+  <span>📍 點「允許定位」自動偵測所在縣市</span>
   <button onclick="locateMe()">允許定位</button>
 </div>
+
+<!-- Area Labels -->
+<div class="area-bar" id="area-bar" style="display:none;"></div>
 
 <!-- Grid View -->
 <div class="grid-view" id="grid-view" style="display:none;"></div>
@@ -167,7 +197,7 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
 <div class="no-gps" id="no-gps-prompt">
   <div class="icon">📡</div>
   <h2>啟動美食雷達</h2>
-  <p>GPS 定位後，12 大分類帶你找到<br>離你最近的美食，距離 + 評價排序</p>
+  <p>GPS 定位後，自動偵測所在縣市<br>12 大分類帶你找到最近的美食</p>
   <button onclick="locateMe()">📍 允許定位</button>
 </div>
 
@@ -176,6 +206,18 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
 <script>
 const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜蘭":"yilan","桃園":"taoyuan","新竹":"hsinchu","苗栗":"miaoli","台中":"taichung","南投":"nantou","彰化":"changhua","雲林":"yunlin","嘉義":"chiayi","台南":"tainan","高雄":"kaohsiung","屏東":"pingtung","花蓮":"hualien","台東":"taitung","澎湖":"penghu","金馬":"kinmen"};
 const ORDER = Object.keys(CITY_EN);
+const CITY_DISPLAY = {"基隆":"基隆市","台北":"台北市","新北":"新北市","宜蘭":"宜蘭縣","桃園":"桃園市","新竹":"新竹市","苗栗":"苗栗縣","台中":"台中市","南投":"南投縣","彰化":"彰化縣","雲林":"雲林縣","嘉義":"嘉義市","台南":"台南市","高雄":"高雄市","屏東":"屏東縣","花蓮":"花蓮縣","台東":"台東縣","澎湖":"澎湖縣","金馬":"金馬地區"};
+
+// Taiwan 19 county centers for GPS auto-detect
+const CITY_CENTER = {
+  "基隆":{lat:25.1276,lng:121.7392},"台北":{lat:25.0330,lng:121.5654},"新北":{lat:25.0120,lng:121.4650},
+  "宜蘭":{lat:24.7021,lng:121.7390},"桃園":{lat:24.9936,lng:121.3010},"新竹":{lat:24.8016,lng:120.9686},
+  "苗栗":{lat:24.5600,lng:120.8210},"台中":{lat:24.1477,lng:120.6047},"南投":{lat:23.8388,lng:120.9870},
+  "彰化":{lat:24.0883,lng:120.5410},"雲林":{lat:23.7277,lng:120.3897},"嘉義":{lat:23.4597,lng:120.2542},
+  "台南":{lat:22.9908,lng:120.2133},"高雄":{lat:22.6273,lng:120.3014},"屏東":{lat:22.6692,lng:120.4879},
+  "花蓮":{lat:23.9871,lng:121.6016},"台東":{lat:22.7583,lng:121.1444},"澎湖":{lat:23.5650,lng:119.6150},
+  "金馬":{lat:24.4340,lng:118.3170}
+};
 
 const CATEGORIES = [
   {key:'中式', icon:'🍜', label:'中式'},
@@ -192,14 +234,16 @@ const CATEGORIES = [
   {key:'早餐', icon:'🍳', label:'早餐', isBreakfast:true},
 ];
 
-const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','阜杭','劉山東','好味豆','吐司','鍋貼','蛋餅','蔥油餅','燒肉'];
+const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','阜杭','劉山東','好味豆','吐司','鍋貼','蔥油餅'];
 
 let userLocation = null;
-let allFood = [];
-let dataLoaded = false;
+let allData = {};
+let currentCounty = '台北';
+let currentArea = '';
 let currentCat = null;
-let sortMode = 'dist'; // 'dist' | 'rating'
+let sortMode = 'dist';
 let showCount = 20;
+let dataLoaded = false;
 
 function haversine(lat1, lng1, lat2, lng2) {
   const R = 6371;
@@ -229,56 +273,139 @@ function isBreakfast(name) {
   return BREAKFAST_KEYWORDS.some(kw => name.includes(kw));
 }
 
-// ===== Load all food =====
-async function loadAllFood() {
-  if (dataLoaded) return;
-  allFood = [];
-  const batchSize = 5;
-  for (let i = 0; i < ORDER.length; i += batchSize) {
-    const batch = ORDER.slice(i, i + batchSize);
-    await Promise.all(batch.map(async (city) => {
-      const en = CITY_EN[city];
-      try {
-        const resp = await fetch(`data/${en}.json`);
-        if (!resp.ok) throw new Error('HTTP ' + resp.status);
-        const d = await resp.json();
-        (d.food || []).forEach(item => {
-          if (item.lat != null && item.lng != null) {
-            allFood.push({
-              ...item,
-              county: city,
-              _dist: userLocation ? haversine(userLocation.lat, userLocation.lng, item.lat, item.lng) : 0
-            });
-          }
-        });
-      } catch(e) { console.error(`Failed ${city}`, e); }
-    }));
+// ===== Detect nearest county from GPS =====
+function detectNearestCounty(lat, lng) {
+  let nearest = null, minDist = Infinity;
+  for (const c of ORDER) {
+    const center = CITY_CENTER[c];
+    if (!center) continue;
+    const d = haversine(lat, lng, center.lat, center.lng);
+    if (d < minDist) { minDist = d; nearest = c; }
   }
-  dataLoaded = true;
+  return nearest;
 }
 
-// ===== Filter by category =====
+// ===== Detect nearest area from GPS =====
+function detectNearestArea(lat, lng) {
+  const food = getCountyFood(currentCounty);
+  if (!food.length) return null;
+  let nearest = null, minDist = Infinity;
+  food.forEach(f => {
+    if (f.lat != null && f.lng != null && f.area) {
+      const d = haversine(lat, lng, f.lat, f.lng);
+      if (d < minDist) { minDist = d; nearest = f.area; }
+    }
+  });
+  return nearest;
+}
+
+// ===== Sidebar =====
+function renderSidebar() {
+  const sections = [
+    {label:'北部', items:['基隆','台北','新北','宜蘭','桃園','新竹','苗栗']},
+    {label:'中部', items:['台中','南投','彰化','雲林','嘉義','台南']},
+    {label:'南部', items:['高雄','屏東','花蓮','台東']},
+    {label:'離島', items:['澎湖','金馬']},
+  ];
+  let html = '';
+  sections.forEach(sec => {
+    html += `<div class="nav-section">${sec.label}</div>`;
+    sec.items.forEach(c => {
+      const count = (allData[c] && allData[c].food) ? allData[c].food.length : 0;
+      html += `<div class="nav-item ${c===currentCounty?'active':''}" onclick="selectCounty('${c}')">${CITY_DISPLAY[c]} <span class="badge">${count}</span></div>`;
+    });
+  });
+  document.getElementById('sidebar').innerHTML = html;
+}
+
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('show');
+}
+
+function selectCounty(c) {
+  currentCounty = c;
+  currentArea = '';
+  document.getElementById('city-btn').innerHTML = `${CITY_DISPLAY[c]} <span style="font-size:10px;">▾</span>`;
+  toggleSidebar();
+  renderAreaBar();
+  renderGrid();
+}
+
+// ===== County Food =====
+function getCountyFood(city) {
+  if (!allData[city]) return [];
+  return allData[city].food || [];
+}
+
+// ===== Filter by county + area =====
+function getFilteredFood() {
+  let food = getCountyFood(currentCounty);
+  if (currentArea) {
+    food = food.filter(f => f.area === currentArea);
+  }
+  return food;
+}
+
+// ===== Category filter =====
 function getFoodByCategory(cat) {
+  let items = getFilteredFood();
   if (cat.isBreakfast) {
-    return allFood.filter(f => isBreakfast(f.name));
+    return items.filter(f => isBreakfast(f.name));
   }
-  let items = allFood.filter(f => (f.categories || []).includes(cat.key));
+  let result = items.filter(f => (f.categories || []).includes(cat.key));
   if (cat.alt) {
-    items = items.concat(allFood.filter(f => (f.categories || []).includes(cat.alt)));
+    result = result.concat(items.filter(f => (f.categories || []).includes(cat.alt)));
   }
-  return items;
+  return result;
 }
 
-// ===== Count per category =====
 function countByCategory(cat) {
   return getFoodByCategory(cat).length;
 }
 
-// ===== Find nearest per category =====
 function nearestByCategory(cat) {
   const items = getFoodByCategory(cat);
-  if (!items.length) return null;
-  return items.reduce((min, f) => f._dist < min._dist ? f : min);
+  if (!items.length || !userLocation) return null;
+  return items.reduce((min, f) => {
+    if (f.lat == null) return min;
+    const d = haversine(userLocation.lat, userLocation.lng, f.lat, f.lng);
+    return (!min || d < min._dist) ? {...f, _dist: d} : min;
+  }, null);
+}
+
+// ===== Area Bar (鄉鎮市區) =====
+function renderAreaBar() {
+  const food = getCountyFood(currentCounty);
+  const areas = {};
+  food.forEach(f => {
+    if (f.area && f.area.trim()) {
+      areas[f.area] = (areas[f.area] || 0) + 1;
+    }
+  });
+  const areaList = Object.keys(areas).sort();
+  
+  let html = `<span class="area-btn ${!currentArea?'active':''}" onclick="selectArea('')">全區 <span class="cnt">${food.length}</span></span>`;
+  areaList.forEach(a => {
+    let displayA = a.replace(/[鄉鎮市]$/, '');
+    if (displayA.length > 2 && displayA.endsWith('區')) displayA = displayA.slice(0, -1);
+    if (a === '平鎮區') displayA = '平鎮';
+    if (displayA.endsWith('平')) displayA = displayA + '鎮';
+    html += `<span class="area-btn ${currentArea===a?'active':''}" onclick="selectArea('${a}')">${displayA} <span class="cnt">${areas[a]}</span></span>`;
+  });
+  document.getElementById('area-bar').innerHTML = html;
+  document.getElementById('area-bar').style.display = 'flex';
+}
+
+function selectArea(area) {
+  currentArea = area;
+  showCount = 20;
+  renderAreaBar();
+  if (document.getElementById('list-view').style.display === 'flex') {
+    renderList();
+  } else {
+    renderGrid();
+  }
 }
 
 // ===== Render Grid (6x2) =====
@@ -289,14 +416,13 @@ function renderGrid() {
     const nearest = nearestByCategory(cat);
     let nearText = '';
     if (nearest && userLocation) {
-      const d = nearest._dist;
-      nearText = d < 1 ? `最近 ${(d * 1000).toFixed(0)}m` : `最近 ${d.toFixed(1)}km`;
+      nearText = nearest._dist < 1 ? `最近 ${(nearest._dist * 1000).toFixed(0)}m` : `最近 ${nearest._dist.toFixed(1)}km`;
     }
-    html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory(${JSON.stringify(cat.key).replace(/"/g,'&quot;')})">
+    html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">
       <span class="bg-icon">${cat.icon}</span>
       <span class="icon">${cat.icon}</span>
       <span class="label">${cat.label}</span>
-      <span class="count">${count > 0 ? count.toLocaleString() + ' 家' : '暫無'}</span>
+      <span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>
       ${nearText ? `<span class="near">${nearText}</span>` : ''}
     </div>`;
   });
@@ -309,14 +435,12 @@ function openCategory(catKey) {
   showCount = 20;
   sortMode = 'dist';
   
-  // Show list view, hide grid
   document.getElementById('grid-view').style.display = 'none';
   document.getElementById('list-view').style.display = 'flex';
   document.getElementById('list-header').style.display = 'flex';
   document.getElementById('list-stats').style.display = 'block';
   document.getElementById('fab').classList.add('hidden');
   
-  // Update header
   document.getElementById('list-cat-icon').textContent = currentCat.icon;
   document.getElementById('list-cat-name').textContent = currentCat.label;
   document.getElementById('sort-toggle').textContent = '距離 ↑';
@@ -330,7 +454,6 @@ function showGrid() {
   document.getElementById('list-header').style.display = 'none';
   document.getElementById('list-stats').style.display = 'none';
   document.getElementById('fab').classList.remove('hidden');
-  // Refresh grid (update nearest)
   renderGrid();
 }
 
@@ -345,13 +468,14 @@ function toggleSort() {
 
 // ===== Render List =====
 function renderList() {
-  const items = getFoodByCategory(currentCat);
+  const items = getFoodByCategory(currentCat).map(f => {
+    if (f.lat == null || !userLocation) return {...f, _dist: 0};
+    return {...f, _dist: haversine(userLocation.lat, userLocation.lng, f.lat, f.lng)};
+  });
   
-  // Sort
   if (sortMode === 'dist') {
     items.sort((a, b) => a._dist - b._dist);
   } else {
-    // Rating sort: rating desc, then distance asc
     items.sort((a, b) => {
       const rDiff = (b.rating || 0) - (a.rating || 0);
       if (Math.abs(rDiff) > 0.01) return rDiff;
@@ -361,14 +485,13 @@ function renderList() {
   
   document.getElementById('list-cat-count').textContent = `(${items.length} 家)`;
   
-  // Stats
   let statsHtml = `📍 <span class="pos">${userLocation ? userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4) : '--'}</span>`;
-  if (currentCat.isBreakfast) statsHtml += ` · 依名稱篩選早餐店`;
+  statsHtml += ` · ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'}`;
   statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
   document.getElementById('list-stats').innerHTML = statsHtml;
   
   if (!items.length) {
-    document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:#999;font-size:13px;">附近找不到此分類的美食</div>';
+    document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:#999;font-size:13px;">此區域找不到此分類的美食</div>';
     return;
   }
   
@@ -396,10 +519,10 @@ function renderList() {
         <span class="dist ${distCls}">${distText}</span>
       </div>
       <div class="row2">
-        <span class="county">${f.county}</span>
+        <span class="county">${currentCounty}</span>
         ${f.area ? `<span class="area">${f.area}</span>` : ''}
         ${ratingHtml}
-        <a class="nav" href="${gmapLink(f.name, f.county + (f.area?' '+f.area:''))}" target="_blank">📍導航</a>
+        <a class="nav" href="${gmapLink(f.name, currentCounty + (f.area?' '+f.area:''))}" target="_blank">📍導航</a>
         ${uberLink(f.lat, f.lng)}
       </div>
       ${tags.length ? `<div class="tags">${tags.join('')}</div>` : ''}
@@ -421,6 +544,27 @@ function showMoreList() {
   renderList();
 }
 
+// ===== Load all county data =====
+async function loadAllData() {
+  if (dataLoaded) return;
+  const batchSize = 5;
+  for (let i = 0; i < ORDER.length; i += batchSize) {
+    const batch = ORDER.slice(i, i + batchSize);
+    await Promise.all(batch.map(async (city) => {
+      const en = CITY_EN[city];
+      try {
+        const resp = await fetch(`data/${en}.json`);
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        allData[city] = await resp.json();
+      } catch(e) {
+        console.error(`Failed ${city}`, e);
+        allData[city] = { food: [], routes: [], spots: [], souvenirs: [] };
+      }
+    }));
+  }
+  dataLoaded = true;
+}
+
 // ===== GPS =====
 function showGeoBanner(text, showLocate) {
   const banner = document.getElementById('geo-banner');
@@ -433,25 +577,42 @@ function showGeoBanner(text, showLocate) {
 
 function locateMe() {
   if (!navigator.geolocation) { showGeoBanner('⚠️ 裝置不支援定位', false); return; }
-  showGeoBanner('📡 雷達啟動中... 載入全台美食...', false);
+  showGeoBanner('📡 雷達啟動中... 載入全台資料...', false);
   document.getElementById('no-gps-prompt').style.display = 'none';
   document.getElementById('fab').classList.add('hidden');
+  
+  const dataPromise = loadAllData();
   
   navigator.geolocation.getCurrentPosition(
     async (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      showGeoBanner('✅ 定位成功！正在計算距離...', false);
+      showGeoBanner('✅ 定位成功！偵測所在縣市...', false);
       
-      await loadAllFood();
-      allFood.forEach(f => { f._dist = haversine(userLocation.lat, userLocation.lng, f.lat, f.lng); });
+      await dataPromise;
       
-      // Show grid
+      // Auto-detect nearest county
+      const detected = detectNearestCounty(userLocation.lat, userLocation.lng);
+      if (detected) {
+        currentCounty = detected;
+        document.getElementById('city-btn').innerHTML = `${CITY_DISPLAY[detected]} <span style="font-size:10px;">▾</span>`;
+      }
+      
+      // Auto-detect nearest area
+      const detectedArea = detectNearestArea(userLocation.lat, userLocation.lng);
+      if (detectedArea) {
+        currentArea = detectedArea;
+      }
+      
+      // Render everything
+      renderSidebar();
+      renderAreaBar();
+      renderGrid();
+      
       document.getElementById('grid-view').style.display = 'grid';
       document.getElementById('fab').classList.remove('hidden');
       
-      renderGrid();
-      
-      setTimeout(() => document.getElementById('geo-banner').classList.add('hide'), 2500);
+      showGeoBanner(`✅ 已切換到 ${CITY_DISPLAY[currentCounty]}${detectedArea ? ' ' + detectedArea : ''}`, false);
+      setTimeout(() => document.getElementById('geo-banner').classList.add('hide'), 3000);
     },
     (err) => {
       let msg = '⚠️ 定位失敗，請重試';
@@ -459,14 +620,13 @@ function locateMe() {
       else if (err.code === 3) msg = '⚠️ 定位逾時，請重試';
       showGeoBanner(msg, true);
       document.getElementById('no-gps-prompt').style.display = 'flex';
-      document.getElementById('grid-view').style.display = 'none';
     },
     { enableHighAccuracy: true, timeout: 15000, maximumAge: 300000 }
   );
 }
 
 window.addEventListener('load', () => {
-  showGeoBanner('📍 點「允許定位」啟動美食雷達', true);
+  showGeoBanner('📍 點「允許定位」自動偵測所在縣市', true);
 });
 </script>
 
