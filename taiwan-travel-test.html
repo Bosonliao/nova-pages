@@ -215,9 +215,15 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 /* 排序按鈕 */
 .sort-btn{display:inline-block;padding:4px 12px;margin:2px;border-radius:16px;font-size:12px;cursor:pointer;border:1px solid #ddd;background:#fff;color:#555;transition:all .2s;}
 .sort-btn.active{background:#1a73e8;color:#fff;border-color:#1a73e8;}
+/* 開發中公告橫幅 */
+.dev-notice{position:fixed;top:0;left:0;right:0;z-index:1001;background:linear-gradient(135deg,#fff3cd,#ffe082);color:#856404;padding:10px 16px;text-align:center;font-size:13px;font-weight:500;display:flex;align-items:center;justify-content:center;gap:8px;box-shadow:0 1px 6px rgba(0,0,0,.12);animation:slideDown .4s ease;}
+.dev-notice.hide{display:none;}
+.dev-notice .close-btn{background:rgba(133,100,4,.15);border:none;color:#856404;border-radius:50%;width:22px;height:22px;font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;margin-left:8px;flex-shrink:0;}
+.dev-notice .close-btn:hover{background:rgba(133,100,4,.3);}
 </style>
 </head>
 <body>
+<div class="dev-notice" id="devNotice">🚧 網站持續優化中 — 部分資料更新中，如發現資訊異常請見諒。歡迎來信回饋：nova.ai0525@gmail.com<button class="close-btn" onclick="document.getElementById('devNotice').classList.add('hide')">✕</button></div>
 <button class="hamburger" id="hamburger" onclick="toggleSidebar()"><span class="ham-icon">☰</span><span class="ham-text" id="hamText">台北</span><span class="ham-arrow">▾ 選擇縣市</span></button>
 <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
 <div class="sidebar" id="sidebar">
