@@ -19723,6 +19723,24 @@
       ],
       "rating": 0,
       "reviews": 0
+    },
+    {
+      "name": "光嶼咖啡",
+      "description": "4.9星高評價咖啡店，巷弄內的質感空間，提供手沖咖啡與輕食",
+      "area": "楊梅",
+      "rating": 4.9,
+      "reviews": 165,
+      "categories": [
+        "咖啡廳"
+      ],
+      "tags": [
+        "sp"
+      ],
+      "category": "咖啡廳",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9220795,
+      "lng": 121.1863491
     }
   ]
 }
