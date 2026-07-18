@@ -67,27 +67,28 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 /* ===== Grid View (6x2) ===== */
 .grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(6,1fr);gap:10px;}
 
-.cat-card{background:var(--white);border-radius:var(--radius);display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:pointer;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden;box-shadow:var(--shadow);min-height:0;border-top:4px solid var(--teal-light);}
+.cat-card{background:var(--white);border-radius:var(--radius);display:flex;flex-direction:row;align-items:center;justify-content:flex-start;gap:12px;cursor:pointer;transition:transform .2s,box-shadow .2s;position:relative;overflow:hidden;box-shadow:var(--shadow);min-height:0;border-left:4px solid var(--teal-light);padding:10px 14px;}
 .cat-card:active{transform:scale(0.96);box-shadow:var(--shadow-hover);}
-.cat-card .bg-icon{position:absolute;font-size:72px;opacity:.06;top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none;}
-.cat-card .icon{font-size:40px;margin-bottom:6px;position:relative;z-index:1;}
-.cat-card .label{font-size:20px;font-weight:700;color:var(--navy);position:relative;z-index:1;}
-.cat-card .count{font-size:14px;color:var(--gray);margin-top:2px;position:relative;z-index:1;font-weight:500;}
-.cat-card .near{font-size:13px;color:var(--teal-dark);margin-top:2px;font-weight:600;position:relative;z-index:1;}
+.cat-card .bg-icon{position:absolute;font-size:72px;opacity:.05;right:-8px;bottom:-16px;pointer-events:none;}
+.cat-card .icon{font-size:42px;position:relative;z-index:1;flex-shrink:0;}
+.cat-card .text-wrap{position:relative;z-index:1;display:flex;flex-direction:column;gap:1px;min-width:0;}
+.cat-card .label{font-size:22px;font-weight:700;color:var(--navy);line-height:1.1;}
+.cat-card .count{font-size:15px;color:var(--gray);font-weight:500;}
+.cat-card .near{font-size:13px;color:var(--teal-dark);font-weight:600;}
 
-/* Category accent colors (teal palette style) */
-.cat-card[data-cat="中式"]{border-top-color:#E76F51;}
-.cat-card[data-cat="日式"]{border-top-color:#457B9D;}
-.cat-card[data-cat="火鍋"]{border-top-color:#E63946;}
-.cat-card[data-cat="咖啡廳"]{border-top-color:#C8A87E;}
-.cat-card[data-cat="甜品"]{border-top-color:#F4A261;}
-.cat-card[data-cat="飲品"]{border-top-color:#2A9D8F;}
-.cat-card[data-cat="西式"]{border-top-color:#F4A261;}
-.cat-card[data-cat="義式"]{border-top-color:#2E7D32;}
-.cat-card[data-cat="異國"]{border-top-color:#9B5DE5;}
-.cat-card[data-cat="素食"]{border-top-color:#66BB6A;}
-.cat-card[data-cat="烘焙"]{border-top-color:#8B6F47;}
-.cat-card[data-cat="早餐"]{border-top-color:#FFB74D;}
+/* Category accent colors (left border) */
+.cat-card[data-cat="中式"]{border-left-color:#E76F51;}
+.cat-card[data-cat="日式"]{border-left-color:#457B9D;}
+.cat-card[data-cat="火鍋"]{border-left-color:#E63946;}
+.cat-card[data-cat="咖啡廳"]{border-left-color:#C8A87E;}
+.cat-card[data-cat="甜品"]{border-left-color:#F4A261;}
+.cat-card[data-cat="飲品"]{border-left-color:#2A9D8F;}
+.cat-card[data-cat="西式"]{border-left-color:#F4A261;}
+.cat-card[data-cat="義式"]{border-left-color:#2E7D32;}
+.cat-card[data-cat="異國"]{border-left-color:#9B5DE5;}
+.cat-card[data-cat="素食"]{border-left-color:#66BB6A;}
+.cat-card[data-cat="烘焙"]{border-left-color:#8B6F47;}
+.cat-card[data-cat="早餐"]{border-left-color:#FFB74D;}
 
 /* ===== List View ===== */
 .list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
@@ -153,9 +154,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .footer a{color:var(--teal);text-decoration:none;}
 
 @media(max-width:360px){
-  .cat-card .icon{font-size:32px;}
-  .cat-card .label{font-size:17px;}
-  .cat-card .count{font-size:12px;}
+  .cat-card .icon{font-size:34px;}
+  .cat-card .label{font-size:18px;}
+  .cat-card .count{font-size:13px;}
   .cat-card .near{font-size:11px;}
   .app-header .title{font-size:15px;}
 }
@@ -409,9 +410,11 @@ function renderGrid() {
     html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">
       <span class="bg-icon">${cat.icon}</span>
       <span class="icon">${cat.icon}</span>
-      <span class="label">${cat.label}</span>
-      <span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>
-      ${nearText ? `<span class="near">${nearText}</span>` : ''}
+      <span class="text-wrap">
+        <span class="label">${cat.label}</span>
+        <span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>
+        ${nearText ? `<span class="near">${nearText}</span>` : ''}
+      </span>
     </div>`;
   });
   document.getElementById('grid-view').innerHTML = html;
@@ -507,7 +510,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.01 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.02 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
