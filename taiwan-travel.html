@@ -1034,7 +1034,8 @@ function hideGeoBanner() {
 }
 
 function distBadge(lat, lng) {
-  if (!userLocation || lat == null || lng == null) return '';
+  if (!userLocation) return '';
+  if (lat == null || lng == null) return ' <span class="dist-badge" style="background:#999;color:#fff;">待更新</span>';
   const d = haversine(userLocation.lat, userLocation.lng, lat, lng);
   let cls = d < 5 ? 'near' : d > 50 ? 'far' : '';
   return ` <span class="dist-badge ${cls}">${d.toFixed(1)}km</span>`;
