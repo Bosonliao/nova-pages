@@ -968,7 +968,7 @@ function getUserLocation() {
   );
 }
 
-function showGeoBanner(text, showRetry, isLoading, isSuccess) {
+function showGeoBanner(text, showRetry, isLoading, isSuccess, showAllow) {
   let banner = document.getElementById('geo-banner');
   if (!banner) return;
   banner.classList.remove('hide');
@@ -979,6 +979,8 @@ function showGeoBanner(text, showRetry, isLoading, isSuccess) {
     html += '<button onclick="hideGeoBanner()">手動選擇</button>';
   } else if (isSuccess) {
     html += '<button onclick="hideGeoBanner()">✕</button>';
+  } else if (showAllow) {
+    html += '<button onclick="getUserLocation()">允許定位</button>';
   }
   banner.innerHTML = html;
 }
@@ -1022,7 +1024,7 @@ function initApp(){
   // Pulse hint on load
   setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
   // Show banner on load, don't auto-trigger permission prompt
-  showGeoBanner('📍 點「允許定位」即可顯示距離', false);
+  showGeoBanner('📍 點下方按鈕允許定位，顯示距離', false, false, false, true);
 }
 </script>
 
