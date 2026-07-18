@@ -200,10 +200,13 @@ body{font-family:'Segoe UI','Microsoft JhengHei',sans-serif;background:#f0f4f8;c
 .geo-btn:hover{transform:scale(1.1);box-shadow:0 6px 16px rgba(0,0,0,.4);}
 .geo-btn.located{background:#4caf50;}
 .geo-btn.loading{background:#ff9800;animation:spin 1s linear infinite;}
-.geo-banner{position:fixed;top:0;left:0;right:0;z-index:1000;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:14px 20px;text-align:center;font-size:14px;box-shadow:0 2px 12px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;gap:10px;animation:slideDown .4s ease;}
+.geo-banner{position:fixed;top:0;left:0;right:0;z-index:1002;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:8px 12px;text-align:center;font-size:12px;box-shadow:0 2px 8px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:space-between;gap:8px;animation:slideDown .4s ease;}
 .geo-banner.hide{display:none;}
-.geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:20px;padding:6px 18px;font-size:13px;font-weight:600;cursor:pointer;}
+.geo-banner span{flex:1;text-align:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:16px;padding:4px 12px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;}
 .geo-banner button:hover{background:#e8f0fe;}
+body:has(.geo-banner:not(.hide)) .hamburger{top:36px;}
+body.geo-banner-visible .hamburger{top:36px;}
 .uber-link{display:inline-flex;align-items:center;justify-content:center;background:#000;color:#fff;font-size:10px;font-weight:700;text-decoration:none;margin-left:4px;vertical-align:middle;border-radius:4px;padding:2px 6px;letter-spacing:0.5px;}
 .uber-link:hover{background:#333;transform:scale(1.05);}
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
@@ -325,7 +328,7 @@ function detectNearestArea(lat, lng){
 
 function autoSwitchCounty(lat, lng){
   const county = detectNearestCounty(lat, lng);
-  if(!county || county === currentCounty) return;
+  if(!county || county === currentCounty) return county;
   autoDetectedCounty = county;
   autoDetectedArea = null;
   selectCounty(county);
@@ -940,23 +943,53 @@ function haversine(lat1, lng1, lat2, lng2) {
 }
 
 function getUserLocation() {
-  if (!navigator.geolocation) { return; }
+  if (!navigator.geolocation) {
+    showGeoBanner('⚠️ 您的裝置不支援定位功能', true);
+    return;
+  }
+  showGeoBanner('⏳ 定位中...', false, true);
   navigator.geolocation.getCurrentPosition(
     (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-      const banner = document.getElementById('geo-banner');
-      if (banner) banner.classList.add('hide');
-      // 自動偵測最近縣市並切換
-      autoSwitchCounty(userLocation.lat, userLocation.lng);
+      const nearest = autoSwitchCounty(userLocation.lat, userLocation.lng);
+      showGeoBanner('✅ 定位成功！' + (nearest ? '已切換到' + nearest : '距離已顯示'), false, false, true);
       render();
+      setTimeout(() => {
+        hideGeoBanner();
+      }, 4000);
     },
     (err) => {
-      const banner = document.getElementById('geo-banner');
-      if (banner) banner.classList.add('hide');
+      let msg = '⚠️ 定位失敗，請重試或手動選擇縣市';
+      if (err.code === 1) msg = '⚠️ 已拒絕定位權限，請手動選擇縣市或至設定允許';
+      else if (err.code === 3) msg = '⚠️ 定位逾時，請重試';
+      showGeoBanner(msg, true);
       render();
     },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 300000 }
   );
+}
+
+function showGeoBanner(text, showRetry, isLoading, isSuccess, showAllow) {
+  let banner = document.getElementById('geo-banner');
+  if (!banner) return;
+  banner.classList.remove('hide');
+  document.body.classList.add('geo-banner-visible');
+  let html = '<span>' + text + '</span>';
+  if (showRetry) {
+    html += '<button onclick="getUserLocation()">重試</button>';
+    html += '<button onclick="hideGeoBanner()">手動選擇</button>';
+  } else if (isSuccess) {
+    html += '<button onclick="hideGeoBanner()">✕</button>';
+  } else if (showAllow) {
+    html += '<button onclick="getUserLocation()">允許定位</button>';
+  }
+  banner.innerHTML = html;
+}
+
+function hideGeoBanner() {
+  const banner = document.getElementById('geo-banner');
+  if (banner) banner.classList.add('hide');
+  document.body.classList.remove('geo-banner-visible');
 }
 
 function distBadge(lat, lng) {
@@ -991,8 +1024,8 @@ function initApp(){
   });
   // Pulse hint on load
   setTimeout(()=>{const h=document.getElementById('hamburger');if(h){h.classList.add('hint');setTimeout(()=>h.classList.remove('hint'),7000);}},1000);
-  // Auto request location
-  getUserLocation();
+  // Show banner on load, don't auto-trigger permission prompt
+  showGeoBanner('📍 點下方按鈕允許定位，顯示距離', false, false, false, true);
 }
 </script>
 
