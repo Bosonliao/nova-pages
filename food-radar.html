@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <title>美食雷達 - 星思旅食快搜神器</title>
-<meta name="description" content="GPS 美食雷達，掃描你附近的美食，依距離圈層分組顯示。">
-<meta name="theme-color" content="#0d47a1">
+<meta name="description" content="GPS 美食雷達，12 大分類，點進去帶出離你最近的美食，距離+評價排序。">
+<meta name="theme-color" content="#e65100">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/png" href="favicon-32.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -14,128 +14,88 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
 :root{
-  --bg:#0a0e27;
-  --bg2:#111936;
-  --card:#fff;
+  --primary:#e65100;
+  --primary-dark:#bf360c;
+  --bg:#f5f5f5;
+  --card-bg:#fff;
   --text:#333;
-  --primary:#00e5ff;
-  --primary-dark:#0097a7;
-  --accent:#ff6f00;
-  --radius:14px;
 }
 html,body{height:100%;overflow:hidden;}
-body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;background:var(--bg);color:#fff;display:flex;flex-direction:column;height:100vh;height:100dvh;}
+body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;height:100vh;height:100dvh;}
 
 /* ===== Header ===== */
-.app-header{background:linear-gradient(135deg,#0d47a1,#1565c0);padding:10px 14px;flex-shrink:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.3);display:flex;align-items:center;gap:8px;}
+.app-header{background:linear-gradient(135deg,var(--primary-dark),var(--primary));color:#fff;padding:10px 14px;flex-shrink:0;z-index:100;box-shadow:0 2px 6px rgba(0,0,0,.12);display:flex;align-items:center;gap:8px;}
 .app-header .logo{width:30px;height:30px;border-radius:50%;border:1.5px solid rgba(255,255,255,.3);flex-shrink:0;}
 .app-header .title{font-size:17px;font-weight:800;line-height:1.1;}
-.app-header .sub{font-size:9px;opacity:.6;}
-.app-header .back{margin-left:auto;color:#fff;text-decoration:none;font-size:12px;opacity:.7;padding:5px 10px;border:1px solid rgba(255,255,255,.25);border-radius:16px;}
-.app-header .back:active{background:rgba(255,255,255,.1);opacity:1;}
-
-/* ===== Radar Section ===== */
-.radar-section{flex-shrink:0;background:radial-gradient(ellipse at center,#111936 0%,#0a0e27 70%);position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;transition:height .4s;min-height:0;}
-.radar-section.expanded{height:280px;}
-.radar-section.collapsed{height:48px;}
-
-.radar-wrap{position:relative;width:200px;height:200px;margin:8px auto;transition:all .4s;}
-.radar-section.collapsed .radar-wrap{width:0;height:0;margin:0;opacity:0;}
-
-/* Radar circles */
-.radar-circle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);border:1px solid rgba(0,229,255,.2);border-radius:50%;pointer-events:none;}
-.radar-circle.c1{width:60px;height:60px;border-color:rgba(0,229,255,.35);}
-.radar-circle.c2{width:120px;height:120px;border-color:rgba(0,229,255,.25);}
-.radar-circle.c3{width:180px;height:180px;border-color:rgba(0,229,255,.15);}
-
-/* Radar sweep */
-.radar-sweep{position:absolute;top:50%;left:50%;width:200px;height:200px;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;}
-.radar-sweep::before{content:'';position:absolute;top:0;left:50%;width:50%;height:50%;background:conic-gradient(from 0deg,rgba(0,229,255,0) 0deg,rgba(0,229,255,.4) 60deg,rgba(0,229,255,0) 80deg);transform-origin:bottom right;animation:sweep 3s linear infinite;border-radius:100% 0 0 0;}
-.radar-sweep::after{content:'';position:absolute;top:50%;left:0;width:100%;height:1px;background:rgba(0,229,255,.3);}
-@keyframes sweep{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}
-
-/* Radar center dot (user) */
-.radar-center{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:10px;height:10px;background:var(--primary);border-radius:50%;box-shadow:0 0 12px rgba(0,229,255,.8);z-index:5;animation:pulse 2s ease-in-out infinite;}
-@keyframes pulse{0%,100%{transform:translate(-50%,-50%) scale(1);box-shadow:0 0 12px rgba(0,229,255,.8);}50%{transform:translate(-50%,-50%) scale(1.4);box-shadow:0 0 20px rgba(0,229,255,1);}}
-
-/* Food dots on radar */
-.radar-dot{position:absolute;width:6px;height:6px;border-radius:50%;z-index:4;cursor:pointer;transition:all .3s;}
-.radar-dot.near{background:#4caf50;box-shadow:0 0 6px rgba(76,175,80,.8);}
-.radar-dot.mid{background:#ffc107;box-shadow:0 0 6px rgba(255,193,7,.8);}
-.radar-dot.far{background:#ff9800;box-shadow:0 0 6px rgba(255,152,0,.8);}
-.radar-dot:active{transform:scale(2);}
-
-/* Radar labels */
-.radar-label{position:absolute;font-size:9px;color:rgba(0,229,255,.5);pointer-events:none;}
-.radar-label.r1{top:calc(50% - 34px);left:50%;transform:translateX(-50%);}
-.radar-label.r2{top:calc(50% - 64px);left:50%;transform:translateX(-50%);}
-.radar-label.r3{top:calc(50% - 94px);left:50%;transform:translateX(-50%);}
-
-/* Radar info */
-.radar-info{text-align:center;padding:4px 0 8px;}
-.radar-info .count{font-size:24px;font-weight:800;color:var(--primary);text-shadow:0 0 12px rgba(0,229,255,.5);}
-.radar-info .label{font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;}
-.radar-section.collapsed .radar-info{display:flex;align-items:center;gap:8px;padding:8px 14px;width:100%;justify-content:center;}
-.radar-section.collapsed .radar-info .count{font-size:16px;}
-.radar-section.collapsed .radar-info .label{font-size:11px;margin-top:0;}
-
-/* Toggle radar */
-.radar-toggle{position:absolute;top:8px;right:8px;color:rgba(255,255,255,.4);font-size:16px;cursor:pointer;z-index:10;padding:4px 8px;}
+.app-header .sub{font-size:9px;opacity:.7;}
+.app-header .back{margin-left:auto;color:#fff;text-decoration:none;font-size:12px;opacity:.85;padding:5px 10px;border:1px solid rgba(255,255,255,.3);border-radius:16px;}
 
 /* ===== Geo Banner ===== */
-.geo-banner{background:linear-gradient(135deg,#0d47a1,#1976d2);color:#fff;padding:7px 14px;font-size:12px;display:flex;align-items:center;justify-content:space-between;gap:6px;flex-shrink:0;transition:all .3s;overflow:hidden;max-height:36px;}
+.geo-banner{background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;padding:7px 14px;font-size:12px;display:flex;align-items:center;justify-content:space-between;gap:6px;flex-shrink:0;transition:all .3s;overflow:hidden;max-height:36px;}
 .geo-banner.hide{max-height:0;padding:0;opacity:0;}
 .geo-banner span{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
-.geo-banner button{background:#fff;color:#0d47a1;border:none;border-radius:12px;padding:3px 12px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;}
+.geo-banner button{background:#fff;color:#1a73e8;border:none;border-radius:12px;padding:3px 12px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;}
 
-/* ===== Filter Bar ===== */
-.filter-section{background:var(--bg2);flex-shrink:0;}
-.search-row{padding:6px 10px;display:flex;gap:6px;}
-.search-row input{flex:1;padding:7px 12px;border:1px solid rgba(0,229,255,.2);border-radius:18px;font-size:13px;outline:none;background:rgba(0,0,0,.2);color:#fff;transition:border .2s;}
-.search-row input:focus{border-color:var(--primary);}
-.search-row input::placeholder{color:rgba(255,255,255,.3);}
+/* ===== Grid View (6x2) ===== */
+.grid-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:10px;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(6,1fr);gap:8px;}
 
-.cat-scroll{display:flex;gap:4px;padding:4px 10px 6px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
-.cat-scroll::-webkit-scrollbar{display:none;}
-.cat-btn{border:1px solid rgba(0,229,255,.15);border-radius:14px;padding:4px 11px;font-size:12px;background:transparent;color:rgba(255,255,255,.6);cursor:pointer;white-space:nowrap;transition:all .15s;flex-shrink:0;}
-.cat-btn.active{background:var(--primary);color:#000;border-color:var(--primary);font-weight:700;}
-.cat-btn .cnt{font-size:10px;opacity:.5;margin-left:2px;}
+.cat-card{background:var(--card-bg);border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:pointer;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.06);min-height:0;}
+.cat-card:active{transform:scale(0.95);box-shadow:0 2px 12px rgba(0,0,0,.12);}
+.cat-card .bg-icon{position:absolute;font-size:64px;opacity:.08;top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none;}
+.cat-card .icon{font-size:32px;margin-bottom:6px;position:relative;z-index:1;}
+.cat-card .label{font-size:15px;font-weight:700;color:#333;position:relative;z-index:1;}
+.cat-card .count{font-size:11px;color:#999;margin-top:2px;position:relative;z-index:1;}
+.cat-card .near{font-size:10px;color:#1565c0;margin-top:2px;font-weight:600;position:relative;z-index:1;}
 
-.sort-row{display:flex;gap:4px;padding:0 10px 6px;align-items:center;}
-.sort-row .lbl{font-size:10px;color:rgba(255,255,255,.3);margin-right:2px;}
-.sort-btn{border:1px solid rgba(0,229,255,.12);border-radius:12px;padding:3px 10px;font-size:11px;background:transparent;color:rgba(255,255,255,.5);cursor:pointer;white-space:nowrap;transition:all .15s;}
-.sort-btn.active{background:rgba(0,229,255,.15);color:var(--primary);border-color:var(--primary);font-weight:600;}
+/* Category-specific accent colors */
+.cat-card[data-cat="中式"]{border-bottom:3px solid #e65100;}
+.cat-card[data-cat="日式"]{border-bottom:3px solid #1565c0;}
+.cat-card[data-cat="火鍋"]{border-bottom:3px solid #d32f2f;}
+.cat-card[data-cat="咖啡廳"]{border-bottom:3px solid #5d4037;}
+.cat-card[data-cat="甜品"]{border-bottom:3px solid #e91e63;}
+.cat-card[data-cat="飲品"]{border-bottom:3px solid #00897b;}
+.cat-card[data-cat="西式"]{border-bottom:3px solid #ff9800;}
+.cat-card[data-cat="義式"]{border-bottom:3px solid #2e7d32;}
+.cat-card[data-cat="異國"]{border-bottom:3px solid #7b1fa2;}
+.cat-card[data-cat="素食"]{border-bottom:3px solid #43a047;}
+.cat-card[data-cat="烘焙"]{border-bottom:3px solid #8d6e63;}
+.cat-card[data-cat="早餐"]{border-bottom:3px solid #ffa726;}
 
-/* ===== Main List ===== */
-.app-main{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;background:#f5f5f5;}
+/* ===== No GPS ===== */
+.no-gps{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 24px;text-align:center;}
+.no-gps .icon{font-size:64px;margin-bottom:16px;animation:bounce 2s ease-in-out infinite;}
+@keyframes bounce{0%,100%{transform:translateY(0);}50%{transform:translateY(-10px);}}
+.no-gps h2{color:var(--primary);font-size:20px;margin-bottom:8px;}
+.no-gps p{color:#666;font-size:14px;margin-bottom:20px;line-height:1.6;}
+.no-gps button{padding:14px 40px;background:linear-gradient(135deg,#1a73e8,#4285f4);color:#fff;border:none;border-radius:28px;font-size:16px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(26,115,232,.3);}
+.no-gps button:active{transform:scale(0.96);}
 
-/* Distance group header */
-.dist-group{margin-bottom:8px;}
-.dist-group-header{display:flex;align-items:center;gap:6px;padding:10px 14px 4px;font-size:13px;font-weight:700;color:#0d47a1;}
-.dist-group-header .ring{width:10px;height:10px;border-radius:50%;border:2px solid;flex-shrink:0;}
-.dist-group-header .ring.r1{border-color:#4caf50;}
-.dist-group-header .ring.r2{border-color:#ffc107;}
-.dist-group-header .ring.r3{border-color:#ff9800;}
-.dist-group-header .ring.r4{border-color:#f44336;}
-.dist-group-header .cnt{font-size:11px;color:#999;font-weight:400;margin-left:auto;background:#e3f2fd;border-radius:10px;padding:1px 8px;color:#1565c0;}
+/* ===== List View ===== */
+.list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
 
-/* Card */
-.card{background:#fff;margin:0 10px 5px;border-radius:12px;padding:11px 13px;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:transform .12s;}
+.list-header{display:flex;align-items:center;gap:8px;padding:10px 14px;background:#fff;border-bottom:1px solid #e0e0e0;flex-shrink:0;position:sticky;top:0;z-index:10;}
+.list-header .back-btn{font-size:20px;cursor:pointer;color:var(--primary);flex-shrink:0;padding:4px 8px;}
+.list-header .cat-icon{font-size:22px;}
+.list-header .cat-name{font-size:16px;font-weight:700;color:#333;}
+.list-header .cat-count{font-size:12px;color:#999;margin-left:4px;}
+.list-header .sort-toggle{margin-left:auto;font-size:12px;color:var(--primary);cursor:pointer;padding:4px 10px;border:1px solid var(--primary);border-radius:12px;font-weight:600;}
+
+.list-stats{padding:6px 14px 4px;font-size:11px;color:#999;text-align:center;flex-shrink:0;}
+.list-stats .pos{color:var(--primary);font-weight:600;}
+
+.card{background:#fff;margin:0 10px 5px;border-radius:10px;padding:11px 13px;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:transform .12s;}
 .card:active{transform:scale(0.98);}
 .card .row1{display:flex;align-items:center;gap:5px;}
 .card .name{font-weight:700;font-size:14px;color:#264653;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
-.card .dist{font-size:12px;font-weight:700;border-radius:8px;padding:2px 7px;white-space:nowrap;flex-shrink:0;}
-.card .dist.r1{color:#2e7d32;background:#e8f5e9;}
-.card .dist.r2{color:#f57f17;background:#fff9c4;}
-.card .dist.r3{color:#e65100;background:#fff3e0;}
-.card .dist.r4{color:#c62828;background:#ffebee;}
+.card .dist{font-size:12px;font-weight:700;color:#1565c0;background:#e3f2fd;border-radius:8px;padding:2px 7px;white-space:nowrap;flex-shrink:0;}
+.card .dist.near{color:#2e7d32;background:#e8f5e9;}
+.card .dist.far{color:#757575;background:#f5f5f5;}
 .card .row2{display:flex;align-items:center;gap:5px;margin-top:4px;font-size:11px;color:#888;}
 .card .county{background:#e8eaf6;color:#1a237e;border-radius:5px;padding:1px 6px;font-size:10px;font-weight:600;}
 .card .area{background:#f3e5f5;color:#7b1fa2;border-radius:5px;padding:1px 6px;font-size:10px;}
 .card .rating .star{color:#ffc107;font-weight:700;}
 .card .rating .rv{color:#aaa;font-size:10px;}
 .card .nav{font-size:11px;color:#2A9D8F;text-decoration:none;white-space:nowrap;margin-left:auto;flex-shrink:0;padding:2px 8px;border:1px solid #2A9D8F;border-radius:11px;}
-.card .nav:active{background:#e0f2f1;}
 .card .uber{font-size:8px;font-weight:700;color:#fff;background:#000;border-radius:4px;padding:1px 4px;text-decoration:none;margin-left:3px;}
 .card .tags{display:flex;flex-wrap:wrap;gap:3px;margin-top:4px;}
 .card .tag{font-size:9px;font-weight:600;padding:1px 6px;border-radius:7px;background:#E9F5F4;color:#1D6F64;}
@@ -143,45 +103,29 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
 .card .tag.mstar{background:#b71c1c;color:#fff;}
 .card .tag.mbib{background:#ff6f00;color:#fff;}
 .card .tag.msel{background:#fff9c4;color:#b71c1c;border:1px solid #fbc02d;}
-.card .tag.sstc{background:#f3e5f5;color:#7b1fa2;}
 .card .desc{font-size:11px;color:#777;margin-top:3px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
 
-/* Loading */
-.loading{text-align:center;padding:50px 20px;color:rgba(255,255,255,.5);}
-.loading .spinner{width:36px;height:36px;border:3px solid rgba(0,229,255,.15);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 10px;}
+.see-more{text-align:center;padding:10px;margin:6px 10px 8px;border-radius:10px;background:#fff3e0;color:var(--primary);font-size:13px;font-weight:600;cursor:pointer;border:1px solid #ffe0b2;}
+.see-more:active{background:#ffe0b2;}
+
+/* ===== Loading ===== */
+.loading{text-align:center;padding:50px 20px;color:#999;}
+.loading .spinner{width:36px;height:36px;border:3px solid #e0e0e0;border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 10px;}
 @keyframes spin{to{transform:rotate(360deg);}}
 
-/* No GPS */
-.no-gps{text-align:center;padding:48px 24px;color:rgba(255,255,255,.7);}
-.no-gps .icon{font-size:64px;margin-bottom:16px;animation:radarBounce 2s ease-in-out infinite;}
-@keyframes radarBounce{0%,100%{transform:translateY(0) rotate(0);}50%{transform:translateY(-8px) rotate(10deg);}}
-.no-gps h2{color:var(--primary);font-size:19px;margin-bottom:8px;text-shadow:0 0 12px rgba(0,229,255,.4);}
-.no-gps p{color:rgba(255,255,255,.5);font-size:13px;margin-bottom:20px;line-height:1.6;}
-.no-gps button{padding:14px 40px;background:linear-gradient(135deg,#0d47a1,#1976d2);color:#fff;border:none;border-radius:28px;font-size:16px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(13,71,161,.4);}
-.no-gps button:active{transform:scale(0.96);}
-
-/* See more */
-.see-more{text-align:center;padding:10px;margin:6px 10px 8px;border-radius:10px;background:#e3f2fd;color:#1565c0;font-size:13px;font-weight:600;cursor:pointer;}
-.see-more:active{background:#bbdefb;}
-
-/* Empty */
-.empty{text-align:center;padding:30px;color:#999;font-size:13px;}
-
-/* FAB */
-.fab{position:fixed;bottom:12px;right:12px;z-index:99;background:linear-gradient(135deg,#0d47a1,#1976d2);color:#fff;border:none;border-radius:50%;width:44px;height:44px;font-size:18px;cursor:pointer;box-shadow:0 3px 12px rgba(13,71,161,.4);transition:all .2s;display:flex;align-items:center;justify-content:center;}
+/* ===== FAB ===== */
+.fab{position:fixed;bottom:12px;right:12px;z-index:99;background:var(--primary);color:#fff;border:none;border-radius:50%;width:42px;height:42px;font-size:18px;cursor:pointer;box-shadow:0 3px 10px rgba(0,0,0,.2);transition:all .2s;display:flex;align-items:center;justify-content:center;}
 .fab:active{transform:scale(0.9);}
 .fab.hidden{display:none;}
 
-/* Footer */
 .footer{text-align:center;padding:14px 12px 8px;font-size:10px;color:#bbb;}
-.footer a{color:var(--primary-dark);text-decoration:none;}
+.footer a{color:var(--primary);text-decoration:none;}
 
-@media(max-width:380px){
-  .radar-wrap{width:170px;height:170px;}
-  .radar-sweep{width:170px;height:170px;}
-  .radar-circle.c3{width:160px;height:160px;}
-  .radar-circle.c2{width:110px;height:110px;}
-  .radar-circle.c1{width:55px;height:55px;}
+@media(max-width:360px){
+  .cat-card .icon{font-size:26px;}
+  .cat-card .label{font-size:13px;}
+  .cat-card .count{font-size:10px;}
+  .cat-card .near{font-size:9px;}
 }
 </style>
 </head>
@@ -192,88 +136,70 @@ body{font-family:'Segoe UI','Microsoft JhengHei',-apple-system,sans-serif;backgr
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">GPS 掃描 · 全台 17,000+ 美食</div>
+    <div class="sub">GPS 定位 · 12 大分類 · 距離+評價排序</div>
   </div>
   <a href="taiwan-travel.html" class="back">← 主站</a>
 </div>
 
 <!-- Geo Banner -->
 <div class="geo-banner" id="geo-banner">
-  <span>📡 點「允許定位」啟動美食雷達</span>
+  <span>📍 點「允許定位」啟動美食雷達</span>
   <button onclick="locateMe()">允許定位</button>
 </div>
 
-<!-- Radar -->
-<div class="radar-section expanded" id="radar-section">
-  <div class="radar-toggle" id="radar-toggle" onclick="toggleRadar()">−</div>
-  <div class="radar-wrap" id="radar-wrap">
-    <div class="radar-circle c3"></div>
-    <div class="radar-circle c2"></div>
-    <div class="radar-circle c1"></div>
-    <div class="radar-sweep"></div>
-    <div class="radar-center"></div>
-    <div id="radar-dots"></div>
-    <div class="radar-label r1">1km</div>
-    <div class="radar-label r2">3km</div>
-    <div class="radar-label r3">5km</div>
+<!-- Grid View -->
+<div class="grid-view" id="grid-view" style="display:none;"></div>
+
+<!-- List View -->
+<div class="list-view" id="list-view">
+  <div class="list-header" id="list-header" style="display:none;">
+    <span class="back-btn" onclick="showGrid()">←</span>
+    <span class="cat-icon" id="list-cat-icon"></span>
+    <span class="cat-name" id="list-cat-name"></span>
+    <span class="cat-count" id="list-cat-count"></span>
+    <span class="sort-toggle" id="sort-toggle" onclick="toggleSort()">距離 ↑</span>
   </div>
-  <div class="radar-info" id="radar-info">
-    <div class="count" id="radar-count">—</div>
-    <div class="label" id="radar-label">啟動雷達掃描中...</div>
-  </div>
+  <div class="list-stats" id="list-stats" style="display:none;"></div>
+  <div id="list-content"></div>
 </div>
 
-<!-- Filters -->
-<div class="filter-section" id="filters" style="display:none;">
-  <div class="search-row">
-    <input type="text" id="search-input" placeholder="🔍 搜尋餐廳..." oninput="onSearch(this.value)">
-  </div>
-  <div class="cat-scroll" id="cat-scroll"></div>
-  <div class="sort-row">
-    <span class="lbl">排序</span>
-    <span class="sort-btn active" data-sort="dist" onclick="setSort('dist')">📏 距離</span>
-    <span class="sort-btn" data-sort="rating" onclick="setSort('rating')">★ 評分</span>
-    <span class="sort-btn" data-sort="popular" onclick="setSort('popular')">🔥 人氣</span>
-    <span class="sort-btn" data-sort="weighted" onclick="setSort('weighted')">📊 加權</span>
-  </div>
+<!-- No GPS -->
+<div class="no-gps" id="no-gps-prompt">
+  <div class="icon">📡</div>
+  <h2>啟動美食雷達</h2>
+  <p>GPS 定位後，12 大分類帶你找到<br>離你最近的美食，距離 + 評價排序</p>
+  <button onclick="locateMe()">📍 允許定位</button>
 </div>
 
-<!-- Main List -->
-<div class="app-main" id="main">
-  <div class="no-gps" id="no-gps-prompt">
-    <div class="icon">📡</div>
-    <h2>啟動美食雷達</h2>
-    <p>GPS 定位後，雷達掃描你附近的美食<br>依距離圈層分組：1km / 3km / 5km / 10km+</p>
-    <button onclick="locateMe()">📡 啟動雷達</button>
-  </div>
-  <div id="content"></div>
-</div>
-
-<button class="fab hidden" id="fab" onclick="locateMe()" title="重新掃描">📡</button>
+<button class="fab hidden" id="fab" onclick="locateMe()" title="重新定位">📍</button>
 
 <script>
 const CITY_EN = {"基隆":"keelung","台北":"taipei","新北":"newtaipei","宜蘭":"yilan","桃園":"taoyuan","新竹":"hsinchu","苗栗":"miaoli","台中":"taichung","南投":"nantou","彰化":"changhua","雲林":"yunlin","嘉義":"chiayi","台南":"tainan","高雄":"kaohsiung","屏東":"pingtung","花蓮":"hualien","台東":"taitung","澎湖":"penghu","金馬":"kinmen"};
 const ORDER = Object.keys(CITY_EN);
-const CAT_ORDER = ['中式','日式','西式','義式','異國','火鍋','咖啡廳','甜品','烘焙','素食','飲品'];
-const RADAR_RANGE = 5; // km, max range shown on radar
-const RADAR_PX = 100; // radar radius in px (half of 200px)
 
-// Distance rings
-const RINGS = [
-  {max:1, label:'1km 內', cls:'r1', color:'#4caf50'},
-  {max:3, label:'1-3km', cls:'r2', color:'#ffc107'},
-  {max:5, label:'3-5km', cls:'r3', color:'#ff9800'},
-  {max:Infinity, label:'5km+', cls:'r4', color:'#f44336'},
+const CATEGORIES = [
+  {key:'中式', icon:'🍜', label:'中式'},
+  {key:'日式', icon:'🍣', label:'日式'},
+  {key:'火鍋', icon:'🍲', label:'火鍋'},
+  {key:'咖啡廳', icon:'☕', label:'咖啡廳'},
+  {key:'甜品', icon:'🍰', label:'甜品'},
+  {key:'飲品', icon:'🥤', label:'飲品', alt:'饮品'},
+  {key:'西式', icon:'🍕', label:'西式'},
+  {key:'義式', icon:'🍝', label:'義式'},
+  {key:'異國', icon:'🌍', label:'異國'},
+  {key:'素食', icon:'🥗', label:'素食'},
+  {key:'烘焙', icon:'🥐', label:'烘焙'},
+  {key:'早餐', icon:'🍳', label:'早餐', isBreakfast:true},
 ];
+
+const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','阜杭','劉山東','好味豆','吐司','鍋貼','蛋餅','蔥油餅','燒肉'];
 
 let userLocation = null;
 let allFood = [];
 let dataLoaded = false;
-let currentCat = '';
-let sortMode = 'dist';
-let searchQuery = '';
+let currentCat = null;
+let sortMode = 'dist'; // 'dist' | 'rating'
 let showCount = 20;
-let radarCollapsed = false;
 
 function haversine(lat1, lng1, lat2, lng2) {
   const R = 6371;
@@ -297,6 +223,10 @@ function hasTag(f, t) {
   if (!f.tags) return false;
   if (Array.isArray(f.tags)) return f.tags.includes(t);
   return !!f.tags[t];
+}
+
+function isBreakfast(name) {
+  return BREAKFAST_KEYWORDS.some(kw => name.includes(kw));
 }
 
 // ===== Load all food =====
@@ -327,198 +257,168 @@ async function loadAllFood() {
   dataLoaded = true;
 }
 
-// ===== Radar Dots =====
-function renderRadarDots() {
-  if (!userLocation) return;
-  const nearby = allFood
-    .filter(f => f._dist <= RADAR_RANGE)
-    .sort((a, b) => a._dist - b._dist)
-    .slice(0, 30); // max 30 dots on radar
-
-  let html = '';
-  nearby.forEach((f, i) => {
-    // Map distance to radar position
-    const ratio = Math.min(f._dist / RADAR_RANGE, 1);
-    // Random angle based on item index for spread
-    const angle = (i * 137.5) * Math.PI / 180; // golden angle for nice spread
-    const r = ratio * RADAR_PX;
-    const x = Math.cos(angle) * r;
-    const y = Math.sin(angle) * r;
-    const cls = f._dist < 1 ? 'near' : f._dist < 3 ? 'mid' : 'far';
-    html += `<div class="radar-dot ${cls}" style="left:calc(50% + ${x}px);top:calc(50% + ${y}px);" title="${f.name} ${f._dist.toFixed(1)}km"></div>`;
-  });
-
-  document.getElementById('radar-dots').innerHTML = html;
-  
-  const total = allFood.length;
-  const nearbyCount = allFood.filter(f => f._dist <= RADAR_RANGE).length;
-  document.getElementById('radar-count').textContent = nearbyCount;
-  document.getElementById('radar-label').textContent = `5km 內 ${nearbyCount} 家 · 全台共 ${total} 家`;
+// ===== Filter by category =====
+function getFoodByCategory(cat) {
+  if (cat.isBreakfast) {
+    return allFood.filter(f => isBreakfast(f.name));
+  }
+  let items = allFood.filter(f => (f.categories || []).includes(cat.key));
+  if (cat.alt) {
+    items = items.concat(allFood.filter(f => (f.categories || []).includes(cat.alt)));
+  }
+  return items;
 }
 
-// ===== Filter & Sort =====
-function getFilteredFood() {
-  let items = allFood;
-  if (currentCat) items = items.filter(f => (f.categories || []).includes(currentCat));
-  if (searchQuery) {
-    const q = searchQuery.toLowerCase();
-    items = items.filter(f => (f.name || '').toLowerCase().includes(q) || (f.description || '').toLowerCase().includes(q));
-  }
+// ===== Count per category =====
+function countByCategory(cat) {
+  return getFoodByCategory(cat).length;
+}
+
+// ===== Find nearest per category =====
+function nearestByCategory(cat) {
+  const items = getFoodByCategory(cat);
+  if (!items.length) return null;
+  return items.reduce((min, f) => f._dist < min._dist ? f : min);
+}
+
+// ===== Render Grid (6x2) =====
+function renderGrid() {
+  let html = '';
+  CATEGORIES.forEach(cat => {
+    const count = countByCategory(cat);
+    const nearest = nearestByCategory(cat);
+    let nearText = '';
+    if (nearest && userLocation) {
+      const d = nearest._dist;
+      nearText = d < 1 ? `最近 ${(d * 1000).toFixed(0)}m` : `最近 ${d.toFixed(1)}km`;
+    }
+    html += `<div class="cat-card" data-cat="${cat.label}" onclick="openCategory(${JSON.stringify(cat.key).replace(/"/g,'&quot;')})">
+      <span class="bg-icon">${cat.icon}</span>
+      <span class="icon">${cat.icon}</span>
+      <span class="label">${cat.label}</span>
+      <span class="count">${count > 0 ? count.toLocaleString() + ' 家' : '暫無'}</span>
+      ${nearText ? `<span class="near">${nearText}</span>` : ''}
+    </div>`;
+  });
+  document.getElementById('grid-view').innerHTML = html;
+}
+
+// ===== Open Category List =====
+function openCategory(catKey) {
+  currentCat = CATEGORIES.find(c => c.key === catKey);
+  showCount = 20;
+  sortMode = 'dist';
   
-  const sorted = [...items];
-  if (sortMode === 'dist') sorted.sort((a, b) => a._dist - b._dist);
-  else if (sortMode === 'rating') sorted.sort((a, b) => (b.rating || 0) - (a.rating || 0));
-  else if (sortMode === 'popular') sorted.sort((a, b) => (b.reviews || 0) - (a.reviews || 0));
-  else if (sortMode === 'weighted') {
-    sorted.sort((a, b) => {
-      const aW = (a.rating || 0) * Math.log10((a.reviews || 0) + 1);
-      const bW = (b.rating || 0) * Math.log10((b.reviews || 0) + 1);
-      const aS = a._sort !== undefined ? (3 - a._sort) : 0;
-      const bS = b._sort !== undefined ? (3 - b._sort) : 0;
-      return (bW + bS) - (aW + aS);
+  // Show list view, hide grid
+  document.getElementById('grid-view').style.display = 'none';
+  document.getElementById('list-view').style.display = 'flex';
+  document.getElementById('list-header').style.display = 'flex';
+  document.getElementById('list-stats').style.display = 'block';
+  document.getElementById('fab').classList.add('hidden');
+  
+  // Update header
+  document.getElementById('list-cat-icon').textContent = currentCat.icon;
+  document.getElementById('list-cat-name').textContent = currentCat.label;
+  document.getElementById('sort-toggle').textContent = '距離 ↑';
+  
+  renderList();
+}
+
+function showGrid() {
+  document.getElementById('list-view').style.display = 'none';
+  document.getElementById('grid-view').style.display = 'grid';
+  document.getElementById('list-header').style.display = 'none';
+  document.getElementById('list-stats').style.display = 'none';
+  document.getElementById('fab').classList.remove('hidden');
+  // Refresh grid (update nearest)
+  renderGrid();
+}
+
+// ===== Toggle Sort =====
+function toggleSort() {
+  sortMode = sortMode === 'dist' ? 'rating' : 'dist';
+  document.getElementById('sort-toggle').textContent = sortMode === 'dist' ? '距離 ↑' : '評分 ↑';
+  showCount = 20;
+  renderList();
+  document.getElementById('list-content').scrollTop = 0;
+}
+
+// ===== Render List =====
+function renderList() {
+  const items = getFoodByCategory(currentCat);
+  
+  // Sort
+  if (sortMode === 'dist') {
+    items.sort((a, b) => a._dist - b._dist);
+  } else {
+    // Rating sort: rating desc, then distance asc
+    items.sort((a, b) => {
+      const rDiff = (b.rating || 0) - (a.rating || 0);
+      if (Math.abs(rDiff) > 0.01) return rDiff;
+      return a._dist - b._dist;
     });
   }
-  return sorted;
-}
-
-// ===== Card =====
-function renderCard(f) {
-  let ratingHtml = '';
-  if (f.rating != null && f.rating > 0) {
-    ratingHtml = `<span class="rating"><span class="star">★${f.rating}</span> <span class="rv">(${(f.reviews||0).toLocaleString()})</span></span>`;
-  }
-  const ring = f._dist < 1 ? 'r1' : f._dist < 3 ? 'r2' : f._dist < 5 ? 'r3' : 'r4';
-  const distText = f._dist < 1 ? `${(f._dist * 1000).toFixed(0)}m` : `${f._dist.toFixed(1)}km`;
   
-  const tags = [];
-  if (hasTag(f, 'michelin-star')) tags.push('<span class="tag mstar">米其林</span>');
-  else if (hasTag(f, 'michelin-bib')) tags.push('<span class="tag mbib">必比登</span>');
-  else if (hasTag(f, 'michelin-selected')) tags.push('<span class="tag msel">入選</span>');
-  if (f.rating >= 4.0 && f.reviews >= 1000) tags.push('<span class="tag pop">人氣</span>');
-  if (hasTag(f, 'sp')) tags.push('<span class="tag sstc">食尚</span>');
-  (f.categories || []).slice(0, 2).forEach(c => tags.push(`<span class="tag">${c}</span>`));
+  document.getElementById('list-cat-count').textContent = `(${items.length} 家)`;
   
-  return `<div class="card">
-    <div class="row1">
-      <span class="name">${f.name}</span>
-      <span class="dist ${ring}">${distText}</span>
-    </div>
-    <div class="row2">
-      <span class="county">${f.county}</span>
-      ${f.area ? `<span class="area">${f.area}</span>` : ''}
-      ${ratingHtml}
-      <a class="nav" href="${gmapLink(f.name, f.county + (f.area?' '+f.area:''))}" target="_blank">📍導航</a>
-      ${uberLink(f.lat, f.lng)}
-    </div>
-    ${tags.length ? `<div class="tags">${tags.join('')}</div>` : ''}
-    ${(f.description && !/^Google \d+/.test(f.description)) ? `<div class="desc">${f.description}</div>` : ''}
-  </div>`;
-}
-
-// ===== Render List (grouped by distance rings) =====
-function render() {
-  const items = getFilteredFood();
+  // Stats
+  let statsHtml = `📍 <span class="pos">${userLocation ? userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4) : '--'}</span>`;
+  if (currentCat.isBreakfast) statsHtml += ` · 依名稱篩選早餐店`;
+  statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
+  document.getElementById('list-stats').innerHTML = statsHtml;
   
   if (!items.length) {
-    document.getElementById('content').innerHTML = '<div class="empty">找不到符合條件的美食</div>';
+    document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:#999;font-size:13px;">附近找不到此分類的美食</div>';
     return;
   }
-
+  
   let html = '';
-
-  if (sortMode === 'dist') {
-    // Group by distance rings
-    RINGS.forEach((ring, ri) => {
-      const ringItems = items.filter(f => {
-        if (ri === 0) return f._dist < ring.max;
-        return f._dist >= RINGS[ri-1].max && f._dist < ring.max;
-      });
-      if (!ringItems.length) return;
-      const ringCount = ringItems.length;
-      html += `<div class="dist-group">
-        <div class="dist-group-header">
-          <span class="ring ${ring.cls}"></span>
-          ${ring.label}
-          <span class="cnt">${ringCount} 家</span>
-        </div>`;
-      const visible = ringItems.slice(0, showCount);
-      visible.forEach(f => { html += renderCard(f); });
-      if (ringItems.length > showCount) {
-        html += `<div class="see-more" onclick="showMore()">再顯示 20 筆 ▼</div>`;
-      }
-      html += '</div>';
-    });
-  } else {
-    // Flat list for non-distance sorts
-    html += `<div class="dist-group">
-      <div class="dist-group-header">
-        <span class="ring r1"></span>
-        排序：${sortMode === 'rating' ? '評分' : sortMode === 'popular' ? '人氣' : '加權'}
-        <span class="cnt">${items.length} 家</span>
-      </div>`;
-    const visible = items.slice(0, showCount);
-    visible.forEach(f => { html += renderCard(f); });
-    if (items.length > showCount) {
-      html += `<div class="see-more" onclick="showMore()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
+  const visible = items.slice(0, showCount);
+  visible.forEach(f => {
+    let ratingHtml = '';
+    if (f.rating != null && f.rating > 0) {
+      ratingHtml = `<span class="rating"><span class="star">★${f.rating}</span> <span class="rv">(${(f.reviews||0).toLocaleString()})</span></span>`;
     }
-    html += '</div>';
-  }
-
-  html += `<div class="footer">📡 美食雷達 · <a href="nearby.html">附近推薦</a> · <a href="taiwan-travel.html">主站</a></div>`;
-  document.getElementById('content').innerHTML = html;
-}
-
-function showMore() { showCount += 20; render(); }
-
-// ===== Category Filter =====
-function renderCatFilter() {
-  const counts = {};
-  allFood.forEach(f => (f.categories || []).forEach(c => counts[c] = (counts[c] || 0) + 1));
-  let html = `<span class="cat-btn ${!currentCat?'active':''}" onclick="setCat('')">全部 <span class="cnt">${allFood.length}</span></span>`;
-  CAT_ORDER.forEach(c => {
-    if (counts[c]) html += `<span class="cat-btn ${currentCat===c?'active':''}" onclick="setCat('${c}')">${c} <span class="cnt">${counts[c]}</span></span>`;
+    const distText = f._dist < 1 ? `${(f._dist * 1000).toFixed(0)}m` : `${f._dist.toFixed(1)}km`;
+    const distCls = f._dist < 3 ? 'near' : f._dist > 20 ? 'far' : '';
+    
+    const tags = [];
+    if (hasTag(f, 'michelin-star')) tags.push('<span class="tag mstar">米其林</span>');
+    else if (hasTag(f, 'michelin-bib')) tags.push('<span class="tag mbib">必比登</span>');
+    else if (hasTag(f, 'michelin-selected')) tags.push('<span class="tag msel">入選</span>');
+    if (f.rating >= 4.0 && f.reviews >= 1000) tags.push('<span class="tag pop">人氣</span>');
+    if (hasTag(f, 'sp')) tags.push('<span class="tag" style="background:#f3e5f5;color:#7b1fa2;">食尚</span>');
+    (f.categories || []).slice(0, 2).forEach(c => tags.push(`<span class="tag">${c}</span>`));
+    
+    html += `<div class="card">
+      <div class="row1">
+        <span class="name">${f.name}</span>
+        <span class="dist ${distCls}">${distText}</span>
+      </div>
+      <div class="row2">
+        <span class="county">${f.county}</span>
+        ${f.area ? `<span class="area">${f.area}</span>` : ''}
+        ${ratingHtml}
+        <a class="nav" href="${gmapLink(f.name, f.county + (f.area?' '+f.area:''))}" target="_blank">📍導航</a>
+        ${uberLink(f.lat, f.lng)}
+      </div>
+      ${tags.length ? `<div class="tags">${tags.join('')}</div>` : ''}
+      ${(f.description && !/^Google \d+/.test(f.description)) ? `<div class="desc">${f.description}</div>` : ''}
+    </div>`;
   });
-  document.getElementById('cat-scroll').innerHTML = html;
-}
-
-function setCat(cat) {
-  currentCat = cat;
-  showCount = 20;
-  renderCatFilter();
-  render();
-  document.getElementById('main').scrollTop = 0;
-}
-
-function setSort(mode) {
-  sortMode = mode;
-  showCount = 20;
-  document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
-  document.querySelector(`.sort-btn[data-sort="${mode}"]`).classList.add('active');
-  render();
-  document.getElementById('main').scrollTop = 0;
-}
-
-function onSearch(val) {
-  searchQuery = val.trim();
-  showCount = 20;
-  render();
-}
-
-// ===== Toggle Radar =====
-function toggleRadar() {
-  const section = document.getElementById('radar-section');
-  const toggle = document.getElementById('radar-toggle');
-  if (section.classList.contains('expanded')) {
-    section.classList.remove('expanded');
-    section.classList.add('collapsed');
-    toggle.textContent = '+';
-    radarCollapsed = true;
-  } else {
-    section.classList.remove('collapsed');
-    section.classList.add('expanded');
-    toggle.textContent = '−';
-    radarCollapsed = false;
+  
+  if (items.length > showCount) {
+    html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
+  
+  html += `<div class="footer">📡 美食雷達 · <a href="taiwan-travel.html">主站</a></div>`;
+  
+  document.getElementById('list-content').innerHTML = html;
+}
+
+function showMoreList() {
+  showCount += 20;
+  renderList();
 }
 
 // ===== GPS =====
@@ -533,31 +433,24 @@ function showGeoBanner(text, showLocate) {
 
 function locateMe() {
   if (!navigator.geolocation) { showGeoBanner('⚠️ 裝置不支援定位', false); return; }
-  showGeoBanner('📡 雷達啟動中... 同時載入全台美食...', false);
+  showGeoBanner('📡 雷達啟動中... 載入全台美食...', false);
   document.getElementById('no-gps-prompt').style.display = 'none';
   document.getElementById('fab').classList.add('hidden');
-  document.getElementById('content').innerHTML = '<div class="loading"><div class="spinner"></div>📡 雷達掃描中，載入全台 17,000+ 美食...</div>';
-
+  
   navigator.geolocation.getCurrentPosition(
     async (pos) => {
       userLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
       showGeoBanner('✅ 定位成功！正在計算距離...', false);
-      document.getElementById('content').innerHTML = '<div class="loading"><div class="spinner"></div>計算距離中...</div>';
-
+      
       await loadAllFood();
       allFood.forEach(f => { f._dist = haversine(userLocation.lat, userLocation.lng, f.lat, f.lng); });
-
-      // Render radar
-      renderRadarDots();
       
-      // Show filters
-      document.getElementById('filters').style.display = 'block';
+      // Show grid
+      document.getElementById('grid-view').style.display = 'grid';
       document.getElementById('fab').classList.remove('hidden');
       
-      showCount = 20;
-      renderCatFilter();
-      render();
-
+      renderGrid();
+      
       setTimeout(() => document.getElementById('geo-banner').classList.add('hide'), 2500);
     },
     (err) => {
@@ -565,15 +458,15 @@ function locateMe() {
       if (err.code === 1) msg = '⚠️ 已拒絕定位，請至設定允許';
       else if (err.code === 3) msg = '⚠️ 定位逾時，請重試';
       showGeoBanner(msg, true);
-      document.getElementById('no-gps-prompt').style.display = 'block';
-      document.getElementById('content').innerHTML = '';
+      document.getElementById('no-gps-prompt').style.display = 'flex';
+      document.getElementById('grid-view').style.display = 'none';
     },
     { enableHighAccuracy: true, timeout: 15000, maximumAge: 300000 }
   );
 }
 
 window.addEventListener('load', () => {
-  showGeoBanner('📡 點「允許定位」啟動美食雷達', true);
+  showGeoBanner('📍 點「允許定位」啟動美食雷達', true);
 });
 </script>
 
