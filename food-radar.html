@@ -77,18 +77,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .cat-card .near{font-size:13px;color:var(--teal-dark);font-weight:600;}
 
 /* Category accent colors (left border) */
-.cat-card[data-cat="中式"]{border-left-color:#E76F51;}
-.cat-card[data-cat="日式"]{border-left-color:#457B9D;}
+.cat-card[data-cat="麵類"]{border-left-color:#E76F51;}
+.cat-card[data-cat="飯類"]{border-left-color:#F4A261;}
+.cat-card[data-cat="餃子小籠"]{border-left-color:#E9C46A;}
 .cat-card[data-cat="火鍋"]{border-left-color:#E63946;}
+.cat-card[data-cat="日式"]{border-left-color:#457B9D;}
+.cat-card[data-cat="異國料理"]{border-left-color:#9B5DE5;}
 .cat-card[data-cat="咖啡廳"]{border-left-color:#C8A87E;}
-.cat-card[data-cat="甜品"]{border-left-color:#F4A261;}
+.cat-card[data-cat="甜點冰品"]{border-left-color:#F4A261;}
 .cat-card[data-cat="飲品"]{border-left-color:#2A9D8F;}
-.cat-card[data-cat="西式"]{border-left-color:#F4A261;}
-.cat-card[data-cat="義式"]{border-left-color:#2E7D32;}
-.cat-card[data-cat="異國"]{border-left-color:#9B5DE5;}
-.cat-card[data-cat="素食"]{border-left-color:#66BB6A;}
-.cat-card[data-cat="烘焙"]{border-left-color:#8B6F47;}
 .cat-card[data-cat="早餐"]{border-left-color:#FFB74D;}
+.cat-card[data-cat="素食"]{border-left-color:#66BB6A;}
+.cat-card[data-cat="米其林推薦"]{border-left-color:#b71c1c;}
 
 /* ===== List View ===== */
 .list-view{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none;flex-direction:column;}
@@ -230,18 +230,22 @@ const CITY_CENTER = {
 };
 
 const CATEGORIES = [
-  {key:'中式', icon:'🍜', label:'中式'},
-  {key:'日式', icon:'🍣', label:'日式'},
-  {key:'火鍋', icon:'🍲', label:'火鍋'},
-  {key:'咖啡廳', icon:'☕', label:'咖啡廳'},
-  {key:'甜品', icon:'🍰', label:'甜品'},
-  {key:'飲品', icon:'🥤', label:'飲品', alt:'饮品'},
-  {key:'西式', icon:'🍕', label:'西式'},
-  {key:'義式', icon:'🍝', label:'義式'},
-  {key:'異國', icon:'🌍', label:'異國'},
-  {key:'素食', icon:'🥗', label:'素食'},
-  {key:'烘焙', icon:'🥐', label:'烘焙'},
-  {key:'早餐', icon:'🍳', label:'早餐', isBreakfast:true},
+  // 料理風格
+  {key:'noodle', icon:'🍜', label:'麵類', keywords:['牛肉麵','拉麵','乾麵','湯麵','炒麵','意麵','擔仔麵','麵線','麵店','陽春麵','麻醬麵','炸醬麵','細麵','板麵','刀削麵']},
+  {key:'rice', icon:'🍚', label:'飯類', keywords:['滷肉飯','控肉飯','雞肉飯','豬腳飯','排骨飯','爌肉飯','肉燥飯','便當','咖喱飯','咖哩飯','炒飯','燴飯','快餐','飯館']},
+  {key:'dumpling', icon:'🥟', label:'餃子小籠', keywords:['湯包','生煎包','水煎包','鍋貼','餃子','水餃','蒸餃','小籠包','煎餃','餡餅']},
+  {key:'hotpot', icon:'🍲', label:'火鍋', categories:['火鍋'], keywords:['麻辣鍋','涮涮鍋','石頭火鍋','薑母鴨','羊肉爐']},
+  {key:'japanese', icon:'🍣', label:'日式', categories:['日式'], keywords:['壽司','刺身','居酒屋','天婦羅','日本料理','定食','丼飯','串炸','日式炸物']},
+  {key:'exotic', icon:'🌍', label:'異國料理', categories:['異國','義式','西式'], keywords:['韓式','韓國','部隊鍋','石鍋','泡菜','泰式','泰國','冬蔭','打拋','越南','河粉','法式','美式','墨西哥','印度','中東']},
+  // 餐點形態
+  {key:'coffee', icon:'☕', label:'咖啡廳', categories:['咖啡廳']},
+  {key:'dessert', icon:'🍰', label:'甜點冰品', categories:['甜品'], keywords:['甜點','蛋糕','布丁','奶酪','雪花冰','刨冰','冰品','豆花','仙草','挫冰','冰沙']},
+  {key:'drink', icon:'🥤', label:'飲品', categories:['飲品','饮品']},
+  // 消費情境
+  {key:'breakfast', icon:'🍳', label:'早餐', keywords:['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','吐司','蔥油餅']},
+  {key:'vegetarian', icon:'🥗', label:'素食', categories:['素食']},
+  // 評價公信
+  {key:'michelin', icon:'🏆', label:'米其林推薦', isMichelin:true},
 ];
 
 const BREAKFAST_KEYWORDS = ['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','阜杭','劉山東','好味豆','吐司','鍋貼','蔥油餅'];
@@ -281,6 +285,11 @@ function hasTag(f, t) {
 
 function isBreakfast(name) {
   return BREAKFAST_KEYWORDS.some(kw => name.includes(kw));
+}
+
+function nameMatchesKeywords(name, keywords) {
+  if (!keywords) return false;
+  return keywords.some(kw => name.includes(kw));
 }
 
 function detectNearestCounty(lat, lng) {
@@ -353,9 +362,22 @@ function getFilteredFood() {
 
 function getFoodByCategory(cat) {
   let items = getFilteredFood();
-  if (cat.isBreakfast) return items.filter(f => isBreakfast(f.name));
-  let result = items.filter(f => (f.categories || []).includes(cat.key));
-  if (cat.alt) result = result.concat(items.filter(f => (f.categories || []).includes(cat.alt)));
+  // Michelin special case
+  if (cat.isMichelin) {
+    return items.filter(f => hasTag(f,'michelin-star') || hasTag(f,'michelin-bib') || hasTag(f,'michelin-selected'));
+  }
+  let result = items;
+  // Filter by categories field
+  if (cat.categories) {
+    result = result.filter(f => {
+      const fc = f.categories || [];
+      return cat.categories.some(c => fc.includes(c));
+    });
+  }
+  // Filter by name keywords
+  if (cat.keywords) {
+    result = result.filter(f => nameMatchesKeywords(f.name || '', cat.keywords));
+  }
   return result;
 }
 
@@ -510,7 +532,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.02 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.03 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
