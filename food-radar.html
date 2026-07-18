@@ -247,21 +247,49 @@ const CITY_CENTER = {
 };
 
 const CATEGORIES = [
-  // 料理風格 (large)
-  {key:'noodle', icon:'🍜', label:'麵類', keywords:['牛肉麵','拉麵','乾麵','湯麵','炒麵','意麵','擔仔麵','麵線','麵店','陽春麵','麻醬麵','炸醬麵','細麵','板麵','刀削麵']},
-  {key:'rice', icon:'🍚', label:'飯類', keywords:['滷肉飯','控肉飯','雞肉飯','豬腳飯','排骨飯','爌肉飯','肉燥飯','便當','咖喱飯','咖哩飯','炒飯','燴飯','快餐','飯館']},
-  {key:'hotpot', icon:'🍲', label:'火鍋', categories:['火鍋'], keywords:['麻辣鍋','涮涮鍋','石頭火鍋','薑母鴨','羊肉爐']},
-  {key:'japanese', icon:'🍣', label:'日式', categories:['日式'], keywords:['壽司','刺身','居酒屋','天婦羅','日本料理','定食','丼飯','串炸','日式炸物']},
-  // 餐點形態 (default)
-  {key:'dumpling', icon:'🥟', label:'餃子小籠', keywords:['湯包','生煎包','水煎包','鍋貼','餃子','水餃','蒸餃','小籠包','煎餃','餡餅']},
-  {key:'exotic', icon:'🌍', label:'異國料理', categories:['異國','義式','西式'], keywords:['韓式','韓國','部隊鍋','石鍋','泡菜','泰式','泰國','冬蔭','打拋','越南','河粉','法式','美式','墨西哥','印度','中東']},
-  {key:'coffee', icon:'☕', label:'咖啡廳', categories:['咖啡廳']},
-  {key:'dessert', icon:'🍰', label:'甜點冰品', categories:['甜品'], keywords:['甜點','蛋糕','布丁','奶酪','雪花冰','刨冰','冰品','豆花','仙草','挫冰','冰沙']},
-  {key:'drink', icon:'🥤', label:'飲品', categories:['飲品','饮品']},
-  // 情境 (small)
-  {key:'breakfast', icon:'🍳', label:'早餐', keywords:['早餐','豆漿','蛋餅','三明治','漢堡','飯糰','燒餅','饅頭','包子','永和','清粥','吐司','蔥油餅']},
-  {key:'vegetarian', icon:'🥗', label:'素食', categories:['素食']},
-  // 評價公信 (wide, bottom)
+  // === 料理風格 ===
+  {key:'hotpot', icon:'🍲', label:'鍋類', tags:['火鍋'], keywords:['麻辣鍋','涮涮鍋','石頭火鍋','薑母鴨','羊肉爐','火鍋','鍋物']},
+  {key:'japanese', icon:'🍣', label:'日式', tags:['日式'], keywords:['日本料理','日式','定食','丼飯','串炸','日式炸物']},
+  {key:'sushi', icon:'🍣', label:'壽司', tags:['壽司'], keywords:['壽司','刺身','握壽司','軍艦','散壽司']},
+  {key:'ramen', icon:'🍜', label:'拉麵', tags:['拉麵'], keywords:['拉麵','豚骨','味噌拉麵','叉燒拉麵']},
+  {key:'yakiniku', icon:'🍖', label:'燒肉', tags:['燒肉'], keywords:['燒肉','烤肉','碳烤','無煙烤']},
+  {key:'korean', icon:'🇰🇷', label:'韓式', tags:['韓式'], keywords:['韓式','韓國','部隊鍋','石鍋','泡菜','韓國料理']},
+  {key:'thai', icon:'🇹🇭', label:'泰式', tags:['泰式'], keywords:['泰式','泰國','冬蔭','打拋','月亮蝦餅']},
+  {key:'italian', icon:'🇮🇹', label:'義式', tags:['義式'], keywords:['義式','義大利','披薩','PIZZA','Pizza','義大利麵','燉飯']},
+  {key:'hk', icon:'🇭🇰', label:'港式', tags:['港式','港點'], keywords:['港式','茶餐廳','港點','飲茶','燒臘','燒鴨','叉燒','菠蘿包']},
+  {key:'american', icon:'🇺🇸', label:'美式', tags:['美式'], keywords:['美式','美國','漢堡','BURGER','Burger','熱狗','美式餐廳']},
+  {key:'izakaya', icon:'🏮', label:'居酒屋', tags:['居酒屋'], keywords:['居酒屋','酒場','立吞','日本酒場']},
+  {key:'skewer', icon:'🍡', label:'串燒', tags:['串燒'], keywords:['串燒','串烤','燒鳥','燒烤','烤串']},
+  {key:'steak', icon:'🥩', label:'牛排', tags:['牛排'], keywords:['牛排','STEAK','Steak','鐵板燒','牛排館']},
+  {key:'beefnoodle', icon:'🍜', label:'牛肉麵', tags:['牛肉麵'], keywords:['牛肉麵','牛雜麵','半筋半肉']},
+  {key:'noodle', icon:'🍜', label:'麵類', tags:['麵類'], keywords:['乾麵','湯麵','炒麵','意麵','擔仔麵','麵線','麵店','陽春麵','麻醬麵','炸醬麵','細麵','板麵','刀削麵']},
+  {key:'rice', icon:'🍚', label:'飯類', tags:['飯類'], keywords:['滷肉飯','控肉飯','雞肉飯','豬腳飯','排骨飯','爌肉飯','肉燥飯','便當','咖喱飯','咖哩飯','炒飯','燴飯','快餐','飯館']},
+  {key:'dumpling', icon:'🥟', label:'餃子小籠', tags:['餃子'], keywords:['湯包','生煎包','水煎包','鍋貼','餃子','水餃','蒸餃','小籠包','煎餃','餡餅']},
+  {key:'seafood', icon:'🦐', label:'熱炒', tags:['熱炒'], keywords:['熱炒','海產','海鮮','快炒','炒菜']},
+  {key:'snack', icon:'🍱', label:'小吃', tags:['小吃'], keywords:['小吃','滷味','黑白切','切仔麵','擔仔麵','肉圓','碗粿','米糕','油飯','肉羹','魚羹','粄條']},
+  {key:'vegetarian', icon:'🥗', label:'素食', tags:['素食'], keywords:['素食','蔬食','全素','vegan','vegetarian']},
+  {key:'lightmeal', icon:'🥪', label:'輕食', tags:['輕食'], keywords:['輕食','沙拉','健康餐','健身餐','低卡']},
+  {key:'burger', icon:'🍔', label:'漢堡', tags:['漢堡'], keywords:['漢堡','BURGER','Burger','麥當勞','摩斯','肯德基','五更腸']},
+  // === 餐點形態 ===
+  {key:'breakfast', icon:'🍳', label:'早餐', tags:['早餐'], keywords:['早餐','豆漿','蛋餅','三明治','飯糰','燒餅','饅頭','包子','永和','清粥','吐司','蔥油餅']},
+  {key:'brunch', icon:'🌅', label:'早午餐', tags:['早午餐'], keywords:['早午餐','BRUNCH','Brunch','班尼迪克','歐姆蛋']},
+  {key:'coffee', icon:'☕', label:'咖啡', tags:['咖啡廳'], keywords:['咖啡','CAFE','Cafe','咖啡廳','手沖','精品咖啡']},
+  {key:'tea', icon:'🫖', label:'下午茶', tags:['下午茶'], keywords:['下午茶','TEA',' Tea','下午茶餐廳','英式下午茶']},
+  {key:'dessert', icon:'🍰', label:'甜點', tags:['甜品'], keywords:['甜點','布丁','奶酪','雪花冰','刨冰','冰品','豆花','仙草','挫冰','冰沙','甜湯']},
+  {key:'cake', icon:'🍰', label:'蛋糕', tags:['蛋糕'], keywords:['蛋糕','千層','塔','派','慕斯','提拉米蘇','乳酪蛋糕','戚風']},
+  {key:'drink', icon:'🥤', label:'飲料店', tags:['飲品','饮品'], keywords:['飲料','茶飲','手搖飲','珍珠奶茶','奶茶','果汁','冰沙']},
+  {key:'ice', icon:'🍨', label:'冰品', tags:['冰品'], keywords:['冰品','刨冰','雪花冰','挫冰','冰淇淋','義式冰淇淋',' gelato']},
+  // === 消費情境 ===
+  {key:'buffet', icon:'🍽️', label:'吃到飽', tags:['吃到飽'], keywords:['吃到飽','BUFFET','Buffet','自助餐','無限量']},
+  {key:'group', icon:'👨‍👩‍👧', label:'合菜', tags:['合菜'], keywords:['合菜','桌菜','辦桌','團圓菜','十人','十二人','包廂']},
+  {key:'bistro', icon:'🍷', label:'餐酒館', tags:['餐酒館'], keywords:['餐酒館','BISTRO','Bistro','bistro','酒館餐酒']},
+  {key:'bar', icon:'🍺', label:'酒吧', tags:['酒吧'], keywords:['酒吧','BAR','Bar','PUB','Pub','精釀','調酒','lounge']},
+  {key:'fine', icon:'💎', label:'精緻高級', tags:['精緻高級'], keywords:['精緻','高級','頂級','Omakase','懷石','鐵板燒','米其林','預約制']},
+  {key:'date', icon:'💕', label:'約會餐廳', tags:['約會餐廳'], keywords:['約會','浪漫','景觀','Lounge',' rooftop','空中']},
+  {key:'pet', icon:'🐾', label:'寵物友善', tags:['寵物友善'], keywords:['寵物','毛小孩','狗友善','pet friendly','pet']},
+  {key:'view', icon:'🏞️', label:'景觀餐廳', tags:['景觀餐廳'], keywords:['景觀','view','夜景','海景','山景','空中餐廳','樓頂']},
+  {key:'family', icon:'👶', label:'親子餐廳', tags:['親子餐廳'], keywords:['親子','兒童','kids','family','遊戲區','親子友善']},
+  // === 評價公信 ===
   {key:'michelin', icon:'🏆', label:'米其林推薦', isMichelin:true},
   {key:'sp', icon:'🎬', label:'食尚玩家', isSP:true},
 ];
@@ -388,15 +416,23 @@ function getFoodByCategory(cat) {
     return items.filter(f => hasTag(f,'sp'));
   }
   let result = items;
-  // Filter by categories field
-  if (cat.categories) {
+  // Filter by tags OR keywords (multi-tag: a shop can match multiple categories)
+  const hasTags = cat.tags && cat.tags.length;
+  const hasKws = cat.keywords && cat.keywords.length;
+  if (hasTags && hasKws) {
+    // OR logic: match if either tags or keywords hit
     result = result.filter(f => {
       const fc = f.categories || [];
-      return cat.categories.some(c => fc.includes(c));
+      const tagMatch = cat.tags.some(t => fc.includes(t));
+      const kwMatch = nameMatchesKeywords(f.name || '', cat.keywords);
+      return tagMatch || kwMatch;
     });
-  }
-  // Filter by name keywords
-  if (cat.keywords) {
+  } else if (hasTags) {
+    result = result.filter(f => {
+      const fc = f.categories || [];
+      return cat.tags.some(t => fc.includes(t));
+    });
+  } else if (hasKws) {
     result = result.filter(f => nameMatchesKeywords(f.name || '', cat.keywords));
   }
   return result;
@@ -561,7 +597,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.08 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.09 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
