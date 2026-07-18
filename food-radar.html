@@ -74,7 +74,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 
 .group-section{margin-bottom:10px;}
 .group-title{font-size:12px;font-weight:700;color:var(--teal-dark);text-transform:uppercase;letter-spacing:1px;padding:4px 4px 6px;opacity:.7;}
-.group-list{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;}
+.group-list{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;}
 
 .group-card{min-height:72px;background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid var(--teal-light);padding:10px 12px;display:flex;flex-direction:column;justify-content:center;gap:2px;cursor:pointer;transition:transform .15s,box-shadow .15s;position:relative;overflow:hidden;}
 .group-card:active{transform:scale(0.95);box-shadow:var(--shadow-hover);}
@@ -213,7 +213,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.13</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.14</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -640,7 +640,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.13 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.14 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
