@@ -210,6 +210,8 @@ body.geo-banner-visible .hamburger{top:36px;}.uber-link{display:inline-flex;alig
 .uber-link:hover{background:#333;transform:scale(1.05);}
 @keyframes slideDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
 @keyframes spin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+@keyframes devBlink{0%,100%{background:#d32f2f;color:#fff;}50%{background:#b71c1c;color:#ffccd5;}}
+.dev-stage-badge{display:inline-block;background:#d32f2f;color:#fff;font-size:14px;font-weight:700;padding:4px 12px;border-radius:6px;animation:devBlink 1.5s ease-in-out infinite;letter-spacing:1px;}
 /* 距離標籤 */
 .dist-badge{display:inline-flex;align-items:center;gap:2px;margin-left:6px;font-size:14px;font-weight:600;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 8px;white-space:nowrap;}
 .dist-badge.near{color:#2e7d32;background:#e8f5e9;}
@@ -618,7 +620,7 @@ function render(){
         <h2>${currentCounty}</h2>
         ${tips?`<div class="tips">${tips}</div>`:''}
         <div class="header-right-info" style="font-size:12px; color:#666; text-align:right;">
-          <div style="color:#e65100;">⚠ 本網站尚在開發驗證階段</div>
+          <div style="color:#e65100;font-size:14px;"><span class="dev-stage-badge">⚠ 本網站尚在開發驗證階段</span></div>
           <div>更新於 2026-07-18</div>
           <div>版次 V1.24</div>
         </div>
