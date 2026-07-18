@@ -529,9 +529,8 @@ function renderGrid() {
       if (nearest && userLocation) {
         nearText = nearest._dist < 1 ? `最近 ${(nearest._dist * 1000).toFixed(0)}m` : `最近 ${nearest._dist.toFixed(1)}km`;
       }
-      html += `<div class="group-card${count === 0 ? ' empty' : ''}" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">`;
+      html += `<div class="group-card" data-cat="${cat.label}" onclick="openCategory('${cat.key}')">`;
       html += `<span class="label">${cat.label}</span>`;
-      html += `<span class="count">${count > 0 ? count + ' 家' : '暫無'}</span>`;
       if (nearText) html += `<span class="near">${nearText}</span>`;
       html += `</div>`;
     });
@@ -637,7 +636,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.10 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.11 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
