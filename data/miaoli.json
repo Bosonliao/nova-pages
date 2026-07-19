@@ -11271,15 +11271,16 @@
       "lng": 120.9100525
     },
     {
-      "name": "50嵐",
-      "lat": 24.5476443,
-      "lng": 120.8163227,
+      "name": "50嵐 頭份仁愛店",
+      "lat": 24.68655,
+      "lng": 120.90912,
       "area": "苗栗市",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "苗栗縣頭份市自強里仁愛路103號"
     },
     {
       "name": "50嵐",
@@ -11436,15 +11437,16 @@
       "reviews": 0
     },
     {
-      "name": "CoCo都可",
-      "lat": 24.5591544,
-      "lng": 120.8174723,
+      "name": "CoCo都可 頭份信義店",
+      "lat": 24.68912,
+      "lng": 120.90655,
       "area": "苗栗市",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "苗栗縣頭份市民族里信義路89號"
     },
     {
       "name": "CoCo都可",
@@ -11524,15 +11526,16 @@
       "reviews": 0
     },
     {
-      "name": "迷客夏",
-      "lat": 24.6966296,
-      "lng": 120.9033635,
+      "name": "迷客夏Milksha 苗栗頭份建國店",
+      "lat": 24.70012,
+      "lng": 120.90512,
       "area": "頭份市",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "苗栗縣頭份市蟠桃里建國路二段130號"
     },
     {
       "name": "茶湯會",
@@ -11577,6 +11580,258 @@
       ],
       "rating": 0,
       "reviews": 0
+    },
+    {
+      "name": "八曜和茶 苗栗頭份中華門市",
+      "place_id": "",
+      "lat": 24.69348,
+      "lng": 120.91035,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市中華路1023號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "UG 苗栗頭份店",
+      "place_id": "",
+      "lat": 24.69532,
+      "lng": 120.90945,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市成功里建國路156號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "一沐日 頭份建國店",
+      "place_id": "",
+      "lat": 24.69632,
+      "lng": 120.90852,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市成功里建國路185號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #頭份建國計劃",
+      "place_id": "",
+      "lat": 24.69568,
+      "lng": 120.90912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市成功里建國路164號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "麻古茶坊 頭份尚順店",
+      "place_id": "",
+      "lat": 24.68955,
+      "lng": 120.91088,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東民一街2號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "龜記茗品 頭份尚順店",
+      "place_id": "",
+      "lat": 24.68988,
+      "lng": 120.91122,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東庄里東民二街6號1樓",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "烏弄原生茶飲 頭份尚順店",
+      "place_id": "",
+      "lat": 24.68925,
+      "lng": 120.91065,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東庄里東民一街6號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "思茶MissingTea 頭份建國店",
+      "place_id": "",
+      "lat": 24.69488,
+      "lng": 120.90985,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市建國路140號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "匠飲ENJOY 解憂創始店",
+      "place_id": "",
+      "lat": 24.69012,
+      "lng": 120.91188,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東民二街11號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "青山-青茶專業製作 頭份建國店",
+      "place_id": "",
+      "lat": 24.69585,
+      "lng": 120.90905,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市成功里建國路166號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "十二韻 頭份建國店",
+      "place_id": "",
+      "lat": 24.69602,
+      "lng": 120.90888,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市建國路172號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "喜力茶飲 頭份店",
+      "place_id": "",
+      "lat": 24.68855,
+      "lng": 120.90512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市信義里中正路110號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "順道茶飲店 頭份店",
+      "place_id": "",
+      "lat": 24.68512,
+      "lng": 120.89888,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市山下里八德二路300號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "鶴茶樓 頭份中興店",
+      "place_id": "",
+      "lat": 24.70112,
+      "lng": 120.91255,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市建國里中興路619號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶聚CHAGE 頭份中央店",
+      "place_id": "",
+      "lat": 24.68555,
+      "lng": 120.91212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東庄里中央路146號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "上宇林 頭份信東店",
+      "place_id": "",
+      "lat": 24.68885,
+      "lng": 120.91512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市自強里信東路152號1樓",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "泰讚了泰式奶茶 頭份店",
+      "place_id": "",
+      "lat": 24.68888,
+      "lng": 120.91045,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東民一街30號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "春芳號 頭份斗煥坪店",
+      "place_id": "",
+      "lat": 24.68112,
+      "lng": 120.94112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市中正二路214號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }
