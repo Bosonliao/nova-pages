@@ -90,9 +90,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 /* Drink shop grid */
 .drink-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;padding:0 12px 8px;}
 .drink-group-title{font-size:13px;font-weight:700;color:var(--teal-dark);padding:10px 14px 4px;letter-spacing:0.5px;}
-.drink-card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid #2A9D8F;padding:10px 12px;display:flex;flex-direction:column;gap:2px;cursor:pointer;transition:transform .15s,box-shadow .15s;min-height:60px;}
+.drink-card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid #2A9D8F;padding:10px 12px;display:flex;flex-direction:column;align-items:center;gap:4px;cursor:pointer;transition:transform .15s,box-shadow .15s;min-height:70px;}
 .drink-card:active{transform:scale(0.95);box-shadow:var(--shadow-hover);}
-.drink-name{font-size:15px;font-weight:700;color:var(--navy);line-height:1.2;}
+.drink-logo{width:32px;height:32px;object-fit:contain;}
+.drink-name{font-size:15px;font-weight:700;color:var(--navy);line-height:1.2;text-align:center;}
 .drink-dist{font-size:12px;font-weight:700;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 7px;align-self:flex-start;}
 
 /* Per-category accent */
@@ -228,7 +229,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.38</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.39</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -292,6 +293,35 @@ const GROUPS = [
   {id:'vibe', title:'消費情境', keys:['buffet','group','bistro','bar','fine','date','pet','view','family']},
   {id:'award', title:'評價公信', keys:['michelin','sp']},
 ];
+
+// 飲料品牌 Logo 映射
+const DRINK_LOGOS = {
+  '50嵐': 'assets/drink-logos/50嵐.gif',
+  '清心福全': 'assets/drink-logos/清心福全.png',
+  'CoCo都可': '',
+  '迷客夏': 'assets/drink-logos/迷客夏.jpg',
+  'COMEBUY': 'assets/drink-logos/COMEBUY.svg',
+  '可不可熟成紅茶': '',
+  '茶湯會': 'assets/drink-logos/茶湯會.png',
+  '大苑子': 'assets/drink-logos/大苑子.png',
+  '鮮茶道': '',
+  '麻古茶坊': '',
+  '茶的魔手': 'assets/drink-logos/茶的魔手.svg',
+  '珍煮丹': '',
+  '一沐日': '',
+  '五桐號': '',
+  '八曜和茶': '',
+  '龜記茗品': '',
+  '龜記': '',
+  '茶聚': '',
+  '一芳': 'assets/drink-logos/一芳.png',
+  '日出茶太': '',
+  '老虎堂': '',
+  '茶魔': '',
+  '季緣': '',
+  'UG樂己': 'assets/drink-logos/UG樂己.png',
+  '九茶': '',
+};
 
 const CATEGORIES = [
   // === 料理風格 ===
@@ -700,6 +730,8 @@ function renderList() {
           const navUrl = gmapLink(f.name, currentCounty + (f.area?' '+f.area:''));
           html += `<div class="drink-card" onclick="window.open('${navUrl}','_blank')">`;
           const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
+          const logo = DRINK_LOGOS[brand];
+          if (logo) html += `<img class="drink-logo" src="${logo}" alt="${brand}">`;
           html += `<span class="drink-name">${brand}</span>`;
           html += `</div>`;
         });
@@ -712,6 +744,8 @@ function renderList() {
         const navUrl = gmapLink(f.name, currentCounty + (f.area?' '+f.area:''));
         html += `<div class="drink-card" onclick="window.open('${navUrl}','_blank')">`;
         const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
+        const logo = DRINK_LOGOS[brand];
+        if (logo) html += `<img class="drink-logo" src="${logo}" alt="${brand}">`;
         html += `<span class="drink-name">${brand}</span>`;
         html += `</div>`;
       });
@@ -758,7 +792,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.38 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.39 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
