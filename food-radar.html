@@ -217,7 +217,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.23</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.24</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -551,7 +551,8 @@ function renderGrid() {
 function openCategory(catKey) {
   currentCat = CATEGORIES.find(c => c.key === catKey);
   showCount = 20;
-  sortMode = 'dist';
+  // Radar mode: sort by distance; Manual mode: sort by rating
+  sortMode = (autoLocated && userLocation) ? 'dist' : 'rating';
   document.getElementById('grid-view').style.display = 'none';
   document.getElementById('list-view').style.display = 'flex';
   document.getElementById('list-header').style.display = 'flex';
@@ -559,7 +560,13 @@ function openCategory(catKey) {
   document.getElementById('fab').classList.add('hidden');
   document.getElementById('list-cat-icon').textContent = currentCat.icon;
   document.getElementById('list-cat-name').textContent = currentCat.label;
-  document.getElementById('sort-toggle').textContent = '距離 ↑';
+  const sortBtn = document.getElementById('sort-toggle');
+  if (autoLocated && userLocation) {
+    sortBtn.style.display = '';
+    sortBtn.textContent = '距離 ↑';
+  } else {
+    sortBtn.style.display = 'none';
+  }
   renderList();
 }
 
@@ -582,40 +589,55 @@ function toggleSort() {
 
 const MAX_DIST_KM = 30;
 function renderList() {
+  const isRadar = autoLocated && userLocation;
   let items = getFoodByCategory(currentCat).map(f => {
     if (f.lat == null || !userLocation) return {...f, _dist: 0};
     return {...f, _dist: haversine(userLocation.lat, userLocation.lng, f.lat, f.lng)};
   });
-  // Filter to 30km only when auto-located by GPS (not when manually selecting county)
-  if (autoLocated && userLocation) {
+  // Filter to 30km only in radar mode
+  if (isRadar) {
     items = items.filter(f => f._dist <= MAX_DIST_KM);
   }
-  // Sort: items with dist=0 (no GPS coords) go to the end
-  if (sortMode === 'dist') {
-    items.sort((a, b) => {
-      if (a._dist === 0 && b._dist === 0) return 0;
-      if (a._dist === 0) return 1;
-      if (b._dist === 0) return -1;
-      return a._dist - b._dist;
-    });
+  // Sort: radar mode by dist (0 goes last); manual mode by rating only
+  if (isRadar) {
+    if (sortMode === 'dist') {
+      items.sort((a, b) => {
+        if (a._dist === 0 && b._dist === 0) return 0;
+        if (a._dist === 0) return 1;
+        if (b._dist === 0) return -1;
+        return a._dist - b._dist;
+      });
+    } else {
+      items.sort((a, b) => {
+        const rDiff = (b.rating || 0) - (a.rating || 0);
+        if (Math.abs(rDiff) > 0.01) return rDiff;
+        if (a._dist === 0 && b._dist === 0) return 0;
+        if (a._dist === 0) return 1;
+        if (b._dist === 0) return -1;
+        return a._dist - b._dist;
+      });
+    }
   } else {
+    // Manual mode: sort by rating only
     items.sort((a, b) => {
       const rDiff = (b.rating || 0) - (a.rating || 0);
       if (Math.abs(rDiff) > 0.01) return rDiff;
-      if (a._dist === 0 && b._dist === 0) return 0;
-      if (a._dist === 0) return 1;
-      if (b._dist === 0) return -1;
-      return a._dist - b._dist;
+      return (b.reviews || 0) - (a.reviews || 0);
     });
   }
   document.getElementById('list-cat-count').textContent = `(${items.length} 家)`;
-  let statsHtml = `📍 <span class="pos">${userLocation ? userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4) : '--'}</span>`;
-  statsHtml += ` · ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'}`;
-  statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
-  if (autoLocated && userLocation) statsHtml += ` · 📏30km內`;
+  let statsHtml = '';
+  if (isRadar) {
+    statsHtml = `📍 <span class="pos">${userLocation.lat.toFixed(4) + ', ' + userLocation.lng.toFixed(4)}</span>`;
+    statsHtml += ` · ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'}`;
+    statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
+    statsHtml += ` · 📏30km內`;
+  } else {
+    statsHtml = `🖥️ ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'} · 依評分排序`;
+  }
   document.getElementById('list-stats').innerHTML = statsHtml;
   if (!items.length) {
-    const emptyMsg = (autoLocated && userLocation) ? '30km 內找不到此分類的美食，試試切換縣市或區域' : '此區域找不到此分類的美食';
+    const emptyMsg = isRadar ? '30km 內找不到此分類的美食，試試切換縣市或區域' : '此區域找不到此分類的美食';
     document.getElementById('list-content').innerHTML = '<div style="text-align:center;padding:30px;color:var(--gray);font-size:13px;">' + emptyMsg + '</div>';
     return;
   }
@@ -628,6 +650,7 @@ function renderList() {
     }
     const distText = f._dist < 1 ? `${(f._dist * 1000).toFixed(0)}m` : `${f._dist.toFixed(1)}km`;
     const distCls = f._dist < 3 ? 'near' : f._dist > 20 ? 'far' : '';
+    const showDist = isRadar && f._dist > 0;
     const tags = [];
     if (hasTag(f, 'michelin-star')) tags.push('<span class="tag mstar">米其林</span>');
     else if (hasTag(f, 'michelin-bib')) tags.push('<span class="tag mbib">必比登</span>');
@@ -637,7 +660,7 @@ function renderList() {
     (f.categories || []).slice(0, 2).forEach(c => tags.push(`<span class="tag">${c}</span>`));
     html += `<div class="card">
       <div class="row1">
-        <span class="dist ${distCls}">${distText}</span>
+        ${showDist ? `<span class="dist ${distCls}">${distText}</span>` : ''}
         <span class="name">${f.name}</span>
       </div>
       <div class="row2">
@@ -655,7 +678,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.23 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.24 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
