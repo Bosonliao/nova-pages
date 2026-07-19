@@ -227,7 +227,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.34</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.35</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -663,8 +663,8 @@ function renderList() {
     items.forEach(f => {
       const distText = (isRadar && f._dist > 0) ? (f._dist < 1 ? `${(f._dist * 1000).toFixed(0)}m` : `${f._dist.toFixed(1)}km`) : '';
       html += `<div class="drink-card" onclick="window.open('${gmapLink(f.name, currentCounty + (f.area?' '+f.area:''))}','_blank')"`>`;
-      html += `<span class="drink-name"${f.name}</span>`;
-      if (distText) html += `<span class="drink-dist"${distText}</span>`;
+      html += `<span class="drink-name">${f.name}</span>`;
+      if (distText) html += `<span class="drink-dist">${distText}</span>`;
       html += `</div>`;
     });
     html += '</div>';
@@ -709,7 +709,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.34 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.35 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
