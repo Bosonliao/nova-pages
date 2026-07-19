@@ -229,7 +229,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.49</div>
+    <div id="debug-banner" style="position:fixed;bottom:50px;left:4px;background:#264653;color:#fff;font-size:10px;padding:2px 6px;border-radius:4px;z-index:9999;opacity:0.8;"></div>
+  <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.50</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -792,7 +793,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.49 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.50 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
@@ -811,11 +812,20 @@ async function loadAllData() {
         if (!resp.ok) throw new Error('HTTP ' + resp.status);
         allData[city] = await resp.json();
       } catch(e) {
+        console.error(`Failed to load ${city}:`, e);
         allData[city] = { food: [], routes: [], spots: [], souvenirs: [] };
       }
     }));
   }
   dataLoaded = true;
+  // Debug: show data stats
+  let totalFood = 0;
+  for (const c of ORDER) {
+    if (allData[c] && allData[c].food) totalFood += allData[c].food.length;
+  }
+  console.log(`[DEBUG] Total food loaded: ${totalFood}`);
+  const db = document.getElementById('debug-banner');
+  if (db) db.textContent = `載入 ${totalFood} 筆`;
 }
 
 // ===== GPS =====
