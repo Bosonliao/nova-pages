@@ -218,7 +218,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.32</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.33</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -277,8 +277,8 @@ const CITY_CENTER = {
 };
 
 const GROUPS = [
-  {id:'mealtype', title:'餐點形態', keys:['breakfast','brunch','coffee','tea','dessert','cake','drink','ice']},
-  {id:'cuisine', title:'料理風格', keys:['hotpot','japanese','sushi','ramen','yakiniku','korean','thai','italian','hk','american','izakaya','skewer','steak','beefnoodle','noodle','rice','dumpling','seafood','snack','vegetarian','lightmeal','burger']},
+  {id:'mealtype', title:'餐點形態', keys:['breakfast','brunch','coffee','tea','drink','ice']},
+  {id:'cuisine', title:'料理風格', keys:['hotpot','japanese','sushi','ramen','yakiniku','korean','thai','italian','hk','american','izakaya','skewer','steak','beefnoodle','noodle','rice','dumpling','seafood','snack','vegetarian','lightmeal','burger','dessert','cake']},
   {id:'vibe', title:'消費情境', keys:['buffet','group','bistro','bar','fine','date','pet','view','family']},
   {id:'award', title:'評價公信', keys:['michelin','sp']},
 ];
@@ -685,7 +685,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.32 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.33 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
