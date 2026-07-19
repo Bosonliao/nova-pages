@@ -19742,6 +19742,96 @@
       "lat": 24.9220795,
       "lng": 121.1863491,
       "business_hours": "週日-週四 11:30-19:00"
+    },
+    {
+      "name": "徐家小籠包 楊梅店",
+      "description": "4.6星高評價小籠包店，楊梅在地早餐推薦",
+      "area": "楊梅",
+      "rating": 4.6,
+      "reviews": 170,
+      "categories": [
+        "中式"
+      ],
+      "tags": [],
+      "category": "中式",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9106354,
+      "lng": 121.1411552,
+      "address": "桃園市楊梅區楊梅里大平街24號",
+      "business_hours": "週一-週二 05:00-11:00, 週三公休, 週四-週五 05:00-11:00, 週六-週日 05:00-12:00"
+    },
+    {
+      "name": "小籠包專賣店",
+      "description": "4.3星評價小籠包專賣店",
+      "area": "楊梅",
+      "rating": 4.3,
+      "reviews": 84,
+      "categories": [
+        "中式"
+      ],
+      "tags": [],
+      "category": "中式",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9015253,
+      "lng": 121.1464861,
+      "address": "桃園市楊梅區環南路131號",
+      "business_hours": "每日 05:00-11:00"
+    },
+    {
+      "name": "趁熱吃小籠包 手工現包",
+      "description": "4.8星高評價手工現包小籠包",
+      "area": "楊梅",
+      "rating": 4.8,
+      "reviews": 35,
+      "categories": [
+        "中式"
+      ],
+      "tags": [],
+      "category": "中式",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9116133,
+      "lng": 121.1567516,
+      "address": "桃園市楊梅區新農街269號",
+      "business_hours": "每日 05:00-10:00"
+    },
+    {
+      "name": "小籠湯包",
+      "description": "4.3星評價小籠湯包店",
+      "area": "楊梅",
+      "rating": 4.3,
+      "reviews": 23,
+      "categories": [
+        "中式"
+      ],
+      "tags": [],
+      "category": "中式",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9116133,
+      "lng": 121.1567516,
+      "address": "桃園市楊梅區新農街429號",
+      "business_hours": "每日 05:00-10:30"
+    },
+    {
+      "name": "山之手工小籠包",
+      "description": "4.4星評價手工小籠包，瑞溪路一段",
+      "area": "楊梅",
+      "rating": 4.4,
+      "reviews": 95,
+      "categories": [
+        "中式"
+      ],
+      "tags": [],
+      "category": "中式",
+      "_sort": 3,
+      "dishes": [],
+      "lat": 24.9092761,
+      "lng": 121.1816177,
+      "address": "桃園市楊梅區瑞溪路一段246號",
+      "business_hours": "每日 05:00-11:30"
     }
   ]
 }
