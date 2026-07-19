@@ -229,7 +229,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.46</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.47</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -728,7 +728,7 @@ function renderList() {
         html += `<div class="drink-group-title">${g.title}</div>`;
         html += '<div class="drink-grid">';
         filtered.forEach(f => {
-          const searchUrl = f.lat != null ? `https://www.google.com/maps/search/?api=1&query=${f.lat},${f.lng}` : gmapLink(f.name, currentCounty + (f.area?' '+f.area:''));
+          const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(f.name + ' ' + currentCounty + (f.area?' '+f.area:''))}`;
           html += `<div class="drink-card" onclick="window.open('${searchUrl}','_blank')">`;
           const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
           const logo = DRINK_LOGOS[brand];
@@ -742,7 +742,7 @@ function renderList() {
       // 手動模式：不分組，只顯示品牌
       html += '<div class="drink-grid">';
       uniqueItems.forEach(f => {
-        const searchUrl = f.lat != null ? `https://www.google.com/maps/search/?api=1&query=${f.lat},${f.lng}` : gmapLink(f.name, currentCounty + (f.area?' '+f.area:''));
+        const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(f.name + ' ' + currentCounty + (f.area?' '+f.area:''))}`;
         html += `<div class="drink-card" onclick="window.open('${searchUrl}','_blank')">`;
         const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
         const logo = DRINK_LOGOS[brand];
@@ -793,7 +793,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.46 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.47 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
