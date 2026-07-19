@@ -87,6 +87,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .group-section[data-group="vibe"] .group-card{border-left-color:#9B5DE5;}
 .group-section[data-group="award"] .group-card{border-left-color:#E63946;}
 
+/* Drink shop grid */
+.drink-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;padding:0 12px 8px;}
+.drink-card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid #2A9D8F;padding:10px 12px;display:flex;flex-direction:column;gap:2px;cursor:pointer;transition:transform .15s,box-shadow .15s;min-height:60px;}
+.drink-card:active{transform:scale(0.95);box-shadow:var(--shadow-hover);}
+.drink-name{font-size:15px;font-weight:700;color:var(--navy);line-height:1.2;}
+.drink-dist{font-size:12px;font-weight:700;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 7px;align-self:flex-start;}
+
 /* Per-category accent */
 .group-card[data-cat="牛肉麵"]{border-left-color:#E76F51;}
 .group-card[data-cat="麵類"]{border-left-color:#E76F51;}
@@ -201,6 +208,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 @media(max-width:360px){
   .group-card{min-height:60px;padding:8px 10px;}
   .group-card .label{font-size:18px;}
+  .drink-grid{grid-template-columns:repeat(3,1fr);}
+  .drink-name{font-size:13px;}
   .group-card .near{font-size:10px;}
   .group-title{font-size:11px;padding:3px 4px 5px;}
   .app-header .title{font-size:15px;}
@@ -218,7 +227,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.33</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.34</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -647,6 +656,19 @@ function renderList() {
     return;
   }
   let html = '';
+  // 飲料店分類用卡片網格排列
+  const isDrinkCat = currentCat && currentCat.key === 'drink';
+  if (isDrinkCat) {
+    html += '<div class="drink-grid">';
+    items.forEach(f => {
+      const distText = (isRadar && f._dist > 0) ? (f._dist < 1 ? `${(f._dist * 1000).toFixed(0)}m` : `${f._dist.toFixed(1)}km`) : '';
+      html += `<div class="drink-card" onclick="window.open('${gmapLink(f.name, currentCounty + (f.area?' '+f.area:''))}','_blank')"`>`;
+      html += `<span class="drink-name"${f.name}</span>`;
+      if (distText) html += `<span class="drink-dist"${distText}</span>`;
+      html += `</div>`;
+    });
+    html += '</div>';
+  } else {
   const visible = items.slice(0, showCount);
   visible.forEach(f => {
     let ratingHtml = '';
@@ -681,11 +703,13 @@ function renderList() {
       ${tags.length ? `<div class="tags">${tags.join('')}</div>` : ''}
       ${(f.description && !/^Google \d+/.test(f.description)) ? `<div class="desc">${f.description}</div>` : ''}
     </div>`;
-  });
-  if (items.length > showCount) {
+    });
+  }
+  // 飲料店不需要 see-more（全部顯示）
+  if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.33 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.34 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
