@@ -217,7 +217,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.25</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.26</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -598,6 +598,10 @@ function renderList() {
   if (isRadar) {
     items = items.filter(f => f._dist <= MAX_DIST_KM);
   }
+  // Manual mode: only show rating >= 4.0 with 100+ reviews
+  if (!isRadar) {
+    items = items.filter(f => (f.rating || 0) >= 4.0 && (f.reviews || 0) >= 100);
+  }
   // Sort: radar mode by dist (0 goes last); manual mode by rating only
   if (isRadar) {
     if (sortMode === 'dist') {
@@ -633,7 +637,7 @@ function renderList() {
     statsHtml += ` · 依${sortMode === 'dist' ? '距離' : '評分'}排序`;
     statsHtml += ` · 📏30km內`;
   } else {
-    statsHtml = `🖥️ ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'} · 依評分排序`;
+    statsHtml = `🖥️ ${CITY_DISPLAY[currentCounty]}${currentArea ? ' ' + currentArea : ' 全區'} · 依評分排序 · ★4.0+ 評論100+`;
   }
   document.getElementById('list-stats').innerHTML = statsHtml;
   if (!items.length) {
@@ -678,7 +682,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.25 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.26 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
