@@ -229,7 +229,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.43</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.44</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -716,7 +716,10 @@ function renderList() {
         {title:'📸 200m 內', max: 0.2},
         {title:'🚶 500m 內', max: 0.5},
         {title:'🚗 1km 內', max: 1.0},
-        {title:'📍 1km 以上', max: 999},
+        {title:'📍 3km 內', max: 3.0},
+        {title:'🗺️ 5km 內', max: 5.0},
+        {title:'roadsign 10km 內', max: 10.0},
+        {title:'📍 10km 以上', max: 999},
       ];
       groups.forEach(g => {
         const groupItems = uniqueItems.filter(f => f._dist > 0 && f._dist <= g.max);
@@ -792,7 +795,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.43 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.44 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
