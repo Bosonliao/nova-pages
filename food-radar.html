@@ -217,7 +217,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.22</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.23</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -313,7 +313,7 @@ const CATEGORIES = [
   {key:'tea', icon:'🫖', label:'下午茶', tags:['下午茶'], keywords:['下午茶','TEA',' Tea','下午茶餐廳','英式下午茶']},
   {key:'dessert', icon:'🍰', label:'甜點', tags:['甜品'], keywords:['甜點','布丁','奶酪','雪花冰','刨冰','冰品','豆花','仙草','挫冰','冰沙','甜湯']},
   {key:'cake', icon:'🍰', label:'蛋糕', tags:['蛋糕'], keywords:['蛋糕','千層','塔','派','慕斯','提拉米蘇','乳酪蛋糕','戚風']},
-  {key:'drink', icon:'🥤', label:'飲料店', tags:['飲品','饮品'], keywords:['飲料','茶飲','手搖飲','珍珠奶茶','奶茶','果汁','冰沙']},
+  {key:'drink', icon:'🥤', label:'飲料店', tags:['飲品','饮品'], keywords:['茶飲','手搖飲','珍珠奶茶','奶茶','果汁','冷飲站','飲料店']},
   {key:'ice', icon:'🍨', label:'冰品', tags:['冰品'], keywords:['冰品','刨冰','雪花冰','挫冰','冰淇淋','義式冰淇淋',' gelato']},
   // === 消費情境 ===
   {key:'buffet', icon:'🍽️', label:'吃到飽', tags:['吃到飽'], keywords:['吃到飽','BUFFET','Buffet','自助餐','無限量']},
@@ -655,7 +655,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.22 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.23 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
