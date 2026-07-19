@@ -229,7 +229,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.42</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.43</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -309,16 +309,16 @@ const DRINK_LOGOS = {
   '茶的魔手': 'assets/drink-logos/茶的魔手.png',
   '珍煮丹': 'assets/drink-logos/珍煮丹.png',
   '一沐日': '',
-  '五桐號': '',
-  '八曜和茶': '',
-  '龜記茗品': '',
-  '龜記': '',
-  '茶聚': '',
+  '五桐號': 'assets/drink-logos/五桐號.png',
+  '八曜和茶': 'assets/drink-logos/八曜和茶.png',
+  '龜記茗品': 'assets/drink-logos/龜記茗品.png',
+  '龜記': 'assets/drink-logos/龜記茗品.png',
+  '茶聚': 'assets/drink-logos/茶聚.png',
   '一芳': 'assets/drink-logos/一芳.png',
-  '日出茶太': '',
-  '老虎堂': '',
+  '日出茶太': 'assets/drink-logos/日出茶太.png',
+  '老虎堂': 'assets/drink-logos/老虎堂.jpg',
   '茶魔': '',
-  '季緣': '',
+  '季緣': 'assets/drink-logos/季緣.png',
   'UG樂己': 'assets/drink-logos/UG樂己.png',
   '九茶': '',
 };
@@ -792,7 +792,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.42 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.43 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
