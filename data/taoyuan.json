@@ -18441,28 +18441,28 @@
       "lng": 121.1856999
     },
     {
-      "name": "50嵐",
-      "lat": 24.9925706,
-      "lng": 121.335816,
+      "name": "50嵐 中壢中原店",
+      "lat": 24.95422,
+      "lng": 121.24055,
       "area": "龜山區",
       "categories": [
         "飲品"
       ],
       "rating": 3,
       "reviews": 0,
-      "address": "珍珠奶茶店 · 中興路393號"
+      "address": "桃園市中壢區日新路8號"
     },
     {
-      "name": "50嵐",
-      "lat": 25.0157248,
-      "lng": 121.3105977,
+      "name": "50嵐 內壢忠孝店",
+      "lat": 24.97512,
+      "lng": 121.25688,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 2.4,
       "reviews": 0,
-      "address": "無酒精飲料店 · 龍安街148-3號"
+      "address": "桃園市中壢區忠孝路35號"
     },
     {
       "name": "50嵐",
@@ -18545,15 +18545,15 @@
     },
     {
       "name": "50嵐 楊梅大成店",
-      "lat": 24.91225,
-      "lng": 121.14418,
+      "lat": 24.91254,
+      "lng": 121.14591,
       "area": "楊梅區",
       "categories": [
         "飲品"
       ],
       "rating": 3.6,
       "reviews": 399,
-      "address": "桃園市楊梅區大成路160號"
+      "address": "桃園市楊梅區大成路204號"
     },
     {
       "name": "50嵐",
@@ -18922,26 +18922,28 @@
       "reviews": 0
     },
     {
-      "name": "迷客夏",
-      "lat": 25.0149149,
-      "lng": 121.3174695,
+      "name": "迷客夏Milksha 中壢元化店",
+      "lat": 24.96422,
+      "lng": 121.22555,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市中壢區興南里元化路350號"
     },
     {
-      "name": "迷客夏",
-      "lat": 25.0587003,
-      "lng": 121.3699097,
+      "name": "迷客夏Milksha 桃園內壢忠孝店",
+      "lat": 24.97588,
+      "lng": 121.25712,
       "area": "龜山區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市中壢區中原里忠孝路58號"
     },
     {
       "name": "迷客夏",
@@ -19032,15 +19034,16 @@
       "reviews": 0
     },
     {
-      "name": "麻古茶坊",
-      "lat": 25.0189564,
-      "lng": 121.3001705,
+      "name": "麻古茶坊 中壢新生店",
+      "lat": 24.96088,
+      "lng": 121.22445,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市中壢區興國里新生路105號"
     },
     {
       "name": "麻古茶坊",
@@ -19120,15 +19123,16 @@
       "reviews": 0
     },
     {
-      "name": "一沐日",
-      "lat": 24.9544001,
-      "lng": 121.2391161,
+      "name": "一沐日 中壢三民店",
+      "lat": 24.96312,
+      "lng": 121.21855,
       "area": "中壢區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市中壢區三民路周邊"
     },
     {
       "name": "可不可熟成紅茶",
@@ -19572,20 +19576,20 @@
     },
     {
       "name": "CoCo都可 楊梅大成店",
-      "lat": 24.9117605,
-      "lng": 121.1832237,
+      "lat": 24.91485,
+      "lng": 121.14691,
       "area": "楊梅區",
       "categories": [
         "飲品"
       ],
       "rating": 4.5,
       "reviews": 174,
-      "address": "桃園市楊梅區大成路10-1號"
+      "address": "桃園市楊梅區大成路10之1號"
     },
     {
       "name": "COMEBUY 楊梅大成店",
-      "lat": 24.9107787,
-      "lng": 121.1457976,
+      "lat": 24.91312,
+      "lng": 121.14488,
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19706,11 +19710,11 @@
     {
       "name": "麻古茶坊 楊梅文化店",
       "place_id": "",
-      "lat": 24.9185,
-      "lng": 121.184,
+      "lat": 24.91488,
+      "lng": 121.18122,
       "rating": 4.3,
       "reviews": 258,
-      "address": "桃園市楊梅區光華里文化街167號",
+      "address": "桃園市楊梅區文化街167號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19732,13 +19736,13 @@
       "description": ""
     },
     {
-      "name": "茶詠春-楊梅埔心店",
+      "name": "茶詠春 楊梅埔心店",
       "place_id": "",
-      "lat": 24.9188752,
-      "lng": 121.1839048,
+      "lat": 24.91522,
+      "lng": 121.18688,
       "rating": 3.4,
       "reviews": 30,
-      "address": "",
+      "address": "桃園市楊梅區中興路12號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19760,7 +19764,7 @@
       "description": ""
     },
     {
-      "name": "金茶伍手作飲品-楊梅瑞溪門市",
+      "name": "金茶伍手作飲品 楊梅瑞溪門市",
       "place_id": "",
       "lat": 24.91316,
       "lng": 121.17387,
@@ -19816,7 +19820,7 @@
       "description": ""
     },
     {
-      "name": "茗茗究市",
+      "name": "茗茗究市 桃園旗艦店",
       "place_id": "",
       "lat": 24.91386,
       "lng": 121.14583,
@@ -19830,7 +19834,7 @@
       "description": ""
     },
     {
-      "name": "吾奶王桃園楊梅店",
+      "name": "吾奶王 桃園楊梅店",
       "place_id": "",
       "lat": 24.91892,
       "lng": 121.18231,
@@ -19874,11 +19878,11 @@
     {
       "name": "龜記茗品 楊梅大成店",
       "place_id": "",
-      "lat": 24.9114587,
-      "lng": 121.1456517,
+      "lat": 24.91248,
+      "lng": 121.14422,
       "rating": 4.7,
       "reviews": 362,
-      "address": "",
+      "address": "桃園市楊梅區大成路145號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19888,11 +19892,11 @@
     {
       "name": "茶聚CHAGE 楊梅大成店",
       "place_id": "",
-      "lat": 24.911824,
-      "lng": 121.145844,
+      "lat": 24.91218,
+      "lng": 121.14412,
       "rating": 4.7,
       "reviews": 75,
-      "address": "",
+      "address": "桃園市楊梅區大成路164號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19914,13 +19918,13 @@
       "description": ""
     },
     {
-      "name": "先喝道桃園楊梅店",
+      "name": "先喝道 桃園楊梅店",
       "place_id": "",
-      "lat": 24.909768,
-      "lng": 121.156897,
+      "lat": 24.91433,
+      "lng": 121.15412,
       "rating": 3.8,
       "reviews": 200,
-      "address": "",
+      "address": "桃園市楊梅區環東路441號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19930,11 +19934,11 @@
     {
       "name": "蓋胖杯茶飲",
       "place_id": "",
-      "lat": 24.9128801,
-      "lng": 121.1468335,
+      "lat": 24.91402,
+      "lng": 121.14498,
       "rating": 4.8,
       "reviews": 77,
-      "address": "",
+      "address": "桃園市楊梅區新成路12號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19956,13 +19960,13 @@
       "description": ""
     },
     {
-      "name": "得正#楊梅大成計劃",
+      "name": "得正 楊梅大成計劃",
       "place_id": "",
-      "lat": 24.9124323,
-      "lng": 121.1457113,
+      "lat": 24.91201,
+      "lng": 121.14408,
       "rating": 3.3,
       "reviews": 164,
-      "address": "",
+      "address": "桃園市楊梅區大成路177號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19986,8 +19990,8 @@
     {
       "name": "迷客夏Milksha 桃園楊梅店",
       "place_id": "",
-      "lat": 24.9109479,
-      "lng": 121.1457918,
+      "lat": 24.91301,
+      "lng": 121.14472,
       "rating": 4.2,
       "reviews": 137,
       "address": "桃園市楊梅區大成路122號",
@@ -19998,13 +20002,13 @@
       "description": ""
     },
     {
-      "name": "五桐號WooTEA 楊梅大成店",
+      "name": "TEA TOP第一味 楊梅大成店",
       "place_id": "",
-      "lat": 24.9113566,
-      "lng": 121.1458187,
+      "lat": 24.91185,
+      "lng": 121.14388,
       "rating": 4.3,
       "reviews": 84,
-      "address": "",
+      "address": "桃園市楊梅區大成路188號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20012,13 +20016,13 @@
       "description": ""
     },
     {
-      "name": "上宇林楊梅大成店",
+      "name": "上宇林 楊梅大成店",
       "place_id": "",
-      "lat": 24.9112622,
-      "lng": 121.1458081,
+      "lat": 24.91265,
+      "lng": 121.14438,
       "rating": 4.0,
       "reviews": 111,
-      "address": "",
+      "address": "桃園市楊梅區大成路138號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20056,11 +20060,11 @@
     {
       "name": "紅茶巴士 楊梅文化站",
       "place_id": "",
-      "lat": 24.9118273,
-      "lng": 121.1835951,
+      "lat": 24.91388,
+      "lng": 121.18045,
       "rating": 4.5,
       "reviews": 136,
-      "address": "",
+      "address": "桃園市楊梅區文化街203號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20110,13 +20114,13 @@
       "description": ""
     },
     {
-      "name": "自然湉楊梅大成店",
+      "name": "Go ba 自然湉 楊梅大成店",
       "place_id": "",
       "lat": 24.91187,
       "lng": 121.14385,
       "rating": 4.4,
       "reviews": 0,
-      "address": "\n326桃園市楊梅區楊梅里大成路205號",
+      "address": "桃園市楊梅區大成路205號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20154,11 +20158,11 @@
     {
       "name": "萬波島嶼紅茶 楊梅大成店",
       "place_id": "",
-      "lat": 24.9112263,
-      "lng": 121.1458286,
+      "lat": 24.91271,
+      "lng": 121.14445,
       "rating": 3.9,
       "reviews": 0,
-      "address": "\n326桃園市楊梅區楊梅里大成路136號",
+      "address": "桃園市楊梅區大成路136號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20168,11 +20172,11 @@
     {
       "name": "可不可熟成茶行 埔心文化店",
       "place_id": "",
-      "lat": 24.9117322,
-      "lng": 121.1832564,
+      "lat": 24.91233,
+      "lng": 121.17912,
       "rating": 3.5,
       "reviews": 0,
-      "address": "桃園市楊梅區埔心文化街250號",
+      "address": "桃園市楊梅區文化街252號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20224,11 +20228,11 @@
     {
       "name": "鮮茶道 埔心站前店",
       "place_id": "",
-      "lat": 24.9189655,
-      "lng": 121.1838601,
+      "lat": 24.91544,
+      "lng": 121.18712,
       "rating": 4.1,
       "reviews": 0,
-      "address": "\n326桃園市楊梅區埔心里中興路6號",
+      "address": "桃園市楊梅區中興路6號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20255,8 +20259,8 @@
       "rating": 3.4,
       "reviews": 0,
       "place_id": "",
-      "lat": 24.9122969,
-      "lng": 121.145872,
+      "lat": 24.91192,
+      "lng": 121.14392,
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20460,7 +20464,7 @@
       "description": ""
     },
     {
-      "name": "UG樂己 楊梅大成店",
+      "name": "UG 楊梅大成店",
       "place_id": "",
       "lat": 24.91266,
       "lng": 121.14441,
@@ -20494,7 +20498,7 @@
       "lng": 121.18567,
       "rating": 0,
       "reviews": 0,
-      "address": "桃園市楊梅區中興路119號",
+      "address": "桃園市楊梅區中興路103號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20510,6 +20514,314 @@
       "reviews": 0,
       "address": "桃園市楊梅區萬大路136號",
       "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 楊梅大成店",
+      "place_id": "",
+      "lat": 24.91345,
+      "lng": 121.14521,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區大成路96號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "林三茶研所 楊梅大成店",
+      "place_id": "",
+      "lat": 24.91132,
+      "lng": 121.14311,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區大成路232號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "思茶MissingTea 桃園楊梅店",
+      "place_id": "",
+      "lat": 24.91315,
+      "lng": 121.14612,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區大華街32號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "鮮茶道 楊梅楊新北店",
+      "place_id": "",
+      "lat": 24.91811,
+      "lng": 121.14925,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區楊新北路391號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "Tea's原味 楊梅新農店",
+      "place_id": "",
+      "lat": 24.90855,
+      "lng": 121.16112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區新農街二段52號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "迷客夏Milksha 桃園楊梅埔心店",
+      "place_id": "",
+      "lat": 24.91411,
+      "lng": 121.18512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區中興路109號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "紅茶大苑 埔心店",
+      "place_id": "",
+      "lat": 24.91515,
+      "lng": 121.18665,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區中興路15號1樓",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "五桐號WooTEA 楊梅文化店",
+      "place_id": "",
+      "lat": 24.91425,
+      "lng": 121.18095,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區文化街187號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "COMEBUY 楊梅文化店",
+      "place_id": "",
+      "lat": 24.91442,
+      "lng": 121.18105,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區文化街181號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "龜記 埔心文化店",
+      "place_id": "",
+      "lat": 24.91312,
+      "lng": 121.17988,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區文化街228號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "食茶 特色茶飲",
+      "place_id": "",
+      "lat": 24.93512,
+      "lng": 121.09015,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區成功路38號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #中壢新生計劃",
+      "place_id": "",
+      "lat": 24.96155,
+      "lng": 121.22412,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區新生路138號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 中壢中原店",
+      "place_id": "",
+      "lat": 24.95512,
+      "lng": 121.24112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區普忠里中北路155號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "弎茶TEEE TEA",
+      "place_id": "",
+      "lat": 24.96552,
+      "lng": 121.22312,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區金華里新生路359號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "河河 HOHO DRINKS 桃園中壢",
+      "place_id": "",
+      "lat": 24.96455,
+      "lng": 121.22355,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區興平里新生路273號1樓",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "思茶MissingTea 內壢忠孝店",
+      "place_id": "",
+      "lat": 24.97812,
+      "lng": 121.25912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區忠孝里忠孝路201-2號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "大茗本位製茶堂 中壢新明店",
+      "place_id": "",
+      "lat": 24.95922,
+      "lng": 121.21788,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區新明里新明路40號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "Lag累擱鮮奶茶 創始總店",
+      "place_id": "",
+      "lat": 24.95885,
+      "lng": 121.21812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區新明里中央西路二段26號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "甘蔗媽媽 桃園中壢店",
+      "place_id": "",
+      "lat": 24.95655,
+      "lng": 121.21988,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區舊明里中正路361號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "北茶屋 中壢店",
+      "place_id": "",
+      "lat": 24.96112,
+      "lng": 121.23512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區幸福里福州二街412號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "星M STAR M 中壢海華店",
+      "place_id": "",
+      "lat": 24.96352,
+      "lng": 121.22688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區新街里慈惠三街108巷8號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "吾奶王 桃園內壢店",
+      "place_id": "",
+      "lat": 24.97122,
+      "lng": 121.25312,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區中華路一段306號",
+      "area": "中壢區",
       "categories": [
         "飲品"
       ],
