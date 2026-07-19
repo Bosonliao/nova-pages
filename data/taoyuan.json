@@ -18465,15 +18465,16 @@
       "address": "桃園市中壢區忠孝路35號"
     },
     {
-      "name": "50嵐",
-      "lat": 25.059348,
-      "lng": 121.3692472,
+      "name": "50嵐 平鎮和平店",
+      "lat": 24.95112,
+      "lng": 121.22885,
       "area": "龜山區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市平鎮區和平路177號"
     },
     {
       "name": "50嵐",
@@ -19046,15 +19047,16 @@
       "address": "桃園市中壢區興國里新生路105號"
     },
     {
-      "name": "麻古茶坊",
-      "lat": 25.0205717,
-      "lng": 121.220443,
+      "name": "麻古茶坊 平鎮南豐店",
+      "lat": 24.91512,
+      "lng": 121.20788,
       "area": "大園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市平鎮區南豐路45號"
     },
     {
       "name": "麻古茶坊",
@@ -19068,15 +19070,16 @@
       "reviews": 0
     },
     {
-      "name": "龜記茗品",
-      "lat": 24.9908838,
-      "lng": 121.3101473,
+      "name": "龜記茗品 平鎮南勢店",
+      "lat": 24.92152,
+      "lng": 121.21512,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段128號"
     },
     {
       "name": "龜記茗品",
@@ -19090,15 +19093,16 @@
       "reviews": 0
     },
     {
-      "name": "五桐號",
-      "lat": 24.9907146,
-      "lng": 121.3128491,
+      "name": "五桐號WooTEA 桃園平鎮南勢店",
+      "lat": 24.92125,
+      "lng": 121.21532,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段133號"
     },
     {
       "name": "五桐號",
@@ -19333,15 +19337,16 @@
       "reviews": 0
     },
     {
-      "name": "COMEBUY",
-      "lat": 25.0070084,
-      "lng": 121.2199011,
+      "name": "COMEBUY 平鎮南豐店",
+      "lat": 24.91612,
+      "lng": 121.20845,
       "area": "中壢區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市平鎮區南豐路17號1樓"
     },
     {
       "name": "COMEBUY",
@@ -20822,6 +20827,188 @@
       "reviews": 0,
       "address": "桃園市中壢區中華路一段306號",
       "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #桃園平鎮計劃",
+      "place_id": "",
+      "lat": 24.92138,
+      "lng": 121.21528,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段131號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "拾汣茶屋 平鎮南勢店",
+      "place_id": "",
+      "lat": 24.91925,
+      "lng": 121.21482,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段280號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "先喝道 平鎮聯新國際店",
+      "place_id": "",
+      "lat": 24.94528,
+      "lng": 121.20612,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區復旦路二段23巷1號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "林三茶研所 桃園平鎮店",
+      "place_id": "",
+      "lat": 24.92112,
+      "lng": 121.21555,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段140號1樓",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 平鎮中豐店",
+      "place_id": "",
+      "lat": 24.92088,
+      "lng": 121.21588,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段154號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "吾奶王 桃園平鎮延平店",
+      "place_id": "",
+      "lat": 24.95312,
+      "lng": 121.21688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區延平路一段32號1樓",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "上宇林 平鎮文化店",
+      "place_id": "",
+      "lat": 24.94122,
+      "lng": 121.19655,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區文化街184號1樓",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "無飲 育達店",
+      "place_id": "",
+      "lat": 24.94855,
+      "lng": 121.20912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區育達路65號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶今鑄茶所 CHA·JIN",
+      "place_id": "",
+      "lat": 24.91788,
+      "lng": 121.21412,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中豐路南勢二段341號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "炎午茶飲 平鎮金陵店",
+      "place_id": "",
+      "lat": 24.93812,
+      "lng": 121.23212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區金陵路264號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "美茶吧 滇緬泰手搖飲",
+      "place_id": "",
+      "lat": 24.92552,
+      "lng": 121.25112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中山路55號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "出櫃 平鎮龍崗店",
+      "place_id": "",
+      "lat": 24.92885,
+      "lng": 121.25412,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區中山路205號",
+      "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "新井茶 平鎮和平店",
+      "place_id": "",
+      "lat": 24.95088,
+      "lng": 121.22912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市平鎮區和平路171號",
+      "area": "平鎮區",
       "categories": [
         "飲品"
       ],
