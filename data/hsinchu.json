@@ -15193,6 +15193,300 @@
       ],
       "rating": 0,
       "reviews": 0
+    },
+    {
+      "name": "UG 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90152,
+      "lng": 121.00012,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段146之12號1樓",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "50嵐 新豐明新店",
+      "place_id": "",
+      "lat": 24.90421,
+      "lng": 120.99567,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉新興路67號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "麻古茶坊 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90012,
+      "lng": 120.99854,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段87號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "迷客夏Milksha 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90188,
+      "lng": 121.00112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段159號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成紅茶 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90145,
+      "lng": 121.00045,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段148號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #新竹新豐計劃",
+      "place_id": "",
+      "lat": 24.90166,
+      "lng": 121.00088,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段155-9號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "五桐號WooTEA 新豐新興店",
+      "place_id": "",
+      "lat": 24.89785,
+      "lng": 120.99512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉新興路9號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "龜記茗品 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90025,
+      "lng": 120.99865,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段89號一樓",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "思茶MissingTea 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90035,
+      "lng": 120.99888,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段92號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "青山-青茶專業製作 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90155,
+      "lng": 120.99542,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉新興路43號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "TEATOP第一味 新豐建興店",
+      "place_id": "",
+      "lat": 24.90112,
+      "lng": 120.99985,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段139號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "烏弄原生茶飲 新豐店",
+      "place_id": "",
+      "lat": 24.89955,
+      "lng": 120.99752,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段50號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "鶴茶樓 新豐建興店",
+      "place_id": "",
+      "lat": 24.90088,
+      "lng": 120.99925,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "甘蔗の媽媽 新豐建興店",
+      "place_id": "",
+      "lat": 24.90132,
+      "lng": 121.00022,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段145-1號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "走走茶迷 生態茶飲",
+      "place_id": "",
+      "lat": 24.89988,
+      "lng": 120.99785,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段65號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "藍衫茶所 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90512,
+      "lng": 121.00122,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉民安街19號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "上宇林 新豐新庄子店",
+      "place_id": "",
+      "lat": 24.90235,
+      "lng": 120.97885,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉新市路1號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CoCo都可 新豐建興店",
+      "place_id": "",
+      "lat": 24.89921,
+      "lng": 120.99712,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉建興路一段44號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "金沐堂",
+      "place_id": "",
+      "lat": 24.90655,
+      "lng": 120.99421,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉明新一街12號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "日出客棧 新竹新豐店",
+      "place_id": "",
+      "lat": 24.90388,
+      "lng": 120.99812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉泰安街21號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "無飲 新豐新興店",
+      "place_id": "",
+      "lat": 24.90812,
+      "lng": 120.99622,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣新豐鄉新興路149號",
+      "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }
