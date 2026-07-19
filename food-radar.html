@@ -230,7 +230,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <div>
     <div class="title">📡 美食雷達</div>
     <div id="debug-banner" style="position:fixed;bottom:50px;left:4px;background:#264653;color:#fff;font-size:10px;padding:2px 6px;border-radius:4px;z-index:9999;opacity:0.8;"></div>
-  <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.50</div>
+  <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.51</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -793,7 +793,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.50 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.51 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
@@ -878,6 +878,23 @@ function locateMe() {
 
 window.addEventListener('load', () => {
   showGeoBanner('📍 點「允許定位」自動偵測所在縣市', true);
+  // Auto-debug: check data state after 3 seconds
+  setTimeout(() => {
+    let totalFood = 0;
+    let loadedCities = [];
+    let emptyCities = [];
+    for (const c of ORDER) {
+      const cnt = (allData[c] && allData[c].food) ? allData[c].food.length : 0;
+      totalFood += cnt;
+      if (cnt > 0) loadedCities.push(c + ':' + cnt);
+      else emptyCities.push(c);
+    }
+    const db = document.getElementById('debug-banner');
+    if (db) {
+      db.textContent = `DBG: ${totalFood}筆 | 已載入:${loadedCities.length}/${ORDER.length} | dataLoaded=${dataLoaded} | autoLoc=${autoLocated} | county=${currentCounty}`;
+      db.style.display = 'block';
+    }
+  }, 5000);
 });
 </script>
 
