@@ -12072,6 +12072,20 @@
         "飲品"
       ],
       "description": ""
+    },
+    {
+      "name": "思茶MissingTea 頭份尚順店",
+      "place_id": "",
+      "lat": 24.69088,
+      "lng": 120.91212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "苗栗縣頭份市東民六街3號",
+      "area": "頭份市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }

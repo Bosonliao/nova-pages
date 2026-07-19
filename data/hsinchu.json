@@ -16000,6 +16000,104 @@
         "飲品"
       ],
       "description": ""
+    },
+    {
+      "name": "麻古茶坊 新竹湖口車站店",
+      "place_id": "",
+      "lat": 24.90372,
+      "lng": 121.04425,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段24號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "功夫茶 KUNGFUTEA 湖口工業店",
+      "place_id": "",
+      "lat": 24.91312,
+      "lng": 121.01688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉工業二路31號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #竹北博愛計劃",
+      "place_id": "",
+      "lat": 24.83855,
+      "lng": 121.00812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市博愛街200號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶棧 竹北總店",
+      "place_id": "",
+      "lat": 24.84212,
+      "lng": 121.01588,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市中正東路429號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶棧 竹北勝利店",
+      "place_id": "",
+      "lat": 24.83155,
+      "lng": 121.03212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市勝利十二街95號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "先喝道 竹北三民店",
+      "place_id": "",
+      "lat": 24.84215,
+      "lng": 121.00912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路353號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "功夫茶 湖口工業店",
+      "place_id": "",
+      "lat": 24.91312,
+      "lng": 121.01688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉勝利村工業二路31號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }

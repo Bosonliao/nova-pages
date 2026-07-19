@@ -21386,6 +21386,34 @@
         "早餐"
       ],
       "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 中壢站前店",
+      "place_id": "",
+      "lat": 24.95322,
+      "lng": 121.22455,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區石頭里中正路29號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 中壢中山店",
+      "place_id": "",
+      "lat": 24.95855,
+      "lng": 121.21912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市中壢區新明里中山路536號",
+      "area": "中壢區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }
