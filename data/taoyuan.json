@@ -1046,7 +1046,8 @@
       "tags": [],
       "category": "素食",
       "_sort": 3,
-      "dishes": []
+      "dishes": [],
+      "address": "326桃園市楊梅區瑞坪里福羚路200巷6弄16號"
     },
     {
       "name": "楊梅富岡慧養生蔬食",
@@ -2534,7 +2535,8 @@
           "name": "龍蝦鍋",
           "description": "只要429元的龍蝦鍋，CP值超高，飲料冰淇淋吃到飽"
         }
-      ]
+      ],
+      "address": "324桃園市平鎮區延平路二段430巷41號"
     },
     {
       "name": "Ikkon Shabu",
@@ -4251,7 +4253,8 @@
           "name": "脆皮蛋餅",
           "description": "外酥內軟的台式蛋餅"
         }
-      ]
+      ],
+      "address": "334桃園市八德區大宏里桃德路138號"
     },
     {
       "name": "川都江堰-八德麻辣串串鍋|麻辣火鍋|熱門鍋物|串串專賣店|四川麻辣鍋|在地推薦火鍋",
@@ -18445,8 +18448,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3,
+      "reviews": 0,
+      "address": "珍珠奶茶店 · 中興路393號"
     },
     {
       "name": "50嵐",
@@ -18456,8 +18460,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 2.4,
+      "reviews": 0,
+      "address": "無酒精飲料店 · 龍安街148-3號"
     },
     {
       "name": "50嵐",
@@ -18489,8 +18494,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3.2,
+      "reviews": 0,
+      "address": "珍珠奶茶店 · 興豐路700號"
     },
     {
       "name": "50嵐",
@@ -18522,8 +18528,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3.4,
+      "reviews": 0,
+      "address": "冰品飲料店 · 和平街25號"
     },
     {
       "name": "50嵐",
@@ -18544,8 +18551,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3.5,
+      "reviews": 0,
+      "address": "珍珠奶茶店 · 大成路204號"
     },
     {
       "name": "50嵐",
@@ -18555,8 +18563,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3.5,
+      "reviews": 0,
+      "address": "珍珠奶茶店 · 中豐路南勢二段95號"
     },
     {
       "name": "50嵐",
@@ -18610,8 +18619,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 4,
+      "reviews": 0,
+      "address": "無酒精飲料店 ·  · 長壽路148號"
     },
     {
       "name": "清心福全",
@@ -18621,8 +18631,9 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 3.1,
+      "reviews": 0,
+      "address": "無酒精飲料店 · 龍壽街52號"
     },
     {
       "name": "清心福全",
@@ -19586,17 +19597,6 @@
       "lat": 25.0121072,
       "lng": 121.3156163,
       "area": "桃園區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "一芳",
-      "lat": 24.9099483,
-      "lng": 121.1457838,
-      "area": "楊梅區",
       "categories": [
         "飲品"
       ],
