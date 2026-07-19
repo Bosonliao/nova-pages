@@ -18477,15 +18477,16 @@
       "address": "桃園市平鎮區和平路177號"
     },
     {
-      "name": "50嵐",
-      "lat": 25.0188254,
-      "lng": 121.2996826,
+      "name": "50嵐 龍潭北龍店",
+      "lat": 24.86421,
+      "lng": 121.21488,
       "area": "桃園區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路61號"
     },
     {
       "name": "50嵐",
@@ -18758,26 +18759,28 @@
       "reviews": 0
     },
     {
-      "name": "CoCo都可",
-      "lat": 25.0599131,
-      "lng": 121.3690412,
+      "name": "CoCo都可 北潭店",
+      "lat": 24.86655,
+      "lng": 121.21312,
       "area": "龜山區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路116號"
     },
     {
-      "name": "CoCo都可",
-      "lat": 25.0169649,
-      "lng": 121.4023429,
+      "name": "CoCo都可 百年店",
+      "lat": 24.85122,
+      "lng": 121.19888,
       "area": "龜山區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區中豐路315號"
     },
     {
       "name": "CoCo都可",
@@ -19059,15 +19062,16 @@
       "address": "桃園市平鎮區南豐路45號"
     },
     {
-      "name": "麻古茶坊",
-      "lat": 24.9595696,
-      "lng": 121.2226964,
+      "name": "麻古茶坊 龍潭北龍店",
+      "lat": 24.86385,
+      "lng": 121.21512,
       "area": "中壢區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路51號"
     },
     {
       "name": "龜記茗品 平鎮南勢店",
@@ -19082,15 +19086,16 @@
       "address": "桃園市平鎮區中豐路南勢二段128號"
     },
     {
-      "name": "龜記茗品",
-      "lat": 24.9558847,
-      "lng": 121.2403219,
+      "name": "龜記茗品 龍潭東龍店",
+      "lat": 24.86212,
+      "lng": 121.21655,
       "area": "中壢區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路230號"
     },
     {
       "name": "五桐號WooTEA 桃園平鎮南勢店",
@@ -19105,15 +19110,16 @@
       "address": "桃園市平鎮區中豐路南勢二段133號"
     },
     {
-      "name": "五桐號",
-      "lat": 24.9619232,
-      "lng": 121.2229032,
+      "name": "五桐號 桃園龍潭北龍店",
+      "lat": 24.86312,
+      "lng": 121.21588,
       "area": "中壢區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路58號"
     },
     {
       "name": "五桐號",
@@ -19349,15 +19355,16 @@
       "address": "桃園市平鎮區南豐路17號1樓"
     },
     {
-      "name": "COMEBUY",
-      "lat": 24.9634868,
-      "lng": 121.3042126,
+      "name": "COMEBUY 桃園龍潭店",
+      "lat": 24.86322,
+      "lng": 121.21515,
       "area": "八德區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路214號1樓"
     },
     {
       "name": "COMEBUY",
@@ -21009,6 +21016,188 @@
       "reviews": 0,
       "address": "桃園市平鎮區和平路171號",
       "area": "平鎮區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "UG 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86536,
+      "lng": 121.21445,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路93號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "一沐日 龍潭中正店",
+      "place_id": "",
+      "lat": 24.86311,
+      "lng": 121.21125,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區中正路239號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #桃園龍潭計劃",
+      "place_id": "",
+      "lat": 24.86632,
+      "lng": 121.21393,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路121號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "上宇林 龍潭東龍店",
+      "place_id": "",
+      "lat": 24.86188,
+      "lng": 121.21682,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路234號1樓",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "大茗本位製茶堂 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86112,
+      "lng": 121.21755,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路256號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "青山-青茶專業製作 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86245,
+      "lng": 121.21612,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路221號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "沫飲MOREiN 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86352,
+      "lng": 121.21388,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區龍元路110號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "吾奶王 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86512,
+      "lng": 121.21855,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區龍青路30號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "拾汣茶屋 龍潭北龍店",
+      "place_id": "",
+      "lat": 24.86885,
+      "lng": 121.21212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路216號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "福氣塘HOKI TEA 龍潭中正門市",
+      "place_id": "",
+      "lat": 24.86452,
+      "lng": 121.21255,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區中正路199號1樓",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶可斯TeaCos 龍潭東龍店",
+      "place_id": "",
+      "lat": 24.86288,
+      "lng": 121.21552,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區東龍路218號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "TEATOP第一味 龍潭北龍店",
+      "place_id": "",
+      "lat": 24.86585,
+      "lng": 121.21412,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區北龍路103號",
+      "area": "龍潭區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "蔗家店 桃園龍潭店",
+      "place_id": "",
+      "lat": 24.86411,
+      "lng": 121.21925,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市龍潭區龍青路12巷7號",
+      "area": "龍潭區",
       "categories": [
         "飲品"
       ],
