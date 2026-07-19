@@ -157,10 +157,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .card .area{background:#f3e5f5;color:#7b1fa2;border-radius:6px;padding:1px 7px;font-size:10px;}
 .card .rating .star{color:#E8A317;font-weight:700;}
 .card .rating .rv{color:#aaa;font-size:10px;}
-.card .row2-btn{font-size:11px;text-decoration:none;white-space:nowrap;flex-shrink:0;padding:3px 10px;border-radius:14px;transition:all .15s;font-weight:600;margin-left:auto;}
+.card .row2-btn{font-size:11px;text-decoration:none;white-space:nowrap;flex-shrink:0;padding:3px 10px;border-radius:14px;transition:all .15s;font-weight:600;}
+.card .row2-btns{display:flex;align-items:center;gap:5px;margin-left:auto;}
 .card .nav{color:var(--white);background:var(--teal);border:none;}
 .card .nav:active{background:var(--teal-dark);}
-.card .google-search{color:var(--white);background:#4285F4;border:none;margin-left:0;}
+.card .google-search{color:var(--white);background:#4285F4;border:none;}
 .card .google-search:active{background:#3367D6;}
 .card .uber{color:var(--white);background:#000;border:none;}
 .card .uber:active{background:#333;}
@@ -217,7 +218,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.29</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.30</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -357,7 +358,7 @@ function gmapLink(query, county) {
 function uberLink(lat, lng) {
   if (lat == null || lng == null) return '';
   const drop = JSON.stringify({latitude: lat, longitude: lng});
-  return ` <a class="row2-btn uber" href="https://m.uber.com/looking?drop%5B0%5D=${encodeURIComponent(drop)}&pickup=my_location" target="_blank">Uber</a>`;
+  return `<a class="row2-btn uber" href="https://m.uber.com/looking?drop%5B0%5D=${encodeURIComponent(drop)}&pickup=my_location" target="_blank">Uber</a>`;
 }
 
 function hasTag(f, t) {
@@ -671,9 +672,11 @@ function renderList() {
         <span class="county">${currentCounty}</span>
         ${f.area ? `<span class="area">${f.area}</span>` : ''}
         ${ratingHtml}
-        <a class="row2-btn google-search" href="https://www.google.com/search?q=${encodeURIComponent(f.name + ' ' + currentCounty + (f.area?' '+f.area:''))}" target="_blank">Google</a>
-        <a class="row2-btn nav" href="${gmapLink(f.name, currentCounty + (f.area?' '+f.area:''))}" target="_blank">導航</a>
-        ${uberLink(f.lat, f.lng)}
+        <span class="row2-btns">
+          <a class="row2-btn google-search" href="https://www.google.com/search?q=${encodeURIComponent(f.name + ' ' + currentCounty + (f.area?' '+f.area:''))}" target="_blank">Google</a>
+          <a class="row2-btn nav" href="${gmapLink(f.name, currentCounty + (f.area?' '+f.area:''))}" target="_blank">導航</a>
+          ${uberLink(f.lat, f.lng)}
+        </span>
       </div>
       ${tags.length ? `<div class="tags">${tags.join('')}</div>` : ''}
       ${(f.description && !/^Google \d+/.test(f.description)) ? `<div class="desc">${f.description}</div>` : ''}
@@ -682,7 +685,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.29 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.30 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
