@@ -217,7 +217,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.20</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.21</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -590,12 +590,21 @@ function renderList() {
   if (autoLocated && userLocation) {
     items = items.filter(f => f._dist <= MAX_DIST_KM);
   }
+  // Sort: items with dist=0 (no GPS coords) go to the end
   if (sortMode === 'dist') {
-    items.sort((a, b) => a._dist - b._dist);
+    items.sort((a, b) => {
+      if (a._dist === 0 && b._dist === 0) return 0;
+      if (a._dist === 0) return 1;
+      if (b._dist === 0) return -1;
+      return a._dist - b._dist;
+    });
   } else {
     items.sort((a, b) => {
       const rDiff = (b.rating || 0) - (a.rating || 0);
       if (Math.abs(rDiff) > 0.01) return rDiff;
+      if (a._dist === 0 && b._dist === 0) return 0;
+      if (a._dist === 0) return 1;
+      if (b._dist === 0) return -1;
       return a._dist - b._dist;
     });
   }
@@ -628,8 +637,8 @@ function renderList() {
     (f.categories || []).slice(0, 2).forEach(c => tags.push(`<span class="tag">${c}</span>`));
     html += `<div class="card">
       <div class="row1">
-        <span class="name">${f.name}</span>
         <span class="dist ${distCls}">${distText}</span>
+        <span class="name">${f.name}</span>
       </div>
       <div class="row2">
         <span class="county">${currentCounty}</span>
@@ -646,7 +655,7 @@ function renderList() {
   if (items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.20 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.21 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
