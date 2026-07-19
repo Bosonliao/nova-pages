@@ -229,7 +229,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <img src="miss-nova-logo.png" class="logo" alt="星思旅食">
   <div>
     <div class="title">📡 美食雷達</div>
-    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.47</div>
+    <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.48</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -713,10 +713,8 @@ function renderList() {
     // 距離分組
     if (isRadar) {
       const groups = [
-        {title:'🚶 500m 內', max: 0.5},
-        {title:'🚗 500m~1km', max: 1.0},
-        {title:'📍 1km~3km', max: 3.0},
-        {title:'🗺️ 3km~5km', max: 5.0},
+        {title:'🚶 1km 內', max: 1.0},
+        {title:'🚗 1km~5km', max: 5.0},
         {title:'📍 5km 以上', max: 999},
       ];
       groups.forEach(g => {
@@ -734,6 +732,7 @@ function renderList() {
           const logo = DRINK_LOGOS[brand];
           if (logo) html += `<img class="drink-logo" src="${logo}" alt="${brand}">`;
           html += `<span class="drink-name">${brand}</span>`;
+          if (f._dist > 0) html += `<span class="drink-dist">${f._dist < 1 ? Math.round(f._dist * 1000) + 'm' : f._dist.toFixed(1) + 'km'}</span>`;
           html += `</div>`;
         });
         html += '</div>';
@@ -793,7 +792,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.47 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.48 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
