@@ -19590,7 +19590,7 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
+      "rating": 4.1,
       "reviews": 0,
       "address": "桃園市楊梅區大成路118號"
     },
@@ -20086,9 +20086,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.3,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區中山里環東路449號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20100,9 +20100,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.7,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區楊梅里大成路190號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20114,9 +20114,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.4,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區楊梅里大成路205號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20128,9 +20128,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.7,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區楊梅里大平街63號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20142,7 +20142,7 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 3.9,
       "reviews": 0,
       "address": "",
       "area": "楊梅區",
@@ -20156,9 +20156,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 3.9,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區楊梅里大成路136號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20170,7 +20170,7 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 3.5,
       "reviews": 0,
       "address": "桃園市楊梅區埔心文化街250號",
       "area": "楊梅區",
@@ -20184,7 +20184,7 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.2,
       "reviews": 0,
       "address": "桃園市楊梅區環南路180號",
       "area": "楊梅區",
@@ -20198,7 +20198,7 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 3.6,
       "reviews": 0,
       "address": "桃園市楊梅區青山一街11號",
       "area": "楊梅區",
@@ -20212,9 +20212,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.5,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區永寧里環南路32-2號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20226,9 +20226,9 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 4.1,
       "reviews": 0,
-      "address": "",
+      "address": "\n326桃園市楊梅區埔心里中興路6號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20240,7 +20240,7 @@
       "place_id": "",
       "lat": null,
       "lng": null,
-      "rating": 0,
+      "rating": 3.9,
       "reviews": 0,
       "address": "桃園市楊梅區中山北路二段162號",
       "area": "楊梅區",
@@ -20252,7 +20252,7 @@
     {
       "name": "清心福全 楊梅大成店",
       "address": "桃園市楊梅區大成路186號",
-      "rating": 0,
+      "rating": 3.4,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20266,7 +20266,7 @@
     {
       "name": "清心福全 楊梅文化店",
       "address": "桃園市楊梅區文化街238號",
-      "rating": 0,
+      "rating": 2.1,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20280,7 +20280,7 @@
     {
       "name": "清心福全 楊梅富岡店",
       "address": "桃園市楊梅區民富路三段906號",
-      "rating": 0,
+      "rating": 3.3,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20294,7 +20294,7 @@
     {
       "name": "清心福全 楊梅永美店",
       "address": "桃園市楊梅區永美路233號",
-      "rating": 0,
+      "rating": 2.3,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20308,7 +20308,7 @@
     {
       "name": "清心福全 楊梅環東店",
       "address": "桃園市楊梅區環東路470號",
-      "rating": 0,
+      "rating": 3.5,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20322,7 +20322,7 @@
     {
       "name": "茶湯會 楊梅大成店",
       "address": "桃園市楊梅區大成路10號",
-      "rating": 0,
+      "rating": 2.2,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20350,7 +20350,7 @@
     {
       "name": "CoCo都可 楊梅富岡店",
       "address": "桃園市楊梅區中正路84號",
-      "rating": 0,
+      "rating": 3.8,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20364,7 +20364,7 @@
     {
       "name": "CoCo都可 埔心中興店",
       "address": "桃園市楊梅區中興路81號",
-      "rating": 0,
+      "rating": 4.3,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20378,7 +20378,7 @@
     {
       "name": "CoCo都可 埔心文化店",
       "address": "桃園市楊梅區埔心文化街250號",
-      "rating": 0,
+      "rating": 4.3,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20392,7 +20392,7 @@
     {
       "name": "CoCo都可 楊梅楊新店",
       "address": "桃園市楊梅區大成路232號",
-      "rating": 0,
+      "rating": 4.7,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20406,7 +20406,7 @@
     {
       "name": "COMEBUY 楊梅埔心店",
       "address": "桃園市楊梅區中興路18號",
-      "rating": 0,
+      "rating": 3.7,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20420,7 +20420,7 @@
     {
       "name": "可不可熟成茶行 楊梅文化店",
       "address": "桃園市楊梅區文化街252號",
-      "rating": 0,
+      "rating": 4.0,
       "reviews": 0,
       "place_id": "",
       "lat": null,
@@ -20434,7 +20434,7 @@
     {
       "name": "麻古茶坊 楊梅新農店",
       "address": "桃園市楊梅區陽明里新農街521號",
-      "rating": 0,
+      "rating": 3.4,
       "reviews": 0,
       "place_id": "",
       "lat": null,
