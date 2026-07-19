@@ -20458,6 +20458,20 @@
         "飲品"
       ],
       "description": ""
+    },
+    {
+      "name": "UG樂己 楊梅大成店",
+      "place_id": "",
+      "lat": 24.91266,
+      "lng": 121.14441,
+      "rating": 0,
+      "reviews": 0,
+      "address": "桃園市楊梅區大成路137號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
     }
   ]
 }
