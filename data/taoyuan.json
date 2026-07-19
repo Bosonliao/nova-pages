@@ -21208,11 +21208,11 @@
     {
       "name": "楊梅大成路蛋餅飯糰",
       "place_id": "",
-      "lat": 24.91212,
-      "lng": 121.14388,
+      "lat": 24.91386,
+      "lng": 121.14583,
       "rating": 4.3,
-      "reviews": 0,
-      "address": "桃園市楊梅區大成路181號",
+      "reviews": 465,
+      "address": "桃園市楊梅區大成路33號",
       "area": "楊梅區",
       "categories": [
         "早餐"
@@ -21224,9 +21224,9 @@
       "place_id": "",
       "lat": 24.91425,
       "lng": 121.14488,
-      "rating": 4.5,
-      "reviews": 0,
-      "address": "桃園市楊梅區光復街33號",
+      "rating": 4.3,
+      "reviews": 2014,
+      "address": "桃園市楊梅區光前街46號",
       "area": "楊梅區",
       "categories": [
         "早餐"
@@ -21248,13 +21248,13 @@
       "description": ""
     },
     {
-      "name": "楊梅無名早餐店 大平街",
+      "name": "楊梅無名早餐店",
       "place_id": "",
       "lat": 24.91355,
       "lng": 121.14312,
-      "rating": 0,
-      "reviews": 0,
-      "address": "桃園市楊梅區大平街53號",
+      "rating": 4.0,
+      "reviews": 571,
+      "address": "桃園市楊梅區大平街51號",
       "area": "楊梅區",
       "categories": [
         "早餐"
@@ -21412,6 +21412,104 @@
       "area": "中壢區",
       "categories": [
         "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "里歐歐式早午餐 楊梅金德店",
+      "place_id": "",
+      "lat": 24.91612,
+      "lng": 121.14512,
+      "rating": 4.7,
+      "reviews": 194,
+      "address": "桃園市楊梅區金德路16號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "朝氣美濃商行 楊梅楊新店",
+      "place_id": "",
+      "lat": 24.91421,
+      "lng": 121.14588,
+      "rating": 4.2,
+      "reviews": 173,
+      "address": "桃園市楊梅區楊新路56號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "饅旺早餐店",
+      "place_id": "",
+      "lat": 24.91012,
+      "lng": 121.15855,
+      "rating": 4.7,
+      "reviews": 201,
+      "address": "桃園市楊梅區新農街463號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "台灣第二代飯糰",
+      "place_id": "",
+      "lat": 24.91421,
+      "lng": 121.14588,
+      "rating": 4.6,
+      "reviews": 78,
+      "address": "桃園市楊梅區大成路22號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "早餐蛋包飯",
+      "place_id": "",
+      "lat": 24.91433,
+      "lng": 121.14591,
+      "rating": 4.6,
+      "reviews": 25,
+      "address": "桃園市楊梅區楊新路22號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "酥皮君 楊梅創始店",
+      "place_id": "",
+      "lat": 24.91032,
+      "lng": 121.15786,
+      "rating": 4.5,
+      "reviews": 12,
+      "address": "桃園市楊梅區新農街1-1號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
+      ],
+      "description": ""
+    },
+    {
+      "name": "楊梅無名傳統早餐",
+      "place_id": "",
+      "lat": 24.91185,
+      "lng": 121.14652,
+      "rating": 4.1,
+      "reviews": 9,
+      "address": "桃園市楊梅區新成路145號",
+      "area": "楊梅區",
+      "categories": [
+        "早餐"
       ],
       "description": ""
     }
