@@ -19579,7 +19579,8 @@
         "飲品"
       ],
       "rating": 4.5,
-      "reviews": 174
+      "reviews": 174,
+      "address": "桃園市楊梅區大成路10-1號"
     },
     {
       "name": "COMEBUY 楊梅大成店",
@@ -19590,7 +19591,8 @@
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "桃園市楊梅區大成路118號"
     },
     {
       "name": "光嶼咖啡",
@@ -19988,7 +19990,7 @@
       "lng": null,
       "rating": 4.2,
       "reviews": 137,
-      "address": "",
+      "address": "桃園市楊梅區大成路122號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20170,7 +20172,7 @@
       "lng": null,
       "rating": 0,
       "reviews": 0,
-      "address": "",
+      "address": "桃園市楊梅區埔心文化街250號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20184,7 +20186,7 @@
       "lng": null,
       "rating": 0,
       "reviews": 0,
-      "address": "",
+      "address": "桃園市楊梅區環南路180號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20198,7 +20200,7 @@
       "lng": null,
       "rating": 0,
       "reviews": 0,
-      "address": "",
+      "address": "桃園市楊梅區青山一街11號",
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -20240,7 +20242,203 @@
       "lng": null,
       "rating": 0,
       "reviews": 0,
-      "address": "",
+      "address": "桃園市楊梅區中山北路二段162號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全 楊梅大成店",
+      "address": "桃園市楊梅區大成路186號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全 楊梅文化店",
+      "address": "桃園市楊梅區文化街238號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全 楊梅富岡店",
+      "address": "桃園市楊梅區民富路三段906號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全 楊梅永美店",
+      "address": "桃園市楊梅區永美路233號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全 楊梅環東店",
+      "address": "桃園市楊梅區環東路470號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶湯會 楊梅大成店",
+      "address": "桃園市楊梅區大成路10號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "大苑子 楊梅大成店",
+      "address": "桃園市楊梅區大成路162號",
+      "rating": 4.3,
+      "reviews": 379,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CoCo都可 楊梅富岡店",
+      "address": "桃園市楊梅區中正路84號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CoCo都可 埔心中興店",
+      "address": "桃園市楊梅區中興路81號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CoCo都可 埔心文化店",
+      "address": "桃園市楊梅區埔心文化街250號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CoCo都可 楊梅楊新店",
+      "address": "桃園市楊梅區大成路232號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "COMEBUY 楊梅埔心店",
+      "address": "桃園市楊梅區中興路18號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 楊梅文化店",
+      "address": "桃園市楊梅區文化街252號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "麻古茶坊 楊梅新農店",
+      "address": "桃園市楊梅區陽明里新農街521號",
+      "rating": 0,
+      "reviews": 0,
+      "place_id": "",
+      "lat": null,
+      "lng": null,
       "area": "楊梅區",
       "categories": [
         "飲品"
