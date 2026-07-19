@@ -14260,37 +14260,40 @@
       "lng": 120.9637306
     },
     {
-      "name": "50嵐",
-      "lat": 24.7853647,
-      "lng": 120.9890914,
+      "name": "50嵐 湖口工業店",
+      "lat": 24.91255,
+      "lng": 121.01512,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣湖口鄉工業一路8號"
     },
     {
-      "name": "50嵐",
-      "lat": 24.7784449,
-      "lng": 121.0203649,
+      "name": "50嵐 竹北福興東店",
+      "lat": 24.81888,
+      "lng": 121.02512,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣竹北市福興東路一段345號"
     },
     {
-      "name": "50嵐",
-      "lat": 24.7971125,
-      "lng": 120.9760224,
+      "name": "50嵐 嘉豐南店",
+      "lat": 24.81515,
+      "lng": 121.03412,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣竹北市嘉豐南路二段30號"
     },
     {
       "name": "50嵐",
@@ -14414,15 +14417,16 @@
       "reviews": 0
     },
     {
-      "name": "清心福全",
-      "lat": 24.804105,
-      "lng": 120.9677623,
+      "name": "清心福全 竹北文興店",
+      "lat": 24.81233,
+      "lng": 121.03045,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣竹北市文興路一段196號"
     },
     {
       "name": "清心福全",
@@ -14579,15 +14583,16 @@
       "reviews": 0
     },
     {
-      "name": "CoCo都可",
-      "lat": 24.7771194,
-      "lng": 121.0232771,
+      "name": "CoCo都可 湖口中正店",
+      "lat": 24.90335,
+      "lng": 121.04342,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段2號"
     },
     {
       "name": "CoCo都可",
@@ -14832,37 +14837,40 @@
       "reviews": 0
     },
     {
-      "name": "麻古茶坊",
-      "lat": 24.7968373,
-      "lng": 120.9761174,
+      "name": "麻古茶坊 新竹湖口車站店",
+      "lat": 24.90372,
+      "lng": 121.04425,
       "area": "東區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段24號"
     },
     {
-      "name": "龜記茗品",
-      "lat": 24.7385808,
-      "lng": 121.0876611,
+      "name": "龜記茗品 湖口中正店",
+      "lat": 24.90341,
+      "lng": 121.04378,
       "area": "竹東鎮",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段9號"
     },
     {
-      "name": "五桐號",
-      "lat": 24.8180052,
-      "lng": 120.9720365,
+      "name": "五桐號WooTEA 湖口中正店",
+      "lat": 24.90355,
+      "lng": 121.04388,
       "area": "北區",
       "categories": [
         "飲品"
       ],
       "rating": 0,
-      "reviews": 0
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段14號"
     },
     {
       "name": "可不可熟成紅茶",
@@ -15483,6 +15491,412 @@
       "reviews": 0,
       "address": "新竹縣新豐鄉新興路149號",
       "area": "新豐鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "拾汣茶屋 湖口站前店",
+      "place_id": "",
+      "lat": 24.90342,
+      "lng": 121.04365,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段7號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #新竹湖口計劃",
+      "place_id": "",
+      "lat": 24.90348,
+      "lng": 121.04372,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段8號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶聚CHAGE 湖口中正店",
+      "place_id": "",
+      "lat": 24.90422,
+      "lng": 121.04512,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段61號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "烏弄原生茶飲 湖口店",
+      "place_id": "",
+      "lat": 24.90512,
+      "lng": 121.04688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段137號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "杜芳子古味茶鋪 新竹湖口店",
+      "place_id": "",
+      "lat": 24.90588,
+      "lng": 121.04812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正路一段199號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "無飲 湖口店",
+      "place_id": "",
+      "lat": 24.90285,
+      "lng": 121.04452,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉民族街96號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茂昌草本茶 湖口站前店",
+      "place_id": "",
+      "lat": 24.90255,
+      "lng": 121.04321,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中山路二段162號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "御私藏 Cozy Tea 湖口站前店",
+      "place_id": "",
+      "lat": 24.90232,
+      "lng": 121.04305,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中山路二段178號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "八稻茶 湖口達生店",
+      "place_id": "",
+      "lat": 24.90212,
+      "lng": 121.04855,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉達生路659號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "TEATOP第一味 湖口達生店",
+      "place_id": "",
+      "lat": 24.90455,
+      "lng": 121.04912,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中正七街177號1樓",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "嗜時候 Can't Help 新竹湖口店",
+      "place_id": "",
+      "lat": 24.89855,
+      "lng": 121.04012,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉中山路一段585號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "nanafru 娜娜福 湖口仁和店",
+      "place_id": "",
+      "lat": 24.90532,
+      "lng": 121.00255,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉仁和路98號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "沫飲MOREiN 湖口仁和店",
+      "place_id": "",
+      "lat": 24.90488,
+      "lng": 121.00312,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉仁和路167號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶の魔手 新竹湖口店",
+      "place_id": "",
+      "lat": 24.90612,
+      "lng": 121.00188,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉仁和路13號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清原芋圓 湖口仁和店",
+      "place_id": "",
+      "lat": 24.90585,
+      "lng": 121.00212,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉仁和路52號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "LAG 累擱 鮮奶茶 湖口店",
+      "place_id": "",
+      "lat": 24.90452,
+      "lng": 121.00155,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉仁樂路23號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "功夫茶 KUNGFUTEA 湖口工業店",
+      "place_id": "",
+      "lat": 24.91312,
+      "lng": 121.01688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉工業二路31號",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "馬祖奶茶 湖口文化店",
+      "place_id": "",
+      "lat": 24.90855,
+      "lng": 121.00812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣湖口鄉文化路50-1號1樓",
+      "area": "湖口鄉",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正 #竹北勝利計劃",
+      "place_id": "",
+      "lat": 24.82522,
+      "lng": 121.02688,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市勝利二路105號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "一沐日 竹北三民店",
+      "place_id": "",
+      "lat": 24.84152,
+      "lng": 121.00988,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路328號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "CHILLDAY 鶖茶 竹北三民店",
+      "place_id": "",
+      "lat": 24.84088,
+      "lng": 121.01042,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路291號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶棧 竹北嘉興店",
+      "place_id": "",
+      "lat": 24.82885,
+      "lng": 121.02812,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市嘉興路206號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "煉瓦良茶 竹北總店",
+      "place_id": "",
+      "lat": 24.82422,
+      "lng": 121.02755,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市勝利一路156號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "希希丁飲品專賣 竹北福興店",
+      "place_id": "",
+      "lat": 24.81812,
+      "lng": 121.03122,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市福興東路二段95號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "有飲Youin 竹北三民店",
+      "place_id": "",
+      "lat": 24.84188,
+      "lng": 121.00955,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路342號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "龜記茗品 竹北三民店",
+      "place_id": "",
+      "lat": 24.84055,
+      "lng": 121.01088,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路270號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "先喝道 竹北勝利店",
+      "place_id": "",
+      "lat": 24.82588,
+      "lng": 121.02645,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市勝利二路128號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "搗壺DAOHUDAY 豆腐奶茶",
+      "place_id": "",
+      "lat": 24.84032,
+      "lng": 121.01112,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市三民路265號",
+      "area": "竹北市",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "沫飲More in. 竹北旗艦店",
+      "place_id": "",
+      "lat": 24.82112,
+      "lng": 121.02988,
+      "rating": 0,
+      "reviews": 0,
+      "address": "新竹縣竹北市自強五路30號",
+      "area": "竹北市",
       "categories": [
         "飲品"
       ],
