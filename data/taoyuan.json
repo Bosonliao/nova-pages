@@ -18544,7 +18544,7 @@
       "reviews": 0
     },
     {
-      "name": "50嵐",
+      "name": "50嵐 楊梅大成店",
       "lat": 24.9173405,
       "lng": 121.1850258,
       "area": "楊梅區",
@@ -18583,17 +18583,6 @@
       "lat": 24.9539808,
       "lng": 121.2385538,
       "area": "中壢區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "50嵐",
-      "lat": 24.9125763,
-      "lng": 121.1459366,
-      "area": "楊梅區",
       "categories": [
         "飲品"
       ],
@@ -18662,17 +18651,6 @@
       "lat": 25.0014636,
       "lng": 121.3606299,
       "area": "龜山區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "清心福全",
-      "lat": 24.9088961,
-      "lng": 121.1710167,
-      "area": "楊梅區",
       "categories": [
         "飲品"
       ],
@@ -18970,17 +18948,6 @@
       "lat": 24.9545036,
       "lng": 121.2235271,
       "area": "中壢區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "迷客夏",
-      "lat": 24.910955,
-      "lng": 121.1458119,
-      "area": "楊梅區",
       "categories": [
         "飲品"
       ],
@@ -19429,17 +19396,6 @@
     },
     {
       "name": "茶湯會",
-      "lat": 24.9081819,
-      "lng": 121.1456399,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "茶湯會",
       "lat": 24.9598835,
       "lng": 121.2226688,
       "area": "中壢區",
@@ -19583,17 +19539,6 @@
     },
     {
       "name": "大苑子",
-      "lat": 24.9117837,
-      "lng": 121.1459092,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "大苑子",
       "lat": 25.0121072,
       "lng": 121.3156163,
       "area": "桃園區",
@@ -19626,97 +19571,20 @@
       "reviews": 0
     },
     {
-      "name": "CoCo都可",
+      "name": "CoCo都可 楊梅大成店",
       "lat": 24.9117605,
       "lng": 121.1832237,
       "area": "楊梅區",
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": 4.5,
+      "reviews": 174
     },
     {
-      "name": "CoCo都可",
-      "lat": 24.9176788,
-      "lng": 121.184812,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "CoCo都可",
-      "lat": 24.9133309,
-      "lng": 121.1461214,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "CoCo都可",
-      "lat": 24.9384068,
-      "lng": 121.1232016,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "CoCo都可",
-      "lat": 24.9344135,
-      "lng": 121.1229678,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "茶聚",
-      "lat": 24.9000916,
-      "lng": 121.147428,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "茶聚",
-      "lat": 24.9266536,
-      "lng": 121.1746786,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "COMEBUY",
+      "name": "COMEBUY 楊梅大成店",
       "lat": 24.9107787,
       "lng": 121.1457976,
-      "area": "楊梅區",
-      "categories": [
-        "飲品"
-      ],
-      "rating": 0,
-      "reviews": 0
-    },
-    {
-      "name": "CoCo都可",
-      "lat": 24.9520304,
-      "lng": 121.2033981,
       "area": "楊梅區",
       "categories": [
         "飲品"
@@ -19841,6 +19709,538 @@
       "rating": 4.3,
       "reviews": 258,
       "address": "桃園市楊梅區光華里文化街167號",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "花火禾茶 はなび 製茶所",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.9,
+      "reviews": 1128,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶詠春-楊梅埔心店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 3.4,
+      "reviews": 30,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "食茶 楊梅平價飲料",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.8,
+      "reviews": 104,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "金茶伍手作飲品-楊梅瑞溪門市",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.8,
+      "reviews": 178,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "TrueWin初韻 中壢過嶺店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.3,
+      "reviews": 47,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "紅茶媽媽-中壢過嶺店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.6,
+      "reviews": 79,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "思茶MissingTea手作飲品 桃園楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.2,
+      "reviews": 353,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茗茗究市",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.4,
+      "reviews": 135,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "吾奶王桃園楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.6,
+      "reviews": 158,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "鮮饗茶GOTCHA楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.5,
+      "reviews": 32,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "回憶小時候 楊梅青山店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 5.0,
+      "reviews": 12,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "龜記茗品 楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.7,
+      "reviews": 362,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶聚CHAGE 楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.7,
+      "reviews": 75,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "享飲 手搖杯 創始店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.7,
+      "reviews": 18,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "先喝道桃園楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 3.8,
+      "reviews": 200,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "蓋胖杯茶飲",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.8,
+      "reviews": 77,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "萃Da手搖飲埔心店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.7,
+      "reviews": 23,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "得正#楊梅大成計劃",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 3.3,
+      "reviews": 164,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "功夫茶 KUNGFUTEA 楊梅四維店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.9,
+      "reviews": 2419,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "迷客夏Milksha 桃園楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.2,
+      "reviews": 137,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "五桐號WooTEA 楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.3,
+      "reviews": 84,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "上宇林楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.0,
+      "reviews": 111,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "Mr.WISH 希望好茶 楊梅金溪店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.9,
+      "reviews": 110,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "Tea's 原味 楊梅梅獅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.3,
+      "reviews": 309,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "紅茶巴士 楊梅文化站",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.5,
+      "reviews": 136,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "皇后先生楊梅新農店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 4.1,
+      "reviews": 51,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "菓點子-楊梅店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "Coco楊梅楊新店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "自然湉楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "永珍珍珠奶茶店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "茶朵ㄦ 楊梅新成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "萬波島嶼紅茶 楊梅大成店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "可不可熟成茶行 埔心文化店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全楊梅環南店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全青山店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "紅茶帝國 楊梅環南店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "鮮茶道 埔心站前店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
+      "area": "楊梅區",
+      "categories": [
+        "飲品"
+      ],
+      "description": ""
+    },
+    {
+      "name": "清心福全中山北店",
+      "place_id": "",
+      "lat": null,
+      "lng": null,
+      "rating": 0,
+      "reviews": 0,
+      "address": "",
       "area": "楊梅區",
       "categories": [
         "飲品"
