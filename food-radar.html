@@ -92,7 +92,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
 .drink-group-title{font-size:13px;font-weight:700;color:var(--teal-dark);padding:10px 14px 4px;letter-spacing:0.5px;}
 .drink-card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);border-left:4px solid #2A9D8F;padding:6px 8px;display:flex;flex-direction:column;align-items:flex-start;gap:2px;cursor:pointer;transition:transform .15s,box-shadow .15s;min-height:36px;}
 .drink-card:active{transform:scale(0.95);box-shadow:var(--shadow-hover);}
-.drink-brand{font-size:13px;font-weight:700;color:var(--navy);line-height:1.2;order:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;}
+.drink-brand{font-size:13px;font-weight:700;color:var(--navy);line-height:1.2;order:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;display:inline-block;}
 .drink-branch{font-size:10px;font-weight:400;color:#888;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;order:2;}
 .drink-dist{font-size:10px;font-weight:600;color:#1565c0;background:#e3f2fd;border-radius:10px;padding:1px 6px;order:3;}
 
@@ -230,7 +230,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Mic
   <div>
     <div class="title">📡 美食雷達</div>
     <div id="debug-banner" style="position:fixed;bottom:50px;left:4px;background:#264653;color:#fff;font-size:10px;padding:2px 6px;border-radius:4px;z-index:9999;opacity:0.8;"></div>
-  <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.63</div>
+  <div class="sub">37 屬性分類 · 30km 內快速決策 · V1.64</div>
   </div>
   <a href="taiwan-travel.html" class="back">主站</a>
 </div>
@@ -701,6 +701,9 @@ function renderList() {
   // 飲料店分類用卡片網格排列
   const isDrinkCat = currentCat && currentCat.key === 'drink';
   if (isDrinkCat) {
+    // 飲料店字數限制
+    const trunc = (s, n) => s.length > n ? s.slice(0, n) + '…' : s;
+    const BRAND_MAX = 8, BRANCH_MAX = 6;
     // 飲料店去重複：同品牌只顯示最近的一家
     const brandMap = {};
     items.forEach(f => {
@@ -741,9 +744,9 @@ function renderList() {
           html += `<div class="drink-card" onclick="window.open('${searchUrl}','_blank')">`;
           const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
           const logo = DRINK_LOGOS[brand];
-          html += `<span class="drink-brand">${brand}</span>`;
+          html += `<span class="drink-brand">${trunc(brand, BRAND_MAX)}</span>`;
           const branch = f.name.replace(brand,'').trim();
-          if (branch) html += `<span class="drink-branch">${branch}</span>`;
+          if (branch) html += `<span class="drink-branch">${trunc(branch, BRANCH_MAX)}</span>`;
           if (f._dist > 0) html += `<span class="drink-dist">${f._dist < 1 ? Math.round(f._dist * 1000) + 'm' : f._dist.toFixed(1) + 'km'}</span>`;
           html += `</div>`;
         });
@@ -757,9 +760,9 @@ function renderList() {
         html += `<div class="drink-card" onclick="window.open('${searchUrl}','_blank')">`;
         const brand = (f.name || '').split(' ')[0].split('-')[0].split('（')[0].split('(')[0].trim();
         const logo = DRINK_LOGOS[brand];
-        html += `<span class="drink-brand">${brand}</span>`;
+        html += `<span class="drink-brand">${trunc(brand, BRAND_MAX)}</span>`;
         const branch = f.name.replace(brand,'').trim();
-        if (branch) html += `<span class="drink-branch">${branch}</span>`;
+        if (branch) html += `<span class="drink-branch">${trunc(branch, BRANCH_MAX)}</span>`;
         html += `</div>`;
       });
       html += '</div>';
@@ -805,7 +808,7 @@ function renderList() {
   if (!isDrinkCat && items.length > showCount) {
     html += `<div class="see-more" onclick="showMoreList()">再顯示 20 筆 ▼ (共 ${items.length} 家)</div>`;
   }
-  html += `<div class="footer">📡 美食雷達 V1.63 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
+  html += `<div class="footer">📡 美食雷達 V1.64 · <a href="taiwan-travel.html">主站</a> · <a href="nearby.html">附近推薦</a><br>更新於 2026-07-19</div>`;
   document.getElementById('list-content').innerHTML = html;
 }
 
