@@ -255,8 +255,8 @@
       "county": "桃園",
       "name": "馬祖新村",
       "area": "中壢、平鎮",
-      "rating": null,
-      "reviews": null,
+      "rating": 4.2,
+      "reviews": 7831,
       "description": "中壢眷村文創園區，懷舊拍照",
       "lat": 24.9296022,
       "lng": 121.2053963
@@ -295,8 +295,8 @@
       "county": "桃園",
       "name": "三坑老街",
       "area": "龍潭",
-      "rating": null,
-      "reviews": null,
+      "rating": 3.8,
+      "reviews": 11194,
       "description": "龍潭客家老街，永福宮與古厝",
       "lat": 24.8494521,
       "lng": 121.2541811
@@ -575,6 +575,8 @@
       "name": "郭元益糕餅博物館",
       "description": "楊梅糕餅博物館，DIY手作糕餅體驗，親子熱門景點",
       "area": "楊梅",
+      "rating": 4.4,
+      "reviews": 6038,
       "lat": 24.9282193,
       "lng": 121.166915
     },
