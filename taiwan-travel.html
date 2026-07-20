@@ -623,7 +623,7 @@ function render(){
         <div class="header-right-info" style="font-size:12px; color:#666; text-align:right;">
           <div style="color:#e65100;font-size:14px;"><span class="dev-stage-badge">⚠ 本網站尚在開發驗證階段</span></div>
           <div>更新於 2026-07-18</div>
-          <div>版次 V1.25</div>
+          <div>版次 V1.26</div>
         </div>
       </div>
       
@@ -722,20 +722,19 @@ function renderTab(routes,food,spots,souvenirs){
       catBar += `<span class="sort-btn ${sortMode==='weighted'?'active':''}" onclick="setSortMode('weighted')">📊 加權排序</span>`;
       catBar += '</div>';
     }
-    // Sort food: weighted score (rating * log reviews) + small boost for _sort (食尚玩家)
+    // RR+ 排序：0.3*Rating + 0.7*log10(Reviews) — Rating Reliability
     const sortedFood = [...food].sort((a,b)=>{
       if (sortMode === 'distance' && userLocation) {
         const aD = a.lat != null ? haversine(userLocation.lat, userLocation.lng, a.lat, a.lng) : Infinity;
         const bD = b.lat != null ? haversine(userLocation.lat, userLocation.lng, b.lat, b.lng) : Infinity;
         return aD - bD;
       }
-      // 原始加權排序
-      const aW = (a.rating||0) * Math.log10((a.reviews||0)+1);
-      const bW = (b.rating||0) * Math.log10((b.reviews||0)+1);
+      // RR+ 加權排序
+      const rr = (f) => { const r = f.rating||0; const rv = f.reviews||0; return 0.3*r + 0.7*(rv>0?Math.log10(rv):0); };
       const aS = a._sort !== undefined ? (3 - a._sort) : 0;
       const bS = b._sort !== undefined ? (3 - b._sort) : 0;
-      const aFinal = aW + aS;
-      const bFinal = bW + bS;
+      const aFinal = rr(a) + aS;
+      const bFinal = rr(b) + bS;
       if(Math.abs(bFinal - aFinal) > 0.01) return bFinal - aFinal;
       return (b.reviews||0) - (a.reviews||0);
     });
