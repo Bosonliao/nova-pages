@@ -1,0 +1,47 @@
+[
+  {
+    "city": "taoyuan",
+    "name": "雅聞魅力博覽館",
+    "area": "楊梅",
+    "lat": 24.9067588,
+    "lng": 121.1508582,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "yilan",
+    "name": "羅東夜市",
+    "area": "羅東",
+    "lat": 24.6770442,
+    "lng": 121.7693122,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "miaoli",
+    "name": "崎頂子母隧道",
+    "area": "竹南鎮",
+    "lat": 24.7276784,
+    "lng": 120.8763224,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "changhua",
+    "name": "八卦山天空步道",
+    "area": "彰化市",
+    "lat": 24.0782765,
+    "lng": 120.5496666,
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "nantou",
+    "name": "中興新村",
+    "area": "南投市",
+    "lat": 23.955234,
+    "lng": 120.687352,
+    "rating": null,
+    "reviews": null
+  }
+]

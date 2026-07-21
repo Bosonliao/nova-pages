@@ -1,0 +1,47 @@
+[
+  {
+    "city": "taipei",
+    "name": "冷水坑",
+    "county": "台北",
+    "area": "陽明山",
+    "district": "士林區",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "newtaipei",
+    "name": "碧潭",
+    "county": "新北",
+    "area": "新店",
+    "district": "新店區",
+    "rating": 4.3,
+    "reviews": null
+  },
+  {
+    "city": "taichung",
+    "name": "審計新村",
+    "county": "台中",
+    "area": "西區",
+    "district": "西區",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "tainan",
+    "name": "神農街",
+    "county": "台南",
+    "area": "中西區",
+    "district": "中西區",
+    "rating": null,
+    "reviews": null
+  },
+  {
+    "city": "kaohsiung",
+    "name": "橋頭糖廠",
+    "county": "高雄",
+    "area": "橋頭",
+    "district": "橋頭區",
+    "rating": 4.5,
+    "reviews": 6
+  }
+]

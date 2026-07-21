@@ -1,0 +1,32 @@
+[
+  {
+    "name": "雅聞魅力博覽館",
+    "area": "楊梅",
+    "rating": 4.2,
+    "reviews": null
+  },
+  {
+    "name": "楊梅故事園區",
+    "area": "楊梅",
+    "rating": 4.6,
+    "reviews": 31
+  },
+  {
+    "name": "四維兒童公園",
+    "area": "楊梅",
+    "rating": 4.0,
+    "reviews": 6
+  },
+  {
+    "name": "楊梅貴山公園",
+    "area": "楊梅",
+    "rating": 4.0,
+    "reviews": 4
+  },
+  {
+    "name": "秀才登山步道",
+    "area": "楊梅",
+    "rating": 4.4,
+    "reviews": null
+  }
+]

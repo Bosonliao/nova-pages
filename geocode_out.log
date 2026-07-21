@@ -1,0 +1,647 @@
+Processing changhua.json...
+  -> changhua.json no changes needed
+  Cumulative: 0 done, 0 failed
+Processing chiayi.json...
+  -> chiayi.json no changes needed
+  Cumulative: 0 done, 2 failed
+Processing hsinchu.json...
+  -> hsinchu.json no changes needed
+  Cumulative: 0 done, 3 failed
+Processing hualien.json...
+  -> hualien.json no changes needed
+  Cumulative: 0 done, 3 failed
+Processing kaohsiung.json...
+  -> kaohsiung.json no changes needed
+  Cumulative: 0 done, 5 failed
+Processing keelung.json...
+  -> keelung.json no changes needed
+  Cumulative: 0 done, 5 failed
+Processing kinmen.json...
+  -> kinmen.json no changes needed
+  Cumulative: 0 done, 5 failed
+Processing miaoli.json...
+  [miaoli.json] 20 done - 蓬萊溪護魚步道 -> 24.5510, 120.9724
+  [miaoli.json] 40 done - 泰安溫泉 -> 24.4719, 120.9769
+  [miaoli.json] 60 done - AS手作［咖啡｜下午茶｜擴香石｜調香｜解謎｜遊戲］ -> 24.5931, 120.9994
+  [miaoli.json] 80 done - 拾鑶鍋物 頭份店 -> 24.6884, 120.9025
+  [miaoli.json] 100 done - 陳姐姐素食(榮光店) -> 24.5021, 120.8278
+  [miaoli.json] 120 done - 享客鍋日式涮涮鍋 -> 24.6849, 120.8769
+  [miaoli.json] 140 done - 阿勝美味廚房〔火旁人市集〕（素食） -> 24.5585, 120.8184
+  [miaoli.json] 160 done - 花鳥和食/苗栗美食 苗栗美食2026 苗栗日本料理 苗栗日式 -> 24.5640, 120.8169
+  [miaoli.json] 180 done - 田野日式料理 -> 24.4404, 120.6552
+  [miaoli.json] 200 done - 壞鄰居工作室 Bad Neighbor’s Kitchen（ -> 24.6876, 120.9022
+  [miaoli.json] 220 done - 福記麵館(依FB公告為主) -> 24.5549, 120.8183
+  [miaoli.json] 240 done - 雲也居一休閒農場 -> 24.3857, 120.8281
+  [miaoli.json] 260 done - 崛起山城客家特色美食餐廳（大湖店） -> 24.4403, 120.8722
+  [miaoli.json] 280 done - 映象水岸 -> 24.3864, 120.7643
+  [miaoli.json] 300 done - 苗栗火車頭園區 -> 24.5694, 120.8213
+  [miaoli.json] 320 done - 輕鬆小站飲料店-素食專賣店 -> 24.4902, 120.6841
+  [miaoli.json] 340 done - 一之賀鍋物 -> 24.5661, 120.8211
+  [miaoli.json] 360 done - 目鏡麵食 -> 24.4126, 120.7719
+  [miaoli.json] 380 done - 感恩素食 -> 24.6832, 120.8773
+  [miaoli.json] 400 done - 老口味客家菜館 -> 24.3975, 120.7605
+  [miaoli.json] 420 done - 大漁壽司生魚片 -> 24.6880, 120.9078
+  [miaoli.json] 440 done - 南庄老金龍飯店 -> 24.5995, 120.9986
+  [miaoli.json] 460 done - 獅潭仙草（休假日公告至Facebook) -> 24.5362, 120.9181
+  [miaoli.json] 480 done - 棗莊古味食堂 -> 24.4843, 120.8206
+  [miaoli.json] 500 done - 享珍海鮮餐廳 -> 24.5798, 120.8243
+  [miaoli.json] 520 done - 頭份燒肉首選 一喜燒肉屋ishi yakiniku 尚順美食 -> 24.6896, 120.9033
+  [miaoli.json] 540 done - 星巴克 西湖休息站門市 (南下) -> 24.5661, 120.7595
+  [miaoli.json] 560 done - 葉山牛肉麵 -> 24.5573, 120.8198
+  [miaoli.json] 580 done - 新竹吳家鴨香飯-竹南店 -> 24.6841, 120.8769
+  [miaoli.json] 600 done - 大家好麵店 -> 24.3778, 120.7498
+  [miaoli.json] 620 done - 天空之城景觀餐廳 -> 24.3494, 120.7786
+  [miaoli.json] 640 done - 虎山溫泉咖啡 -> 24.4719, 120.9769
+  [miaoli.json] 660 done - 三義土雞城 -> 24.4271, 120.7757
+  [miaoli.json] 680 done - 獅潭新店老街 -> 24.5411, 120.9214
+  [miaoli.json] 700 done - 采田福來 -> 24.3893, 120.7695
+  -> miaoli.json saved (708 geocoded, 1 failed)
+  Cumulative: 708 done, 6 failed
+Processing nantou.json...
+  [nantou.json] 20 done - 伊達邵碼頭 -> 23.8497, 120.9297
+  [nantou.json] 40 done - 微熱山丘三合院 -> 23.9337, 120.6380
+  [nantou.json] 60 done - 南投樂沐輕食 -> 23.9175, 120.6569
+  [nantou.json] 80 done - 花柚子日式餐館 | 咖哩 | 壽司 | 定食 | 拉麵 |  -> 23.9047, 120.6869
+  [nantou.json] 100 done - 豬對有韓式烤肉吃到飽(草屯店) -> 23.9694, 120.6869
+  [nantou.json] 120 done - 鳳琴蔬食小點 -> 23.9710, 120.9653
+  [nantou.json] 140 done - 阿海窯烤雞紫南宮店（甕缸雞 甕仔雞） -> 23.8067, 120.7169
+  [nantou.json] 160 done - 上高地精品燒肉 -> 24.0389, 121.1548
+  [nantou.json] 180 done - 豪家桶仔雞 鹿谷店 -> 23.7417, 120.7574
+  [nantou.json] 200 done - 日月潭紅茶 -> 23.8937, 120.9244
+  [nantou.json] 220 done - 美枝好鍋 -> 23.8986, 120.6880
+  [nantou.json] 240 done - 紅美小吃部 -> 23.9546, 120.9789
+  [nantou.json] 260 done - 澄石新天畝 -> 23.8327, 120.8654
+  [nantou.json] 280 done - 享棧平價現炒餐廳/南投美食/餐廳/聚餐/附近美食/快炒/必吃 -> 23.9114, 120.6937
+  [nantou.json] 300 done - 蔬食堡 -> 23.9807, 120.6836
+  [nantou.json] 320 done - 村上沐日 -> 23.9529, 120.6824
+  [nantou.json] 340 done - 香草騎士 - 香草甜點專門店 -> 23.9777, 120.9900
+  [nantou.json] 360 done - 健康蔬食坊 -> 23.8357, 120.7050
+  [nantou.json] 380 done - 葉家古早味 -> 23.9047, 120.6848
+  [nantou.json] 400 done - 竹香園甕缸雞 竹山店 -> 23.7953, 120.7110
+  [nantou.json] 420 done - 東東刈包 -> 23.8488, 120.9303
+  [nantou.json] 440 done - 翠豐小吃部 -> 23.7560, 120.6830
+  [nantou.json] 460 done - 溪頭和雅谷餐廳 -> 23.7118, 120.7796
+  [nantou.json] 480 done - 松濤園 -> 23.9558, 120.6844
+  [nantou.json] 500 done - B1brekky(最後點餐13:30～） -> 23.9699, 120.6868
+  [nantou.json] 520 done - 蕃茄園蔬食餐坊 -> 23.9667, 120.9487
+  [nantou.json] 540 done - 清一色牛肉麵-草屯店 -> 23.9747, 120.6881
+  [nantou.json] 560 done - 沛哥小館 -> 23.9107, 120.6796
+  [nantou.json] 580 done - 心太軟ft.臭豆腐 -> 23.8283, 120.7843
+  [nantou.json] 600 done - 三育健康養生村 天然之味蔬食餐廳 -> 23.9104, 120.9367
+  [nantou.json] 620 done - 清水主題餐廳 -> 23.9095, 120.6889
+  [nantou.json] 640 done - 梅媽媽的快樂廚房庄腳菜 甕仔雞/埔里甕窯雞/埔里土雞肉/埔里 -> 23.9441, 120.9318
+  [nantou.json] 660 done - 淑芬小吃豆皮包泡菜 -> 23.7577, 120.6835
+  [nantou.json] 680 done - 溪底遙學習農場 -> 23.9059, 120.7810
+  -> nantou.json saved (685 geocoded, 1 failed)
+  Cumulative: 1393 done, 7 failed
+Processing newtaipei.json...
+  [newtaipei.json] 20 done - 烏來溫泉泡湯 -> 24.8621, 121.5508
+  [newtaipei.json] 40 done - 深坑老街 -> 25.0017, 121.6147
+  [newtaipei.json] 60 done - 超人鱸魚 -> 24.9692, 121.5418
+  [newtaipei.json] 80 done - 真療坊（預約服務） TRUE HEALING WORKSHO -> 25.1444, 121.3983
+  [newtaipei.json] 100 done - 心安軒素食料理餐廳 -> 25.2452, 121.6173
+  [newtaipei.json] 120 done - 初殿鍋物-新莊店「最後收客2100」｜ 平日套餐299元享6 -> 25.0170, 121.4628
+  [newtaipei.json] 140 done - 摩多居酒屋 -> 25.0333, 121.4489
+  [newtaipei.json] 160 done - 稻鮨（請先閱讀粉絲專頁用餐規則） -> 25.0394, 121.4471
+  [newtaipei.json] 180 done - 日知常屋 -> 24.9495, 121.3497
+  [newtaipei.json] 200 done - 嬋娟蔬食自助餐板橋四維店 -> 25.0259, 121.4650
+  [newtaipei.json] 220 done - 香蘭海鮮坊｜貢寮在地美食｜海景餐廳｜平價海鮮｜芋頭小卷米粉 -> 25.0247, 121.9721
+  [newtaipei.json] 240 done - 素食麵店(娟姐，蘋果檸檬阿嬤) -> 24.9802, 121.4248
+  [newtaipei.json] 260 done - 秋田義大利麵 -> 25.0438, 121.4522
+  [newtaipei.json] 280 done - 熟度精緻鍋物-新莊昌平店 -> 25.0520, 121.4547
+  [newtaipei.json] 300 done - 米炭火燒肉小酒館 -> 25.0589, 121.4905
+  [newtaipei.json] 320 done - 2h健康幸福。蔬果輕食坊 (素食) -> 25.0921, 121.4737
+  [newtaipei.json] 340 done - 金山。紅 -> 25.2210, 121.6396
+  [newtaipei.json] 360 done - 醉焉樓-熱炒餐酒館｜約會聚餐｜人氣餐廳｜尾牙春酒｜包場｜串燒 -> 25.0587, 121.6373
+  [newtaipei.json] 380 done - 樂樂燒肉 蘆洲店（新北蘆洲燒烤燒肉吃到飽 蘆洲必吃美食推薦  -> 25.0854, 121.4730
+  [newtaipei.json] 400 done - 寓見。胖 Brunch&Pasta -> 25.0539, 121.4530
+  [newtaipei.json] 420 done - 瘋一鍋飲茶鍋物-新莊中正店 -> 25.0354, 121.4494
+  [newtaipei.json] 440 done - 魯兵燙小吃店 -> 24.9269, 121.3681
+  [newtaipei.json] 460 done - 喫彳素食點心坊 -> 25.0015, 121.6128
+  [newtaipei.json] 480 done - 揭諦蔬食 -> 25.0491, 121.4698
+  [newtaipei.json] 500 done - 曼谷泰式料理（中和店） -> 24.9985, 121.4885
+  [newtaipei.json] 520 done - 烤魚達人活海鮮 -> 25.1948, 121.6875
+  [newtaipei.json] 540 done - 瑞芳古早味三輪車割包 店休請搜尋粉絲團（刈包/四神湯) -> 25.1065, 121.8033
+  [newtaipei.json] 560 done - 青庭何首烏餐廳 -> 25.0801, 121.3839
+  [newtaipei.json] 580 done - 德壽司-板橋店-原德壽司2店 -> 25.0125, 121.4754
+  [newtaipei.json] 600 done - 火岩堂饒河店 -> 25.0502, 121.5760
+  [newtaipei.json] 620 done - 森葉新蔬食堂 -> 25.0790, 121.3881
+  [newtaipei.json] 640 done - De l'espoir手在餐桌 異國蔬食-人氣早午餐|熱門早 -> 25.0121, 121.4262
+  [newtaipei.json] 660 done - 《自家漁船》花義思廚坊 -> 25.2196, 121.6332
+  [newtaipei.json] 680 done - 石之鄉料理 -> 24.9916, 121.6600
+  [newtaipei.json] 700 done - 樂澄小店 牛肉麵專門店 -> 25.0063, 121.5169
+  [newtaipei.json] 720 done - 富貴角85 -> 25.0833, 121.3782
+  [newtaipei.json] 740 done - 那間賣冰的咖啡店 Blue Lamp Cafe -> 25.0778, 121.3918
+  [newtaipei.json] 760 done - 九份王家美味點心 -> 25.1106, 121.8453
+  [newtaipei.json] 780 done - 原粹蔬食作 -> 24.9846, 121.5416
+  [newtaipei.json] 800 done - 妙觀音素食-蘆洲長安店 -> 25.0828, 121.4596
+  [newtaipei.json] 820 done - 薰衣草 -> 25.2218, 121.6332
+  [newtaipei.json] 840 done - 觀荷 -> 25.0408, 121.7436
+  [newtaipei.json] 860 done - 熾焰美式炭烤牛排The Flame STEAK HOUSE -> 24.9631, 121.2012
+  [newtaipei.json] 880 done - 私藏不藏私咖啡食堂 -> 24.9945, 121.5058
+  [newtaipei.json] 900 done - 靛居鮨 -> 25.0148, 121.4675
+  [newtaipei.json] 920 done - 張師傅黃金脆皮豬五花 -> 25.0057, 121.4541
+  [newtaipei.json] 940 done - 烏來觀光台車 -> 24.8609, 121.5512
+  [newtaipei.json] 960 done - 緣素食/愛心代用餐 -> 24.9749, 121.4398
+  [newtaipei.json] 980 done - 愛上素食 -> 25.0659, 121.6572
+  [newtaipei.json] 1000 done - 禾家歡日式料理-八里推薦日料|親子友善餐廳|人氣日料|家庭聚 -> 25.1444, 121.3983
+  [newtaipei.json] 1020 done - 善園客家小館 -> 24.9416, 121.2247
+  [newtaipei.json] 1040 done - 素速泰 SusuThai 泰式蔬食 《異國蔬食》中永和區蔬食 -> 25.0058, 121.5013
+  [newtaipei.json] 1060 done - 甘樂食堂 -> 24.9344, 121.3725
+  [newtaipei.json] 1080 done - 松村壽司日本料理 -> 25.0141, 121.4255
+  [newtaipei.json] 1100 done - 蔥海手工蔥油餅 -> 25.0503, 121.5734
+  [newtaipei.json] 1120 done - 雅各原住民山豬肉香腸 -> 24.8625, 121.5514
+  [newtaipei.json] 1140 done - 鮮道素食 -> 25.0240, 121.4718
+  [newtaipei.json] 1160 done - 野柳望海亭海鮮餐廳 -> 25.2041, 121.6906
+  [newtaipei.json] 1180 done - 自由溫室咖啡廳 -> 24.9962, 121.4853
+  [newtaipei.json] 1200 done - 燧人炊事Catching Fire -> 24.9518, 121.3497
+  [newtaipei.json] 1220 done - 大姊的店新加坡料理 -> 25.0522, 121.4888
+  [newtaipei.json] 1240 done - 海霸味 -> 25.0049, 121.4551
+  [newtaipei.json] 1260 done - 爭厚厚切牛排 -> 24.9953, 121.4513
+  [newtaipei.json] 1280 done - 橋頭食堂 -> 24.9339, 121.3740
+  [newtaipei.json] 1300 done - 圓通素食館 -> 25.0021, 121.6175
+  [newtaipei.json] 1320 done - 全真素食火鍋鐵板燒 -> 25.0231, 121.4609
+  [newtaipei.json] 1340 done - 平溪古早味麵茶 -> 25.0258, 121.7387
+  [newtaipei.json] 1360 done - 曾紅嘉義雞肉飯 -> 25.0072, 121.5115
+  [newtaipei.json] 1380 done - 漁鱻生猛現撈海鮮 -> 25.0477, 121.4512
+  [newtaipei.json] 1400 done - 熊記燒餅油條專賣店 -> 25.0345, 121.4536
+  [newtaipei.json] 1420 done - 好友緣素食 -> 25.0709, 121.3686
+  [newtaipei.json] 1440 done - 功夫豬私廚好麵 -> 24.9816, 121.5382
+  [newtaipei.json] 1460 done - 曉食厚Brunch -> 25.0101, 121.5182
+  [newtaipei.json] 1480 done - 魚港生猛海鮮料理 -> 25.0131, 121.4792
+  [newtaipei.json] 1500 done - 滷肉范 -> 25.0080, 121.4536
+  [newtaipei.json] 1520 done - 日利素食館 -> 24.9506, 121.3455
+  [newtaipei.json] 1540 done - 全國健康素食精緻全自助餐 -> 24.9723, 121.4399
+  [newtaipei.json] 1560 done - 淡水林記肉圓 -> 25.1706, 121.4472
+  -> newtaipei.json saved (1572 geocoded, 1 failed)
+  Cumulative: 2965 done, 8 failed
+Processing nightmarkets.json...
+  -> nightmarkets.json no changes needed
+  Cumulative: 2965 done, 8 failed
+Processing penghu.json...
+  [penghu.json] 20 done - 隘門沙灘 -> 23.5549, 119.6390
+  [penghu.json] 40 done - 小台灣 -> 23.2082, 119.4438
+  [penghu.json] 60 done - 190MAX法式速食［不提供訂位］漢堡Burger/牛肉麵B -> 23.5665, 119.5639
+  [penghu.json] 80 done - 藍冉YUKKURI -> 23.5693, 119.5693
+  [penghu.json] 100 done - 時咖啡 SHILICAFE -> 23.5262, 119.5678
+  [penghu.json] 120 done - 伊索拉咖啡館ISOLA COFFEE -> 23.5665, 119.5684
+  [penghu.json] 140 done - 瑪咖朵披薩 Mercato Pizza (OPNE 11AM -> 23.5705, 119.5712
+  [penghu.json] 160 done - 幀記碳烤 -> 23.5692, 119.5708
+  [penghu.json] 180 done - 珍海味活海鮮 -> 23.5658, 119.5688
+  [penghu.json] 200 done - 澎漁宴 生猛海鮮-人氣海鮮餐廳 必吃美食 合菜 團體 特色料 -> 23.5664, 119.5677
+  [penghu.json] 220 done - 澎湖山水夏日碳烤 （當日海鮮直送）（堅持木炭）（第13年） -> 23.5135, 119.5943
+  [penghu.json] 240 done - 阿東海鮮餐廳 -> 23.5693, 119.5729
+  [penghu.json] 260 done - 鐘記燒餅 -> 23.5684, 119.5671
+  [penghu.json] 280 done - 星月灣田媽媽餐廳 -> 23.6146, 119.5146
+  [penghu.json] 300 done - 郵局口蔥油餅 -> 23.5673, 119.5647
+  [penghu.json] 320 done - 澎湖紫菜 -> 23.6640, 119.5949
+  -> penghu.json saved (321 geocoded, 0 failed)
+  Cumulative: 3286 done, 8 failed
+Processing pingtung.json...
+  [pingtung.json] 20 done - 鵝鑾鼻公園 -> 21.9031, 120.8510
+  [pingtung.json] 40 done - 枋寮車站 -> 22.3680, 120.5951
+  [pingtung.json] 60 done - 阿芳素食自助餐（東港） -> 22.4691, 120.4486
+  [pingtung.json] 80 done - 翔裕素食園 -> 22.4639, 120.4937
+  [pingtung.json] 100 done - 東新汕頭火鍋/屏東火鍋/屏東美食/屏東必吃/屏東餐廳/附近美 -> 22.6701, 120.4901
+  [pingtung.json] 120 done - 喜珠現代融合料理/訂位請直播電話 -> 22.6555, 120.4762
+  [pingtung.json] 140 done - 田媽媽 蘭欣食坊（原天之椒子） ｜ 屏東枋寮秘境雞湯火鍋餐廳 -> 22.3755, 120.6023
+  [pingtung.json] 160 done - 鬪烤檯居酒屋（屏東串燒 屏東熱炒 海鮮 生啤酒） -> 22.6869, 120.5028
+  [pingtung.json] 180 done - 海明星生魚片批發零售 -> 22.4678, 120.4417
+  [pingtung.json] 200 done - 豆油伯純釀醬油 -> 22.5873, 120.5406
+  [pingtung.json] 220 done - 蓁伙烤倆吃#潮州火鍋#屏東美食#燒肉#一個人也適合 最後收客 -> 22.5526, 120.5401
+  [pingtung.json] 240 done - 歡喜蔬食養生鍋 -> 22.6623, 120.5068
+  [pingtung.json] 260 done - 大頭牛排屏東店 -> 22.6841, 120.4937
+  [pingtung.json] 280 done - 好禮素食早餐 -> 22.3349, 120.3666
+  [pingtung.json] 300 done - 小田本舖OdaHonpo -> 22.4901, 120.5080
+  [pingtung.json] 320 done - 520燒肉飯 炭火 便當/潮州美食推薦/好吃的/在地美食/潮 -> 22.5451, 120.5396
+  [pingtung.json] 340 done - 五鮮級鍋物專賣 屏東公園店 -> 22.6753, 120.4864
+  [pingtung.json] 360 done - 浤騰生魚片32號、187號 -> 22.4678, 120.4434
+  [pingtung.json] 380 done - 慈悲園素食 -> 22.6174, 120.5361
+  [pingtung.json] 400 done - 霧台摩凱咖啡 -> 22.7502, 120.7303
+  [pingtung.json] 420 done - 潮州魷魚羹（原中正市場魷魚羹） -> 22.5537, 120.5425
+  [pingtung.json] 440 done - 開門見山樹屋咖啡 -> 22.0016, 120.8082
+  [pingtung.json] 460 done - 文記肉圓 -> 22.5512, 120.5404
+  [pingtung.json] 480 done - 流行海產餐廳 -> 22.3531, 120.3817
+  [pingtung.json] 500 done - Antigua Cafe 安堤瓜（售完提早打烊） -> 22.6755, 120.4985
+  [pingtung.json] 520 done - 劉家 蝦公粄 -> 22.6128, 120.5666
+  [pingtung.json] 540 done - mimi köri cafe ミミ小秘密 (蛋糕甜點咖啡)不 -> 22.6761, 120.4997
+  [pingtung.json] 560 done - 綠菓蔬素食 -> 22.5894, 120.4894
+  [pingtung.json] 580 done - 玉珠土雞 -> 22.5200, 120.6367
+  [pingtung.json] 600 done - 愛家臭豆腐 -> 22.6690, 120.5109
+  [pingtung.json] 620 done - 杯沿溫度總店 -> 22.6876, 120.5031
+  [pingtung.json] 640 done - 崙仔頂小吃部 -> 22.6926, 120.5378
+  [pingtung.json] 660 done - 白象源-泰式風味料理 -> 22.5861, 120.4893
+  [pingtung.json] 680 done - 里港阿嬤餛飩豬腳 -> 22.7726, 120.4909
+  [pingtung.json] 700 done - 阿秀小吃部牛肉麵 -> 22.6665, 120.4651
+  [pingtung.json] 720 done - 傘兵旗魚黑輪 -> 22.6687, 120.4741
+  [pingtung.json] 740 done - 王朝香菇肉羹旗魚羹 -> 22.6695, 120.4910
+  [pingtung.json] 760 done - 昶淳素食坊 -> 22.3852, 120.6890
+  [pingtung.json] 780 done - 林邊家常菜 -> 22.4366, 120.5188
+  [pingtung.json] 800 done - 兩姐妹米苔目麵店 -> 22.6113, 120.5684
+  [pingtung.json] 820 done - 上好佳客式炒粄條 -> 22.5510, 120.5407
+  [pingtung.json] 840 done - 大陸小吃部（楓港大陸麵） -> 22.1954, 120.6924
+  [pingtung.json] 860 done - 內埔客家粄條 -> 22.6151, 120.5663
+  [pingtung.json] 880 done - 萬丹蒸餃 -> 22.5862, 120.4896
+  [pingtung.json] 900 done - 小秘密 mimi kori -> 22.6761, 120.4997
+  [pingtung.json] 920 done - 東昇餐廳 -> 22.4676, 120.4530
+  -> pingtung.json saved (927 geocoded, 2 failed)
+  Cumulative: 4213 done, 10 failed
+Processing taichung.json...
+  [taichung.json] 20 done - 彩虹眷村 -> 24.1337, 120.6098
+  [taichung.json] 40 done - 心之芳庭 -> 24.1815, 120.6861
+  [taichung.json] 60 done - 東豐自行車綠廊 -> 24.2760, 120.7788
+  [taichung.json] 80 done - 老士官擀麵 -> 24.2683, 120.5721
+  [taichung.json] 100 done - 馨苑 -> 24.1482, 120.6684
+  [taichung.json] 120 done - 青燕焙煎所AOIWA Coffee - 賣牛肉麵的咖啡館 -> 24.1736, 120.6675
+  [taichung.json] 140 done - 大甲素食（素成素食） -> 24.3455, 120.6228
+  [taichung.json] 160 done - 老井極上燒肉 美村店 -> 24.1472, 120.6619
+  [taichung.json] 180 done - 隱居いざかや 台中店 -> 24.1547, 120.6610
+  [taichung.json] 200 done - 三生有幸 sansei enishi | 售完即休，可預約訂 -> 24.1368, 120.6612
+  [taichung.json] 220 done - 來碗古早味綿綿冰｜芒果冰｜抹茶冰｜水果冰 -> 24.1673, 120.6797
+  [taichung.json] 240 done - 正益蔬食 -> 24.1436, 120.7331
+  [taichung.json] 260 done - 淇里思崇德店 -> 24.1857, 120.6856
+  [taichung.json] 280 done - 可夏堁夏 Crotchet：Crotchet Cafe -> 24.1626, 120.6403
+  [taichung.json] 300 done - 淇里思印度餐廳 朝富店 -> 24.1673, 120.6377
+  [taichung.json] 320 done - 禾雪咖啡（公休公告以IG和Fb為主） -> 24.2525, 120.7196
+  [taichung.json] 340 done - 深紅海鮮鍋物-台中崇德店｜活體現撈專門 -> 24.1894, 120.6898
+  [taichung.json] 360 done - 暮雪時·雪花冰專賣店 -> 24.1716, 120.6634
+  [taichung.json] 380 done - 大里薪食漟（飲料.炸物.宵）夜總店 -> 24.1116, 120.6935
+  [taichung.json] 400 done - 初齋食堂 蔬食便當 -> 24.1221, 120.7189
+  [taichung.json] 420 done - BAA / Veg Cuisine 蔬食餐廳 -> 24.1382, 120.6763
+  [taichung.json] 440 done - 似錦涮太平店 -> 24.1558, 120.7164
+  [taichung.json] 460 done - 夜麵館 招牌牛肉麵｜雪菜湯麵｜香辣雪菜拌麵｜宵夜｜ -> 24.1587, 120.6519
+  [taichung.json] 480 done - Vegan Cafe Kiu -> 24.2499, 120.6818
+  [taichung.json] 500 done - 八虎食堂 大雅店 -> 24.2334, 120.6634
+  [taichung.json] 520 done - 一日食光早午餐 -> 24.1433, 120.6552
+  [taichung.json] 540 done - 逢甲小8三色地瓜球 -> 24.1763, 120.6463
+  [taichung.json] 560 done - DOUZO蔬食 -> 24.1831, 120.6391
+  [taichung.json] 580 done - 素食 x 自然齋 x 冷凍水餃 x 東海經銷點 -> 24.1820, 120.5851
+  [taichung.json] 600 done - 宇良食2.0 （梧棲店） -> 24.2490, 120.5398
+  [taichung.json] 620 done - 一頭牛日式燒肉 清酒 公益店-南屯必吃燒烤|人氣燒肉|熱門燒 -> 24.1510, 120.6477
+  [taichung.json] 640 done - 小日子和風食堂 -> 24.1060, 120.6898
+  [taichung.json] 660 done - Raven Coffee 逢甲店｜台中咖啡廳 -> 24.1721, 120.6480
+  [taichung.json] 680 done - 老乾杯 台中市政店 -> 24.1599, 120.6474
+  [taichung.json] 700 done - 第四橫街那家 -> 24.2565, 120.8296
+  [taichung.json] 720 done - 饗食拉麵•質感無肉專門店素食·停車自費 -> 24.1373, 120.6116
+  [taichung.json] 740 done - 釀味屋(素食） -> 24.2232, 120.5788
+  [taichung.json] 760 done - 云如意茶館【台中美食餐廳】【大坑北屯美食餐廳】中式餐廳 |  -> 24.1672, 120.7228
+  [taichung.json] 780 done - Return 迴鮭 -> 24.1681, 120.6431
+  [taichung.json] 800 done - 鵝房宮概念日本料理 公益旗艦店 -> 24.1508, 120.6298
+  [taichung.json] 820 done - 翁東港活海產 -> 24.1842, 120.6267
+  [taichung.json] 840 done - 茶六燒肉堂 新朝富店 -> 24.1641, 120.6357
+  [taichung.json] 860 done - 有間大湯包 -> 24.1085, 120.6841
+  [taichung.json] 880 done - 霧峰鄒記餡餅（霧峰市區） -> 24.0646, 120.6993
+  [taichung.json] 900 done - 晨饗素食坊 台中烏日 -> 24.1100, 120.6355
+  [taichung.json] 920 done - 社口素食 -> 24.2468, 120.6833
+  [taichung.json] 940 done - 老派廚房 Two Tables -> 24.1063, 120.6065
+  [taichung.json] 960 done - MITAKA 3e Cafe 台中店 -> 24.1336, 120.6669
+  [taichung.json] 980 done - 萬客什鍋 美村店 -> 24.1502, 120.6619
+  [taichung.json] 1000 done - 羊角炭火燒肉文心店 -> 24.1687, 120.6555
+  [taichung.json] 1020 done - 清水肉圓仔湯 -> 24.2511, 120.7192
+  [taichung.json] 1040 done - 越南小吃-江映雪小吃 -> 24.0649, 120.6796
+  [taichung.json] 1060 done - 天得素食（無內用，最後點餐18:30前，可先來電19:00前 -> 24.2202, 120.6503
+  [taichung.json] 1080 done - 眺高 -> 24.1753, 120.7388
+  [taichung.json] 1100 done - 正宗火雞肉飯 -> 24.1708, 120.6745
+  [taichung.json] 1120 done - 康康豬豬血湯 -> 24.2435, 120.7060
+  [taichung.json] 1140 done - 阿中現炒海產 -> 24.1175, 120.6639
+  [taichung.json] 1160 done - 三元排骨飯 -> 24.1114, 120.6815
+  [taichung.json] 1180 done - 豐中炒麵蘿蔔糕50年老店（每週一公休，特別休息時間請看「最新 -> 24.2580, 120.7214
+  [taichung.json] 1200 done - 蓮華素食自助餐（蓮華食堂） -> 24.0908, 120.6938
+  [taichung.json] 1220 done - 阜裕齋素食坊 -> 24.2494, 120.7176
+  [taichung.json] 1240 done - 不夜天夜景餐廳 -> 24.1915, 120.5790
+  [taichung.json] 1260 done - 香之園水餃牛肉麵 -> 24.1376, 120.6765
+  [taichung.json] 1280 done - 味泉米糕 -> 24.1295, 120.6814
+  [taichung.json] 1300 done - I PLAZA愛廣場 -> 24.1493, 120.6852
+  [taichung.json] 1320 done - 嘉家樂肉丸(大甲) -> 24.3466, 120.6217
+  [taichung.json] 1340 done - 蓮華齋素食館 -> 24.3484, 120.6199
+  [taichung.json] 1360 done - 老趙排骨牛肉麵 -> 24.2580, 120.8287
+  [taichung.json] 1380 done - 一流海鮮美食館-大鵬店 -> 24.1782, 120.6644
+  [taichung.json] 1400 done - 金鶴魯排骨飯 -> 24.1393, 120.6721
+  [taichung.json] 1420 done - 東勢竹豐牛排 -> 24.2593, 120.8296
+  [taichung.json] 1440 done - 原味鴨肉飯 -> 24.1493, 120.7214
+  [taichung.json] 1460 done - 饡味軒 嘉義火雞肉飯 -> 24.1714, 120.6908
+  [taichung.json] 1480 done - 新豐源排骨麵店 -> 24.1590, 120.6786
+  [taichung.json] 1500 done - 紫林素食館 -> 24.2482, 120.5422
+  [taichung.json] 1520 done - Cafe Tati 塔堤咖啡 -> 24.1431, 120.6631
+  [taichung.json] 1540 done - 小樂沐 (Le Moût) -> 24.1412, 120.6589
+  [taichung.json] 1560 done - 時哉VEGETARIAN/手工素抓餅 -> 24.0243, 120.6967
+  ERROR: [WinError 32] 程序無法存取檔案，因為檔案正由另一個程序使用。: 'C:\\Users\\USER\\.openclaw\\workspace\\nova-pages\\data\\taichung.json.tmp' -> 'C:\\Users\\USER\\.openclaw\\workspace\\nova-pages\\data\\taichung.json'
+Processing tainan.json...
+  [tainan.json] 20 done - 德陽艦園區 -> 22.9892, 120.1566
+  [tainan.json] 40 done - 花園夜市 -> 22.9346, 120.2260
+  [tainan.json] 60 done - 佳里中山公有零售市場 -> 23.1613, 120.1772
+  [tainan.json] 80 done - 成真咖啡 台南正興店 -> 22.9947, 120.1966
+  [tainan.json] 100 done - 善緣素食堂 -> 24.1663, 120.6690
+  [tainan.json] 120 done - 恆河仙雞（恆河蔬食手作） -> 23.0284, 120.2522
+  [tainan.json] 140 done - 楊媽媽客家美食|客家板條|客家炒板條|什錦湯麵|現炒榨菜肉絲 -> 22.9618, 120.2289
+  [tainan.json] 160 done - 聚 日式鍋物 台南仁德中山店 -> 22.9728, 120.2461
+  [tainan.json] 180 done - 嗑肉石鍋-台南新營店(二代店) -> 23.3072, 120.3137
+  [tainan.json] 200 done - 心膳緣蔬食肉骨茶 -> 23.0321, 120.2168
+  [tainan.json] 220 done - 饗徠火鍋 -> 22.9598, 120.2869
+  [tainan.json] 240 done - 銀涓茶閣 In.J Bar -> 22.9724, 120.2295
+  [tainan.json] 260 done - 仁峰沙茶火鍋 -> 22.9967, 120.1975
+  [tainan.json] 280 done - 慕十里韓式燒肉 台南總店 -> 22.9903, 120.2466
+  [tainan.json] 300 done - 正新蔬食早午餐店 -> 23.0330, 120.3036
+  [tainan.json] 320 done - 元德素食麵食館 -> 23.3028, 120.3085
+  [tainan.json] 340 done - 小兔來了餐廳-新市總店 -> 23.0776, 120.2878
+  [tainan.json] 360 done - OOO Cafe & Bistro 歐歐歐蔬食餐酒館(6/2 -> 23.0085, 120.2080
+  [tainan.json] 380 done - 水交社眷村食堂 相聚場 -> 22.9780, 120.2011
+  [tainan.json] 400 done - 美雪冰菓室 -> 22.9893, 120.2443
+  [tainan.json] 420 done - 大德素食 -> 24.1596, 120.6785
+  [tainan.json] 440 done - Yache韓式蔬食 松江店 -> 22.9995, 120.2293
+  [tainan.json] 460 done - 盈賓休閒餐廳 | 土雞料理 | 宴客合菜 | -> 23.0956, 120.2074
+  [tainan.json] 480 done - 陽光有次日式家庭料理 -> 23.0099, 120.2697
+  [tainan.json] 500 done - 新馬辣經典麻辣鍋-台南南紡店 -> 22.9915, 120.2329
+  [tainan.json] 520 done - 知火熟成燒肉 Joyful yakiniku -> 22.9946, 120.2297
+  [tainan.json] 540 done - 旅素蔬食 -> 22.9901, 120.2356
+  [tainan.json] 560 done - 上品素食（新營第一公有市場內） -> 23.3025, 120.3129
+  [tainan.json] 580 done - 小紅堂牛肉麵 -> 23.3100, 120.3120
+  [tainan.json] 600 done - 娜Na手作廚房 -> 23.1623, 120.1812
+  [tainan.json] 620 done - 精忠三村米糕 -> 22.9906, 120.2362
+  [tainan.json] 640 done - 纓風壽司-永康店 -> 23.0288, 120.2516
+  [tainan.json] 660 done - 太陽牌冰品 -> 22.9895, 120.2103
+  [tainan.json] 680 done - 豐收飯桌 -> 22.9991, 120.2007
+  [tainan.json] 700 done - 佳旺素食(炸物、炒飯、便當、手工素料） -> 24.1189, 120.6717
+  [tainan.json] 720 done - 蓮印素食筵席外燴 -> 23.3139, 120.2671
+  [tainan.json] 740 done - 大手前鐵板燒 台南仁德店 -> 22.9724, 120.2468
+  [tainan.json] 760 done - 麵公坊（無外送服務及電話訂位） -> 23.1966, 120.3183
+  [tainan.json] 780 done - 郭家小館 -> 23.1836, 120.2454
+  [tainan.json] 800 done - 牛室炙燒牛排 BEEFHOUSE 台南海安店 -> 23.0128, 120.2008
+  [tainan.json] 820 done - 南泉冰菓室 -> 22.9985, 120.1788
+  [tainan.json] 840 done - 三姊妹 越南烤乳豬 -> 23.1546, 120.1753
+  [tainan.json] 860 done - 小潛艇素食創意料理 -> 24.1257, 120.6736
+  [tainan.json] 880 done - 古密蔬食 -> 22.9966, 120.1731
+  [tainan.json] 900 done - 老陳牛肉麵新市店/台南美食/台南麵食/台南小吃/台南必吃/台 -> 23.0801, 120.2929
+  [tainan.json] 920 done - 阿倫虱目魚（水仙宮市場第42攤） -> 22.9970, 120.1975
+  [tainan.json] 940 done - 安平蚵仔煎 -> 23.0007, 120.1623
+  [tainan.json] 960 done - 榕樹下（大廟埕）山海產碳烤 -> 22.9704, 120.2748
+  [tainan.json] 980 done - 台南晶英酒店—ROBIN’S 牛排館 -> 22.9876, 120.1993
+  [tainan.json] 1000 done - 西港油雞烤雞 -> 23.1596, 120.1720
+  [tainan.json] 1020 done - 慈香庭素食餐廳（台南店） -> 22.9732, 120.2216
+  [tainan.json] 1040 done - 國棟麵店 -> 22.9676, 120.2152
+  [tainan.json] 1060 done - 鹽水豆簽羹（傳統古早味美食～售完即打烊） -> 23.3209, 120.2682
+  [tainan.json] 1080 done - 麻豆翔美雪花冰｜36年老店｜鍋燒｜豆花｜簡餐-麻豆美食推薦| -> 23.1763, 120.2397
+  [tainan.json] 1100 done - 台南海鮮會館 -> 22.9967, 120.2057
+  [tainan.json] 1120 done - 三星社區排骨飯 -> 22.9820, 120.1979
+  [tainan.json] 1140 done - 嚴家水餃 佳里店 -> 23.1602, 120.1786
+  [tainan.json] 1160 done - 羽儂蔬食百匯 -> 23.1645, 120.1822
+  [tainan.json] 1180 done - 玉井二空涼麵 -> 23.1218, 120.4647
+  [tainan.json] 1200 done - 小卒砂鍋雞米飯(新市店) -> 23.0793, 120.2898
+  [tainan.json] 1220 done - 二空洪記涼皮涼麵 -> 22.9988, 120.2429
+  [tainan.json] 1240 done - 台南雞腿、排骨便當 -> 22.9999, 120.2269
+  [tainan.json] 1260 done - ㄌㄜˋ腳王 -> 23.1378, 120.1145
+  [tainan.json] 1280 done - 琉球海鮮城 -> 22.9695, 120.2904
+  [tainan.json] 1300 done - 嘉昌雞肉飯-大灣店 -> 23.0108, 120.2648
+  [tainan.json] 1320 done - 裕益碗粿王 -> 23.1779, 120.2230
+  [tainan.json] 1340 done - 安哥海產店 -> 23.1302, 120.1332
+  [tainan.json] 1360 done - 開元紅燒土魠魚羹 -> 23.0081, 120.2214
+  -> tainan.json saved (1373 geocoded, 1 failed)
+  Cumulative: 5586 done, 11 failed
+Processing taipei.json...
+  [taipei.json] 20 done - 食尚玩家・台北南機場美食與植物園一日遊 -> 25.0292, 121.5059
+  [taipei.json] 40 done - 硫磺谷 -> 25.1436, 121.5212
+  [taipei.json] 60 done - 貓空一日遊 -> 24.9730, 121.5884
+  [taipei.json] 80 done - 吾旺再季 -> 25.0288, 121.5067
+  [taipei.json] 100 done - 祥和蔬食 -> 25.0444, 121.5218
+  [taipei.json] 120 done - 都一處 -> 25.0372, 121.5610
+  [taipei.json] 140 done - 南機場 彰化肉圓 -> 25.0284, 121.5065
+  [taipei.json] 160 done - 香旬 日式料理 -> 25.0231, 121.5553
+  [taipei.json] 180 done - 1+1鍋物—忠孝店 -> 25.0400, 121.5528
+  [taipei.json] 200 done - 初殿鍋物 永春店｜平日套餐299元享60種自助吧｜寵物友善｜ -> 25.0159, 121.5309
+  [taipei.json] 220 done - 小貳 。食樂 little two 火鍋/簡餐/輕食 內湖美 -> 25.0783, 121.5765
+  [taipei.json] 240 done - 魚韻日式料理 -> 25.0286, 121.5400
+  [taipei.json] 260 done - HU’s Restaurant 互餐廳 -> 25.0593, 121.5134
+  [taipei.json] 280 done - 就是這間-功夫牛肉麵 -> 25.0469, 121.5461
+  [taipei.json] 300 done - 這一小鍋 台北東森站前店（無接受訂位）【呷Bar店】 -> 25.0465, 121.5174
+  [taipei.json] 320 done - 地中海牛排館 -> 25.0681, 121.5254
+  [taipei.json] 340 done - 明水然・樂-遠百信義店(遠百A13店) -> 25.0368, 121.5681
+  [taipei.json] 360 done - HATSU Yakiniku & Wine 和牛燒肉專門店 -> 25.0531, 121.5234
+  [taipei.json] 380 done - 格沐斯咖啡 -> 25.0619, 121.5321
+  [taipei.json] 400 done - 無上炭火燒肉專門店 -> 25.0447, 121.5519
+  [taipei.json] 420 done - 阿薄郎薄皮餃子－公館店 -> 25.0145, 121.5329
+  [taipei.json] 440 done - 嘉廚 Collective Excellent restau -> 25.0594, 121.5225
+  [taipei.json] 460 done - 徙巷小餐酒x徙巷早午餐 -> 24.9891, 121.5661
+  [taipei.json] 480 done - 一期一會(鮨) -> 25.0544, 121.5451
+  [taipei.json] 500 done - 五月雪客家私房珍釀 -> 25.0340, 121.5499
+  [taipei.json] 520 done - 觀音亭素食 -> 25.0322, 121.5177
+  [taipei.json] 540 done - 品冠客家小館 -> 25.0527, 121.5579
+  [taipei.json] 560 done - 南港老張胡椒餅 -> 25.0897, 121.5230
+  [taipei.json] 580 done - 大同海產商行 -> 25.0617, 121.5160
+  [taipei.json] 600 done - 瀧厚炙燒熟成牛排 台北.復北店 -> 25.0509, 121.5442
+  [taipei.json] 620 done - annyoung cafe 你好咖啡 -> 25.0425, 121.5536
+  [taipei.json] 640 done - 九十九樓滷味店｜連假有時會休可來電確認 -> 25.1134, 121.5160
+  [taipei.json] 660 done - 69年老店麵攤（米粉湯） -> 25.0499, 121.5175
+  [taipei.json] 680 done - 李掌櫃功夫製麵 -> 25.0520, 121.5199
+  [taipei.json] 700 done - 濟南牛肉麵 -> 25.0401, 121.5320
+  [taipei.json] 720 done - 鐵李記排骨站 -> 25.0388, 121.5758
+  [taipei.json] 740 done - 越鄉越南美食館 -> 25.0954, 121.5216
+  [taipei.json] 760 done - 老麵店 -> 25.0704, 121.5117
+  [taipei.json] 780 done - 瑞哥雞肉飯南京店 -> 25.0506, 121.5607
+  [taipei.json] 800 done - 炫庄桶仔雞 - 海鮮快炒、KTV包廂服務、春酒尾牙推薦 -> 25.0486, 121.5312
+  [taipei.json] 820 done - 大方冰品 -> 25.0456, 121.5812
+  [taipei.json] 840 done - 許義魚酥(味香魚丸店) -> 25.1700, 121.4403
+  [taipei.json] 860 done - 上品客家小館 -> 25.0250, 121.5694
+  [taipei.json] 880 done - EatFat Pasta -> 25.0242, 121.5291
+  [taipei.json] 900 done - 平價快炒 -> 25.0403, 121.5536
+  [taipei.json] 920 done - 龍泉深海鮮魚湯 -> 25.0219, 121.5289
+  [taipei.json] 940 done - 大上海生煎包 -> 25.0880, 121.5259
+  [taipei.json] 960 done - 藍家割包 -> 25.0157, 121.5326
+  [taipei.json] 980 done - 源味滷肉飯 -> 25.1791, 121.4497
+  [taipei.json] 1000 done - 豬肝榮仔 -> 25.0568, 121.5154
+  [taipei.json] 1020 done - JL Studio -> 25.0530, 121.5194
+  [taipei.json] 1040 done - 芋樂 (Tsubaki) -> 25.0330, 121.5654
+  [taipei.json] 1060 done - 飛龍肉圓 -> 24.8017, 120.9637
+  [taipei.json] 1080 done - Duchamp -> 25.0409, 121.5720
+  [taipei.json] 1100 done - 美濃屋拉麵 -> 25.0497, 121.5282
+  [taipei.json] 1120 done - Piccola Botega -> 25.0400, 121.5514
+  [taipei.json] 1140 done - 阿榮海鮮 -> 25.0325, 121.5180
+  [taipei.json] 1160 done - 高玉生魚片 -> 25.0330, 121.5654
+  [taipei.json] 1180 done - 盛園絲瓜小籠湯包 -> 25.0339, 121.5239
+  [taipei.json] 1200 done - 三代春捲 -> 25.0330, 121.5654
+  [taipei.json] 1220 done - 高記雙管四神湯 -> 24.9896, 121.5415
+  [taipei.json] 1240 done - 前鎮鴨肉 -> 25.0330, 121.5654
+  [taipei.json] 1260 done - 犂園湯包館 -> 25.0503, 121.5448
+  [taipei.json] 1280 done - 雅口天香臭豆腐 -> 25.0039, 121.5242
+  [taipei.json] 1300 done - Snail 蝸牛義大利餐廳 敦南店 -> 25.0300, 121.5506
+  -> taipei.json saved (1318 geocoded, 1 failed)
+  Cumulative: 6904 done, 12 failed
+Processing taitung.json...
+  [taitung.json] 20 done - 加路蘭遊憩區 -> 22.8064, 121.1970
+  [taitung.json] 40 done - 台東市中央市場 -> 22.7536, 121.1497
+  [taitung.json] 60 done - 綠島海草麻糬 -> 22.6681, 121.4688
+  [taitung.json] 80 done - 悟空活菌茶Vegan -> 23.1254, 121.2199
+  [taitung.json] 100 done - 關山冰店 -> 23.0496, 121.1646
+  [taitung.json] 120 done - 陳家麻糬商行 -> 22.7542, 121.1519
+  [taitung.json] 140 done - 綠島小叮噹黑糖海草冰 -> 22.6663, 121.4702
+  [taitung.json] 160 done - 舒食男孩 -> 23.1259, 121.2170
+  [taitung.json] 180 done - 迷你義式冰淇淋 -> 23.2735, 121.4258
+  [taitung.json] 200 done - 覓覓飢地 -> 22.0800, 121.5249
+  [taitung.json] 220 done - 水也上居 手作米工坊 -> 23.1240, 121.2146
+  [taitung.json] 240 done - 丹寧象蔬食館 -> 22.7541, 121.1557
+  [taitung.json] 260 done - 好漁日鬼頭刀魚主題餐廳 -> 22.7723, 121.1317
+  [taitung.json] 280 done - 黑人早餐店（台東市） -> 22.7463, 121.1395
+  [taitung.json] 300 done - 大巴六九景觀餐廳 -> 22.8091, 121.0498
+  [taitung.json] 320 done - 太麻里牛肉麵 -> 22.6155, 121.0054
+  [taitung.json] 340 done - 鍋賣局百元小火鍋－台東精誠店 -> 22.7518, 121.1547
+  [taitung.json] 360 done - Miss Energy 能量小姐 新北比漾 直營門市 低卡餐 -> 25.0170, 121.4628
+  [taitung.json] 380 done - 新海灣牛肉麵-手工蔥花餅 -> 23.1923, 121.3964
+  [taitung.json] 400 done - 合發漁食(海鮮熱炒) -> 22.7922, 121.1933
+  [taitung.json] 420 done - 成功鎮阿鳳平價海鮮 -> 23.1008, 121.3803
+  [taitung.json] 440 done - 鼎倫牛肉麵（金崙村） -> 22.5314, 120.9661
+  [taitung.json] 460 done - 阿賓羊肉爐 -> 22.7591, 121.1488
+  [taitung.json] 480 done - 池上鄉農會觀光米廠 -> 23.1123, 121.2028
+  [taitung.json] 500 done - 楊記搖搖地瓜酥 -> 22.7529, 121.1535
+  [taitung.json] 520 done - 大池池上便當 -> 22.7469, 121.1432
+  [taitung.json] 540 done - 津芳冰城 -> 22.7564, 121.1471
+  [taitung.json] 560 done - 星咖啡 -> 22.7694, 121.1145
+  -> taitung.json saved (571 geocoded, 0 failed)
+  Cumulative: 7475 done, 12 failed
+Processing taoyuan.json...
+  [taoyuan.json] 20 done - 三坑自然生態公園 -> 24.8390, 121.2574
+  [taoyuan.json] 40 done - 竹圍漁港 -> 25.0784, 121.2970
+  [taoyuan.json] 60 done - 仙草花田 -> 24.9137, 121.0920
+  [taoyuan.json] 80 done - 佛緣素食 -> 24.9609, 121.2983
+  [taoyuan.json] 100 done - 武田信玄 -> 24.9448, 121.2482
+  [taoyuan.json] 120 done - 饗點鍋 桃園莊敬店 -> 25.0239, 121.2958
+  [taoyuan.json] 140 done - 愛羅廣東腸粉總店 -> 25.0038, 121.3077
+  [taoyuan.json] 160 done - 川耗仔食府 -> 24.9497, 121.2127
+  [taoyuan.json] 180 done - 新屋串燒臭豆腐 -> 24.8823, 121.2100
+  [taoyuan.json] 200 done - 文創咖美食館 -> 24.8828, 121.2862
+  [taoyuan.json] 220 done - 星星水產 桃園店 美食熱炒 海鮮 -> 24.9935, 121.2763
+  [taoyuan.json] 240 done - 三川.燒烤 創意料理 みかわ -> 25.0012, 121.3074
+  [taoyuan.json] 260 done - 開心山寨-蘆竹素食餐廳 -> 25.0510, 121.2880
+  [taoyuan.json] 280 done - 玉将食堂 × 공탕｜국밥 전문점 · 韓式湯飯專門店｜釜山豬 -> 25.0598, 121.2004
+  [taoyuan.json] 300 done - 元立食堂 日式無菜單料理 桃園店 -> 25.0124, 121.3140
+  [taoyuan.json] 320 done - 藏王 日式食堂 中壢環球店 -> 25.0020, 121.2025
+  [taoyuan.json] 340 done - 鮨吾七 -> 24.9605, 121.2217
+  [taoyuan.json] 360 done - 米麒麟香米便當 -> 24.9991, 121.3081
+  [taoyuan.json] 380 done - 源園素食 -> 24.9952, 121.3395
+  [taoyuan.json] 400 done - 泰集 -桃園藝文店 -> 25.0143, 121.3000
+  [taoyuan.json] 420 done - 食席生/古早味早午餐 -> 24.9855, 121.2802
+  [taoyuan.json] 440 done - 三冬麵舖 -> 25.0187, 121.2948
+  [taoyuan.json] 460 done - 稻吃甘鷓 -> 24.8792, 121.2472
+  [taoyuan.json] 480 done - 元大素食店 -> 24.9461, 121.2138
+  [taoyuan.json] 500 done - Second Floor 貳樓桃園台茂店 -> 25.0533, 121.2882
+  [taoyuan.json] 520 done - 歐米茄義式料理（下午三點到五點電話無人接聽） -> 24.9321, 121.2847
+  [taoyuan.json] 540 done - Maccanti 馬卡諦義大利冰淇淋桃園旗艦店 -> 25.0108, 121.3196
+  [taoyuan.json] 560 done - 陳老記港式腸粉 -> 24.8855, 121.2868
+  [taoyuan.json] 580 done - 宏德蔬食館 -> 24.9114, 121.1741
+  [taoyuan.json] 600 done - 監獄肉圓/超好吃脆皮肉圓 /桃園必吃餐廳/人氣特色小吃/隱藏 -> 24.9751, 121.2725
+  [taoyuan.json] 620 done - 再春食堂（無訂位服務） -> 24.8844, 121.2880
+  [taoyuan.json] 640 done - 伍伍森 -> 25.0051, 121.3049
+  [taoyuan.json] 660 done - 魏媽媽小吃 -> 24.9097, 121.1826
+  [taoyuan.json] 680 done - 元香素食 -> 24.9607, 121.2096
+  [taoyuan.json] 700 done - 採山人-山產料理 -> 24.8143, 121.3506
+  [taoyuan.json] 720 done - 納桑麻谷風味餐廳 -> 24.6781, 121.3849
+  [taoyuan.json] 740 done - 生猛特區活海鮮 -> 25.0150, 121.3072
+  [taoyuan.json] 760 done - 爭厚厚切牛排-桃園復興店 -> 24.9892, 121.3051
+  [taoyuan.json] 780 done - 阿燁紅麵線 八德總店 -> 24.9597, 121.2990
+  [taoyuan.json] 800 done - Q幼鮮 Qyoushian 大園店 -> 25.0614, 121.2032
+  [taoyuan.json] 820 done - 源記牛肉麵 -> 24.9559, 121.2254
+  [taoyuan.json] 840 done - Q匠 Family 共享廚房 -> 24.9900, 121.2919
+  [taoyuan.json] 860 done - H宅早午餐·咖啡 -> 24.9613, 121.2112
+  [taoyuan.json] 880 done - 雲南傣族小館 -> 24.9098, 121.1521
+  [taoyuan.json] 900 done - 儂翠泰式料理 (竹圍店) -> 25.1131, 121.2429
+  [taoyuan.json] 920 done - 大園報紙蛋餅 -> 25.0194, 121.2307
+  [taoyuan.json] 940 done - Jo's Corner Café-桃園人氣咖啡|手沖咖啡|特 -> 24.9936, 121.3010
+  [taoyuan.json] 960 done - 瞎仔巷50年麵店 -> 24.9549, 121.2214
+  [taoyuan.json] 980 done - 祥祥炒飯功夫館 大園旗艦店 -> 25.0640, 121.1965
+  [taoyuan.json] 1000 done - 旅人咖啡館 楊梅店 -> 24.9131, 121.1470
+  [taoyuan.json] 1020 done - 新福臨小館 -> 24.9635, 121.3071
+  [taoyuan.json] 1040 done - 蔬蒔料理坊(素食) -> 24.9115, 121.1823
+  [taoyuan.json] 1060 done - 相寓咖啡 Lumi Haven -> 24.9971, 121.2930
+  [taoyuan.json] 1080 done - Degrees° café 度° -> 24.9565, 121.2067
+  [taoyuan.json] 1100 done - 秋旭 -> 24.8818, 121.2855
+  -> taoyuan.json saved (1108 geocoded, 3 failed)
+  Cumulative: 8583 done, 15 failed
+Processing yilan.json...
+  [yilan.json] 20 done - 宜蘭設治紀念館 -> 24.7553, 121.7495
+  [yilan.json] 40 done - 冬山伯朗大道 -> 24.6455, 121.8145
+  [yilan.json] 60 done - 奇麗灣珍奶文化館 -> 24.6342, 121.8367
+  [yilan.json] 80 done - 壯圍海之味餐廳 -> 24.7465, 121.7862
+  [yilan.json] 100 done - 景德炸醬麵 -> 24.7591, 121.7569
+  [yilan.json] 120 done - Tea tree bistro 無菜單料理 -> 24.8608, 121.8308
+  [yilan.json] 140 done - 八方悦 宜蘭文化店 -> 24.7488, 121.7410
+  [yilan.json] 160 done - 丘森茶室宜蘭店 -> 24.7554, 121.7523
+  [yilan.json] 180 done - 周媽蔬食堂 -> 24.7582, 121.7581
+  [yilan.json] 200 done - 游饗・創意中式定食 宜蘭美食 -> 24.7509, 121.7622
+  [yilan.json] 220 done - 黃燜雞米飯*羅東店* -> 24.6817, 121.7695
+  [yilan.json] 240 done - 咖啡浴 FURO CAFE -> 24.8263, 121.7736
+  [yilan.json] 260 done - 綠曄蔬食坊 -> 24.6808, 121.7611
+  [yilan.json] 280 done - 勁霸旗艦會館/宜蘭美食/宜蘭羅東美食/羅東推薦餐廳/羅東熱炒 -> 24.6984, 121.7637
+  [yilan.json] 300 done - 奈良ㄧ本鍋物宜蘭店 -> 24.7614, 121.7520
+  [yilan.json] 320 done - 冰點老店冰淇淋專賣店(FB有提供休假日期） -> 24.6665, 121.7679
+  [yilan.json] 340 done - 魚丸珠海鮮 -> 24.5815, 121.8698
+  [yilan.json] 360 done - 逢春園渡假別墅 -> 24.6687, 121.5980
+  [yilan.json] 380 done - 日嚐こんばんは - 礁溪店 -> 24.8289, 121.7704
+  [yilan.json] 400 done - 和田食堂 生鮮食材.接客數有限建議提早訂位 小孩毛孩請告知 -> 24.7227, 121.7337
+  [yilan.json] 420 done - 好春好然；週二週三公休 -> 24.7232, 121.7375
+  [yilan.json] 440 done - 露露咖啡（早午餐／客製蛋糕/手沖咖啡/電話訂位／可包場／場地 -> 24.6666, 121.6543
+  [yilan.json] 460 done - 客人城 -> 24.6796, 121.7491
+  [yilan.json] 480 done - 聯發冰工坊 -> 24.8575, 121.8254
+  [yilan.json] 500 done - 笑ㄟCafé蘇澳店 -> 24.5735, 121.8688
+  [yilan.json] 520 done - 光輝海鮮料理 -> 24.5816, 121.8651
+  [yilan.json] 540 done - 宜蘭農權路炸醬麵 -> 24.7469, 121.7497
+  [yilan.json] 560 done - 海洋20M海景咖啡館 -> 24.5790, 121.8725
+  [yilan.json] 580 done - 蘭海歐義廚房 -> 24.8673, 121.8316
+  [yilan.json] 600 done - 湯城麵食 -> 24.7537, 121.7429
+  [yilan.json] 620 done - 海南島海鮮美食 -> 24.6781, 121.7597
+  [yilan.json] 640 done - -左記牛肉麵-宜蘭美食 宜蘭小吃 宜蘭牛肉麵 宜蘭必吃 宜蘭 -> 24.7541, 121.7440
+  [yilan.json] 660 done - SHADOW影子市集火鍋 -> 24.7109, 121.7939
+  [yilan.json] 680 done - 來富自助餐 -> 24.6769, 121.7723
+  [yilan.json] 700 done - 阿婆油飯 -> 24.6347, 121.7925
+  [yilan.json] 720 done - 里海咖啡 -> 24.8138, 121.7940
+  [yilan.json] 740 done - 三十年老店 -> 24.7583, 121.7579
+  [yilan.json] 760 done - 冬山魚丸米粉（冬山火車站店） -> 24.6361, 121.7945
+  [yilan.json] 780 done - 福美卜肉（最後點餐時間18：30賣完即收） -> 24.6619, 121.6227
+  [yilan.json] 800 done - 宜蘭餅發明館 -> 24.6146, 121.8292
+  -> yilan.json saved (802 geocoded, 1 failed)
+  Cumulative: 9385 done, 16 failed
+Processing yunlin.json...
+  [yunlin.json] 20 done - 食尚玩家・雲林北港朝天宮美食巡禮 -> 23.5681, 120.3047
+  [yunlin.json] 40 done - 蘿莎玫瑰山莊 -> 23.6119, 120.5705
+  [yunlin.json] 60 done - 新吉村鴨母寮紙漿藝術村 -> 23.8044, 120.2759
+  [yunlin.json] 80 done - 港口味餐廳 -> 23.7168, 120.2015
+  [yunlin.json] 100 done - 唐竹園風味火鍋 -> 23.6975, 120.4243
+  [yunlin.json] 120 done - 竹有間素食 -> 23.7220, 120.4454
+  [yunlin.json] 140 done - 鵬軒火鍋 -> 23.6748, 120.4811
+  [yunlin.json] 160 done - 珍味素食自助餐 -> 23.7970, 120.4571
+  [yunlin.json] 180 done - 八春饌川菜館-虎尾人氣熱炒|道地美食|聚餐餐廳|推薦川菜|川 -> 23.7087, 120.4320
+  [yunlin.json] 200 done - 小食曉食早午餐 -> 23.6800, 120.5418
+  [yunlin.json] 220 done - 永昌路素食店 -> 23.7602, 120.3521
+  [yunlin.json] 240 done - 麋生咖啡Elk Life早午餐（寵物友善） -> 23.7041, 120.4281
+  [yunlin.json] 260 done - 北港元氣石鍋專賣店 -> 23.5720, 120.3006
+  [yunlin.json] 280 done - 李記燒肉 -> 23.7033, 120.5387
+  [yunlin.json] 300 done - 東和素食 -> 23.6814, 120.5690
+  [yunlin.json] 320 done - 北港小吃店米糕姨 -> 23.5742, 120.2976
+  [yunlin.json] 340 done - 白鶴鴨肉羹（售完提早打烊） -> 23.6506, 120.3138
+  [yunlin.json] 360 done - 西螺粿（油蔥九層粿） -> 23.8036, 120.4591
+  [yunlin.json] 380 done - 韓吉香黃金薯蔬食炸物虎尾店 -> 23.7083, 120.4351
+  [yunlin.json] 400 done - 一個太陽一個月亮 -> 23.6628, 120.5371
+  [yunlin.json] 420 done - 霖家女孩 -> 23.7134, 120.5406
+  [yunlin.json] 440 done - 老王當歸鴨麵線 -> 23.7076, 120.4355
+  [yunlin.json] 460 done - 郭素食焿 -> 23.7484, 120.2545
+  [yunlin.json] 480 done - 北港橋頭肉羹（不定期休假日請見臉書公告，謝謝） -> 23.5665, 120.3022
+  [yunlin.json] 500 done - 芸彰牧場牛肉料理餐廳 -> 23.7103, 120.4367
+  [yunlin.json] 520 done - 魔力牛牛排館 虎尾店 主打雙拼（手打烏龍麵、涼麵、咖哩牛筋無 -> 23.7094, 120.4390
+  [yunlin.json] 540 done - 斗南圓環鍋貼 -> 23.6758, 120.4803
+  [yunlin.json] 560 done - 聖心亭素食 -> 23.7230, 120.1936
+  [yunlin.json] 580 done - 古早味狗尾雞 -> 23.6773, 120.4801
+  [yunlin.json] 600 done - 西螺黃家九層粿 -> 23.8016, 120.4593
+  [yunlin.json] 620 done - 大碗公冰・甜品斗六店(固定週一公休） -> 23.6979, 120.5419
+  [yunlin.json] 640 done - 阿美小吃 -> 23.8009, 120.4569
+  [yunlin.json] 660 done - 崇智素食 -> 23.7972, 120.4575
+  [yunlin.json] 680 done - 東市羊肉 -> 23.7004, 120.5370
+  [yunlin.json] 700 done - 一順活海鮮快炒 -> 23.7506, 120.2495
+  [yunlin.json] 720 done - 成功牛排「斗六店」 -> 23.7109, 120.5371
+  [yunlin.json] 740 done - 福泰手工素食 -> 23.7586, 120.6155
+  [yunlin.json] 760 done - 北港福安鴨肉飯 -> 23.5653, 120.3041
+  [yunlin.json] 780 done - 雲林古坑華山阿嬤私房菜 -> 23.5960, 120.5915
+  [yunlin.json] 800 done - 北港圓環紅燒青蛙湯 -> 23.5684, 120.3016
+  [yunlin.json] 820 done - 鄧肉圓斗六總店 -> 23.7096, 120.5413
+  [yunlin.json] 840 done - 樺園素食 -> 23.7480, 120.2528
+  ERROR: [WinError 32] 程序無法存取檔案，因為檔案正由另一個程序使用。: 'C:\\Users\\USER\\.openclaw\\workspace\\nova-pages\\data\\yunlin.json.tmp' -> 'C:\\Users\\USER\\.openclaw\\workspace\\nova-pages\\data\\yunlin.json'
+
+=== Done ===
+Total geocoded: 9385
+Total failed: 16

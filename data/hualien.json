@@ -215,8 +215,8 @@
       "county": "花蓮",
       "name": "七星潭",
       "area": "太魯閣峽谷經典",
-      "rating": 4.6,
-      "reviews": 1534,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮最美海灘，鵝卵石與星空",
       "lat": 24.0430498,
       "lng": 121.6224926
@@ -225,8 +225,8 @@
       "county": "花蓮",
       "name": "清水斷崖",
       "area": "太魯閣峽谷經典",
-      "rating": 4.7,
-      "reviews": 1301,
+      "rating": null,
+      "reviews": null,
       "description": "太魯閣清水斷崖，太平洋峭壁",
       "lat": 24.2188889,
       "lng": 121.6930556
@@ -235,8 +235,8 @@
       "county": "花蓮",
       "name": "太魯閣國家公園",
       "area": "太魯閣峽谷經典",
-      "rating": 4.6,
-      "reviews": 24661,
+      "rating": null,
+      "reviews": null,
       "description": "世界級大理石峽谷，台灣必訪地標",
       "lat": 24.1939246,
       "lng": 121.4906668
@@ -263,8 +263,8 @@
       "county": "花蓮",
       "name": "九曲洞",
       "area": "太魯閣峽谷經典",
-      "rating": 4.7,
-      "reviews": 3318,
+      "rating": null,
+      "reviews": null,
       "description": "太魯閣九曲洞步道，峽谷奇景",
       "lat": 24.1939246,
       "lng": 121.4906668
@@ -273,8 +273,8 @@
       "county": "花蓮",
       "name": "山月吊橋",
       "area": "太魯閣峽谷經典",
-      "rating": 4.5,
-      "reviews": 2933,
+      "rating": null,
+      "reviews": null,
       "description": "太魯閣山月吊橋，峽谷高空吊橋",
       "lat": 24.1730194,
       "lng": 121.5699615
@@ -283,8 +283,8 @@
       "county": "花蓮",
       "name": "鯉魚潭",
       "area": "花東縱谷田園",
-      "rating": 4.4,
-      "reviews": 2293,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮鯉魚潭，環湖單車與賞螢",
       "lat": 23.9278268,
       "lng": 121.5098787
@@ -293,8 +293,8 @@
       "county": "花蓮",
       "name": "立川漁場",
       "area": "花東縱谷田園",
-      "rating": 4.1,
-      "reviews": 15668,
+      "rating": null,
+      "reviews": null,
       "description": "壽豐立川漁場，蜆仔養殖與摸蜆",
       "lat": 23.864656,
       "lng": 121.5222562
@@ -303,8 +303,8 @@
       "county": "花蓮",
       "name": "光復糖廠",
       "area": "花東縱谷田園",
-      "rating": 4.1,
-      "reviews": 23006,
+      "rating": null,
+      "reviews": null,
       "description": "光復糖廠，花蓮糖廠冰品與五分車",
       "lat": 23.9334262,
       "lng": 121.5395076
@@ -313,8 +313,8 @@
       "county": "花蓮",
       "name": "馬太鞍濕地",
       "area": "花東縱谷田園",
-      "rating": 4.2,
-      "reviews": 1705,
+      "rating": null,
+      "reviews": null,
       "description": "光復馬太鞍濕地，阿美族生態捕魚",
       "lat": 23.6577522,
       "lng": 121.4096652
@@ -323,8 +323,8 @@
       "county": "花蓮",
       "name": "瑞穗牧場",
       "area": "花東縱谷田園",
-      "rating": 3.9,
-      "reviews": 14516,
+      "rating": null,
+      "reviews": null,
       "description": "瑞穗鮮乳牧場，餵牛與鮮乳",
       "lat": 23.4792093,
       "lng": 121.3459565
@@ -333,8 +333,8 @@
       "county": "花蓮",
       "name": "北回歸線標誌公園",
       "area": "花東縱谷田園",
-      "rating": 4.2,
-      "reviews": 8846,
+      "rating": null,
+      "reviews": null,
       "description": "瑞穗北回歸線標誌，熱帶副熱帶分界",
       "lat": 23.465731,
       "lng": 121.3574028
@@ -343,8 +343,8 @@
       "county": "花蓮",
       "name": "牛山呼庭",
       "area": "花蓮海線秘境",
-      "rating": 3.7,
-      "reviews": 2103,
+      "rating": null,
+      "reviews": null,
       "description": "豐濱牛山草原，原民風景區",
       "lat": 23.7634832,
       "lng": 121.5691587
@@ -353,8 +353,8 @@
       "county": "花蓮",
       "name": "March洞",
       "area": "花蓮海線秘境",
-      "rating": 4.5,
-      "reviews": 3555,
+      "rating": null,
+      "reviews": null,
       "description": "壽豐March洞，海蝕洞秘境",
       "lat": 23.5240439,
       "lng": 121.5042389
@@ -363,8 +363,8 @@
       "county": "花蓮",
       "name": "大石鼻山",
       "area": "花蓮海線秘境",
-      "rating": 4.3,
-      "reviews": 5310,
+      "rating": null,
+      "reviews": null,
       "description": "壽豐大石鼻山步道，海景俯瞰",
       "lat": 23.6968601,
       "lng": 121.5509031
@@ -393,8 +393,8 @@
       "county": "花蓮",
       "name": "新社梯田",
       "area": "花蓮海線秘境",
-      "rating": 4.1,
-      "reviews": 5726,
+      "rating": null,
+      "reviews": null,
       "description": "豐濱新社梯田，海稻田秘境",
       "lat": 23.65437,
       "lng": 121.539429
@@ -403,8 +403,8 @@
       "county": "花蓮",
       "name": "松園別館",
       "area": "花蓮市區文化散策",
-      "rating": 4.2,
-      "reviews": 12768,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮日式別館，太平洋海景",
       "lat": 23.9828738,
       "lng": 121.6155061
@@ -413,8 +413,8 @@
       "county": "花蓮",
       "name": "花蓮文化創意產業園區",
       "area": "花蓮市區文化散策",
-      "rating": 4.1,
-      "reviews": 12730,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮舊酒廠文創園區，藝文展覽",
       "lat": 23.976244,
       "lng": 121.6048577
@@ -423,8 +423,8 @@
       "county": "花蓮",
       "name": "貨櫃星巴克",
       "area": "花蓮市區文化散策",
-      "rating": 4.2,
-      "reviews": 21900,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮貨櫃星巴克，全台唯一貨櫃店面",
       "lat": 23.9871434,
       "lng": 121.6014001
@@ -433,8 +433,8 @@
       "county": "花蓮",
       "name": "吉安慶修院",
       "area": "花蓮市區文化散策",
-      "rating": 4.3,
-      "reviews": 15759,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮日式佛寺，三級古蹟",
       "lat": 23.9736882,
       "lng": 121.5647145
@@ -443,8 +443,8 @@
       "county": "花蓮",
       "name": "東大門夜市",
       "area": "花蓮市區文化散策",
-      "rating": 4.1,
-      "reviews": 74449,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮最大夜市，福町與自強夜市合併",
       "lat": 23.9728958,
       "lng": 121.6098425
@@ -453,8 +453,8 @@
       "county": "花蓮",
       "name": "赤柯山金針花海",
       "area": "金針花海季節限定",
-      "rating": 4.6,
-      "reviews": 1480,
+      "rating": null,
+      "reviews": null,
       "description": "玉里赤柯山金針花，八月限定",
       "lat": 23.389575,
       "lng": 121.395448
@@ -463,8 +463,8 @@
       "county": "花蓮",
       "name": "六十石山金針花海",
       "area": "金針花海季節限定",
-      "rating": 4.6,
-      "reviews": 6300,
+      "rating": null,
+      "reviews": null,
       "description": "富里金針花海，小瑞士景觀",
       "lat": 23.2209221,
       "lng": 121.31118
@@ -473,8 +473,8 @@
       "county": "花蓮",
       "name": "遠雄海洋公園",
       "area": "花蓮親子樂園農場",
-      "rating": 4.4,
-      "reviews": 27734,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮遠雄海洋公園，主題樂園",
       "lat": 23.9012596,
       "lng": 121.6035363
@@ -483,8 +483,8 @@
       "county": "花蓮",
       "name": "雲山水夢幻湖",
       "area": "花蓮親子樂園農場",
-      "rating": 4.1,
-      "reviews": 14606,
+      "rating": null,
+      "reviews": null,
       "description": "陽明山高山湖泊，生態保護區",
       "lat": 23.8285824,
       "lng": 121.5155814
@@ -493,8 +493,8 @@
       "county": "花蓮",
       "name": "理想大地渡假飯店",
       "area": "花蓮親子樂園農場",
-      "rating": 4.5,
-      "reviews": 11195,
+      "rating": null,
+      "reviews": null,
       "description": "花蓮理想大地，五星級河岸度假",
       "lat": 23.8656354,
       "lng": 121.5271308
@@ -503,8 +503,8 @@
       "name": "花蓮觀光糖廠",
       "description": "位於花蓮光復的花蓮糖廠，又稱光復糖廠，以各式口味冰淇淋聞名，保留日式木造宿舍群與製糖設備，是花東縱谷的熱門休憩點。",
       "area": "其他",
-      "rating": 4.1,
-      "reviews": 23008,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 23.6586905,
       "lng": 121.4206067
@@ -513,8 +513,8 @@
       "name": "張家樹園",
       "description": "位於花蓮的私人樹園，園主收藏各式珍奇樹種與盆栽，環境清幽，提供遊客欣賞奇木雅石的休閒空間。",
       "area": "其他",
-      "rating": 4.8,
-      "reviews": 12599,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 23.978631,
       "lng": 121.5729202
@@ -523,8 +523,8 @@
       "name": "七星潭海岸風景特定區",
       "description": "花蓮最具代表性的海岸景點，擁有月牙形的礫石海灣，可遠眺清水斷崖與太平洋，是欣賞日出與海景的絕佳去處。",
       "area": "其他",
-      "rating": 4.6,
-      "reviews": 28421,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.0314268,
       "lng": 121.6271764
@@ -533,8 +533,8 @@
       "name": "太平洋公園",
       "description": "位於花蓮市區旁的濱海公園，整合南濱與北濱公園，提供自行車道、沙灘與觀海平台，是市民晨跑散步與欣賞太平洋海景的休閒場所。",
       "area": "其他",
-      "rating": 4.5,
-      "reviews": 11378,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 23.9663889,
       "lng": 121.6091667
@@ -543,8 +543,8 @@
       "name": "武陵農場",
       "description": "位於台中市和平區的高山農場，海拔約1750公尺，以春季櫻花、秋季楓紅與高冷蔬菜聞名，是賞花避暑與親近自然的勝地。",
       "area": "其他",
-      "rating": 4.6,
-      "reviews": 13753,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.3450052,
       "lng": 121.3082054
@@ -616,8 +616,8 @@
       "name": "河南砂鍋手工扯麵",
       "description": "手工扯麵彈牙，砂鍋湯頭醇厚，人氣十足。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2169,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -634,8 +634,8 @@
       "name": "佳興冰果室",
       "description": "新城老街旁的知名冰果室，招牌檸檬汁酸甜清爽，搭配七星潭太魯閣一日遊",
       "area": "",
-      "rating": 4.2,
-      "reviews": 12577,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -658,8 +658,8 @@
       "name": "無名早餐店",
       "description": "人氣早餐，咖啡搭配豐富的台式早點，讓你一天元氣滿滿。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 2714,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -676,8 +676,8 @@
       "name": "鐵道麵館(牛肉麵.羊排麵.肉燥拌麵)",
       "description": "鐵道麵館, 招牌牛肉麵、羊排麵，人氣的麵食店，深受食客喜愛。",
       "area": "",
-      "rating": 5,
-      "reviews": 376,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -692,8 +692,8 @@
       "name": "宇軒素食 Vegetarian restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 5,
-      "reviews": 1,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -708,8 +708,8 @@
       "name": "義麵物語坊",
       "description": "",
       "area": "",
-      "rating": 5,
-      "reviews": 328,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -724,8 +724,8 @@
       "name": "女兒心優質農產創意工坊",
       "description": "注重優質農產，提供創意台菜料理。",
       "area": "",
-      "rating": 5,
-      "reviews": 399,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -740,8 +740,8 @@
       "name": "御三家 鍋の物",
       "description": "精緻中式料理，火鍋新鮮食材，讓每一餐都成為饗宴。",
       "area": "",
-      "rating": 5,
-      "reviews": 1117,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -756,8 +756,8 @@
       "name": "食鍋癮SUGOI火鍋",
       "description": "食鍋癮SUGOI火鍋，人氣火鍋，極致美味，營造出無與倫比的用餐體驗。",
       "area": "",
-      "rating": 5,
-      "reviews": 955,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -772,8 +772,8 @@
       "name": "火鍋世家 吉安店",
       "description": "超人氣火鍋專賣，招牌湯底濃郁，搭配新鮮食材，口感絕佳。",
       "area": "吉安鄉",
-      "rating": 5,
-      "reviews": 3835,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -788,8 +788,8 @@
       "name": "單行道咖啡",
       "description": "專注於咖啡與茶飲的搭配，人氣之選。",
       "area": "",
-      "rating": 5,
-      "reviews": 883,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -804,8 +804,8 @@
       "name": "花樣冰城 花蓮店（芒果冰開賣 花蓮加油！！",
       "description": "人氣芒果冰，讓你在炎熱夏季中感受清涼甜蜜。",
       "area": "",
-      "rating": 5,
-      "reviews": 326,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -820,8 +820,8 @@
       "name": "花蓮冰棧《6/4起，我們回來了！》",
       "description": "人氣甜品店，讓你在回來後再次感受冰品的魅力。",
       "area": "",
-      "rating": 5,
-      "reviews": 329,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -836,8 +836,8 @@
       "name": "阿礑蔬食咖啡",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "新城鄉",
-      "rating": 5,
-      "reviews": 2,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -852,8 +852,8 @@
       "name": "素食早餐店（菜包/碗粿/素粽）只供外帶",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "瑞穗鄉",
-      "rating": 5,
-      "reviews": 1,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -868,8 +868,8 @@
       "name": "幸福佳味素食早餐(不定時出沒)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "光復鄉",
-      "rating": 5,
-      "reviews": 1,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -884,8 +884,8 @@
       "name": "花花草草 Flowers & Grass",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "豐濱鄉",
-      "rating": 5,
-      "reviews": 817,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉靜浦村靜浦橋No. 176-1號",
       "categories": [
         "咖啡廳"
@@ -901,8 +901,8 @@
       "name": "Cabret Cafe",
       "description": "",
       "area": "新城鄉",
-      "rating": 5,
-      "reviews": 305,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -918,8 +918,8 @@
       "name": "有感覺手沖",
       "description": "",
       "area": "秀林鄉",
-      "rating": 5,
-      "reviews": 277,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -935,8 +935,8 @@
       "name": "（預約制）Kiku's Kitchen - 蘭御坊",
       "description": "",
       "area": "萬榮鄉",
-      "rating": 5,
-      "reviews": 346,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -952,8 +952,8 @@
       "name": "饗吃牛肉麵｜羊肉麵",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 240,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -968,8 +968,8 @@
       "name": "香茅廚房 Lemongrass Kitchen /花蓮美食/花蓮餐廳/花蓮必吃/花蓮聚餐/寵物親子友善餐廳",
       "description": "花蓮必吃的台菜餐廳，寵物友善，適合全家聚餐共享美味。",
       "area": "花蓮市",
-      "rating": 4.9,
-      "reviews": 2674,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -984,8 +984,8 @@
       "name": "jam kitchen 花蓮中山棧",
       "description": "超人氣餐廳，擁有創意十足的中式菜品，讓人驚喜連連。",
       "area": "花蓮市",
-      "rating": 4.9,
-      "reviews": 5539,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1000,8 +1000,8 @@
       "name": "臣佳立業餐酒館 CHEN & JIA BISTRO",
       "description": "結合美味台菜與酒品，適合聚餐的好去處。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 300,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1016,8 +1016,8 @@
       "name": "來客早午餐 Like Brunch",
       "description": "供應創意早午餐與咖啡, 讓每一餐都充滿驚喜。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 406,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1032,8 +1032,8 @@
       "name": "預约制：織娘之家,素食主義(Vegan, Vegetarian/Yuli’s home)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "新城鄉",
-      "rating": 4.9,
-      "reviews": 597,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1048,8 +1048,8 @@
       "name": "心蔬食🌱 （vegetarian）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "富里鄉",
-      "rating": 4.9,
-      "reviews": 18,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1064,8 +1064,8 @@
       "name": "榷谷 CHEKU ｜ 蔬食料理 （預約制 Reservation Only）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "富里鄉",
-      "rating": 4.9,
-      "reviews": 81,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1080,8 +1080,8 @@
       "name": "胖嘟嘟臭豆腐",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1194,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1096,8 +1096,8 @@
       "name": "花蓮市立丼物園",
       "description": "日式丼飯特色，口味多樣化，定能滿足各種美食需求。",
       "area": "花蓮市",
-      "rating": 4.9,
-      "reviews": 2326,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1112,8 +1112,8 @@
       "name": "十六食堂",
       "description": "專注於中式台菜，提供道地的家常美味，讓人回味無窮。",
       "area": "花蓮市",
-      "rating": 4.9,
-      "reviews": 230,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1128,8 +1128,8 @@
       "name": "福坊炭烤酌酒/花蓮美食/花蓮餐廳/花蓮餐酒館/花蓮晚餐/花蓮調酒/附近美食",
       "description": "宵夜小吃的最佳選擇，搭配各式精釀調酒，讓聚會更加熱鬧。",
       "area": "花蓮市",
-      "rating": 4.9,
-      "reviews": 226,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1144,8 +1144,8 @@
       "name": "花蓮最美秘境景觀玻璃屋",
       "description": "超人氣餐廳，享受美食與絕美景色。",
       "area": "壽豐鄉",
-      "rating": 4.9,
-      "reviews": 8332,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1160,8 +1160,8 @@
       "name": "馬紹餐廳",
       "description": "以優質的台灣家常菜聞名，讓您感受家的味道。",
       "area": "壽豐鄉",
-      "rating": 4.9,
-      "reviews": 464,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1176,8 +1176,8 @@
       "name": "極禾鍋物職人 花蓮建國旗艦店-吉安個人鍋物|人氣鍋物|熱門鍋物|特色鍋物|小火鍋推薦|必吃火鍋|在地推薦火鍋|聚餐餐廳",
       "description": "極禾鍋物職人，人氣鍋物，推薦個人火鍋，聚餐首選，讓人流連忘返的美味。",
       "area": "吉安鄉",
-      "rating": 4.9,
-      "reviews": 1091,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1192,8 +1192,8 @@
       "name": "火鍋世家 花蓮國聯店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "",
-      "rating": 4.9,
-      "reviews": 9824,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1208,8 +1208,8 @@
       "name": "寒聚蘊湯鍋物（花蓮旗艦店）",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 2904,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1224,8 +1224,8 @@
       "name": "鼎味馨鍋物",
       "description": "人氣火鍋店，提供多樣新鮮食材，讓每一口都充滿滋味。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 2278,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1240,8 +1240,8 @@
       "name": "巴大爺鍋物（麻辣火鍋）",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 2112,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1256,8 +1256,8 @@
       "name": "霧川鍋物",
       "description": "人氣火鍋，豐富湯底選擇，讓您享受無限可能的美味。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1469,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1272,8 +1272,8 @@
       "name": "五吉鍋物hot pot 特色鍋物｜花蓮在地食材湯底｜必吃鍋物｜蔬菜吧吃到飽｜爆炒蛤蠣石頭鍋系列",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 533,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1288,8 +1288,8 @@
       "name": "八方悅鍋物 花蓮明心店(原中正店)",
       "description": "超人氣火鍋，品種繁多，讓顧客享受無盡選擇。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 11245,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1304,8 +1304,8 @@
       "name": "泰鍋古藝（花蓮店）假日全天營業",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 478,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -1320,8 +1320,8 @@
       "name": "錢都日式涮涮鍋-花蓮國聯店 CHIEN TU HOT POT",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 2810,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1336,8 +1336,8 @@
       "name": "照豫坊港式麻辣鴛鴦火鍋",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1849,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1352,8 +1352,8 @@
       "name": "高大俠海鮮燒烤Bar",
       "description": "超人氣海鮮燒烤選擇，鮮美口感讓人一試成主顧。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 5027,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1368,8 +1368,8 @@
       "name": "同齊咖吡",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1011,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1384,8 +1384,8 @@
       "name": "厚。點甜",
       "description": "融合多樣中式台菜，口感豐富，值得一試。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 247,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1400,8 +1400,8 @@
       "name": "5+商行（營業時間以臉書公佈為主）",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 913,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1416,8 +1416,8 @@
       "name": "咖啡木CoffeeMoon",
       "description": "｜手作咖啡，氛圍悠閒，適合細品與放鬆。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 322,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1432,8 +1432,8 @@
       "name": "小村·日 壽司（花蓮店）｜日式餐廳｜花蓮美食｜聚餐餐廳｜客製化餐盒｜生魚片蛋糕｜",
       "description": "客製化壽司和生魚片蛋糕，超人氣聚餐選擇。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 3647,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1448,8 +1448,8 @@
       "name": "花町日式料理/居酒屋/壽司/燒鳥",
       "description": "提供多樣化的日式料理和燒鳥，人氣居酒屋。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 729,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1464,8 +1464,8 @@
       "name": "676中西式早午餐 ｜越南脆皮麵包/手工蛋餅/花蓮早餐/花蓮美食",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 314,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1480,8 +1480,8 @@
       "name": "慕然五十冰淇淋",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 466,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -1496,8 +1496,8 @@
       "name": "凍涼小舖",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 721,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -1512,8 +1512,8 @@
       "name": "京之苑燒肉",
       "description": "超人氣燒肉店，以其高品質的食材和精緻的料理著稱。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 221,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1528,8 +1528,8 @@
       "name": "梅蘢鎮",
       "description": "人氣餐廳，以其精緻的台菜和烤肉菜品吸引眾多食客。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 2219,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1544,8 +1544,8 @@
       "name": "暗潮燒烤",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.9,
-      "reviews": 219,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1560,8 +1560,8 @@
       "name": "漁米串燒-親子友善串燒店",
       "description": "家庭友善的環境，串燒美味令人難忘。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 519,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1576,8 +1576,8 @@
       "name": "鹿禾餐廳",
       "description": "擁有極高評價的台灣菜，菜品新鮮且口感絕佳。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 306,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1592,8 +1592,8 @@
       "name": "巧味 食在地",
       "description": "專注於當地食材的創意料理，口味絕佳，超人氣。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 911,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1608,8 +1608,8 @@
       "name": "客來吃樂玉里店",
       "description": "人氣高漲的美味店，提供多樣化的美食選擇。",
       "area": "玉里鎮",
-      "rating": 4.9,
-      "reviews": 145,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1637,8 +1637,8 @@
       "name": "「金喜檸檬」玉里必喝海鹽檸檬飲、（無販售烤肉、香腸了）有在地特色伴手禮(營業時間請電洽）",
       "description": "",
       "area": "玉里鎮",
-      "rating": 4.9,
-      "reviews": 162,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1653,8 +1653,8 @@
       "name": "嗨咖驛站(農漁料理)",
       "description": "",
       "area": "豐濱鄉",
-      "rating": 4.9,
-      "reviews": 317,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1669,8 +1669,8 @@
       "name": "月崖灣親子農場",
       "description": "超人氣農場美食，適合親子同樂的用餐地點。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 10453,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1685,8 +1685,8 @@
       "name": "香之莊園-無景觀無內用",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.9,
-      "reviews": 1381,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1701,8 +1701,8 @@
       "name": "海碉堡 x 穎！咖啡 ┆ 咖啡廳正常營業",
       "description": "融合咖啡與輕食的完美組合，人氣咖啡廳。",
       "area": "壽豐鄉",
-      "rating": 4.9,
-      "reviews": 250,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1717,8 +1717,8 @@
       "name": "玉里素食飯糰",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.9,
-      "reviews": 14,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1746,8 +1746,8 @@
       "name": "素食健康早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.9,
-      "reviews": 35,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1762,8 +1762,8 @@
       "name": "原素早午餐 - 素食料理 / 蔬食早午餐新選擇",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.9,
-      "reviews": 20,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1778,8 +1778,8 @@
       "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐濱必吃｜石梯漁港美食｜石梯漁港海鮮",
       "description": "中式餐廳，在地美味",
       "area": "豐濱鄉",
-      "rating": 4.9,
-      "reviews": 1009,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉港口灣106號",
       "categories": [
         "中式"
@@ -1795,8 +1795,8 @@
       "name": "里艾廚房&人魚海",
       "description": "中式餐廳，在地美味",
       "area": "豐濱鄉",
-      "rating": 4.9,
-      "reviews": 528,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉靜浦村338-1號",
       "categories": [
         "中式"
@@ -1812,8 +1812,8 @@
       "name": "太魯閣中村志明咖啡甜點風味餐",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "秀林鄉",
-      "rating": 4.9,
-      "reviews": 627,
+      "rating": null,
+      "reviews": null,
       "address": "972台灣花蓮縣秀林鄉崇德村91-3號",
       "categories": [
         "咖啡廳"
@@ -1829,8 +1829,8 @@
       "name": "豆奏會",
       "description": "",
       "area": "富里鄉",
-      "rating": 4.9,
-      "reviews": 262,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1846,8 +1846,8 @@
       "name": "冉記食堂",
       "description": "",
       "area": "秀林鄉",
-      "rating": 4.9,
-      "reviews": 389,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1863,8 +1863,8 @@
       "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐",
       "description": "",
       "area": "豐濱鄉",
-      "rating": 4.9,
-      "reviews": 1009,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1880,8 +1880,8 @@
       "name": "吉米家食堂石頭小火鍋",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 287,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1909,8 +1909,8 @@
       "name": "東戀溫泉民宿Eastern love B&B - 花蓮 瑞穗 優質溫泉民宿推薦 家庭住宿首選 網友高評價黃金湯旅宿好評 高CP值 人氣泡湯休息 熱門溫泉花泡湯 個人湯池 價格 評價 親子平價 網紅必住 網美 團體多人旅遊 公司 訂房優惠 輕旅行 打卡",
       "description": "高檔的民宿提供配備私人露天浴池的溫馨客房，並附設停車場。",
       "area": "瑞穗鄉",
-      "rating": 4.8,
-      "reviews": 675,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1925,8 +1925,8 @@
       "name": "巷往 Hualien",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 214,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1954,8 +1954,8 @@
       "name": "鍋隱個人碳鍋GOIN HOTPOT",
       "description": "精緻中式碳鍋，適合喜愛個性化火鍋的食客。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 890,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1970,8 +1970,8 @@
       "name": "UNCONDITIONAL COFFEE ROASTERY【無攝限咖啡】",
       "description": "ROASTERY，專注於高品質咖啡，讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1986,8 +1986,8 @@
       "name": "take a bread 光復店",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 381,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2002,8 +2002,8 @@
       "name": "花蓮牛山【看見美See the beauty】咖啡",
       "description": "提供愜意的咖啡環境，適合休閒時光。",
       "area": "壽豐鄉",
-      "rating": 4.8,
-      "reviews": 506,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2031,8 +2031,8 @@
       "name": "凱十七牛骨牛肉麵",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 496,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2060,8 +2060,8 @@
       "name": "肚 咖哩 牛肉麵 專賣所",
       "description": "融合咖哩與牛肉麵，口味創新令人驚喜。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 238,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2089,8 +2089,8 @@
       "name": "游家來來烤肉 Lai Lai GrillShop",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1021,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2105,8 +2105,8 @@
       "name": "第一家烤肉串 國聯店",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 661,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2121,8 +2121,8 @@
       "name": "娜滋滋烤魚",
       "description": "原住民無菜單料理，整條烤魚配山蘇野菜，魯肉飯吃到飽",
       "area": "",
-      "rating": 4.8,
-      "reviews": 2086,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2137,8 +2137,8 @@
       "name": "老時光燒肉酒肴",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.8,
-      "reviews": 11875,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2159,8 +2159,8 @@
       "name": "兩斤農莊食堂（前干城）",
       "description": "令人驚喜的中式台菜，讓每位食客都能感受到農村的純樸。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1535,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2175,8 +2175,8 @@
       "name": "迷途鯨魚-花蓮推薦美食｜熱門餐廳｜打卡餐廳｜在地美食｜CP美食｜人氣",
       "description": "人氣打卡餐廳，提供美味CP值高的在地料理。",
       "area": "壽豐鄉",
-      "rating": 4.8,
-      "reviews": 3900,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2191,8 +2191,8 @@
       "name": "花田小路（營業時間請依FB粉絲專頁為主）",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.8,
-      "reviews": 415,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2207,8 +2207,8 @@
       "name": "甜嘴喵",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.8,
-      "reviews": 582,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -2223,8 +2223,8 @@
       "name": "蘇記嘀兜雞花蓮復興店-豬肚雞火鍋",
       "description": "招牌豬肚雞火鍋，口感鮮嫩，適合聚會享用的美味。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2239,8 +2239,8 @@
       "name": "養鍋 Yang Guo 石頭涮涮鍋 (花蓮中山店)",
       "description": "超人氣石頭鍋，搭配新鮮食材，讓每餐都充滿驚喜。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 5909,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2255,8 +2255,8 @@
       "name": "肉出微笑涮涮鍋-花蓮店",
       "description": "人氣涮涮鍋，肉質鮮嫩，讓你每一口都充滿滿足感。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1131,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2271,8 +2271,8 @@
       "name": "翻火鍋",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 3357,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2287,8 +2287,8 @@
       "name": "吉煲(店休請看粉專)",
       "description": "吉煲，人氣中式與台菜餐廳，招牌煲仔菜品美味可口，適合家庭聚餐享用。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 536,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2303,8 +2303,8 @@
       "name": "石二鍋_花蓮中山店",
       "description": "中式與台菜餐廳，提供多樣化的菜品，適合家庭共享美好時光。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 869,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2319,8 +2319,8 @@
       "name": "一雞鍋 港式雞煲火鍋 花蓮店",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 215,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2348,8 +2348,8 @@
       "name": "燒肉神保町花蓮館",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 7796,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2364,8 +2364,8 @@
       "name": "洄瀾灣景觀餐廳｜洄瀾灣親子農場｜洄瀾灣親子動物區",
       "description": "超人氣親子農場餐廳，搭配美麗的自然景觀，適合家庭聚餐。",
       "area": "秀林鄉",
-      "rating": 4.8,
-      "reviews": 7571,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2380,8 +2380,8 @@
       "name": "Oops驚奇咖啡",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 4029,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2396,8 +2396,8 @@
       "name": "日勻甜點工作室｜咖啡廳｜閱讀空間｜花蓮美食｜coffee |dessert|",
       "description": "結合閱讀空間的甜品咖啡廳，享受悠閒時光。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 250,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2425,8 +2425,8 @@
       "name": "實季。Seedson café 花蓮店",
       "description": "提供新鮮的中式台菜，讓人感受當季美味。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1258,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2441,8 +2441,8 @@
       "name": "雨林Scone&Coffee 司康專賣店",
       "description": "｜專賣香脆司康，搭配高品質咖啡，讓人回味無窮。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 417,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2457,8 +2457,8 @@
       "name": "Giocare義式.手沖咖啡",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 589,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2473,8 +2473,8 @@
       "name": "宸誼咖啡館",
       "description": "｜優雅的氛圍，適合聚會與聊天的理想場所。",
       "area": "吉安鄉",
-      "rating": 4.8,
-      "reviews": 329,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2489,8 +2489,8 @@
       "name": "珈琲宅",
       "description": "提供精緻的中式餐點，適合享受悠閒的咖啡時光。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 406,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2505,8 +2505,8 @@
       "name": "くら寿司 藏壽司 花蓮自由店",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 816,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2521,8 +2521,8 @@
       "name": "鮨煦 料理案內所",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 229,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2550,8 +2550,8 @@
       "name": "旭屋和風洋食",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 840,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2566,8 +2566,8 @@
       "name": "爭鮮PLUS-花蓮店",
       "description": "明亮的當代風迴轉壽司店，供應日式佳餚。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 5045,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2582,8 +2582,8 @@
       "name": "沐日青拾|最後點餐時間19:00",
       "description": "招牌中式台菜，氛圍悠閒，讓您享受美味時光。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 566,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2598,8 +2598,8 @@
       "name": "Li'ay 里愛（營業時間麻煩參考粉絲專頁）",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 253,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2627,8 +2627,8 @@
       "name": "睿縈手工粉漿蛋餅專門店/訂餐請提前一天下午1~7點來電",
       "description": "以手工製作的蛋餅聞名, 為早餐帶來新鮮口感。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 476,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2643,8 +2643,8 @@
       "name": "億大雪花冰",
       "description": "創新小吃搭配雪花冰，帶給你全新的味覺享受。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 565,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2659,8 +2659,8 @@
       "name": "栄次郎個人燒肉plus+ 花蓮中山店",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1221,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2675,8 +2675,8 @@
       "name": "安東韓式燒烤 Korean BBQ",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.8,
-      "reviews": 673,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2691,8 +2691,8 @@
       "name": "王室炭火燒烤 韓式料理🇰🇷",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 343,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -2707,8 +2707,8 @@
       "name": "花蓮燒干貝5.0",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 617,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2736,8 +2736,8 @@
       "name": "西堤牛排 花蓮中山店",
       "description": "享受超人氣的牛排美食，口碑極佳，深受食客青睞。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 14372,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2758,8 +2758,8 @@
       "name": "花蓮鵝小妹-美崙 （不固定休請查看營業時間）",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 265,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2787,8 +2787,8 @@
       "name": "加家食堂 -花蓮無菜單私廚外燴會議餐盒（全預約客制",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 373,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2803,8 +2803,8 @@
       "name": "玉里豬血湯早午餐",
       "description": "滋味豐富的早午餐選擇, 讓人一試成主顧",
       "area": "玉里鎮",
-      "rating": 4.8,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2819,8 +2819,8 @@
       "name": "沐舍-蜜滋賀溫泉飯店",
       "description": "結合溫泉與美食，人氣小吃必訪。",
       "area": "瑞穗鄉",
-      "rating": 4.8,
-      "reviews": 2336,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2835,8 +2835,8 @@
       "name": "安德森幸福莊園",
       "description": "新奇的家庭式飯店提供溫暖且色彩繽紛的客房和免費早餐，附設餐廳和停車位。",
       "area": "瑞穗鄉",
-      "rating": 4.8,
-      "reviews": 1178,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2851,8 +2851,8 @@
       "name": "元湯溫泉居｜花蓮瑞穗住宿推薦（近瑞穗火車站）",
       "description": "時尚溫泉飯店提供備有泡澡浴缸的別緻客房，並附設早餐和溫泉池。",
       "area": "瑞穗鄉",
-      "rating": 4.8,
-      "reviews": 523,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2880,8 +2880,8 @@
       "name": "杋扎徠 原住民小吃",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.8,
-      "reviews": 598,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2909,8 +2909,8 @@
       "name": "禪堂素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.8,
-      "reviews": 27,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2925,8 +2925,8 @@
       "name": "緣緣蔬食家",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.8,
-      "reviews": 312,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2954,8 +2954,8 @@
       "name": "天香素食園",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.8,
-      "reviews": 176,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2983,8 +2983,8 @@
       "name": "181素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.8,
-      "reviews": 84,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3012,8 +3012,8 @@
       "name": "春天輕食養生健康館(素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "秀林鄉",
-      "rating": 4.8,
-      "reviews": 76,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3028,8 +3028,8 @@
       "name": "安口食堂 星潭店",
       "description": "中式餐廳，在地美味",
       "area": "新城鄉",
-      "rating": 4.8,
-      "reviews": 765,
+      "rating": null,
+      "reviews": null,
       "address": "97143台灣花蓮縣新城鄉大漢村七星街150巷1號",
       "categories": [
         "中式"
@@ -3058,8 +3058,8 @@
       "name": "物語食堂＆精油工坊",
       "description": "中式餐廳，在地美味",
       "area": "鳳林鎮",
-      "rating": 4.8,
-      "reviews": 4151,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮南平里自強路190號",
       "categories": [
         "中式"
@@ -3075,8 +3075,8 @@
       "name": "達央風味餐無國界料理(預約制)",
       "description": "",
       "area": "秀林鄉",
-      "rating": 4.8,
-      "reviews": 250,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -3105,8 +3105,8 @@
       "name": "K Show食宿",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.8,
-      "reviews": 479,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -3135,8 +3135,8 @@
       "name": "超好吃滷肉飯",
       "description": "玉里光復路新開幕阿嬤的味道滷肉飯玉溪米松阪五花肉愛心待用餐",
       "area": "",
-      "rating": 4.7,
-      "reviews": 158,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3151,8 +3151,8 @@
       "name": "日式鰕丼 天婦羅 揚物 烤物 天ぷら どんぶり 揚げ物 Tempura Donburi（最後出餐23：00）",
       "description": "天婦羅與揚物的完美結合，讓你享受豐富的日式美食。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 274,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3167,8 +3167,8 @@
       "name": "職牛-炭火乾式熟成牛排館 Vintage steakhouse ｜40人包場空間｜熟成牛排｜約會｜慶生｜聚餐",
       "description": "精緻的牛排館，主打各種高級牛排，另提供葡萄酒和歡樂時段特餐。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 1003,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3183,8 +3183,8 @@
       "name": "歸園田居 Countryside B&B",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.7,
-      "reviews": 440,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3199,8 +3199,8 @@
       "name": "達路鞍原住民風味餐廳 花蓮在地美食餐廳 阿美族 -吉安原住民餐廳|風味餐廳|特色餐廳|聚餐美食|熱門餐廳|必吃美食|人氣餐廳|原住民美食｜車聚｜烤肉｜",
       "description": "提供阿美族特色美食, 超人氣聚餐選擇，感受原住民文化。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 790,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3215,8 +3215,8 @@
       "name": "壽豐小吃慶豐店",
       "description": "壽豐吉安在地最強小吃店食尚玩家採訪Google 4.8星熱炒功夫菜超有CP值",
       "area": "",
-      "rating": 4.7,
-      "reviews": 3720,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3231,8 +3231,8 @@
       "name": "壽豐理想大地周邊餐廳",
       "description": "養生料理在地蔬菜新鮮魚料理",
       "area": "",
-      "rating": 4.7,
-      "reviews": 972,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3247,8 +3247,8 @@
       "name": "光復牛肉麵",
       "description": "光復在地牛肉麵店紅燒湯頭濃郁牛肉軟嫩配酸菜小菜",
       "area": "",
-      "rating": 4.7,
-      "reviews": 123,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3263,8 +3263,8 @@
       "name": "鳳林煙樓文化咖啡",
       "description": "鳳林菸樓文化聚落改建咖啡館手沖咖啡配在地甜點文青風",
       "area": "",
-      "rating": 4.7,
-      "reviews": 619,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3279,8 +3279,8 @@
       "name": "萬寶家食堂-花蓮美食 花蓮餐廳 花蓮推薦美食 花蓮聚餐 花蓮早午餐 花蓮午餐",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 509,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3295,8 +3295,8 @@
       "name": "獵人廚房",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 951,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3311,8 +3311,8 @@
       "name": "花蓮‧季之雲",
       "description": "特色台菜餐廳，提供新鮮食材，讓人感受純正的台灣味道。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 419,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3327,8 +3327,8 @@
       "name": "110豐年小館",
       "description": "經典中式料理，選擇多樣，讓每位來賓都能找到最愛的美食。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 212,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3343,8 +3343,8 @@
       "name": "泰宜味食館",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 802,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -3359,8 +3359,8 @@
       "name": "雲廚味道",
       "description": "以新鮮食材打造的台菜, 讓人每口都驚喜。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3375,8 +3375,8 @@
       "name": "鰻牛 現烤鰻魚定食",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 318,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -3391,8 +3391,8 @@
       "name": "上福餐廳",
       "description": "提供多樣化的台菜選擇，讓人回味無窮。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 331,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3407,8 +3407,8 @@
       "name": "星馬茶餐廳｜南洋咖哩專賣店｜肉骨茶玉里麵｜仁當咖哩玉里麵",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 508,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -3423,8 +3423,8 @@
       "name": "豐裡村麵店",
       "description": "手工麵食美味，讓人念念不忘的口感。",
       "area": "壽豐鄉",
-      "rating": 4.7,
-      "reviews": 263,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3439,8 +3439,8 @@
       "name": "艾斯可菲秘境私廚",
       "description": "隱藏的美食寶地，精緻的台菜讓每一口都驚喜。",
       "area": "壽豐鄉",
-      "rating": 4.7,
-      "reviews": 578,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3455,8 +3455,8 @@
       "name": "10分之1海鮮燒烤(午餐需前一天訂位)",
       "description": "午餐需提前預訂，精選海鮮與燒烤，味道絕佳。",
       "area": "壽豐鄉",
-      "rating": 4.7,
-      "reviews": 867,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3471,8 +3471,8 @@
       "name": "陳家食堂",
       "description": "人氣傳統台菜，溫暖的家常味道，讓人倍感親切。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 1986,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3487,8 +3487,8 @@
       "name": "六里屯麵食專家 美崙旗艦店",
       "description": "超人氣麵食專賣，推出多款美味，深受食客喜愛。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 3746,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3503,8 +3503,8 @@
       "name": "从出一瓢味",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 337,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3519,8 +3519,8 @@
       "name": "食驛",
       "description": "中式與台菜餐廳，菜色豐富且入味，適合各種口味的顧客。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 692,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3535,8 +3535,8 @@
       "name": "春滿石頭火鍋",
       "description": "人氣火鍋店，以新鮮食材和特色石頭鍋聞名，讓人倍感溫暖。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 501,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -3551,8 +3551,8 @@
       "name": "宮澤火鍋",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 382,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -3567,8 +3567,8 @@
       "name": "石屋燒肉",
       "description": "超人氣火鍋餐廳，提供多樣化的鍋物選擇",
       "area": "",
-      "rating": 4.7,
-      "reviews": 6619,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3583,8 +3583,8 @@
       "name": "明今活海鮮",
       "description": "創新海鮮料理，保留食材本味，值得一試。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 331,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3599,8 +3599,8 @@
       "name": "浮室咖啡 soave plan",
       "description": "精緻咖啡與舒適環境，讓您享受悠閒的午後時光。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 755,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3615,8 +3615,8 @@
       "name": "Caffe Fiore珈琲花",
       "description": "中式台菜的創意呈現，每道菜都值得細細品味。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 1016,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3631,8 +3631,8 @@
       "name": "Ngchus 晤子咖啡cafécake",
       "description": "精緻糕點與咖啡的完美搭配，令人心動。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 601,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3647,8 +3647,8 @@
       "name": "惦惦 lab:tiamtiam",
       "description": "｜道地台菜，結合創意元素，深受食客喜愛。",
       "area": "吉安鄉",
-      "rating": 4.7,
-      "reviews": 623,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3663,8 +3663,8 @@
       "name": "舊抽屜咖啡",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 373,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3679,8 +3679,8 @@
       "name": "半寓咖啡",
       "description": "｜隱藏版咖啡館，提供精緻飲品，讓人流連忘返。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 591,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3695,8 +3695,8 @@
       "name": "練黍叔燒番麥「烤玉米🌽」",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 690,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3711,8 +3711,8 @@
       "name": "櫻花壽司日本料理",
       "description": "專賣壽司的樸實日本餐廳，也供應共享料理和湯品。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 5582,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -3727,8 +3727,8 @@
       "name": "福子 fuzi（不定休.僅於營業時間接聽電話）",
       "description": "專注於中式台菜，經典美味，吸引眾多食客。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 288,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3743,8 +3743,8 @@
       "name": "齊食",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 308,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3759,8 +3759,8 @@
       "name": "川壽司 花蓮 新城 家樂福附近 日式 生魚片 居酒屋 燒烤 炸物 烏龍麵",
       "description": "生魚片與居酒屋特色，帶你體驗正宗的日式燒烤與小吃。",
       "area": "新城鄉",
-      "rating": 4.7,
-      "reviews": 339,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -3775,8 +3775,8 @@
       "name": "再吃一口早午餐(最後收客時間15:00)｜花蓮美食．花蓮早午餐",
       "description": "花蓮早午餐的好選擇，搭配香濃咖啡，讓您一整天充滿活力。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 361,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3791,8 +3791,8 @@
       "name": "Queen'食（最後點餐時間14:00。若當日完售將提前打烊，請見諒！）",
       "description": "精緻中式台菜，嚴選食材，讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 337,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3807,8 +3807,8 @@
       "name": "晨研早午餐",
       "description": "提供精緻早午餐與香濃咖啡, 人氣高漲的喫茶場所。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 418,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3823,8 +3823,8 @@
       "name": "杜倫先生丨花蓮名產丨伴手禮｜麻糬｜甜點｜蛋糕",
       "description": "超人氣麻糬伴手禮，甜點和蛋糕口感令人驚艷。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 3434,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -3839,8 +3839,8 @@
       "name": "八百里燒肉",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 2954,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3855,8 +3855,8 @@
       "name": "將門燒肉",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 702,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3871,8 +3871,8 @@
       "name": "小巷子串燒週二不定時休假週三公休",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 580,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -3887,8 +3887,8 @@
       "name": "歐鄉牛排館花蓮店",
       "description": "招牌牛排口感絕佳, 超人氣美食選擇。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 7783,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3903,8 +3903,8 @@
       "name": "來來牛排花蓮店",
       "description": "招牌牛排多樣化, 人氣餐廳名單之一。",
       "area": "吉安鄉",
-      "rating": 4.7,
-      "reviews": 6185,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3919,8 +3919,8 @@
       "name": "好好",
       "description": "精選牛排搭配多樣配菜, 讓人流連忘返。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 466,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3935,8 +3935,8 @@
       "name": "老K牛排-自助沙拉吧",
       "description": "自助沙拉與牛排的完美結合, 人氣餐廳之一。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 279,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3951,8 +3951,8 @@
       "name": "武藏牛排-太昌店",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 249,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3967,8 +3967,8 @@
       "name": "新時代牛排",
       "description": "創新的牛排料理搭配新鮮食材，深受食客喜愛。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 795,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3983,8 +3983,8 @@
       "name": "牛篷牛排",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 364,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3999,8 +3999,8 @@
       "name": "北昌池上便當-花蓮自強店(便當)",
       "description": "精緻的便當選擇，口味豐富，值得一試。",
       "area": "吉安鄉",
-      "rating": 4.7,
-      "reviews": 414,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4015,8 +4015,8 @@
       "name": "北方早點丨燒餅加料、鹹豆漿",
       "description": "燒餅加料與鹹豆漿, 早餐的完美搭配",
       "area": "玉里鎮",
-      "rating": 4.7,
-      "reviews": 1112,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4031,8 +4031,8 @@
       "name": "米達碳烤雞排",
       "description": "招牌碳烤雞排香氣四溢，成為夜市的美味代表。",
       "area": "玉里鎮",
-      "rating": 4.7,
-      "reviews": 717,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4047,8 +4047,8 @@
       "name": "香約廚房 (需要先預約）",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.7,
-      "reviews": 251,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4063,8 +4063,8 @@
       "name": "江家鮮奶豆花冰店",
       "description": "以豆花冰為特色，清新口感讓人驚喜連連。",
       "area": "瑞穗鄉",
-      "rating": 4.7,
-      "reviews": 745,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4079,8 +4079,8 @@
       "name": "我家螺獅粉",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.7,
-      "reviews": 326,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4095,8 +4095,8 @@
       "name": "浪慢咖啡",
       "description": "提供舒適的咖啡氛圍，適合悠閒享受午後時光。",
       "area": "壽豐鄉",
-      "rating": 4.7,
-      "reviews": 979,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4111,8 +4111,8 @@
       "name": "在地植人｜蔬食餛飩專賣",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 45,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4127,8 +4127,8 @@
       "name": "霞飛谷時尚蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 349,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4143,8 +4143,8 @@
       "name": "米里蔬食廚房",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 229,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4159,8 +4159,8 @@
       "name": "《花漾蔬食綜合煎餃》",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "鳳林鎮",
-      "rating": 4.7,
-      "reviews": 236,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4175,8 +4175,8 @@
       "name": "草緣齋蔬食（總店）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.7,
-      "reviews": 28,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4191,8 +4191,8 @@
       "name": "天慈寶軒蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.7,
-      "reviews": 450,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4207,8 +4207,8 @@
       "name": "淑英抓餅古早味手作糕餅素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.7,
-      "reviews": 132,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4223,8 +4223,8 @@
       "name": "北埔素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "新城鄉",
-      "rating": 4.7,
-      "reviews": 46,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4239,8 +4239,8 @@
       "name": "素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "光復鄉",
-      "rating": 4.7,
-      "reviews": 28,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4255,8 +4255,8 @@
       "name": "素食義賣",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "秀林鄉",
-      "rating": 4.7,
-      "reviews": 85,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4271,8 +4271,8 @@
       "name": "沐軒素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.7,
-      "reviews": 289,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4287,8 +4287,8 @@
       "name": "富里深山咖啡館Remote Mountain ｜特色午膳套餐｜",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "富里鄉",
-      "rating": 4.7,
-      "reviews": 647,
+      "rating": null,
+      "reviews": null,
       "address": "983台灣花蓮縣富里鄉竹田55-3號",
       "categories": [
         "咖啡廳"
@@ -4304,8 +4304,8 @@
       "name": "山腳下 居酒屋 ( 固定星期二、三公休。)",
       "description": "",
       "area": "秀林鄉",
-      "rating": 4.7,
-      "reviews": 251,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "日式"
@@ -4321,8 +4321,8 @@
       "name": "鳳義161異國料理",
       "description": "",
       "area": "鳳林鎮",
-      "rating": 4.7,
-      "reviews": 345,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "異國"
@@ -4338,8 +4338,8 @@
       "name": "青輕慢食",
       "description": "",
       "area": "鳳林鎮",
-      "rating": 4.7,
-      "reviews": 277,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -4355,8 +4355,8 @@
       "name": "花蓮小毛牛肉爐/麵（公休日見FB公告）",
       "description": "牛肉爐精緻可口，湯頭鮮美，讓人一試成主顧。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 518,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4371,8 +4371,8 @@
       "name": "參火木牛排館（花蓮牛排教父｜慶生餐廳｜花蓮美食｜steaks house | restaurants",
       "description": "知名牛排教父主理, 令人期待的慶生餐廳。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 772,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4387,8 +4387,8 @@
       "name": "再回首 「精緻牛/羊肉麵」",
       "description": "精緻牛羊肉麵搭配豐富配料，滿足食客的味蕾。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 474,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4403,8 +4403,8 @@
       "name": "128清燉牛羊肉拉麵店",
       "description": "日式清燉拉麵，肉質鮮嫩，湯頭清澈。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 857,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4419,8 +4419,8 @@
       "name": "北來順 牛肉麵羊肉麵",
       "description": "牛羊肉麵各具特色，受人喜愛。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 500,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4435,8 +4435,8 @@
       "name": "班尼先生早午餐Mr.Benny brunch|店休日請見粉絲專頁",
       "description": "招牌班尼蛋搭配香濃咖啡, 早午餐愛好者的理想選擇。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 318,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4451,8 +4451,8 @@
       "name": "壽豐麵店 牛肉麵/陽春麵",
       "description": "供應牛肉麵與陽春麵，讓人感受家的味道。",
       "area": "壽豐鄉",
-      "rating": 4.6,
-      "reviews": 130,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4467,8 +4467,8 @@
       "name": "源寶屋咖哩麵包",
       "description": "500碗推薦，全台首創日式咖哩麵包，天然發酵現炸金黃酥脆",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1135,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4483,8 +4483,8 @@
       "name": "玉里金針山周邊山產",
       "description": "玉里赤科山金針花季周邊山產餐廳放山雞炒金針花料理",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1480,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4499,8 +4499,8 @@
       "name": "小巷茉莉",
       "description": "人氣的台菜餐廳，提供道地的家常味，吸引眾多食客光臨。",
       "area": "花蓮市",
-      "rating": 4.6,
-      "reviews": 2301,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4515,8 +4515,8 @@
       "name": "兩津農莊食堂（干城）",
       "description": "休閒飯店提供裝潢簡約的客房，部分房間配有陽台，並附設泳池和共用廚房。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1293,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4531,8 +4531,8 @@
       "name": "慶豐夜餐館",
       "description": "提供經典台式夜宵, 讓你在夜晚中感受美味。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 725,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4547,8 +4547,8 @@
       "name": "山下陳涼",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.6,
-      "reviews": 430,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4563,8 +4563,8 @@
       "name": "六里屯麵食專家",
       "description": "超人氣麵食，招牌麵條細膩，口感滑順，廣受食客喜愛。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 3072,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4579,8 +4579,8 @@
       "name": "久藏味",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 933,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4595,8 +4595,8 @@
       "name": "上老石鍋花蓮旗艦店",
       "description": "氣氛溫馨的餐廳，供應傳統火鍋、蛋餃和芋丸，並設有吧台座位。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 2793,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4611,8 +4611,8 @@
       "name": "將門火鍋堂",
       "description": "人氣火鍋店，特色湯底和豐富配料，讓人一試成主顧。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 353,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4627,8 +4627,8 @@
       "name": "喫鍋小火鍋",
       "description": "人氣火鍋小吃，提供方便快捷的火鍋選擇，滿足你的小食慾。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1108,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4643,8 +4643,8 @@
       "name": "億品鍋-花蓮吉安店｜花蓮推薦美食｜花蓮排隊美食|花蓮吃到飽｜",
       "description": "超人氣吃到飽火鍋，品嚐多樣美味，滿足大口吃肉的需求。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 1653,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4659,8 +4659,8 @@
       "name": "尚選火鍋",
       "description": "提供多樣的火鍋選擇，讓每一位食客都能找到自己喜愛的口味。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 257,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4675,8 +4675,8 @@
       "name": "187海鮮熱炒",
       "description": "新鮮海鮮熱炒，色香味俱全，適合各種聚會。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 685,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4691,8 +4691,8 @@
       "name": "安娜咖啡",
       "description": "｜溫馨舒適的環境，提供多樣化的咖啡選擇，令人愉悅。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 621,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4707,8 +4707,8 @@
       "name": "Légendezo傳說咖啡甜點屋",
       "description": "｜精緻甜品搭配香醇咖啡，滿足味蕾的雙重享受。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 251,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4723,8 +4723,8 @@
       "name": "豆 茶寮",
       "description": "｜人氣台菜與茶品，結合傳統與現代，深受食客喜愛。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1866,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4739,8 +4739,8 @@
       "name": "林記明禮路葱油餅",
       "description": "人氣葱油餅外酥內軟，香氣四溢，讓人難以抗拒。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1608,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4755,8 +4755,8 @@
       "name": "阿傳師麻糬",
       "description": "超人氣麻糬，Q彈口感，搭配多種餡料，甜而不膩，深受喜愛。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 2362,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4771,8 +4771,8 @@
       "name": "丸山和食",
       "description": "精緻的日式料理，讓食客感受和風的美味魅力。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 692,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4787,8 +4787,8 @@
       "name": "樂魚料亭",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 258,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4803,8 +4803,8 @@
       "name": "早點。手作 超厚豬排蛋吐司•咖啡 (寵物友善)",
       "description": "寵物友善的咖啡喫茶，超厚吐司讓人垂涎欲滴。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 785,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4819,8 +4819,8 @@
       "name": "黃家早午餐",
       "description": "招牌早午餐搭配咖啡, 讓每位食客都能感受到家的溫暖。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 231,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4835,8 +4835,8 @@
       "name": "食萬伏特2.0 ｜花蓮美食｜花蓮早午餐",
       "description": "美味花蓮早午餐，咖啡與料理完美結合，讓味蕾驚艷。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 306,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4851,8 +4851,8 @@
       "name": "花蓮冰舍雪花冰",
       "description": "甜品冰品，綿密雪花冰搭配水果，清爽又消暑。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 927,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4867,8 +4867,8 @@
       "name": "圓滿冰店",
       "description": "甜品愛好者的最愛，讓你享受完美的冰品體驗。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 549,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -4883,8 +4883,8 @@
       "name": "阿公冰。阿公製冰所",
       "description": "傳承手工製作，讓你品味純樸的冰品。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 205,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -4899,8 +4899,8 @@
       "name": "大碗公冰·甜品（花蓮吉安店）/花蓮美食/花蓮小吃/花蓮剉冰/花蓮推薦/花蓮甜品/花蓮必吃-花蓮吉安刨冰推薦|人氣冰店|熱門剉冰|水果冰品|人氣甜品|嫩仙草冰|在地推薦冰店|綿綿冰推薦",
       "description": "人氣剉冰店，水果冰品和嫩仙草冰口感絕佳。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 514,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4915,8 +4915,8 @@
       "name": "寧靜會烤肉販賣所 每週一公休",
       "description": "讓你在悠閒的環境中品嚐美味烤肉，口碑極佳。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 223,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4931,8 +4931,8 @@
       "name": "花蓮赤物日式燒肉",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1272,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4947,8 +4947,8 @@
       "name": "米卡多牛排館",
       "description": "招牌牛排品質上乘, 人氣不容小覷。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1745,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4963,8 +4963,8 @@
       "name": "吃肉 · 時候",
       "description": "以豐富的肉品選擇聞名，滿足肉食愛好者的需求。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4979,8 +4979,8 @@
       "name": "武藏牛排",
       "description": "精緻的牛排料理搭配優雅的用餐環境，吸引眾多食客。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 310,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4995,8 +4995,8 @@
       "name": "佳佳牛排",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 421,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5011,8 +5011,8 @@
       "name": "桔客牛排",
       "description": "人氣牛排店, 提供豐富的牛排選擇與美味",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1432,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5027,8 +5027,8 @@
       "name": "墨墨排骨飯",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 359,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5043,8 +5043,8 @@
       "name": "原醉（東大門原住民一條街）",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.6,
-      "reviews": 234,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5059,8 +5059,8 @@
       "name": "原饗屋",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.6,
-      "reviews": 514,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5075,8 +5075,8 @@
       "name": "青田の蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.6,
-      "reviews": 972,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5091,8 +5091,8 @@
       "name": "素食養生坊",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.6,
-      "reviews": 38,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5107,8 +5107,8 @@
       "name": "樸道蔬食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "鳳林鎮",
-      "rating": 4.6,
-      "reviews": 224,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5123,8 +5123,8 @@
       "name": "一道健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 408,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5139,8 +5139,8 @@
       "name": "巧本味蔬食人文料理",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "富里鄉",
-      "rating": 4.6,
-      "reviews": 665,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5155,8 +5155,8 @@
       "name": "中佈號池上店(蔬食料理)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "富里鄉",
-      "rating": 4.6,
-      "reviews": 122,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5171,8 +5171,8 @@
       "name": "花蓮山中傳奇-蔬食景觀餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "秀林鄉",
-      "rating": 4.6,
-      "reviews": 392,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5187,8 +5187,8 @@
       "name": "韓粿蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.6,
-      "reviews": 277,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5203,8 +5203,8 @@
       "name": "福幸台越素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 124,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5219,8 +5219,8 @@
       "name": "花蓮一心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.6,
-      "reviews": 5,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5235,8 +5235,8 @@
       "name": "新社噶瑪蘭小吃店",
       "description": "中式餐廳，在地美味",
       "area": "豐濱鄉",
-      "rating": 4.6,
-      "reviews": 2268,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉42號",
       "categories": [
         "中式"
@@ -5252,8 +5252,8 @@
       "name": "阿卿海鮮店",
       "description": "中式餐廳，在地美味",
       "area": "豐濱鄉",
-      "rating": 4.6,
-      "reviews": 1049,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉豐濱村三民路33號",
       "categories": [
         "中式"
@@ -5269,8 +5269,8 @@
       "name": "山風一號吊橋",
       "description": "甜品專賣店，消暑好選擇",
       "area": "卓溪鄉",
-      "rating": 4.6,
-      "reviews": 630,
+      "rating": null,
+      "reviews": null,
       "address": "982台灣花蓮縣卓溪鄉卓清村",
       "categories": [
         "中式"
@@ -5286,8 +5286,8 @@
       "name": "劍柔山莊 (需預約)",
       "description": "",
       "area": "光復鄉",
-      "rating": 4.6,
-      "reviews": 256,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5303,8 +5303,8 @@
       "name": "我的咖啡館",
       "description": "",
       "area": "光復鄉",
-      "rating": 4.6,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -5320,8 +5320,8 @@
       "name": "964驛棧(整備中 有事請來電)",
       "description": "",
       "area": "富里鄉",
-      "rating": 4.6,
-      "reviews": 259,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5337,8 +5337,8 @@
       "name": "大自然體驗農家",
       "description": "",
       "area": "富里鄉",
-      "rating": 4.6,
-      "reviews": 402,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5354,8 +5354,8 @@
       "name": "拾豆屋",
       "description": "",
       "area": "鳳林鎮",
-      "rating": 4.6,
-      "reviews": 369,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5371,8 +5371,8 @@
       "name": "貨櫃屋台灣料理 - 花蓮 人氣必吃中式熱炒 在地特色宵夜美食 團體合菜聚餐小酌 燒烤火鍋海鮮餐廳 平價推薦相片",
       "description": "人氣必吃的中式熱炒，平價又美味，非常適合團體聚餐。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 597,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -5387,8 +5387,8 @@
       "name": "每日廚房(無菜單家常料理)",
       "description": "提供每日新鮮家常菜，讓人感受家的味道。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 243,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5403,8 +5403,8 @@
       "name": "神田屋日式家庭料理",
       "description": "提供溫馨的日式家常菜，適合家庭聚餐的好地方。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 890,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5419,8 +5419,8 @@
       "name": "鮮道味中式家常菜 餐館 花蓮美食/花蓮小吃、熱炒、團體合菜推薦",
       "description": "主打新鮮食材的家常菜，適合團體用餐。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 239,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5435,8 +5435,8 @@
       "name": "鳳林牛肉麵",
       "description": "鳳林在地牛肉麵店紅燒湯頭濃郁牛肉軟嫩配酸菜小菜",
       "area": "",
-      "rating": 4.5,
-      "reviews": 3434,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5451,8 +5451,8 @@
       "name": "孫叔叔牛骨牛肉麵",
       "description": "超人氣牛骨牛肉麵，濃郁湯頭令人難忘。",
       "area": "鳳林鎮",
-      "rating": 4.5,
-      "reviews": 3434,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5467,8 +5467,8 @@
       "name": "北昌黃金鍋貼早餐店",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.5,
-      "reviews": 918,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5483,8 +5483,8 @@
       "name": "壽豐豐田五味屋",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 406,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5499,8 +5499,8 @@
       "name": "瑞穗舞鶴茶園茶餐",
       "description": "區茶入菜茶葉雞茶油麵線蜜香紅茶特色茶餐",
       "area": "",
-      "rating": 4.5,
-      "reviews": 1541,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5515,8 +5515,8 @@
       "name": "光復太巴塱紅糯米",
       "description": "部落特產紅糯米紅糯米飯糰紅糯米香腸原民特色",
       "area": "",
-      "rating": 4.5,
-      "reviews": 122,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5531,8 +5531,8 @@
       "name": "平行時空·小茶室",
       "description": "精緻的台菜搭配悠閒的氛圍，是品茶的理想場所。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 588,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5547,8 +5547,8 @@
       "name": "時光1939",
       "description": "",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 1384,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5563,8 +5563,8 @@
       "name": "福畊食邑",
       "description": "特色台菜滿足味蕾, 讓人回味無窮的餐點選擇。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 560,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5579,8 +5579,8 @@
       "name": "伊娜的部落廚房",
       "description": "精緻中式料理，溫馨氛圍適合聚會。",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 1306,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5595,8 +5595,8 @@
       "name": "荖溪小吃｜無訂位｜現場候位｜最後點餐1:30｜全新裝潢｜冷氣也裝新的囉",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 691,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5611,8 +5611,8 @@
       "name": "德安雞肉飯",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 391,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5627,8 +5627,8 @@
       "name": "飯人小吃店-RICE MAN",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 903,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5643,8 +5643,8 @@
       "name": "雞白郎.拉麵",
       "description": "提供正宗日式拉麵，湯頭濃郁，讓拉麵愛好者流連忘返。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 217,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5659,8 +5659,8 @@
       "name": "竹舍小吃",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 495,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5675,8 +5675,8 @@
       "name": "山東餡餅",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 220,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5691,8 +5691,8 @@
       "name": "八丼手作日式料理（沒有接受訂位，只接現場客人）",
       "description": "鄉村風街邊餐館，供應創意與經典日式壽司、生魚片及主餐。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 2709,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5707,8 +5707,8 @@
       "name": "延平街生魚片",
       "description": "新鮮的生魚片讓你在這裡品味海洋的鮮美。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 449,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5723,8 +5723,8 @@
       "name": "銀座食堂",
       "description": "美味中式台菜，適合家庭聚餐，滿足各種口味需求。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 324,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5739,8 +5739,8 @@
       "name": "時光旅人",
       "description": "受歡迎的中式台菜，菜色多樣，每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 1127,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5755,8 +5755,8 @@
       "name": "國聯老華廈概念餐館(美而美、早午餐)",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 312,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5771,8 +5771,8 @@
       "name": "艾摩斯廚房xChill飯 花商店",
       "description": "精緻中式料理，匯集創意與傳統，適合聚餐享用。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 369,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5787,8 +5787,8 @@
       "name": "花崗中式早餐店",
       "description": "鮮美中式早餐，使用新鮮食材，口感絕佳，推薦早晨來訪。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 201,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5803,8 +5803,8 @@
       "name": "山海正甜 吉製冰所",
       "description": "精選甜品冰品，讓你在炎炎夏日中清爽無比。",
       "area": "吉安鄉",
-      "rating": 4.5,
-      "reviews": 286,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -5819,8 +5819,8 @@
       "name": "向日葵手工粉圓",
       "description": "口感滑順的手工粉圓，搭配多樣化的台式甜品。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 786,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -5835,8 +5835,8 @@
       "name": "黑何子仙草專職鋪",
       "description": "傳統仙草專賣，清涼解渴的選擇，讓人回味無窮。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 375,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5851,8 +5851,8 @@
       "name": "千兵衛炭火燒肉-花蓮店",
       "description": "設有悠閒用餐區的休閒餐廳，供應日式燒烤菜餚，另有遊樂區。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 3407,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5867,8 +5867,8 @@
       "name": "花蓮老饕岩燒牛排",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 278,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5883,8 +5883,8 @@
       "name": "紐約客牛排館",
       "description": "精緻牛排搭配絕佳醬汁, 超人氣選擇。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 2844,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5899,8 +5899,8 @@
       "name": "美侖牛排（固定每週三、四公休）",
       "description": "提供多樣化的牛排料理，受到食客喜愛，人氣餐廳。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 818,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5915,8 +5915,8 @@
       "name": "地6攤牛排 美崙店",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 767,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5931,8 +5931,8 @@
       "name": "芳草古樹花園｜餐廳｜民宿｜𝟭𝟭月公休𝟭.𝟮.𝟯.𝟰.𝟱.𝟲.𝟳.𝟭𝟯.𝟮𝟳日",
       "description": "休閒民宿有陳設簡單的客房，提供烹飪和手作課程。",
       "area": "鳳林鎮",
-      "rating": 4.5,
-      "reviews": 1472,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5947,8 +5947,8 @@
       "name": "吉福池上便當（店休看粉專）",
       "description": "便當選擇多樣，料理新鮮美味，適合忙碌的上班族。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 226,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5963,8 +5963,8 @@
       "name": "津御堂燉品屋",
       "description": "專賣精緻燉品，讓人回味無窮的小吃店。",
       "area": "玉里鎮",
-      "rating": 4.5,
-      "reviews": 178,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5979,8 +5979,8 @@
       "name": "原香臭豆腐",
       "description": "外酥內嫩的臭豆腐，總是吸引著食客駐足品嚐。",
       "area": "玉里鎮",
-      "rating": 4.5,
-      "reviews": 603,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5995,8 +5995,8 @@
       "name": "花蓮阿嬤的玉里麵",
       "description": "招牌玉里麵濃郁美味，讓人回味無窮。",
       "area": "玉里鎮",
-      "rating": 4.5,
-      "reviews": 104,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6011,8 +6011,8 @@
       "name": "撞牆水餃",
       "description": "水餃皮薄餡多，口感滑嫩，令人一試成主顧。",
       "area": "瑞穗鄉",
-      "rating": 4.5,
-      "reviews": 438,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6027,8 +6027,8 @@
       "name": "海越魚行日式居食料理",
       "description": "精緻日式料理，食材新鮮，讓人欲罷不能。",
       "area": "瑞穗鄉",
-      "rating": 4.5,
-      "reviews": 514,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6043,8 +6043,8 @@
       "name": "黑屋 Café",
       "description": "氛圍閒適的湖畔度假飯店提供愜意的客房、小木屋和旅行拖車，並附設免費 Wi-Fi 和餐廳。",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 627,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6059,8 +6059,8 @@
       "name": "麗莘風味館",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 602,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6075,8 +6075,8 @@
       "name": "浪花春海鮮鍋物（活龍蝦請提前一天預訂）",
       "description": "活龍蝦需提前預訂，人氣火鍋店，海鮮新鮮美味。",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 505,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -6091,8 +6091,8 @@
       "name": "Piatto+菜 蔬食義式餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 719,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6107,8 +6107,8 @@
       "name": "蝸牛蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 881,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6123,8 +6123,8 @@
       "name": "慈昕素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 335,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6139,8 +6139,8 @@
       "name": "語穠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.5,
-      "reviews": 109,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6155,8 +6155,8 @@
       "name": "菩薩素食 養生豆花",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "鳳林鎮",
-      "rating": 4.5,
-      "reviews": 106,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6171,8 +6171,8 @@
       "name": "緣念蔬食滷味",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.5,
-      "reviews": 76,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6187,8 +6187,8 @@
       "name": "美福素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.5,
-      "reviews": 71,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6203,8 +6203,8 @@
       "name": "悅香素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.5,
-      "reviews": 121,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6219,8 +6219,8 @@
       "name": "素食-阿宏臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "壽豐鄉",
-      "rating": 4.5,
-      "reviews": 335,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6235,8 +6235,8 @@
       "name": "入境隨俗原住民燒烤手抓飯餐廳/太魯閣燒烤/原住民手抓飯/太魯閣美食推薦/新城火車站附近美食/冷氣開放餐廳/花蓮部落風味餐餐廳",
       "description": "中式餐廳，在地美味",
       "area": "新城鄉",
-      "rating": 4.5,
-      "reviews": 581,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉新城村新興一路96號",
       "categories": [
         "中式"
@@ -6252,8 +6252,8 @@
       "name": "半天紅麻辣館（馨生保護服務據點）",
       "description": "中式餐廳，在地美味",
       "area": "新城鄉",
-      "rating": 4.5,
-      "reviews": 1780,
+      "rating": null,
+      "reviews": null,
       "address": "97161台灣花蓮縣新城鄉新城村博愛路9號",
       "categories": [
         "中式"
@@ -6269,8 +6269,8 @@
       "name": "閩越食堂餐廳",
       "description": "甜品專賣店，消暑好選擇",
       "area": "鳳林鎮",
-      "rating": 4.5,
-      "reviews": 755,
+      "rating": null,
+      "reviews": null,
       "address": "97545台灣花蓮縣鳳林鎮鳳仁里中正路2段472巷29號",
       "categories": [
         "中式"
@@ -6286,8 +6286,8 @@
       "name": "啄木鳥的家 WPCASA",
       "description": "",
       "area": "光復鄉",
-      "rating": 4.5,
-      "reviews": 1419,
+      "rating": null,
+      "reviews": null,
       "address": "976台灣花蓮縣光復鄉糖廠街11巷11-1號",
       "categories": [
         "咖啡廳"
@@ -6303,8 +6303,8 @@
       "name": "南安瀑布",
       "description": "中式餐廳，在地美味",
       "area": "卓溪鄉",
-      "rating": 4.5,
-      "reviews": 1915,
+      "rating": null,
+      "reviews": null,
       "address": "982台灣花蓮縣卓溪鄉",
       "categories": [
         "中式"
@@ -6320,8 +6320,8 @@
       "name": "Penny夢想館",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.5,
-      "reviews": 298,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6337,8 +6337,8 @@
       "name": "莎莉好食Sarlee's（營業日請參考IG、臉書粉專）",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.5,
-      "reviews": 827,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6354,8 +6354,8 @@
       "name": "豆花兒",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.5,
-      "reviews": 503,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6371,8 +6371,8 @@
       "name": "尤大廚私房牛肉麵 ）6/18-28店休）花蓮美食/花蓮牛肉麵/花蓮東大門美食/羊肉麵/推薦美食",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 484,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6387,8 +6387,8 @@
       "name": "永和藥燉排骨",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 357,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6403,8 +6403,8 @@
       "name": "花蓮牛排/花蓮美食/花蓮餐廳/Restaurants",
       "description": "提供多款美味牛排, 受歡迎的當地餐廳。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 907,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6419,8 +6419,8 @@
       "name": "# STEAK 牛排屋",
       "description": "精緻牛排料理, 受到食客們的喜愛",
       "area": "",
-      "rating": 4.4,
-      "reviews": 427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6435,8 +6435,8 @@
       "name": "冀家小館",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 473,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6451,8 +6451,8 @@
       "name": "楓雅轉角家常菜",
       "description": "家常菜品味道親切，讓人感受到溫暖的滋味。",
       "area": "瑞穗鄉",
-      "rating": 4.4,
-      "reviews": 285,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6467,8 +6467,8 @@
       "name": "鳳林花生豆腐",
       "description": "鳳林特產花生入菜花生豆腐花生糖花生香濃綿密必買",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2031,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6483,8 +6483,8 @@
       "name": "帝君廟米粉羹",
       "description": "米粉羹口感滑順，湯頭鮮美，讓人一試成主顧。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 987,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6499,8 +6499,8 @@
       "name": "吐司坊-現做吐司專賣店｜早餐｜早午餐｜肉蛋吐司",
       "description": "美味肉蛋吐司，早午餐的最佳選擇，令人滿足。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 424,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6515,8 +6515,8 @@
       "name": "西村的家食堂",
       "description": "吉安鄉滷肉飯名店，半熟蛋配滷肉飯，台式黯然消魂飯",
       "area": "吉安鄉",
-      "rating": 4.4,
-      "reviews": 2068,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6531,8 +6531,8 @@
       "name": "闔家歡南北餚餐館-Family Pleasure",
       "description": "超人氣的中式佳餚，適合家庭聚餐，讓每位食客都開心滿足。",
       "area": "花蓮市",
-      "rating": 4.4,
-      "reviews": 3516,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6547,8 +6547,8 @@
       "name": "西村的家",
       "description": "溫馨的台菜餐廳，提供多樣化的選擇，讓每位顧客都能找到心頭好。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2068,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6563,8 +6563,8 @@
       "name": "阿姑的店",
       "description": "招牌台菜道地美味, 令人懷念的家鄉味道。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1139,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6579,8 +6579,8 @@
       "name": "松湖驛站",
       "description": "供應多樣化的台菜, 人氣聚集地，適合家庭聚餐。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 3131,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6595,8 +6595,8 @@
       "name": "香園小館-手抓餅",
       "description": "手工製作的香脆手抓餅，口感絕佳。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 270,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6611,8 +6611,8 @@
       "name": "小和山谷",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.4,
-      "reviews": 3759,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6627,8 +6627,8 @@
       "name": "小檳城特色南洋麵食",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1233,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6643,8 +6643,8 @@
       "name": "燕子老宅",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 493,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6659,8 +6659,8 @@
       "name": "以諾廚房",
       "description": "提供多樣化中式台菜，環境舒適。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 485,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6675,8 +6675,8 @@
       "name": "億品鍋 Mini Shabu Shabu 花蓮國聯店",
       "description": "提供精緻的火鍋選擇，讓你享受輕鬆愉快的用餐時光。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 878,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -6691,8 +6691,8 @@
       "name": "饗鍋",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 880,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -6707,8 +6707,8 @@
       "name": "村上村屋蔬果火鍋花蓮店",
       "description": "專注於健康的蔬果火鍋，讓你享受美味又不失營養。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 537,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -6723,8 +6723,8 @@
       "name": "品津海鮮熱炒",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.4,
-      "reviews": 643,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6739,8 +6739,8 @@
       "name": "阿美煮熱炒 E21- 原住民一條街",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 447,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6755,8 +6755,8 @@
       "name": "米那度海吧餐廳（中午為預約制，需前一天預約）",
       "description": "需提前預約的海鮮美食，讓您享受前所未有的鮮味。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 406,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6771,8 +6771,8 @@
       "name": "歐桑米粉湯",
       "description": "人氣米粉湯選擇，湯頭鮮美，讓人一口接一口。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 4004,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6787,8 +6787,8 @@
       "name": "昭和58（正確營業日期，請參閱臉書置頂文）",
       "description": "傳遞懷舊的中式台菜，讓人重溫舊時光。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 991,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6803,8 +6803,8 @@
       "name": "邊境法式點心坊",
       "description": "時尚咖啡店，玻璃櫃中有許多精緻的法式糕點與甜點。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2591,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6819,8 +6819,8 @@
       "name": "博愛街黑白切米粉湯",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1387,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6835,8 +6835,8 @@
       "name": "福建街香腸",
       "description": "人氣香腸，香氣四溢，外脆內嫩，絕對滿足肉食愛好者的味蕾。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1540,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6851,8 +6851,8 @@
       "name": "傳承小館 福州小吃",
       "description": "專注於福州小吃，經典台灣味道，人氣餐廳。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 305,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6867,8 +6867,8 @@
       "name": "椿山日本料理",
       "description": "精緻的日式料理，適合各種聚會，人氣場所。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1003,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6883,8 +6883,8 @@
       "name": "千喜 日式料理",
       "description": "口碑極佳的日式美食，適合家庭聚會。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 561,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6899,8 +6899,8 @@
       "name": "COUNTRY MOTHER'S",
       "description": "舒適的餐廳，主打班尼迪克蛋等美式早午餐和午餐料理。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2330,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6915,8 +6915,8 @@
       "name": "府前食坊",
       "description": "供應水煎包、蛋餅和其他傳統早餐的樸實早餐店。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2079,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6931,8 +6931,8 @@
       "name": "後山﹒森林早午餐",
       "description": "提供悠閒的早午餐環境, 適合享受輕鬆的咖啡時光。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6947,8 +6947,8 @@
       "name": "山東豆漿大王（10點以前林森路有免費停車格)",
       "description": "低調雅緻的餐廳，供應餃類、肉包和其他傳統早餐。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2873,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6963,8 +6963,8 @@
       "name": "大漢早點《市區總店》",
       "description": "供應地道中式早餐, 讓你回味無窮的台灣味。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1121,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6979,8 +6979,8 @@
       "name": "大碗公冰•甜品（花蓮博愛店）-花蓮刨冰推薦|必吃甜品|特色冰店|人氣冰店|水果冰品|首選冰店|在地推薦冰店|綿綿冰推薦",
       "description": "人氣冰品，特色水果冰與綿綿冰的完美結合，讓人愛不釋口。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1545,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -6995,8 +6995,8 @@
       "name": "豐春冰菓店",
       "description": "超人氣冰品，提供各式創意甜品，令人一試成主顧。",
       "area": "壽豐鄉",
-      "rating": 4.4,
-      "reviews": 4966,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -7011,8 +7011,8 @@
       "name": "三立冰淇淋",
       "description": "人氣冰品店，經典口味搭配新穎創意，值得一嚐。",
       "area": "鳳林鎮",
-      "rating": 4.4,
-      "reviews": 2316,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -7027,8 +7027,8 @@
       "name": "四維先生鳳梨冰",
       "description": "人氣鳳梨冰，清新口感讓你一口接一口。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 724,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -7043,8 +7043,8 @@
       "name": "蔡記豆花",
       "description": "質樸的餐廳，供應豆花、仙草、刨冰、薏仁湯等甜品。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 3723,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7059,8 +7059,8 @@
       "name": "火車頭烤肉屋",
       "description": "氣氛輕鬆的舒適餐廳，供應份量十足的烤肋排、經典披薩、三明治和香腸。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2920,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7075,8 +7075,8 @@
       "name": "臻品牛排JHeN Pin",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 353,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7091,8 +7091,8 @@
       "name": "WoodHouse 木宅餐館",
       "description": "超人氣牛排餐廳, 提供多樣化美食選擇",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2579,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7107,8 +7107,8 @@
       "name": "群酌小吃",
       "description": "創意小吃與傳統味道結合, 受到食客喜愛",
       "area": "吉安鄉",
-      "rating": 4.4,
-      "reviews": 406,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7123,8 +7123,8 @@
       "name": "遺忘的故鄉 月廬食堂",
       "description": "超人氣的家常菜，讓人感受到溫暖的故鄉味。",
       "area": "鳳林鎮",
-      "rating": 4.4,
-      "reviews": 2534,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7139,8 +7139,8 @@
       "name": "美兆廚房",
       "description": "精緻的台菜料理，適合聚會和慶祝的好選擇。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 863,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7155,8 +7155,8 @@
       "name": "賴記池上飯包",
       "description": "經典台灣便當，口味道地，令人懷念。",
       "area": "吉安鄉",
-      "rating": 4.4,
-      "reviews": 249,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7171,8 +7171,8 @@
       "name": "椰子林溫泉飯店",
       "description": "質樸的飯店設有休閒餐廳和溫泉浴池，並供應免費早餐。",
       "area": "瑞穗鄉",
-      "rating": 4.4,
-      "reviews": 2058,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7187,8 +7187,8 @@
       "name": "瑞穗天合國際觀光酒店",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "瑞穗鄉",
-      "rating": 4.4,
-      "reviews": 9051,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7203,8 +7203,8 @@
       "name": "壽豐肉羹麵",
       "description": "肉羹口感滑順，令人一試成主顧。",
       "area": "壽豐鄉",
-      "rating": 4.4,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7219,8 +7219,8 @@
       "name": "海中天海景咖啡餐廳",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.4,
-      "reviews": 923,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -7235,8 +7235,8 @@
       "name": "茹薰素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.4,
-      "reviews": 437,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7251,8 +7251,8 @@
       "name": "家畇素食-鍋燒專賣店/花蓮推薦美食/花蓮素食/花蓮素食餐廳/花蓮小吃/花蓮蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.4,
-      "reviews": 796,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7267,8 +7267,8 @@
       "name": "玉興素食店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.4,
-      "reviews": 58,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7283,8 +7283,8 @@
       "name": "宏興素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.4,
-      "reviews": 38,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7299,8 +7299,8 @@
       "name": "長健麵素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.4,
-      "reviews": 253,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7315,8 +7315,8 @@
       "name": "G九屋私房特色菜（無素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "富里鄉",
-      "rating": 4.4,
-      "reviews": 1572,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7331,8 +7331,8 @@
       "name": "花蓮 星晟棧渡假飯店",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "新城鄉",
-      "rating": 4.4,
-      "reviews": 2238,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉新城村新興七街16號",
       "categories": [
         "中式"
@@ -7348,8 +7348,8 @@
       "name": "美好花生",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "鳳林鎮",
-      "rating": 4.4,
-      "reviews": 2031,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮大榮里中和路46-1號",
       "categories": [
         "咖啡廳"
@@ -7365,8 +7365,8 @@
       "name": "小好美hao-mei廚房",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "秀林鄉",
-      "rating": 4.4,
-      "reviews": 591,
+      "rating": null,
+      "reviews": null,
       "address": "972台灣花蓮縣秀林鄉景美村17-51號",
       "categories": [
         "中式"
@@ -7382,8 +7382,8 @@
       "name": "藍藍飲食店",
       "description": "中式餐廳，在地美味",
       "area": "秀林鄉",
-      "rating": 4.4,
-      "reviews": 1163,
+      "rating": null,
+      "reviews": null,
       "address": "972台灣花蓮縣秀林鄉富世村富世路272號",
       "categories": [
         "中式"
@@ -7399,8 +7399,8 @@
       "name": "巴奇克竹坊",
       "description": "中式餐廳，在地美味",
       "area": "秀林鄉",
-      "rating": 4.4,
-      "reviews": 620,
+      "rating": null,
+      "reviews": null,
       "address": "972台灣花蓮縣秀林鄉景美村",
       "categories": [
         "中式"
@@ -7416,8 +7416,8 @@
       "name": "牧木屋 Mu Mu House-光復鄉燉飯推薦|景觀餐廳|打卡餐廳|義大利麵推薦|美式餐廳|鬼頭刀料",
       "description": "",
       "area": "光復鄉",
-      "rating": 4.4,
-      "reviews": 330,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "西式"
@@ -7433,8 +7433,8 @@
       "name": "山下村｜太魯閣文化風味餐・新城老街美食|原山月村",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.4,
-      "reviews": 423,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7450,8 +7450,8 @@
       "name": "阿英姐的店",
       "description": "",
       "area": "秀林鄉",
-      "rating": 4.4,
-      "reviews": 251,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7467,8 +7467,8 @@
       "name": "庚角坡牛肉麵",
       "description": "",
       "area": "鳳林鎮",
-      "rating": 4.4,
-      "reviews": 383,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7484,8 +7484,8 @@
       "name": "石庭客家小館",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 788,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7500,8 +7500,8 @@
       "name": "牛東家見麵館牛肉麵",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.3,
-      "reviews": 343,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7516,8 +7516,8 @@
       "name": "瑞穗 陳家小館",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 317,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7532,8 +7532,8 @@
       "name": "龍哥斯特 ｜ Langouste",
       "description": "設有簡單座位區的樸實餐廳，供應經典海鮮料理。",
       "area": "吉安鄉",
-      "rating": 4.3,
-      "reviews": 642,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7548,8 +7548,8 @@
       "name": "小和好點 dot.dot. Bakery & Cafe ｜營業日看內文",
       "description": "特色咖啡與精美點心，讓人流連忘返的悠閒氛圍。",
       "area": "壽豐鄉",
-      "rating": 4.3,
-      "reviews": 905,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -7564,8 +7564,8 @@
       "name": "山東麵館",
       "description": "招牌麵食彈牙入味，吸引眾多食客光臨品嚐。",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 340,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7580,8 +7580,8 @@
       "name": "建國路火雞肉飯(車站前）",
       "description": "香氣四溢的火雞肉飯，口感鮮嫩，讓人一試成主顧。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 658,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7596,8 +7596,8 @@
       "name": "玉里橋頭臭豆腐-花蓮店",
       "description": "超人氣臭豆腐, 外酥內嫩、香氣四溢",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 7419,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7612,8 +7612,8 @@
       "name": "花蓮廟口素食臭豆腐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "吉安鄉",
-      "rating": 4.3,
-      "reviews": 731,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7628,8 +7628,8 @@
       "name": "玉里橋頭臭豆腐",
       "description": "玉里超人氣臭豆腐，酥脆外皮配上特製泡菜",
       "area": "",
-      "rating": 4.3,
-      "reviews": 7417,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7644,8 +7644,8 @@
       "name": "慶豐麵店",
       "description": "吉安中山路三段在地老字號必吃扁食乾麵煙燻三角肉粉腸小菜份量大方銅板價",
       "area": "",
-      "rating": 4.3,
-      "reviews": 3607,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7660,8 +7660,8 @@
       "name": "小和好點Bakery Cafe",
       "description": "壽豐LV級雪山肉桂捲每天限量供應花蓮必吃人氣排隊甜點",
       "area": "",
-      "rating": 4.3,
-      "reviews": 905,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -7676,8 +7676,8 @@
       "name": "瑞穗牛肉麵",
       "description": "瑞穗在地牛肉麵店紅燒湯頭濃郁牛肉軟嫩配酸菜小菜",
       "area": "",
-      "rating": 4.3,
-      "reviews": 340,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7692,8 +7692,8 @@
       "name": "森山舎 morning mountain",
       "description": "這間休閒餐廳是一座綠意環繞的迷人木屋，供應日式美食。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 2258,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -7708,8 +7708,8 @@
       "name": "家咖哩 花蓮將軍府店",
       "description": "超人氣的咖哩料理，味道濃郁，讓人一試成主顧。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 5589,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -7724,8 +7724,8 @@
       "name": "洋基牧場",
       "description": "附設露台的樸實餐廳，供應湯品、海鮮、肉類料理和果汁。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 2214,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7740,8 +7740,8 @@
       "name": "鴨米鴨片飯",
       "description": "特色鴨片飯，口感鮮嫩，令人回味無窮。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 462,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7756,8 +7756,8 @@
       "name": "藍山³ Blue Hill³",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 358,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7772,8 +7772,8 @@
       "name": "海風味小吃",
       "description": "地道台菜小吃，適合隨著海風享受美味。",
       "area": "壽豐鄉",
-      "rating": 4.3,
-      "reviews": 909,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7788,8 +7788,8 @@
       "name": "和平虱目魚專賣店",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 436,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7804,8 +7804,8 @@
       "name": "樂京燒臘便當",
       "description": "以美味燒臘便當著稱，豐富配菜，讓人吃得滿足。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 537,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7820,8 +7820,8 @@
       "name": "無名牛肉麵",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 307,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7836,8 +7836,8 @@
       "name": "金名麵館",
       "description": "傳統麵食，口味穩定，讓人感受家的味道。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 327,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7852,8 +7852,8 @@
       "name": "元味牛肉麵",
       "description": "招牌牛肉麵湯頭清醇，配上彈牙麵條相得益彰。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 374,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7868,8 +7868,8 @@
       "name": "福源海鮮",
       "description": "新鮮海鮮料理，色香味俱全，令人垂涎欲滴。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1275,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7884,8 +7884,8 @@
       "name": "連記海產",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1201,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7900,8 +7900,8 @@
       "name": "食舍海鮮餐廳",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 769,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7916,8 +7916,8 @@
       "name": "屋銤海鮮",
       "description": "超人氣海鮮餐廳，海味十足，廣受食客喜愛。",
       "area": "壽豐鄉",
-      "rating": 4.3,
-      "reviews": 2117,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7932,8 +7932,8 @@
       "name": "景陽海鮮",
       "description": "精選新鮮海鮮料理，味道鮮美，值得品嚐的選擇。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 286,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7948,8 +7948,8 @@
       "name": "海の屋原民屋",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 564,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7964,8 +7964,8 @@
       "name": "育樂新村9號美食熱炒",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 414,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7980,8 +7980,8 @@
       "name": "餓勢力精緻麵食",
       "description": "環境平實的餐廳，供應麵食、湯品及豬肉料理等在地美食。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 830,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7996,8 +7996,8 @@
       "name": "吃粗飽早午餐-總店",
       "description": "氣氛悠閒的餐廳，供應蛋、吐司、麵食、漢堡、三明治等早餐和早午餐選擇。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 877,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8012,8 +8012,8 @@
       "name": "葳森美式早餐",
       "description": "明亮的休閒早餐店，供應咖啡、三明治等早餐。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 702,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8028,8 +8028,8 @@
       "name": "原商校街冰店",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.3,
-      "reviews": 1090,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -8044,8 +8044,8 @@
       "name": "歪歪歪甜點 YYY Dessert",
       "description": "質樸的甜品店，供應蛋塔、蛋黃酥、各式甜品、咖啡及茶飲。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1373,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8060,8 +8060,8 @@
       "name": "海蜜Hi-Mee",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 607,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8076,8 +8076,8 @@
       "name": "路邊烤肉WildBBQ 花蓮奇萊店（花蓮必吃烤肉推薦／花蓮宵夜深夜晚上美食／花蓮聚餐餐廳）",
       "description": "花蓮必吃的烤肉推薦，適合聚餐和宵夜享用。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 741,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8092,8 +8092,8 @@
       "name": "一筷燒肉-花蓮吉安店_花蓮燒肉/吉安燒肉/人氣燒肉/熱門燒肉/平價燒肉/個人燒肉/燒肉首選/燒肉推薦",
       "description": "受歡迎的平價燒肉選擇，適合各類食客。",
       "area": "吉安鄉",
-      "rating": 4.3,
-      "reviews": 872,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8108,8 +8108,8 @@
       "name": "哦一夕海鮮串燒燒烤",
       "description": "夜市風情的串燒選擇，海鮮新鮮美味。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 368,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8124,8 +8124,8 @@
       "name": "肉肉餐桌牛排館",
       "description": "氣氛悠閒的磚砌牛排館，供應精選肉類、飯類料理、沙拉及早午餐。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1286,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8140,8 +8140,8 @@
       "name": "我最牛 牛排館",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 235,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8156,8 +8156,8 @@
       "name": "四代務農",
       "description": "",
       "area": "鳳林鎮",
-      "rating": 4.3,
-      "reviews": 492,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8172,8 +8172,8 @@
       "name": "慶豐年餐廳",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 792,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8188,8 +8188,8 @@
       "name": "鐵路邊玉里麵",
       "description": "口感滑順的玉里麵, 令人難以忘懷的美味",
       "area": "玉里鎮",
-      "rating": 4.3,
-      "reviews": 294,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8204,8 +8204,8 @@
       "name": "江蘇小吃",
       "description": "",
       "area": "玉里鎮",
-      "rating": 4.3,
-      "reviews": 189,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8220,8 +8220,8 @@
       "name": "玉里新興街燒餅店",
       "description": "招牌燒餅外酥內軟，搭配香濃咖啡，完美享受。",
       "area": "玉里鎮",
-      "rating": 4.3,
-      "reviews": 937,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8236,8 +8236,8 @@
       "name": "竹村 日式料理",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 693,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8252,8 +8252,8 @@
       "name": "巷子口餃子館",
       "description": "招牌餃子皮薄餡多，讓人回味無窮的美味麵食。",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 287,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8268,8 +8268,8 @@
       "name": "華玉冰菓店",
       "description": "精選新鮮水果製作的冰品，清涼消暑的甜品首選。",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 597,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -8284,8 +8284,8 @@
       "name": "東昇茶行",
       "description": "茶品多樣，為茶友們提供放鬆的好去處。",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 616,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8300,8 +8300,8 @@
       "name": "花蓮國香園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 711,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8316,8 +8316,8 @@
       "name": "明園素食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 394,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8332,8 +8332,8 @@
       "name": "常春藤素食(Buffet)吃到飽餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 2183,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8348,8 +8348,8 @@
       "name": "慧萊素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.3,
-      "reviews": 424,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8364,8 +8364,8 @@
       "name": "天廚妙供素食養生屋",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.3,
-      "reviews": 4,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8380,8 +8380,8 @@
       "name": "嘉里素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 8,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8396,8 +8396,8 @@
       "name": "美欣素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 291,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8412,8 +8412,8 @@
       "name": "鶴岡素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "瑞穗鄉",
-      "rating": 4.3,
-      "reviews": 35,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8428,8 +8428,8 @@
       "name": "MONDAY曼地異國蔬食料理｜JJ's DINER美式餐廳共享空間 | 蔬食漢堡",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "萬榮鄉",
-      "rating": 4.3,
-      "reviews": 122,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8444,8 +8444,8 @@
       "name": "藍天麗池飯店-綠波廊蔬食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "萬榮鄉",
-      "rating": 4.3,
-      "reviews": 830,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8460,8 +8460,8 @@
       "name": "Loving Hut愛家國際餐飲 花蓮 綠的有機園(蔬食早餐、午餐)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "卓溪鄉",
-      "rating": 4.3,
-      "reviews": 130,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8476,8 +8476,8 @@
       "name": "慕名私房料理（歡迎線上訂位或建議提前來電詢問）",
       "description": "中式餐廳，在地美味",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 2513,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉大漢村明潭街10巷23號",
       "categories": [
         "中式"
@@ -8493,8 +8493,8 @@
       "name": "原野牧場",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "新城鄉",
-      "rating": 4.3,
-      "reviews": 3297,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣花蓮市民心里七星街9號",
       "categories": [
         "咖啡廳"
@@ -8510,8 +8510,8 @@
       "name": "伊娜飛魚餐廳",
       "description": "中式餐廳，在地美味",
       "area": "豐濱鄉",
-      "rating": 4.3,
-      "reviews": 1950,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉港口村石梯灣118-2號",
       "categories": [
         "中式"
@@ -8527,8 +8527,8 @@
       "name": "青葉小館",
       "description": "中式餐廳，在地美味",
       "area": "鳳林鎮",
-      "rating": 4.3,
-      "reviews": 790,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮林榮里永康路79號",
       "categories": [
         "中式"
@@ -8544,8 +8544,8 @@
       "name": "添丁野菜園餐廳",
       "description": "中式餐廳，在地美味",
       "area": "鳳林鎮",
-      "rating": 4.3,
-      "reviews": 778,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮林榮里大雅街1號",
       "categories": [
         "中式"
@@ -8561,8 +8561,8 @@
       "name": "茂記麵麵店",
       "description": "麵食專賣店，湯頭講究",
       "area": "鳳林鎮",
-      "rating": 4.3,
-      "reviews": 787,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮鳳仁里中和路190號",
       "categories": [
         "中式"
@@ -8578,8 +8578,8 @@
       "name": "緬城",
       "description": "",
       "area": "玉里鎮",
-      "rating": 4.3,
-      "reviews": 285,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8595,8 +8595,8 @@
       "name": "老鄉牛肉麵館",
       "description": "經典牛肉麵，湯頭濃郁，肉質軟嫩，深受顧客青睞。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 931,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8611,8 +8611,8 @@
       "name": "單一純賣 雞湯 小卷米粉",
       "description": "超人氣的米粉搭配濃郁雞湯，令人驚豔的美味。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 5309,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8627,8 +8627,8 @@
       "name": "家常牛肉麵",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 403,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8643,8 +8643,8 @@
       "name": "老家後山菜瑞穗店",
       "description": "供應砂鍋料理、烤雞和脆皮芋頭鴨等家常美食的樸實餐廳。",
       "area": "瑞穗鄉",
-      "rating": 4.2,
-      "reviews": 1631,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8659,8 +8659,8 @@
       "name": "老牌炸蛋蔥油餅（藍車）",
       "description": "1969年創業花蓮必吃，復興街藍色發財車，天天大排隊",
       "area": "",
-      "rating": 4.2,
-      "reviews": 3397,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8675,8 +8675,8 @@
       "name": "光復糖廠冰品",
       "description": "光復花蓮糖廠必吃冰品紅豆牛奶枝仔冰懷舊糖廠文化",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1613,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8691,8 +8691,8 @@
       "name": "光復馬太鞍濕地風味餐",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1069,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8707,8 +8707,8 @@
       "name": "鳳林客家粄條",
       "description": "小鎮必吃粄條Q彈滑順配豬肉油蔥客家道地味",
       "area": "",
-      "rating": 4.2,
-      "reviews": 252,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8723,8 +8723,8 @@
       "name": "馬蓋先美食玉里麵",
       "description": "招牌玉里麵深受喜愛, 讓人一試成主顧。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 2673,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8739,8 +8739,8 @@
       "name": "小木屋玉里麵",
       "description": "人氣玉里麵，湯底鮮美，深受食客喜愛。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 2495,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8755,8 +8755,8 @@
       "name": "禾田野 (簡餐及窯烤比薩)",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.2,
-      "reviews": 1788,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8771,8 +8771,8 @@
       "name": "招弟大飯店",
       "description": "以經典台菜聞名，提供多樣美味，適合全家共享的聚餐場所。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 450,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8787,8 +8787,8 @@
       "name": "幽靈餐車",
       "description": "供應傳統台灣街頭小吃的時尚餐廳。",
       "area": "吉安鄉",
-      "rating": 4.2,
-      "reviews": 1710,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8803,8 +8803,8 @@
       "name": "仁里超人氣麵店",
       "description": "人氣麵店提供多樣化的麵食選擇，滿足不同口味。",
       "area": "吉安鄉",
-      "rating": 4.2,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8819,8 +8819,8 @@
       "name": "難得美食刀削麵",
       "description": "手工刀削麵柔韌可口，人氣餐廳。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1029,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8835,8 +8835,8 @@
       "name": "六扇門時尚湯鍋花蓮中山店",
       "description": "時尚的火鍋環境，食材多樣，讓用餐氛圍更加愉悅。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1213,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -8851,8 +8851,8 @@
       "name": "上乘三家涮涮鍋共和國",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1060,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -8867,8 +8867,8 @@
       "name": "花蓮美崙海鮮",
       "description": "充滿復古氛圍的平實餐廳，專賣海鮮料理。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1507,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8883,8 +8883,8 @@
       "name": "花蓮香扁食",
       "description": "寬敞簡約的餐廳，供應餃子、湯品和麵食。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 4587,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8899,8 +8899,8 @@
       "name": "法式官財板",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 470,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8915,8 +8915,8 @@
       "name": "多桑懷舊小吃 - 花蓮美食 | 宵夜聚餐",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 255,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8931,8 +8931,8 @@
       "name": "芳萊小吃",
       "description": "經典中式小吃，口味多樣，適合各種食客，讓人一次滿足。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 290,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8947,8 +8947,8 @@
       "name": "田村壽司",
       "description": "專業日式壽司料理，獲得食客的高度評價，超人氣。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 4124,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8963,8 +8963,8 @@
       "name": "湘園壽司屋有限公司",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.2,
-      "reviews": 711,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8979,8 +8979,8 @@
       "name": "魚豐日式小吃",
       "description": "提供多樣化的小吃選擇，讓人一口接一口，回味無窮。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 238,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8995,8 +8995,8 @@
       "name": "米崙丼飯屋",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 326,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -9011,8 +9011,8 @@
       "name": "鮮達仁日式料理",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 215,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -9027,8 +9027,8 @@
       "name": "怡味餐店",
       "description": "環境舒適的愜意餐廳，供應鍋貼、蛋餅和燒賣。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 2099,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9043,8 +9043,8 @@
       "name": "美崙紅茶",
       "description": "超人氣紅茶，香醇茶味搭配多樣飲品，讓人回味無窮。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 3114,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -9059,8 +9059,8 @@
       "name": "米噹泰式燒烤",
       "description": "樸實的泰式餐廳，供應燒烤海鮮、熱炒和啤酒。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 4395,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -9075,8 +9075,8 @@
       "name": "德安客家美食",
       "description": "經典的客家菜肴，口味豐富，讓人欲罷不能。",
       "area": "鳳林鎮",
-      "rating": 4.2,
-      "reviews": 252,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9091,8 +9091,8 @@
       "name": "櫻の田野養生休閒農莊",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.2,
-      "reviews": 2388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9107,8 +9107,8 @@
       "name": "銘師父餐廳",
       "description": "",
       "area": "吉安鄉",
-      "rating": 4.2,
-      "reviews": 1034,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9123,8 +9123,8 @@
       "name": "熱海排骨大王",
       "description": "人氣, 招牌排骨外酥內嫩，搭配多樣配菜，是肉食愛好者的最愛。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1180,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9139,8 +9139,8 @@
       "name": "江記排骨飯",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 241,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9155,8 +9155,8 @@
       "name": "京湘排骨麵",
       "description": "特色排骨麵香氣四溢，深受食客喜愛，人氣餐廳。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1169,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9171,8 +9171,8 @@
       "name": "阿科玉里麵",
       "description": "",
       "area": "玉里鎮",
-      "rating": 4.2,
-      "reviews": 360,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9187,8 +9187,8 @@
       "name": "富源廟口小吃",
       "description": "多樣化的夜市小吃，滿足每位食客的味蕾。",
       "area": "瑞穗鄉",
-      "rating": 4.2,
-      "reviews": 541,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9203,8 +9203,8 @@
       "name": "綠精靈瑞穗鮮奶鍋",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.2,
-      "reviews": 1409,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9219,8 +9219,8 @@
       "name": "永樂食堂",
       "description": "提供多樣小吃，讓人感受懷舊的台灣味道。",
       "area": "瑞穗鄉",
-      "rating": 4.2,
-      "reviews": 240,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9235,8 +9235,8 @@
       "name": "富興小火車",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.2,
-      "reviews": 143,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9251,8 +9251,8 @@
       "name": "【甄】麵食館壽豐店",
       "description": "美味麵食選擇，讓你回味無窮。",
       "area": "壽豐鄉",
-      "rating": 4.2,
-      "reviews": 192,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9267,8 +9267,8 @@
       "name": "慈益素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "花蓮市",
-      "rating": 4.2,
-      "reviews": 404,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -9283,8 +9283,8 @@
       "name": "常青健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "玉里鎮",
-      "rating": 4.2,
-      "reviews": 9,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -9299,8 +9299,8 @@
       "name": "立閣日出餐廳Taroko LiikoHotel_Sunrise resturant｜太魯閣美食推薦｜新城美食推薦",
       "description": "日式料理餐廳",
       "area": "新城鄉",
-      "rating": 4.2,
-      "reviews": 610,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉新城村新興路67號",
       "categories": [
         "日式"
@@ -9316,8 +9316,8 @@
       "name": "佳興冰菓店",
       "description": "中式餐廳，在地美味",
       "area": "新城鄉",
-      "rating": 4.2,
-      "reviews": 12577,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉新城村博愛路22號",
       "categories": [
         "甜品"
@@ -9339,8 +9339,8 @@
       "name": "馬太鞍欣綠農園",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "光復鄉",
-      "rating": 4.2,
-      "reviews": 1069,
+      "rating": null,
+      "reviews": null,
       "address": "976台灣花蓮縣光復鄉大全村大全街60號",
       "categories": [
         "咖啡廳"
@@ -9356,8 +9356,8 @@
       "name": "富里鄉農特產展售中心",
       "description": "中式餐廳，在地美味",
       "area": "富里鄉",
-      "rating": 4.2,
-      "reviews": 4022,
+      "rating": null,
+      "reviews": null,
       "address": "983台灣花蓮縣富里鄉羅山村9鄰東湖6號",
       "categories": [
         "中式"
@@ -9373,8 +9373,8 @@
       "name": "立閣日出餐廳Taroko LiikoHotel_Sunrise resturant｜太魯閣美食推薦｜",
       "description": "",
       "area": "新城鄉",
-      "rating": 4.2,
-      "reviews": 610,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -9390,8 +9390,8 @@
       "name": "鍾老爹牛肉麵",
       "description": "牛肉麵味道濃郁，值得一試。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 320,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9406,8 +9406,8 @@
       "name": "口福牛肉麵-澳洲頂級腱心牛肉",
       "description": "口福牛肉麵, 澳洲頂級腱心牛肉，讓牛肉愛好者體驗無與倫比的美味。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 352,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9422,8 +9422,8 @@
       "name": "阿嬤ㄟ古早味",
       "description": "傳遞家鄉的懷舊味道，令人感受到滿滿的溫暖。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 396,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9438,8 +9438,8 @@
       "name": "鵝肉先生",
       "description": "花蓮林森路40年老店，鮮嫩多汁鵝肉配特製沾醬，必訪知名小吃",
       "area": "",
-      "rating": 4.1,
-      "reviews": 2194,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9454,8 +9454,8 @@
       "name": "光復客家風味餐",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1575,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9470,8 +9470,8 @@
       "name": "璞石閣玉里麵",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1982,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9486,8 +9486,8 @@
       "name": "泰瘋隨意料理",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4.1,
-      "reviews": 1685,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -9502,8 +9502,8 @@
       "name": "阿嬤麵店",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 658,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9518,8 +9518,8 @@
       "name": "涮乃葉 花蓮遠百店",
       "description": "人氣火鍋，提供多樣涮煮選擇和新鮮食材。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1638,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -9534,8 +9534,8 @@
       "name": "宏祥活海產",
       "description": "新鮮活海產，搭配多樣調味，讓人驚喜連連。",
       "area": "吉安鄉",
-      "rating": 4.1,
-      "reviews": 537,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9550,8 +9550,8 @@
       "name": "大同蘭陽米粉羹",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1029,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9566,8 +9566,8 @@
       "name": "金蘭號",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 334,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9582,8 +9582,8 @@
       "name": "花蓮承香扁食(沒內用)",
       "description": "人氣扁食，皮薄餡多，湯頭清爽，完美的夜市美食選擇。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1139,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9598,8 +9598,8 @@
       "name": "花本家壽司",
       "description": "平實的日式餐館，供應壽司捲、握壽司、丼飯、海鮮料理、麵食與湯品。",
       "area": "吉安鄉",
-      "rating": 4.1,
-      "reviews": 2555,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -9614,8 +9614,8 @@
       "name": "萊迦早午餐",
       "description": "提供多樣化的早午餐選擇, 受到食客熱愛的溫馨喫茶店。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1072,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -9630,8 +9630,8 @@
       "name": "一心泡泡冰(花蓮電視牆託播)",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1921,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -9646,8 +9646,8 @@
       "name": "甜在心糖水舖",
       "description": "多樣化甜品冰品，甜蜜滋味令人心情愉悅。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 207,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -9662,8 +9662,8 @@
       "name": "炭火燒肉工房",
       "description": "提供香氣四溢的燒肉，口感鮮嫩，深受食客喜愛。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 739,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9678,8 +9678,8 @@
       "name": "認真串國聯總店",
       "description": "招牌串燒口味多樣，讓人流連忘返，值得一試。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 285,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9694,8 +9694,8 @@
       "name": "小時厚牛排-花蓮福町店",
       "description": "口味穩定的經典牛排, 受到食客青睞。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 437,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9710,8 +9710,8 @@
       "name": "經典牛排",
       "description": "提供多種經典牛排選擇，讓人回味無窮，人氣餐廳。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 320,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9726,8 +9726,8 @@
       "name": "地6攤牛排 城中店",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 500,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9742,8 +9742,8 @@
       "name": "正一牛排",
       "description": "美味牛排搭配家常菜, 讓人回味無窮",
       "area": "",
-      "rating": 4.1,
-      "reviews": 593,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9758,8 +9758,8 @@
       "name": "田地小館",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 308,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9774,8 +9774,8 @@
       "name": "莊太太家常現炒",
       "description": "現炒的家常菜，提供溫暖的家庭聚餐體驗。",
       "area": "吉安鄉",
-      "rating": 4.1,
-      "reviews": 430,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9790,8 +9790,8 @@
       "name": "嘉徠排骨",
       "description": "招牌排骨味道鮮美，家庭式經營，讓人倍感溫馨。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 325,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9806,8 +9806,8 @@
       "name": "強蛋餅",
       "description": "專注於蛋餅的創新口味，吃了讓人難忘。",
       "area": "花蓮市",
-      "rating": 4.1,
-      "reviews": 957,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9822,8 +9822,8 @@
       "name": "恰好食光",
       "description": "知名夜市小吃, 精緻美味讓人回味無窮",
       "area": "花蓮市",
-      "rating": 4.1,
-      "reviews": 174,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9838,8 +9838,8 @@
       "name": "玉里麵好味道美食",
       "description": "提供多樣化的玉里麵選擇，深受食客喜愛。",
       "area": "玉里鎮",
-      "rating": 4.1,
-      "reviews": 523,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9854,8 +9854,8 @@
       "name": "哈軒森 精緻熱炒",
       "description": "熱炒菜品豐富，口味正宗，適合聚餐共享美味。",
       "area": "瑞穗鄉",
-      "rating": 4.1,
-      "reviews": 458,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9870,8 +9870,8 @@
       "name": "漁家莊",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4.1,
-      "reviews": 167,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9886,8 +9886,8 @@
       "name": "蘭花町日本拉麵",
       "description": "提供正宗日式拉麵，令拉麵愛好者回味無窮。",
       "area": "瑞穗鄉",
-      "rating": 4.1,
-      "reviews": 398,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -9902,8 +9902,8 @@
       "name": "立川漁場 | 黃金蜆的故鄉",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "",
-      "rating": 4.1,
-      "reviews": 15669,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9924,8 +9924,8 @@
       "name": "龍宮",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "新城鄉",
-      "rating": 4.1,
-      "reviews": 745,
+      "rating": null,
+      "reviews": null,
       "address": "971台灣花蓮縣新城鄉大漢村七星街79巷3號",
       "categories": [
         "咖啡廳"
@@ -9941,8 +9941,8 @@
       "name": "項鍊海岸工作室★餐廳★咖啡★弟朋★德菲兒",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "豐濱鄉",
-      "rating": 4.1,
-      "reviews": 1286,
+      "rating": null,
+      "reviews": null,
       "address": "977台灣花蓮縣豐濱鄉53-1號號",
       "categories": [
         "咖啡廳"
@@ -9958,8 +9958,8 @@
       "name": "達基力部落屋",
       "description": "中式餐廳，在地美味",
       "area": "秀林鄉",
-      "rating": 4.1,
-      "reviews": 2517,
+      "rating": null,
+      "reviews": null,
       "address": "No. 96, Chongde, 秀林鄉花蓮縣台灣 972",
       "categories": [
         "中式"
@@ -9975,8 +9975,8 @@
       "name": "崇德瑩農場",
       "description": "甜品專賣店，消暑好選擇",
       "area": "秀林鄉",
-      "rating": 4.1,
-      "reviews": 4745,
+      "rating": null,
+      "reviews": null,
       "address": "972台灣花蓮縣秀林鄉崇德村下台地",
       "categories": [
         "中式"
@@ -9992,8 +9992,8 @@
       "name": "紅瓦屋老地方文化美食餐廳",
       "description": "中式餐廳，在地美味",
       "area": "光復鄉",
-      "rating": 4.1,
-      "reviews": 1575,
+      "rating": null,
+      "reviews": null,
       "address": "976台灣花蓮縣光復鄉大全村大全街62巷16號",
       "categories": [
         "中式"
@@ -10009,8 +10009,8 @@
       "name": "炸彈蔥油餅",
       "description": "花蓮必吃小吃，炸得酥脆的蔥油餅加上半熟炸蛋，蛋汁爆漿口感絕佳",
       "area": "",
-      "rating": 4,
-      "reviews": 10073,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10025,8 +10025,8 @@
       "name": "炸蛋蔥油餅 黃車",
       "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
       "area": "",
-      "rating": 4,
-      "reviews": 10073,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10041,8 +10041,8 @@
       "name": "液香扁食店",
       "description": "花蓮扁食70年老店，皮薄肉鮮湯清爽，與戴記扁食師出同門，花蓮最具代表性小吃",
       "area": "",
-      "rating": 4,
-      "reviews": 8165,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10057,8 +10057,8 @@
       "name": "戴記扁食",
       "description": "傳承90年歷史的經典扁食，遵循老曾祖父傳統古法手工製作，皮薄滑嫩肉香甜",
       "area": "",
-      "rating": 4,
-      "reviews": 6823,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10073,8 +10073,8 @@
       "name": "玉里麵（阿森麵店）",
       "description": "玉里60年排隊老店，油蔥酥香玉里麵配黑白切",
       "area": "",
-      "rating": 4,
-      "reviews": 3956,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10089,8 +10089,8 @@
       "name": "瑞穗溫泉區山產",
       "description": "周邊山產餐廳放山土雞炒山蘇溪蝦泡湯後必吃",
       "area": "",
-      "rating": 4,
-      "reviews": 1377,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10105,8 +10105,8 @@
       "name": "傳統美食玉里麵",
       "description": "超人氣的經典玉里麵，令人一試成主顧。",
       "area": "",
-      "rating": 4,
-      "reviews": 3956,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10121,8 +10121,8 @@
       "name": "055龍蝦海鮮",
       "description": "超人氣海鮮餐廳，以新鮮龍蝦為招牌，吸引無數饕客。",
       "area": "壽豐鄉",
-      "rating": 4,
-      "reviews": 8756,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10137,8 +10137,8 @@
       "name": "食七街碳烤",
       "description": "特色碳烤美食，香氣四溢，人氣之選，適合聚餐或宵夜。",
       "area": "",
-      "rating": 4,
-      "reviews": 904,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10153,8 +10153,8 @@
       "name": "金城牛肉麵",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10169,8 +10169,8 @@
       "name": "竹陽活海鮮/花蓮美食/花蓮小吃/花蓮海鮮餐廳/花蓮必吃/花蓮美食推薦/花蓮活海鮮/花蓮合菜",
       "description": "簡樸海產餐廳，專賣魚類、貝類等海鮮料理，也供應肉類料理和麵食。",
       "area": "",
-      "rating": 4,
-      "reviews": 1327,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10185,8 +10185,8 @@
       "name": "芳村海鮮餐廳",
       "description": "經典海鮮料理，結合新鮮食材，滿足您的味蕾。",
       "area": "",
-      "rating": 4,
-      "reviews": 1159,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10201,8 +10201,8 @@
       "name": "地6攤牛排-仁里店",
       "description": "招牌牛排令人垂涎, 受到食客們的讚譽",
       "area": "吉安鄉",
-      "rating": 4,
-      "reviews": 1064,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -10217,8 +10217,8 @@
       "name": "花蓮市好客文化會館",
       "description": "",
       "area": "花蓮市",
-      "rating": 4,
-      "reviews": 208,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10233,8 +10233,8 @@
       "name": "麗池飯包",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 526,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10249,8 +10249,8 @@
       "name": "宜蘭香炸螃蟹(東大門店)",
       "description": "香酥可口的炸螃蟹，讓人回味無窮。",
       "area": "花蓮市",
-      "rating": 4,
-      "reviews": 436,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10265,8 +10265,8 @@
       "name": "玉里橋頭麵",
       "description": "經典玉里麵的代表，味道好且實在的夜市美食。",
       "area": "玉里鎮",
-      "rating": 4,
-      "reviews": 1011,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10281,8 +10281,8 @@
       "name": "何童麵食",
       "description": "專注於各式麵食，讓每位顧客都能找到心儀的美味。",
       "area": "玉里鎮",
-      "rating": 4,
-      "reviews": 241,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10297,8 +10297,8 @@
       "name": "瑞穗綠茶肉圓",
       "description": "肉圓外皮Q彈，搭配清香綠茶，成為人氣小吃。",
       "area": "瑞穗鄉",
-      "rating": 4,
-      "reviews": 1921,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10313,8 +10313,8 @@
       "name": "派出所前麵",
       "description": "",
       "area": "瑞穗鄉",
-      "rating": 4,
-      "reviews": 320,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10329,8 +10329,8 @@
       "name": "吉蒸牧場",
       "description": "超人氣小吃，手工蒸餃口感滑嫩，令人垂涎欲滴。",
       "area": "瑞穗鄉",
-      "rating": 4,
-      "reviews": 2697,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10345,8 +10345,8 @@
       "name": "鮮堡漢堡—花蓮瑞穗店",
       "description": "招牌漢堡口味多樣，深受食客喜愛。",
       "area": "瑞穗鄉",
-      "rating": 4,
-      "reviews": 361,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -10361,8 +10361,8 @@
       "name": "口福海鮮餐廳",
       "description": "",
       "area": "豐濱鄉",
-      "rating": 4,
-      "reviews": 1949,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10377,8 +10377,8 @@
       "name": "壽豐早餐",
       "description": "提供美味早餐選擇，滿足每個清晨的開始。",
       "area": "壽豐鄉",
-      "rating": 4,
-      "reviews": 1803,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -10393,8 +10393,8 @@
       "name": "鯉魚潭樹屋餐廳",
       "description": "",
       "area": "壽豐鄉",
-      "rating": 4,
-      "reviews": 1486,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10409,8 +10409,8 @@
       "name": "如意亭美食館",
       "description": "中式餐廳，在地美味",
       "area": "鳳林鎮",
-      "rating": 4,
-      "reviews": 676,
+      "rating": null,
+      "reviews": null,
       "address": "975台灣花蓮縣鳳林鎮大榮里中和路80號",
       "categories": [
         "中式"
@@ -10426,8 +10426,8 @@
       "name": "花蓮公正包子店",
       "description": "",
       "area": "",
-      "rating": 3.9,
-      "reviews": 19867,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10454,8 +10454,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.5,
-      "reviews": 199,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 23.9910732,
       "lng": 121.6111949
@@ -10470,8 +10470,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.9,
-      "reviews": 236,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 23.9803338,
       "lng": 121.6094785
@@ -10486,8 +10486,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 5,
-      "reviews": 1382,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 23.9910732,
       "lng": 121.6111949
@@ -10502,8 +10502,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.5,
-      "reviews": 1347,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 23.9828122,
       "lng": 121.6069807
@@ -10518,8 +10518,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.8,
-      "reviews": 280,
+      "rating": null,
+      "reviews": null,
       "dishes": [
         {
           "name": "手沖單品咖啡",
@@ -10547,8 +10547,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.7,
-      "reviews": 755,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 23.974248,
       "lng": 121.607336
@@ -10561,8 +10561,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10572,8 +10572,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10583,8 +10583,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10594,8 +10594,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10605,8 +10605,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10616,8 +10616,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -10627,8 +10627,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "可不可熟成紅茶",
@@ -10638,8 +10638,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10649,8 +10649,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10660,8 +10660,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10671,8 +10671,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10682,8 +10682,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10693,8 +10693,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10704,8 +10704,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "鮮茶道",
@@ -10715,8 +10715,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "一芳",
@@ -10726,8 +10726,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "一芳",
@@ -10737,8 +10737,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     }
   ]
 }

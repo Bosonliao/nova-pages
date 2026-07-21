@@ -6,7 +6,9 @@
     "location": "基隆市仁愛區仁三路與愛四路之間",
     "openDays": "每日",
     "description": "基隆最具代表性的夜市，以各式海鮮小吃聞名，奠濟宮周邊形成近百攤的美食聚集地。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "八斗子夜市",
@@ -15,7 +17,9 @@
     "location": "基隆市中正區北寧路沿線",
     "openDays": "週六日",
     "description": "鄰近八斗子漁港的週末夜市，可同時享受新鮮海產與海港風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "七堵夜市",
@@ -24,7 +28,9 @@
     "location": "基隆市七堵區南興路、百三街口一帶",
     "openDays": "每日",
     "description": "基隆七堵區在地夜市，以平價小吃與日常用品為主，富有在地生活氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "士林夜市",
@@ -33,7 +39,9 @@
     "location": "台北市士林區文林路、大東路、基河路一帶",
     "openDays": "每日",
     "description": "台北最大最知名的觀光夜市，涵蓋美食、服飾、遊戲等多元攤位，吸引大量國內外遊客。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "華西街夜市",
@@ -42,7 +50,9 @@
     "location": "台北市萬華區華西街",
     "openDays": "每日",
     "description": "台灣首座觀光夜市，以蛇肉、鱉肉等特色小吃聞名，承載萬華老城區的歷史記憶。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "艋舺夜市",
@@ -51,7 +61,9 @@
     "location": "台北市萬華區梧州街、廣州街一帶",
     "openDays": "每日",
     "description": "位於萬華老街的傳統夜市，保留濃厚的在地文化與平價美食特色。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "饒河街觀光夜市",
@@ -60,7 +72,9 @@
     "location": "台北市松山區饒河街",
     "openDays": "每日",
     "description": "台北知名觀光夜市，慈祐宮前燈籠高掛，以胡椒餅、藥燉排骨等美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "公館夜市",
@@ -69,7 +83,9 @@
     "location": "台北市大安區公館商圈、汀州路一帶",
     "openDays": "每日",
     "description": "台大與師大學生的美食天堂，融合東南亞異國料理與台灣傳統小吃。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "南機場觀光夜市",
@@ -78,7 +94,9 @@
     "location": "台北市中正區中華路二段、南機場公寓一帶",
     "openDays": "每日",
     "description": "台北隱藏版美食夜市，以高CP值在地小吃聞名，深受美食愛好者推崇。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "師大夜市",
@@ -87,7 +105,9 @@
     "location": "台北市大安區師大路、龍泉街一帶",
     "openDays": "每日",
     "description": "師大周邊的學生型夜市，以異國美食、平價服飾與文創小店為特色。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "臨江街觀光夜市",
@@ -96,7 +116,9 @@
     "location": "台北市大安區臨江街、通化街一帶",
     "openDays": "每日",
     "description": "通化街夜市，台北東區的傳統夜市，以多樣化的在地小吃與日常採買聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "寧夏夜市",
@@ -105,7 +127,9 @@
     "location": "台北市大同區寧夏路",
     "openDays": "每日",
     "description": "以傳統台灣小吃為主軸的夜市，曾獲台北夜市評鑑第一名，懷舊氛圍濃厚。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大龍街夜市",
@@ -114,7 +138,9 @@
     "location": "台北市大同區大龍街",
     "openDays": "每日",
     "description": "鄰近孔廟的小型夜市，以客家美食與傳統小吃為主，富有文化氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "延三夜市",
@@ -123,7 +149,9 @@
     "location": "台北市大同區延平北路三段",
     "openDays": "每日",
     "description": "大橋頭站旁的傳統夜市，保留老台北風味，以汕頭麵、蝦仁蛋等在地美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "景美夜市",
@@ -132,7 +160,9 @@
     "location": "台北市文山區景文街與景興路一帶",
     "openDays": "每日",
     "description": "文山區的學生型夜市，以平價美食為主，鄰近景美捷運站交通便利。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "雙城街夜市",
@@ -141,7 +171,9 @@
     "location": "台北市中山區雙城街、農安街一帶",
     "openDays": "每日",
     "description": "中山區的傳統夜市，以在地美食與日常用品為主，鄰近晴光市場。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "遼寧街夜市",
@@ -150,7 +182,9 @@
     "location": "台北市中山區遼寧街",
     "openDays": "每日",
     "description": "中山區的小型夜市，以海產店與熱炒店聞名，富有在地人生活氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "石牌夜市",
@@ -159,7 +193,9 @@
     "location": "台北市北投區石牌路一段、自強街一帶",
     "openDays": "每日",
     "description": "北投區的在地夜市，以傳統小吃與市場採買為主，深受當地居民喜愛。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "林口街夜市",
@@ -168,7 +204,9 @@
     "location": "台北市信義區林口街",
     "openDays": "每日",
     "description": "信義計畫區旁的平價夜市，以日常小吃與服飾為主，是在地人覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "737夜市",
@@ -177,7 +215,9 @@
     "location": "台北市內湖區內湖路一段737巷",
     "openDays": "每日",
     "description": "內湖科學園區旁的巷弄夜市，以上班族與居民客群為主，平價美食豐富。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "社子夜市",
@@ -186,7 +226,9 @@
     "location": "台北市士林區社子街、社中街一帶",
     "openDays": "每日",
     "description": "社子島的在地夜市，以傳統市場與小吃攤為主，保有純樸風貌。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "樂華夜市",
@@ -195,7 +237,9 @@
     "location": "新北市永和區永平路、保平路一帶",
     "openDays": "每日",
     "description": "永和最具規模的夜市，以多樣化美食與服飾聞名，是新南夜市的代表。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "湳雅夜市",
@@ -204,7 +248,9 @@
     "location": "新北市板橋區南雅東路、南雅西路一帶",
     "openDays": "每日",
     "description": "板橋最早開發的夜市，以傳統美食與日常百貨聞名，富有在地歷史風味。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "裕民夜市",
@@ -213,7 +259,9 @@
     "location": "新北市板橋區裕民路、四川路一帶",
     "openDays": "每日",
     "description": "板橋新興夜市，鄰近新板特區，以年輕客群與多樣美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三和夜市",
@@ -222,7 +270,9 @@
     "location": "新北市三重區三和路、自强路一帶",
     "openDays": "每日",
     "description": "三重區的主要夜市，以傳統小吃與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中和興南夜市",
@@ -231,7 +281,9 @@
     "location": "新北市中和區興南路、景新街一帶",
     "openDays": "每日",
     "description": "中和區的傳統夜市，以平價美食與日常採買為主，富有在地生活氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "樹林興仁花園夜市",
@@ -240,7 +292,9 @@
     "location": "新北市樹林區興仁街、保安街一帶",
     "openDays": "週三五日",
     "description": "新北大型花園夜市，以大面積、多攤位聞名，週末吸引大量人潮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "樹林夜市",
@@ -249,7 +303,9 @@
     "location": "新北市樹林區樹新路、中山路一帶",
     "openDays": "每日",
     "description": "樹林區的傳統夜市，以日常小吃與市場採買為主，是在地人生活圈。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新莊廟街夜市",
@@ -258,7 +314,9 @@
     "location": "新北市新莊區新莊路、景德路一帶",
     "openDays": "每日",
     "description": "新莊老街周邊的夜市，以傳統美食與歷史文化聞名，鄰近慈祐宮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "蘆洲廟口夜市",
@@ -267,7 +325,9 @@
     "location": "新北市蘆洲區湧蓮寺前、成功路一帶",
     "openDays": "每日",
     "description": "蘆洲湧蓮寺前的夜市，以傳統小吃與宗教文化結合為特色。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "淡水英專夜市",
@@ -276,7 +336,9 @@
     "location": "新北市淡水區英專路、學府路一帶",
     "openDays": "每日",
     "description": "淡水真理大學旁的學生夜市，以平價美食聞名，鄰近淡水老街。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "汐止觀光夜市",
@@ -285,7 +347,9 @@
     "location": "新北市汐止區連興路、新台五路一帶",
     "openDays": "每日",
     "description": "汐止區的觀光夜市，以多樣化美食與日常用品為主，服務當地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "金山夜市",
@@ -294,7 +358,9 @@
     "location": "新北市金山區金包里街、中山路一帶",
     "openDays": "週二六",
     "description": "金山老街的週末夜市，以金山鴨肉聞名，結合溫泉與老街文化。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鶯歌夜市",
@@ -303,7 +369,9 @@
     "location": "新北市鶯歌區陶瓷老街、文化路一帶",
     "openDays": "週六",
     "description": "鶯歌陶瓷老街的週末夜市，結合陶瓷文化與在地美食，富有藝術氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "林口夜市",
@@ -312,7 +380,9 @@
     "location": "新北市林口區文化北路、麗園路一帶",
     "openDays": "週三日",
     "description": "林口區的週末夜市，以平價美食與日常用品為主，服務新興社區居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "深坑慈聖夜市",
@@ -321,7 +391,9 @@
     "location": "新北市深坑區深坑街、北深路一帶",
     "openDays": "週二五",
     "description": "深坑老街的週末夜市，以豆腐料理聞名，結合老街與自然景觀。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "桃園觀光夜市",
@@ -330,7 +402,9 @@
     "location": "桃園市桃園區中正路、北埔路一帶",
     "openDays": "每日",
     "description": "桃園市最大的觀光夜市，以多樣化美食與遊戲攤位聞名，深受當地居民喜愛。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中壢觀光夜市",
@@ -339,7 +413,9 @@
     "location": "桃園市中壢區新明路、中央西路一帶",
     "openDays": "每日",
     "description": "中壢區的主要夜市，以傳統小吃與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中原夜市",
@@ -348,7 +424,9 @@
     "location": "桃園市中壢區中原大學周邊、實踐路一帶",
     "openDays": "每日",
     "description": "中原大學旁的學生型夜市，以平價美食與異國料理聞名，充滿青春氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "興仁花園夜市",
@@ -357,7 +435,9 @@
     "location": "桃園市八德區興仁路、介壽路一帶",
     "openDays": "週二五六日",
     "description": "八德區的大型花園夜市，以大面積、多樣攤位聞名，週末人潮洶湧。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "楊梅觀光夜市",
@@ -366,7 +446,9 @@
     "location": "桃園市楊梅區中山北路、楊新路一帶",
     "openDays": "週五",
     "description": "楊梅區的週末夜市，以傳統小吃與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大溪夜市",
@@ -375,7 +457,9 @@
     "location": "桃園市大溪區慈康路、仁和路一帶",
     "openDays": "週四",
     "description": "大溪老街周邊的週四夜市，結合老街文化與在地美食，富有懷舊風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "南崁五福夜市",
@@ -384,7 +468,9 @@
     "location": "桃園市蘆竹區南崁路、五福路一帶",
     "openDays": "週二五六",
     "description": "蘆竹南崁的週末夜市，以平價美食與日常用品為主，服務新興社區。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "城隍廟夜市",
@@ -393,7 +479,9 @@
     "location": "新竹市北區中山路、東門街一帶",
     "openDays": "每日",
     "description": "新竹城隍廟周邊的傳統夜市，以米粉、貢丸等新竹特產美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "清大夜市",
@@ -402,7 +490,9 @@
     "location": "新竹市東區清華大學周邊、建功路一帶",
     "openDays": "每日",
     "description": "清華大學旁的學生型夜市，以平價美食與日常用品為主，充滿學生氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中正台夜市",
@@ -411,7 +501,9 @@
     "location": "新竹市東區中正路、台灣大道一帶",
     "openDays": "每日",
     "description": "新竹市東區的傳統夜市，以多樣化美食與服飾為主，是在地人覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "苗栗英才觀光夜市",
@@ -420,7 +512,9 @@
     "location": "苗栗市英才路、自治路一帶",
     "openDays": "週三五日",
     "description": "苗栗市的主要觀光夜市，以傳統小吃與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "苑裡夜市",
@@ -429,7 +523,9 @@
     "location": "苗栗縣苑裡鎮中山路、世界路一帶",
     "openDays": "週六",
     "description": "苑裡鎮的週末夜市，以傳統小吃與農特產品聞名，富有海線風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "通霄夜市",
@@ -438,7 +534,9 @@
     "location": "苗栗縣通霄鎮中山路、中正路一帶",
     "openDays": "週五",
     "description": "通霄鎮的週末夜市，以海產小吃與日常用品為主，鄰近通霄海水浴場。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三義夜市",
@@ -447,7 +545,9 @@
     "location": "苗栗縣三義鄉中正路、廣盛路一帶",
     "openDays": "週五",
     "description": "三義木雕老街的週末夜市，結合木雕文化與客家美食，富有藝術氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "南庄夜市",
@@ -456,7 +556,9 @@
     "location": "苗栗縣南庄鄉中山路、民生路一帶",
     "openDays": "週六",
     "description": "南庄老街的週末夜市，以客家美食與桂花巷文化聞名，富有山城風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "逢甲夜市",
@@ -465,7 +567,9 @@
     "location": "台中市西屯區逢甲路、福星路一帶",
     "openDays": "每日",
     "description": "全台最大觀光夜市之一，以創意美食與流行服飾聞名，是台中夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "一中商圈",
@@ -474,7 +578,9 @@
     "location": "台中市北區一中街、太平路一帶",
     "openDays": "每日",
     "description": "台中一中周邊的學生商圈，以平價美食與年輕服飾聞名，充滿青春活力。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中華路夜市",
@@ -483,7 +589,9 @@
     "location": "台中市中區中華路、公園路一帶",
     "openDays": "每日",
     "description": "台中老牌夜市，以傳統小吃與日常用品為主，承載中區的歷史記憶。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "忠孝路夜市",
@@ -492,7 +600,9 @@
     "location": "台中市南區忠孝路、台中路一帶",
     "openDays": "每日",
     "description": "台中南區的傳統夜市，以多樣化美食與日常用品為主，是在地人覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東海別墅夜市",
@@ -501,7 +611,9 @@
     "location": "台中市龍井區東海大學旁、新興路一帶",
     "openDays": "每日",
     "description": "東海大學旁的學生型夜市，以平價美食與異國料理聞名，雞腳凍是必買特產。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "廟東夜市",
@@ -510,7 +622,9 @@
     "location": "台中市豐原區中正路、慈濟宮前",
     "openDays": "每日",
     "description": "豐原慈濟宮前的傳統夜市，以排骨酥麵、鳳梨冰等在地美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "旱溪夜市",
@@ -519,7 +633,9 @@
     "location": "台中市東區旱溪東路、旱溪西路一帶",
     "openDays": "週二四五六",
     "description": "台中东區的週末夜市，以大面積、多樣攤位聞名，週末吸引大量人潮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大慶觀光夜市",
@@ -528,7 +644,9 @@
     "location": "台中市南區建國南路、大慶街一帶",
     "openDays": "週三五日",
     "description": "台中南區的大型觀光夜市，以多樣化美食與遊戲攤位聞名，週末人潮洶湧。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大甲蔣公路夜市",
@@ -537,7 +655,9 @@
     "location": "台中市大甲區蔣公路、光明路一帶",
     "openDays": "每日",
     "description": "大甲區的主要夜市，鄰近大甲媽祖廟，以傳統小吃與在地美食聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "捷運總站夜市",
@@ -546,7 +666,9 @@
     "location": "台中市北屯區捷運松竹站、總站一帶",
     "openDays": "週一三五日",
     "description": "捷運總站旁的新興夜市，以平價美食與日常用品為主，交通便利。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "太原夜市",
@@ -555,7 +677,9 @@
     "location": "台中市北屯區太原路、旱溪東路一帶",
     "openDays": "每日",
     "description": "北屯區的傳統夜市，以多樣化美食與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "彰化中央陸橋夜市",
@@ -564,7 +688,9 @@
     "location": "彰化市中央陸橋下、中華路一帶",
     "openDays": "週二五日",
     "description": "彰化市的主要夜市，以傳統小吃與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "彰化精誠夜市",
@@ -573,7 +699,9 @@
     "location": "彰化市精誠路、南郭路一帶",
     "openDays": "週三四五六日",
     "description": "彰化市的大型夜市，以多樣化美食與遊戲攤位聞名，週末吸引大量人潮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鹿港鹿和夜市",
@@ -582,7 +710,9 @@
     "location": "彰化縣鹿港鎮鹿和路、中山路一帶",
     "openDays": "週二四日",
     "description": "鹿港老街旁的週末夜市，結合古鎮文化與在地美食，富有懷舊風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "員林龍燈夜市",
@@ -591,7 +721,9 @@
     "location": "彰化縣員林市龍燈公園周邊、中山路一帶",
     "openDays": "週二五六日",
     "description": "員林市的大型夜市，以多樣化美食與遊戲攤位聞名，是南彰化的夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "田中夜市",
@@ -600,7 +732,9 @@
     "location": "彰化縣田中鎮中州路、斗中路一帶",
     "openDays": "週一三",
     "description": "田中鎮的傳統夜市，以平價美食與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "二林王子夜市",
@@ -609,7 +743,9 @@
     "location": "彰化縣二林鎮斗苑路、中正路一帶",
     "openDays": "週二五",
     "description": "二林鎮的週末夜市，以傳統小吃與農特產品為主，富有海線風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "溪湖夜市",
@@ -618,7 +754,9 @@
     "location": "彰化縣溪湖鎮員鹿路、二溪路一帶",
     "openDays": "週五",
     "description": "溪湖鎮的週末夜市，以羊肉料理與傳統小吃聞名，鄰近溪湖糖廠。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "斗六觀光夜市",
@@ -627,7 +765,9 @@
     "location": "雲林縣斗六市中山路、文化路一帶",
     "openDays": "週二六日",
     "description": "斗六市的主要觀光夜市，以多樣化美食與日常用品聞名，是雲林夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "虎尾夜市",
@@ -636,7 +776,9 @@
     "location": "雲林縣虎尾鎮中山路、林森路一帶",
     "openDays": "週五",
     "description": "虎尾鎮的週末夜市，以傳統小吃與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "北港夜市",
@@ -645,7 +787,9 @@
     "location": "雲林縣北港鎮中山路、文化路一帶",
     "openDays": "週三六",
     "description": "北港朝天宮周邊的夜市，以傳統小吃與宗教文化結合為特色，富有歷史風味。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "西螺東南夜市",
@@ -654,7 +798,9 @@
     "location": "雲林縣西螺鎮延平路、中山路一帶",
     "openDays": "週四日",
     "description": "西螺老街旁的週末夜市，以醬油特產與傳統美食聞名，富有文化氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "斗南夜市",
@@ -663,7 +809,9 @@
     "location": "雲林縣斗南鎮中山路、中正路一帶",
     "openDays": "週六",
     "description": "斗南鎮的週末夜市，以傳統小吃與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "嘉義文化路夜市",
@@ -672,7 +820,9 @@
     "location": "嘉義市東區文化路、垂楊路一帶",
     "openDays": "每日",
     "description": "嘉義最知名的夜市，以文化路為主軸，多樣美食與服飾聞名，是嘉義夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "家樂福觀光夜市",
@@ -681,7 +831,9 @@
     "location": "嘉義市西區博愛路、興達路一帶",
     "openDays": "週四五六日",
     "description": "嘉義西區的大型觀光夜市，以多樣化美食與遊戲攤位聞名，週末人潮洶湧。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "花園夜市",
@@ -690,7 +842,9 @@
     "location": "台南市北區海安路、和緯路一帶",
     "openDays": "週四至日",
     "description": "台南最大的夜市之一，以大面積、多樣攤位聞名，是台南夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大東夜市",
@@ -699,7 +853,9 @@
     "location": "台南市東區林森路、崇善路一帶",
     "openDays": "週一二五",
     "description": "台南東區的知名夜市，以多樣化美食與遊戲攤位聞名，週末吸引大量人潮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "武聖夜市",
@@ -708,7 +864,9 @@
     "location": "台南市中西區武聖路、中正路一帶",
     "openDays": "週三五",
     "description": "台南中西區的傳統夜市，以多樣美食與日常用品聞名，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "小北觀光夜市",
@@ -717,7 +875,9 @@
     "location": "台南市北區小北路、西門路一帶",
     "openDays": "每日",
     "description": "台南北區的觀光夜市，以傳統小吃與日常用品為主，富有在地生活氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新永華夜市",
@@ -726,7 +886,9 @@
     "location": "台南市安平區永華路、建平路一帶",
     "openDays": "週四日",
     "description": "安平區的新興夜市，以多樣化美食與海港風情聞名，鄰近安平古堡。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "善化夜市",
@@ -735,7 +897,9 @@
     "location": "台南市善化區中山路、光復路一帶",
     "openDays": "週二五日",
     "description": "善化區的週末夜市，以傳統小吃與日常用品為主，服務在地居民。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新營中華路夜市",
@@ -744,7 +908,9 @@
     "location": "台南市新營區中華路、民治路一帶",
     "openDays": "週六",
     "description": "新營區的週末夜市，以傳統小吃與日常用品為主，是溪北地區的夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鹽水夜市",
@@ -753,7 +919,9 @@
     "location": "台南市鹽水區中山路、月津路一帶",
     "openDays": "週三",
     "description": "鹽水老街的週末夜市，以意麵、蜂炮文化聞名，富有歷史風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "六合觀光夜市",
@@ -762,7 +930,9 @@
     "location": "高雄市新興區六合二路",
     "openDays": "每日",
     "description": "高雄最具代表性的觀光夜市，以各式小吃聞名，是國內外遊客必訪景點。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "瑞豐夜市",
@@ -771,7 +941,9 @@
     "location": "高雄市左營區裕誠路、南屏路一帶",
     "openDays": "週二四五六日",
     "description": "高雄規模最大的夜市，以多樣化美食與服飾聞名，週末吸引大量人潮。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鳳山青年夜市",
@@ -780,7 +952,9 @@
     "location": "高雄市鳳山區青年路、光復路一帶",
     "openDays": "週一四五六日",
     "description": "鳳山區的大型夜市，以多樣化美食與遊戲攤位聞名，是高雄縣市合併後的夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "忠孝夜市",
@@ -789,7 +963,9 @@
     "location": "高雄市苓雅區忠孝路、四維路一帶",
     "openDays": "每日",
     "description": "高雄苓雅區的傳統夜市，以多樣美食與日常用品聞名，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "凱旋夜市",
@@ -798,7 +974,9 @@
     "location": "高雄市前鎮區凱旋路、時代大道一帶",
     "openDays": "每日",
     "description": "高雄前鎮區的大型夜市，鄰近夢時代購物中心，以多樣美食與遊戲攤位聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "旗山夜市",
@@ -807,7 +985,9 @@
     "location": "高雄市旗山區中山路、延平路一帶",
     "openDays": "週二六",
     "description": "旗山老街的週末夜市，以香蕉特產與傳統美食聞名，富有山城風情。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "美濃夜市",
@@ -816,7 +996,9 @@
     "location": "高雄市美濃區中山路、中正路一帶",
     "openDays": "週五",
     "description": "美濃區的週末夜市，以客家美食與傳統小吃聞名，富有客家文化氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "岡山夜市",
@@ -825,7 +1007,9 @@
     "location": "高雄市岡山區中山路、壽天路一帶",
     "openDays": "週二六",
     "description": "岡山區的週末夜市，以羊肉料理與傳統小吃聞名，鄰近岡山羊肉文化節。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "恆春夜市",
@@ -834,7 +1018,9 @@
     "location": "屏東縣恆春鎮恆南路、中山路一帶",
     "openDays": "每日",
     "description": "恆春古城的夜市，以在地小吃與南國風情聞名，是墾丁旅遊的美食補給站。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "屏東夜市",
@@ -843,7 +1029,9 @@
     "location": "屏東市中山路、民族路一帶",
     "openDays": "每日",
     "description": "屏東市的主要夜市，以傳統小吃與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "潮州夜市",
@@ -852,7 +1040,9 @@
     "location": "屏東縣潮州鎮中山路、光復路一帶",
     "openDays": "週一五六日",
     "description": "潮州鎮的週末夜市，以傳統小吃與農特產品聞名，富有在地生活氣息。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東港夜市",
@@ -861,7 +1051,9 @@
     "location": "屏東縣東港鎮中山路、光復路一帶",
     "openDays": "週五六日",
     "description": "東港鎮的週末夜市，以黑鮪魚等海產小吃聞名，鄰近東港漁港。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "羅東夜市",
@@ -870,7 +1062,9 @@
     "location": "宜蘭縣羅東鎮民生路、興東路一帶",
     "openDays": "每日",
     "description": "宜蘭最知名的夜市，以龍鳳腿、羊肉湯等在地美食聞名，是宜蘭夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東門觀光夜市",
@@ -879,7 +1073,9 @@
     "location": "宜蘭市東港路、聖後街一帶",
     "openDays": "每日",
     "description": "宜蘭市的主要觀光夜市，以多樣化美食與日常用品聞名，鄰近宜蘭河濱公園。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "礁溪溫泉夜市",
@@ -888,7 +1084,9 @@
     "location": "宜蘭縣礁溪鄉礁溪路、德陽路一帶",
     "openDays": "週日",
     "description": "礁溪溫泉區的週日夜市，以溫泉番茄、刈包等在地美食聞名，結合溫泉文化。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東大門夜市",
@@ -897,7 +1095,9 @@
     "location": "花蓮市中山路、重慶路一帶",
     "openDays": "每日",
     "description": "花蓮最大的夜市，整合自強、彩虹等夜市，以多樣化美食與原住民料理聞名。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中華路夜市",
@@ -906,7 +1106,9 @@
     "location": "花蓮市中華路、中山路一帶",
     "openDays": "每日",
     "description": "花蓮市區的傳統夜市，以平價美食與日常用品為主，是在地人的覓食好去處。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "台東觀光夜市",
@@ -915,7 +1117,9 @@
     "location": "台東市中山路、新生路一帶",
     "openDays": "週四五六日",
     "description": "台東市的主要觀光夜市，以多樣化美食與原住民料理聞名，是台東夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "關山夜市",
@@ -924,7 +1128,9 @@
     "location": "台東縣關山鎮中山路、民生路一帶",
     "openDays": "週六",
     "description": "關山鎮的週末夜市，以傳統小吃與農特產品聞名，鄰近關山親水公園。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "馬公夜市",
@@ -933,7 +1139,9 @@
     "location": "澎湖縣馬公市中山路、民權路一帶",
     "openDays": "週三六",
     "description": "馬公市的主要夜市，以海產小吃與澎湖特產聞名，是離島夜生活指標。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "金城模範街夜市",
@@ -942,7 +1150,9 @@
     "location": "金門縣金城鎮模範街、莒光路一帶",
     "openDays": "週六日",
     "description": "金城模範街的週末夜市，以金門特產與傳統美食聞名，結合閩南建築文化。",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "迪化街",
@@ -951,7 +1161,9 @@
     "location": "台北市大同區迪化街",
     "openDays": "每日",
     "description": "中藥材乾貨年貨大街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "艋舺老街",
@@ -960,7 +1172,9 @@
     "location": "台北市萬華區貴陽街",
     "openDays": "每日",
     "description": "一府二鹿三艋舺",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "剝皮寮老街",
@@ -969,7 +1183,9 @@
     "location": "台北市萬華區康定路",
     "openDays": "每日",
     "description": "清代街屋文化保留區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "淡水老街",
@@ -978,7 +1194,9 @@
     "location": "新北市淡水區中正路",
     "openDays": "每日",
     "description": "鐵蛋阿給知名觀光老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "深坑老街",
@@ -987,7 +1205,9 @@
     "location": "新北市深坑區深坑街",
     "openDays": "每日",
     "description": "豆腐老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "烏來老街",
@@ -996,7 +1216,9 @@
     "location": "新北市烏來區烏來街",
     "openDays": "每日",
     "description": "原住民風味",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "菁桐老街",
@@ -1005,7 +1227,9 @@
     "location": "新北市平溪區菁桐街",
     "openDays": "每日",
     "description": "菁桐車站周邊老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "平溪老街",
@@ -1014,7 +1238,9 @@
     "location": "新北市平溪區平溪街",
     "openDays": "每日",
     "description": "天燈故鄉",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "十分老街",
@@ -1023,7 +1249,9 @@
     "location": "新北市平溪區十分街",
     "openDays": "每日",
     "description": "天燈",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "九份老街",
@@ -1032,7 +1260,9 @@
     "location": "新北市瑞芳區基山街",
     "openDays": "每日",
     "description": "礦業山城",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三峽老街",
@@ -1041,7 +1271,9 @@
     "location": "新北市三峽區民權街",
     "openDays": "每日",
     "description": "巴洛克牌樓金牛角",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鶯歌老街",
@@ -1050,7 +1282,9 @@
     "location": "新北市鶯歌區文化路",
     "openDays": "每日",
     "description": "陶瓷",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大溪老街",
@@ -1059,7 +1293,9 @@
     "location": "桃園市大溪區和平路",
     "openDays": "每日",
     "description": "巴洛克牌樓街屋",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三坑老街",
@@ -1068,7 +1304,9 @@
     "location": "桃園市龍潭區三坑子",
     "openDays": "每日",
     "description": "步廊式街屋",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "內灣老街",
@@ -1077,7 +1315,9 @@
     "location": "新竹縣橫山鄉內灣村",
     "openDays": "每日",
     "description": "內灣戲院",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "湖口老街",
@@ -1086,7 +1326,9 @@
     "location": "新竹縣湖口鄉湖口老街",
     "openDays": "每日",
     "description": "湖口老街三元宮周邊",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新埔老街",
@@ -1095,7 +1337,9 @@
     "location": "新竹縣新埔鎮中正路",
     "openDays": "每日",
     "description": "新埔地區歷史老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "北埔老街",
@@ -1104,7 +1348,9 @@
     "location": "新竹縣北埔鄉北埔街",
     "openDays": "每日",
     "description": "客家老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "關西老街",
@@ -1113,7 +1359,9 @@
     "location": "新竹縣關西鎮",
     "openDays": "每日",
     "description": "關西地區歷史老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "南庄老街",
@@ -1122,7 +1370,9 @@
     "location": "苗栗縣南庄鄉中山路",
     "openDays": "每日",
     "description": "油桐花桂花巷",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "苑裡老街",
@@ -1131,7 +1381,9 @@
     "location": "苗栗縣苑裡鎮",
     "openDays": "每日",
     "description": "苑裡地區歷史老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三義老街",
@@ -1140,7 +1392,9 @@
     "location": "苗栗縣三義鄉",
     "openDays": "每日",
     "description": "木雕",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鹿港老街",
@@ -1149,7 +1403,9 @@
     "location": "彰化縣鹿港鎮瑤林街",
     "openDays": "每日",
     "description": "一府二鹿三艋舺閩南建築",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "溪湖老街",
@@ -1158,7 +1414,9 @@
     "location": "彰化縣溪湖鎮",
     "openDays": "每日",
     "description": "溪湖老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "集集老街",
@@ -1167,7 +1425,9 @@
     "location": "南投縣集集鎮",
     "openDays": "每日",
     "description": "集集老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "車埕老街",
@@ -1176,7 +1436,9 @@
     "location": "南投縣水里鄉車埕",
     "openDays": "每日",
     "description": "車埕老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "竹山老街",
@@ -1185,7 +1447,9 @@
     "location": "南投縣竹山鎮",
     "openDays": "每日",
     "description": "林圯埔老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "太平老街",
@@ -1194,7 +1458,9 @@
     "location": "雲林縣斗六市太平路",
     "openDays": "每日",
     "description": "斗六太平老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "北港老街",
@@ -1203,7 +1469,9 @@
     "location": "雲林縣北港鎮",
     "openDays": "每日",
     "description": "北港老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "虎尾老街",
@@ -1212,7 +1480,9 @@
     "location": "雲林縣虎尾鎮",
     "openDays": "每日",
     "description": "虎尾老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "奮起湖老街",
@@ -1221,7 +1491,9 @@
     "location": "嘉義縣竹崎鄉奮起湖",
     "openDays": "每日",
     "description": "阿里山鐵道中繼站",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "朴子老街",
@@ -1230,7 +1502,9 @@
     "location": "嘉義縣朴子市",
     "openDays": "每日",
     "description": "朴子老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "安平老街",
@@ -1239,7 +1513,9 @@
     "location": "台南市安平區延平街",
     "openDays": "每日",
     "description": "台灣第一街棺材板",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "神農老街",
@@ -1248,7 +1524,9 @@
     "location": "台南市中西區神農街",
     "openDays": "每日",
     "description": "北勢老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鹽水老街",
@@ -1257,7 +1535,9 @@
     "location": "台南市鹽水區",
     "openDays": "每日",
     "description": "鹽水意麵八角樓",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "麻豆老街",
@@ -1266,7 +1546,9 @@
     "location": "台南市麻豆區",
     "openDays": "每日",
     "description": "麻豆碗粿",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新化老街",
@@ -1275,7 +1557,9 @@
     "location": "台南市新化區",
     "openDays": "每日",
     "description": "巴洛克牌樓",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "旗津老街",
@@ -1284,7 +1568,9 @@
     "location": "高雄市旗津區通山路",
     "openDays": "每日",
     "description": "通山老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鹽埕老街",
@@ -1293,7 +1579,9 @@
     "location": "高雄市鹽埕區",
     "openDays": "每日",
     "description": "鹽埕老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "哈瑪星老街",
@@ -1302,7 +1590,9 @@
     "location": "高雄市鼓山區哈瑪星",
     "openDays": "每日",
     "description": "新濱老街",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "恆春老街",
@@ -1311,7 +1601,9 @@
     "location": "屏東縣恆春鎮",
     "openDays": "每日",
     "description": "恆春老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "頭城老街",
@@ -1320,7 +1612,9 @@
     "location": "宜蘭縣頭城鎮和平街",
     "openDays": "每日",
     "description": "頭城老街歷史街區",
-    "type": "老街"
+    "type": "老街",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "基隆廟口商圈",
@@ -1329,7 +1623,9 @@
     "location": "基隆市仁愛區仁三路",
     "openDays": "每日",
     "description": "基隆最知名美食商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "西門商圈",
@@ -1338,7 +1634,9 @@
     "location": "台北市萬華區西門町",
     "openDays": "每日",
     "description": "年輕人潮流聚集地",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東區商圈",
@@ -1347,7 +1645,9 @@
     "location": "台北市大安區忠孝東路",
     "openDays": "每日",
     "description": "忠孝東路購物商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "公館商圈",
@@ -1356,7 +1656,9 @@
     "location": "台北市大安區羅斯福路",
     "openDays": "每日",
     "description": "台大學區商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "信義商圈",
@@ -1365,7 +1667,9 @@
     "location": "台北市信義區信義計畫區",
     "openDays": "每日",
     "description": "台北101購物區",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "南京東路商圈",
@@ -1374,7 +1678,9 @@
     "location": "台北市中山區南京東路",
     "openDays": "每日",
     "description": "精品購物商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "板橋商圈",
@@ -1383,7 +1689,9 @@
     "location": "新北市板橋區府中路",
     "openDays": "每日",
     "description": "府中站周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "淡水商圈",
@@ -1392,7 +1700,9 @@
     "location": "新北市淡水區中正路",
     "openDays": "每日",
     "description": "淡水老街周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新店商圈",
@@ -1401,7 +1711,9 @@
     "location": "新北市新店區",
     "openDays": "每日",
     "description": "新店商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中壢商圈",
@@ -1410,7 +1722,9 @@
     "location": "桃園市中壢區",
     "openDays": "每日",
     "description": "中原大學周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "桃園商圈",
@@ -1419,7 +1733,9 @@
     "location": "桃園市桃園區",
     "openDays": "每日",
     "description": "站前商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "城隍廟商圈",
@@ -1428,7 +1744,9 @@
     "location": "新竹市北區",
     "openDays": "每日",
     "description": "新竹美食聚集地",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "清大商圈",
@@ -1437,7 +1755,9 @@
     "location": "新竹市東區",
     "openDays": "每日",
     "description": "清華大學周邊商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "一中商圈",
@@ -1446,7 +1766,9 @@
     "location": "台中市北區一中街",
     "openDays": "每日",
     "description": "台中一中街",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "逢甲商圈",
@@ -1455,7 +1777,9 @@
     "location": "台中市西屯區逢甲路",
     "openDays": "每日",
     "description": "逢甲大學周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "勤美商圈",
@@ -1464,7 +1788,9 @@
     "location": "台中市西區公益路",
     "openDays": "每日",
     "description": "草悟道周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東海商圈",
@@ -1473,7 +1799,9 @@
     "location": "台中市龍井區東海大學周邊",
     "openDays": "每日",
     "description": "東海大學周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "天津商圈",
@@ -1482,7 +1810,9 @@
     "location": "台中市北屯區天津路",
     "openDays": "每日",
     "description": "天津商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "文化路商圈",
@@ -1491,7 +1821,9 @@
     "location": "嘉義市東區文化路",
     "openDays": "每日",
     "description": "嘉義最熱鬧美食街",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中正商圈",
@@ -1500,7 +1832,9 @@
     "location": "台南市中西區中正路",
     "openDays": "每日",
     "description": "台南百年商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "海安商圈",
@@ -1509,7 +1843,9 @@
     "location": "台南市中西區海安路",
     "openDays": "每日",
     "description": "海安路藝術街",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新堀江商圈",
@@ -1518,7 +1854,9 @@
     "location": "高雄市新興區新堀江",
     "openDays": "每日",
     "description": "年輕人潮流商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "漢神商圈",
@@ -1527,7 +1865,9 @@
     "location": "高雄市前鎮區漢神百貨周邊",
     "openDays": "每日",
     "description": "漢神百貨周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "巨蛋商圈",
@@ -1536,7 +1876,9 @@
     "location": "高雄市左營區漢神巨蛋周邊",
     "openDays": "每日",
     "description": "漢神巨蛋周邊",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "屏東市區商圈",
@@ -1545,7 +1887,9 @@
     "location": "屏東市",
     "openDays": "每日",
     "description": "屏東市區商圈",
-    "type": "商圈"
+    "type": "商圈",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "竹北夜市",
@@ -1554,7 +1898,9 @@
     "location": "新竹縣竹北市竹北夜市",
     "openDays": "每日",
     "description": "竹北市最大規模夜市，每日營業",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新豐夜市",
@@ -1563,7 +1909,9 @@
     "location": "新竹縣新豐鄉新豐夜市",
     "openDays": "週一",
     "description": "新豐鄉每週一營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "竹東夜市",
@@ -1572,7 +1920,9 @@
     "location": "新竹縣竹東鎮竹東夜市",
     "openDays": "週二五日",
     "description": "竹東鎮週二五六日營業的熱鬧夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "湖口夜市",
@@ -1581,7 +1931,9 @@
     "location": "新竹縣湖口鄉湖口夜市",
     "openDays": "週四日",
     "description": "湖口鄉週四日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新埔夜市",
@@ -1590,7 +1942,9 @@
     "location": "新竹縣新埔鎮新埔夜市",
     "openDays": "週五",
     "description": "新埔鎮每週五營業的小型夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大園廟口夜市",
@@ -1599,7 +1953,9 @@
     "location": "桃園市大園區大園廟口夜市",
     "openDays": "每日",
     "description": "大園區廟口旁每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大園夜市",
@@ -1608,7 +1964,9 @@
     "location": "桃園市大園區大園夜市",
     "openDays": "每日",
     "description": "大園區另一座每日營業的夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新屋夜市",
@@ -1617,7 +1975,9 @@
     "location": "桃園市新屋區新屋夜市",
     "openDays": "每日",
     "description": "新屋區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "甘泉夜市",
@@ -1626,7 +1986,9 @@
     "location": "桃園市觀音區甘泉夜市",
     "openDays": "每日",
     "description": "觀音區甘泉寺旁每日營業的夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新興夜市",
@@ -1635,7 +1997,9 @@
     "location": "新北市板橋區新興夜市",
     "openDays": "每日",
     "description": "板橋區新興路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "板橋莒光路夜市",
@@ -1644,7 +2008,9 @@
     "location": "新北市板橋區板橋莒光路夜市",
     "openDays": "每日",
     "description": "板橋莒光路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "三重文化北路夜市",
@@ -1653,7 +2019,9 @@
     "location": "新北市三重區三重文化北路夜市",
     "openDays": "每日",
     "description": "三重文化北路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "積穗夜市",
@@ -1662,7 +2030,9 @@
     "location": "新北市中和區積穗夜市",
     "openDays": "每日",
     "description": "中和區積穗每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "蘆洲信義路攤集區",
@@ -1671,7 +2041,9 @@
     "location": "新北市蘆洲區蘆洲信義路攤集區",
     "openDays": "每日",
     "description": "蘆洲信義路每日營業的攤販集區",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "淡水沙崙夜市",
@@ -1680,7 +2052,9 @@
     "location": "新北市淡水區淡水沙崙夜市",
     "openDays": "每日",
     "description": "淡水沙崙每日營業的海邊夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "集應廟夜市",
@@ -1689,7 +2063,9 @@
     "location": "新北市淡水區集應廟夜市",
     "openDays": "每日",
     "description": "淡水集應廟旁每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鶯歌龍鳳夜市",
@@ -1698,7 +2074,9 @@
     "location": "新北市鶯歌區鶯歌龍鳳夜市",
     "openDays": "每日",
     "description": "鶯歌龍鳳路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "鶯歌南雅夜市",
@@ -1707,7 +2085,9 @@
     "location": "新北市鶯歌區鶯歌南雅夜市",
     "openDays": "每日",
     "description": "鶯歌南雅路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "尖山路國中街口假日夜市",
@@ -1716,7 +2096,9 @@
     "location": "新北市樹林區尖山路國中街口假日夜市",
     "openDays": "週六日",
     "description": "樹林尖山路週六日營業的假日夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "汐止樟樹灣夜市",
@@ -1725,7 +2107,9 @@
     "location": "新北市汐止區汐止樟樹灣夜市",
     "openDays": "每日",
     "description": "汐止樟樹灣每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "福壽街夜市",
@@ -1734,7 +2118,9 @@
     "location": "新北市中和區福壽街夜市",
     "openDays": "每日",
     "description": "中和福壽街每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "四腳亭吉安宮夜市",
@@ -1743,7 +2129,9 @@
     "location": "新北市瑞芳區四腳亭吉安宮夜市",
     "openDays": "週六日",
     "description": "瑞芳四腳亭吉安宮週六日營業的假日夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "西昌街觀光夜市",
@@ -1752,7 +2140,9 @@
     "location": "台北市萬華區西昌街觀光夜市",
     "openDays": "每日",
     "description": "萬華西昌街每日營業的傳統觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "梧州街觀光夜市",
@@ -1761,7 +2151,9 @@
     "location": "台北市萬華區梧州街觀光夜市",
     "openDays": "每日",
     "description": "萬華梧州街每日營業的傳統觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "廣州街觀光夜市",
@@ -1770,7 +2162,9 @@
     "location": "台北市萬華區廣州街觀光夜市",
     "openDays": "每日",
     "description": "萬華廣州街每日營業的傳統觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "勝利夜市",
@@ -1779,7 +2173,9 @@
     "location": "台中市北屯區勝利夜市",
     "openDays": "每日",
     "description": "北屯區勝利路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "太平東平夜市",
@@ -1788,7 +2184,9 @@
     "location": "台中市太平區太平東平夜市",
     "openDays": "每日",
     "description": "太平東平路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "石岡和平街夜市",
@@ -1797,7 +2195,9 @@
     "location": "台中市石岡區石岡和平街夜市",
     "openDays": "每日",
     "description": "石岡和平街每日營業的小型夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "后里夜市",
@@ -1806,7 +2206,9 @@
     "location": "台中市后里區后里夜市",
     "openDays": "每日",
     "description": "后里區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "靜宜夜市",
@@ -1815,7 +2217,9 @@
     "location": "台中市龍井區靜宜夜市",
     "openDays": "每日",
     "description": "靜宜大學旁每日營業的學區夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "潭子勝利夜市",
@@ -1824,7 +2228,9 @@
     "location": "台中市潭子區潭子勝利夜市",
     "openDays": "每日",
     "description": "潭子勝利路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "龍津夜市",
@@ -1833,7 +2239,9 @@
     "location": "台中市龍井區龍津夜市",
     "openDays": "每日",
     "description": "龍井區龍津每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "豐原廟東夜市",
@@ -1842,7 +2250,9 @@
     "location": "台中市豐原區豐原廟東夜市",
     "openDays": "每日",
     "description": "豐原廟東商圈每日營業的知名夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "葫蘆墩觀光夜市",
@@ -1851,7 +2261,9 @@
     "location": "台中市豐原區葫蘆墩觀光夜市",
     "openDays": "每日",
     "description": "豐原葫蘆墩公園旁每日營業的觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大雅雅潭夜市",
@@ -1860,7 +2272,9 @@
     "location": "台中市大雅區大雅雅潭夜市",
     "openDays": "每日",
     "description": "大雅雅潭路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "清水五權夜市",
@@ -1869,7 +2283,9 @@
     "location": "台中市清水區清水五權夜市",
     "openDays": "每日",
     "description": "清水五權路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "外埔夜市",
@@ -1878,7 +2294,9 @@
     "location": "台中市外埔區外埔夜市",
     "openDays": "每日",
     "description": "外埔區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.9148676,
+    "lng": 120.9835684
   },
   {
     "name": "大肚夜市",
@@ -1887,7 +2305,9 @@
     "location": "台中市大肚區大肚夜市",
     "openDays": "每日",
     "description": "大肚區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.1553817,
+    "lng": 120.5452337
   },
   {
     "name": "四張犁夜市",
@@ -1896,7 +2316,9 @@
     "location": "台中市北屯區四張犁夜市",
     "openDays": "每日",
     "description": "北屯四張犁每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.1944742,
+    "lng": 120.6792858
   },
   {
     "name": "昌平夜市",
@@ -1905,7 +2327,9 @@
     "location": "台中市北屯區昌平夜市",
     "openDays": "每日",
     "description": "北屯昌平路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.1066756,
+    "lng": 120.7183101
   },
   {
     "name": "漁人町星光市集",
@@ -1914,7 +2338,9 @@
     "location": "台中市西屯區漁人町星光市集",
     "openDays": "每日",
     "description": "西屯漁人町每日營業的星空市集",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "光華夜市",
@@ -1923,7 +2349,9 @@
     "location": "高雄市前鎮區光華夜市",
     "openDays": "每日",
     "description": "前鎮光華路每日營業的傳統夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.6168929,
+    "lng": 120.31823
   },
   {
     "name": "自強夜市",
@@ -1932,7 +2360,9 @@
     "location": "高雄市前鎮區自強夜市",
     "openDays": "每日",
     "description": "前鎮自強路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.9709824,
+    "lng": 121.6107239
   },
   {
     "name": "興中夜市",
@@ -1941,7 +2371,9 @@
     "location": "高雄市苓雅區興中夜市",
     "openDays": "每日",
     "description": "苓雅興中路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.5861623,
+    "lng": 120.3073963
   },
   {
     "name": "大東東夜市",
@@ -1950,7 +2382,9 @@
     "location": "台南市東區大東東夜市",
     "openDays": "每日",
     "description": "東區大東東每日營業的熱鬧夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.9824949,
+    "lng": 120.2188806
   },
   {
     "name": "永康鹽行夜市",
@@ -1959,7 +2393,9 @@
     "location": "台南市永康區永康鹽行夜市",
     "openDays": "每日",
     "description": "永康鹽行每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.0422808,
+    "lng": 120.2357502
   },
   {
     "name": "保安夜市",
@@ -1968,7 +2404,9 @@
     "location": "台南市仁德區保安夜市",
     "openDays": "每日",
     "description": "仁德保安每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.9214454,
+    "lng": 120.237251
   },
   {
     "name": "中華夜市",
@@ -1977,7 +2415,9 @@
     "location": "台南市中西區中華夜市",
     "openDays": "每日",
     "description": "中西區中華路每日營業的傳統夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.1510694,
+    "lng": 120.6503305
   },
   {
     "name": "新市夜市",
@@ -1986,7 +2426,9 @@
     "location": "台南市新市區新市夜市",
     "openDays": "每日",
     "description": "新市區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.1009928,
+    "lng": 120.2835895
   },
   {
     "name": "歸仁夜市",
@@ -1995,7 +2437,9 @@
     "location": "台南市歸仁區歸仁夜市",
     "openDays": "每日",
     "description": "歸仁區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.6423283,
+    "lng": 120.3418779
   },
   {
     "name": "麻豆夜市",
@@ -2004,7 +2448,9 @@
     "location": "台南市麻豆區麻豆夜市",
     "openDays": "每日",
     "description": "麻豆區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.1843721,
+    "lng": 120.2457677
   },
   {
     "name": "佳里夜市",
@@ -2013,7 +2459,9 @@
     "location": "台南市佳里區佳里夜市",
     "openDays": "每日",
     "description": "佳里區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.2382164,
+    "lng": 120.3721808
   },
   {
     "name": "西港夜市",
@@ -2022,7 +2470,9 @@
     "location": "台南市西港區西港夜市",
     "openDays": "每日",
     "description": "西港區每日營業的小型夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.235116,
+    "lng": 120.414103
   },
   {
     "name": "新化夜市",
@@ -2031,7 +2481,9 @@
     "location": "台南市新化區新化夜市",
     "openDays": "每日",
     "description": "新化區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.1009928,
+    "lng": 120.2835895
   },
   {
     "name": "白河夜市",
@@ -2040,7 +2492,9 @@
     "location": "台南市白河區白河夜市",
     "openDays": "每日",
     "description": "白河區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.3510746,
+    "lng": 120.4125394
   },
   {
     "name": "東山夜市",
@@ -2049,7 +2503,9 @@
     "location": "台南市東山區東山夜市",
     "openDays": "每日",
     "description": "東山區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.3229622,
+    "lng": 120.4045311
   },
   {
     "name": "六甲夜市",
@@ -2058,7 +2514,9 @@
     "location": "台南市六甲區六甲夜市",
     "openDays": "每日",
     "description": "六甲區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.2382164,
+    "lng": 120.3721808
   },
   {
     "name": "下營夜市",
@@ -2067,7 +2525,9 @@
     "location": "台南市下營區下營夜市",
     "openDays": "每日",
     "description": "下營區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.2921955,
+    "lng": 120.2746118
   },
   {
     "name": "柳營夜市",
@@ -2076,7 +2536,9 @@
     "location": "台南市柳營區柳營夜市",
     "openDays": "每日",
     "description": "柳營區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.2610891,
+    "lng": 120.311998
   },
   {
     "name": "後壁夜市",
@@ -2085,7 +2547,9 @@
     "location": "台南市後壁區後壁夜市",
     "openDays": "每日",
     "description": "後壁區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.1519791,
+    "lng": 120.2403932
   },
   {
     "name": "楠西夜市",
@@ -2094,7 +2558,9 @@
     "location": "台南市楠西區楠西夜市",
     "openDays": "每日",
     "description": "楠西區每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.1554663,
+    "lng": 120.6527367
   },
   {
     "name": "嘉樂福夜市",
@@ -2103,7 +2569,9 @@
     "location": "嘉義市西區嘉樂福夜市",
     "openDays": "週四五六日",
     "description": "嘉義西區週四五六日營業的大型夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.4713582,
+    "lng": 120.4332225
   },
   {
     "name": "湖美夜市",
@@ -2112,7 +2580,9 @@
     "location": "嘉義市東區湖美夜市",
     "openDays": "每日",
     "description": "嘉義東區湖美每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 25.0015685,
+    "lng": 121.552998
   },
   {
     "name": "彌陀夜市",
@@ -2121,7 +2591,9 @@
     "location": "嘉義市東區彌陀夜市",
     "openDays": "每日",
     "description": "嘉義東區彌陀每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.4647982,
+    "lng": 120.4661076
   },
   {
     "name": "花壇夜市",
@@ -2130,7 +2602,9 @@
     "location": "彰化縣花壇鄉花壇夜市",
     "openDays": "每日",
     "description": "花壇鄉每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.0281506,
+    "lng": 120.5426629
   },
   {
     "name": "後龍夜市",
@@ -2139,7 +2613,9 @@
     "location": "苗栗縣後龍鎮後龍夜市",
     "openDays": "每日",
     "description": "後龍鎮每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.4706557,
+    "lng": 120.8155346
   },
   {
     "name": "竹南夜市",
@@ -2148,7 +2624,9 @@
     "location": "苗栗縣竹南鎮竹南夜市",
     "openDays": "每日",
     "description": "竹南鎮每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.4760142,
+    "lng": 121.339076
   },
   {
     "name": "頭份夜市",
@@ -2157,7 +2635,9 @@
     "location": "苗栗縣頭份市頭份夜市",
     "openDays": "每日",
     "description": "頭份市每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 24.6793555,
+    "lng": 120.8852555
   },
   {
     "name": "草鞋墩人文觀光夜市",
@@ -2166,7 +2646,9 @@
     "location": "南投縣草屯鎮草鞋墩人文觀光夜市",
     "openDays": "每日",
     "description": "草屯鎮每日營業的人文觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.9884037,
+    "lng": 120.6870563
   },
   {
     "name": "埔里城觀光夜市",
@@ -2175,7 +2657,9 @@
     "location": "南投縣埔里鎮埔里城觀光夜市",
     "openDays": "每日",
     "description": "埔里鎮每日營業的觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 25.0022293,
+    "lng": 121.30632
   },
   {
     "name": "墾丁大街夜市",
@@ -2184,7 +2668,9 @@
     "location": "屏東縣恆春鎮墾丁大街夜市",
     "openDays": "每日",
     "description": "墾丁大街每日營業的觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "屏東觀光夜市",
@@ -2193,7 +2679,9 @@
     "location": "屏東縣屏東市屏東觀光夜市",
     "openDays": "每日",
     "description": "屏東市每日營業的觀光夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.6290657,
+    "lng": 120.3027243
   },
   {
     "name": "四維路夜市",
@@ -2202,7 +2690,9 @@
     "location": "台東縣台東市四維路夜市",
     "openDays": "每日",
     "description": "台東市四維路每日營業的在地夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 23.3077217,
+    "lng": 120.2768809
   },
   {
     "name": "蘭嶼東清夜市",
@@ -2211,7 +2701,9 @@
     "location": "台東縣蘭嶼鄉蘭嶼東清夜市",
     "openDays": "每日",
     "description": "蘭嶼東清每日營業的特色離島夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": 22.0577834,
+    "lng": 121.5651961
   },
   {
     "name": "文澳祖師廟幸福小夜市",
@@ -2220,6 +2712,8 @@
     "location": "澎湖縣馬公市文澳祖師廟幸福小夜市",
     "openDays": "每日",
     "description": "馬公文澳祖師廟旁每日營業的小夜市",
-    "type": "夜市"
+    "type": "夜市",
+    "lat": null,
+    "lng": null
   }
 ]

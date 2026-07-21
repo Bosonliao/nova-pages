@@ -1,0 +1,1392 @@
+[
+  {
+    "file": "changhua.json",
+    "name": "Coffee Drinkone 桔萬咖啡",
+    "full_name": "Coffee Drinkone 桔萬咖啡",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "changhua.json",
+    "name": "榯玖珈琲所",
+    "full_name": "榯玖珈琲所 |彰化咖啡廳 咖啡外帶 手沖咖啡 彰化甜點 彰化下午茶推薦 19NINETEEN COFFEE |",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "changhua.json",
+    "name": "暗街仔巷 咖啡藝文空間",
+    "full_name": "暗街仔巷 咖啡藝文空間",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "changhua.json",
+    "name": "南洋甜室 Nanyang Coffee",
+    "full_name": "南洋甜室 Nanyang Coffee",
+    "area": "田中鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "changhua.json",
+    "name": "Tommy Boy cafe 伸港店",
+    "full_name": "Tommy Boy cafe 伸港店",
+    "area": "伸港鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "交流道早午餐 Social Ways Brunch Coffee",
+    "full_name": "交流道早午餐 Social Ways Brunch Coffee",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "豊合豐禾 景觀餐廳",
+    "full_name": "豊合豐禾 景觀餐廳",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "正方芳Cafe",
+    "full_name": "正方芳Cafe",
+    "area": "東區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "hoyohoyo早午餐",
+    "full_name": "hoyohoyo早午餐(店休日請看粉專）",
+    "area": "東區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "若蘭市集&山坡咖啡",
+    "full_name": "若蘭市集&山坡咖啡",
+    "area": "竹崎鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "雲境山城",
+    "full_name": "雲境山城",
+    "area": "梅山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "chiayi.json",
+    "name": "琥珀社咖啡莊園&露營",
+    "full_name": "琥珀社咖啡莊園&露營(用餐請三日前加賴預定@103cogmo",
+    "area": "梅山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hsinchu.json",
+    "name": "洞心咖啡廳Heartbeat Cafe-新竹深夜咖啡廳/下午茶/手作甜點 手沖/精品/義式咖啡 輕食/蛋糕 咖啡課程體驗 桌遊/親子/包場/約會/網美/打卡 人氣熱門好評推薦 PTT Dcard",
+    "full_name": "洞心咖啡廳Heartbeat Cafe-新竹深夜咖啡廳/下午茶/手作甜點 手沖/精品/義式咖啡 輕食/蛋糕 咖啡課程體驗 桌遊/親子/包場/約會/網美/打卡 人氣熱門好評推薦 PTT Dcard",
+    "area": "東區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hsinchu.json",
+    "name": "JerryBrunch & Night",
+    "full_name": "JerryBrunch & Night｜Fine Brunch 奢華早午餐",
+    "area": "東區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hsinchu.json",
+    "name": "FOXLOVE COFFEE 咖啡廳",
+    "full_name": "FOXLOVE COFFEE 咖啡廳",
+    "area": "北區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hsinchu.json",
+    "name": "金牌果汁城隍店",
+    "full_name": "金牌果汁城隍店",
+    "area": "北區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hsinchu.json",
+    "name": "品宣時光景觀咖啡",
+    "full_name": "品宣時光景觀咖啡",
+    "area": "橫山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "來客早午餐 Like Brunch",
+    "full_name": "來客早午餐 Like Brunch",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "同齊咖吡",
+    "full_name": "同齊咖吡",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "5+商行",
+    "full_name": "5+商行（營業時間以臉書公佈為主）",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "咖啡木CoffeeMoon",
+    "full_name": "咖啡木CoffeeMoon",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "海碉堡 x 穎！咖啡 ┆ 咖啡廳正常營業",
+    "full_name": "海碉堡 x 穎！咖啡 ┆ 咖啡廳正常營業",
+    "area": "壽豐鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "太魯閣中村志明咖啡甜點風味餐",
+    "full_name": "太魯閣中村志明咖啡甜點風味餐",
+    "area": "秀林鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "hualien.json",
+    "name": "波提娜麗咖啡 Portinari",
+    "full_name": "波提娜麗咖啡 Portinari",
+    "area": "花蓮市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "拾。輕食 Ten Café & Brunch",
+    "full_name": "拾。輕食 Ten Café & Brunch",
+    "area": "苓雅",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "GAUTENG COFFEE FREEZE.cc",
+    "full_name": "GAUTENG COFFEE FREEZE.cc ( 西式早午餐 ）",
+    "area": "左營",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "旗山香蕉冰",
+    "full_name": "旗山香蕉冰",
+    "area": "旗山",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "旗山香蕉鮮奶酪",
+    "full_name": "旗山香蕉鮮奶酪",
+    "area": "旗山",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "羣島景觀餐廳",
+    "full_name": "羣島景觀餐廳",
+    "area": "左營",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "聚客堂",
+    "full_name": "聚客堂(手工水餃、黃金泡菜、冰品)",
+    "area": "鼓山",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "而今餐酒館x小城思甜點",
+    "full_name": "而今餐酒館x小城思甜點",
+    "area": "前金",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "咖啡足矣 Coffee Serenity",
+    "full_name": "咖啡足矣 Coffee Serenity (假日·國定·連假，無訂位）",
+    "area": "新興",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "吉拉德咖啡 Gerard café",
+    "full_name": "吉拉德咖啡 Gerard café｜場地租借｜wifi 插座｜辦公商談",
+    "area": "三民",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "kaohsiung.json",
+    "name": "映紅越式素食點心咖啡",
+    "full_name": "映紅越式素食點心咖啡",
+    "area": "岡山",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "小家咖啡",
+    "full_name": "小家咖啡",
+    "area": "安樂",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "御品鮮 中式套餐/各類鍋物/咖啡/飲料",
+    "full_name": "御品鮮 中式套餐/各類鍋物/咖啡/飲料",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "NONNONSAID CAFE/儂儂說甜點專門店",
+    "full_name": "NONNONSAID CAFE/儂儂說甜點專門店",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "習慣這家Café- 基隆廟口店",
+    "full_name": "習慣這家Café- 基隆廟口店",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "Yaong Caffe & YNV",
+    "full_name": "Yaong Caffe & YNV ｜與十隻貓咪共處一室｜定食 珈琲 專賣（每週限量義大利麵）",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "金庫1985",
+    "full_name": "金庫1985 (咖啡、蔬食、創業孵化器)",
+    "area": "暖暖",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "拾玖 SHJIU",
+    "full_name": "拾玖 SHJIU",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "keelung.json",
+    "name": "秋香理髮廳",
+    "full_name": "秋香理髮廳",
+    "area": "仁愛",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "miaoli.json",
+    "name": "MODA & the MOON Cafe 碩玥咖啡廳",
+    "full_name": "MODA & the MOON Cafe 碩玥咖啡廳",
+    "area": "公館鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "miaoli.json",
+    "name": "仨吳咖啡 Chase Coffee",
+    "full_name": "仨吳咖啡 Chase Coffee",
+    "area": "苗栗市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "miaoli.json",
+    "name": "墨湘咖啡",
+    "full_name": "墨湘咖啡｜MO COFFEE｜苗栗咖啡烘焙店｜咖啡禮盒專賣店 | 場地租借｜包場服務｜ (提供專屬停車場～來電預約)",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "miaoli.json",
+    "name": "鹿角café",
+    "full_name": "鹿角café",
+    "area": "三義鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "miaoli.json",
+    "name": "啡常美好",
+    "full_name": "啡常美好",
+    "area": "苑裡鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "漫。島 ChillBar",
+    "full_name": "漫。島 ChillBar",
+    "area": "埔里鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "BUBU ART CAFE 橘子布藝術咖啡 草屯店",
+    "full_name": "BUBU ART CAFE 橘子布藝術咖啡 草屯店",
+    "area": "草屯鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "Coffee Reflections OLD 工作室",
+    "full_name": "Coffee Reflections OLD 工作室（Reservation 預約制）",
+    "area": "埔里鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "JULU Cafe",
+    "full_name": "JULU Cafe（鉅鹿咖啡館 ）精品咖啡專賣店 不接受訂位",
+    "area": "埔里鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "吾庶 usu cafe",
+    "full_name": "吾庶 usu cafe (沒有電話沒有洗手間/無法接待6位以上/訂位請私訊ig 或fb/最後點餐時間14:30、售完提早打烊)",
+    "area": "埔里鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "nantou.json",
+    "name": "沐森咖啡麵包店",
+    "full_name": "沐森咖啡麵包店",
+    "area": "中寮鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "山林咖啡Coffee Roaster",
+    "full_name": "山林咖啡Coffee Roaster ｜自家烘焙、虹吸專門、單品拿鐵 ｜",
+    "area": "新莊",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "水心月茶坊 Artist Teahouse",
+    "full_name": "水心月茶坊 Artist Teahouse",
+    "area": "瑞芳",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "摩多居酒屋",
+    "full_name": "摩多居酒屋",
+    "area": "新莊",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "去哪咖啡 Kido Cafe 鶯歌店 ∥ 精品咖啡 ∥甜點 ∥教學 ∥咖啡豆 ∥下午茶∥",
+    "full_name": "去哪咖啡 Kido Cafe 鶯歌店 ∥ 精品咖啡 ∥甜點 ∥教學 ∥咖啡豆 ∥下午茶∥",
+    "area": "鶯歌",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "喵喵有約－新莊簡餐咖啡廳",
+    "full_name": "喵喵有約－新莊簡餐咖啡廳",
+    "area": "新莊",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "獨咖啡",
+    "full_name": "獨咖啡（新莊旗艦店）",
+    "area": "新莊",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "ICC 千層手作甜點店",
+    "full_name": "ICC 千層手作甜點店 （LINE ID: @icccake)",
+    "area": "新莊",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "Le‘Go樂食Brunch早午餐漢堡三明治咖哩飯",
+    "full_name": "Le‘Go樂食Brunch早午餐漢堡三明治咖哩飯",
+    "area": "板橋",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "向島咖啡-鶯歌網美下午茶",
+    "full_name": "向島咖啡-鶯歌網美下午茶|人氣咖啡|網美咖啡廳|熱門咖啡館|平價義大利麵|義大利麵推薦|咖啡廳推薦|自家烘焙咖啡",
+    "area": "鶯歌",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "普羅旺斯海岸咖啡",
+    "full_name": "普羅旺斯海岸咖啡",
+    "area": "三芝",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "penghu.json",
+    "name": "常和building&light meal",
+    "full_name": "常和building&light meal | 週二公休 素食餐廳、下午茶、咖啡（全天供應)",
+    "area": "馬公市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "penghu.json",
+    "name": "澎湖赤崁郎哥早餐店",
+    "full_name": "澎湖赤崁郎哥早餐店",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "penghu.json",
+    "name": "麥町吐司工坊-澎湖店",
+    "full_name": "麥町吐司工坊-澎湖店",
+    "area": "馬公市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "penghu.json",
+    "name": "nikoni",
+    "full_name": "nikoni",
+    "area": "馬公市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "pingtung.json",
+    "name": "窩brunch 早午餐 X 下午茶",
+    "full_name": "窩brunch 早午餐 X 下午茶",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "pingtung.json",
+    "name": "[ No.6 Dessert ] 清風巷6號。甜點",
+    "full_name": "[ No.6 Dessert ] 清風巷6號。甜點",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "pingtung.json",
+    "name": "晨午吉 Chen WU Ji Brunch • 屏東崇蘭",
+    "full_name": "晨午吉 Chen WU Ji Brunch • 屏東崇蘭｜屏東早午餐",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "pingtung.json",
+    "name": "枋野秘境-海景咖啡",
+    "full_name": "枋野秘境-海景咖啡",
+    "area": "枋山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "pingtung.json",
+    "name": "一隅森 Hoüs Mori",
+    "full_name": "一隅森 Hoüs Mori",
+    "area": "潮州鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "Frini Café",
+    "full_name": "Frini Café",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "Tamp Temper Taichung Coffee",
+    "full_name": "Tamp Temper Taichung Coffee",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "木夏 Muxia深夜咖啡_酒吧_頌缽",
+    "full_name": "木夏 Muxia深夜咖啡_酒吧_頌缽（頌缽服務需官方line預約) 深夜Cafe&BAR Coffee/Dessert/Cocktail/singing bowl",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "雛菊見DAISY HOUSE-台中南屯店",
+    "full_name": "雛菊見DAISY HOUSE-台中南屯店｜生日慶生｜甜點｜聚餐｜台中美食",
+    "area": "南屯",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "屾沐Sunmood 36F 景觀餐廳",
+    "full_name": "屾沐Sunmood 36F 景觀餐廳",
+    "area": "南區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "晨光手作料理坊早午餐",
+    "full_name": "晨光手作料理坊早午餐",
+    "area": "大里",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "有己 YOJI COFFEE",
+    "full_name": "有己 YOJI COFFEE ｜咖啡｜甜點｜簡餐｜精釀調酒吧｜深夜咖啡廳｜復古攝影棚｜空間出租（建議電話訂位為佳）",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "秋多咖啡 Chiutio Coffee",
+    "full_name": "秋多咖啡 Chiutio Coffee",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "小惡魔雪莉貝爾創意冰品、甜點店",
+    "full_name": "小惡魔雪莉貝爾創意冰品、甜點店",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "微時光蔬食咖啡館",
+    "full_name": "微時光蔬食咖啡館",
+    "area": "霧峰",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "馨苑小料理※松竹店※台菜咖啡※米其林必比登",
+    "full_name": "馨苑小料理※松竹店※台菜咖啡※米其林必比登",
+    "area": "北屯",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
+    "full_name": "暖日 Warmth Day！吉卜力宮崎駿、台中龍貓餐廳、親子餐廳、北屯美食、早餐、早午餐、下午茶、寵物友善餐廳",
+    "area": "北屯",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "木和咖啡 GOOD CIRCLE COFFEE",
+    "full_name": "木和咖啡 GOOD CIRCLE COFFEE（經典手沖咖啡專門店／VEGAN）",
+    "area": "龍井",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taichung.json",
+    "name": "Cafe Tati 塔堤咖啡",
+    "full_name": "Cafe Tati 塔堤咖啡",
+    "area": "西區",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "你聽我說COFFEE HOLLOW",
+    "full_name": "你聽我說COFFEE HOLLOW",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "978早午餐",
+    "full_name": "978早午餐",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "派星堂PALAXY台南旗艦店/台南伴手禮/台南甜點/台南下午茶/台南美食/杜拜巧克力",
+    "full_name": "派星堂PALAXY台南旗艦店/台南伴手禮/台南甜點/台南下午茶/台南美食/杜拜巧克力",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "賞螢觀景山寮仔咖啡簡餐火鍋",
+    "full_name": "賞螢觀景山寮仔咖啡簡餐火鍋",
+    "area": "白河",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "小歇冰舖簡餐咖啡廳",
+    "full_name": "小歇冰舖簡餐咖啡廳",
+    "area": "南化",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "tainan.json",
+    "name": "心生活食堂",
+    "full_name": "心生活食堂",
+    "area": "鹽水",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taipei.json",
+    "name": "營火 Campfire Cafe",
+    "full_name": "營火 Campfire Cafe",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "晧克",
+    "full_name": "晧克 | 漢堡三明治 | 沙拉 | 早午餐 | 宵夜 | 健身餐－台東新生店",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "Moon island 沐嶋",
+    "full_name": "Moon island 沐嶋 ｜餐酒館｜餐廳｜酒吧｜咖啡廳｜甜點｜下午茶｜蛋糕｜晚餐｜午餐｜調酒｜綠島秘境｜綠島美食｜素食｜披薩｜派對",
+    "area": "綠島鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "綠島海草麻糬",
+    "full_name": "綠島海草麻糬",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "66萊樂輕食",
+    "full_name": "66萊樂輕食",
+    "area": "台東市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "荳荳阿稼早午餐",
+    "full_name": "荳荳阿稼早午餐",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "双亭院咖啡餐食甜點",
+    "full_name": "双亭院咖啡餐食甜點",
+    "area": "太麻里鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "絲綢咖啡",
+    "full_name": "絲綢咖啡（ 大溪社區入口處））",
+    "area": "太麻里鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "岸站咖啡",
+    "full_name": "岸站咖啡",
+    "area": "太麻里鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "Pure樸嶼 晚餐",
+    "full_name": "Pure樸嶼 晚餐 ｜餐酒館｜咖啡｜甜點 ｜綠島美食｜巴斯克蛋糕｜玻璃屋｜綠島打卡景點｜下午茶｜",
+    "area": "綠島鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "Moon island 沐嶋",
+    "full_name": "Moon island 沐嶋 ｜餐酒館｜餐廳｜酒吧｜咖啡廳｜甜點｜下午茶｜蛋糕｜晚餐｜午餐｜調酒｜綠",
+    "area": "綠島鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "小米達爾達",
+    "full_name": "小米達爾達",
+    "area": "太麻里鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taitung.json",
+    "name": "5181聽海文創咖啡",
+    "full_name": "5181聽海文創咖啡",
+    "area": "太麻里鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "陪你走一段路Walk with you",
+    "full_name": "陪你走一段路Walk with you｜輕食·咖啡·簡餐｜庇護商店 網美咖啡廳 方便停車 寵物友善",
+    "area": "八德",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "今遇良研cafe",
+    "full_name": "今遇良研cafe｜桃園中路咖啡廳",
+    "area": "桃園",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "見山景觀咖啡餐廳",
+    "full_name": "見山景觀咖啡餐廳",
+    "area": "龍潭",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "壹樓早餐-平鎮復興店",
+    "full_name": "壹樓早餐-平鎮復興店",
+    "area": "平鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "忻林咖啡",
+    "full_name": "忻林咖啡（包場請洽粉專與現場人員）",
+    "area": "新屋",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "水檬甜 MOON DESSERT",
+    "full_name": "水檬甜 MOON DESSERT",
+    "area": "八德",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "麥売珈琲洋食菓子",
+    "full_name": "麥売珈琲洋食菓子",
+    "area": "楊梅",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "野陌咖啡館 Yermo.eatery",
+    "full_name": "野陌咖啡館 Yermo.eatery",
+    "area": "桃園",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "相寓咖啡 Lumi Haven",
+    "full_name": "相寓咖啡 Lumi Haven",
+    "area": "桃園",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "蒔伍咖啡",
+    "full_name": "蒔伍咖啡",
+    "area": "桃園",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "Drip Note COFFEE 滴音咖啡",
+    "full_name": "Drip Note COFFEE 滴音咖啡",
+    "area": "桃園",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "鬍莉咖啡 Roulez-Vous Café",
+    "full_name": "鬍莉咖啡 Roulez-Vous Café",
+    "area": "中壢",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "時常咖啡 Often coffee",
+    "full_name": "時常咖啡 Often coffee",
+    "area": "中壢",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "喬治的咖啡 George's Coffee",
+    "full_name": "喬治的咖啡 George's Coffee",
+    "area": "中壢",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "taoyuan.json",
+    "name": "FIH Café 幸蘊坊",
+    "full_name": "FIH Café 幸蘊坊",
+    "area": "八德",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "Tea tree bistro 無菜單料理",
+    "full_name": "Tea tree bistro 無菜單料理",
+    "area": "頭城鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "Orla Café",
+    "full_name": "Orla Café",
+    "area": "冬山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "逸境咖啡 採預約制·2025咖啡烘烘烘第3場 全國烘焙大賽亞軍·自家烘焙 手沖咖啡推薦 · 咖啡豆專賣 · 宜蘭礁溪頭城壯圍首選",
+    "full_name": "逸境咖啡 採預約制·2025咖啡烘烘烘第3場 全國烘焙大賽亞軍·自家烘焙 手沖咖啡推薦 · 咖啡豆專賣 · 宜蘭礁溪頭城壯圍首選｜濾掛禮盒｜伴手禮｜精品咖啡｜甜點",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "宜蘭牛舌餅",
+    "full_name": "宜蘭牛舌餅",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "聊吧ChatBar/宜蘭茶藝館 宜蘭下午茶 宜蘭雨備 宜蘭伴手禮 冬山下午茶 冬山甜點",
+    "full_name": "聊吧ChatBar/宜蘭茶藝館 宜蘭下午茶 宜蘭雨備 宜蘭伴手禮 冬山下午茶 冬山甜點",
+    "area": "冬山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "雨山咖啡",
+    "full_name": "雨山咖啡",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "光森早堂",
+    "full_name": "光森早堂（手作早餐）",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "虎哥早午餐",
+    "full_name": "虎哥早午餐",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "ToDo早午餐泰山店",
+    "full_name": "ToDo早午餐泰山店",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "糧拾甜點烘焙工作室",
+    "full_name": "糧拾甜點烘焙工作室",
+    "area": "五結鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "守宮屋生活館#宜蘭地中海蔬食",
+    "full_name": "守宮屋生活館#宜蘭地中海蔬食(需2天前預約 #蛋糕 #鹹派 #咖啡 #下午茶)",
+    "area": "員山鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "回家Coffee",
+    "full_name": "回家Coffee（預約制）",
+    "area": "三星鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "麥拾光 烘焙",
+    "full_name": "麥拾光 烘焙",
+    "area": "三星鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yilan.json",
+    "name": "Kakahong卡卡紅",
+    "full_name": "Kakahong卡卡紅",
+    "area": "頭城鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yunlin.json",
+    "name": "享樂咖啡泡腳咖啡",
+    "full_name": "享樂咖啡泡腳咖啡",
+    "area": "",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yunlin.json",
+    "name": "融 melting冰品咖啡店 x 雲起食",
+    "full_name": "融 melting冰品咖啡店 x 雲起食（供餐至21點）",
+    "area": "斗六市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yunlin.json",
+    "name": "日光下的猫 貓中途咖啡餐館 鹹食供應至19:30",
+    "full_name": "日光下的猫 貓中途咖啡餐館 鹹食供應至19:30｜ 1樓一般用餐區 ｜2樓貓咪互動用餐區｜",
+    "area": "虎尾鎮",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yunlin.json",
+    "name": "享樂咖泡腳咖啡",
+    "full_name": "享樂咖泡腳咖啡（假日現場候位，由店家安排座位，禁帶外食，敬請配合）",
+    "area": "古坑鄉",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  },
+  {
+    "file": "yunlin.json",
+    "name": "低头厝咖啡",
+    "full_name": "低头厝咖啡(正確營業時間以臉書&IG為主)",
+    "area": "斗六市",
+    "status": "正常",
+    "matched_keywords": [],
+    "matched_contexts": [],
+    "text_len": 729
+  }
+]

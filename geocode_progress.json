@@ -1,0 +1,198 @@
+{
+  "done": 5450,
+  "failed": [
+    {
+      "file": "chiayi.json",
+      "cat": "food",
+      "idx": 84,
+      "name": "蠔碳嘉烤鮮蚵吃到飽-東石鮮蚵吃到飽|推薦鮮蚵|必吃鮮蚵|人氣鮮蚵|道地美食|在地推薦餐廳|烤蚵吃到飽",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "file": "chiayi.json",
+      "cat": "food",
+      "idx": 88,
+      "name": "女巫貓葵/女巫湯麵/泰式船麵100元/雞白湯拉麵100/停車場在店對面/哥吉拉鱷魚腳拉麵/越南河粉100/西班牙燉飯/煎餃／手工水餃/午餐/晚餐/宵夜",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "file": "chiayi.json",
+      "cat": "food",
+      "idx": 957,
+      "name": "祿記包子",
+      "error": "The read operation timed out"
+    },
+    {
+      "file": "hsinchu.json",
+      "cat": "food",
+      "idx": 61,
+      "name": "露營瘋小餐館平日中午改預約制（帝王蟹|泰國蝦|烤魚| 龍蝦| 串燒|熱炒|線上點餐|竹北外帶美食|平價美食|推薦美食|人氣美食|熱門小吃|特色小吃|宵夜推薦|地方小吃)",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "file": "kaohsiung.json",
+      "cat": "food",
+      "idx": 39,
+      "name": "日嚐漫漫 | 仁武 ｜ 咖啡 | 東西好吃的咖啡廳｜冰花煎餃｜簡餐｜兒童餐｜素食｜輕食｜餐廳 | 粉圓｜珍珠｜果汁｜炸物｜丼飯｜麻婆｜泡菜拉麵｜麵線｜茶 | 奶茶｜雪綿冰 ｜ 炸物",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "file": "kaohsiung.json",
+      "cat": "food",
+      "idx": 219,
+      "name": "廣東沙茶爐火鍋",
+      "error": "The read operation timed out"
+    },
+    {
+      "file": "kaohsiung.json",
+      "cat": "food",
+      "idx": 1279,
+      "name": "行事燒仙草紅心粉圓-苓雅燒仙草推薦|必吃甜品|人氣甜品|辦公室下午茶|必吃冰品|人氣冰店|刨冰推薦|嫩仙草推薦",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "file": "kaohsiung.json",
+      "cat": "food",
+      "idx": 1462,
+      "name": "阿惠豬舌冬粉",
+      "error": "<urlopen error _ssl.c:1063: The handshake operation timed out>"
+    },
+    {
+      "cat": "food",
+      "idx": 84,
+      "name": "蠔碳嘉烤鮮蚵吃到飽-東石鮮蚵吃到飽|推薦鮮蚵|必吃鮮蚵|人氣鮮蚵|道地美食|在地推薦餐廳|烤蚵吃到飽",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 88,
+      "name": "女巫貓葵/女巫湯麵/泰式船麵100元/雞白湯拉麵100/停車場在店對面/哥吉拉鱷魚腳拉麵/越南河粉100/西班牙燉飯/煎餃／手工水餃/午餐/晚餐/宵夜",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 61,
+      "name": "露營瘋小餐館平日中午改預約制（帝王蟹|泰國蝦|烤魚| 龍蝦| 串燒|熱炒|線上點餐|竹北外帶美食|平價美食|推薦美食|人氣美食|熱門小吃|特色小吃|宵夜推薦|地方小吃)",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 39,
+      "name": "日嚐漫漫 | 仁武 ｜ 咖啡 | 東西好吃的咖啡廳｜冰花煎餃｜簡餐｜兒童餐｜素食｜輕食｜餐廳 | 粉圓｜珍珠｜果汁｜炸物｜丼飯｜麻婆｜泡菜拉麵｜麵線｜茶 | 奶茶｜雪綿冰 ｜ 炸物",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 1279,
+      "name": "行事燒仙草紅心粉圓-苓雅燒仙草推薦|必吃甜品|人氣甜品|辦公室下午茶|必吃冰品|人氣冰店|刨冰推薦|嫩仙草推薦",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 72,
+      "name": "丘森茶室後龍店-後龍夏季飲品|熱門飲料|必喝飲料|特色飲料|你訂揪團外送飲品 |人氣飲料|推薦手搖|打卡飲料",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 72,
+      "name": "米蟲cafe’；米蟲咖啡丨Alazyday cafe’ 丨最後點餐時間18:30丨義大利麵丨燉飯丨咖喱飯丨手工冰淇淋丨手沖咖啡丨下午茶丨鬆餅丨厚片丨素食丨外帶咖啡丨寵物友善丨假日無訂位服務丨週一公休丨水里美食丨客家幣合作店家",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 954,
+      "name": "福隆聰師傅海鮮〔有室內座位冷氣開放〕（食尚玩家採訪推薦招牌豆醬龍蝦.野生黑毛魚）請在福隆國小斜對面招",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 151,
+      "name": "萬有食堂 萬有萬巒豬腳•萬有牛肉麵•竹山甕仔雞(6月8、23號公休)團餐熱炒推薦店•隱藏版美食•團體合菜推薦•快炒熱炒餐廳•團體餐廳•特色平價美食•午餐推薦好去處",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 161,
+      "name": "萬有食堂 萬有萬巒豬腳•萬有牛肉麵•竹山甕仔雞(6月8、23號公休)團餐熱炒推薦店•隱藏版美食•團體",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 41,
+      "name": "［有2人內用區囉！］素食飯、麵、水餃、抓餅 x 可預定 x 豆腐店取餐（早上10.到下午6.可預定自取，菜單價格僅供參考，實際備料數量現場為準，每天少量供應，5份以上餐點請提前一天詢問預定歐！感恩~週日固定店休，其他店休請參考my豆腐FB）",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 76,
+      "name": "隱園|無味精牛肉麵丨整尾鰻魚飯|海味小卷麵線|無刺虱目魚麵線|超嫩當歸鴨麵線丨超大隻鮮蝦餛飩麵麵",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 401,
+      "name": "菜大蔬 菜菜補給站/ 素食早午餐/ 海苔御飯糰おにぎり/ 熱壓吐司/ 鍋燒.雞絲.冬粉.烏龍麵/ 咖哩飯/泰式.沙茶.麻辣/Vegetarian Food",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 565,
+      "name": "小小蔬房 Xiaoxiao Place（每週四14：00-17：30 無麩質快樂時光 Happy GF Hour，無麩質點心飲料特價供應）#Vegan #Vegetarian #Gluten-free",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 234,
+      "name": "醬吃冰 (手工雪花冰、品茶及甜品，無販售清冰，老闆內向I人（但想聊天的歡迎），內用最後點餐為店休前20分鐘\"",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 19,
+      "name": "蔬小田植感蔬食盒專賣店│健康餐盒.蔬食料理.素食餐.小火鍋.滷味.便當外送.會議餐盒.楊梅美食推薦.會久候提早預訂",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 106,
+      "name": "6/29公休 一鍋入魂平價小火鍋｜吃到飽火鍋｜龜山美食 龜山火鍋 龜山吃到飽 龜山小火鍋 龜山restaurant 後街美食",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 197,
+      "name": "微笑葉子早午餐（每週三公休）-八德平價早午餐|人氣早午餐|必吃早午餐|熱門早午餐|輕食點心|在地推薦早午餐|手工漢堡|脆皮蛋餅",
+      "error": "ZERO_RESULTS"
+    },
+    {
+      "cat": "food",
+      "idx": 118,
+      "name": "老司G Tea&Coffee -冬山人氣咖啡廳|網美下午茶|必去咖啡廳|打卡美食|親子餐廳|熱門咖啡廳|必吃義大利麵|聚會包場|景觀餐廳",
+      "error": "ZERO_RESULTS"
+    }
+  ],
+  "errors": 27,
+  "done_files": [
+    "changhua.json",
+    "chiayi.json",
+    "hsinchu.json",
+    "hualien.json",
+    "kaohsiung.json",
+    "keelung.json",
+    "kinmen.json",
+    "miaoli.json",
+    "nantou.json",
+    "newtaipei.json",
+    "penghu.json",
+    "pingtung.json",
+    "taichung.json",
+    "tainan.json",
+    "taipei.json",
+    "taitung.json",
+    "taoyuan.json",
+    "yilan.json",
+    "yunlin.json"
+  ],
+  "total_done": 17533
+}

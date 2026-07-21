@@ -298,8 +298,8 @@
       "county": "金馬",
       "name": "莒光樓",
       "area": "金城歷史戰地",
-      "rating": 4.4,
-      "reviews": 10293,
+      "rating": null,
+      "reviews": null,
       "description": "金門莒光樓，城樓式紀念建築",
       "lat": 24.4249101,
       "lng": 118.3190217
@@ -308,8 +308,8 @@
       "county": "金馬",
       "name": "珠山聚落",
       "area": "金城歷史戰地",
-      "rating": 4.5,
-      "reviews": 1896,
+      "rating": null,
+      "reviews": null,
       "description": "金門珠山聚落，薛氏宗祠古厝群",
       "lat": 24.4014828,
       "lng": 118.3205759
@@ -318,8 +318,8 @@
       "county": "金馬",
       "name": "翟山坑道",
       "area": "金城歷史戰地",
-      "rating": 4.6,
-      "reviews": 10646,
+      "rating": null,
+      "reviews": null,
       "description": "金門軍事坑道，花崗岩地下碼頭",
       "lat": 24.3900267,
       "lng": 118.319946
@@ -328,8 +328,8 @@
       "county": "金馬",
       "name": "水頭聚落",
       "area": "金城歷史戰地",
-      "rating": 4.5,
-      "reviews": 776,
+      "rating": null,
+      "reviews": null,
       "description": "金門水頭古厝洋樓群，得月樓",
       "lat": 24.4094809,
       "lng": 118.299865
@@ -338,8 +338,8 @@
       "county": "金馬",
       "name": "八二三戰史館",
       "area": "金城歷史戰地",
-      "rating": 4.3,
-      "reviews": 3755,
+      "rating": null,
+      "reviews": null,
       "description": "金門八二三戰史館，砲戰歷史",
       "lat": 24.4431889,
       "lng": 118.4324028
@@ -348,8 +348,8 @@
       "county": "金馬",
       "name": "古寧頭戰史館",
       "area": "金城歷史戰地",
-      "rating": 4.5,
-      "reviews": 4898,
+      "rating": null,
+      "reviews": null,
       "description": "金門古寧頭戰史館，戰役歷史",
       "lat": 24.4829757,
       "lng": 118.3209361
@@ -358,8 +358,8 @@
       "county": "金馬",
       "name": "天摩山步道",
       "area": "金東秘境探索",
-      "rating": 4.6,
-      "reviews": 199,
+      "rating": null,
+      "reviews": null,
       "description": "金門天摩山步道，觀景與軍事遺跡",
       "lat": 24.5267481,
       "lng": 118.4181221
@@ -368,8 +368,8 @@
       "county": "金馬",
       "name": "船型堡",
       "area": "金東秘境探索",
-      "rating": 4.7,
-      "reviews": 145,
+      "rating": null,
+      "reviews": null,
       "description": "金門船型堡，反登陸軍事工事",
       "lat": 24.4991413,
       "lng": 118.4469445
@@ -378,8 +378,8 @@
       "county": "金馬",
       "name": "陳景蘭洋樓",
       "area": "金東秘境探索",
-      "rating": 4.5,
-      "reviews": 7016,
+      "rating": null,
+      "reviews": null,
       "description": "金門成功洋樓，最大私人洋樓",
       "lat": 24.4372225,
       "lng": 118.3900819
@@ -388,8 +388,8 @@
       "county": "金馬",
       "name": "山后民俗村",
       "area": "金東秘境探索",
-      "rating": 4.4,
-      "reviews": 7952,
+      "rating": null,
+      "reviews": null,
       "description": "金門山后古厝群，閩南建築博物館",
       "lat": 24.5038116,
       "lng": 118.4404129
@@ -398,8 +398,8 @@
       "county": "金馬",
       "name": "馬山觀測所",
       "area": "金東秘境探索",
-      "rating": 4.5,
-      "reviews": 2957,
+      "rating": null,
+      "reviews": null,
       "description": "金門馬山觀測站，離廈門最近點",
       "lat": 24.5277161,
       "lng": 118.4088789
@@ -408,8 +408,8 @@
       "county": "金馬",
       "name": "金門大橋",
       "area": "烈嶼小金門",
-      "rating": 4.7,
-      "reviews": 817,
+      "rating": null,
+      "reviews": null,
       "description": "金門大橋，連接大小金門跨海大橋",
       "lat": 24.4279737,
       "lng": 118.2351192
@@ -418,8 +418,8 @@
       "county": "金馬",
       "name": "九宮坑道",
       "area": "烈嶼小金門",
-      "rating": 4.6,
-      "reviews": 2581,
+      "rating": null,
+      "reviews": null,
       "description": "烈嶼九宮坑道，花崗岩地下碼頭",
       "lat": 24.4237909,
       "lng": 118.2626189
@@ -428,8 +428,8 @@
       "county": "金馬",
       "name": "沙溪堡",
       "area": "烈嶼小金門",
-      "rating": 4.6,
-      "reviews": 2819,
+      "rating": null,
+      "reviews": null,
       "description": "烈嶼沙溪堡，海岸防禦據點",
       "lat": 24.4279737,
       "lng": 118.2351192
@@ -438,8 +438,8 @@
       "county": "金馬",
       "name": "湖井頭戰史館",
       "area": "烈嶼小金門",
-      "rating": 4.3,
-      "reviews": 3694,
+      "rating": null,
+      "reviews": null,
       "description": "烈嶼湖井頭戰史館，戰役歷史",
       "lat": 24.4279737,
       "lng": 118.2351192
@@ -448,8 +448,8 @@
       "county": "金馬",
       "name": "西方村",
       "area": "烈嶼小金門",
-      "rating": 4.6,
-      "reviews": 628,
+      "rating": null,
+      "reviews": null,
       "description": "烈嶼西方村，海岸聚落散步",
       "lat": 24.4279737,
       "lng": 118.2351192
@@ -458,8 +458,8 @@
       "county": "金馬",
       "name": "瓊林風獅爺",
       "area": "太武山生態文化",
-      "rating": 4.4,
-      "reviews": 1392,
+      "rating": null,
+      "reviews": null,
       "description": "金門風獅爺，聚落守護神像",
       "lat": 24.4568312,
       "lng": 118.3740465
@@ -468,8 +468,8 @@
       "county": "金馬",
       "name": "瓊林坑道",
       "area": "太武山生態文化",
-      "rating": 4.4,
-      "reviews": 431,
+      "rating": null,
+      "reviews": null,
       "description": "金門瓊林坑道，民防地下坑道",
       "lat": 24.4551445,
       "lng": 118.3730578
@@ -478,8 +478,8 @@
       "county": "金馬",
       "name": "海印寺",
       "area": "太武山生態文化",
-      "rating": 4.7,
-      "reviews": 516,
+      "rating": null,
+      "reviews": null,
       "description": "金門太武山海印寺，百年古刹",
       "lat": 24.4625978,
       "lng": 118.4185443
@@ -488,8 +488,8 @@
       "county": "金馬",
       "name": "建功嶼",
       "area": "太武山生態文化",
-      "rating": 4.7,
-      "reviews": 3113,
+      "rating": null,
+      "reviews": null,
       "description": "金門建功嶼，退潮才可步行抵達",
       "lat": 24.4274351,
       "lng": 118.300075
@@ -498,8 +498,8 @@
       "county": "金馬",
       "name": "大膽島",
       "area": "大膽島烈嶼雙重奇遇",
-      "rating": 4.7,
-      "reviews": 153,
+      "rating": null,
+      "reviews": null,
       "description": "金門大膽島，前線軍事島嶼觀光",
       "lat": 24.3847078,
       "lng": 118.1700481
@@ -508,8 +508,8 @@
       "county": "金馬",
       "name": "金門水產試驗所",
       "area": "鱟生態與海岸落日",
-      "rating": 4.5,
-      "reviews": 113,
+      "rating": null,
+      "reviews": null,
       "description": "金門水試所，鱟魚生態展示",
       "lat": 24.4248229,
       "lng": 118.3149995
@@ -518,8 +518,8 @@
       "county": "金馬",
       "name": "慈湖落日",
       "area": "鱟生態與海岸落日",
-      "rating": 4.6,
-      "reviews": 1779,
+      "rating": null,
+      "reviews": null,
       "description": "金門慈湖，鸕鶿歸巢賞鳥勝地",
       "lat": 24.4645634,
       "lng": 118.2985306
@@ -528,8 +528,8 @@
       "county": "金馬",
       "name": "福澳港",
       "area": "南竿戰地文化",
-      "rating": 4.3,
-      "reviews": 435,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖福澳港，南竿主要港口",
       "lat": 26.1563246,
       "lng": 119.9444207
@@ -538,8 +538,8 @@
       "county": "金馬",
       "name": "馬祖酒廠",
       "area": "南竿戰地文化",
-      "rating": 3.8,
-      "reviews": 306,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖酒廠，老酒與八八坑道窖藏",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -548,8 +548,8 @@
       "county": "金馬",
       "name": "八八坑道",
       "area": "南竿戰地文化",
-      "rating": 4.3,
-      "reviews": 5373,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖八八坑道，戰備坑道與酒窖",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -558,8 +558,8 @@
       "county": "金馬",
       "name": "馬祖故事館",
       "area": "南竿戰地文化",
-      "rating": 4.3,
-      "reviews": 1571,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖故事館，戰地政務時期歷史",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -568,8 +568,8 @@
       "county": "金馬",
       "name": "北海坑道（搖櫓）",
       "area": "南竿戰地文化",
-      "rating": 4.4,
-      "reviews": 101,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖北海坑道，花崗岩坑道划船",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -578,8 +578,8 @@
       "county": "金馬",
       "name": "鐵堡",
       "area": "南竿戰地文化",
-      "rating": 4.5,
-      "reviews": 1805,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖南竿鐵堡，花崗岩海上堡壘",
       "lat": 26.1420059,
       "lng": 119.9208984
@@ -588,8 +588,8 @@
       "county": "金馬",
       "name": "津沙聚落",
       "area": "南竿戰地文化",
-      "rating": 4.5,
-      "reviews": 3296,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖津沙，百棟石頭屋聚落",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -598,8 +598,8 @@
       "county": "金馬",
       "name": "福山公園（枕戈待旦）",
       "area": "南竿戰地文化",
-      "rating": 4.3,
-      "reviews": 2626,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖福山公園，枕戈待旦地標",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -608,8 +608,8 @@
       "county": "金馬",
       "name": "南北之星快船",
       "area": "北竿芹壁聚落",
-      "rating": 3.9,
-      "reviews": 938,
+      "rating": null,
+      "reviews": null,
       "description": "南北之星快船，南北竿海上交通",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -618,8 +618,8 @@
       "county": "金馬",
       "name": "北竿",
       "area": "北竿芹壁聚落",
-      "rating": 4.4,
-      "reviews": 534,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖北竿島，芹壁與塘后沙灘",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -628,8 +628,8 @@
       "county": "金馬",
       "name": "芹壁聚落",
       "area": "北竿芹壁聚落",
-      "rating": 4.6,
-      "reviews": 4211,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖芹壁，石頭屋聚落與海景",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -638,8 +638,8 @@
       "county": "金馬",
       "name": "坂里沙灘",
       "area": "北竿芹壁聚落",
-      "rating": 4.3,
-      "reviews": 436,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖坂里沙灘，北坂最美沙灘",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -648,8 +648,8 @@
       "county": "金馬",
       "name": "塘后道沙灘",
       "area": "北竿芹壁聚落",
-      "rating": 4.4,
-      "reviews": 826,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖塘后道沙灘，連島沙洲海灘",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -658,8 +658,8 @@
       "county": "金馬",
       "name": "北海坑道",
       "area": "北竿芹壁聚落",
-      "rating": 4.5,
-      "reviews": 6079,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖北海坑道，花崗岩坑道划船",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -668,8 +668,8 @@
       "county": "金馬",
       "name": "壁山觀景",
       "area": "北竿芹壁聚落",
-      "rating": 4.5,
-      "reviews": 1718,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖壁山觀景，俯瞰北竿全景",
       "lat": 26.2245753,
       "lng": 119.9982607
@@ -678,8 +678,8 @@
       "county": "金馬",
       "name": "東引",
       "area": "東引國境之北",
-      "rating": 4.8,
-      "reviews": 1332,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖東引島，國之北疆與燈塔",
       "lat": 23.69781,
       "lng": 120.960515
@@ -688,8 +688,8 @@
       "county": "金馬",
       "name": "中柱港",
       "area": "東引國境之北",
-      "rating": 4.3,
-      "reviews": 183,
+      "rating": null,
+      "reviews": null,
       "description": "東引中柱港，東引主要港口",
       "lat": 23.69781,
       "lng": 120.960515
@@ -698,8 +698,8 @@
       "county": "金馬",
       "name": "國之北疆",
       "area": "東引國境之北",
-      "rating": 4.7,
-      "reviews": 1129,
+      "rating": null,
+      "reviews": null,
       "description": "東引國之北疆，台灣最北端地標",
       "lat": 26.3656992,
       "lng": 120.4904831
@@ -708,8 +708,8 @@
       "county": "金馬",
       "name": "安東坑道",
       "area": "東引國境之北",
-      "rating": 4.6,
-      "reviews": 1199,
+      "rating": null,
+      "reviews": null,
       "description": "東引安東坑道，花崗岩軍事坑道",
       "lat": 23.69781,
       "lng": 120.960515
@@ -718,8 +718,8 @@
       "county": "金馬",
       "name": "烈女義坑",
       "area": "東引國境之北",
-      "rating": 4.4,
-      "reviews": 317,
+      "rating": null,
+      "reviews": null,
       "description": "東引烈女義坑，海蝕崖傳說景點",
       "lat": 23.69781,
       "lng": 120.960515
@@ -728,8 +728,8 @@
       "county": "金馬",
       "name": "東引燈塔",
       "area": "東引國境之北",
-      "rating": 4.8,
-      "reviews": 1332,
+      "rating": null,
+      "reviews": null,
       "description": "東引燈塔，國定古蹟英式燈塔",
       "lat": 26.3696747,
       "lng": 120.4962417
@@ -738,8 +738,8 @@
       "county": "金馬",
       "name": "東莒",
       "area": "莒光藍眼淚生態",
-      "rating": 4.5,
-      "reviews": 200,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖東莒島，燈塔與聚落秘境",
       "lat": 25.9604777,
       "lng": 119.9723303
@@ -748,8 +748,8 @@
       "county": "金馬",
       "name": "東莒燈塔",
       "area": "莒光藍眼淚生態",
-      "rating": 4.8,
-      "reviews": 486,
+      "rating": null,
+      "reviews": null,
       "description": "東莒燈塔，台灣第一座花崗岩燈塔",
       "lat": 25.9604777,
       "lng": 119.9723303
@@ -758,8 +758,8 @@
       "county": "金馬",
       "name": "福正聚落",
       "area": "莒光藍眼淚生態",
-      "rating": 4.5,
-      "reviews": 157,
+      "rating": null,
+      "reviews": null,
       "description": "東莒福正聚落，石頭屋與沙灘",
       "lat": 25.9604777,
       "lng": 119.9723303
@@ -768,8 +768,8 @@
       "county": "金馬",
       "name": "大埔石刻",
       "area": "莒光藍眼淚生態",
-      "rating": 4.3,
-      "reviews": 138,
+      "rating": null,
+      "reviews": null,
       "description": "東莒大埔石刻，明代摩崖碑文",
       "lat": 25.9604777,
       "lng": 119.9723303
@@ -778,8 +778,8 @@
       "county": "金馬",
       "name": "坤坵沙灘",
       "area": "莒光藍眼淚生態",
-      "rating": 4.5,
-      "reviews": 433,
+      "rating": null,
+      "reviews": null,
       "description": "西莒坤坵沙灘，方形礫石海灘奇景",
       "lat": 25.9604777,
       "lng": 119.9723303
@@ -788,8 +788,8 @@
       "county": "金馬",
       "name": "介壽獅子市場",
       "area": "南竿深度文化美食",
-      "rating": 4.1,
-      "reviews": 1606,
+      "rating": null,
+      "reviews": null,
       "description": "南竿介壽市場，馬祖最大傳統市場",
       "lat": 26.1554823,
       "lng": 119.9513411
@@ -798,8 +798,8 @@
       "county": "金馬",
       "name": "阿妹的店鼎邊糊",
       "area": "南竿深度文化美食",
-      "rating": 4.4,
-      "reviews": 591,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖阿妹的店，鼎邊糊在地小吃",
       "lat": 26.1555536,
       "lng": 119.9514061
@@ -808,8 +808,8 @@
       "county": "金馬",
       "name": "勝利堡",
       "area": "南竿深度文化美食",
-      "rating": 4.4,
-      "reviews": 639,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖勝利堡，軍事據點改建展示",
       "lat": 23.69781,
       "lng": 120.960515
@@ -818,8 +818,8 @@
       "county": "金馬",
       "name": "831軍中茶室",
       "area": "南竿深度文化美食",
-      "rating": 4.1,
-      "reviews": 3397,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖831軍中茶室，特種行業歷史",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -828,8 +828,8 @@
       "county": "金馬",
       "name": "刺鳥咖啡書店",
       "area": "南竿深度文化美食",
-      "rating": 4.5,
-      "reviews": 1123,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖刺鳥咖啡，獨立書店與海景",
       "lat": 26.1679237,
       "lng": 119.9516813
@@ -838,8 +838,8 @@
       "county": "金馬",
       "name": "神農居海鮮鍋",
       "area": "南竿深度文化美食",
-      "rating": 4.2,
-      "reviews": 113,
+      "rating": null,
+      "reviews": null,
       "description": "馬祖神農居，海鮮火鍋風味餐",
       "lat": 26.1534361,
       "lng": 119.9306863
@@ -908,8 +908,8 @@
       "name": "彌勒家園素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 5,
-      "reviews": 4,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -924,8 +924,8 @@
       "name": "阿萱素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 5,
-      "reviews": 2,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -940,8 +940,8 @@
       "name": "清水荷花素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "烏坵鄉",
-      "rating": 5,
-      "reviews": 2,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -956,8 +956,8 @@
       "name": "初原麵場(金門金寧店)",
       "description": "日式料理餐廳",
       "area": "金寧鄉",
-      "rating": 4.9,
-      "reviews": 1094,
+      "rating": null,
+      "reviews": null,
       "address": "892010伯玉路二段223-2號",
       "categories": [
         "日式"
@@ -973,8 +973,8 @@
       "name": "愜意甜點工作室-金門甜點 金門伴手禮 金門名產 金門下午茶 金門網紅打卡點 附近美食",
       "description": "甜品專賣店，消暑好選擇",
       "area": "金沙鎮",
-      "rating": 4.9,
-      "reviews": 1770,
+      "rating": null,
+      "reviews": null,
       "address": "890后浦頭60號",
       "categories": [
         "甜品"
@@ -990,8 +990,8 @@
       "name": "Soban Vegan Restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 4.8,
-      "reviews": 172,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1006,8 +1006,8 @@
       "name": "福圓素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.8,
-      "reviews": 54,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1035,8 +1035,8 @@
       "name": "清源素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.8,
-      "reviews": 15,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1051,8 +1051,8 @@
       "name": "林炳煌（天恩素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.8,
-      "reviews": 91,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1080,8 +1080,8 @@
       "name": "良品貝果 涼麵｜金門素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.8,
-      "reviews": 38,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1096,8 +1096,8 @@
       "name": "19house炙燒牛排金門店",
       "description": "排餐餐廳，主廚精選",
       "area": "金寧鄉",
-      "rating": 4.8,
-      "reviews": 1074,
+      "rating": null,
+      "reviews": null,
       "address": "89248伯玉路一段3樓",
       "categories": [
         "西式"
@@ -1113,8 +1113,8 @@
       "name": "紫微庭園美食",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.8,
-      "reviews": 658,
+      "rating": null,
+      "reviews": null,
       "address": "892后盤山35號",
       "categories": [
         "中式"
@@ -1143,8 +1143,8 @@
       "name": "早到晚到-金門店",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "金寧鄉",
-      "rating": 4.8,
-      "reviews": 973,
+      "rating": null,
+      "reviews": null,
       "address": "893林湖路69號",
       "categories": [
         "中式"
@@ -1160,8 +1160,8 @@
       "name": "圓頭肉乾-金城榮泰店 | 金門美食 金門牛肉麵 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳 restaurant",
       "description": "",
       "area": "金城鎮",
-      "rating": 4.8,
-      "reviews": 1965,
+      "rating": null,
+      "reviews": null,
       "address": "893莒光路一段1樓",
       "categories": [
         "中式"
@@ -1177,8 +1177,8 @@
       "name": "高坑牛肉食樂苑餐廳 預約制",
       "description": "麵食專賣店，湯頭講究",
       "area": "金沙鎮",
-      "rating": 4.8,
-      "reviews": 7126,
+      "rating": null,
+      "reviews": null,
       "address": "890高坑38號",
       "categories": [
         "中式"
@@ -1194,8 +1194,8 @@
       "name": "天佑蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 4.7,
-      "reviews": 29,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1210,8 +1210,8 @@
       "name": "圓頭肉乾金門農牧概念館-金門美食 金門牛肉麵 金門牛肉火鍋 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳",
       "description": "火鍋餐廳，適合聚餐",
       "area": "金寧鄉",
-      "rating": 4.7,
-      "reviews": 4569,
+      "rating": null,
+      "reviews": null,
       "address": "892伯玉路二段169號",
       "categories": [
         "中式"
@@ -1227,8 +1227,8 @@
       "name": "馬家麵線",
       "description": "麵食專賣店，湯頭講究",
       "area": "金寧鄉",
-      "rating": 4.7,
-      "reviews": 8695,
+      "rating": null,
+      "reviews": null,
       "address": "892伯玉路二段159",
       "categories": [
         "中式"
@@ -1244,8 +1244,8 @@
       "name": "良金牧場貞節牌坊店",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.7,
-      "reviews": 3410,
+      "rating": null,
+      "reviews": null,
       "address": "893莒光路一段36號",
       "categories": [
         "中式"
@@ -1261,8 +1261,8 @@
       "name": "祥富素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.6,
-      "reviews": 217,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1277,8 +1277,8 @@
       "name": "金拌麵",
       "description": "麵食專賣店，湯頭講究",
       "area": "金湖鎮",
-      "rating": 4.6,
-      "reviews": 923,
+      "rating": null,
+      "reviews": null,
       "address": "891瓊徑路17號",
       "categories": [
         "中式"
@@ -1294,8 +1294,8 @@
       "name": "金許園-山外創始店",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "金湖鎮",
-      "rating": 4.6,
-      "reviews": 937,
+      "rating": null,
+      "reviews": null,
       "address": "158號邮政编码: 891",
       "categories": [
         "中式"
@@ -1311,8 +1311,8 @@
       "name": "海福花園飯店",
       "description": "中式餐廳，在地美味",
       "area": "金沙鎮",
-      "rating": 4.6,
-      "reviews": 1337,
+      "rating": null,
+      "reviews": null,
       "address": "890高陽路1號",
       "categories": [
         "中式"
@@ -1328,8 +1328,8 @@
       "name": "嘉年華冰菓室",
       "description": "中式餐廳，在地美味",
       "area": "烈嶼鄉",
-      "rating": 4.6,
-      "reviews": 1014,
+      "rating": null,
+      "reviews": null,
       "address": "894西方29號",
       "categories": [
         "甜品"
@@ -1345,8 +1345,8 @@
       "name": "謙和清心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "烏坵鄉",
-      "rating": 4.5,
-      "reviews": 2,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1361,8 +1361,8 @@
       "name": "湶民水果創作料理",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.5,
-      "reviews": 817,
+      "rating": null,
+      "reviews": null,
       "address": "伯玉路二段巷 8號邮政编码: 892",
       "categories": [
         "中式"
@@ -1378,8 +1378,8 @@
       "name": "雨川食堂｜金門戰地滋味",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.5,
-      "reviews": 1379,
+      "rating": null,
+      "reviews": null,
       "address": "893莒光路53號",
       "categories": [
         "中式"
@@ -1395,8 +1395,8 @@
       "name": "良金牧場工廠總店",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.5,
-      "reviews": 3667,
+      "rating": null,
+      "reviews": null,
       "address": "891漁村160號",
       "categories": [
         "中式"
@@ -1412,8 +1412,8 @@
       "name": "三言兩語鮮茶咖啡美食館",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "金湖鎮",
-      "rating": 4.5,
-      "reviews": 598,
+      "rating": null,
+      "reviews": null,
       "address": "891復興路116號",
       "categories": [
         "咖啡廳"
@@ -1429,8 +1429,8 @@
       "name": "蔡師傅手工麵線",
       "description": "麵食專賣店，湯頭講究",
       "area": "烈嶼鄉",
-      "rating": 4.5,
-      "reviews": 667,
+      "rating": null,
+      "reviews": null,
       "address": "894湖下27之1號",
       "categories": [
         "中式"
@@ -1446,8 +1446,8 @@
       "name": "好媽媽健康素食屋",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 4.4,
-      "reviews": 120,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1462,8 +1462,8 @@
       "name": "仁化素食燒餅",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 4.4,
-      "reviews": 7,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1478,8 +1478,8 @@
       "name": "海洋餐廳",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.4,
-      "reviews": 557,
+      "rating": null,
+      "reviews": null,
       "address": "892",
       "categories": [
         "中式"
@@ -1495,8 +1495,8 @@
       "name": "肉坊｜個人燒肉計畫｜金寧店",
       "description": "日式料理餐廳",
       "area": "金寧鄉",
-      "rating": 4.4,
-      "reviews": 599,
+      "rating": null,
+      "reviews": null,
       "address": "892慈湖路二段118號",
       "categories": [
         "西式"
@@ -1512,8 +1512,8 @@
       "name": "金許園餐廳",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.4,
-      "reviews": 783,
+      "rating": null,
+      "reviews": null,
       "address": "89345金門縣金城鎮官裡53號",
       "categories": [
         "中式"
@@ -1529,8 +1529,8 @@
       "name": "張記牛肉麵館",
       "description": "麵食專賣店，湯頭講究",
       "area": "金湖鎮",
-      "rating": 4.4,
-      "reviews": 889,
+      "rating": null,
+      "reviews": null,
       "address": "891黃海路6號",
       "categories": [
         "中式"
@@ -1546,8 +1546,8 @@
       "name": "閩式燒餅專賣店",
       "description": "中式餐廳，在地美味",
       "area": "金沙鎮",
-      "rating": 4.3,
-      "reviews": 1487,
+      "rating": null,
+      "reviews": null,
       "address": "890博愛街48",
       "categories": [
         "中式"
@@ -1563,8 +1563,8 @@
       "name": "聯泰餐廳",
       "description": "",
       "area": "金寧鄉",
-      "rating": 4.3,
-      "reviews": 706,
+      "rating": null,
+      "reviews": null,
       "address": "湖南14號邮政编码: 892",
       "categories": [
         "中式"
@@ -1580,8 +1580,8 @@
       "name": "米香屋廣東粥",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.3,
-      "reviews": 1005,
+      "rating": null,
+      "reviews": null,
       "address": "893民生路21號",
       "categories": [
         "中式"
@@ -1597,8 +1597,8 @@
       "name": "合泉購物中心",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4.3,
-      "reviews": 1356,
+      "rating": null,
+      "reviews": null,
       "address": "891村63號",
       "categories": [
         "中式"
@@ -1614,8 +1614,8 @@
       "name": "阿芬海產店",
       "description": "中式餐廳，在地美味",
       "area": "金湖鎮",
-      "rating": 4.3,
-      "reviews": 705,
+      "rating": null,
+      "reviews": null,
       "address": "89125號",
       "categories": [
         "中式"
@@ -1631,8 +1631,8 @@
       "name": "金牪餐廳 (附設販賣部週三正常營業)",
       "description": "中式餐廳，在地美味",
       "area": "金湖鎮",
-      "rating": 4.3,
-      "reviews": 589,
+      "rating": null,
+      "reviews": null,
       "address": "891惠民富康農莊17號",
       "categories": [
         "中式"
@@ -1648,8 +1648,8 @@
       "name": "陽翟老街(軍中樂園拍攝場景)",
       "description": "甜品專賣店，消暑好選擇",
       "area": "金沙鎮",
-      "rating": 4.3,
-      "reviews": 1825,
+      "rating": null,
+      "reviews": null,
       "address": "890",
       "categories": [
         "中式"
@@ -1665,8 +1665,8 @@
       "name": "海園餐廳｜芋頭特色料理",
       "description": "中式餐廳，在地美味",
       "area": "烈嶼鄉",
-      "rating": 4.3,
-      "reviews": 913,
+      "rating": null,
+      "reviews": null,
       "address": "894羅厝1號",
       "categories": [
         "中式"
@@ -1682,8 +1682,8 @@
       "name": "金青安齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金城鎮",
-      "rating": 4.2,
-      "reviews": 52,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1698,8 +1698,8 @@
       "name": "記德海鮮餐廳",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.2,
-      "reviews": 2272,
+      "rating": null,
+      "reviews": null,
       "address": "892慈湖路二段105",
       "categories": [
         "中式"
@@ -1715,8 +1715,8 @@
       "name": "金門牛家莊（酒糟牛肉料理）創立於2002年",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.2,
-      "reviews": 2472,
+      "rating": null,
+      "reviews": null,
       "address": "893民族路318巷5號",
       "categories": [
         "中式"
@@ -1732,8 +1732,8 @@
       "name": "喬安牧場伯玉旗艦店",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.2,
-      "reviews": 1096,
+      "rating": null,
+      "reviews": null,
       "address": "892伯玉路二段297",
       "categories": [
         "中式"
@@ -1749,8 +1749,8 @@
       "name": "聯成廣東粥",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.2,
-      "reviews": 1418,
+      "rating": null,
+      "reviews": null,
       "address": "893民生路45巷1號",
       "categories": [
         "中式"
@@ -1766,8 +1766,8 @@
       "name": "金門 阿公ㄟ手工豆花（雙週一公休）",
       "description": "甜品專賣店，消暑好選擇",
       "area": "金城鎮",
-      "rating": 4.2,
-      "reviews": 932,
+      "rating": null,
+      "reviews": null,
       "address": "893模範街15號",
       "categories": [
         "中式"
@@ -1783,8 +1783,8 @@
       "name": "新天地海產店",
       "description": "中式餐廳，在地美味",
       "area": "金湖鎮",
-      "rating": 4.2,
-      "reviews": 934,
+      "rating": null,
+      "reviews": null,
       "address": "891復國墩31之1號",
       "categories": [
         "中式"
@@ -1800,8 +1800,8 @@
       "name": "沙美老街",
       "description": "中式餐廳，在地美味",
       "area": "金沙鎮",
-      "rating": 4.2,
-      "reviews": 4629,
+      "rating": null,
+      "reviews": null,
       "address": "890",
       "categories": [
         "中式"
@@ -1817,8 +1817,8 @@
       "name": "信源海產店-湖下店",
       "description": "中式餐廳，在地美味",
       "area": "金寧鄉",
-      "rating": 4.1,
-      "reviews": 1077,
+      "rating": null,
+      "reviews": null,
       "address": "892湖下村（湖埔村）60號 金寧鄉",
       "categories": [
         "中式"
@@ -1834,8 +1834,8 @@
       "name": "標記小吃店",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "金城鎮",
-      "rating": 4.1,
-      "reviews": 1486,
+      "rating": null,
+      "reviews": null,
       "address": "893民族路93巷5弄1號",
       "categories": [
         "中式"
@@ -1851,8 +1851,8 @@
       "name": "榕榕園麵館",
       "description": "麵食專賣店，湯頭講究",
       "area": "金湖鎮",
-      "rating": 4.1,
-      "reviews": 501,
+      "rating": null,
+      "reviews": null,
       "address": "891黃海路7號",
       "categories": [
         "中式"
@@ -1868,8 +1868,8 @@
       "name": "曉園輕旅附設如荷自在蔬食茶堂",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金沙鎮",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1884,8 +1884,8 @@
       "name": "天惠素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "金寧鄉",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1900,8 +1900,8 @@
       "name": "蚵嗲之家",
       "description": "中式餐廳，在地美味",
       "area": "金城鎮",
-      "rating": 4,
-      "reviews": 953,
+      "rating": null,
+      "reviews": null,
       "address": "893莒光路一段59號",
       "categories": [
         "中式"
@@ -1917,8 +1917,8 @@
       "name": "三層樓芋頭餐館（三層樓芋頭冰）",
       "description": "中式餐廳，在地美味",
       "area": "烈嶼鄉",
-      "rating": 4,
-      "reviews": 2002,
+      "rating": null,
+      "reviews": null,
       "address": "894黃厝23-1號",
       "categories": [
         "中式"
@@ -1934,8 +1934,8 @@
       "name": "妙香小吃店",
       "description": "中式餐廳，在地美味",
       "area": "烈嶼鄉",
-      "rating": 4,
-      "reviews": 586,
+      "rating": null,
+      "reviews": null,
       "address": "894后頭43之1號",
       "categories": [
         "中式"
@@ -1957,8 +1957,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 5,
-      "reviews": 10,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.4493726,
       "lng": 118.3766352
@@ -1973,8 +1973,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 5,
-      "reviews": 161,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.4317886,
       "lng": 118.319098

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "taipei.json",
+    "name": "冷水坑",
+    "area": "陽明山賞花",
+    "rating": 4.3,
+    "reviews": null
+  },
+  {
+    "file": "taipei.json",
+    "name": "迪化街",
+    "area": "大稻埕行天宮古蹟",
+    "rating": 4.6,
+    "reviews": 7316
+  },
+  {
+    "file": "taipei.json",
+    "name": "大稻埕",
+    "area": "大稻埕行天宮古蹟",
+    "rating": 4.6,
+    "reviews": 2809
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "碧潭",
+    "area": "碧潭＆烏來",
+    "rating": 4.3,
+    "reviews": null
+  },
+  {
+    "file": "newtaipei.json",
+    "name": "猴硐貓村",
+    "area": "平溪",
+    "rating": 4.3,
+    "reviews": null
+  }
+]

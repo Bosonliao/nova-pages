@@ -221,8 +221,8 @@
       "county": "苗栗",
       "name": "舊山線鐵道自行車",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 27879,
+      "rating": null,
+      "reviews": null,
       "description": "三義鐵道自行車，穿越隧道與斷橋",
       "lat": 24.3604227,
       "lng": 120.7748538
@@ -231,8 +231,8 @@
       "county": "苗栗",
       "name": "龍騰斷橋",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 24330,
+      "rating": null,
+      "reviews": null,
       "description": "三義地震遺跡斷橋，紅磚拱門打卡",
       "lat": 24.3585179,
       "lng": 120.7740367
@@ -241,8 +241,8 @@
       "county": "苗栗",
       "name": "勝興車站",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 7825,
+      "rating": null,
+      "reviews": null,
       "description": "舊山線最高車站，木造建築懷舊",
       "lat": 24.388064,
       "lng": 120.782003
@@ -251,8 +251,8 @@
       "county": "苗栗",
       "name": "山那邊．綠葉方舟",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 5144,
+      "rating": null,
+      "reviews": null,
       "description": "三義山林餐廳，自然生態花園",
       "lat": 24.3908633,
       "lng": 120.7783433
@@ -261,8 +261,8 @@
       "county": "苗栗",
       "name": "卓也小屋",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 3110,
+      "rating": null,
+      "reviews": null,
       "description": "三義藍染文創小屋，度假民宿",
       "lat": 24.3922778,
       "lng": 120.7954631
@@ -271,8 +271,8 @@
       "county": "苗栗",
       "name": "蓬萊溪護魚步道",
       "area": "南庄鄉",
-      "rating": 4.2,
-      "reviews": 5508,
+      "rating": null,
+      "reviews": null,
       "description": "南庄護魚步道，清澈溪流生態",
       "lat": 24.5510055,
       "lng": 120.9724369
@@ -281,8 +281,8 @@
       "county": "苗栗",
       "name": "神仙谷瀑布",
       "area": "南庄鄉",
-      "rating": 4.4,
-      "reviews": 463,
+      "rating": null,
+      "reviews": null,
       "description": "南庄泰雅族聖地，瀑布溪谷秘境",
       "lat": 24.54515,
       "lng": 121.03076
@@ -291,8 +291,8 @@
       "county": "苗栗",
       "name": "南庄老街",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 36428,
+      "rating": null,
+      "reviews": null,
       "description": "南庄桂花巷老街，客家原民融合",
       "lat": 24.5993184,
       "lng": 120.9992815
@@ -301,8 +301,8 @@
       "county": "苗栗",
       "name": "蘇維拉莊園",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 7962,
+      "rating": null,
+      "reviews": null,
       "description": "南庄歐風莊園，魔戒場景打卡",
       "lat": 24.6068576,
       "lng": 120.9940933
@@ -311,8 +311,8 @@
       "county": "苗栗",
       "name": "大湖草莓園(11-4月)",
       "area": "大湖鄉",
-      "rating": 4.9,
-      "reviews": 10119,
+      "rating": null,
+      "reviews": null,
       "description": "大湖草莓觀光農園，採草莓體驗",
       "lat": 24.3579934,
       "lng": 120.8408603
@@ -321,8 +321,8 @@
       "county": "苗栗",
       "name": "大湖酒莊",
       "area": "大湖鄉",
-      "rating": 3.8,
-      "reviews": 5706,
+      "rating": null,
+      "reviews": null,
       "description": "大湖草莓酒莊，亞洲唯一草莓酒",
       "lat": 24.429005,
       "lng": 120.8681012
@@ -331,8 +331,8 @@
       "county": "苗栗",
       "name": "巧克力雲莊",
       "area": "大湖鄉",
-      "rating": 4.1,
-      "reviews": 5250,
+      "rating": null,
+      "reviews": null,
       "description": "大湖巧克力主題莊園，DIY體驗",
       "lat": 24.4485576,
       "lng": 120.8771112
@@ -341,8 +341,8 @@
       "county": "苗栗",
       "name": "天空之城",
       "area": "大湖鄉",
-      "rating": 4.1,
-      "reviews": 12740,
+      "rating": null,
+      "reviews": null,
       "description": "大湖山中城堡餐廳，鯉魚潭景",
       "lat": 24.3494064,
       "lng": 120.7785998
@@ -351,8 +351,8 @@
       "county": "苗栗",
       "name": "竹南啤酒廠",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 4953,
+      "rating": null,
+      "reviews": null,
       "description": "台啤竹南廠觀光，啤酒試飲",
       "lat": 24.7117321,
       "lng": 120.8768849
@@ -361,8 +361,8 @@
       "county": "苗栗",
       "name": "崎頂車站",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 571,
+      "rating": null,
+      "reviews": null,
       "description": "日式木造車站，鐵道迷朝聖",
       "lat": 24.7228885,
       "lng": 120.871839
@@ -381,8 +381,8 @@
       "county": "苗栗",
       "name": "龍鳳漁港",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 1318,
+      "rating": null,
+      "reviews": null,
       "description": "竹南漁港，現撈海鮮與夕陽",
       "lat": 24.70005065829799,
       "lng": 120.8560851454809
@@ -391,8 +391,8 @@
       "county": "苗栗",
       "name": "四方鮮乳牧場",
       "area": "竹南鎮",
-      "rating": 3.7,
-      "reviews": 3461,
+      "rating": null,
+      "reviews": null,
       "description": "竹南乳牛牧場，親子餵牛體驗",
       "lat": 24.7228842,
       "lng": 120.8927764
@@ -401,8 +401,8 @@
       "county": "苗栗",
       "name": "功維敘步道",
       "area": "苗栗市、公館、銅鑼",
-      "rating": 4.2,
-      "reviews": 4847,
+      "rating": null,
+      "reviews": null,
       "description": "苗栗市隧道步道，夜晚灯光秀",
       "lat": 24.5543568,
       "lng": 120.8109621
@@ -411,8 +411,8 @@
       "county": "苗栗",
       "name": "客家文化館",
       "area": "苗栗市、公館、銅鑼",
-      "rating": 4.5,
-      "reviews": 7586,
+      "rating": null,
+      "reviews": null,
       "description": "銅鑼客家文化園區，建築本身就是地景",
       "lat": 24.462385,
       "lng": 120.771245
@@ -421,8 +421,8 @@
       "county": "苗栗",
       "name": "台灣油礦陳列館",
       "area": "苗栗市、公館、銅鑼",
-      "rating": 4.4,
-      "reviews": 4575,
+      "rating": null,
+      "reviews": null,
       "description": "公館出磺坑油礦博物館，石油歷史",
       "lat": 24.4600489,
       "lng": 120.8560819
@@ -431,8 +431,8 @@
       "county": "苗栗",
       "name": "桐遊柿界",
       "area": "苗栗市、公館、銅鑼",
-      "rating": 4.1,
-      "reviews": 1456,
+      "rating": null,
+      "reviews": null,
       "description": "公館柿餅觀光農場，季節限定",
       "lat": 24.4915294,
       "lng": 120.8369835
@@ -441,8 +441,8 @@
       "county": "苗栗",
       "name": "汶水老街",
       "area": "泰安、獅潭",
-      "rating": 3.6,
-      "reviews": 3020,
+      "rating": null,
+      "reviews": null,
       "description": "泰安溫泉入口老街，客家小吃",
       "lat": 24.4576986,
       "lng": 120.8756204
@@ -451,8 +451,8 @@
       "county": "苗栗",
       "name": "烏嘎彥竹林",
       "area": "泰安、獅潭",
-      "rating": 4.3,
-      "reviews": 5216,
+      "rating": null,
+      "reviews": null,
       "description": "泰安竹林秘境，台版嵯峨野",
       "lat": 24.4209213,
       "lng": 120.9196081
@@ -461,8 +461,8 @@
       "county": "苗栗",
       "name": "清安豆腐街",
       "area": "泰安、獅潭",
-      "rating": 3.7,
-      "reviews": 584,
+      "rating": null,
+      "reviews": null,
       "description": "泰安豆腐街，手工豆腐料理",
       "lat": 24.44651,
       "lng": 120.90513
@@ -471,8 +471,8 @@
       "county": "苗栗",
       "name": "泰安溫泉",
       "area": "泰安、獅潭",
-      "rating": 4.2,
-      "reviews": 216,
+      "rating": null,
+      "reviews": null,
       "description": "苗栗碳酸溫泉，山林泡湯勝地",
       "lat": 24.4719444,
       "lng": 120.9769444
@@ -481,8 +481,8 @@
       "county": "苗栗",
       "name": "明德水庫",
       "area": "頭屋、後龍",
-      "rating": 4.3,
-      "reviews": 114,
+      "rating": null,
+      "reviews": null,
       "description": "頭屋湖泊景觀，環湖露營",
       "lat": 24.584586,
       "lng": 120.886779
@@ -491,8 +491,8 @@
       "county": "苗栗",
       "name": "日新島",
       "area": "頭屋、後龍",
-      "rating": 4.1,
-      "reviews": 3521,
+      "rating": null,
+      "reviews": null,
       "description": "明德水庫島嶼，吊橋與咖啡廳",
       "lat": 24.5878394,
       "lng": 120.8895485
@@ -501,8 +501,8 @@
       "county": "苗栗",
       "name": "雅聞七里香玫瑰森林",
       "area": "頭屋、後龍",
-      "rating": 4.1,
-      "reviews": 17245,
+      "rating": null,
+      "reviews": null,
       "description": "頭屋玫瑰主題園區，花香花海",
       "lat": 24.6000795,
       "lng": 120.8852242
@@ -511,8 +511,8 @@
       "county": "苗栗",
       "name": "客家圓樓",
       "area": "頭屋、後龍",
-      "rating": 3.6,
-      "reviews": 6850,
+      "rating": null,
+      "reviews": null,
       "description": "後龍客家圓樓建築，文化展示",
       "lat": 24.6034545,
       "lng": 120.8233391
@@ -521,8 +521,8 @@
       "county": "苗栗",
       "name": "半天寮好望角",
       "area": "頭屋、後龍",
-      "rating": 4.4,
-      "reviews": 17853,
+      "rating": null,
+      "reviews": null,
       "description": "後龍海邊高地，風車與海景",
       "lat": 24.601974,
       "lng": 120.731191
@@ -531,8 +531,8 @@
       "county": "苗栗",
       "name": "飛牛牧場",
       "area": "通霄鎮",
-      "rating": 4.3,
-      "reviews": 15463,
+      "rating": null,
+      "reviews": null,
       "description": "通霄知名牧場，乳牛與自然體驗",
       "lat": 24.441267,
       "lng": 120.741294
@@ -541,8 +541,8 @@
       "county": "苗栗",
       "name": "台鹽通霄觀光園區",
       "area": "通霄鎮",
-      "rating": 4.1,
-      "reviews": 7358,
+      "rating": null,
+      "reviews": null,
       "description": "通霄鹽來館，製鹽導覽體驗",
       "lat": 24.5559494,
       "lng": 120.7035802
@@ -551,8 +551,8 @@
       "name": "雅聞香草植物工廠",
       "description": "位於苗栗的香草植物觀光工廠，種植各式香草並研發保養品，提供導覽與DIY體驗，享受香草芬芳的悠閒時光。",
       "area": "其他",
-      "rating": 4,
-      "reviews": 13431,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.3768168,
       "lng": 120.7588926
@@ -561,8 +561,8 @@
       "name": "苗栗舊山線鐵道自行車-勝興站",
       "description": "苗栗舊山線鐵道改建的自行車體驗，從勝興車站出發，沿途經過龍騰斷橋等歷史遺跡，以鐵道自行車漫遊山城風光。",
       "area": "其他",
-      "rating": 4.2,
-      "reviews": 27880,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.3882157,
       "lng": 120.7819871
@@ -571,8 +571,8 @@
       "name": "洗水坑豆腐街",
       "description": "位於苗栗三義的豆腐街，以當地純淨山泉水製作手工豆腐聞名，聚集多家豆腐店家，提供豆腐冰、豆花等特色小吃。",
       "area": "其他",
-      "rating": 4,
-      "reviews": 16906,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.44651,
       "lng": 120.90513
@@ -581,8 +581,8 @@
       "name": "尚順育樂天地",
       "description": "位於苗栗頭份的大型室內娛樂園，結合運動、遊戲與親子設施，包括攀岩、卡丁車、彈跳床等多元活動，不受天氣影響。",
       "area": "其他",
-      "rating": 4,
-      "reviews": 20248,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.6882052,
       "lng": 120.9046566
@@ -590,8 +590,8 @@
     {
       "name": "苑裡市場",
       "area": "苑裡鎮",
-      "rating": 4.1,
-      "reviews": 395,
+      "rating": null,
+      "reviews": null,
       "description": "熱鬧的小吃聚集地，提供多樣美味選擇。",
       "lat": 24.4422225,
       "lng": 120.6531295
@@ -600,8 +600,8 @@
       "name": "中社觀光花市",
       "description": "位於台中后里的觀光花市，佔地廣大四季皆有不同花卉可賞，提供花卉採摘與園藝購買，是賞花拍照的熱門景點。",
       "area": "其他",
-      "rating": 4.2,
-      "reviews": 18485,
+      "rating": null,
+      "reviews": null,
       "tags": [],
       "lat": 24.3346766,
       "lng": 120.7299995
@@ -685,8 +685,8 @@
       "name": "兩個爸爸 FARMER CHEF咖啡簡餐（不固定公休）（下午茶、美食、餐廳）",
       "description": "提供精緻下午茶及咖啡，受到食客們的熱愛。",
       "area": "苑裡鎮",
-      "rating": 5,
-      "reviews": 320,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -701,8 +701,8 @@
       "name": "暗巷烤雞（頭份店）",
       "description": "",
       "area": "頭份市",
-      "rating": 5,
-      "reviews": 427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -717,8 +717,8 @@
       "name": "范佳味宴會廳",
       "description": "以出色的中式料理為主，適合各種宴會需求，人氣餐廳。",
       "area": "",
-      "rating": 5,
-      "reviews": 270,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -733,8 +733,8 @@
       "name": "一二三明治",
       "description": "提供美味手作三明治和咖啡，完美的輕食選擇。",
       "area": "",
-      "rating": 5,
-      "reviews": 304,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -749,8 +749,8 @@
       "name": "【元點貓貍休閒莊園】苗栗奢華懶人露營｜星空住宿｜免裝備｜山海秘境 ｜公館鄉打卡景點 ｜親子旅遊度假人氣大推薦",
       "description": "夢幻星空住宿，超人氣親子旅遊選擇。",
       "area": "公館鄉",
-      "rating": 5,
-      "reviews": 3663,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -765,8 +765,8 @@
       "name": "火旁人市集",
       "description": "創意中式料理，人氣小吃集結地，令人驚喜的美食體驗。",
       "area": "",
-      "rating": 5,
-      "reviews": 350,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -781,8 +781,8 @@
       "name": "裕見生活《懶人露營推薦》南庄親子露營｜免搭帳｜團體露營｜特色｜熱門｜好玩露營區",
       "description": "特色露營區, 人氣小吃, 適合家庭團體享受美好時光。",
       "area": "南庄鄉",
-      "rating": 5,
-      "reviews": 1421,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -797,8 +797,8 @@
       "name": "AS手作［咖啡｜下午茶｜擴香石｜調香｜解謎｜遊戲］",
       "description": "咖啡與下午茶的完美結合，吸引眾多咖啡愛好者。",
       "area": "南庄鄉",
-      "rating": 5,
-      "reviews": 1017,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -813,8 +813,8 @@
       "name": "素佩麵食館（素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 5,
-      "reviews": 22,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -829,8 +829,8 @@
       "name": "文卿蔬食🌱",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 5,
-      "reviews": 17,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -845,8 +845,8 @@
       "name": "苑裡素食海苔飯捲",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 5,
-      "reviews": 6,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -861,8 +861,8 @@
       "name": "罄美素食滷味",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "獅潭鄉",
-      "rating": 5,
-      "reviews": 3,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -877,8 +877,8 @@
       "name": "禎慧蔬食咖啡屋（預約）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 5,
-      "reviews": 13,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -893,8 +893,8 @@
       "name": "耕讀食坊",
       "description": "",
       "area": "三灣鄉",
-      "rating": 5,
-      "reviews": 290,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -910,8 +910,8 @@
       "name": "打沆咖啡Da-Hang Café",
       "description": "",
       "area": "泰安鄉",
-      "rating": 5,
-      "reviews": 457,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -927,8 +927,8 @@
       "name": "小蒙牛頂級麻辣養生鍋-苗栗忠孝店(二代店)",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 3345,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -943,8 +943,8 @@
       "name": "MODA & the MOON Cafe 碩玥咖啡廳",
       "description": "提供精緻咖啡與甜點，環境優雅，適合約會。",
       "area": "公館鄉",
-      "rating": 4.9,
-      "reviews": 1924,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -959,8 +959,8 @@
       "name": "圓圓夫妻瑜伽生活｜台灣中北部 瑜伽斷食排毒營 Yoga Detox Retreats｜瑜伽靜修中心 ｜三義蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三義鄉",
-      "rating": 4.9,
-      "reviews": 111,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -975,8 +975,8 @@
       "name": "仨吳咖啡 Chase Coffee",
       "description": "",
       "area": "苗栗市",
-      "rating": 4.9,
-      "reviews": 494,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -991,8 +991,8 @@
       "name": "麵屋有漁頭份店/苗栗美食/苗栗拉麵/苗栗餐廳/附近美食/苗栗必吃/吃的",
       "description": "高評價苗栗拉麵, 新鮮食材搭配濃郁湯頭, 必吃美食選擇",
       "area": "頭份市",
-      "rating": 4.9,
-      "reviews": 848,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1007,8 +1007,8 @@
       "name": "頭份享見麵 Enjoy meeting:)",
       "description": "招牌麵食美味無比，人氣餐廳讓人回味無窮。",
       "area": "頭份市",
-      "rating": 4.9,
-      "reviews": 885,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1023,8 +1023,8 @@
       "name": "味萊樹 頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.9,
-      "reviews": 1075,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1039,8 +1039,8 @@
       "name": "one&one燒肉．大全聯頭份店",
       "description": "享受多種美味燒肉，超人氣餐廳，令人垂涎欲滴。",
       "area": "頭份市",
-      "rating": 4.9,
-      "reviews": 1490,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1055,8 +1055,8 @@
       "name": "老和庄私廚料理",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1810,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1071,8 +1071,8 @@
       "name": "超有肉涮涮屋-苗栗店",
       "description": "超人氣火鍋, 嚴選新鮮肉品, 口感極佳。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 3323,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1087,8 +1087,8 @@
       "name": "火鍋世家 苗栗饒平店",
       "description": "受歡迎火鍋選擇, 讓你享受暖心的聚餐時光。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1572,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1103,8 +1103,8 @@
       "name": "東門初火鍋",
       "description": "高人氣火鍋店, 湯頭醇厚, 食材新鮮。",
       "area": "後龍鎮",
-      "rating": 4.9,
-      "reviews": 1225,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1119,8 +1119,8 @@
       "name": "拾鑶鍋物 頭份店",
       "description": "火鍋選擇多樣，湯頭清爽，深受食客喜愛。",
       "area": "頭份市",
-      "rating": 4.9,
-      "reviews": 1034,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1135,8 +1135,8 @@
       "name": "真涮吃到飽火鍋-竹南店",
       "description": "食材新鮮，火鍋選擇多，人氣火鍋店。",
       "area": "竹南鎮",
-      "rating": 4.9,
-      "reviews": 3152,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1151,8 +1151,8 @@
       "name": "冒大仙冒菜麻辣燙 苗栗中正店",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 789,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1167,8 +1167,8 @@
       "name": "芳燒肉（苗栗店）",
       "description": "招牌燒肉，肉質鮮嫩多汁，讓人一口接一口停不下來。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 1420,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1183,8 +1183,8 @@
       "name": "墨湘咖啡｜MO COFFEE｜苗栗咖啡烘焙店｜咖啡禮盒專賣店 | 場地租借｜包場服務｜ (提供專屬停車場～來電預約)",
       "description": "專賣咖啡禮盒，提供包場服務，人氣咖啡烘焙店。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 454,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1199,8 +1199,8 @@
       "name": "鹿角café",
       "description": "提供精緻中式台菜，環境優雅，人氣聚會場所。",
       "area": "三義鄉",
-      "rating": 4.9,
-      "reviews": 460,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1215,8 +1215,8 @@
       "name": "藏鰻威壽司創意料理 外帶店",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 714,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1231,8 +1231,8 @@
       "name": "黃記冰城 「很難吃到の剉冰」",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 294,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1247,8 +1247,8 @@
       "name": "Bonbons乳酪蛋糕專賣店（如遇店休歡迎至Bonbons甜點旗艦店）",
       "description": "專注於乳酪蛋糕的美味，每一口都值得期待。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 824,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -1263,8 +1263,8 @@
       "name": "黑心糖古早味剉冰",
       "description": "",
       "area": "",
-      "rating": 4.9,
-      "reviews": 225,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1279,8 +1279,8 @@
       "name": "品田牧場 苗栗萬家福店",
       "description": "超人氣牛排餐廳，提供高品質肉品，滿足每位食客的味蕾。",
       "area": "",
-      "rating": 4.9,
-      "reviews": 7717,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1295,8 +1295,8 @@
       "name": "龍叔伯庭園餐館",
       "description": "環境優雅，提供豐富多樣的創意台菜，超人氣。",
       "area": "三灣鄉",
-      "rating": 4.9,
-      "reviews": 1657,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1311,8 +1311,8 @@
       "name": "桂花品南庄門市(專賣牛窩窩、伴手禮)",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.9,
-      "reviews": 2669,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1327,8 +1327,8 @@
       "name": "格拉斯行館 Grasse Grace Manor",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.9,
-      "reviews": 1032,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1343,8 +1343,8 @@
       "name": "鹽和光工作室｜平日飯糰需預約、甜點以當日為主、整模蛋糕三日前預約｜",
       "description": "手作甜點與冰品，需提前預約，品質保證。",
       "area": "南庄鄉",
-      "rating": 4.9,
-      "reviews": 149,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1372,8 +1372,8 @@
       "name": "吾極鍋物-頭份竹南熱門火鍋|必吃串串|人氣火鍋|麻辣火鍋|必吃火鍋|吃到飽火鍋",
       "description": "招牌麻辣火鍋讓人垂涎三尺, 超人氣火鍋店，吃到飽的選擇。",
       "area": "竹南鎮",
-      "rating": 4.9,
-      "reviews": 417,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1388,8 +1388,8 @@
       "name": "來食朝（素食 蔬食早餐）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.9,
-      "reviews": 32,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1404,8 +1404,8 @@
       "name": "白沙屯廟後素食/剉冰",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.9,
-      "reviews": 28,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1420,8 +1420,8 @@
       "name": "卍南無阿彌陀佛 卍南無觀世音菩薩 素香麵飯（健康素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.9,
-      "reviews": 69,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1436,8 +1436,8 @@
       "name": "大明滴水坊 素食餐廳",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.9,
-      "reviews": 17,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1465,8 +1465,8 @@
       "name": "陳姐姐素食(榮光店)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "公館鄉",
-      "rating": 4.9,
-      "reviews": 16,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1481,8 +1481,8 @@
       "name": "極丼飯館",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4.9,
-      "reviews": 2003,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1498,8 +1498,8 @@
       "name": "光之彩庭園餐廳",
       "description": "",
       "area": "獅潭鄉",
-      "rating": 4.9,
-      "reviews": 497,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1515,8 +1515,8 @@
       "name": "陳仔食堂",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.9,
-      "reviews": 318,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -1532,8 +1532,8 @@
       "name": "(全素純素) 歡喜素南洋蔬食小吃店 現場忙碌時沒接電話請線上點餐 頭份素食 苗栗素食 頭份蔬食 竹南素食 純素叻沙南洋咖哩 純素肉骨茶 南洋咖哩素魚排 純素南洋咖哩叉燒 素海南雞飯 線上訂餐或訂位超方便",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.8,
-      "reviews": 424,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -1548,8 +1548,8 @@
       "name": "饗樂花園餐館（最後點桌菜時間：13:00 / 19:00）",
       "description": "知名桌菜選擇多，環境優雅，超人氣餐廳不容錯過。",
       "area": "公館鄉",
-      "rating": 4.8,
-      "reviews": 2219,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1564,8 +1564,8 @@
       "name": "Light cafe & 輕e美",
       "description": "輕鬆咖啡喫茶，享受美好時光，人氣聚集地。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 420,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1580,8 +1580,8 @@
       "name": "阿公の店/銅鑼美食/苗栗美食/豆花仙草冰品6/9公休",
       "description": "手工豆花與仙草冰的完美搭配，讓人回味無窮。",
       "area": "銅鑼鄉",
-      "rating": 4.8,
-      "reviews": 323,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1596,8 +1596,8 @@
       "name": "快樂蘇打苗栗店",
       "description": "招牌台菜令人愉悅，人氣餐廳讓人流連忘返。",
       "area": "苗栗市",
-      "rating": 4.8,
-      "reviews": 2702,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1612,8 +1612,8 @@
       "name": "舒喜食堂",
       "description": "高評價中式台菜, 讓人驚艷的家常美味, 讓你感受家的味道",
       "area": "苗栗市",
-      "rating": 4.8,
-      "reviews": 216,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1641,8 +1641,8 @@
       "name": "味來食光（最後點餐時間：中午14：00．晚上19：45）",
       "description": "",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 230,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1670,8 +1670,8 @@
       "name": "KOKOROココロ義大利麵 専売",
       "description": "專賣義大利麵，口感豐富深受喜愛。",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 1422,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1686,8 +1686,8 @@
       "name": "二哥三弟餐館（公休外休息請留意粉專，最後收客01:00）",
       "description": "",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 206,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1715,8 +1715,8 @@
       "name": "一家人日式料理屋",
       "description": "提供多樣化的日式料理，深受食客推崇的美食店。",
       "area": "苑裡鎮",
-      "rating": 4.8,
-      "reviews": 510,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -1744,8 +1744,8 @@
       "name": "老味道",
       "description": "優質台菜，雖然評論數不多但每一口都充滿懷舊滋味。",
       "area": "卓蘭鎮",
-      "rating": 4.8,
-      "reviews": 281,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1773,8 +1773,8 @@
       "name": "青禾鍋物",
       "description": "超人氣火鍋店, 提供多樣湯底和新鮮食材。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 3456,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1789,8 +1789,8 @@
       "name": "House V 好室鍋物-苗栗店",
       "description": "受歡迎火鍋店, 提供多樣化的火鍋選擇。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 2044,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1805,8 +1805,8 @@
       "name": "真涮吃到飽火鍋-頭份旗艦店",
       "description": "超人氣火鍋店，食材新鮮多樣，讓人吃得過癮。",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 2972,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1821,8 +1821,8 @@
       "name": "竺町燒肉|苗栗",
       "description": "精緻台菜和燒肉的完美結合，人氣餐廳。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 1045,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1837,8 +1837,8 @@
       "name": "享客鍋日式涮涮鍋",
       "description": "精緻日式涮涮鍋，湯底清淡，食材新鮮，是火鍋愛好者的最愛。",
       "area": "竹南鎮",
-      "rating": 4.8,
-      "reviews": 363,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -1853,8 +1853,8 @@
       "name": "鳳娘小食堂_正宗馬來西亞料理_苗栗美食_頭屋美食_叻沙麵_椰漿飯_苗栗必吃_頭屋交流道附近美食",
       "description": "正宗馬來西亞料理, 叻沙麵與椰漿飯的美味首選",
       "area": "頭屋鄉",
-      "rating": 4.8,
-      "reviews": 421,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -1869,8 +1869,8 @@
       "name": "第凡內早午餐(連假無休）",
       "description": "精緻早午餐搭配咖啡，適合悠閒的早晨時光。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 790,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1885,8 +1885,8 @@
       "name": "板妹早餐｜內用掃碼點餐；店狗麥芽🐕",
       "description": "內用掃碼點餐，搭配可愛店狗，讓早餐更添樂趣。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 214,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1914,8 +1914,8 @@
       "name": "馬祖新村 苗栗西湖店",
       "description": "",
       "area": "西湖鄉",
-      "rating": 4.8,
-      "reviews": 405,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -1930,8 +1930,8 @@
       "name": "丘森茶室後龍店-後龍夏季飲品|熱門飲料|必喝飲料|特色飲料|你訂揪團外送飲品 |人氣飲料|推薦手搖|打卡飲料",
       "description": "夏季熱門飲品，手搖飲料推薦，人氣飲料。",
       "area": "後龍鎮",
-      "rating": 4.8,
-      "reviews": 436,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -1957,8 +1957,8 @@
       "name": "邊境串燒WildBBQ 苗栗",
       "description": "",
       "area": "",
-      "rating": 4.8,
-      "reviews": 488,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1973,8 +1973,8 @@
       "name": "頭份｜燒肉政宗 YAKINIKU MASAMUNE",
       "description": "頭份燒肉政宗 YAKINIKU MASAMUNE，精緻燒肉選擇，人氣火爆，口感絕佳。",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 1485,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -1989,8 +1989,8 @@
       "name": "燒夜串燒-苗栗店",
       "description": "精緻串燒搭配多樣醬料，讓人回味無窮。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 833,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2005,8 +2005,8 @@
       "name": "東京明太子起司烤餅-苗栗店",
       "description": "香濃明太子與起司的完美融合，令人垂涎。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 363,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2021,8 +2021,8 @@
       "name": "西堤牛排 頭份尚順店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 15351,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2043,8 +2043,8 @@
       "name": "山城町炸物 苗栗新民店",
       "description": "超人氣炸物，外酥內嫩的美味，夜市必吃之選。",
       "area": "",
-      "rating": 4.8,
-      "reviews": 2263,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2059,8 +2059,8 @@
       "name": "林食起義 Lin's Tree",
       "description": "精緻台菜料理，口感豐富，吸引眾多食客前來。",
       "area": "後龍鎮",
-      "rating": 4.8,
-      "reviews": 456,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2075,8 +2075,8 @@
       "name": "夏川食堂",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.8,
-      "reviews": 759,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2091,8 +2091,8 @@
       "name": "品田牧場 頭份尚順店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.8,
-      "reviews": 9198,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2107,8 +2107,8 @@
       "name": "蕭家古厝",
       "description": "傳統小吃的優雅選擇，備受食客喜愛。",
       "area": "苑裡鎮",
-      "rating": 4.8,
-      "reviews": 179,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2123,8 +2123,8 @@
       "name": "好時光素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.8,
-      "reviews": 89,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2152,8 +2152,8 @@
       "name": "靜心越式素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.8,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2181,8 +2181,8 @@
       "name": "凍齡美人湯｜素食麵線｜甜湯（賣完提早收）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.8,
-      "reviews": 12,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2197,8 +2197,8 @@
       "name": "黃健康素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "卓蘭鎮",
-      "rating": 4.8,
-      "reviews": 6,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2213,8 +2213,8 @@
       "name": "竹南朵雷米蔬食咖啡",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.8,
-      "reviews": 221,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2242,8 +2242,8 @@
       "name": "阿勝美味廚房〔火旁人市集〕（素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.8,
-      "reviews": 37,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2258,8 +2258,8 @@
       "name": "神農天食、蔬素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "泰安鄉",
-      "rating": 4.8,
-      "reviews": 671,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2274,8 +2274,8 @@
       "name": "美鳳的家",
       "description": "中式餐廳，在地美味",
       "area": "三灣鄉",
-      "rating": 4.8,
-      "reviews": 1710,
+      "rating": null,
+      "reviews": null,
       "address": "352台灣苗栗县三湾乡和平街29號",
       "categories": [
         "中式"
@@ -2291,8 +2291,8 @@
       "name": "保羅啡嚐99《南庄必吃美食》手沖咖啡｜下午茶咖啡廳｜簡餐｜特色咖啡廳｜景觀咖啡廳｜約會咖啡廳｜網美咖啡廳",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "三灣鄉",
-      "rating": 4.8,
-      "reviews": 568,
+      "rating": null,
+      "reviews": null,
       "address": "號, No. 6-2員林村南庄鄉苗栗縣台灣 353",
       "categories": [
         "咖啡廳"
@@ -2308,8 +2308,8 @@
       "name": "橘舍三食",
       "description": "中式餐廳，在地美味",
       "area": "卓蘭鎮",
-      "rating": 4.8,
-      "reviews": 3231,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮西坪路43-15號",
       "categories": [
         "中式"
@@ -2325,8 +2325,8 @@
       "name": "保羅啡嚐99《南庄必吃美食》手沖咖啡｜下午茶咖啡廳｜簡餐｜特色咖啡廳｜景觀咖啡廳｜約會咖啡廳｜網美咖",
       "description": "",
       "area": "三灣鄉",
-      "rating": 4.8,
-      "reviews": 568,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -2342,8 +2342,8 @@
       "name": "五月雪茶舖",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.8,
-      "reviews": 719,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -2359,8 +2359,8 @@
       "name": "食朝食晝麵舖",
       "description": "",
       "area": "大湖鄉",
-      "rating": 4.8,
-      "reviews": 395,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -2376,8 +2376,8 @@
       "name": "饗沐鍋物",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4.8,
-      "reviews": 773,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "火鍋"
@@ -2406,8 +2406,8 @@
       "name": "寶鼎饌",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.8,
-      "reviews": 1328,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -2423,8 +2423,8 @@
       "name": "柒石柒 石頭鍋專賣店 竹南博愛店（直營店）",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.8,
-      "reviews": 1670,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -2440,8 +2440,8 @@
       "name": "苑裡九妹牛肉麵館",
       "description": "超人氣牛肉麵，湯頭濃郁、肉質鮮嫩。",
       "area": "苑裡鎮",
-      "rating": 4.7,
-      "reviews": 2332,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2456,8 +2456,8 @@
       "name": "Project C3 Cafe | C3 咖啡🔺6/26營業改為12:30-17:00🔺",
       "description": "氛圍悠閒的咖啡館，提供美味咖啡和輕食。",
       "area": "卓蘭鎮",
-      "rating": 4.7,
-      "reviews": 399,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2472,8 +2472,8 @@
       "name": "哥文達手作瑜伽蔬食＿奶素/全素/行動餐車/線上預購/蔬食/甜點/麵包/餅乾/禮盒",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.7,
-      "reviews": 71,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "烘焙"
       ],
@@ -2488,8 +2488,8 @@
       "name": "天慈素食Day and Night Vegetarian Restaurant",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.7,
-      "reviews": 179,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2504,8 +2504,8 @@
       "name": "百年小食 -全素／純素（素食水煎包，素食餡餅，素食炒麵，素食海苔飯捲）Vegetarian Vegan",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.7,
-      "reviews": 80,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2520,8 +2520,8 @@
       "name": "好蔬糊 素食麵線羹/綠豆冰沙 （下方加Line線上點餐）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.7,
-      "reviews": 68,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -2536,8 +2536,8 @@
       "name": "阿財黑糖發粿直營店",
       "description": "銅鑼必買伴手禮手工黑糖發粿蓬鬆香甜銅鑼車站附近排隊名店",
       "area": "",
-      "rating": 4.7,
-      "reviews": 1650,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2552,8 +2552,8 @@
       "name": "花鳥和食/苗栗美食 苗栗美食2026 苗栗日本料理 苗栗日式料理 苗栗丼飯 苗栗生魚片 苗栗親子餐廳",
       "description": "日式丼飯與生魚片的絕佳搭配，適合親子共享的美食選擇。",
       "area": "苗栗市",
-      "rating": 4.7,
-      "reviews": 2318,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2568,8 +2568,8 @@
       "name": "猫狸村Miaoli Village",
       "description": "精緻的台菜餐點，讓每位食客都感受到家的溫暖。",
       "area": "苗栗市",
-      "rating": 4.7,
-      "reviews": 1342,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2584,8 +2584,8 @@
       "name": "米盛食堂",
       "description": "招牌台菜讓人回味無窮，人氣之選的美味餐廳。",
       "area": "苗栗市",
-      "rating": 4.7,
-      "reviews": 1505,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2600,8 +2600,8 @@
       "name": "水云濮-頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 447,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2616,8 +2616,8 @@
       "name": "弎圓食堂",
       "description": "提供豐富的中式料理選擇，深受食客喜愛的美食餐廳。",
       "area": "苑裡鎮",
-      "rating": 4.7,
-      "reviews": 314,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2632,8 +2632,8 @@
       "name": "時勝日式專門",
       "description": "人氣日式料理，招牌壽司新鮮美味。",
       "area": "苑裡鎮",
-      "rating": 4.7,
-      "reviews": 1911,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2648,8 +2648,8 @@
       "name": "月台茶棧（歡迎來電預約，最後收客時間平日18:00，假日18:30）",
       "description": "創意中式料理，環境優雅，適合品茶會友。",
       "area": "三義鄉",
-      "rating": 4.7,
-      "reviews": 959,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2664,8 +2664,8 @@
       "name": "招和食山（無菜單料理）",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.7,
-      "reviews": 246,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2680,8 +2680,8 @@
       "name": "左岸人文概念餐廳",
       "description": "創意台菜，超人氣聚集，讓味蕾享受不同層次。",
       "area": "卓蘭鎮",
-      "rating": 4.7,
-      "reviews": 4198,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2696,8 +2696,8 @@
       "name": "開飯川食堂 苗栗尚順店",
       "description": "特色川菜融合台灣口味，獲得食客的廣泛好評。",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 535,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2712,8 +2712,8 @@
       "name": "億品鍋 苗栗店",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 1042,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2728,8 +2728,8 @@
       "name": "嗑肉石鍋-苗栗頭份店(二代店)",
       "description": "",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 1409,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2744,8 +2744,8 @@
       "name": "金春喜韓廚-苗栗萬家福店",
       "description": "招牌韓式料理，口味多樣，讓人流連忘返。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 822,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -2760,8 +2760,8 @@
       "name": "一喜鍋頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 1578,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2776,8 +2776,8 @@
       "name": "台南汕頭沙茶王沙茶火鍋",
       "description": "招牌沙茶火鍋，濃郁的沙茶醬讓人回味無窮。",
       "area": "公館鄉",
-      "rating": 4.7,
-      "reviews": 508,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -2792,8 +2792,8 @@
       "name": "屋咖人（無接待團體超過4位，假日需預約）",
       "description": "提供中式台菜，注意人數限制，適合小聚，人氣餐廳。",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 535,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2808,8 +2808,8 @@
       "name": "D.H CAFÉ（假日營業）",
       "description": "",
       "area": "",
-      "rating": 4.7,
-      "reviews": 290,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2824,8 +2824,8 @@
       "name": "老屋六號咖啡",
       "description": "人氣咖啡喫茶，氛圍優雅，適合朋友聚會。",
       "area": "南庄鄉",
-      "rating": 4.7,
-      "reviews": 295,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2840,8 +2840,8 @@
       "name": "小山丘 hillside 145.5k",
       "description": "精緻中式/台菜料理，讓你品味自然的美好。",
       "area": "卓蘭鎮",
-      "rating": 4.7,
-      "reviews": 562,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2856,8 +2856,8 @@
       "name": "苗栗大湖石風城堡庭園景觀餐廳/下午茶/草莓雪花冰",
       "description": "草莓雪花冰與下午茶的完美搭配。",
       "area": "大湖鄉",
-      "rating": 4.7,
-      "reviews": 1534,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2872,8 +2872,8 @@
       "name": "田野日式料理",
       "description": "提供精緻日式料理，讓味蕾享受純粹的和風美食。",
       "area": "苑裡鎮",
-      "rating": 4.7,
-      "reviews": 896,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -2888,8 +2888,8 @@
       "name": "山崁燒肉",
       "description": "新鮮食材搭配，口碑極佳，燒肉愛好者必訪。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 232,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -2904,8 +2904,8 @@
       "name": "崛起山城南庄店-客家特色美食餐廳",
       "description": "專注客家美食，色香味俱全，讓人回味無窮。",
       "area": "南庄鄉",
-      "rating": 4.7,
-      "reviews": 366,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2920,8 +2920,8 @@
       "name": "好食農村小館",
       "description": "強調使用當季食材，口味新鮮健康，深受喜愛。",
       "area": "後龍鎮",
-      "rating": 4.7,
-      "reviews": 200,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2936,8 +2936,8 @@
       "name": "多汁香炸雞/苗栗炸雞/苗栗宵夜/苗栗小吃/苗栗美食/附近美食/苗栗炸物",
       "description": "鮮嫩多汁的炸雞，成為苗栗宵夜的超人氣代表。",
       "area": "苗栗市",
-      "rating": 4.7,
-      "reviews": 666,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2952,8 +2952,8 @@
       "name": "黃金傳說窯烤麵包13間老街店",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.7,
-      "reviews": 2284,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -2968,8 +2968,8 @@
       "name": "港島主麵-頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.7,
-      "reviews": 962,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -2984,8 +2984,8 @@
       "name": "煦苑 咖啡 紅豆餅",
       "description": "專注於咖啡與紅豆餅的完美搭配，人氣餐廳。",
       "area": "",
-      "rating": 4.7,
-      "reviews": 508,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3000,8 +3000,8 @@
       "name": "晶芯蔬食（盡量預約為主）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.7,
-      "reviews": 78,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3016,8 +3016,8 @@
       "name": "白沙屯素食(日香素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.7,
-      "reviews": 217,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3032,8 +3032,8 @@
       "name": "天慈素食苑裡店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.7,
-      "reviews": 72,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3048,8 +3048,8 @@
       "name": "觀自在素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "卓蘭鎮",
-      "rating": 4.7,
-      "reviews": 58,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3064,8 +3064,8 @@
       "name": "誠心越南素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.7,
-      "reviews": 354,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3080,8 +3080,8 @@
       "name": "柴燒卡帕尼",
       "description": "中式餐廳，在地美味",
       "area": "西湖鄉",
-      "rating": 4.7,
-      "reviews": 1351,
+      "rating": null,
+      "reviews": null,
       "address": "368台灣苗栗縣西湖鄉二湖村16之7號",
       "categories": [
         "中式"
@@ -3097,8 +3097,8 @@
       "name": "阿財米食",
       "description": "甜品專賣店，消暑好選擇",
       "area": "銅鑼鄉",
-      "rating": 4.7,
-      "reviews": 1652,
+      "rating": null,
+      "reviews": null,
       "address": "366台灣苗栗縣銅鑼鄉樟樹村4之90號",
       "categories": [
         "中式"
@@ -3114,8 +3114,8 @@
       "name": "琉璃秋境｜懶人野餐・窯烤披薩",
       "description": "甜品專賣店，消暑好選擇",
       "area": "大湖鄉",
-      "rating": 4.7,
-      "reviews": 647,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉栗林村13號",
       "categories": [
         "義式"
@@ -3131,8 +3131,8 @@
       "name": "梁陳吉日複合式乾燥花餐廳",
       "description": "日式料理餐廳",
       "area": "通霄鎮",
-      "rating": 4.7,
-      "reviews": 625,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮通西里福德路32號",
       "categories": [
         "日式"
@@ -3148,8 +3148,8 @@
       "name": "慕雲想莊園B&B景觀餐廳 - 苗栗頭屋 人氣星空房觀星民宿 特色房型 落羽松秘境餐廳 法式套餐 浪漫約會 寵物友善 親子沙坑 家庭旅遊渡假首選 線上訂房住宿優惠 PTT網紅推薦",
       "description": "中式餐廳，在地美味",
       "area": "頭屋鄉",
-      "rating": 4.7,
-      "reviews": 1426,
+      "rating": null,
+      "reviews": null,
       "address": "362台灣苗栗縣頭屋鄉象山村濫坑57之2號",
       "categories": [
         "西式"
@@ -3165,8 +3165,8 @@
       "name": "苗栗獅潭仙草花海",
       "description": "中式餐廳，在地美味",
       "area": "獅潭鄉",
-      "rating": 4.7,
-      "reviews": 817,
+      "rating": null,
+      "reviews": null,
       "address": "354台灣苗栗縣獅潭鄉新店村",
       "categories": [
         "中式"
@@ -3182,8 +3182,8 @@
       "name": "慕雲想莊園B&B景觀餐廳 - 苗栗頭屋 人氣星空房觀星民宿 特色房型 落羽松秘境餐廳 法式套餐 浪漫",
       "description": "",
       "area": "頭屋鄉",
-      "rating": 4.7,
-      "reviews": 1426,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "西式"
@@ -3199,8 +3199,8 @@
       "name": "壞鄰居工作室 Bad Neighbor’s Kitchen（寵物友善 頭份餐廳 竹南餐廳 台灣餐廳 苗栗必吃 美食 漢堡 披薩 義大利麵 早午餐 燒烤 burger pizza pasta ）",
       "description": "寵物友善環境，漢堡與披薩口味絕佳。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 630,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3215,8 +3215,8 @@
       "name": "通霄老李紅燒牛肉麵",
       "description": "招牌紅燒牛肉麵，人氣美食，口感醇厚讓人回味無窮。",
       "area": "通霄鎮",
-      "rating": 4.6,
-      "reviews": 392,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3231,8 +3231,8 @@
       "name": "伴 Life Partner（賣完就收）",
       "description": "樸實的咖啡廳，設有開放式廚房，供應義式主餐、甜點及咖啡。",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 412,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3247,8 +3247,8 @@
       "name": "在地人擔仔麵",
       "description": "口味地道的擔仔麵, 深受當地人喜愛。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 467,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3263,8 +3263,8 @@
       "name": "植感咖啡 BotanicalCafe",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 748,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3279,8 +3279,8 @@
       "name": "沛克咖啡店 Pergram Coffee Roasters",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 775,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3295,8 +3295,8 @@
       "name": "裏房甜點 Leevan Pâtisserie",
       "description": "精緻甜點讓每個瞬間都充滿甜蜜滋味。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 226,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -3311,8 +3311,8 @@
       "name": "蓬萊生態農場仙山民宿 - 苗栗 人氣旅遊包棟民宿 平價10人房多人房型 登山觀星 賞螢火蟲 親子友善 迎新營火晚會 手做DIY 高CP值住宿首選 南庄老街附近 2026熱門渡假 線上訂房優惠 PTT Dcard網紅推薦",
       "description": "親子友善的高CP值住宿，受遊客青睞。",
       "area": "南庄鄉",
-      "rating": 4.6,
-      "reviews": 981,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3327,8 +3327,8 @@
       "name": "萬安當歸鴨肉麵線",
       "description": "頭份建國路在地人激推，溫體鴨肉軟嫩，當歸清香，三種手炒辣椒",
       "area": "",
-      "rating": 4.6,
-      "reviews": 663,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3343,8 +3343,8 @@
       "name": "連記甘味花園餐廳",
       "description": "銅鑼百年封鴨名店，食尚玩家林莎推薦，客家料理",
       "area": "",
-      "rating": 4.6,
-      "reviews": 2121,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3359,8 +3359,8 @@
       "name": "三義鄉村麵館",
       "description": "三義三大麵館之一傳承三代，客家油蔥鹹香麵食回味無窮，新店面有冷氣用餐更舒適",
       "area": "三義鄉",
-      "rating": 4.6,
-      "reviews": 962,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3375,8 +3375,8 @@
       "name": "閒人居茶坊",
       "description": "輕鬆的氛圍中享用台菜，讓人放鬆心情的好地方。",
       "area": "苗栗市",
-      "rating": 4.6,
-      "reviews": 1031,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3391,8 +3391,8 @@
       "name": "波奇多夏威夷輕食-苗栗美食 苗栗健康餐 苗栗輕食 苗栗減脂餐 苗栗小吃 苗栗素食餐廳",
       "description": "健康減脂餐的新選擇，素食愛好者的好去處。",
       "area": "苗栗市",
-      "rating": 4.6,
-      "reviews": 430,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -3407,8 +3407,8 @@
       "name": "烏色咖啡",
       "description": "咖啡與茶的完美融合，適合悠閒時光的隱藏版喫茶館。",
       "area": "苗栗市",
-      "rating": 4.6,
-      "reviews": 773,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3423,8 +3423,8 @@
       "name": "龍來小館",
       "description": "",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 2470,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3439,8 +3439,8 @@
       "name": "范頭家客家餐廳",
       "description": "熱鬧的樸實餐廳，供應份量十足的麵食、海鮮和肉類料理。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 3553,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3455,8 +3455,8 @@
       "name": "四川涼麵",
       "description": "清爽的中式涼麵，夏日必試的清涼美食。",
       "area": "苑裡鎮",
-      "rating": 4.6,
-      "reviews": 838,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3471,8 +3471,8 @@
       "name": "立軒麵館",
       "description": "手工麵食口感滑順，搭配多樣湯底，超人氣之選。",
       "area": "卓蘭鎮",
-      "rating": 4.6,
-      "reviews": 271,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3487,8 +3487,8 @@
       "name": "萬安當歸鴨肉麵線/鴨肉飯",
       "description": "",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 664,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3503,8 +3503,8 @@
       "name": "一隻小牛 牛腩麵食鋪",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 259,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3519,8 +3519,8 @@
       "name": "福記麵館(依FB公告為主)",
       "description": "招牌麵食新鮮美味，人氣店鋪，讓人每次光顧都有驚喜。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 229,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3535,8 +3535,8 @@
       "name": "貢鍋共鍋麻辣火鍋店-苗栗火鍋店/親子餐廳/寵物友善餐廳 2026必吃美食 在地/排隊/家庭/團體聚餐 人氣訂位推薦 PTT Dcard",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1307,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -3551,8 +3551,8 @@
       "name": "綠園日式涮涮鍋",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 898,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -3567,8 +3567,8 @@
       "name": "六扇門時尚湯鍋 苗栗苑裡慈和店",
       "description": "創新的中式湯鍋，食材新鮮，讓你享受無限美味。",
       "area": "苑裡鎮",
-      "rating": 4.6,
-      "reviews": 977,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3583,8 +3583,8 @@
       "name": "續攤平價快炒",
       "description": "平價快炒美食, 讓人回味無窮的家常味",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 289,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3599,8 +3599,8 @@
       "name": "函軒會館",
       "description": "高評價的中式料理，備受食客喜愛，是聚會的理想場所。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 699,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3615,8 +3615,8 @@
       "name": "Doo Coffee寵物友善景觀咖啡廳",
       "description": "寵物友善咖啡廳，享受美食與自然，超人氣休憩地。",
       "area": "公館鄉",
-      "rating": 4.6,
-      "reviews": 2537,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3631,8 +3631,8 @@
       "name": "拾·好時foodimemory",
       "description": "精緻中式台菜，讓回憶與美味交融，人氣餐廳。",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 428,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3647,8 +3647,8 @@
       "name": "老家生活藝文空間（預約制）｜手作線香。慢活教育。",
       "description": "手作線香體驗，融合慢活教育與傳統手藝。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 614,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3663,8 +3663,8 @@
       "name": "初口甜點(無訂位服務)",
       "description": "無訂位服務的甜品天堂，滿足你對甜蜜的渴望。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 397,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -3679,8 +3679,8 @@
       "name": "東海徐咖啡",
       "description": "咖啡喫茶的好去處，提供舒適的休憩空間。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 327,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3695,8 +3695,8 @@
       "name": "古早味蚵嗲(公休日請至FB粉專公告）",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4.6,
-      "reviews": 306,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3711,8 +3711,8 @@
       "name": "麥町吐司-苗栗新民店",
       "description": "人氣吐司搭配創意醬料，讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 1300,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -3727,8 +3727,8 @@
       "name": "元成冰菓室",
       "description": "｜新鮮水果冰品，健康又美味，受歡迎的選擇。",
       "area": "大湖鄉",
-      "rating": 4.6,
-      "reviews": 590,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -3743,8 +3743,8 @@
       "name": "銅門燒烤/串燒居酒屋",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 540,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -3759,8 +3759,8 @@
       "name": "小時厚牛排-苗栗市府店",
       "description": "厚切牛排搭配美味醬汁，讓每一口都是享受。",
       "area": "苗栗市",
-      "rating": 4.6,
-      "reviews": 978,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3775,8 +3775,8 @@
       "name": "瀧厚炙燒熟成牛排 苗栗.頭份大全聯店",
       "description": "招牌炙燒牛排，人氣餐廳，讓肉質鮮嫩多汁。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 2067,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3791,8 +3791,8 @@
       "name": "賞鐵板料理",
       "description": "",
       "area": "",
-      "rating": 4.6,
-      "reviews": 456,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3807,8 +3807,8 @@
       "name": "金陽便當（原媽媽便當）",
       "description": "提供多樣化的便當選擇，口感美味，適合忙碌的日子。",
       "area": "",
-      "rating": 4.6,
-      "reviews": 225,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3823,8 +3823,8 @@
       "name": "倈呷冰 --- 黑砂糖刨冰 雪花冰",
       "description": "黑砂糖刨冰與雪花冰的完美結合，口感滑順，夏日消暑必備甜品。",
       "area": "通霄鎮",
-      "rating": 4.6,
-      "reviews": 300,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3839,8 +3839,8 @@
       "name": "雲也居一休閒農場",
       "description": "",
       "area": "大湖鄉",
-      "rating": 4.6,
-      "reviews": 2884,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3855,8 +3855,8 @@
       "name": "苗栗南庄漢滿樓",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.6,
-      "reviews": 301,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3872,8 +3872,8 @@
       "name": "楊媽媽豬籠粄客家米食",
       "description": "精緻客家米食, 招牌豬籠粄, 令人回味無窮。",
       "area": "南庄鄉",
-      "rating": 4.6,
-      "reviews": 284,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3888,8 +3888,8 @@
       "name": "真櫻廚房-頭份特色餐廳|中式餐廳|熱門餐廳|網美餐廳|合菜餐廳|景觀餐廳|人氣餐廳|在地推薦餐廳",
       "description": "精緻合菜與景觀餐廳結合，人氣餐廳的理想選擇。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 232,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3904,8 +3904,8 @@
       "name": "隔壁宵夜 頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 942,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3920,8 +3920,8 @@
       "name": "三漫食義 SANMAN PASTA｜義大利麵 苗栗義式餐廳",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 1800,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -3936,8 +3936,8 @@
       "name": "來馬吃鍋 - 建國店",
       "description": "經典的小吃鍋物，讓食客享受熱騰騰的美味體驗。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 101,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -3952,8 +3952,8 @@
       "name": "四季中餐廳",
       "description": "四季皆宜的小吃，口感豐富，令人期待。",
       "area": "苑裡鎮",
-      "rating": 4.6,
-      "reviews": 471,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3968,8 +3968,8 @@
       "name": "灣麗親子公園",
       "description": "適合全家共享的小吃，親子共同享受的美味。",
       "area": "苑裡鎮",
-      "rating": 4.6,
-      "reviews": 1206,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -3984,8 +3984,8 @@
       "name": "山野蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.6,
-      "reviews": 556,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4000,8 +4000,8 @@
       "name": "素食養生屋",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西湖鄉",
-      "rating": 4.6,
-      "reviews": 367,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4016,8 +4016,8 @@
       "name": "通霄素食水煎包",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.6,
-      "reviews": 78,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4032,8 +4032,8 @@
       "name": "I-su艾蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.6,
-      "reviews": 1029,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4048,8 +4048,8 @@
       "name": "食神蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.6,
-      "reviews": 170,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4064,8 +4064,8 @@
       "name": "喜悅蔬食-健康餐盒.手路菜",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.6,
-      "reviews": 19,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4080,8 +4080,8 @@
       "name": "緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.6,
-      "reviews": 9,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4096,8 +4096,8 @@
       "name": "緣味蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 100,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4112,8 +4112,8 @@
       "name": "大自然素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.6,
-      "reviews": 58,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4128,8 +4128,8 @@
       "name": "梁陳吉食蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 74,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4144,8 +4144,8 @@
       "name": "喜素齋素食專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 23,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4160,8 +4160,8 @@
       "name": "崛起山城客家特色美食餐廳（大湖店）",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4.6,
-      "reviews": 676,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉富興村33之11號",
       "categories": [
         "中式"
@@ -4177,8 +4177,8 @@
       "name": "幸福農場",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "通霄鎮",
-      "rating": 4.6,
-      "reviews": 836,
+      "rating": null,
+      "reviews": null,
       "address": "35743台灣苗栗縣通霄鎮通灣里6鄰58號通灣里",
       "categories": [
         "咖啡廳"
@@ -4194,8 +4194,8 @@
       "name": "山灣咖啡",
       "description": "",
       "area": "三灣鄉",
-      "rating": 4.6,
-      "reviews": 290,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -4211,8 +4211,8 @@
       "name": "什錦湯麵好味緒餐坊",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.6,
-      "reviews": 475,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -4228,8 +4228,8 @@
       "name": "NU PASTA 苗栗竹南店",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.6,
-      "reviews": 3039,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "西式"
@@ -4245,8 +4245,8 @@
       "name": "水食堂",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.6,
-      "reviews": 259,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -4262,8 +4262,8 @@
       "name": "樂烤和牛-頭份尚順店 ｜頭份美食｜燒烤吃到飽",
       "description": "提供優質和牛燒烤吃到飽，讓肉食愛好者滿足需求。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 227,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4278,8 +4278,8 @@
       "name": "富貴牡丹 FUGUEI Peony Restaurant",
       "description": "精緻中式料理，雖評論數稍少但口碑卓越，值得品味。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 602,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4294,8 +4294,8 @@
       "name": "more cafe",
       "description": "咖啡喫茶的理想之地，享受輕鬆愜意的時光。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4310,8 +4310,8 @@
       "name": "范頭家新港宴會廳(原范家宴客家餐廳) - 客家菜 | 單點小吃 | 合菜 | 婚宴會館推薦",
       "description": "專注客家美食與婚宴，適合各類聚會的好選擇。",
       "area": "後龍鎮",
-      "rating": 4.5,
-      "reviews": 1985,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4326,8 +4326,8 @@
       "name": "彭湃客家土雞麵館",
       "description": "招牌土雞麵湯頭濃郁，麵條Q彈，是麵食愛好者的好選擇。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 628,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4342,8 +4342,8 @@
       "name": "台北內湖~滷香湯滷蔬食料理",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西湖鄉",
-      "rating": 4.5,
-      "reviews": 62,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4358,8 +4358,8 @@
       "name": "南庄飯盆頭客家菜",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 489,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4374,8 +4374,8 @@
       "name": "沐暉苑食",
       "description": "人氣中式台菜, 精緻料理搭配優雅環境, 理想的聚餐選擇",
       "area": "苗栗市",
-      "rating": 4.5,
-      "reviews": 1311,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4390,8 +4390,8 @@
       "name": "冉冉日嚐",
       "description": "精緻的台菜選擇，讓你感受家的味道。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 978,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4406,8 +4406,8 @@
       "name": "宮本武丼 苗栗頭份 《日料美食》日式定食｜日式便當｜餐盒外送｜平價特色｜人氣丼飯｜熱門日料｜特色丼飯",
       "description": "推廣平價特色丼飯，人氣日式便當深受食客喜愛。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 2077,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4422,8 +4422,8 @@
       "name": "鴻愿小廚",
       "description": "專注於傳統台菜，讓人品味到家的溫暖與美味。",
       "area": "苑裡鎮",
-      "rating": 4.5,
-      "reviews": 274,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4438,8 +4438,8 @@
       "name": "均晣溫度",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.5,
-      "reviews": 496,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4454,8 +4454,8 @@
       "name": "日嚐-義式料理",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.5,
-      "reviews": 539,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4470,8 +4470,8 @@
       "name": "桐花村 三義客家料理",
       "description": "專注於三義客家料理，深受食客喜愛，人氣不減。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 6720,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4486,8 +4486,8 @@
       "name": "映象水岸",
       "description": "結合美景與美食，讓每一口都充滿驚喜，超人氣。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 3735,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4502,8 +4502,8 @@
       "name": "花自在食宿館",
       "description": "精緻中式餐點，口碑良好，讓人流連忘返。",
       "area": "卓蘭鎮",
-      "rating": 4.5,
-      "reviews": 614,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4518,8 +4518,8 @@
       "name": "阿亮伯水餃館-橫車店",
       "description": "手工水餃皮薄餡多，嚐過一次便難以忘懷。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 376,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4534,8 +4534,8 @@
       "name": "阿文滷肉飯",
       "description": "滷肉飯香氣四溢，讓人一試成主顧。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 268,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4550,8 +4550,8 @@
       "name": "有食間",
       "description": "精緻台菜料理, 讓每一口都充滿家鄉的味道。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 363,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4566,8 +4566,8 @@
       "name": "月團圓雞湯火鍋丨全新改裝自助吧丨頭份尚順店",
       "description": "雞湯火鍋獨具特色，自助吧選擇豐富。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 1402,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4582,8 +4582,8 @@
       "name": "石二鍋 苗栗萬家福店",
       "description": "人氣火鍋店，提供多樣化的鍋底和新鮮食材。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 1218,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -4598,8 +4598,8 @@
       "name": "重成商號（營業時間依FB為主）",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4.5,
-      "reviews": 892,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4614,8 +4614,8 @@
       "name": "純手工-鮮肉湯包",
       "description": "超人氣湯包，輕咬即破的鮮美湯汁引人嚐試。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 4510,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4630,8 +4630,8 @@
       "name": "（東北香粑粑）白沙屯美食",
       "description": "香氣四溢的香粑粑，口感軟糯，帶給人溫暖的幸福感。",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 1083,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4646,8 +4646,8 @@
       "name": "永安街豬雜麵",
       "description": "招牌豬雜麵湯頭濃郁，讓人垂涎欲滴。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 937,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4662,8 +4662,8 @@
       "name": "港町ブルース日式餐館-後龍人氣丼飯|日式餐廳|日式丼飯|人氣日式料理|日本料理推薦|熱門日料|熱門丼飯|新鮮生魚片",
       "description": "人氣丼飯，新鮮生魚片搭配美味醬汁，深受好評。",
       "area": "後龍鎮",
-      "rating": 4.5,
-      "reviews": 214,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4678,8 +4678,8 @@
       "name": "山姆夾心SAM WICH 早午餐 總店",
       "description": "提供多樣化的早午餐選擇，讓你每次都想再來。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 361,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4694,8 +4694,8 @@
       "name": "Morni 莫尼早餐 苗栗竹南店",
       "description": "特色早餐搭配優質咖啡，讓您元氣滿滿的一天。",
       "area": "竹南鎮",
-      "rating": 4.5,
-      "reviews": 429,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4710,8 +4710,8 @@
       "name": "剉勒丹",
       "description": "｜道地台菜，傳承美味，讓人回味無窮。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 235,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4726,8 +4726,8 @@
       "name": "紅吱吱平價牛排 苗栗店",
       "description": "實惠好吃的牛排，讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 380,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4742,8 +4742,8 @@
       "name": "放牛一班",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.5,
-      "reviews": 555,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4758,8 +4758,8 @@
       "name": "上野烤肉飯-苗栗店",
       "description": "招牌烤肉飯味道香濃，搭配各式配菜，是喜愛肉食者的必訪之地。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 213,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4774,8 +4774,8 @@
       "name": "山水亭客家料理",
       "description": "專注於經典客家菜，讓每一口都充滿家鄉的溫暖。",
       "area": "南庄鄉",
-      "rating": 4.5,
-      "reviews": 489,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4790,8 +4790,8 @@
       "name": "范大哥餐館",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.5,
-      "reviews": 642,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4806,8 +4806,8 @@
       "name": "苗栗火車頭園區",
       "description": "經典台菜餐廳，超人氣火雞肉飯，適合全家聚餐的好去處。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 3077,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4822,8 +4822,8 @@
       "name": "三拾丼飯",
       "description": "",
       "area": "苗栗市",
-      "rating": 4.5,
-      "reviews": 248,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4838,8 +4838,8 @@
       "name": "采園居",
       "description": "精緻小吃搭配多樣選擇，成為夜市裡的美食亮點。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 528,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4855,8 +4855,8 @@
       "name": "勝興七姊八弟山城店",
       "description": "各類小吃滿足食客需求，受歡迎的山城美食選擇。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 1427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4871,8 +4871,8 @@
       "name": "十六份人文茶館",
       "description": "提供精緻咖啡與悠閒氛圍, 超人氣的文藝聚會場所。",
       "area": "",
-      "rating": 4.5,
-      "reviews": 2069,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -4887,8 +4887,8 @@
       "name": "幸運草小築",
       "description": "",
       "area": "",
-      "rating": 4.5,
-      "reviews": 159,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4903,8 +4903,8 @@
       "name": "潘家豬籠粄黑糖糕",
       "description": "招牌黑糖糕, 甜而不膩的美味, 是夜市必嚐的經典小吃。",
       "area": "南庄鄉",
-      "rating": 4.5,
-      "reviews": 104,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -4920,8 +4920,8 @@
       "name": "佐佐ぎょうざ日式煎餃專賣店(無訂位）",
       "description": "專賣日式煎餃，口感絕佳的餃子讓人一試成主顧。",
       "area": "竹南鎮",
-      "rating": 4.5,
-      "reviews": 629,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -4936,8 +4936,8 @@
       "name": "古斯托義式餐廳",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.5,
-      "reviews": 386,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -4952,8 +4952,8 @@
       "name": "禪廚蔬食餐廳 | 超人氣| 頭屋交流道素食 |苗栗必吃 |",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.5,
-      "reviews": 2379,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4968,8 +4968,8 @@
       "name": "通霄一心素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 261,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -4984,8 +4984,8 @@
       "name": "隨心齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 6,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5000,8 +5000,8 @@
       "name": "裕橙香素食🍳蛋包飯🍳🐶寵物友善店家🐶",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 64,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5016,8 +5016,8 @@
       "name": "素食好鹽酥基滷味",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "造橋鄉",
-      "rating": 4.5,
-      "reviews": 197,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5032,8 +5032,8 @@
       "name": "膳齋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.5,
-      "reviews": 81,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5048,8 +5048,8 @@
       "name": "快樂屋素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三義鄉",
-      "rating": 4.5,
-      "reviews": 46,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5064,8 +5064,8 @@
       "name": "健康素食-公有市場16號攤",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "公館鄉",
-      "rating": 4.5,
-      "reviews": 2,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5080,8 +5080,8 @@
       "name": "龍媽媽素食小吃",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "後龍鎮",
-      "rating": 4.5,
-      "reviews": 37,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5096,8 +5096,8 @@
       "name": "輕鬆小站飲料店-素食專賣店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 8,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5112,8 +5112,8 @@
       "name": "相遇森林屋",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.5,
-      "reviews": 529,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5129,8 +5129,8 @@
       "name": "白沙屯拱天宮香客餐廳文物大樓",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.5,
-      "reviews": 447,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5146,8 +5146,8 @@
       "name": "回角",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.5,
-      "reviews": 282,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -5163,8 +5163,8 @@
       "name": "賴家煎包",
       "description": "通霄慈惠宮對面排隊美食，酥脆Q彈煎包厚實蛋餅，銅板價",
       "area": "",
-      "rating": 4.4,
-      "reviews": 408,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5179,8 +5179,8 @@
       "name": "富利記佛跳牆筒仔米糕排骨酥湯",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 279,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5195,8 +5195,8 @@
       "name": "苗栗大湖福菜園客家菜餐廳",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "大湖鄉",
-      "rating": 4.4,
-      "reviews": 2039,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5211,8 +5211,8 @@
       "name": "日升記米糕/頭份小吃/頭份美食/takeout/restaurants/附近美食/吃的",
       "description": "招牌米糕口感Q彈, 人氣小吃，適合外帶享用。",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 183,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5227,8 +5227,8 @@
       "name": "白沙屯外省牛肉麵",
       "description": "平實的街邊餐廳，供應湯麵、水餃和其他麵食。",
       "area": "通霄鎮",
-      "rating": 4.4,
-      "reviews": 4373,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5243,8 +5243,8 @@
       "name": "後龍排骨麵",
       "description": "後龍用餐時間大排長龍招牌排骨麵排骨飯只要60元現炸排骨份量實在",
       "area": "",
-      "rating": 4.4,
-      "reviews": 479,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5259,8 +5259,8 @@
       "name": "小食光麵堂",
       "description": "銅鑼車站旁文青風小麵館肥嘟嘟水晶餃超可愛客家乾麵配手工水晶餃必吃",
       "area": "",
-      "rating": 4.4,
-      "reviews": 967,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5275,8 +5275,8 @@
       "name": "一山烏龍麵",
       "description": "中式台菜專賣, 純手工麵食, 吸引麵食愛好者",
       "area": "苗栗市",
-      "rating": 4.4,
-      "reviews": 424,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5291,8 +5291,8 @@
       "name": "心雕居",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 1207,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5307,8 +5307,8 @@
       "name": "討海人海鮮料理會館",
       "description": "新鮮海鮮料理，讓你享受海味的極致。",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 1272,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5323,8 +5323,8 @@
       "name": "吉祥樓餐廳《苗栗三義客家美食餐廳.客家菜.客家料理.特色美食.必吃美食》",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.4,
-      "reviews": 2461,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5339,8 +5339,8 @@
       "name": "叁代堂",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.4,
-      "reviews": 2505,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5355,8 +5355,8 @@
       "name": "三丘景觀餐廳 3 Hills café",
       "description": "結合咖啡與中式料理，景觀優美，是放鬆心情的好去處。",
       "area": "三義鄉",
-      "rating": 4.4,
-      "reviews": 852,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5371,8 +5371,8 @@
       "name": "竹南雲南小吃",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 764,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "異國"
       ],
@@ -5387,8 +5387,8 @@
       "name": "田寮麵店",
       "description": "招牌麵食新鮮美味，吃過令人難忘，適合家庭聚餐。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 247,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5403,8 +5403,8 @@
       "name": "鴻興餃子館",
       "description": "招牌餃子口感鮮美，人氣店面，讓食客流連忘返。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1099,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5419,8 +5419,8 @@
       "name": "一之賀鍋物",
       "description": "提供多樣鍋底選擇，適合鍋物愛好者。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 766,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -5435,8 +5435,8 @@
       "name": "老余牛家莊",
       "description": "台菜經典菜色，深受食客喜愛，超人氣。",
       "area": "後龍鎮",
-      "rating": 4.4,
-      "reviews": 2427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5451,8 +5451,8 @@
       "name": "53番精緻火鍋",
       "description": "專注火鍋的精緻口感，適合聚會的好去處。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 249,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -5467,8 +5467,8 @@
       "name": "洄饗極の鍋物 頭份店",
       "description": "人氣火鍋，特色鍋底搭配新鮮食材，讓人一試成主顧。",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 1324,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -5483,8 +5483,8 @@
       "name": "饗讚佰元熱炒",
       "description": "百元熱炒美食, 物超所值的精緻享受",
       "area": "",
-      "rating": 4.4,
-      "reviews": 239,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5499,8 +5499,8 @@
       "name": "龍鎮海產店",
       "description": "美味海鮮料理, 受到食客喜愛的海產選擇",
       "area": "後龍鎮",
-      "rating": 4.4,
-      "reviews": 864,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5515,8 +5515,8 @@
       "name": "有間食堂",
       "description": "提供多樣化的台灣家常菜，讓人感受到家的味道。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 389,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5531,8 +5531,8 @@
       "name": "阿蘭姊小吃店",
       "description": "人氣台菜小吃，料理新鮮美味，讓人回味無窮。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 2162,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5547,8 +5547,8 @@
       "name": "翁記水晶餃",
       "description": "水晶餃皮薄餡多，口感佳，是人們的熱門選擇。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 324,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5563,8 +5563,8 @@
       "name": "彩雲麵食",
       "description": "精緻麵食料理，結合多種配料，色香味俱全，讓人食指大動。",
       "area": "三義鄉",
-      "rating": 4.4,
-      "reviews": 302,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5579,8 +5579,8 @@
       "name": "神匠日式料理",
       "description": "人氣日式料理，精緻料理搭配新鮮食材，深受食客喜愛。",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 1114,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -5595,8 +5595,8 @@
       "name": "祥賀芒果牛奶冰",
       "description": "超人氣芒果冰品，清涼消暑的最佳選擇。",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 2101,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -5611,8 +5611,8 @@
       "name": "夏綠蒂雪花冰",
       "description": "｜綿密雪花冰，搭配多樣配料，深受食客喜愛。",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 1215,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5627,8 +5627,8 @@
       "name": "首戶牛排（苗栗店）",
       "description": "牛排品質上乘，搭配多樣化的料理選擇，吸引吃貨前來。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 1168,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5643,8 +5643,8 @@
       "name": "歐兔啡食館（苗栗英才館）",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 291,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5659,8 +5659,8 @@
       "name": "陶之飲",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 1486,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5675,8 +5675,8 @@
       "name": "吳媽媽創意廚房",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.4,
-      "reviews": 2650,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5691,8 +5691,8 @@
       "name": "夢鼎軒精緻小吃",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 1091,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5707,8 +5707,8 @@
       "name": "鄉香客家菜",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 321,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5723,8 +5723,8 @@
       "name": "丑丑小吃店",
       "description": "美味小吃令人驚豔，人氣持續上升的夜市選擇。",
       "area": "苗栗市",
-      "rating": 4.4,
-      "reviews": 233,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5740,8 +5740,8 @@
       "name": "目鏡麵食",
       "description": "口味多變的麵食選擇, 吸引不少麵食愛好者。",
       "area": "三義鄉",
-      "rating": 4.4,
-      "reviews": 561,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5756,8 +5756,8 @@
       "name": "屋簷下桂花釀",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.4,
-      "reviews": 111,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5772,8 +5772,8 @@
       "name": "協和行豆腐冰刨冰飲料",
       "description": "清涼解渴的甜品選擇，適合炎熱天氣。",
       "area": "",
-      "rating": 4.4,
-      "reviews": 171,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5788,8 +5788,8 @@
       "name": "儷池咖啡屋",
       "description": "提供舒適的咖啡時光, 是人氣的休閒喫茶場所。",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 2116,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5804,8 +5804,8 @@
       "name": "食 Going銅盤烤肉（公休日查看FB公告）",
       "description": "",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 237,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -5820,8 +5820,8 @@
       "name": "闔豐飽麻辣燙",
       "description": "",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 214,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5836,8 +5836,8 @@
       "name": "苑裡煎餃",
       "description": "提供美味煎餃的小吃，香脆外皮和鮮美餡料令人讚不絕口。",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 421,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5852,8 +5852,8 @@
       "name": "通霄煎包",
       "description": "",
       "area": "",
-      "rating": 4.4,
-      "reviews": 117,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5868,8 +5868,8 @@
       "name": "社苓鵝肉店",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 1206,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -5884,8 +5884,8 @@
       "name": "星巴克 苑裡稻香門市",
       "description": "人氣咖啡館，提供多樣飲品及輕食，適合休憩小聚。",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 685,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5900,8 +5900,8 @@
       "name": "綠意山莊",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 5494,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -5916,8 +5916,8 @@
       "name": "平價蔬食小屋",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.4,
-      "reviews": 7,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5932,8 +5932,8 @@
       "name": "佛光素食館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.4,
-      "reviews": 163,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5948,8 +5948,8 @@
       "name": "佛心緣素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西湖鄉",
-      "rating": 4.4,
-      "reviews": 112,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5964,8 +5964,8 @@
       "name": "懿品香素食餐車",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.4,
-      "reviews": 36,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5980,8 +5980,8 @@
       "name": "采味園蔬食坊",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.4,
-      "reviews": 33,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -5996,8 +5996,8 @@
       "name": "如來素食樂園",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 785,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6012,8 +6012,8 @@
       "name": "阿花素食小吃店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "後龍鎮",
-      "rating": 4.4,
-      "reviews": 280,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6028,8 +6028,8 @@
       "name": "月香素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "後龍鎮",
-      "rating": 4.4,
-      "reviews": 45,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6044,8 +6044,8 @@
       "name": "感恩素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 351,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6060,8 +6060,8 @@
       "name": "香村早餐（素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 128,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -6076,8 +6076,8 @@
       "name": "彌而蔬食人文珈琲館-野夫咖啡",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苗栗市",
-      "rating": 4.4,
-      "reviews": 527,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6092,8 +6092,8 @@
       "name": "EAGLE COFFEE 伊果咖啡",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "大湖鄉",
-      "rating": 4.4,
-      "reviews": 921,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉新開村8-5號",
       "categories": [
         "咖啡廳"
@@ -6109,8 +6109,8 @@
       "name": "青串小館",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4.4,
-      "reviews": 1360,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉大湖村忠孝路170號",
       "categories": [
         "中式"
@@ -6126,8 +6126,8 @@
       "name": "七里香甕仔雞-大湖店",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4.4,
-      "reviews": 3915,
+      "rating": null,
+      "reviews": null,
       "address": "364003台灣苗栗縣大湖鄉富興村33-66號33-66號",
       "categories": [
         "中式"
@@ -6143,8 +6143,8 @@
       "name": "裕芳食品 通霄店",
       "description": "甜品專賣店，消暑好選擇",
       "area": "通霄鎮",
-      "rating": 4.4,
-      "reviews": 3282,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮內湖里烏眉路288號",
       "categories": [
         "甜品"
@@ -6160,8 +6160,8 @@
       "name": "力馬生活工坊",
       "description": "中式餐廳，在地美味",
       "area": "造橋鄉",
-      "rating": 4.4,
-      "reviews": 794,
+      "rating": null,
+      "reviews": null,
       "address": "361台灣苗栗縣造橋鄉大西村慈聖路二段280巷11號",
       "categories": [
         "中式"
@@ -6177,8 +6177,8 @@
       "name": "獅潭仙山秘境 星仙草",
       "description": "甜品專賣店，消暑好選擇",
       "area": "獅潭鄉",
-      "rating": 4.4,
-      "reviews": 1134,
+      "rating": null,
+      "reviews": null,
       "address": "354台灣苗栗县狮潭乡新店村19號",
       "categories": [
         "中式"
@@ -6194,8 +6194,8 @@
       "name": "湯之美溫泉",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "泰安鄉",
-      "rating": 4.4,
-      "reviews": 738,
+      "rating": null,
+      "reviews": null,
       "address": "365台灣苗栗縣泰安鄉錦水村橫龍山59-7號",
       "categories": [
         "中式"
@@ -6211,8 +6211,8 @@
       "name": "荷塘居(桌菜請於臉書預約）",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.4,
-      "reviews": 780,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6228,8 +6228,8 @@
       "name": "乃木崎食坊",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.4,
-      "reviews": 318,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6245,8 +6245,8 @@
       "name": "樂陶食店",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.4,
-      "reviews": 890,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6262,8 +6262,8 @@
       "name": "佳壽春手工麵館",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.4,
-      "reviews": 407,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6279,8 +6279,8 @@
       "name": "頭家莊小吃館",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.4,
-      "reviews": 343,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -6296,8 +6296,8 @@
       "name": "吃香喝辣牛肉麵",
       "description": "頭屋加油站旁鐵皮屋牛肉麵招牌番茄牛肉麵湯頭酸甜番茄蛋花湯料多",
       "area": "",
-      "rating": 4.3,
-      "reviews": 298,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6312,8 +6312,8 @@
       "name": "十三姨牛肉麵",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.3,
-      "reviews": 407,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6328,8 +6328,8 @@
       "name": "1991．Restaurant",
       "description": "",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 429,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6344,8 +6344,8 @@
       "name": "阿水飯店",
       "description": "超人氣中式餐廳，經典台菜美味無比，讓人垂涎欲滴。",
       "area": "後龍鎮",
-      "rating": 4.3,
-      "reviews": 3852,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6360,8 +6360,8 @@
       "name": "老神戶牛排館(KOBE STEAK HOUSE)",
       "description": "經典牛排料理，搭配精緻配菜，吸引眾多食客光臨。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 431,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6376,8 +6376,8 @@
       "name": "老口味客家菜館",
       "description": "傳承經典客家菜，讓人感受到家的味道。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 505,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6392,8 +6392,8 @@
       "name": "紀家肉粽",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 409,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6408,8 +6408,8 @@
       "name": "苗栗後龍-牛師父牛肉麵",
       "description": "招牌牛肉麵口感極佳，人氣餐廳，值得一試。",
       "area": "後龍鎮",
-      "rating": 4.3,
-      "reviews": 1478,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6424,8 +6424,8 @@
       "name": "老鐵馬臭豆腐",
       "description": "人氣小吃，招牌臭豆腐外脆內嫩，讓人回味無窮。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 1005,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6440,8 +6440,8 @@
       "name": "特食 排骨酥麵 紹興滷肉飯（苑裡店)",
       "description": "特色排骨酥麵，醇厚滷肉飯，帶來雙重美味享受。",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6456,8 +6456,8 @@
       "name": "正味麵店",
       "description": "通霄慈惠宮旁半世紀老店客家油蔥乾麵通霄三寶之一",
       "area": "",
-      "rating": 4.3,
-      "reviews": 970,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6472,8 +6472,8 @@
       "name": "通霄水煎包",
       "description": "通霄三寶之一水煎包慈惠宮周邊排隊小吃外皮金黃酥脆內餡高麗菜鮮甜",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1025,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6488,8 +6488,8 @@
       "name": "頭屋香草田周邊小吃",
       "description": "旁農村小吃新鮮蔬果入菜客家鹹豬肉配香草茶特色組合",
       "area": "",
-      "rating": 4.3,
-      "reviews": 2704,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6504,8 +6504,8 @@
       "name": "公館牛肚麵",
       "description": "公館街上人氣麵店牛肚軟嫩麵條Q彈紅燒湯頭濃郁夠味",
       "area": "",
-      "rating": 4.3,
-      "reviews": 407,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6520,8 +6520,8 @@
       "name": "漫步雲端森林廚房",
       "description": "",
       "area": "苗栗市",
-      "rating": 4.3,
-      "reviews": 1834,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6536,8 +6536,8 @@
       "name": "谷軒日式食堂",
       "description": "傳統日式料理讓人懷念，人氣穩定。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 1213,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6552,8 +6552,8 @@
       "name": "青松自在",
       "description": "精緻中式料理，搭配悠閒氛圍，適合家庭聚餐。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 882,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6568,8 +6568,8 @@
       "name": "三義大眾餐館",
       "description": "招牌台菜美味，人氣不斷，讓人回味無窮。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 1272,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6584,8 +6584,8 @@
       "name": "京禾麵食館",
       "description": "招牌麵食選擇多樣, 滿足麵食控的需求。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 200,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6600,8 +6600,8 @@
       "name": "湯二木精緻鍋物",
       "description": "精緻鍋物料理，讓人回味無窮。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 1202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -6616,8 +6616,8 @@
       "name": "新魚港海鮮餐廳",
       "description": "招牌海鮮料理，食材新鮮，味道鮮美，值得反覆光臨。",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 373,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6632,8 +6632,8 @@
       "name": "味香盛海鮮餐廳",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.3,
-      "reviews": 498,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6648,8 +6648,8 @@
       "name": "兄弟小館",
       "description": "以家常台菜見長，讓人感受到溫暖的用餐氛圍。",
       "area": "公館鄉",
-      "rating": 4.3,
-      "reviews": 404,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6664,8 +6664,8 @@
       "name": "阿鄭伯古早味小吃（營業時間請參照google地圖）",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 595,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6680,8 +6680,8 @@
       "name": "苗栗金城當歸鴨",
       "description": "招牌當歸鴨肉鮮嫩，適合喜愛中式料理的食客。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 449,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6696,8 +6696,8 @@
       "name": "大漁壽司生魚片",
       "description": "生魚片新鮮無比，適合喜歡細膩口感的食客。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 726,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6712,8 +6712,8 @@
       "name": "花鳥豬排",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 205,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6728,8 +6728,8 @@
       "name": "插電貓元氣早餐屋",
       "description": "提供活力滿滿的早餐選擇，搭配香醇咖啡。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 285,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6744,8 +6744,8 @@
       "name": "找餐殿(苗栗店)",
       "description": "道地台菜美食，讓您品味傳統的家庭味道。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 1934,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6760,8 +6760,8 @@
       "name": "苗栗後龍杏仁露刀削冰",
       "description": "｜杏仁露刀削冰，清爽甜品，適合夏日消暑。",
       "area": "後龍鎮",
-      "rating": 4.3,
-      "reviews": 545,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -6776,8 +6776,8 @@
       "name": "金豐玉漿（超人氣芋圓🔥熱/🧊冰甜品）",
       "description": "｜超人氣芋圓，熱冰皆宜，口感Q彈。",
       "area": "後龍鎮",
-      "rating": 4.3,
-      "reviews": 445,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6792,8 +6792,8 @@
       "name": "茉田豆花冰舖",
       "description": "｜豆花與冰品的完美結合，口感細膩。",
       "area": "竹南鎮",
-      "rating": 4.3,
-      "reviews": 284,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6808,8 +6808,8 @@
       "name": "Tommy café 糖迷",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 238,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -6824,8 +6824,8 @@
       "name": "品鮮屋豆花店（黑糖刨冰販售中）",
       "description": "招牌黑糖刨冰，清涼甜品，獲得人氣好評。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 216,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6840,8 +6840,8 @@
       "name": "一燒十味昭和園-苗栗頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 1795,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -6856,8 +6856,8 @@
       "name": "阿枝烤肉",
       "description": "特色烤肉選擇多樣，適合與好友共享的美味。",
       "area": "竹南鎮",
-      "rating": 4.3,
-      "reviews": 309,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6872,8 +6872,8 @@
       "name": "野火原味美式牛排",
       "description": "融合美式風格的牛排料理，帶來不同的味蕾享受。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 1357,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6888,8 +6888,8 @@
       "name": "靠！有牛炙燒牛排館 （苗栗牛排第一首選 尚順美食 寵物友善 顛覆傳統牛排",
       "description": "招牌炙燒牛排顛覆傳統，寵物友善，是牛排愛好者的理想選擇。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 877,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -6904,8 +6904,8 @@
       "name": "三言兩語",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 234,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6920,8 +6920,8 @@
       "name": "【菊園客家庄】客家料理・主題民宿",
       "description": "位於山坡上的休閒飯店，可欣賞山谷景緻，並設有餐廳和烤肉設施。",
       "area": "大湖鄉",
-      "rating": 4.3,
-      "reviews": 567,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6936,8 +6936,8 @@
       "name": "福饗",
       "description": "提供多樣台菜選擇，讓每一口都能感受到家的味道。",
       "area": "",
-      "rating": 4.3,
-      "reviews": 524,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6952,8 +6952,8 @@
       "name": "雙響炮合菜熱炒",
       "description": "",
       "area": "",
-      "rating": 4.3,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6968,8 +6968,8 @@
       "name": "食米家客家米食(原三義陳記)",
       "description": "傳統客家米食，回味無窮的中式佳餚。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 223,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -6984,8 +6984,8 @@
       "name": "多倫多小館",
       "description": "招牌小吃多樣化, 讓人回味無窮的夜市美食。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 435,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7001,8 +7001,8 @@
       "name": "三義客家麵",
       "description": "特色客家麵道地美味, 令人一試成主顧。",
       "area": "三義鄉",
-      "rating": 4.3,
-      "reviews": 125,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7017,8 +7017,8 @@
       "name": "南庄老金龍飯店",
       "description": "超人氣小吃，口味多樣的夜市美食，令人食指大動。",
       "area": "南庄鄉",
-      "rating": 4.3,
-      "reviews": 3995,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7034,8 +7034,8 @@
       "name": "碧絡角 (最後入園時間:16:30)",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.3,
-      "reviews": 1973,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7051,8 +7051,8 @@
       "name": "江記花蜜桂花巷花茶湯圓",
       "description": "設有櫃檯式服務的簡樸小館，販售加入水果的傳統湯圓和當地的桂花蜂蜜。",
       "area": "南庄鄉",
-      "rating": 4.3,
-      "reviews": 2370,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7067,8 +7067,8 @@
       "name": "杉林松境休閒農場",
       "description": "提供多樣小吃，適合夜市美食愛好者。",
       "area": "南庄鄉",
-      "rating": 4.3,
-      "reviews": 941,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7084,8 +7084,8 @@
       "name": "沐上麻辣燙",
       "description": "鮮美麻辣湯底, 讓人一試成主顧的夜市美食。",
       "area": "頭份市",
-      "rating": 4.3,
-      "reviews": 206,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7100,8 +7100,8 @@
       "name": "垂坤食品-旗艦店",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 28863,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7122,8 +7122,8 @@
       "name": "垂坤食品 苑裡總店",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 1957,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7138,8 +7138,8 @@
       "name": "晨間廚房早午餐店 苑裡信義路",
       "description": "專注於早午餐的咖啡喫茶，適合悠閒享受。",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 287,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -7154,8 +7154,8 @@
       "name": "南庄素食麵館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.3,
-      "reviews": 121,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7170,8 +7170,8 @@
       "name": "頤園素食小館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "西湖鄉",
-      "rating": 4.3,
-      "reviews": 437,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7186,8 +7186,8 @@
       "name": "素の素食館（喜願心素食）",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.3,
-      "reviews": 87,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -7202,8 +7202,8 @@
       "name": "大湖珍珍小吃",
       "description": "麵食專賣店，湯頭講究",
       "area": "大湖鄉",
-      "rating": 4.3,
-      "reviews": 557,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉民權路72號",
       "categories": [
         "中式"
@@ -7219,8 +7219,8 @@
       "name": "青松園餐廳",
       "description": "甜品專賣店，消暑好選擇",
       "area": "通霄鎮",
-      "rating": 4.3,
-      "reviews": 1004,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮通灣里中山路89號",
       "categories": [
         "中式"
@@ -7236,8 +7236,8 @@
       "name": "通霄 王記煎包・蛋餅",
       "description": "早午餐餐廳，活力一天的開始",
       "area": "通霄鎮",
-      "rating": 4.3,
-      "reviews": 1025,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮通西里信義路119號",
       "categories": [
         "中式"
@@ -7253,8 +7253,8 @@
       "name": "通霄正味麵店",
       "description": "麵食專賣店，湯頭講究",
       "area": "通霄鎮",
-      "rating": 4.3,
-      "reviews": 971,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮通東里仁愛路19號",
       "categories": [
         "中式"
@@ -7270,8 +7270,8 @@
       "name": "自然風情景觀渡假民宿(週二三公休)",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "卓蘭鎮",
-      "rating": 4.3,
-      "reviews": 1118,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮西坪里134-7號",
       "categories": [
         "咖啡廳"
@@ -7287,8 +7287,8 @@
       "name": "自然圈農場 LoFi Land｜生態美學｜親子遊程｜景觀咖啡｜戶外婚禮｜團體包場",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "卓蘭鎮",
-      "rating": 4.3,
-      "reviews": 2592,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮西坪里西坪36-20號",
       "categories": [
         "咖啡廳"
@@ -7304,8 +7304,8 @@
       "name": "江記永安喜餅(請前往旗艦店)苗栗縣卓蘭鎮新厝里7-12號",
       "description": "甜品專賣店，消暑好選擇",
       "area": "卓蘭鎮",
-      "rating": 4.3,
-      "reviews": 889,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮上新里中山路13-14號",
       "categories": [
         "烘焙"
@@ -7321,8 +7321,8 @@
       "name": "雲端上的美味",
       "description": "中式餐廳，在地美味",
       "area": "頭屋鄉",
-      "rating": 4.3,
-      "reviews": 630,
+      "rating": null,
+      "reviews": null,
       "address": "362台灣苗栗縣頭屋鄉明德村明德20鄰62號仁隆",
       "categories": [
         "中式"
@@ -7338,8 +7338,8 @@
       "name": "獅潭仙草（休假日公告至Facebook)",
       "description": "日式料理餐廳",
       "area": "獅潭鄉",
-      "rating": 4.3,
-      "reviews": 2405,
+      "rating": null,
+      "reviews": null,
       "address": "354台灣苗栗縣獅潭鄉1-1號和興村1鄰",
       "categories": [
         "中式"
@@ -7355,8 +7355,8 @@
       "name": "徐園 日式簡餐・台菜・咖啡",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.3,
-      "reviews": 415,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "咖啡廳"
@@ -7372,8 +7372,8 @@
       "name": "青山琳溫泉民宿餐廳",
       "description": "",
       "area": "泰安鄉",
-      "rating": 4.3,
-      "reviews": 320,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7389,8 +7389,8 @@
       "name": "摯麵室Sincere",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.3,
-      "reviews": 500,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7406,8 +7406,8 @@
       "name": "姐妹麵攤",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.3,
-      "reviews": 330,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -7423,8 +7423,8 @@
       "name": "華興客家小館",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 265,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7439,8 +7439,8 @@
       "name": "傳香麵食館/苗栗美食/小吃/麵食/必吃/restaurants/附近美食",
       "description": "麵食愛好者的必訪之地，經典小吃帶來的美味享受。",
       "area": "苗栗市",
-      "rating": 4.2,
-      "reviews": 311,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7455,8 +7455,8 @@
       "name": "古早味賴家食府",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 819,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7471,8 +7471,8 @@
       "name": "一級棒鵝肉小吃店",
       "description": "招牌鵝肉小吃, 讓人欲罷不能的滋味",
       "area": "",
-      "rating": 4.2,
-      "reviews": 853,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7487,8 +7487,8 @@
       "name": "客家幣加碼小羊咩專業牛排館037378568外帶限定： ️火舞饌鐵板燒 ️蛋寶盒丼飯 ️黃金煲煲仔飯",
       "description": "推出多樣化的鐵板燒與丼飯，口感令人驚艷。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 477,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7503,8 +7503,8 @@
       "name": "福欣園客家餐館",
       "description": "供應中式料理的簡約餐館，擁有傳統圓桌及復古家具。",
       "area": "銅鑼鄉",
-      "rating": 4.2,
-      "reviews": 1988,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7519,8 +7519,8 @@
       "name": "張記客家料理",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.2,
-      "reviews": 959,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7535,8 +7535,8 @@
       "name": "彭城堂客家麵館",
       "description": "招牌客家麵口感滑順, 人氣餐廳吸引眾多食客光臨。",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 831,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7551,8 +7551,8 @@
       "name": "黃屋牛肉麵「 每週二晚上、 週三公休」",
       "description": "招牌牛肉麵，每週二晚上、公休週三，特色味道令人期待。",
       "area": "後龍鎮",
-      "rating": 4.2,
-      "reviews": 568,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7567,8 +7567,8 @@
       "name": "通霄廟口阿嬤臭豆腐",
       "description": "1971年創立50年老店，500碗推薦，酥脆臭豆腐，考100分免費換一份",
       "area": "",
-      "rating": 4.2,
-      "reviews": 3022,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7583,8 +7583,8 @@
       "name": "三義穎川美食館",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1363,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7599,8 +7599,8 @@
       "name": "通霄仁愛米糕",
       "description": "通霄最受歡迎米糕老店通霄三寶之一米糕軟嫩淋特製粉紅醬汁配四神湯",
       "area": "",
-      "rating": 4.2,
-      "reviews": 202,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7615,8 +7615,8 @@
       "name": "玉榮水餃小吃",
       "description": "後龍火車站旁大份量小吃豬頭肉麵用碗公裝黑豬肉水餃兩倍SIZE",
       "area": "",
-      "rating": 4.2,
-      "reviews": 991,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7631,8 +7631,8 @@
       "name": "阿玉麵館",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 562,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7647,8 +7647,8 @@
       "name": "公館福菜飯",
       "description": "公館客家福菜飯酸菜拌飯香氣十足配客家小炒道地家鄉味",
       "area": "",
-      "rating": 4.2,
-      "reviews": 5905,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7663,8 +7663,8 @@
       "name": "棗莊古味食堂",
       "description": "公館紅棗主題餐廳紅棗入菜多樣化紅棗雞紅棗茶養生美食",
       "area": "",
-      "rating": 4.2,
-      "reviews": 9386,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7679,8 +7679,8 @@
       "name": "傳家堡餐館",
       "description": "經典台菜的味道讓人懷念，適合家庭聚餐的選擇。",
       "area": "苗栗市",
-      "rating": 4.2,
-      "reviews": 901,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7695,8 +7695,8 @@
       "name": "綠池庭園餐廳 - 苗栗造橋 人氣景觀餐廳 必吃火鍋套餐 下午茶美食 家庭親子聚餐首選 網紅網美推薦",
       "description": "人氣景觀餐廳, 必吃火鍋套餐, 下午茶美食, 家庭親子聚餐首選",
       "area": "苗栗市",
-      "rating": 4.2,
-      "reviews": 1142,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -7711,8 +7711,8 @@
       "name": "棗莊古藝庭園膳坊",
       "description": "超人氣中式台菜, 傳統與創新相融合, 適合家庭聚會",
       "area": "苗栗市",
-      "rating": 4.2,
-      "reviews": 9386,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7727,8 +7727,8 @@
       "name": "喬義思苗栗尚順店",
       "description": "經典台菜搭配創意料理，人氣不斷上升。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 1009,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7743,8 +7743,8 @@
       "name": "御廚川菜餐廳",
       "description": "香辣川菜料理，帶來不一樣的味蕾體驗。",
       "area": "苑裡鎮",
-      "rating": 4.2,
-      "reviews": 580,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7759,8 +7759,8 @@
       "name": "綠葉方舟Green Ark",
       "description": "明亮悠閒的餐廳，供應義式料理，設有寬敞的庭園。",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 5144,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7775,8 +7775,8 @@
       "name": "穎川美食館",
       "description": "經典中式料理，人氣聚集，口味令人驚喜。",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 1363,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7791,8 +7791,8 @@
       "name": "川味仙客家老店",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 1419,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7807,8 +7807,8 @@
       "name": "花露農場 Flower Home",
       "description": "超人氣餐廳，提供多樣化的美味料理選擇",
       "area": "卓蘭鎮",
-      "rating": 4.2,
-      "reviews": 10079,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7823,8 +7823,8 @@
       "name": "佳香小吃店",
       "description": "經典台菜美味如家常菜般溫暖，口碑不錯。",
       "area": "卓蘭鎮",
-      "rating": 4.2,
-      "reviews": 234,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7839,8 +7839,8 @@
       "name": "阿榮鵝肉店",
       "description": "口感鮮嫩的鵝肉料理，吸引眾多食客光臨。",
       "area": "卓蘭鎮",
-      "rating": 4.2,
-      "reviews": 389,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7855,8 +7855,8 @@
       "name": "大無敵烤肉飯-苗栗頭份店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 218,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -7871,8 +7871,8 @@
       "name": "冠友魯肉飯",
       "description": "招牌魯肉飯簡單卻美味，人氣高，深受食客喜愛。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 1050,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7887,8 +7887,8 @@
       "name": "喫火鍋",
       "description": "專注火鍋料理，適合聚餐的選擇，人氣餐廳。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 508,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -7903,8 +7903,8 @@
       "name": "六扇門時尚湯鍋 - 苗栗中山店",
       "description": "時尚中式鍋物，吸引眾多食客。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 536,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -7919,8 +7919,8 @@
       "name": "錢都日式涮涮鍋-苗栗天后店",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 918,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -7935,8 +7935,8 @@
       "name": "洄饗極の鍋物 苗栗店",
       "description": "火鍋選擇多樣，特色醬料讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 388,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -7951,8 +7951,8 @@
       "name": "520平價熱炒店",
       "description": "招牌熱炒菜品平價美味, 受歡迎的選擇",
       "area": "",
-      "rating": 4.2,
-      "reviews": 376,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7967,8 +7967,8 @@
       "name": "永興海鮮",
       "description": "新鮮海鮮料理, 深受食客喜愛的海鮮選擇",
       "area": "",
-      "rating": 4.2,
-      "reviews": 504,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7983,8 +7983,8 @@
       "name": "享珍海鮮餐廳",
       "description": "以新鮮海鮮為主打，口味地道，適合家庭聚餐。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 228,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -7999,8 +7999,8 @@
       "name": "錦津海鮮餐廳",
       "description": "新鮮海鮮料理受到食客好評，口味令人難忘。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 1073,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8015,8 +8015,8 @@
       "name": "漫時光咖啡",
       "description": "輕鬆氛圍的咖啡喫茶，適合放鬆心情的好地方。",
       "area": "三義鄉",
-      "rating": 4.2,
-      "reviews": 491,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8031,8 +8031,8 @@
       "name": "噢哈娜咖啡屋",
       "description": "超人氣咖啡喫茶店，提供多樣化的飲品選擇。",
       "area": "西湖鄉",
-      "rating": 4.2,
-      "reviews": 3142,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -8047,8 +8047,8 @@
       "name": "一口香餡餅",
       "description": "質樸的老字號小館，供應食材新鮮的牛肉、豬肉和蔬菜餡餅。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1529,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8063,8 +8063,8 @@
       "name": "第一佳水晶餃",
       "description": "口感滑嫩的水晶餃，是饕客們的最愛。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 771,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8079,8 +8079,8 @@
       "name": "小木屋水晶餃",
       "description": "清爽的水晶餃口味，讓每一口都充滿驚喜。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 961,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8095,8 +8095,8 @@
       "name": "水上人家",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 839,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8111,8 +8111,8 @@
       "name": "528蔥抓餅",
       "description": "香脆可口的蔥抓餅，吃了讓人忍不住再來一份。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 445,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8127,8 +8127,8 @@
       "name": "廟口阿嬷臭豆腐",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.2,
-      "reviews": 3023,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8143,8 +8143,8 @@
       "name": "天美鮮肉包（每週一公休）",
       "description": "鮮肉包專賣，包餡多汁鮮美，令人一試成主顧，人氣不斷上升。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 333,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8159,8 +8159,8 @@
       "name": "福樂麵店",
       "description": "超人氣麵食店，手工麵條Q彈有嚼勁，湯頭鮮美，是饕客的最愛。",
       "area": "公館鄉",
-      "rating": 4.2,
-      "reviews": 5906,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8175,8 +8175,8 @@
       "name": "楊家蛋黃麵",
       "description": "蛋黃麵特色，濃郁醬料包裹每根麵條，口感層次豐富，值得一試。",
       "area": "頭屋鄉",
-      "rating": 4.2,
-      "reviews": 930,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8191,8 +8191,8 @@
       "name": "都日本料理",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 240,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8207,8 +8207,8 @@
       "name": "千八料亭日本料理",
       "description": "日式料理口味道地，讓人感受到日本風情。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 917,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8223,8 +8223,8 @@
       "name": "定食8-頭份大全聯店｜日式定食便當外帶專門店、頭份日本料理海鮮丼飯",
       "description": "專賣日式定食和海鮮丼飯，人氣外帶選擇，滿足味蕾。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 1586,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8239,8 +8239,8 @@
       "name": "紫蝴蝶餐點坊",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 1076,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8255,8 +8255,8 @@
       "name": "建成冰菓室",
       "description": "清新冰品讓您在炎熱中也能感受到清涼一夏。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 954,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -8271,8 +8271,8 @@
       "name": "瑞盛客家米食| 苗栗伴手禮 頭份美食 頭份名產 頭份甜點 苗栗麻糬苗栗客家米食 附近美食 苗栗美食推薦",
       "description": "｜傳統客家米食，搭配手作甜點，令人滿足。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 632,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8287,8 +8287,8 @@
       "name": "好食好時台式居酒屋",
       "description": "日式居酒氛圍，適合聚會，值得一訪。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 894,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8303,8 +8303,8 @@
       "name": "頭份燒肉首選 一喜燒肉屋ishi yakiniku 尚順美食/附近美食",
       "description": "豐富燒肉選擇，人氣餐廳，聚餐好去處。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 1558,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8319,8 +8319,8 @@
       "name": "貍來燒肉町",
       "description": "",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 540,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8335,8 +8335,8 @@
       "name": "青焰 炭火熟成牛排｜苗栗金鬱金香門市",
       "description": "炭火烤製，肉質鮮嫩，令人一試成主顧。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 1142,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8351,8 +8351,8 @@
       "name": "小時厚牛排-苗栗頭份店",
       "description": "招牌牛排口感細膩，人氣持續攀升，令人期待。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 1957,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8367,8 +8367,8 @@
       "name": "小時厚牛排-竹南博愛店",
       "description": "招牌牛排口感豐富，人氣牛排館，讓人回味無窮的美食經典。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 1313,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -8383,8 +8383,8 @@
       "name": "日本瓦庭院小館",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 390,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8399,8 +8399,8 @@
       "name": "吉品肉燥排骨專賣店",
       "description": "專注肉燥與排骨，味道濃郁，令人一試成主顧。",
       "area": "",
-      "rating": 4.2,
-      "reviews": 273,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8415,8 +8415,8 @@
       "name": "將軍山土雞",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 203,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8431,8 +8431,8 @@
       "name": "老家米食堂-南庒",
       "description": "人氣米食專賣，帶來懷舊的味道和溫暖的回憶。",
       "area": "南庄鄉",
-      "rating": 4.2,
-      "reviews": 1242,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8447,8 +8447,8 @@
       "name": "桂花朵朵",
       "description": "美味夜市小吃, 招牌桂花糕, 口感輕盈柔軟。",
       "area": "南庄鄉",
-      "rating": 4.2,
-      "reviews": 254,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8464,8 +8464,8 @@
       "name": "農會家政班美食館",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.2,
-      "reviews": 101,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8480,8 +8480,8 @@
       "name": "十三間老街",
       "description": "傳統小吃, 具特色的夜市美食, 讓人感受台灣的歷史風情。",
       "area": "南庄鄉",
-      "rating": 4.2,
-      "reviews": 273,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8497,8 +8497,8 @@
       "name": "南庄戲院餐廳（廚房及內部維修，暫停營業）",
       "description": "",
       "area": "",
-      "rating": 4.2,
-      "reviews": 248,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8513,8 +8513,8 @@
       "name": "千八會館-竹南婚宴餐廳|頭份喜宴餐廳|婚宴會館|聚餐餐廳|人氣餐廳|熱門餐廳|家庭聚餐推薦|在地推薦餐廳",
       "description": "適合婚宴和家庭聚餐的熱門餐廳，精緻菜餚令人印象深刻。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 423,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8529,8 +8529,8 @@
       "name": "苑裡臭豆腐",
       "description": "人氣小吃，外酥內軟的臭豆腐，搭配特製醬汁讓人回味無窮。",
       "area": "苑裡鎮",
-      "rating": 4.2,
-      "reviews": 923,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8545,8 +8545,8 @@
       "name": "阿達仔黃金水餃 苑裡美食",
       "description": "口感滑嫩的黃金水餃，搭配多樣醬料，深受食客喜愛。",
       "area": "苑裡鎮",
-      "rating": 4.2,
-      "reviews": 655,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8561,8 +8561,8 @@
       "name": "十方香素食館(自助餐、便當、筵席...)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4.2,
-      "reviews": 67,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8577,8 +8577,8 @@
       "name": "普光素食自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.2,
-      "reviews": 127,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8593,8 +8593,8 @@
       "name": "素食の家",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 126,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -8609,8 +8609,8 @@
       "name": "西湖服務區 (南下)",
       "description": "中式餐廳，在地美味",
       "area": "西湖鄉",
-      "rating": 4.2,
-      "reviews": 8596,
+      "rating": null,
+      "reviews": null,
       "address": "368台灣苗栗縣西湖鄉湖東村29號8鄰號",
       "categories": [
         "中式"
@@ -8626,8 +8626,8 @@
       "name": "星巴克 西湖休息站門市 (南下)",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "西湖鄉",
-      "rating": 4.2,
-      "reviews": 2318,
+      "rating": null,
+      "reviews": null,
       "address": "368台灣苗栗縣西湖鄉湖東村8鄰號29號",
       "categories": [
         "咖啡廳"
@@ -8643,8 +8643,8 @@
       "name": "Route3 三號公路（公休日請看IG）",
       "description": "日式料理餐廳",
       "area": "大湖鄉",
-      "rating": 4.2,
-      "reviews": 3496,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉富興村33-41號",
       "categories": [
         "日式"
@@ -8660,8 +8660,8 @@
       "name": "鄉村客棧",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4.2,
-      "reviews": 703,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉富興村1-3號",
       "categories": [
         "中式"
@@ -8677,8 +8677,8 @@
       "name": "寨酌然 野奢庄園 the Forest museum",
       "description": "中式餐廳，在地美味",
       "area": "卓蘭鎮",
-      "rating": 4.2,
-      "reviews": 971,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮西坪里壢西坪43-20號",
       "categories": [
         "中式"
@@ -8694,8 +8694,8 @@
       "name": "江記永安喜餅旗艦店",
       "description": "甜品專賣店，消暑好選擇",
       "area": "卓蘭鎮",
-      "rating": 4.2,
-      "reviews": 5874,
+      "rating": null,
+      "reviews": null,
       "address": "369台灣苗栗縣卓蘭鎮新厝里3697-12號",
       "categories": [
         "烘焙"
@@ -8711,8 +8711,8 @@
       "name": "橙香森林（橘子貝果/橘子香腸）",
       "description": "甜品專賣店，消暑好選擇",
       "area": "頭屋鄉",
-      "rating": 4.2,
-      "reviews": 3493,
+      "rating": null,
+      "reviews": null,
       "address": "362台灣苗栗縣頭屋鄉明德村明德路6號",
       "categories": [
         "中式"
@@ -8728,8 +8728,8 @@
       "name": "錦水溫泉飯店",
       "description": "中式餐廳，在地美味",
       "area": "泰安鄉",
-      "rating": 4.2,
-      "reviews": 2768,
+      "rating": null,
+      "reviews": null,
       "address": "365台灣苗栗县泰安乡錦水村橫龍山72號",
       "categories": [
         "中式"
@@ -8745,8 +8745,8 @@
       "name": "憶鄉味農莊",
       "description": "",
       "area": "三灣鄉",
-      "rating": 4.2,
-      "reviews": 413,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8762,8 +8762,8 @@
       "name": "台三線補給站",
       "description": "",
       "area": "三灣鄉",
-      "rating": 4.2,
-      "reviews": 427,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8779,8 +8779,8 @@
       "name": "仙山生態教育農場（仙山農園民宿）",
       "description": "",
       "area": "獅潭鄉",
-      "rating": 4.2,
-      "reviews": 291,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8796,8 +8796,8 @@
       "name": "灶咖食堂",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 765,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8813,8 +8813,8 @@
       "name": "氛享廚房Sharing_Kitchen",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.2,
-      "reviews": 803,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8830,8 +8830,8 @@
       "name": "田媽媽祕密花園",
       "description": "",
       "area": "西湖鄉",
-      "rating": 4.2,
-      "reviews": 351,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8847,8 +8847,8 @@
       "name": "通霄美食餐廳",
       "description": "",
       "area": "通霄鎮",
-      "rating": 4.2,
-      "reviews": 250,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8864,8 +8864,8 @@
       "name": "綠池鳳凰花攝點",
       "description": "",
       "area": "造橋鄉",
-      "rating": 4.2,
-      "reviews": 435,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -8881,8 +8881,8 @@
       "name": "鄉園客家小館",
       "description": "提供純正客家菜，讓食客享受家鄉的味道，人氣廚房。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1038,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8897,8 +8897,8 @@
       "name": "勝隆客家小館",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 328,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8913,8 +8913,8 @@
       "name": "阿宏師火雞肉飯-光華總店",
       "description": "超人氣甜點專賣店，提供多樣化的甜品選擇",
       "area": "",
-      "rating": 4.1,
-      "reviews": 9157,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8929,8 +8929,8 @@
       "name": "韓鄉村牛肉麵",
       "description": "",
       "area": "銅鑼鄉",
-      "rating": 4.1,
-      "reviews": 1789,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8945,8 +8945,8 @@
       "name": "台南牛肉拉麵",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 258,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -8961,8 +8961,8 @@
       "name": "葉山牛肉麵",
       "description": "招牌牛肉麵口感滑順, 讓人一試成主顧。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 208,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8977,8 +8977,8 @@
       "name": "廣州羊肉爐海鮮餐廳 Guangzhou Mutton Hot Pot & Seafood Restaurant",
       "description": "特色羊肉火鍋美味，適合喜愛火鍋的食客。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 235,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -8993,8 +8993,8 @@
       "name": "厚醍牛肉麵 頭份中央店",
       "description": "招牌牛肉麵口味濃郁，讓人一試成主顧。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 278,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9009,8 +9009,8 @@
       "name": "桃城南門 雞肉飯（安和總店）",
       "description": "美味雞肉飯，扎實的口味，為食客所推崇。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 460,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9025,8 +9025,8 @@
       "name": "頭份湯包巨又爆蔥",
       "description": "頭份精選排隊美食，巨無霸湯包爆多蔥任你加，蒸籠一開蒸氣香氣四溢",
       "area": "",
-      "rating": 4.1,
-      "reviews": 2427,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9041,8 +9041,8 @@
       "name": "小倆口自助冰店",
       "description": "通霄66年老字號冰菓室配料多達20種自助式佛心價銅板消費",
       "area": "",
-      "rating": 4.1,
-      "reviews": 650,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -9057,8 +9057,8 @@
       "name": "外埔漁港海鮮",
       "description": "後龍外埔漁港現流海鮮新鮮魚蟹蝦貝海港直送價格實惠",
       "area": "",
-      "rating": 4.1,
-      "reviews": 2577,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9073,8 +9073,8 @@
       "name": "泰安溫泉區山產料理",
       "description": "周邊山產餐廳放山土雞炒山蘇溪蝦料理泡完溫泉必吃",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1223,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9089,8 +9089,8 @@
       "name": "小湯麵家",
       "description": "頭屋精緻客家麵食小吃手工麵條配客家油蔥清雅口味深受在地人喜愛",
       "area": "",
-      "rating": 4.1,
-      "reviews": 113,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9105,8 +9105,8 @@
       "name": "雙峰草堂銅鑼燒茶屋",
       "description": "銅鑼特色茶屋現做手工銅鑼燒配在地好茶桐花季必訪景點",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1692,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9121,8 +9121,8 @@
       "name": "江技舊記",
       "description": "人氣麵食餐廳，提供多樣化的麵食選擇",
       "area": "苗栗市",
-      "rating": 4.1,
-      "reviews": 9619,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9137,8 +9137,8 @@
       "name": "王甫尹餐館",
       "description": "",
       "area": "苗栗市",
-      "rating": 4.1,
-      "reviews": 729,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9153,8 +9153,8 @@
       "name": "牛欄窩茶餐館",
       "description": "提供道地的中式茶餐，人氣美食吸引眾多食客光臨。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 1102,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9169,8 +9169,8 @@
       "name": "點心坊飲茶餐廳",
       "description": "專注於精緻點心，人氣的飲茶之地，讓人回味無窮。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 1686,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9185,8 +9185,8 @@
       "name": "新月梧桐三義店",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 2486,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9201,8 +9201,8 @@
       "name": "勝興客棧",
       "description": "經典台菜與舒適環境，適合親友聚餐的好選擇。",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 1126,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9217,8 +9217,8 @@
       "name": "三義鄉村小吃店",
       "description": "",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 1949,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9233,8 +9233,8 @@
       "name": "鵝肉擔",
       "description": "",
       "area": "卓蘭鎮",
-      "rating": 4.1,
-      "reviews": 1295,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9249,8 +9249,8 @@
       "name": "昇發飲食店/餐廳 客家菜",
       "description": "",
       "area": "卓蘭鎮",
-      "rating": 4.1,
-      "reviews": 438,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9265,8 +9265,8 @@
       "name": "元爵味黃燜雞米飯 竹南延平店",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 216,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9281,8 +9281,8 @@
       "name": "新竹吳家鴨香飯-竹南店",
       "description": "以鴨香飯為特色，口味優良，吸引不少食客光臨。",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 306,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9297,8 +9297,8 @@
       "name": "鍋全日式涮涮鍋-苗栗店",
       "description": "日式涮涮鍋的美味體驗，人氣餐廳。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 560,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -9313,8 +9313,8 @@
       "name": "順吉海鮮快炒",
       "description": "新鮮海鮮快炒，菜品豐富多樣，讓人每次來都有新選擇。",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 1017,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9329,8 +9329,8 @@
       "name": "後龍太興活海鮮餐廳",
       "description": "超人氣活海鮮料理, 鮮美的海味饗宴",
       "area": "後龍鎮",
-      "rating": 4.1,
-      "reviews": 2577,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9345,8 +9345,8 @@
       "name": "上田咖啡休閒莊園",
       "description": "享受咖啡喫茶的悠閒時光，讓人流連忘返。",
       "area": "通霄鎮",
-      "rating": 4.1,
-      "reviews": 1375,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -9361,8 +9361,8 @@
       "name": "香香意麵",
       "description": "",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 1181,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9377,8 +9377,8 @@
       "name": "天涯海餃",
       "description": "裝潢樸實的小巧餐廳，專門供應自製餃子。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1093,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9393,8 +9393,8 @@
       "name": "鱺魚小吃店",
       "description": "",
       "area": "頭屋鄉",
-      "rating": 4.1,
-      "reviews": 598,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9409,8 +9409,8 @@
       "name": "三環麵食館",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 391,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9425,8 +9425,8 @@
       "name": "匠樂壽司屋",
       "description": "壽司新鮮美味，適合喜愛日式料理的食客。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 432,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -9441,8 +9441,8 @@
       "name": "隨心園冰店",
       "description": "｜多樣冰品任你選，清涼解渴的好去處。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 757,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "甜品"
       ],
@@ -9457,8 +9457,8 @@
       "name": "成功牛排 苗栗店",
       "description": "專注於牛排的完美烹調，滿足對肉類的熱愛，人氣不斷上升。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1015,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9473,8 +9473,8 @@
       "name": "上頂牛排",
       "description": "以經典牛排為主打，肉質鮮嫩，讓人回味無窮。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9489,8 +9489,8 @@
       "name": "安格斯牛排 苗栗為公店",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1009,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9505,8 +9505,8 @@
       "name": "成功牛排 公館店",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.1,
-      "reviews": 519,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9521,8 +9521,8 @@
       "name": "龍華小吃",
       "description": "傳遞台灣小吃的精華，人氣佳品，讓食客回味無窮。",
       "area": "",
-      "rating": 4.1,
-      "reviews": 1245,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9537,8 +9537,8 @@
       "name": "鶴山飯館",
       "description": "專注於中式台菜，提供豐富的菜色選擇，適合家庭聚餐的好去處。",
       "area": "公館鄉",
-      "rating": 4.1,
-      "reviews": 2034,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9553,8 +9553,8 @@
       "name": "鵝家庄",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.1,
-      "reviews": 426,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9569,8 +9569,8 @@
       "name": "長城燒臘快餐（2/14～3/1年假）",
       "description": "",
       "area": "",
-      "rating": 4.1,
-      "reviews": 210,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9585,8 +9585,8 @@
       "name": "蘭庭農莊花園餐廳",
       "description": "環境優雅，提供新鮮農產的創意台菜，是家庭聚餐的理想場所。",
       "area": "公館鄉",
-      "rating": 4.1,
-      "reviews": 2714,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9601,8 +9601,8 @@
       "name": "大家好麵店",
       "description": "口感豐富的麵食選擇, 吸引了不少回頭客。",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 2038,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9617,8 +9617,8 @@
       "name": "三義三十年豆花",
       "description": "招牌豆花滑嫩香甜, 在甜品界獨樹一格。",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 387,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9633,8 +9633,8 @@
       "name": "徐媽媽南庄正宗",
       "description": "人氣小吃，傳承經典口味，讓人感受家的溫暖。",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 710,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9649,8 +9649,8 @@
       "name": "南庄英姐小吃店 假日接單到13:40",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 574,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9665,8 +9665,8 @@
       "name": "春谷養鱒農場",
       "description": "新鮮美味小吃, 超人氣夜市美食, 以養鱒為主題的特色餐廳。",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 1165,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9682,8 +9682,8 @@
       "name": "員林小館",
       "description": "",
       "area": "南庄鄉",
-      "rating": 4.1,
-      "reviews": 184,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9699,8 +9699,8 @@
       "name": "山城複合式庭園餐廳",
       "description": "環境優美，提供多樣小吃選擇。",
       "area": "三灣鄉",
-      "rating": 4.1,
-      "reviews": 435,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9715,8 +9715,8 @@
       "name": "成大器烤肉飯 頭份建國店",
       "description": "",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 174,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -9731,8 +9731,8 @@
       "name": "胡家院",
       "description": "傳統小吃的代名詞, 讓人懷念的夜市美食選擇。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 491,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9747,8 +9747,8 @@
       "name": "越來越好吃",
       "description": "樸實餐聽，供應炒飯與炒麵等傳統餐點。",
       "area": "竹南鎮",
-      "rating": 4.1,
-      "reviews": 1786,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9763,8 +9763,8 @@
       "name": "細坪客家大粄圓苗栗客家菜在地美食",
       "description": "",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 888,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9779,8 +9779,8 @@
       "name": "田新牛家莊",
       "description": "環境樸實的閒適餐廳，供應適合家庭享用的牛肉火鍋和燉菜。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 2142,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "火鍋"
       ],
@@ -9795,8 +9795,8 @@
       "name": "苑裡菜市場炸雞",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4.1,
-      "reviews": 1360,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9811,8 +9811,8 @@
       "name": "家鄉小吃部",
       "description": "傳統小吃聚集地，經典味道讓人感受到家的溫暖。",
       "area": "苑裡鎮",
-      "rating": 4.1,
-      "reviews": 416,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -9827,8 +9827,8 @@
       "name": "穗花の山奈-善揚蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三灣鄉",
-      "rating": 4.1,
-      "reviews": 339,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -9843,8 +9843,8 @@
       "name": "仙山 陳師兄咖啡蔬食露營區",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "獅潭鄉",
-      "rating": 4.1,
-      "reviews": 7,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -9859,8 +9859,8 @@
       "name": "頭份素食緣餃子館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "頭份市",
-      "rating": 4.1,
-      "reviews": 445,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -9875,8 +9875,8 @@
       "name": "老頑童蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "三義鄉",
-      "rating": 4.1,
-      "reviews": 251,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -9891,8 +9891,8 @@
       "name": "三灣鵝肉(無訂位、公休已粉專公告為主)",
       "description": "中式餐廳，在地美味",
       "area": "三灣鄉",
-      "rating": 4.1,
-      "reviews": 1625,
+      "rating": null,
+      "reviews": null,
       "address": "352台灣苗栗縣三灣鄉三灣村中正路28號",
       "categories": [
         "中式"
@@ -9908,8 +9908,8 @@
       "name": "雙峰草堂",
       "description": "咖啡廳，適合放鬆休憩",
       "area": "銅鑼鄉",
-      "rating": 4.1,
-      "reviews": 1692,
+      "rating": null,
+      "reviews": null,
       "address": "366台灣苗栗縣銅鑼鄉銅鑼村雙峰路86-1號",
       "categories": [
         "咖啡廳"
@@ -9925,8 +9925,8 @@
       "name": "天空之城景觀餐廳",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4.1,
-      "reviews": 12741,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉新開村33號新開村十份 33號",
       "categories": [
         "中式"
@@ -9948,8 +9948,8 @@
       "name": "豬尾仔肉圓",
       "description": "中式餐廳，在地美味",
       "area": "通霄鎮",
-      "rating": 4.1,
-      "reviews": 551,
+      "rating": null,
+      "reviews": null,
       "address": "357台灣苗栗縣通霄鎮通西里和平路51號",
       "categories": [
         "中式"
@@ -9965,8 +9965,8 @@
       "name": "大坪鴨肉麵",
       "description": "麵食專賣店，湯頭講究",
       "area": "造橋鄉",
-      "rating": 4.1,
-      "reviews": 827,
+      "rating": null,
+      "reviews": null,
       "address": "361台灣苗栗縣造橋鄉大西村大西村尖豐路22號",
       "categories": [
         "中式"
@@ -9982,8 +9982,8 @@
       "name": "苗翔牧場",
       "description": "甜品專賣店，消暑好選擇",
       "area": "造橋鄉",
-      "rating": 4.1,
-      "reviews": 655,
+      "rating": null,
+      "reviews": null,
       "address": "361台灣苗栗縣造橋鄉豐湖村五鄰2號",
       "categories": [
         "中式"
@@ -9999,8 +9999,8 @@
       "name": "山吻泉餐廳",
       "description": "中式餐廳，在地美味",
       "area": "泰安鄉",
-      "rating": 4.1,
-      "reviews": 1224,
+      "rating": null,
+      "reviews": null,
       "address": "365台灣苗栗縣泰安鄉錦水村83-2號",
       "categories": [
         "中式"
@@ -10016,8 +10016,8 @@
       "name": "上上小吃",
       "description": "",
       "area": "公館鄉",
-      "rating": 4.1,
-      "reviews": 768,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -10033,8 +10033,8 @@
       "name": "泰雅原住民文化產業園區",
       "description": "",
       "area": "泰安鄉",
-      "rating": 4.1,
-      "reviews": 3375,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -10050,8 +10050,8 @@
       "name": "雲南食府",
       "description": "",
       "area": "獅潭鄉",
-      "rating": 4.1,
-      "reviews": 273,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -10067,8 +10067,8 @@
       "name": "老皮牛肉麵頭份尚順店",
       "description": "超人氣牛肉麵，湯頭濃郁，麵條彈牙。",
       "area": "頭份市",
-      "rating": 4,
-      "reviews": 3256,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10083,8 +10083,8 @@
       "name": "好來香牛肉麵",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4,
-      "reviews": 795,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10099,8 +10099,8 @@
       "name": "牛霸牛肉麵館",
       "description": "實力派牛肉麵店，濃郁湯頭與彈牙麵條相得益彰。",
       "area": "",
-      "rating": 4,
-      "reviews": 272,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10115,8 +10115,8 @@
       "name": "公館客家紅棗雞",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 3284,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10131,8 +10131,8 @@
       "name": "漁泉海鮮料理",
       "description": "新鮮海鮮佳餚, 讓人流連忘返的美味",
       "area": "竹南鎮",
-      "rating": 4,
-      "reviews": 474,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10147,8 +10147,8 @@
       "name": "四海港海鮮餐廳 《外燴 尾牙 婚宴 年菜 春酒 婚喪喜慶 遊覽車隊 帝王蟹 鱷魚料理 野生烏魚子禮盒》",
       "description": "招牌帝王蟹料理，適合各類喜慶宴會，人氣十足。",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 367,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10163,8 +10163,8 @@
       "name": "金榜麵館",
       "description": "三義必吃客家麵，豬頭粄條、乾餛飩、牛肉麵，油蔥香氣四溢",
       "area": "",
-      "rating": 4,
-      "reviews": 13663,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10185,8 +10185,8 @@
       "name": "賴新魁麵店",
       "description": "三義人氣客家麵店，粄條Q彈配豬頭肉，一開店就人潮滿滿",
       "area": "",
-      "rating": 4,
-      "reviews": 10087,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10201,8 +10201,8 @@
       "name": "頭份麵容餃好",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 879,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10217,8 +10217,8 @@
       "name": "頭份客家肉排便當",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 1219,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10233,8 +10233,8 @@
       "name": "後龍餡餅",
       "description": "後龍超人氣銅板小吃先煎後烤餡餅俗又大碗全店僅賣餡餅一個品項",
       "area": "",
-      "rating": 4,
-      "reviews": 393,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10249,8 +10249,8 @@
       "name": "泰安洗水坑手工豆腐",
       "description": "豆腐街招牌手工豆腐豆香濃郁口感綿密煎豆腐豆腐羹必吃",
       "area": "",
-      "rating": 4,
-      "reviews": 16906,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10271,8 +10271,8 @@
       "name": "虎山溫泉咖啡",
       "description": "泰安溫泉區景觀咖啡泡湯後喝杯手沖咖啡配山景放鬆身心必訪",
       "area": "",
-      "rating": 4,
-      "reviews": 1921,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "咖啡廳"
       ],
@@ -10287,8 +10287,8 @@
       "name": "苑裡龍園餐廳",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 2037,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10303,8 +10303,8 @@
       "name": "聞香下馬",
       "description": "傳統中式台菜，適合喜愛家常味的人士。",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 943,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10319,8 +10319,8 @@
       "name": "賴新魁麵館 三義總店",
       "description": "招牌麵食深受喜愛，超人氣，常常排隊等候。",
       "area": "三義鄉",
-      "rating": 4,
-      "reviews": 10088,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10335,8 +10335,8 @@
       "name": "細珍小吃店",
       "description": "經典台式小吃選擇多樣，深受當地人喜愛。",
       "area": "卓蘭鎮",
-      "rating": 4,
-      "reviews": 639,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10351,8 +10351,8 @@
       "name": "元爵味 黃燜雞米飯 頭份和平店",
       "description": "招牌黃燜雞米飯，吸引大量食客前來品嚐。",
       "area": "頭份市",
-      "rating": 4,
-      "reviews": 385,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10367,8 +10367,8 @@
       "name": "新竹吳家鴨香飯-頭份店",
       "description": "招牌鴨香飯鮮美可口，成為當地人推崇的美食之一。",
       "area": "頭份市",
-      "rating": 4,
-      "reviews": 310,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10383,8 +10383,8 @@
       "name": "牛井小館",
       "description": "提供多樣化的中式台菜，食材新鮮，讓人感受到家的味道。",
       "area": "",
-      "rating": 4,
-      "reviews": 507,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10399,8 +10399,8 @@
       "name": "文化麵食館",
       "description": "招牌麵食多樣選擇，讓人品味台灣傳統美味，十分受歡迎。",
       "area": "",
-      "rating": 4,
-      "reviews": 633,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10415,8 +10415,8 @@
       "name": "苗栗市道鼎來牛排酥麵",
       "description": "",
       "area": "苗栗市",
-      "rating": 4,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "西式"
       ],
@@ -10431,8 +10431,8 @@
       "name": "鐵皮屋麵店",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 269,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10447,8 +10447,8 @@
       "name": "山上村",
       "description": "",
       "area": "三灣鄉",
-      "rating": 4,
-      "reviews": 787,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10463,8 +10463,8 @@
       "name": "邱家粄條 客家美食",
       "description": "",
       "area": "",
-      "rating": 4,
-      "reviews": 1122,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10479,8 +10479,8 @@
       "name": "中央飯店",
       "description": "經典台菜美食，菜色多樣，傳遞",
       "area": "",
-      "rating": 4,
-      "reviews": 436,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10495,8 +10495,8 @@
       "name": "御日式平價料理",
       "description": "平價日式料理，適合喜歡簡約風格的用餐者。",
       "area": "",
-      "rating": 4,
-      "reviews": 418,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "日式"
       ],
@@ -10511,8 +10511,8 @@
       "name": "六角工房",
       "description": "特色台菜料理，搭配溫馨氛圍，讓人流連忘返。",
       "area": "竹南鎮",
-      "rating": 4,
-      "reviews": 1265,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10527,8 +10527,8 @@
       "name": "台灣水牛城",
       "description": "",
       "area": "後龍鎮",
-      "rating": 4,
-      "reviews": 6973,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10543,8 +10543,8 @@
       "name": "柚香露露免裝備露營農場",
       "description": "輕鬆享受大自然，適合全家人一起放鬆。",
       "area": "銅鑼鄉",
-      "rating": 4,
-      "reviews": 710,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10559,8 +10559,8 @@
       "name": "秀菊小吃坊",
       "description": "超人氣的小吃店，提供多樣化的傳統台灣小吃，讓人一試成主顧。",
       "area": "公館鄉",
-      "rating": 4,
-      "reviews": 3089,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10575,8 +10575,8 @@
       "name": "圓光排肉餐盒",
       "description": "招牌排肉餐盒人氣極高，適合愛好中式台菜的食客。",
       "area": "頭份市",
-      "rating": 4,
-      "reviews": 1219,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10591,8 +10591,8 @@
       "name": "三義土雞城",
       "description": "",
       "area": "三義鄉",
-      "rating": 4,
-      "reviews": 671,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10607,8 +10607,8 @@
       "name": "阿嬤ㄟ老店",
       "description": "傳承的家常味道，讓人感受到溫暖的老店氛圍。",
       "area": "三義鄉",
-      "rating": 4,
-      "reviews": 475,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10623,8 +10623,8 @@
       "name": "南庄桂花園鄉村會館",
       "description": "人氣小吃，結合鄉村風情與美味，令人流連忘返。",
       "area": "南庄鄉",
-      "rating": 4,
-      "reviews": 2215,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10639,8 +10639,8 @@
       "name": "桂花巷",
       "description": "街道狹窄的商圈，有販售傳統美食、飲品和禮品的攤位。",
       "area": "南庄鄉",
-      "rating": 4,
-      "reviews": 1813,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10655,8 +10655,8 @@
       "name": "麵容餃好。頭份店",
       "description": "餃子皮薄餡多, 深受食客喜愛的夜市小吃。",
       "area": "頭份市",
-      "rating": 4,
-      "reviews": 879,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10671,8 +10671,8 @@
       "name": "茂焱肉圓",
       "description": "經典小吃，肉圓外皮Q彈，內餡鮮美，令人一口接著一口。",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 641,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10687,8 +10687,8 @@
       "name": "巧味包子-手工巧味傳統包子",
       "description": "",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 140,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "中式"
       ],
@@ -10703,8 +10703,8 @@
       "name": "廟口福記臭豆腐水餃(可素食)",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4,
-      "reviews": 89,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10719,8 +10719,8 @@
       "name": "素食煎餃",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "通霄鎮",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10735,8 +10735,8 @@
       "name": "建成素食麵/自助餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "後龍鎮",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10751,8 +10751,8 @@
       "name": "天仁素食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4,
-      "reviews": 56,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10767,8 +10767,8 @@
       "name": "芳苑蔬食早午餐",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苑裡鎮",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10783,8 +10783,8 @@
       "name": "來來健康蔬食",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "竹南鎮",
-      "rating": 4,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -10799,8 +10799,8 @@
       "name": "香香飲食店",
       "description": "中式餐廳，在地美味",
       "area": "三灣鄉",
-      "rating": 4,
-      "reviews": 623,
+      "rating": null,
+      "reviews": null,
       "address": "352台灣苗栗縣三灣鄉三灣村中正路131號",
       "categories": [
         "中式"
@@ -10816,8 +10816,8 @@
       "name": "丹楓餐廳",
       "description": "中式餐廳，在地美味",
       "area": "銅鑼鄉",
-      "rating": 4,
-      "reviews": 677,
+      "rating": null,
+      "reviews": null,
       "address": "366台灣苗栗縣銅鑼鄉銅鑼村中正路147號",
       "categories": [
         "中式"
@@ -10833,8 +10833,8 @@
       "name": "小宋餃子館",
       "description": "麵食專賣店，湯頭講究",
       "area": "銅鑼鄉",
-      "rating": 4,
-      "reviews": 744,
+      "rating": null,
+      "reviews": null,
       "address": "366台灣苗栗縣銅鑼鄉銅鑼村中正路184之1號",
       "categories": [
         "中式"
@@ -10850,8 +10850,8 @@
       "name": "老主顧客家菜餐廳",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4,
-      "reviews": 1512,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉富興村16-21號",
       "categories": [
         "中式"
@@ -10867,8 +10867,8 @@
       "name": "龍之坊",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4,
-      "reviews": 623,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉大湖村民族路61號",
       "categories": [
         "中式"
@@ -10884,8 +10884,8 @@
       "name": "花間集",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4,
-      "reviews": 1070,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉富興村九鄰2-9號",
       "categories": [
         "中式"
@@ -10901,8 +10901,8 @@
       "name": "桂梅小吃",
       "description": "中式餐廳，在地美味",
       "area": "大湖鄉",
-      "rating": 4,
-      "reviews": 901,
+      "rating": null,
+      "reviews": null,
       "address": "364台灣苗栗縣大湖鄉南湖村南昌路66之3號",
       "categories": [
         "中式"
@@ -10918,8 +10918,8 @@
       "name": "獅潭新店老街",
       "description": "中式餐廳，在地美味",
       "area": "獅潭鄉",
-      "rating": 4,
-      "reviews": 2446,
+      "rating": null,
+      "reviews": null,
       "address": "354台灣苗栗縣獅潭鄉台3線",
       "categories": [
         "中式"
@@ -10935,8 +10935,8 @@
       "name": "虎山溫泉會館(湯之島)-泰安溫泉",
       "description": "",
       "area": "泰安鄉",
-      "rating": 4,
-      "reviews": 1921,
+      "rating": null,
+      "reviews": null,
       "address": "365台灣苗栗縣泰安鄉錦水村73-1號",
       "categories": [
         "異國"
@@ -10952,8 +10952,8 @@
       "name": "紅棗食府",
       "description": "",
       "area": "公館鄉",
-      "rating": 4,
-      "reviews": 3285,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -10969,8 +10969,8 @@
       "name": "新方樓餐廳",
       "description": "",
       "area": "公館鄉",
-      "rating": 4,
-      "reviews": 503,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -10986,8 +10986,8 @@
       "name": "佳君麵食館",
       "description": "",
       "area": "卓蘭鎮",
-      "rating": 4,
-      "reviews": 298,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11003,8 +11003,8 @@
       "name": "鳳淋客家小館",
       "description": "",
       "area": "獅潭鄉",
-      "rating": 4,
-      "reviews": 310,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11020,8 +11020,8 @@
       "name": "海瑞摃丸 國道西湖店",
       "description": "",
       "area": "西湖鄉",
-      "rating": 4,
-      "reviews": 443,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11037,8 +11037,8 @@
       "name": "長興精緻小館",
       "description": "",
       "area": "頭屋鄉",
-      "rating": 4,
-      "reviews": 266,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11054,8 +11054,8 @@
       "name": "明德飲食店",
       "description": "",
       "area": "頭屋鄉",
-      "rating": 4,
-      "reviews": 475,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11071,8 +11071,8 @@
       "name": "【元福小吃店】明德水庫美食｜苗栗客家美食｜頭屋客家小吃｜明德水庫附近小吃｜苗栗客家菜｜苗栗團體合菜餐",
       "description": "",
       "area": "頭屋鄉",
-      "rating": 4,
-      "reviews": 386,
+      "rating": null,
+      "reviews": null,
       "address": "",
       "categories": [
         "中式"
@@ -11088,8 +11088,8 @@
       "name": "成功素食餐館",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "卓蘭鎮",
-      "rating": 3.9,
-      "reviews": 41,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -11104,8 +11104,8 @@
       "name": "Loving Hut 愛家蔬食 苗栗聯合店",
       "description": "素食餐廳，提供健康蔬食料理。",
       "area": "苗栗市",
-      "rating": 3.9,
-      "reviews": 159,
+      "rating": null,
+      "reviews": null,
       "categories": [
         "素食"
       ],
@@ -11126,8 +11126,8 @@
       "tags": [],
       "category": "咖啡廳",
       "_sort": 3,
-      "rating": 4.7,
-      "reviews": 399,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.3240875,
       "lng": 120.8242853
@@ -11142,8 +11142,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 5,
-      "reviews": 1382,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.5182048,
       "lng": 120.8442526
@@ -11158,8 +11158,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.4,
-      "reviews": 71,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.4593319,
       "lng": 120.8565313
@@ -11174,8 +11174,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.9,
-      "reviews": 537,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.4449875,
       "lng": 120.6540226
@@ -11190,8 +11190,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.8,
-      "reviews": 179,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.5739735,
       "lng": 120.829411
@@ -11206,8 +11206,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.8,
-      "reviews": 308,
+      "rating": null,
+      "reviews": null,
       "dishes": [
         {
           "name": "手作甜點",
@@ -11235,8 +11235,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.6,
-      "reviews": 255,
+      "rating": null,
+      "reviews": null,
       "dishes": [
         {
           "name": "手工磅蛋糕",
@@ -11264,8 +11264,8 @@
       "category": "咖啡廳",
       "tags": [],
       "_sort": 3,
-      "rating": 4.7,
-      "reviews": 253,
+      "rating": null,
+      "reviews": null,
       "dishes": [],
       "lat": 24.6882842,
       "lng": 120.9100525
@@ -11278,8 +11278,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市自強里仁愛路103號"
     },
     {
@@ -11290,8 +11290,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮延平路106號"
     },
     {
@@ -11302,8 +11302,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "50嵐",
@@ -11313,8 +11313,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11324,8 +11324,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11335,8 +11335,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11346,8 +11346,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11357,8 +11357,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11368,8 +11368,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11379,8 +11379,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11390,8 +11390,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11401,8 +11401,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11412,8 +11412,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11423,8 +11423,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "清心福全",
@@ -11434,8 +11434,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可 頭份信義店",
@@ -11445,8 +11445,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市民族里信義路89號"
     },
     {
@@ -11457,8 +11457,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮光復路198號"
     },
     {
@@ -11469,8 +11469,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可",
@@ -11480,8 +11480,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可",
@@ -11491,8 +11491,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可",
@@ -11502,8 +11502,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可",
@@ -11513,8 +11513,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "CoCo都可",
@@ -11524,8 +11524,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "迷客夏Milksha 苗栗頭份建國店",
@@ -11535,8 +11535,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市蟠桃里建國路二段130號"
     },
     {
@@ -11547,8 +11547,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "茶湯會",
@@ -11558,8 +11558,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "大苑子",
@@ -11569,8 +11569,8 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "大苑子",
@@ -11580,16 +11580,16 @@
       "categories": [
         "飲品"
       ],
-      "rating": 0,
-      "reviews": 0
+      "rating": null,
+      "reviews": null
     },
     {
       "name": "八曜和茶 苗栗頭份中華門市",
       "place_id": "",
       "lat": 24.69348,
       "lng": 120.91035,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市中華路1023號",
       "area": "頭份市",
       "categories": [
@@ -11602,8 +11602,8 @@
       "place_id": "",
       "lat": 24.69532,
       "lng": 120.90945,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市成功里建國路156號",
       "area": "頭份市",
       "categories": [
@@ -11616,8 +11616,8 @@
       "place_id": "",
       "lat": 24.69632,
       "lng": 120.90852,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市成功里建國路185號",
       "area": "頭份市",
       "categories": [
@@ -11630,8 +11630,8 @@
       "place_id": "",
       "lat": 24.69568,
       "lng": 120.90912,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市成功里建國路164號",
       "area": "頭份市",
       "categories": [
@@ -11644,8 +11644,8 @@
       "place_id": "",
       "lat": 24.68955,
       "lng": 120.91088,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東民一街2號",
       "area": "頭份市",
       "categories": [
@@ -11658,8 +11658,8 @@
       "place_id": "",
       "lat": 24.68988,
       "lng": 120.91122,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東庄里東民二街6號1樓",
       "area": "頭份市",
       "categories": [
@@ -11672,8 +11672,8 @@
       "place_id": "",
       "lat": 24.68925,
       "lng": 120.91065,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東庄里東民一街6號",
       "area": "頭份市",
       "categories": [
@@ -11686,8 +11686,8 @@
       "place_id": "",
       "lat": 24.69488,
       "lng": 120.90985,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市建國路140號",
       "area": "頭份市",
       "categories": [
@@ -11700,8 +11700,8 @@
       "place_id": "",
       "lat": 24.69012,
       "lng": 120.91188,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東民二街11號",
       "area": "頭份市",
       "categories": [
@@ -11714,8 +11714,8 @@
       "place_id": "",
       "lat": 24.69585,
       "lng": 120.90905,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市成功里建國路166號",
       "area": "頭份市",
       "categories": [
@@ -11728,8 +11728,8 @@
       "place_id": "",
       "lat": 24.69602,
       "lng": 120.90888,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市建國路172號",
       "area": "頭份市",
       "categories": [
@@ -11742,8 +11742,8 @@
       "place_id": "",
       "lat": 24.68855,
       "lng": 120.90512,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市信義里中正路110號",
       "area": "頭份市",
       "categories": [
@@ -11756,8 +11756,8 @@
       "place_id": "",
       "lat": 24.68512,
       "lng": 120.89888,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市山下里八德二路300號",
       "area": "頭份市",
       "categories": [
@@ -11770,8 +11770,8 @@
       "place_id": "",
       "lat": 24.70112,
       "lng": 120.91255,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市建國里中興路619號",
       "area": "頭份市",
       "categories": [
@@ -11784,8 +11784,8 @@
       "place_id": "",
       "lat": 24.68555,
       "lng": 120.91212,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東庄里中央路146號",
       "area": "頭份市",
       "categories": [
@@ -11798,8 +11798,8 @@
       "place_id": "",
       "lat": 24.68885,
       "lng": 120.91512,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市自強里信東路152號1樓",
       "area": "頭份市",
       "categories": [
@@ -11812,8 +11812,8 @@
       "place_id": "",
       "lat": 24.68888,
       "lng": 120.91045,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東民一街30號",
       "area": "頭份市",
       "categories": [
@@ -11826,8 +11826,8 @@
       "place_id": "",
       "lat": 24.68112,
       "lng": 120.94112,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市中正二路214號",
       "area": "頭份市",
       "categories": [
@@ -11840,8 +11840,8 @@
       "place_id": "",
       "lat": 24.68662,
       "lng": 120.88055,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街126號",
       "area": "竹南鎮",
       "categories": [
@@ -11854,8 +11854,8 @@
       "place_id": "",
       "lat": 24.68725,
       "lng": 120.88122,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街158號",
       "area": "竹南鎮",
       "categories": [
@@ -11868,8 +11868,8 @@
       "place_id": "",
       "lat": 24.68688,
       "lng": 120.88088,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街138號",
       "area": "竹南鎮",
       "categories": [
@@ -11882,8 +11882,8 @@
       "place_id": "",
       "lat": 24.68711,
       "lng": 120.88095,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街145號",
       "area": "竹南鎮",
       "categories": [
@@ -11896,8 +11896,8 @@
       "place_id": "",
       "lat": 24.68695,
       "lng": 120.88105,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街152號",
       "area": "竹南鎮",
       "categories": [
@@ -11910,8 +11910,8 @@
       "place_id": "",
       "lat": 24.68712,
       "lng": 120.88118,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街156號",
       "area": "竹南鎮",
       "categories": [
@@ -11924,8 +11924,8 @@
       "place_id": "",
       "lat": 24.68633,
       "lng": 120.88022,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街122號",
       "area": "竹南鎮",
       "categories": [
@@ -11938,8 +11938,8 @@
       "place_id": "",
       "lat": 24.68735,
       "lng": 120.88135,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街159號",
       "area": "竹南鎮",
       "categories": [
@@ -11952,8 +11952,8 @@
       "place_id": "",
       "lat": 24.68675,
       "lng": 120.88075,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街132號",
       "area": "竹南鎮",
       "categories": [
@@ -11966,8 +11966,8 @@
       "place_id": "",
       "lat": 24.68585,
       "lng": 120.87955,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街96號",
       "area": "竹南鎮",
       "categories": [
@@ -11980,8 +11980,8 @@
       "place_id": "",
       "lat": 24.68755,
       "lng": 120.88165,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街179號",
       "area": "竹南鎮",
       "categories": [
@@ -11994,8 +11994,8 @@
       "place_id": "",
       "lat": 24.68352,
       "lng": 120.88155,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮民權街43號",
       "area": "竹南鎮",
       "categories": [
@@ -12008,8 +12008,8 @@
       "place_id": "",
       "lat": 24.68788,
       "lng": 120.88212,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街189號",
       "area": "竹南鎮",
       "categories": [
@@ -12022,8 +12022,8 @@
       "place_id": "",
       "lat": 24.68222,
       "lng": 120.88215,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮延平路97號",
       "area": "竹南鎮",
       "categories": [
@@ -12036,8 +12036,8 @@
       "place_id": "",
       "lat": 24.68112,
       "lng": 120.87512,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮環市路一段275號",
       "area": "竹南鎮",
       "categories": [
@@ -12050,8 +12050,8 @@
       "place_id": "",
       "lat": 24.67885,
       "lng": 120.88315,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮中山路108號",
       "area": "竹南鎮",
       "categories": [
@@ -12064,8 +12064,8 @@
       "place_id": "",
       "lat": 24.68742,
       "lng": 120.88145,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣竹南鎮博愛街172號",
       "area": "竹南鎮",
       "categories": [
@@ -12078,8 +12078,8 @@
       "place_id": "",
       "lat": 24.69088,
       "lng": 120.91212,
-      "rating": 0,
-      "reviews": 0,
+      "rating": null,
+      "reviews": null,
       "address": "苗栗縣頭份市東民六街3號",
       "area": "頭份市",
       "categories": [

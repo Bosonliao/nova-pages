@@ -1,0 +1,49 @@
+chiayi.json: 燒瓶子。大肆の鍋 嘉義店 | 最後點餐時間00:30
+hsinchu.json: 小時厚牛排-新竹光復店
+kaohsiung.json: 和牛涮日式鍋物放題 高雄博愛店
+kaohsiung.json: 野饌燒肉 和牛活泰國蝦吃到飽 七賢店
+keelung.json: 基隆港海產樓
+keelung.json: 海龍珠水產海鮮餐廳
+nantou.json: 人本自然台菜餐廳(附設七彩神仙魚主題館)
+newtaipei.json: 樂崎火鍋-新莊店
+newtaipei.json: 樂釜 Love Hot Pot 極上鍋物(徐匯店)
+pingtung.json: 佳珍海產餐廳
+pingtung.json: 東港漁港漁產品直銷中心（華僑市場）
+pingtung.json: 邱家生魚片-旗艦總店/Qiu's Sashimi
+taichung.json: 老井極上燒肉 美村店
+taichung.json: 肉次方 燒肉放題 台中文心崇德店
+taichung.json: 森森燒肉 台中中科店
+taichung.json: 締藏和牛燒肉
+taichung.json: 膳馨民間創作料理-創始店-臺菜首選-米其林推薦餐廳
+taichung.json: 信兵衛南門町目三代店
+taichung.json: KoDō和牛燒肉(公益店)
+taichung.json: 燒肉風間｜公益本店
+taichung.json: 萬客什鍋 青海店
+taichung.json: 雪莉牛排海鮮餐廳-台中美食 台中餐廳 台中牛排 西區美食 西區餐廳 西區牛排 文心美食
+taichung.json: 鵝房宮一點利 創始店
+taichung.json: 輕井澤 公益店
+taichung.json: 梧棲來來海鮮餐廳-梧棲必吃海鮮熱炒|推薦海鮮料理|平價海鮮料理|知名海鮮餐廳|公司聚餐|熱門熱炒
+tainan.json: 花花世界鍋物
+tainan.json: 毛丼 丼飯專門店
+taipei.json: 燒肉眾精緻炭火燒肉 台北西門店
+taipei.json: 二本松涮涮屋 本館
+taipei.json: 四時輕燒肉概念屋 台北最強健康輕燒肉
+taipei.json: 柒息地串燒居酒屋士林店
+taipei.json: 肉老大頂級肉品涮涮鍋 台北中山火鍋店| 錦西
+taipei.json: 金洹苑 KIN KAN EN-日式燒肉火鍋吃到飽 台北日本和牛海鮮吃到飽人氣推薦
+taipei.json: 肉次方 燒肉放題 台北峨眉店
+taipei.json: 胖肚肚燒肉吃到飽599-京華店｜炭火燒肉
+taitung.json: 屋賀爺燒肉餐廳(台東總店)
+taoyuan.json: 武田信玄
+taoyuan.json: 川三 上選燒肉 Chuansan Yakiniku 中壢店
+taoyuan.json: 刺客炭火燒肉
+yilan.json: 新買醉
+yilan.json: 新買醉餐酒館＆COZZZY BAR｜宜蘭旗艦店
+yilan.json: 幸福36號海鮮餐廳 (現場制無預訂，最後點菜19:30)
+yilan.json: 海珍活海鮮餐廳
+yilan.json: 味珍活海鮮餐廳
+yilan.json: 火山爆發雞 礁溪總店
+yilan.json: 富美活海鮮 南方澳總店
+yilan.json: 海世界複合式碳烤
+
+Total: 47
