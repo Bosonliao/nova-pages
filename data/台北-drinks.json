@@ -1,8 +1,8 @@
 [
   {
     "name": "好好茶房",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "50嵐北寧",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "珍煮丹股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "良人好茶(士林夜市)",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "可不可以賺大錢商行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "麻古有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "玖仰茶食文化有限公司永康分公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "幸福堂",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "景美街攤販集中場-可不可飲料",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"

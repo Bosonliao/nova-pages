@@ -2295,8 +2295,8 @@
     "openDays": "每日",
     "description": "外埔區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.9148676,
-    "lng": 120.9835684
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大肚夜市",
@@ -2306,8 +2306,8 @@
     "openDays": "每日",
     "description": "大肚區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.1553817,
-    "lng": 120.5452337
+    "lat": null,
+    "lng": null
   },
   {
     "name": "四張犁夜市",
@@ -2317,8 +2317,8 @@
     "openDays": "每日",
     "description": "北屯四張犁每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.1944742,
-    "lng": 120.6792858
+    "lat": null,
+    "lng": null
   },
   {
     "name": "昌平夜市",
@@ -2328,8 +2328,8 @@
     "openDays": "每日",
     "description": "北屯昌平路每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.1066756,
-    "lng": 120.7183101
+    "lat": null,
+    "lng": null
   },
   {
     "name": "漁人町星光市集",
@@ -2350,8 +2350,8 @@
     "openDays": "每日",
     "description": "前鎮光華路每日營業的傳統夜市",
     "type": "夜市",
-    "lat": 22.6168929,
-    "lng": 120.31823
+    "lat": null,
+    "lng": null
   },
   {
     "name": "自強夜市",
@@ -2361,8 +2361,8 @@
     "openDays": "每日",
     "description": "前鎮自強路每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.9709824,
-    "lng": 121.6107239
+    "lat": null,
+    "lng": null
   },
   {
     "name": "興中夜市",
@@ -2372,8 +2372,8 @@
     "openDays": "每日",
     "description": "苓雅興中路每日營業的在地夜市",
     "type": "夜市",
-    "lat": 22.5861623,
-    "lng": 120.3073963
+    "lat": null,
+    "lng": null
   },
   {
     "name": "大東東夜市",
@@ -2383,8 +2383,8 @@
     "openDays": "每日",
     "description": "東區大東東每日營業的熱鬧夜市",
     "type": "夜市",
-    "lat": 22.9824949,
-    "lng": 120.2188806
+    "lat": null,
+    "lng": null
   },
   {
     "name": "永康鹽行夜市",
@@ -2394,8 +2394,8 @@
     "openDays": "每日",
     "description": "永康鹽行每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.0422808,
-    "lng": 120.2357502
+    "lat": null,
+    "lng": null
   },
   {
     "name": "保安夜市",
@@ -2405,8 +2405,8 @@
     "openDays": "每日",
     "description": "仁德保安每日營業的在地夜市",
     "type": "夜市",
-    "lat": 22.9214454,
-    "lng": 120.237251
+    "lat": null,
+    "lng": null
   },
   {
     "name": "中華夜市",
@@ -2416,8 +2416,8 @@
     "openDays": "每日",
     "description": "中西區中華路每日營業的傳統夜市",
     "type": "夜市",
-    "lat": 24.1510694,
-    "lng": 120.6503305
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新市夜市",
@@ -2427,8 +2427,8 @@
     "openDays": "每日",
     "description": "新市區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.1009928,
-    "lng": 120.2835895
+    "lat": null,
+    "lng": null
   },
   {
     "name": "歸仁夜市",
@@ -2438,8 +2438,8 @@
     "openDays": "每日",
     "description": "歸仁區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 22.6423283,
-    "lng": 120.3418779
+    "lat": null,
+    "lng": null
   },
   {
     "name": "麻豆夜市",
@@ -2449,8 +2449,8 @@
     "openDays": "每日",
     "description": "麻豆區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.1843721,
-    "lng": 120.2457677
+    "lat": null,
+    "lng": null
   },
   {
     "name": "佳里夜市",
@@ -2460,8 +2460,8 @@
     "openDays": "每日",
     "description": "佳里區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.2382164,
-    "lng": 120.3721808
+    "lat": null,
+    "lng": null
   },
   {
     "name": "西港夜市",
@@ -2471,8 +2471,8 @@
     "openDays": "每日",
     "description": "西港區每日營業的小型夜市",
     "type": "夜市",
-    "lat": 23.235116,
-    "lng": 120.414103
+    "lat": null,
+    "lng": null
   },
   {
     "name": "新化夜市",
@@ -2482,8 +2482,8 @@
     "openDays": "每日",
     "description": "新化區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.1009928,
-    "lng": 120.2835895
+    "lat": null,
+    "lng": null
   },
   {
     "name": "白河夜市",
@@ -2493,8 +2493,8 @@
     "openDays": "每日",
     "description": "白河區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.3510746,
-    "lng": 120.4125394
+    "lat": null,
+    "lng": null
   },
   {
     "name": "東山夜市",
@@ -2504,8 +2504,8 @@
     "openDays": "每日",
     "description": "東山區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.3229622,
-    "lng": 120.4045311
+    "lat": null,
+    "lng": null
   },
   {
     "name": "六甲夜市",
@@ -2515,8 +2515,8 @@
     "openDays": "每日",
     "description": "六甲區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.2382164,
-    "lng": 120.3721808
+    "lat": null,
+    "lng": null
   },
   {
     "name": "下營夜市",
@@ -2526,8 +2526,8 @@
     "openDays": "每日",
     "description": "下營區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.2921955,
-    "lng": 120.2746118
+    "lat": null,
+    "lng": null
   },
   {
     "name": "柳營夜市",
@@ -2537,8 +2537,8 @@
     "openDays": "每日",
     "description": "柳營區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.2610891,
-    "lng": 120.311998
+    "lat": null,
+    "lng": null
   },
   {
     "name": "後壁夜市",
@@ -2548,8 +2548,8 @@
     "openDays": "每日",
     "description": "後壁區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.1519791,
-    "lng": 120.2403932
+    "lat": null,
+    "lng": null
   },
   {
     "name": "楠西夜市",
@@ -2559,8 +2559,8 @@
     "openDays": "每日",
     "description": "楠西區每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.1554663,
-    "lng": 120.6527367
+    "lat": null,
+    "lng": null
   },
   {
     "name": "嘉樂福夜市",
@@ -2570,8 +2570,8 @@
     "openDays": "週四五六日",
     "description": "嘉義西區週四五六日營業的大型夜市",
     "type": "夜市",
-    "lat": 23.4713582,
-    "lng": 120.4332225
+    "lat": null,
+    "lng": null
   },
   {
     "name": "湖美夜市",
@@ -2581,8 +2581,8 @@
     "openDays": "每日",
     "description": "嘉義東區湖美每日營業的在地夜市",
     "type": "夜市",
-    "lat": 25.0015685,
-    "lng": 121.552998
+    "lat": null,
+    "lng": null
   },
   {
     "name": "彌陀夜市",
@@ -2592,8 +2592,8 @@
     "openDays": "每日",
     "description": "嘉義東區彌陀每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.4647982,
-    "lng": 120.4661076
+    "lat": null,
+    "lng": null
   },
   {
     "name": "花壇夜市",
@@ -2603,8 +2603,8 @@
     "openDays": "每日",
     "description": "花壇鄉每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.0281506,
-    "lng": 120.5426629
+    "lat": null,
+    "lng": null
   },
   {
     "name": "後龍夜市",
@@ -2614,8 +2614,8 @@
     "openDays": "每日",
     "description": "後龍鎮每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.4706557,
-    "lng": 120.8155346
+    "lat": null,
+    "lng": null
   },
   {
     "name": "竹南夜市",
@@ -2625,8 +2625,8 @@
     "openDays": "每日",
     "description": "竹南鎮每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.4760142,
-    "lng": 121.339076
+    "lat": null,
+    "lng": null
   },
   {
     "name": "頭份夜市",
@@ -2636,8 +2636,8 @@
     "openDays": "每日",
     "description": "頭份市每日營業的在地夜市",
     "type": "夜市",
-    "lat": 24.6793555,
-    "lng": 120.8852555
+    "lat": null,
+    "lng": null
   },
   {
     "name": "草鞋墩人文觀光夜市",
@@ -2647,8 +2647,8 @@
     "openDays": "每日",
     "description": "草屯鎮每日營業的人文觀光夜市",
     "type": "夜市",
-    "lat": 23.9884037,
-    "lng": 120.6870563
+    "lat": null,
+    "lng": null
   },
   {
     "name": "埔里城觀光夜市",
@@ -2658,8 +2658,8 @@
     "openDays": "每日",
     "description": "埔里鎮每日營業的觀光夜市",
     "type": "夜市",
-    "lat": 25.0022293,
-    "lng": 121.30632
+    "lat": null,
+    "lng": null
   },
   {
     "name": "墾丁大街夜市",
@@ -2680,8 +2680,8 @@
     "openDays": "每日",
     "description": "屏東市每日營業的觀光夜市",
     "type": "夜市",
-    "lat": 22.6290657,
-    "lng": 120.3027243
+    "lat": null,
+    "lng": null
   },
   {
     "name": "四維路夜市",
@@ -2691,8 +2691,8 @@
     "openDays": "每日",
     "description": "台東市四維路每日營業的在地夜市",
     "type": "夜市",
-    "lat": 23.3077217,
-    "lng": 120.2768809
+    "lat": null,
+    "lng": null
   },
   {
     "name": "蘭嶼東清夜市",
@@ -2702,8 +2702,8 @@
     "openDays": "每日",
     "description": "蘭嶼東清每日營業的特色離島夜市",
     "type": "夜市",
-    "lat": 22.0577834,
-    "lng": 121.5651961
+    "lat": null,
+    "lng": null
   },
   {
     "name": "文澳祖師廟幸福小夜市",

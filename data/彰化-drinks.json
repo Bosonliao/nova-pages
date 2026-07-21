@@ -1,8 +1,8 @@
 [
   {
     "name": "幸福堂西點麵包",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大村鄉",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "鹿港鎮",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "台灣味好茶莊",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "員林市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "員林市",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "鹿谷好茶莊",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "北斗鎮",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "麥好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "溪湖鎮",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "現代好茶飲料店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "社頭鄉",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "好茶饌冷熱飲店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "鹿港鎮",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "幸福堂餅行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "溪湖鎮",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "員林市",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "員林市",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "王室好茶記",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "鹿港鎮",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "台灣好茶道商行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "和美鎮",
     "categories": [
       "飲品"

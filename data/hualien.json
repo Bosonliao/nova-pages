@@ -16,8 +16,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.1939246,
-      "lng": 121.4906668
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花東縱谷田園一日遊",
@@ -34,8 +34,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.9334262,
-      "lng": 121.5395076
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮海線秘境一日遊",
@@ -52,8 +52,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.9871589,
-      "lng": 121.6015714
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮市區文化散策一日遊",
@@ -68,8 +68,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金針花海季節限定一日遊（8-9月）",
@@ -84,8 +84,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.2209221,
-      "lng": 121.31118
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮親子樂園農場一日遊",
@@ -100,8 +100,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.9871589,
-      "lng": 121.6015714
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮雨天文創園區與石雕博物館",
@@ -115,8 +115,8 @@
       "tags": [
         "雨天路線"
       ],
-      "lat": 23.9895069,
-      "lng": 121.6283727
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮樂齡鯉魚潭與東大門夜市",
@@ -131,8 +131,8 @@
       "tags": [
         "樂齡路線"
       ],
-      "lat": 23.9687889,
-      "lng": 121.5968039
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮東大門夜市與炸蛋蔥油餅攻略",
@@ -148,8 +148,8 @@
       "tags": [
         "景點加美食"
       ],
-      "lat": 23.9719833,
-      "lng": 121.6105482
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・花蓮將軍府日式景點一日遊",
@@ -163,8 +163,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 23.9805478,
-      "lng": 121.6128353
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・花蓮壽豐理想大地一日遊",
@@ -180,8 +180,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 23.8656354,
-      "lng": 121.5271308
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・花蓮吉安鄉日式寺院自行車道行",
@@ -196,8 +196,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 23.9736006,
-      "lng": 121.582825
+      "lat": null,
+      "lng": null
     }
   ],
   "spots": [
@@ -208,8 +208,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮市區，逛街美食與文創",
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -218,8 +218,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮最美海灘，鵝卵石與星空",
-      "lat": 24.0430498,
-      "lng": 121.6224926
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -228,8 +228,8 @@
       "rating": null,
       "reviews": null,
       "description": "太魯閣清水斷崖，太平洋峭壁",
-      "lat": 24.2188889,
-      "lng": 121.6930556
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -238,16 +238,16 @@
       "rating": null,
       "reviews": null,
       "description": "世界級大理石峽谷，台灣必訪地標",
-      "lat": 24.1939246,
-      "lng": 121.4906668
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
       "name": "長春祠",
       "area": "太魯閣峽谷經典",
       "description": "太魯閣長春祠，瀑布與寺廟",
-      "lat": 24.1604798,
-      "lng": 121.6036866
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -256,8 +256,8 @@
       "rating": null,
       "reviews": null,
       "description": "太魯閣燕子口步道，大理石峽谷",
-      "lat": 24.172959,
-      "lng": 121.564444
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -266,8 +266,8 @@
       "rating": null,
       "reviews": null,
       "description": "太魯閣九曲洞步道，峽谷奇景",
-      "lat": 24.1939246,
-      "lng": 121.4906668
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -276,8 +276,8 @@
       "rating": null,
       "reviews": null,
       "description": "太魯閣山月吊橋，峽谷高空吊橋",
-      "lat": 24.1730194,
-      "lng": 121.5699615
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -286,8 +286,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮鯉魚潭，環湖單車與賞螢",
-      "lat": 23.9278268,
-      "lng": 121.5098787
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -296,8 +296,8 @@
       "rating": null,
       "reviews": null,
       "description": "壽豐立川漁場，蜆仔養殖與摸蜆",
-      "lat": 23.864656,
-      "lng": 121.5222562
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -306,8 +306,8 @@
       "rating": null,
       "reviews": null,
       "description": "光復糖廠，花蓮糖廠冰品與五分車",
-      "lat": 23.9334262,
-      "lng": 121.5395076
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -316,8 +316,8 @@
       "rating": null,
       "reviews": null,
       "description": "光復馬太鞍濕地，阿美族生態捕魚",
-      "lat": 23.6577522,
-      "lng": 121.4096652
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -326,8 +326,8 @@
       "rating": null,
       "reviews": null,
       "description": "瑞穗鮮乳牧場，餵牛與鮮乳",
-      "lat": 23.4792093,
-      "lng": 121.3459565
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -336,8 +336,8 @@
       "rating": null,
       "reviews": null,
       "description": "瑞穗北回歸線標誌，熱帶副熱帶分界",
-      "lat": 23.465731,
-      "lng": 121.3574028
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -346,8 +346,8 @@
       "rating": null,
       "reviews": null,
       "description": "豐濱牛山草原，原民風景區",
-      "lat": 23.7634832,
-      "lng": 121.5691587
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -356,8 +356,8 @@
       "rating": null,
       "reviews": null,
       "description": "壽豐March洞，海蝕洞秘境",
-      "lat": 23.5240439,
-      "lng": 121.5042389
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -366,8 +366,8 @@
       "rating": null,
       "reviews": null,
       "description": "壽豐大石鼻山步道，海景俯瞰",
-      "lat": 23.6968601,
-      "lng": 121.5509031
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -376,8 +376,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮海蝕地形，露營與潮間帶",
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -386,8 +386,8 @@
       "rating": null,
       "reviews": null,
       "description": "豐濱天空步道，斷崖海上走廊",
-      "lat": 23.675376,
-      "lng": 121.545538
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -396,8 +396,8 @@
       "rating": null,
       "reviews": null,
       "description": "豐濱新社梯田，海稻田秘境",
-      "lat": 23.65437,
-      "lng": 121.539429
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -406,8 +406,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮日式別館，太平洋海景",
-      "lat": 23.9828738,
-      "lng": 121.6155061
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -416,8 +416,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮舊酒廠文創園區，藝文展覽",
-      "lat": 23.976244,
-      "lng": 121.6048577
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -426,8 +426,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮貨櫃星巴克，全台唯一貨櫃店面",
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -436,8 +436,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮日式佛寺，三級古蹟",
-      "lat": 23.9736882,
-      "lng": 121.5647145
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -446,8 +446,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮最大夜市，福町與自強夜市合併",
-      "lat": 23.9728958,
-      "lng": 121.6098425
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -456,8 +456,8 @@
       "rating": null,
       "reviews": null,
       "description": "玉里赤柯山金針花，八月限定",
-      "lat": 23.389575,
-      "lng": 121.395448
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -466,8 +466,8 @@
       "rating": null,
       "reviews": null,
       "description": "富里金針花海，小瑞士景觀",
-      "lat": 23.2209221,
-      "lng": 121.31118
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -476,8 +476,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮遠雄海洋公園，主題樂園",
-      "lat": 23.9012596,
-      "lng": 121.6035363
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -486,8 +486,8 @@
       "rating": null,
       "reviews": null,
       "description": "陽明山高山湖泊，生態保護區",
-      "lat": 23.8285824,
-      "lng": 121.5155814
+      "lat": null,
+      "lng": null
     },
     {
       "county": "花蓮",
@@ -496,8 +496,8 @@
       "rating": null,
       "reviews": null,
       "description": "花蓮理想大地，五星級河岸度假",
-      "lat": 23.8656354,
-      "lng": 121.5271308
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮觀光糖廠",
@@ -506,8 +506,8 @@
       "rating": null,
       "reviews": null,
       "tags": [],
-      "lat": 23.6586905,
-      "lng": 121.4206067
+      "lat": null,
+      "lng": null
     },
     {
       "name": "張家樹園",
@@ -516,8 +516,8 @@
       "rating": null,
       "reviews": null,
       "tags": [],
-      "lat": 23.978631,
-      "lng": 121.5729202
+      "lat": null,
+      "lng": null
     },
     {
       "name": "七星潭海岸風景特定區",
@@ -526,8 +526,8 @@
       "rating": null,
       "reviews": null,
       "tags": [],
-      "lat": 24.0314268,
-      "lng": 121.6271764
+      "lat": null,
+      "lng": null
     },
     {
       "name": "太平洋公園",
@@ -536,8 +536,8 @@
       "rating": null,
       "reviews": null,
       "tags": [],
-      "lat": 23.9663889,
-      "lng": 121.6091667
+      "lat": null,
+      "lng": null
     },
     {
       "name": "武陵農場",
@@ -546,8 +546,8 @@
       "rating": null,
       "reviews": null,
       "tags": [],
-      "lat": 24.3450052,
-      "lng": 121.3082054
+      "lat": null,
+      "lng": null
     }
   ],
   "souvenirs": [
@@ -555,50 +555,50 @@
       "name": "花蓮薯",
       "area": "花蓮市",
       "description": "花蓮特產薯餅，曾記最出名",
-      "lat": 23.9757899,
-      "lng": 121.6057515
+      "lat": null,
+      "lng": null
     },
     {
       "name": "曾記麻糬",
       "area": "花蓮市",
       "description": "花蓮名產手工麻糬伴手禮",
-      "lat": 23.9777429,
-      "lng": 121.608338
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豐興餅舖",
       "area": "花蓮市",
       "description": "花蓮老牌糕餅店，小月餅出名",
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "郭榮市手工麻糬",
       "area": "花蓮市",
       "description": "花蓮手工麻糬名店",
-      "lat": 23.9693667,
-      "lng": 121.6040454
+      "lat": null,
+      "lng": null
     },
     {
       "name": "德利豆乾",
       "area": "花蓮市",
       "description": "花蓮特產白豆乾伴手",
-      "lat": 23.9920603,
-      "lng": 121.6032496
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮剝皮辣椒",
       "area": "花蓮市",
       "description": "花蓮特產剝皮辣椒罐頭",
-      "lat": 23.9729523,
-      "lng": 121.5956849
+      "lat": null,
+      "lng": null
     },
     {
       "name": "惠比壽餅舖",
       "area": "花蓮市",
       "description": "花蓮日式糕餅老店，花蓮薯出名",
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "曾記麻糬 故事館門市",
@@ -607,8 +607,8 @@
       "rating": 4.8,
       "reviews": 13202,
       "tags": [],
-      "lat": 23.9917221,
-      "lng": 121.6030889
+      "lat": null,
+      "lng": null
     }
   ],
   "food": [
@@ -627,8 +627,8 @@
       "category": "中式",
       "_sort": 2,
       "dishes": [],
-      "lat": 23.978791,
-      "lng": 121.6053834
+      "lat": null,
+      "lng": null
     },
     {
       "name": "佳興冰果室",
@@ -651,8 +651,8 @@
         "酸甜檸檬汁和佳興檸檬棒棒冰",
         "平價美味什錦湯麵"
       ],
-      "lat": 24.1264499,
-      "lng": 121.6518013
+      "lat": null,
+      "lng": null
     },
     {
       "name": "無名早餐店",
@@ -669,8 +669,8 @@
       "category": "咖啡廳",
       "_sort": 2,
       "dishes": [],
-      "lat": 23.9739479,
-      "lng": 121.5956198
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鐵道麵館(牛肉麵.羊排麵.肉燥拌麵)",
@@ -685,8 +685,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9775722,
-      "lng": 121.6058963
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宇軒素食 Vegetarian restaurant",
@@ -701,8 +701,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9772703,
-      "lng": 121.6096203
+      "lat": null,
+      "lng": null
     },
     {
       "name": "義麵物語坊",
@@ -717,8 +717,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9702423,
-      "lng": 121.5843994
+      "lat": null,
+      "lng": null
     },
     {
       "name": "女兒心優質農產創意工坊",
@@ -733,8 +733,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3238686,
-      "lng": 121.3230679
+      "lat": null,
+      "lng": null
     },
     {
       "name": "御三家 鍋の物",
@@ -749,8 +749,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9843761,
-      "lng": 121.6198915
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食鍋癮SUGOI火鍋",
@@ -765,8 +765,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9798376,
-      "lng": 121.602834
+      "lat": null,
+      "lng": null
     },
     {
       "name": "火鍋世家 吉安店",
@@ -781,8 +781,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9690088,
-      "lng": 121.5821587
+      "lat": null,
+      "lng": null
     },
     {
       "name": "單行道咖啡",
@@ -797,8 +797,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9954527,
-      "lng": 121.6044965
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花樣冰城 花蓮店（芒果冰開賣 花蓮加油！！",
@@ -813,8 +813,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9893863,
-      "lng": 121.6057375
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮冰棧《6/4起，我們回來了！》",
@@ -829,8 +829,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9925255,
-      "lng": 121.5765283
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿礑蔬食咖啡",
@@ -845,8 +845,8 @@
       "category": "咖啡廳",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1269204,
-      "lng": 121.641604
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食早餐店（菜包/碗粿/素粽）只供外帶",
@@ -861,8 +861,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.495085,
-      "lng": 121.3802434
+      "lat": null,
+      "lng": null
     },
     {
       "name": "幸福佳味素食早餐(不定時出沒)",
@@ -877,8 +877,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6350647,
-      "lng": 121.422761
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花花草草 Flowers & Grass",
@@ -894,8 +894,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4589291,
-      "lng": 121.498244
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Cabret Cafe",
@@ -911,8 +911,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.056989,
-      "lng": 121.605899
+      "lat": null,
+      "lng": null
     },
     {
       "name": "有感覺手沖",
@@ -928,8 +928,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1219036,
-      "lng": 121.6345564
+      "lat": null,
+      "lng": null
     },
     {
       "name": "（預約制）Kiku's Kitchen - 蘭御坊",
@@ -945,8 +945,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7187942,
-      "lng": 121.4068658
+      "lat": null,
+      "lng": null
     },
     {
       "name": "饗吃牛肉麵｜羊肉麵",
@@ -961,8 +961,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.972682,
-      "lng": 121.6085893
+      "lat": null,
+      "lng": null
     },
     {
       "name": "香茅廚房 Lemongrass Kitchen /花蓮美食/花蓮餐廳/花蓮必吃/花蓮聚餐/寵物親子友善餐廳",
@@ -977,8 +977,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9864947,
-      "lng": 121.5991357
+      "lat": null,
+      "lng": null
     },
     {
       "name": "jam kitchen 花蓮中山棧",
@@ -993,8 +993,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9810445,
-      "lng": 121.6060898
+      "lat": null,
+      "lng": null
     },
     {
       "name": "臣佳立業餐酒館 CHEN & JIA BISTRO",
@@ -1009,8 +1009,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3268617,
-      "lng": 121.3142592
+      "lat": null,
+      "lng": null
     },
     {
       "name": "來客早午餐 Like Brunch",
@@ -1025,8 +1025,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9906175,
-      "lng": 121.5955975
+      "lat": null,
+      "lng": null
     },
     {
       "name": "預约制：織娘之家,素食主義(Vegan, Vegetarian/Yuli’s home)",
@@ -1041,8 +1041,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1298305,
-      "lng": 121.6464888
+      "lat": null,
+      "lng": null
     },
     {
       "name": "心蔬食🌱 （vegetarian）",
@@ -1057,8 +1057,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.154416,
-      "lng": 121.2855249
+      "lat": null,
+      "lng": null
     },
     {
       "name": "榷谷 CHEKU ｜ 蔬食料理 （預約制 Reservation Only）",
@@ -1073,8 +1073,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.1242674,
-      "lng": 121.2141928
+      "lat": null,
+      "lng": null
     },
     {
       "name": "胖嘟嘟臭豆腐",
@@ -1089,8 +1089,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9830993,
-      "lng": 121.6046804
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮市立丼物園",
@@ -1105,8 +1105,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9862155,
-      "lng": 121.5993154
+      "lat": null,
+      "lng": null
     },
     {
       "name": "十六食堂",
@@ -1121,8 +1121,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.989208,
-      "lng": 121.606574
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福坊炭烤酌酒/花蓮美食/花蓮餐廳/花蓮餐酒館/花蓮晚餐/花蓮調酒/附近美食",
@@ -1137,8 +1137,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9740139,
-      "lng": 121.595066
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮最美秘境景觀玻璃屋",
@@ -1153,8 +1153,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8938639,
-      "lng": 121.5905051
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬紹餐廳",
@@ -1169,8 +1169,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8513206,
-      "lng": 121.4900461
+      "lat": null,
+      "lng": null
     },
     {
       "name": "極禾鍋物職人 花蓮建國旗艦店-吉安個人鍋物|人氣鍋物|熱門鍋物|特色鍋物|小火鍋推薦|必吃火鍋|在地推薦火鍋|聚餐餐廳",
@@ -1185,8 +1185,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.98557,
-      "lng": 121.5921124
+      "lat": null,
+      "lng": null
     },
     {
       "name": "火鍋世家 花蓮國聯店",
@@ -1201,8 +1201,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910498,
-      "lng": 121.6044952
+      "lat": null,
+      "lng": null
     },
     {
       "name": "寒聚蘊湯鍋物（花蓮旗艦店）",
@@ -1217,8 +1217,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9777484,
-      "lng": 121.6006915
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鼎味馨鍋物",
@@ -1233,8 +1233,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9727908,
-      "lng": 121.6041938
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巴大爺鍋物（麻辣火鍋）",
@@ -1249,8 +1249,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9810338,
-      "lng": 121.6061006
+      "lat": null,
+      "lng": null
     },
     {
       "name": "霧川鍋物",
@@ -1265,8 +1265,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9801424,
-      "lng": 121.6017253
+      "lat": null,
+      "lng": null
     },
     {
       "name": "五吉鍋物hot pot 特色鍋物｜花蓮在地食材湯底｜必吃鍋物｜蔬菜吧吃到飽｜爆炒蛤蠣石頭鍋系列",
@@ -1281,8 +1281,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "name": "八方悅鍋物 花蓮明心店(原中正店)",
@@ -1297,8 +1297,8 @@
       "tags": [],
       "_sort": 3,
       "dishes_searched": true,
-      "lat": 23.9847961,
-      "lng": 121.6060162
+      "lat": null,
+      "lng": null
     },
     {
       "name": "泰鍋古藝（花蓮店）假日全天營業",
@@ -1313,8 +1313,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9791992,
-      "lng": 121.6075301
+      "lat": null,
+      "lng": null
     },
     {
       "name": "錢都日式涮涮鍋-花蓮國聯店 CHIEN TU HOT POT",
@@ -1329,8 +1329,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9908474,
-      "lng": 121.6053707
+      "lat": null,
+      "lng": null
     },
     {
       "name": "照豫坊港式麻辣鴛鴦火鍋",
@@ -1345,8 +1345,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9685808,
-      "lng": 121.6028364
+      "lat": null,
+      "lng": null
     },
     {
       "name": "高大俠海鮮燒烤Bar",
@@ -1361,8 +1361,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9723745,
-      "lng": 121.6126848
+      "lat": null,
+      "lng": null
     },
     {
       "name": "同齊咖吡",
@@ -1377,8 +1377,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9828467,
-      "lng": 121.6061982
+      "lat": null,
+      "lng": null
     },
     {
       "name": "厚。點甜",
@@ -1393,8 +1393,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974199,
-      "lng": 121.6082843
+      "lat": null,
+      "lng": null
     },
     {
       "name": "5+商行（營業時間以臉書公佈為主）",
@@ -1409,8 +1409,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9827551,
-      "lng": 121.6027911
+      "lat": null,
+      "lng": null
     },
     {
       "name": "咖啡木CoffeeMoon",
@@ -1425,8 +1425,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.97643,
-      "lng": 121.6164484
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小村·日 壽司（花蓮店）｜日式餐廳｜花蓮美食｜聚餐餐廳｜客製化餐盒｜生魚片蛋糕｜",
@@ -1441,8 +1441,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9763122,
-      "lng": 121.6071195
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花町日式料理/居酒屋/壽司/燒鳥",
@@ -1457,8 +1457,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9833541,
-      "lng": 121.603637
+      "lat": null,
+      "lng": null
     },
     {
       "name": "676中西式早午餐 ｜越南脆皮麵包/手工蛋餅/花蓮早餐/花蓮美食",
@@ -1473,8 +1473,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9947225,
-      "lng": 121.5698544
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慕然五十冰淇淋",
@@ -1489,8 +1489,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.978354,
-      "lng": 121.6067678
+      "lat": null,
+      "lng": null
     },
     {
       "name": "凍涼小舖",
@@ -1505,8 +1505,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9717404,
-      "lng": 121.606523
+      "lat": null,
+      "lng": null
     },
     {
       "name": "京之苑燒肉",
@@ -1521,8 +1521,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9810061,
-      "lng": 121.6064467
+      "lat": null,
+      "lng": null
     },
     {
       "name": "梅蘢鎮",
@@ -1537,8 +1537,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9829937,
-      "lng": 121.6201482
+      "lat": null,
+      "lng": null
     },
     {
       "name": "暗潮燒烤",
@@ -1553,8 +1553,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0268623,
-      "lng": 121.6304038
+      "lat": null,
+      "lng": null
     },
     {
       "name": "漁米串燒-親子友善串燒店",
@@ -1569,8 +1569,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.981323,
-      "lng": 121.6018094
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鹿禾餐廳",
@@ -1585,8 +1585,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.994273,
-      "lng": 121.5950162
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巧味 食在地",
@@ -1601,8 +1601,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9956267,
-      "lng": 121.5668763
+      "lat": null,
+      "lng": null
     },
     {
       "name": "客來吃樂玉里店",
@@ -1630,8 +1630,8 @@
           "description": "滷製大腸入味，搭配濃郁湯頭呈現道地台式風味"
         }
       ],
-      "lat": 23.334801,
-      "lng": 121.3145109
+      "lat": null,
+      "lng": null
     },
     {
       "name": "「金喜檸檬」玉里必喝海鹽檸檬飲、（無販售烤肉、香腸了）有在地特色伴手禮(營業時間請電洽）",
@@ -1646,8 +1646,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3319351,
-      "lng": 121.3154916
+      "lat": null,
+      "lng": null
     },
     {
       "name": "嗨咖驛站(農漁料理)",
@@ -1662,8 +1662,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.610301,
-      "lng": 121.5287667
+      "lat": null,
+      "lng": null
     },
     {
       "name": "月崖灣親子農場",
@@ -1678,8 +1678,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8751132,
-      "lng": 121.5992132
+      "lat": null,
+      "lng": null
     },
     {
       "name": "香之莊園-無景觀無內用",
@@ -1694,8 +1694,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9189479,
-      "lng": 121.5516664
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海碉堡 x 穎！咖啡 ┆ 咖啡廳正常營業",
@@ -1710,8 +1710,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9358578,
-      "lng": 121.6090063
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里素食飯糰",
@@ -1739,8 +1739,8 @@
           "description": "素食糯米捲，軟糯口感搭配素食內餡"
         }
       ],
-      "lat": 23.3343178,
-      "lng": 121.3144875
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食健康早午餐",
@@ -1755,8 +1755,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3282696,
-      "lng": 121.3131735
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原素早午餐 - 素食料理 / 蔬食早午餐新選擇",
@@ -1771,8 +1771,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9784883,
-      "lng": 121.5663254
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐濱必吃｜石梯漁港美食｜石梯漁港海鮮",
@@ -1788,8 +1788,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4588524,
-      "lng": 121.4982256
+      "lat": null,
+      "lng": null
     },
     {
       "name": "里艾廚房&人魚海",
@@ -1805,8 +1805,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.450182,
-      "lng": 121.4965929
+      "lat": null,
+      "lng": null
     },
     {
       "name": "太魯閣中村志明咖啡甜點風味餐",
@@ -1822,8 +1822,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1585409,
-      "lng": 121.6506541
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豆奏會",
@@ -1839,8 +1839,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.2021025,
-      "lng": 121.2748559
+      "lat": null,
+      "lng": null
     },
     {
       "name": "冉記食堂",
@@ -1856,8 +1856,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.2703006,
-      "lng": 121.740771
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Mr.&Mrs. 袁的食光-花蓮美食｜花蓮海鮮｜花蓮必吃｜花蓮餐廳｜豐濱美食｜豐濱海鮮｜豐濱餐廳｜豐",
@@ -1873,8 +1873,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4588524,
-      "lng": 121.4982256
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吉米家食堂石頭小火鍋",
@@ -1902,8 +1902,8 @@
           "description": "個人式古早味火鍋，乾淨且懷舊風格的用餐環境"
         }
       ],
-      "lat": 23.9721048,
-      "lng": 121.5940182
+      "lat": null,
+      "lng": null
     },
     {
       "name": "東戀溫泉民宿Eastern love B&B - 花蓮 瑞穗 優質溫泉民宿推薦 家庭住宿首選 網友高評價黃金湯旅宿好評 高CP值 人氣泡湯休息 熱門溫泉花泡湯 個人湯池 價格 評價 親子平價 網紅必住 網美 團體多人旅遊 公司 訂房優惠 輕旅行 打卡",
@@ -1918,8 +1918,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5205619,
-      "lng": 121.4113308
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巷往 Hualien",
@@ -1947,8 +1947,8 @@
           "description": "結合原民食材的獨特湯頭，順口濃郁"
         }
       ],
-      "lat": 23.9713735,
-      "lng": 121.6052831
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鍋隱個人碳鍋GOIN HOTPOT",
@@ -1963,8 +1963,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9792813,
-      "lng": 121.6066443
+      "lat": null,
+      "lng": null
     },
     {
       "name": "UNCONDITIONAL COFFEE ROASTERY【無攝限咖啡】",
@@ -1979,8 +1979,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9786928,
-      "lng": 121.5963437
+      "lat": null,
+      "lng": null
     },
     {
       "name": "take a bread 光復店",
@@ -1995,8 +1995,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9793198,
-      "lng": 121.6055021
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮牛山【看見美See the beauty】咖啡",
@@ -2024,8 +2024,8 @@
           "description": "帶有淡淡竹香的古早風味主食，口感軟綿且Q彈，有原味與加入蝦米等不同風味選擇。"
         }
       ],
-      "lat": 23.7670016,
-      "lng": 121.5630548
+      "lat": null,
+      "lng": null
     },
     {
       "name": "凱十七牛骨牛肉麵",
@@ -2053,8 +2053,8 @@
           "description": "使用整隻螃蟹等豪華海鮮食材進行滷製，搭配自製的酸甜泡菜，風味獨特且層次豐富。"
         }
       ],
-      "lat": 23.9741,
-      "lng": 121.594925
+      "lat": null,
+      "lng": null
     },
     {
       "name": "肚 咖哩 牛肉麵 專賣所",
@@ -2082,8 +2082,8 @@
           "description": "咖哩與牛肉的結合，濃郁香氣，店內人氣主餐"
         }
       ],
-      "lat": 23.9813852,
-      "lng": 121.606989
+      "lat": null,
+      "lng": null
     },
     {
       "name": "游家來來烤肉 Lai Lai GrillShop",
@@ -2098,8 +2098,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9818121,
-      "lng": 121.601968
+      "lat": null,
+      "lng": null
     },
     {
       "name": "第一家烤肉串 國聯店",
@@ -2114,8 +2114,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9881233,
-      "lng": 121.601225
+      "lat": null,
+      "lng": null
     },
     {
       "name": "娜滋滋烤魚",
@@ -2130,8 +2130,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.968739,
-      "lng": 121.6078438
+      "lat": null,
+      "lng": null
     },
     {
       "name": "老時光燒肉酒肴",
@@ -2152,8 +2152,8 @@
         "鮭魚烤飯糰",
         "糖烤葡萄柚"
       ],
-      "lat": 23.9810769,
-      "lng": 121.6091741
+      "lat": null,
+      "lng": null
     },
     {
       "name": "兩斤農莊食堂（前干城）",
@@ -2168,8 +2168,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9877208,
-      "lng": 121.5869403
+      "lat": null,
+      "lng": null
     },
     {
       "name": "迷途鯨魚-花蓮推薦美食｜熱門餐廳｜打卡餐廳｜在地美食｜CP美食｜人氣",
@@ -2184,8 +2184,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9085897,
-      "lng": 121.5306502
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花田小路（營業時間請依FB粉絲專頁為主）",
@@ -2200,8 +2200,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8274452,
-      "lng": 121.5109499
+      "lat": null,
+      "lng": null
     },
     {
       "name": "甜嘴喵",
@@ -2216,8 +2216,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9056716,
-      "lng": 121.5377653
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蘇記嘀兜雞花蓮復興店-豬肚雞火鍋",
@@ -2232,8 +2232,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.98089,
-      "lng": 121.6073807
+      "lat": null,
+      "lng": null
     },
     {
       "name": "養鍋 Yang Guo 石頭涮涮鍋 (花蓮中山店)",
@@ -2248,8 +2248,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9868824,
-      "lng": 121.6010326
+      "lat": null,
+      "lng": null
     },
     {
       "name": "肉出微笑涮涮鍋-花蓮店",
@@ -2264,8 +2264,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9785784,
-      "lng": 121.6017561
+      "lat": null,
+      "lng": null
     },
     {
       "name": "翻火鍋",
@@ -2280,8 +2280,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9827594,
-      "lng": 121.6076811
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吉煲(店休請看粉專)",
@@ -2296,8 +2296,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9812898,
-      "lng": 121.6026926
+      "lat": null,
+      "lng": null
     },
     {
       "name": "石二鍋_花蓮中山店",
@@ -2312,8 +2312,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9778631,
-      "lng": 121.6088572
+      "lat": null,
+      "lng": null
     },
     {
       "name": "一雞鍋 港式雞煲火鍋 花蓮店",
@@ -2341,8 +2341,8 @@
           "description": "港式沙嗲湯底，香港進口醬料"
         }
       ],
-      "lat": 23.9880434,
-      "lng": 121.6010306
+      "lat": null,
+      "lng": null
     },
     {
       "name": "燒肉神保町花蓮館",
@@ -2357,8 +2357,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9939471,
-      "lng": 121.6063856
+      "lat": null,
+      "lng": null
     },
     {
       "name": "洄瀾灣景觀餐廳｜洄瀾灣親子農場｜洄瀾灣親子動物區",
@@ -2373,8 +2373,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0671801,
-      "lng": 121.6074619
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Oops驚奇咖啡",
@@ -2389,8 +2389,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9750781,
-      "lng": 121.6115933
+      "lat": null,
+      "lng": null
     },
     {
       "name": "日勻甜點工作室｜咖啡廳｜閱讀空間｜花蓮美食｜coffee |dessert|",
@@ -2418,8 +2418,8 @@
           "description": "精品咖啡豆沖煮，搭配手作甜點的完美組合"
         }
       ],
-      "lat": 23.9699817,
-      "lng": 121.59614
+      "lat": null,
+      "lng": null
     },
     {
       "name": "實季。Seedson café 花蓮店",
@@ -2434,8 +2434,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9728987,
-      "lng": 121.6051326
+      "lat": null,
+      "lng": null
     },
     {
       "name": "雨林Scone&Coffee 司康專賣店",
@@ -2450,8 +2450,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9740555,
-      "lng": 121.6074784
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Giocare義式.手沖咖啡",
@@ -2466,8 +2466,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9761879,
-      "lng": 121.6134423
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宸誼咖啡館",
@@ -2482,8 +2482,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9876188,
-      "lng": 121.5927087
+      "lat": null,
+      "lng": null
     },
     {
       "name": "珈琲宅",
@@ -2498,8 +2498,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9745231,
-      "lng": 121.6078348
+      "lat": null,
+      "lng": null
     },
     {
       "name": "くら寿司 藏壽司 花蓮自由店",
@@ -2514,8 +2514,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9736223,
-      "lng": 121.6082194
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鮨煦 料理案內所",
@@ -2543,8 +2543,8 @@
           "description": "午餐限定1200元，含先付、握壽司6貫、茶碗蒸、燒物等"
         }
       ],
-      "lat": 23.9731187,
-      "lng": 121.6136259
+      "lat": null,
+      "lng": null
     },
     {
       "name": "旭屋和風洋食",
@@ -2559,8 +2559,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9955457,
-      "lng": 121.5737075
+      "lat": null,
+      "lng": null
     },
     {
       "name": "爭鮮PLUS-花蓮店",
@@ -2575,8 +2575,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9785455,
-      "lng": 121.6008174
+      "lat": null,
+      "lng": null
     },
     {
       "name": "沐日青拾|最後點餐時間19:00",
@@ -2591,8 +2591,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9855881,
-      "lng": 121.6133715
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Li'ay 里愛（營業時間麻煩參考粉絲專頁）",
@@ -2620,8 +2620,8 @@
           "description": "大份量雙起司蛋堡，手作漢堡超美味"
         }
       ],
-      "lat": 23.9973321,
-      "lng": 121.6213911
+      "lat": null,
+      "lng": null
     },
     {
       "name": "睿縈手工粉漿蛋餅專門店/訂餐請提前一天下午1~7點來電",
@@ -2636,8 +2636,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9897851,
-      "lng": 121.602849
+      "lat": null,
+      "lng": null
     },
     {
       "name": "億大雪花冰",
@@ -2652,8 +2652,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9711858,
-      "lng": 121.6110043
+      "lat": null,
+      "lng": null
     },
     {
       "name": "栄次郎個人燒肉plus+ 花蓮中山店",
@@ -2668,8 +2668,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9866471,
-      "lng": 121.6004757
+      "lat": null,
+      "lng": null
     },
     {
       "name": "安東韓式燒烤 Korean BBQ",
@@ -2684,8 +2684,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9894598,
-      "lng": 121.583427
+      "lat": null,
+      "lng": null
     },
     {
       "name": "王室炭火燒烤 韓式料理🇰🇷",
@@ -2700,8 +2700,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9765179,
-      "lng": 121.601912
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮燒干貝5.0",
@@ -2729,8 +2729,8 @@
           "description": "新鮮生魚片，花蓮港直送，鮮甜可口"
         }
       ],
-      "lat": 23.9718464,
-      "lng": 121.6104443
+      "lat": null,
+      "lng": null
     },
     {
       "name": "西堤牛排 花蓮中山店",
@@ -2751,8 +2751,8 @@
         "推薦 招牌 at DuckDuckGo",
         "手搖推薦 甜點推薦 買一送一 優惠訊息"
       ],
-      "lat": 23.9780631,
-      "lng": 121.6083198
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮鵝小妹-美崙 （不固定休請查看營業時間）",
@@ -2780,8 +2780,8 @@
           "description": "鵝肉搭配麵食，清爽鮮美的日常美味"
         }
       ],
-      "lat": 23.9913002,
-      "lng": 121.6256054
+      "lat": null,
+      "lng": null
     },
     {
       "name": "加家食堂 -花蓮無菜單私廚外燴會議餐盒（全預約客制",
@@ -2796,8 +2796,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9669236,
-      "lng": 121.5984352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里豬血湯早午餐",
@@ -2812,8 +2812,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3339659,
-      "lng": 121.3196196
+      "lat": null,
+      "lng": null
     },
     {
       "name": "沐舍-蜜滋賀溫泉飯店",
@@ -2828,8 +2828,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4913104,
-      "lng": 121.3707996
+      "lat": null,
+      "lng": null
     },
     {
       "name": "安德森幸福莊園",
@@ -2844,8 +2844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.508146,
-      "lng": 121.37639
+      "lat": null,
+      "lng": null
     },
     {
       "name": "元湯溫泉居｜花蓮瑞穗住宿推薦（近瑞穗火車站）",
@@ -2873,8 +2873,8 @@
           "description": "搭配花蓮在地有機小農蔬菜所製作的沙拉，口感清爽，展現清晨健康養生的精緻風味。"
         }
       ],
-      "lat": 23.5094392,
-      "lng": 121.3726104
+      "lat": null,
+      "lng": null
     },
     {
       "name": "杋扎徠 原住民小吃",
@@ -2902,8 +2902,8 @@
           "description": "在地山野菜料理，新鮮健康，風味獨特"
         }
       ],
-      "lat": 23.9192747,
-      "lng": 121.6061507
+      "lat": null,
+      "lng": null
     },
     {
       "name": "禪堂素食店",
@@ -2918,8 +2918,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9879022,
-      "lng": 121.5967767
+      "lat": null,
+      "lng": null
     },
     {
       "name": "緣緣蔬食家",
@@ -2947,8 +2947,8 @@
           "description": "多元蔬食風味套餐，翻轉對素食的既定印象"
         }
       ],
-      "lat": 23.3278126,
-      "lng": 121.3199199
+      "lat": null,
+      "lng": null
     },
     {
       "name": "天香素食園",
@@ -2976,8 +2976,8 @@
           "description": "濃郁咖哩風味，值得一試"
         }
       ],
-      "lat": 23.3313965,
-      "lng": 121.3141844
+      "lat": null,
+      "lng": null
     },
     {
       "name": "181素食",
@@ -3005,8 +3005,8 @@
           "description": "各式涼拌小菜，涼拌茄子、涼拌木耳等"
         }
       ],
-      "lat": 23.976565,
-      "lng": 121.5727874
+      "lat": null,
+      "lng": null
     },
     {
       "name": "春天輕食養生健康館(素食)",
@@ -3021,8 +3021,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9937848,
-      "lng": 121.5726304
+      "lat": null,
+      "lng": null
     },
     {
       "name": "安口食堂 星潭店",
@@ -3051,8 +3051,8 @@
           "description": "推薦必點菜色"
         }
       ],
-      "lat": 24.0270872,
-      "lng": 121.629334
+      "lat": null,
+      "lng": null
     },
     {
       "name": "物語食堂＆精油工坊",
@@ -3068,8 +3068,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7749571,
-      "lng": 121.4578731
+      "lat": null,
+      "lng": null
     },
     {
       "name": "達央風味餐無國界料理(預約制)",
@@ -3098,8 +3098,8 @@
           "description": "以當季野菜熬煮的鮮甜湯品，健康養生"
         }
       ],
-      "lat": 24.1649484,
-      "lng": 121.6561021
+      "lat": null,
+      "lng": null
     },
     {
       "name": "K Show食宿",
@@ -3128,8 +3128,8 @@
           "description": "道地沖繩風味塔可飯，搭配迷你蜜糖吐司"
         }
       ],
-      "lat": 23.9926969,
-      "lng": 121.6281703
+      "lat": null,
+      "lng": null
     },
     {
       "name": "超好吃滷肉飯",
@@ -3144,8 +3144,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.33159,
-      "lng": 121.3128937
+      "lat": null,
+      "lng": null
     },
     {
       "name": "日式鰕丼 天婦羅 揚物 烤物 天ぷら どんぶり 揚げ物 Tempura Donburi（最後出餐23：00）",
@@ -3160,8 +3160,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9752471,
-      "lng": 121.6069883
+      "lat": null,
+      "lng": null
     },
     {
       "name": "職牛-炭火乾式熟成牛排館 Vintage steakhouse ｜40人包場空間｜熟成牛排｜約會｜慶生｜聚餐",
@@ -3176,8 +3176,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9764454,
-      "lng": 121.6064869
+      "lat": null,
+      "lng": null
     },
     {
       "name": "歸園田居 Countryside B&B",
@@ -3192,8 +3192,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.489767,
-      "lng": 121.369563
+      "lat": null,
+      "lng": null
     },
     {
       "name": "達路鞍原住民風味餐廳 花蓮在地美食餐廳 阿美族 -吉安原住民餐廳|風味餐廳|特色餐廳|聚餐美食|熱門餐廳|必吃美食|人氣餐廳|原住民美食｜車聚｜烤肉｜",
@@ -3208,8 +3208,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9606281,
-      "lng": 121.5845145
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐小吃慶豐店",
@@ -3224,8 +3224,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9782338,
-      "lng": 121.57034
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐理想大地周邊餐廳",
@@ -3240,8 +3240,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8664287,
-      "lng": 121.5260269
+      "lat": null,
+      "lng": null
     },
     {
       "name": "光復牛肉麵",
@@ -3256,8 +3256,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鳳林煙樓文化咖啡",
@@ -3272,8 +3272,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7443841,
-      "lng": 121.4570447
+      "lat": null,
+      "lng": null
     },
     {
       "name": "萬寶家食堂-花蓮美食 花蓮餐廳 花蓮推薦美食 花蓮聚餐 花蓮早午餐 花蓮午餐",
@@ -3288,8 +3288,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9759398,
-      "lng": 121.6138504
+      "lat": null,
+      "lng": null
     },
     {
       "name": "獵人廚房",
@@ -3304,8 +3304,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9989574,
-      "lng": 121.6302625
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮‧季之雲",
@@ -3320,8 +3320,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9881673,
-      "lng": 121.5899321
+      "lat": null,
+      "lng": null
     },
     {
       "name": "110豐年小館",
@@ -3336,8 +3336,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.990288,
-      "lng": 121.6061938
+      "lat": null,
+      "lng": null
     },
     {
       "name": "泰宜味食館",
@@ -3352,8 +3352,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9681333,
-      "lng": 121.5872278
+      "lat": null,
+      "lng": null
     },
     {
       "name": "雲廚味道",
@@ -3368,8 +3368,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9778191,
-      "lng": 121.5704763
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鰻牛 現烤鰻魚定食",
@@ -3384,8 +3384,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.981964,
-      "lng": 121.5930819
+      "lat": null,
+      "lng": null
     },
     {
       "name": "上福餐廳",
@@ -3400,8 +3400,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3324736,
-      "lng": 121.3183361
+      "lat": null,
+      "lng": null
     },
     {
       "name": "星馬茶餐廳｜南洋咖哩專賣店｜肉骨茶玉里麵｜仁當咖哩玉里麵",
@@ -3416,8 +3416,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3324827,
-      "lng": 121.3177615
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豐裡村麵店",
@@ -3432,8 +3432,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.845427,
-      "lng": 121.5012215
+      "lat": null,
+      "lng": null
     },
     {
       "name": "艾斯可菲秘境私廚",
@@ -3448,8 +3448,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9249284,
-      "lng": 121.5446462
+      "lat": null,
+      "lng": null
     },
     {
       "name": "10分之1海鮮燒烤(午餐需前一天訂位)",
@@ -3464,8 +3464,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8690866,
-      "lng": 121.5973715
+      "lat": null,
+      "lng": null
     },
     {
       "name": "陳家食堂",
@@ -3480,8 +3480,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9753339,
-      "lng": 121.6043161
+      "lat": null,
+      "lng": null
     },
     {
       "name": "六里屯麵食專家 美崙旗艦店",
@@ -3496,8 +3496,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9989576,
-      "lng": 121.6320916
+      "lat": null,
+      "lng": null
     },
     {
       "name": "从出一瓢味",
@@ -3512,8 +3512,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9782651,
-      "lng": 121.6023053
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食驛",
@@ -3528,8 +3528,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9774014,
-      "lng": 121.6026367
+      "lat": null,
+      "lng": null
     },
     {
       "name": "春滿石頭火鍋",
@@ -3544,8 +3544,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9740392,
-      "lng": 121.6032145
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宮澤火鍋",
@@ -3560,8 +3560,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9808138,
-      "lng": 121.6075063
+      "lat": null,
+      "lng": null
     },
     {
       "name": "石屋燒肉",
@@ -3576,8 +3576,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9814785,
-      "lng": 121.6133721
+      "lat": null,
+      "lng": null
     },
     {
       "name": "明今活海鮮",
@@ -3592,8 +3592,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9959233,
-      "lng": 121.5964573
+      "lat": null,
+      "lng": null
     },
     {
       "name": "浮室咖啡 soave plan",
@@ -3608,8 +3608,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974248,
-      "lng": 121.607336
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Caffe Fiore珈琲花",
@@ -3624,8 +3624,8 @@
       "category": "中式",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9749762,
-      "lng": 121.6055676
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Ngchus 晤子咖啡cafécake",
@@ -3640,8 +3640,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9845986,
-      "lng": 121.5999627
+      "lat": null,
+      "lng": null
     },
     {
       "name": "惦惦 lab:tiamtiam",
@@ -3656,8 +3656,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9739896,
-      "lng": 121.5646738
+      "lat": null,
+      "lng": null
     },
     {
       "name": "舊抽屜咖啡",
@@ -3672,8 +3672,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9845676,
-      "lng": 121.6070717
+      "lat": null,
+      "lng": null
     },
     {
       "name": "半寓咖啡",
@@ -3688,8 +3688,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9746547,
-      "lng": 121.6081402
+      "lat": null,
+      "lng": null
     },
     {
       "name": "練黍叔燒番麥「烤玉米🌽」",
@@ -3704,8 +3704,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9723203,
-      "lng": 121.6103405
+      "lat": null,
+      "lng": null
     },
     {
       "name": "櫻花壽司日本料理",
@@ -3720,8 +3720,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9865085,
-      "lng": 121.6219111
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福子 fuzi（不定休.僅於營業時間接聽電話）",
@@ -3736,8 +3736,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9767673,
-      "lng": 121.5997346
+      "lat": null,
+      "lng": null
     },
     {
       "name": "齊食",
@@ -3752,8 +3752,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9842129,
-      "lng": 121.6201223
+      "lat": null,
+      "lng": null
     },
     {
       "name": "川壽司 花蓮 新城 家樂福附近 日式 生魚片 居酒屋 燒烤 炸物 烏龍麵",
@@ -3768,8 +3768,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.015828,
-      "lng": 121.6074705
+      "lat": null,
+      "lng": null
     },
     {
       "name": "再吃一口早午餐(最後收客時間15:00)｜花蓮美食．花蓮早午餐",
@@ -3784,8 +3784,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9799986,
-      "lng": 121.6052423
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Queen'食（最後點餐時間14:00。若當日完售將提前打烊，請見諒！）",
@@ -3800,8 +3800,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9938959,
-      "lng": 121.6075157
+      "lat": null,
+      "lng": null
     },
     {
       "name": "晨研早午餐",
@@ -3816,8 +3816,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9958312,
-      "lng": 121.5991436
+      "lat": null,
+      "lng": null
     },
     {
       "name": "杜倫先生丨花蓮名產丨伴手禮｜麻糬｜甜點｜蛋糕",
@@ -3832,8 +3832,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9762012,
-      "lng": 121.6093455
+      "lat": null,
+      "lng": null
     },
     {
       "name": "八百里燒肉",
@@ -3848,8 +3848,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9828216,
-      "lng": 121.6090836
+      "lat": null,
+      "lng": null
     },
     {
       "name": "將門燒肉",
@@ -3864,8 +3864,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9760817,
-      "lng": 121.6068235
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小巷子串燒週二不定時休假週三公休",
@@ -3880,8 +3880,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9757554,
-      "lng": 121.6083103
+      "lat": null,
+      "lng": null
     },
     {
       "name": "歐鄉牛排館花蓮店",
@@ -3896,8 +3896,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9812901,
-      "lng": 121.6132321
+      "lat": null,
+      "lng": null
     },
     {
       "name": "來來牛排花蓮店",
@@ -3912,8 +3912,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.973779,
-      "lng": 121.585838
+      "lat": null,
+      "lng": null
     },
     {
       "name": "好好",
@@ -3928,8 +3928,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9800745,
-      "lng": 121.6062392
+      "lat": null,
+      "lng": null
     },
     {
       "name": "老K牛排-自助沙拉吧",
@@ -3944,8 +3944,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9944897,
-      "lng": 121.570483
+      "lat": null,
+      "lng": null
     },
     {
       "name": "武藏牛排-太昌店",
@@ -3960,8 +3960,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.993369,
-      "lng": 121.5740357
+      "lat": null,
+      "lng": null
     },
     {
       "name": "新時代牛排",
@@ -3976,8 +3976,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "牛篷牛排",
@@ -3992,8 +3992,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北昌池上便當-花蓮自強店(便當)",
@@ -4008,8 +4008,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9850889,
-      "lng": 121.5908861
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北方早點丨燒餅加料、鹹豆漿",
@@ -4024,8 +4024,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.334697,
-      "lng": 121.312629
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米達碳烤雞排",
@@ -4040,8 +4040,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3291352,
-      "lng": 121.3172045
+      "lat": null,
+      "lng": null
     },
     {
       "name": "香約廚房 (需要先預約）",
@@ -4056,8 +4056,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4975213,
-      "lng": 121.3771764
+      "lat": null,
+      "lng": null
     },
     {
       "name": "江家鮮奶豆花冰店",
@@ -4072,8 +4072,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4958965,
-      "lng": 121.3666494
+      "lat": null,
+      "lng": null
     },
     {
       "name": "我家螺獅粉",
@@ -4088,8 +4088,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9046513,
-      "lng": 121.5348371
+      "lat": null,
+      "lng": null
     },
     {
       "name": "浪慢咖啡",
@@ -4104,8 +4104,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9198625,
-      "lng": 121.6061803
+      "lat": null,
+      "lng": null
     },
     {
       "name": "在地植人｜蔬食餛飩專賣",
@@ -4120,8 +4120,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9951502,
-      "lng": 121.5975063
+      "lat": null,
+      "lng": null
     },
     {
       "name": "霞飛谷時尚蔬食料理",
@@ -4136,8 +4136,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9842996,
-      "lng": 121.6195346
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米里蔬食廚房",
@@ -4152,8 +4152,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9733681,
-      "lng": 121.6037357
+      "lat": null,
+      "lng": null
     },
     {
       "name": "《花漾蔬食綜合煎餃》",
@@ -4168,8 +4168,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7434228,
-      "lng": 121.4516964
+      "lat": null,
+      "lng": null
     },
     {
       "name": "草緣齋蔬食（總店）",
@@ -4184,8 +4184,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.334291,
-      "lng": 121.3129747
+      "lat": null,
+      "lng": null
     },
     {
       "name": "天慈寶軒蔬食",
@@ -4200,8 +4200,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3363398,
-      "lng": 121.3195756
+      "lat": null,
+      "lng": null
     },
     {
       "name": "淑英抓餅古早味手作糕餅素食店",
@@ -4216,8 +4216,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3346943,
-      "lng": 121.317145
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北埔素食",
@@ -4232,8 +4232,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0326676,
-      "lng": 121.6028391
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食餐廳",
@@ -4248,8 +4248,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6677338,
-      "lng": 121.4261562
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食義賣",
@@ -4264,8 +4264,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1807759,
-      "lng": 121.4964013
+      "lat": null,
+      "lng": null
     },
     {
       "name": "沐軒素食餐廳",
@@ -4280,8 +4280,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9800792,
-      "lng": 121.604139
+      "lat": null,
+      "lng": null
     },
     {
       "name": "富里深山咖啡館Remote Mountain ｜特色午膳套餐｜",
@@ -4297,8 +4297,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.2217958,
-      "lng": 121.2819235
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山腳下 居酒屋 ( 固定星期二、三公休。)",
@@ -4314,8 +4314,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0488822,
-      "lng": 121.5956118
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鳳義161異國料理",
@@ -4331,8 +4331,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7406771,
-      "lng": 121.4321426
+      "lat": null,
+      "lng": null
     },
     {
       "name": "青輕慢食",
@@ -4348,8 +4348,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7476484,
-      "lng": 121.4534814
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮小毛牛肉爐/麵（公休日見FB公告）",
@@ -4364,8 +4364,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9836516,
-      "lng": 121.6046813
+      "lat": null,
+      "lng": null
     },
     {
       "name": "參火木牛排館（花蓮牛排教父｜慶生餐廳｜花蓮美食｜steaks house | restaurants",
@@ -4380,8 +4380,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9774783,
-      "lng": 121.6029303
+      "lat": null,
+      "lng": null
     },
     {
       "name": "再回首 「精緻牛/羊肉麵」",
@@ -4396,8 +4396,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9822314,
-      "lng": 121.6182139
+      "lat": null,
+      "lng": null
     },
     {
       "name": "128清燉牛羊肉拉麵店",
@@ -4412,8 +4412,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.993675,
-      "lng": 121.630981
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北來順 牛肉麵羊肉麵",
@@ -4428,8 +4428,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9691782,
-      "lng": 121.5807295
+      "lat": null,
+      "lng": null
     },
     {
       "name": "班尼先生早午餐Mr.Benny brunch|店休日請見粉絲專頁",
@@ -4444,8 +4444,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9943979,
-      "lng": 121.6048108
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐麵店 牛肉麵/陽春麵",
@@ -4460,8 +4460,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8716431,
-      "lng": 121.5109287
+      "lat": null,
+      "lng": null
     },
     {
       "name": "源寶屋咖哩麵包",
@@ -4476,8 +4476,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9772413,
-      "lng": 121.6028043
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里金針山周邊山產",
@@ -4492,8 +4492,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3898217,
-      "lng": 121.3770336
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小巷茉莉",
@@ -4508,8 +4508,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9802625,
-      "lng": 121.608968
+      "lat": null,
+      "lng": null
     },
     {
       "name": "兩津農莊食堂（干城）",
@@ -4524,8 +4524,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9533683,
-      "lng": 121.5474701
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慶豐夜餐館",
@@ -4540,8 +4540,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9783827,
-      "lng": 121.5699738
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山下陳涼",
@@ -4556,8 +4556,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8593411,
-      "lng": 121.5598345
+      "lat": null,
+      "lng": null
     },
     {
       "name": "六里屯麵食專家",
@@ -4572,8 +4572,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9885454,
-      "lng": 121.5853775
+      "lat": null,
+      "lng": null
     },
     {
       "name": "久藏味",
@@ -4588,8 +4588,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9775914,
-      "lng": 121.608781
+      "lat": null,
+      "lng": null
     },
     {
       "name": "上老石鍋花蓮旗艦店",
@@ -4604,8 +4604,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9806095,
-      "lng": 121.6080175
+      "lat": null,
+      "lng": null
     },
     {
       "name": "將門火鍋堂",
@@ -4620,8 +4620,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9762009,
-      "lng": 121.6077589
+      "lat": null,
+      "lng": null
     },
     {
       "name": "喫鍋小火鍋",
@@ -4636,8 +4636,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9906996,
-      "lng": 121.5954221
+      "lat": null,
+      "lng": null
     },
     {
       "name": "億品鍋-花蓮吉安店｜花蓮推薦美食｜花蓮排隊美食|花蓮吃到飽｜",
@@ -4652,8 +4652,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9734247,
-      "lng": 121.5781682
+      "lat": null,
+      "lng": null
     },
     {
       "name": "尚選火鍋",
@@ -4668,8 +4668,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.990604,
-      "lng": 121.606575
+      "lat": null,
+      "lng": null
     },
     {
       "name": "187海鮮熱炒",
@@ -4684,8 +4684,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.875119,
-      "lng": 121.5993683
+      "lat": null,
+      "lng": null
     },
     {
       "name": "安娜咖啡",
@@ -4700,8 +4700,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9930331,
-      "lng": 121.6048034
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Légendezo傳說咖啡甜點屋",
@@ -4716,8 +4716,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.981227,
-      "lng": 121.6079845
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豆 茶寮",
@@ -4732,8 +4732,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9743359,
-      "lng": 121.614308
+      "lat": null,
+      "lng": null
     },
     {
       "name": "林記明禮路葱油餅",
@@ -4748,8 +4748,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9821166,
-      "lng": 121.6087342
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿傳師麻糬",
@@ -4764,8 +4764,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9792445,
-      "lng": 121.5972612
+      "lat": null,
+      "lng": null
     },
     {
       "name": "丸山和食",
@@ -4780,8 +4780,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9651277,
-      "lng": 121.5907754
+      "lat": null,
+      "lng": null
     },
     {
       "name": "樂魚料亭",
@@ -4796,8 +4796,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "早點。手作 超厚豬排蛋吐司•咖啡 (寵物友善)",
@@ -4812,8 +4812,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9750434,
-      "lng": 121.6034782
+      "lat": null,
+      "lng": null
     },
     {
       "name": "黃家早午餐",
@@ -4828,8 +4828,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9766956,
-      "lng": 121.5903617
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食萬伏特2.0 ｜花蓮美食｜花蓮早午餐",
@@ -4844,8 +4844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9693752,
-      "lng": 121.5962057
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮冰舍雪花冰",
@@ -4860,8 +4860,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9783777,
-      "lng": 121.6005736
+      "lat": null,
+      "lng": null
     },
     {
       "name": "圓滿冰店",
@@ -4876,8 +4876,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9666277,
-      "lng": 121.5924768
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿公冰。阿公製冰所",
@@ -4892,8 +4892,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9790825,
-      "lng": 121.6083062
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大碗公冰·甜品（花蓮吉安店）/花蓮美食/花蓮小吃/花蓮剉冰/花蓮推薦/花蓮甜品/花蓮必吃-花蓮吉安刨冰推薦|人氣冰店|熱門剉冰|水果冰品|人氣甜品|嫩仙草冰|在地推薦冰店|綿綿冰推薦",
@@ -4908,8 +4908,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9736045,
-      "lng": 121.5798288
+      "lat": null,
+      "lng": null
     },
     {
       "name": "寧靜會烤肉販賣所 每週一公休",
@@ -4924,8 +4924,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.97395,
-      "lng": 121.6138135
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮赤物日式燒肉",
@@ -4940,8 +4940,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9754689,
-      "lng": 121.6087267
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米卡多牛排館",
@@ -4956,8 +4956,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9873229,
-      "lng": 121.6008197
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吃肉 · 時候",
@@ -4972,8 +4972,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9950136,
-      "lng": 121.5959661
+      "lat": null,
+      "lng": null
     },
     {
       "name": "武藏牛排",
@@ -4988,8 +4988,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.991142,
-      "lng": 121.606297
+      "lat": null,
+      "lng": null
     },
     {
       "name": "佳佳牛排",
@@ -5004,8 +5004,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9804012,
-      "lng": 121.5998793
+      "lat": null,
+      "lng": null
     },
     {
       "name": "桔客牛排",
@@ -5020,8 +5020,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "墨墨排骨飯",
@@ -5036,8 +5036,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9883713,
-      "lng": 121.5961147
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原醉（東大門原住民一條街）",
@@ -5052,8 +5052,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9720298,
-      "lng": 121.6125017
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原饗屋",
@@ -5068,8 +5068,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5774985,
-      "lng": 121.3766504
+      "lat": null,
+      "lng": null
     },
     {
       "name": "青田の蔬食",
@@ -5084,8 +5084,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9843077,
-      "lng": 121.5996028
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食養生坊",
@@ -5100,8 +5100,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9905667,
-      "lng": 121.6047098
+      "lat": null,
+      "lng": null
     },
     {
       "name": "樸道蔬食餐館",
@@ -5116,8 +5116,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.750464,
-      "lng": 121.450647
+      "lat": null,
+      "lng": null
     },
     {
       "name": "一道健康素食",
@@ -5132,8 +5132,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.988919,
-      "lng": 121.59389
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巧本味蔬食人文料理",
@@ -5148,8 +5148,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.124022,
-      "lng": 121.2187799
+      "lat": null,
+      "lng": null
     },
     {
       "name": "中佈號池上店(蔬食料理)",
@@ -5164,8 +5164,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.1252217,
-      "lng": 121.2201751
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮山中傳奇-蔬食景觀餐廳",
@@ -5180,8 +5180,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.006124,
-      "lng": 121.5580011
+      "lat": null,
+      "lng": null
     },
     {
       "name": "韓粿蔬食",
@@ -5196,8 +5196,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9749102,
-      "lng": 121.6091566
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福幸台越素食館",
@@ -5212,8 +5212,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9683227,
-      "lng": 121.593782
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮一心素食",
@@ -5228,8 +5228,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9842403,
-      "lng": 121.5860356
+      "lat": null,
+      "lng": null
     },
     {
       "name": "新社噶瑪蘭小吃店",
@@ -5245,8 +5245,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6531377,
-      "lng": 121.537824
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿卿海鮮店",
@@ -5262,8 +5262,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5984085,
-      "lng": 121.5214611
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山風一號吊橋",
@@ -5279,8 +5279,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3263355,
-      "lng": 121.2282266
+      "lat": null,
+      "lng": null
     },
     {
       "name": "劍柔山莊 (需預約)",
@@ -5296,8 +5296,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6649065,
-      "lng": 121.4140626
+      "lat": null,
+      "lng": null
     },
     {
       "name": "我的咖啡館",
@@ -5313,8 +5313,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6675772,
-      "lng": 121.4232401
+      "lat": null,
+      "lng": null
     },
     {
       "name": "964驛棧(整備中 有事請來電)",
@@ -5330,8 +5330,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.2219999,
-      "lng": 121.3172065
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大自然體驗農家",
@@ -5347,8 +5347,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.1846838,
-      "lng": 121.2884217
+      "lat": null,
+      "lng": null
     },
     {
       "name": "拾豆屋",
@@ -5364,8 +5364,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.747023,
-      "lng": 121.448103
+      "lat": null,
+      "lng": null
     },
     {
       "name": "貨櫃屋台灣料理 - 花蓮 人氣必吃中式熱炒 在地特色宵夜美食 團體合菜聚餐小酌 燒烤火鍋海鮮餐廳 平價推薦相片",
@@ -5380,8 +5380,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9762127,
-      "lng": 121.597929
+      "lat": null,
+      "lng": null
     },
     {
       "name": "每日廚房(無菜單家常料理)",
@@ -5396,8 +5396,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3386303,
-      "lng": 121.3137986
+      "lat": null,
+      "lng": null
     },
     {
       "name": "神田屋日式家庭料理",
@@ -5412,8 +5412,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9824838,
-      "lng": 121.606776
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鮮道味中式家常菜 餐館 花蓮美食/花蓮小吃、熱炒、團體合菜推薦",
@@ -5428,8 +5428,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.997096,
-      "lng": 121.621626
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鳳林牛肉麵",
@@ -5444,8 +5444,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7458278,
-      "lng": 121.4494188
+      "lat": null,
+      "lng": null
     },
     {
       "name": "孫叔叔牛骨牛肉麵",
@@ -5460,8 +5460,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8026017,
-      "lng": 121.4526665
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北昌黃金鍋貼早餐店",
@@ -5476,8 +5476,8 @@
       "category": "咖啡廳",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9862968,
-      "lng": 121.5916619
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐豐田五味屋",
@@ -5492,8 +5492,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.84841,
-      "lng": 121.4963394
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗舞鶴茶園茶餐",
@@ -5508,8 +5508,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5205619,
-      "lng": 121.4113308
+      "lat": null,
+      "lng": null
     },
     {
       "name": "光復太巴塱紅糯米",
@@ -5524,8 +5524,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6571382,
-      "lng": 121.42049
+      "lat": null,
+      "lng": null
     },
     {
       "name": "平行時空·小茶室",
@@ -5540,8 +5540,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9827566,
-      "lng": 121.6067208
+      "lat": null,
+      "lng": null
     },
     {
       "name": "時光1939",
@@ -5556,8 +5556,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9804519,
-      "lng": 121.6094587
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福畊食邑",
@@ -5572,8 +5572,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9704432,
-      "lng": 121.577116
+      "lat": null,
+      "lng": null
     },
     {
       "name": "伊娜的部落廚房",
@@ -5588,8 +5588,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8569603,
-      "lng": 121.5957399
+      "lat": null,
+      "lng": null
     },
     {
       "name": "荖溪小吃｜無訂位｜現場候位｜最後點餐1:30｜全新裝潢｜冷氣也裝新的囉",
@@ -5604,8 +5604,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8922796,
-      "lng": 121.5083686
+      "lat": null,
+      "lng": null
     },
     {
       "name": "德安雞肉飯",
@@ -5620,8 +5620,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.971874,
-      "lng": 121.5935542
+      "lat": null,
+      "lng": null
     },
     {
       "name": "飯人小吃店-RICE MAN",
@@ -5636,8 +5636,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9801964,
-      "lng": 121.6033775
+      "lat": null,
+      "lng": null
     },
     {
       "name": "雞白郎.拉麵",
@@ -5652,8 +5652,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.976576,
-      "lng": 121.607905
+      "lat": null,
+      "lng": null
     },
     {
       "name": "竹舍小吃",
@@ -5668,8 +5668,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9711813,
-      "lng": 121.5979286
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山東餡餅",
@@ -5684,8 +5684,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9770667,
-      "lng": 121.6027389
+      "lat": null,
+      "lng": null
     },
     {
       "name": "八丼手作日式料理（沒有接受訂位，只接現場客人）",
@@ -5700,8 +5700,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871444,
-      "lng": 121.6006578
+      "lat": null,
+      "lng": null
     },
     {
       "name": "延平街生魚片",
@@ -5716,8 +5716,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9845706,
-      "lng": 121.6015821
+      "lat": null,
+      "lng": null
     },
     {
       "name": "銀座食堂",
@@ -5732,8 +5732,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9753641,
-      "lng": 121.610803
+      "lat": null,
+      "lng": null
     },
     {
       "name": "時光旅人",
@@ -5748,8 +5748,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9785417,
-      "lng": 121.6136778
+      "lat": null,
+      "lng": null
     },
     {
       "name": "國聯老華廈概念餐館(美而美、早午餐)",
@@ -5764,8 +5764,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9946931,
-      "lng": 121.6061602
+      "lat": null,
+      "lng": null
     },
     {
       "name": "艾摩斯廚房xChill飯 花商店",
@@ -5780,8 +5780,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9855575,
-      "lng": 121.6028242
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花崗中式早餐店",
@@ -5796,8 +5796,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9745251,
-      "lng": 121.6000279
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山海正甜 吉製冰所",
@@ -5812,8 +5812,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9719327,
-      "lng": 121.5623912
+      "lat": null,
+      "lng": null
     },
     {
       "name": "向日葵手工粉圓",
@@ -5828,8 +5828,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9714474,
-      "lng": 121.5991804
+      "lat": null,
+      "lng": null
     },
     {
       "name": "黑何子仙草專職鋪",
@@ -5844,8 +5844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9783221,
-      "lng": 121.6069649
+      "lat": null,
+      "lng": null
     },
     {
       "name": "千兵衛炭火燒肉-花蓮店",
@@ -5860,8 +5860,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9894257,
-      "lng": 121.6011283
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮老饕岩燒牛排",
@@ -5876,8 +5876,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9808425,
-      "lng": 121.6047886
+      "lat": null,
+      "lng": null
     },
     {
       "name": "紐約客牛排館",
@@ -5892,8 +5892,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.977497,
-      "lng": 121.5997176
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美侖牛排（固定每週三、四公休）",
@@ -5908,8 +5908,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9961189,
-      "lng": 121.6312743
+      "lat": null,
+      "lng": null
     },
     {
       "name": "地6攤牛排 美崙店",
@@ -5924,8 +5924,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0020495,
-      "lng": 121.6201447
+      "lat": null,
+      "lng": null
     },
     {
       "name": "芳草古樹花園｜餐廳｜民宿｜𝟭𝟭月公休𝟭.𝟮.𝟯.𝟰.𝟱.𝟲.𝟳.𝟭𝟯.𝟮𝟳日",
@@ -5940,8 +5940,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7467091,
-      "lng": 121.454007
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吉福池上便當（店休看粉專）",
@@ -5956,8 +5956,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9811908,
-      "lng": 121.6027367
+      "lat": null,
+      "lng": null
     },
     {
       "name": "津御堂燉品屋",
@@ -5972,8 +5972,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3318723,
-      "lng": 121.3161009
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原香臭豆腐",
@@ -5988,8 +5988,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3337417,
-      "lng": 121.3164548
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮阿嬤的玉里麵",
@@ -6004,8 +6004,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3402446,
-      "lng": 121.3160618
+      "lat": null,
+      "lng": null
     },
     {
       "name": "撞牆水餃",
@@ -6020,8 +6020,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4572871,
-      "lng": 121.357019
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海越魚行日式居食料理",
@@ -6036,8 +6036,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4976412,
-      "lng": 121.3771173
+      "lat": null,
+      "lng": null
     },
     {
       "name": "黑屋 Café",
@@ -6052,8 +6052,8 @@
       "category": "中式",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9324801,
-      "lng": 121.5073089
+      "lat": null,
+      "lng": null
     },
     {
       "name": "麗莘風味館",
@@ -6068,8 +6068,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9263949,
-      "lng": 121.5053636
+      "lat": null,
+      "lng": null
     },
     {
       "name": "浪花春海鮮鍋物（活龍蝦請提前一天預訂）",
@@ -6084,8 +6084,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.873888,
-      "lng": 121.5993041
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Piatto+菜 蔬食義式餐廳",
@@ -6100,8 +6100,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.972938,
-      "lng": 121.606363
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蝸牛蔬食",
@@ -6116,8 +6116,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9956723,
-      "lng": 121.5667127
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慈昕素食",
@@ -6132,8 +6132,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974995,
-      "lng": 121.5997354
+      "lat": null,
+      "lng": null
     },
     {
       "name": "語穠素食",
@@ -6148,8 +6148,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9951253,
-      "lng": 121.6291816
+      "lat": null,
+      "lng": null
     },
     {
       "name": "菩薩素食 養生豆花",
@@ -6164,8 +6164,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.743902,
-      "lng": 121.4476431
+      "lat": null,
+      "lng": null
     },
     {
       "name": "緣念蔬食滷味",
@@ -6180,8 +6180,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.340038,
-      "lng": 121.318545
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美福素食自助餐",
@@ -6196,8 +6196,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3346777,
-      "lng": 121.3176795
+      "lat": null,
+      "lng": null
     },
     {
       "name": "悅香素食館",
@@ -6212,8 +6212,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9861792,
-      "lng": 121.5909331
+      "lat": null,
+      "lng": null
     },
     {
       "name": "素食-阿宏臭豆腐",
@@ -6228,8 +6228,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9051913,
-      "lng": 121.5292999
+      "lat": null,
+      "lng": null
     },
     {
       "name": "入境隨俗原住民燒烤手抓飯餐廳/太魯閣燒烤/原住民手抓飯/太魯閣美食推薦/新城火車站附近美食/冷氣開放餐廳/花蓮部落風味餐餐廳",
@@ -6245,8 +6245,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1317074,
-      "lng": 121.6433232
+      "lat": null,
+      "lng": null
     },
     {
       "name": "半天紅麻辣館（馨生保護服務據點）",
@@ -6262,8 +6262,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1260599,
-      "lng": 121.6519747
+      "lat": null,
+      "lng": null
     },
     {
       "name": "閩越食堂餐廳",
@@ -6279,8 +6279,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7566231,
-      "lng": 121.4545605
+      "lat": null,
+      "lng": null
     },
     {
       "name": "啄木鳥的家 WPCASA",
@@ -6296,8 +6296,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6568561,
-      "lng": 121.4196224
+      "lat": null,
+      "lng": null
     },
     {
       "name": "南安瀑布",
@@ -6313,8 +6313,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3116627,
-      "lng": 121.2478287
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Penny夢想館",
@@ -6330,8 +6330,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.978519,
-      "lng": 121.5708752
+      "lat": null,
+      "lng": null
     },
     {
       "name": "莎莉好食Sarlee's（營業日請參考IG、臉書粉專）",
@@ -6347,8 +6347,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0266757,
-      "lng": 121.6306444
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豆花兒",
@@ -6364,8 +6364,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1259462,
-      "lng": 121.6525978
+      "lat": null,
+      "lng": null
     },
     {
       "name": "尤大廚私房牛肉麵 ）6/18-28店休）花蓮美食/花蓮牛肉麵/花蓮東大門美食/羊肉麵/推薦美食",
@@ -6380,8 +6380,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9742452,
-      "lng": 121.6092177
+      "lat": null,
+      "lng": null
     },
     {
       "name": "永和藥燉排骨",
@@ -6396,8 +6396,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9971765,
-      "lng": 121.621802
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮牛排/花蓮美食/花蓮餐廳/Restaurants",
@@ -6412,8 +6412,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9850859,
-      "lng": 121.6004954
+      "lat": null,
+      "lng": null
     },
     {
       "name": "# STEAK 牛排屋",
@@ -6428,8 +6428,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "name": "冀家小館",
@@ -6444,8 +6444,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9992235,
-      "lng": 121.6207837
+      "lat": null,
+      "lng": null
     },
     {
       "name": "楓雅轉角家常菜",
@@ -6460,8 +6460,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4974796,
-      "lng": 121.3777817
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鳳林花生豆腐",
@@ -6476,8 +6476,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7554413,
-      "lng": 121.4528868
+      "lat": null,
+      "lng": null
     },
     {
       "name": "帝君廟米粉羹",
@@ -6492,8 +6492,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9868264,
-      "lng": 121.6064394
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吐司坊-現做吐司專賣店｜早餐｜早午餐｜肉蛋吐司",
@@ -6508,8 +6508,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9947748,
-      "lng": 121.5957315
+      "lat": null,
+      "lng": null
     },
     {
       "name": "西村的家食堂",
@@ -6524,8 +6524,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9808736,
-      "lng": 121.5663192
+      "lat": null,
+      "lng": null
     },
     {
       "name": "闔家歡南北餚餐館-Family Pleasure",
@@ -6540,8 +6540,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9744471,
-      "lng": 121.5984436
+      "lat": null,
+      "lng": null
     },
     {
       "name": "西村的家",
@@ -6556,8 +6556,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9808736,
-      "lng": 121.5663192
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿姑的店",
@@ -6572,8 +6572,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.977202,
-      "lng": 121.5722425
+      "lat": null,
+      "lng": null
     },
     {
       "name": "松湖驛站",
@@ -6588,8 +6588,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9438609,
-      "lng": 121.5484625
+      "lat": null,
+      "lng": null
     },
     {
       "name": "香園小館-手抓餅",
@@ -6604,8 +6604,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3270653,
-      "lng": 121.3134477
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小和山谷",
@@ -6620,8 +6620,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8755898,
-      "lng": 121.5132208
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小檳城特色南洋麵食",
@@ -6636,8 +6636,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9773806,
-      "lng": 121.6029359
+      "lat": null,
+      "lng": null
     },
     {
       "name": "燕子老宅",
@@ -6652,8 +6652,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9864158,
-      "lng": 121.6217861
+      "lat": null,
+      "lng": null
     },
     {
       "name": "以諾廚房",
@@ -6668,8 +6668,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871271,
-      "lng": 121.600715
+      "lat": null,
+      "lng": null
     },
     {
       "name": "億品鍋 Mini Shabu Shabu 花蓮國聯店",
@@ -6684,8 +6684,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9905144,
-      "lng": 121.6054606
+      "lat": null,
+      "lng": null
     },
     {
       "name": "饗鍋",
@@ -6700,8 +6700,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.989883,
-      "lng": 121.605552
+      "lat": null,
+      "lng": null
     },
     {
       "name": "村上村屋蔬果火鍋花蓮店",
@@ -6716,8 +6716,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9781287,
-      "lng": 121.6051037
+      "lat": null,
+      "lng": null
     },
     {
       "name": "品津海鮮熱炒",
@@ -6732,8 +6732,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9763754,
-      "lng": 121.573233
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿美煮熱炒 E21- 原住民一條街",
@@ -6748,8 +6748,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9719776,
-      "lng": 121.6123799
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米那度海吧餐廳（中午為預約制，需前一天預約）",
@@ -6764,8 +6764,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9787425,
-      "lng": 121.601073
+      "lat": null,
+      "lng": null
     },
     {
       "name": "歐桑米粉湯",
@@ -6780,8 +6780,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.976416,
-      "lng": 121.6016801
+      "lat": null,
+      "lng": null
     },
     {
       "name": "昭和58（正確營業日期，請參閱臉書置頂文）",
@@ -6796,8 +6796,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974566,
-      "lng": 121.6079799
+      "lat": null,
+      "lng": null
     },
     {
       "name": "邊境法式點心坊",
@@ -6812,8 +6812,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.985538,
-      "lng": 121.6046196
+      "lat": null,
+      "lng": null
     },
     {
       "name": "博愛街黑白切米粉湯",
@@ -6828,8 +6828,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9758222,
-      "lng": 121.6075078
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福建街香腸",
@@ -6844,8 +6844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9703519,
-      "lng": 121.6026716
+      "lat": null,
+      "lng": null
     },
     {
       "name": "傳承小館 福州小吃",
@@ -6860,8 +6860,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9933465,
-      "lng": 121.5738973
+      "lat": null,
+      "lng": null
     },
     {
       "name": "椿山日本料理",
@@ -6876,8 +6876,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.979276,
-      "lng": 121.605791
+      "lat": null,
+      "lng": null
     },
     {
       "name": "千喜 日式料理",
@@ -6892,8 +6892,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9859373,
-      "lng": 121.6068902
+      "lat": null,
+      "lng": null
     },
     {
       "name": "COUNTRY MOTHER'S",
@@ -6908,8 +6908,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9873786,
-      "lng": 121.6213072
+      "lat": null,
+      "lng": null
     },
     {
       "name": "府前食坊",
@@ -6924,8 +6924,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9886771,
-      "lng": 121.6215122
+      "lat": null,
+      "lng": null
     },
     {
       "name": "後山﹒森林早午餐",
@@ -6940,8 +6940,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9947769,
-      "lng": 121.5976381
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山東豆漿大王（10點以前林森路有免費停車格)",
@@ -6956,8 +6956,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9809015,
-      "lng": 121.6032298
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大漢早點《市區總店》",
@@ -6972,8 +6972,8 @@
       "category": "中式",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9737526,
-      "lng": 121.6018472
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大碗公冰•甜品（花蓮博愛店）-花蓮刨冰推薦|必吃甜品|特色冰店|人氣冰店|水果冰品|首選冰店|在地推薦冰店|綿綿冰推薦",
@@ -6988,8 +6988,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9047918,
-      "lng": 121.5346378
+      "lat": null,
+      "lng": null
     },
     {
       "name": "豐春冰菓店",
@@ -7004,8 +7004,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8697711,
-      "lng": 121.5103424
+      "lat": null,
+      "lng": null
     },
     {
       "name": "三立冰淇淋",
@@ -7020,8 +7020,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.750694,
-      "lng": 121.450477
+      "lat": null,
+      "lng": null
     },
     {
       "name": "四維先生鳳梨冰",
@@ -7036,8 +7036,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9751405,
-      "lng": 121.6148304
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蔡記豆花",
@@ -7052,8 +7052,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.977527,
-      "lng": 121.603431
+      "lat": null,
+      "lng": null
     },
     {
       "name": "火車頭烤肉屋",
@@ -7068,8 +7068,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9759041,
-      "lng": 121.610106
+      "lat": null,
+      "lng": null
     },
     {
       "name": "臻品牛排JHeN Pin",
@@ -7084,8 +7084,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.97506,
-      "lng": 121.6042693
+      "lat": null,
+      "lng": null
     },
     {
       "name": "WoodHouse 木宅餐館",
@@ -7100,8 +7100,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "name": "群酌小吃",
@@ -7116,8 +7116,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9670662,
-      "lng": 121.5937215
+      "lat": null,
+      "lng": null
     },
     {
       "name": "遺忘的故鄉 月廬食堂",
@@ -7132,8 +7132,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7609615,
-      "lng": 121.4382054
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美兆廚房",
@@ -7148,8 +7148,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9783939,
-      "lng": 121.6045468
+      "lat": null,
+      "lng": null
     },
     {
       "name": "賴記池上飯包",
@@ -7164,8 +7164,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9852725,
-      "lng": 121.594813
+      "lat": null,
+      "lng": null
     },
     {
       "name": "椰子林溫泉飯店",
@@ -7180,8 +7180,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4952462,
-      "lng": 121.3461606
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗天合國際觀光酒店",
@@ -7196,8 +7196,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4935236,
-      "lng": 121.3548326
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐肉羹麵",
@@ -7212,8 +7212,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.86971,
-      "lng": 121.5105543
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海中天海景咖啡餐廳",
@@ -7228,8 +7228,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9353726,
-      "lng": 121.6098748
+      "lat": null,
+      "lng": null
     },
     {
       "name": "茹薰素食",
@@ -7244,8 +7244,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9914343,
-      "lng": 121.5982688
+      "lat": null,
+      "lng": null
     },
     {
       "name": "家畇素食-鍋燒專賣店/花蓮推薦美食/花蓮素食/花蓮素食餐廳/花蓮小吃/花蓮蔬食",
@@ -7260,8 +7260,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.975803,
-      "lng": 121.6066033
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉興素食店",
@@ -7276,8 +7276,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3345,
-      "lng": 121.31295
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宏興素食",
@@ -7292,8 +7292,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3339385,
-      "lng": 121.3134634
+      "lat": null,
+      "lng": null
     },
     {
       "name": "長健麵素食館",
@@ -7308,8 +7308,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9932277,
-      "lng": 121.5744193
+      "lat": null,
+      "lng": null
     },
     {
       "name": "G九屋私房特色菜（無素食）",
@@ -7324,8 +7324,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.2694961,
-      "lng": 121.306655
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮 星晟棧渡假飯店",
@@ -7341,8 +7341,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1260155,
-      "lng": 121.6414695
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美好花生",
@@ -7358,8 +7358,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7447094,
-      "lng": 121.4605958
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小好美hao-mei廚房",
@@ -7375,8 +7375,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0745315,
-      "lng": 121.6083789
+      "lat": null,
+      "lng": null
     },
     {
       "name": "藍藍飲食店",
@@ -7392,8 +7392,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1541323,
-      "lng": 121.6226144
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巴奇克竹坊",
@@ -7409,8 +7409,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0823055,
-      "lng": 121.6086903
+      "lat": null,
+      "lng": null
     },
     {
       "name": "牧木屋 Mu Mu House-光復鄉燉飯推薦|景觀餐廳|打卡餐廳|義大利麵推薦|美式餐廳|鬼頭刀料",
@@ -7426,8 +7426,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.665572,
-      "lng": 121.4243323
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山下村｜太魯閣文化風味餐・新城老街美食|原山月村",
@@ -7443,8 +7443,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1271465,
-      "lng": 121.6508961
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿英姐的店",
@@ -7460,8 +7460,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1542728,
-      "lng": 121.6225925
+      "lat": null,
+      "lng": null
     },
     {
       "name": "庚角坡牛肉麵",
@@ -7477,8 +7477,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7526111,
-      "lng": 121.4512969
+      "lat": null,
+      "lng": null
     },
     {
       "name": "石庭客家小館",
@@ -7493,8 +7493,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9789801,
-      "lng": 121.6041323
+      "lat": null,
+      "lng": null
     },
     {
       "name": "牛東家見麵館牛肉麵",
@@ -7509,8 +7509,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.971258,
-      "lng": 121.56196
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗 陳家小館",
@@ -7525,8 +7525,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5030011,
-      "lng": 121.3826038
+      "lat": null,
+      "lng": null
     },
     {
       "name": "龍哥斯特 ｜ Langouste",
@@ -7541,8 +7541,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.986477,
-      "lng": 121.587786
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小和好點 dot.dot. Bakery & Cafe ｜營業日看內文",
@@ -7557,8 +7557,8 @@
       "category": "咖啡廳",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8882404,
-      "lng": 121.5218723
+      "lat": null,
+      "lng": null
     },
     {
       "name": "山東麵館",
@@ -7573,8 +7573,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4983677,
-      "lng": 121.3782694
+      "lat": null,
+      "lng": null
     },
     {
       "name": "建國路火雞肉飯(車站前）",
@@ -7589,8 +7589,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9913426,
-      "lng": 121.6027913
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里橋頭臭豆腐-花蓮店",
@@ -7605,8 +7605,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9678821,
-      "lng": 121.6080214
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮廟口素食臭豆腐",
@@ -7621,8 +7621,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.976963,
-      "lng": 121.5852914
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里橋頭臭豆腐",
@@ -7637,8 +7637,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9678821,
-      "lng": 121.6080214
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慶豐麵店",
@@ -7653,8 +7653,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9790964,
-      "lng": 121.5686843
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小和好點Bakery Cafe",
@@ -7669,8 +7669,8 @@
       "category": "咖啡廳",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8882404,
-      "lng": 121.5218723
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗牛肉麵",
@@ -7685,8 +7685,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.497523,
-      "lng": 121.3781791
+      "lat": null,
+      "lng": null
     },
     {
       "name": "森山舎 morning mountain",
@@ -7701,8 +7701,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9774596,
-      "lng": 121.5954776
+      "lat": null,
+      "lng": null
     },
     {
       "name": "家咖哩 花蓮將軍府店",
@@ -7717,8 +7717,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.980346,
-      "lng": 121.612537
+      "lat": null,
+      "lng": null
     },
     {
       "name": "洋基牧場",
@@ -7733,8 +7733,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9826324,
-      "lng": 121.6187315
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鴨米鴨片飯",
@@ -7749,8 +7749,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3293538,
-      "lng": 121.3172656
+      "lat": null,
+      "lng": null
     },
     {
       "name": "藍山³ Blue Hill³",
@@ -7765,8 +7765,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.331561,
-      "lng": 121.313148
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海風味小吃",
@@ -7781,8 +7781,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8801052,
-      "lng": 121.6005712
+      "lat": null,
+      "lng": null
     },
     {
       "name": "和平虱目魚專賣店",
@@ -7797,8 +7797,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.973625,
-      "lng": 121.6035263
+      "lat": null,
+      "lng": null
     },
     {
       "name": "樂京燒臘便當",
@@ -7813,8 +7813,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9793083,
-      "lng": 121.6019889
+      "lat": null,
+      "lng": null
     },
     {
       "name": "無名牛肉麵",
@@ -7829,8 +7829,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9783628,
-      "lng": 121.6074713
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金名麵館",
@@ -7845,8 +7845,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9747469,
-      "lng": 121.6068493
+      "lat": null,
+      "lng": null
     },
     {
       "name": "元味牛肉麵",
@@ -7861,8 +7861,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9772678,
-      "lng": 121.6003704
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福源海鮮",
@@ -7877,8 +7877,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974241,
-      "lng": 121.6004972
+      "lat": null,
+      "lng": null
     },
     {
       "name": "連記海產",
@@ -7893,8 +7893,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9917428,
-      "lng": 121.5926084
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食舍海鮮餐廳",
@@ -7909,8 +7909,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9750746,
-      "lng": 121.598016
+      "lat": null,
+      "lng": null
     },
     {
       "name": "屋銤海鮮",
@@ -7925,8 +7925,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9205412,
-      "lng": 121.6068362
+      "lat": null,
+      "lng": null
     },
     {
       "name": "景陽海鮮",
@@ -7941,8 +7941,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9708229,
-      "lng": 121.6066679
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海の屋原民屋",
@@ -7957,8 +7957,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9720736,
-      "lng": 121.6125706
+      "lat": null,
+      "lng": null
     },
     {
       "name": "育樂新村9號美食熱炒",
@@ -7973,8 +7973,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9825637,
-      "lng": 121.6220196
+      "lat": null,
+      "lng": null
     },
     {
       "name": "餓勢力精緻麵食",
@@ -7989,8 +7989,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9777422,
-      "lng": 121.6099857
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吃粗飽早午餐-總店",
@@ -8005,8 +8005,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9956056,
-      "lng": 121.5963577
+      "lat": null,
+      "lng": null
     },
     {
       "name": "葳森美式早餐",
@@ -8021,8 +8021,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9729892,
-      "lng": 121.6080357
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原商校街冰店",
@@ -8037,8 +8037,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9737729,
-      "lng": 121.5858749
+      "lat": null,
+      "lng": null
     },
     {
       "name": "歪歪歪甜點 YYY Dessert",
@@ -8053,8 +8053,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9757224,
-      "lng": 121.6079978
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海蜜Hi-Mee",
@@ -8069,8 +8069,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0278346,
-      "lng": 121.6296207
+      "lat": null,
+      "lng": null
     },
     {
       "name": "路邊烤肉WildBBQ 花蓮奇萊店（花蓮必吃烤肉推薦／花蓮宵夜深夜晚上美食／花蓮聚餐餐廳）",
@@ -8085,8 +8085,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.979799,
-      "lng": 121.6027485
+      "lat": null,
+      "lng": null
     },
     {
       "name": "一筷燒肉-花蓮吉安店_花蓮燒肉/吉安燒肉/人氣燒肉/熱門燒肉/平價燒肉/個人燒肉/燒肉首選/燒肉推薦",
@@ -8101,8 +8101,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9736045,
-      "lng": 121.5798288
+      "lat": null,
+      "lng": null
     },
     {
       "name": "哦一夕海鮮串燒燒烤",
@@ -8117,8 +8117,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9716711,
-      "lng": 121.6103734
+      "lat": null,
+      "lng": null
     },
     {
       "name": "肉肉餐桌牛排館",
@@ -8133,8 +8133,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.97552,
-      "lng": 121.6038429
+      "lat": null,
+      "lng": null
     },
     {
       "name": "我最牛 牛排館",
@@ -8149,8 +8149,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0299986,
-      "lng": 121.6052571
+      "lat": null,
+      "lng": null
     },
     {
       "name": "四代務農",
@@ -8165,8 +8165,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7523361,
-      "lng": 121.4618796
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慶豐年餐廳",
@@ -8181,8 +8181,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1235523,
-      "lng": 121.6470718
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鐵路邊玉里麵",
@@ -8197,8 +8197,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3382827,
-      "lng": 121.312803
+      "lat": null,
+      "lng": null
     },
     {
       "name": "江蘇小吃",
@@ -8213,8 +8213,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.329238,
-      "lng": 121.3163573
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里新興街燒餅店",
@@ -8229,8 +8229,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3326483,
-      "lng": 121.3144282
+      "lat": null,
+      "lng": null
     },
     {
       "name": "竹村 日式料理",
@@ -8245,8 +8245,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4972976,
-      "lng": 121.3773912
+      "lat": null,
+      "lng": null
     },
     {
       "name": "巷子口餃子館",
@@ -8261,8 +8261,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.497085,
-      "lng": 121.378123
+      "lat": null,
+      "lng": null
     },
     {
       "name": "華玉冰菓店",
@@ -8277,8 +8277,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4981871,
-      "lng": 121.3785309
+      "lat": null,
+      "lng": null
     },
     {
       "name": "東昇茶行",
@@ -8293,8 +8293,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4445889,
-      "lng": 121.352374
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮國香園素食",
@@ -8309,8 +8309,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9796957,
-      "lng": 121.6067189
+      "lat": null,
+      "lng": null
     },
     {
       "name": "明園素食坊",
@@ -8325,8 +8325,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.988312,
-      "lng": 121.596597
+      "lat": null,
+      "lng": null
     },
     {
       "name": "常春藤素食(Buffet)吃到飽餐廳",
@@ -8341,8 +8341,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9926586,
-      "lng": 121.5983799
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慧萊素食",
@@ -8357,8 +8357,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9943304,
-      "lng": 121.595695
+      "lat": null,
+      "lng": null
     },
     {
       "name": "天廚妙供素食養生屋",
@@ -8373,8 +8373,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3356841,
-      "lng": 121.3147316
+      "lat": null,
+      "lng": null
     },
     {
       "name": "嘉里素食",
@@ -8389,8 +8389,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0190341,
-      "lng": 121.6059226
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美欣素食館",
@@ -8405,8 +8405,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9776139,
-      "lng": 121.6035627
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鶴岡素食",
@@ -8421,8 +8421,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4993446,
-      "lng": 121.3775475
+      "lat": null,
+      "lng": null
     },
     {
       "name": "MONDAY曼地異國蔬食料理｜JJ's DINER美式餐廳共享空間 | 蔬食漢堡",
@@ -8437,8 +8437,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9960844,
-      "lng": 121.5715371
+      "lat": null,
+      "lng": null
     },
     {
       "name": "藍天麗池飯店-綠波廊蔬食餐廳",
@@ -8453,8 +8453,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9786966,
-      "lng": 121.610302
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Loving Hut愛家國際餐飲 花蓮 綠的有機園(蔬食早餐、午餐)",
@@ -8469,8 +8469,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9861621,
-      "lng": 121.5913697
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慕名私房料理（歡迎線上訂位或建議提前來電詢問）",
@@ -8486,8 +8486,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.027668,
-      "lng": 121.630672
+      "lat": null,
+      "lng": null
     },
     {
       "name": "原野牧場",
@@ -8503,8 +8503,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0243057,
-      "lng": 121.6338477
+      "lat": null,
+      "lng": null
     },
     {
       "name": "伊娜飛魚餐廳",
@@ -8520,8 +8520,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4889735,
-      "lng": 121.5084233
+      "lat": null,
+      "lng": null
     },
     {
       "name": "青葉小館",
@@ -8537,8 +8537,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.802323,
-      "lng": 121.450381
+      "lat": null,
+      "lng": null
     },
     {
       "name": "添丁野菜園餐廳",
@@ -8554,8 +8554,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8029067,
-      "lng": 121.4513258
+      "lat": null,
+      "lng": null
     },
     {
       "name": "茂記麵麵店",
@@ -8571,8 +8571,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7482689,
-      "lng": 121.4505256
+      "lat": null,
+      "lng": null
     },
     {
       "name": "緬城",
@@ -8588,8 +8588,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3305366,
-      "lng": 121.3203183
+      "lat": null,
+      "lng": null
     },
     {
       "name": "老鄉牛肉麵館",
@@ -8604,8 +8604,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9874135,
-      "lng": 121.6001377
+      "lat": null,
+      "lng": null
     },
     {
       "name": "單一純賣 雞湯 小卷米粉",
@@ -8620,8 +8620,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9870903,
-      "lng": 121.6219214
+      "lat": null,
+      "lng": null
     },
     {
       "name": "家常牛肉麵",
@@ -8636,8 +8636,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9948133,
-      "lng": 121.6074471
+      "lat": null,
+      "lng": null
     },
     {
       "name": "老家後山菜瑞穗店",
@@ -8652,8 +8652,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4956579,
-      "lng": 121.3806003
+      "lat": null,
+      "lng": null
     },
     {
       "name": "老牌炸蛋蔥油餅（藍車）",
@@ -8668,8 +8668,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9828046,
-      "lng": 121.6057335
+      "lat": null,
+      "lng": null
     },
     {
       "name": "光復糖廠冰品",
@@ -8684,8 +8684,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6578548,
-      "lng": 121.4208096
+      "lat": null,
+      "lng": null
     },
     {
       "name": "光復馬太鞍濕地風味餐",
@@ -8700,8 +8700,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6577522,
-      "lng": 121.4096652
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鳳林客家粄條",
@@ -8716,8 +8716,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7458278,
-      "lng": 121.4494188
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬蓋先美食玉里麵",
@@ -8732,8 +8732,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3313803,
-      "lng": 121.3145666
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小木屋玉里麵",
@@ -8748,8 +8748,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3341259,
-      "lng": 121.3150236
+      "lat": null,
+      "lng": null
     },
     {
       "name": "禾田野 (簡餐及窯烤比薩)",
@@ -8764,8 +8764,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8474725,
-      "lng": 121.4942074
+      "lat": null,
+      "lng": null
     },
     {
       "name": "招弟大飯店",
@@ -8780,8 +8780,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9763463,
-      "lng": 121.6088127
+      "lat": null,
+      "lng": null
     },
     {
       "name": "幽靈餐車",
@@ -8796,8 +8796,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9863049,
-      "lng": 121.5906212
+      "lat": null,
+      "lng": null
     },
     {
       "name": "仁里超人氣麵店",
@@ -8812,8 +8812,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9664836,
-      "lng": 121.5930127
+      "lat": null,
+      "lng": null
     },
     {
       "name": "難得美食刀削麵",
@@ -8828,8 +8828,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9867427,
-      "lng": 121.6001884
+      "lat": null,
+      "lng": null
     },
     {
       "name": "六扇門時尚湯鍋花蓮中山店",
@@ -8844,8 +8844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9885061,
-      "lng": 121.600608
+      "lat": null,
+      "lng": null
     },
     {
       "name": "上乘三家涮涮鍋共和國",
@@ -8860,8 +8860,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9795053,
-      "lng": 121.6023626
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮美崙海鮮",
@@ -8876,8 +8876,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9971352,
-      "lng": 121.6305812
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮香扁食",
@@ -8892,8 +8892,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9809978,
-      "lng": 121.6061425
+      "lat": null,
+      "lng": null
     },
     {
       "name": "法式官財板",
@@ -8908,8 +8908,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.972146,
-      "lng": 121.61045
+      "lat": null,
+      "lng": null
     },
     {
       "name": "多桑懷舊小吃 - 花蓮美食 | 宵夜聚餐",
@@ -8924,8 +8924,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9819437,
-      "lng": 121.6179605
+      "lat": null,
+      "lng": null
     },
     {
       "name": "芳萊小吃",
@@ -8940,8 +8940,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9781443,
-      "lng": 121.6046918
+      "lat": null,
+      "lng": null
     },
     {
       "name": "田村壽司",
@@ -8956,8 +8956,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9718566,
-      "lng": 121.5937528
+      "lat": null,
+      "lng": null
     },
     {
       "name": "湘園壽司屋有限公司",
@@ -8972,8 +8972,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9919362,
-      "lng": 121.5772565
+      "lat": null,
+      "lng": null
     },
     {
       "name": "魚豐日式小吃",
@@ -8988,8 +8988,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9717111,
-      "lng": 121.604757
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米崙丼飯屋",
@@ -9004,8 +9004,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9853057,
-      "lng": 121.6208634
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鮮達仁日式料理",
@@ -9020,8 +9020,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9753937,
-      "lng": 121.6008354
+      "lat": null,
+      "lng": null
     },
     {
       "name": "怡味餐店",
@@ -9036,8 +9036,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9737765,
-      "lng": 121.6051882
+      "lat": null,
+      "lng": null
     },
     {
       "name": "美崙紅茶",
@@ -9052,8 +9052,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9944399,
-      "lng": 121.6307439
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米噹泰式燒烤",
@@ -9068,8 +9068,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9696001,
-      "lng": 121.6043606
+      "lat": null,
+      "lng": null
     },
     {
       "name": "德安客家美食",
@@ -9084,8 +9084,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.7463954,
-      "lng": 121.4557212
+      "lat": null,
+      "lng": null
     },
     {
       "name": "櫻の田野養生休閒農莊",
@@ -9100,8 +9100,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9598533,
-      "lng": 121.563092
+      "lat": null,
+      "lng": null
     },
     {
       "name": "銘師父餐廳",
@@ -9116,8 +9116,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9965179,
-      "lng": 121.557721
+      "lat": null,
+      "lng": null
     },
     {
       "name": "熱海排骨大王",
@@ -9132,8 +9132,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9804894,
-      "lng": 121.6079423
+      "lat": null,
+      "lng": null
     },
     {
       "name": "江記排骨飯",
@@ -9148,8 +9148,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974476,
-      "lng": 121.5999842
+      "lat": null,
+      "lng": null
     },
     {
       "name": "京湘排骨麵",
@@ -9164,8 +9164,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9758778,
-      "lng": 121.6101303
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿科玉里麵",
@@ -9180,8 +9180,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.330415,
-      "lng": 121.316186
+      "lat": null,
+      "lng": null
     },
     {
       "name": "富源廟口小吃",
@@ -9196,8 +9196,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5767677,
-      "lng": 121.3758206
+      "lat": null,
+      "lng": null
     },
     {
       "name": "綠精靈瑞穗鮮奶鍋",
@@ -9212,8 +9212,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5000027,
-      "lng": 121.3770762
+      "lat": null,
+      "lng": null
     },
     {
       "name": "永樂食堂",
@@ -9228,8 +9228,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5802658,
-      "lng": 121.3794115
+      "lat": null,
+      "lng": null
     },
     {
       "name": "富興小火車",
@@ -9244,8 +9244,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.5809104,
-      "lng": 121.3994974
+      "lat": null,
+      "lng": null
     },
     {
       "name": "【甄】麵食館壽豐店",
@@ -9260,8 +9260,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8720151,
-      "lng": 121.5123162
+      "lat": null,
+      "lng": null
     },
     {
       "name": "慈益素食餐廳",
@@ -9276,8 +9276,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9867288,
-      "lng": 121.60011
+      "lat": null,
+      "lng": null
     },
     {
       "name": "常青健康素食",
@@ -9292,8 +9292,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3344842,
-      "lng": 121.3144779
+      "lat": null,
+      "lng": null
     },
     {
       "name": "立閣日出餐廳Taroko LiikoHotel_Sunrise resturant｜太魯閣美食推薦｜新城美食推薦",
@@ -9309,8 +9309,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1317074,
-      "lng": 121.6433232
+      "lat": null,
+      "lng": null
     },
     {
       "name": "佳興冰菓店",
@@ -9332,8 +9332,8 @@
         "什錦炒麵",
         "小籠包蒸餃"
       ],
-      "lat": 24.1264499,
-      "lng": 121.6518013
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬太鞍欣綠農園",
@@ -9349,8 +9349,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6582034,
-      "lng": 121.4094172
+      "lat": null,
+      "lng": null
     },
     {
       "name": "富里鄉農特產展售中心",
@@ -9366,8 +9366,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.2065403,
-      "lng": 121.2727791
+      "lat": null,
+      "lng": null
     },
     {
       "name": "立閣日出餐廳Taroko LiikoHotel_Sunrise resturant｜太魯閣美食推薦｜",
@@ -9383,8 +9383,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1317074,
-      "lng": 121.6433232
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鍾老爹牛肉麵",
@@ -9399,8 +9399,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9820007,
-      "lng": 121.6206442
+      "lat": null,
+      "lng": null
     },
     {
       "name": "口福牛肉麵-澳洲頂級腱心牛肉",
@@ -9415,8 +9415,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9761931,
-      "lng": 121.611601
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿嬤ㄟ古早味",
@@ -9431,8 +9431,8 @@
       "category": "中式",
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9802659,
-      "lng": 121.6059608
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鵝肉先生",
@@ -9447,8 +9447,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9811384,
-      "lng": 121.6052346
+      "lat": null,
+      "lng": null
     },
     {
       "name": "光復客家風味餐",
@@ -9463,8 +9463,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9723448,
-      "lng": 121.6126224
+      "lat": null,
+      "lng": null
     },
     {
       "name": "璞石閣玉里麵",
@@ -9479,8 +9479,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3343263,
-      "lng": 121.3155265
+      "lat": null,
+      "lng": null
     },
     {
       "name": "泰瘋隨意料理",
@@ -9495,8 +9495,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.880879,
-      "lng": 121.6007322
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿嬤麵店",
@@ -9511,8 +9511,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9793804,
-      "lng": 121.6065961
+      "lat": null,
+      "lng": null
     },
     {
       "name": "涮乃葉 花蓮遠百店",
@@ -9527,8 +9527,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9781721,
-      "lng": 121.5996227
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宏祥活海產",
@@ -9543,8 +9543,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9838667,
-      "lng": 121.5880238
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大同蘭陽米粉羹",
@@ -9559,8 +9559,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.980917,
-      "lng": 121.6065209
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金蘭號",
@@ -9575,8 +9575,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9771295,
-      "lng": 121.6088723
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮承香扁食(沒內用)",
@@ -9591,8 +9591,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9737601,
-      "lng": 121.6022709
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花本家壽司",
@@ -9607,8 +9607,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9873817,
-      "lng": 121.5974824
+      "lat": null,
+      "lng": null
     },
     {
       "name": "萊迦早午餐",
@@ -9623,8 +9623,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9764849,
-      "lng": 121.6069721
+      "lat": null,
+      "lng": null
     },
     {
       "name": "一心泡泡冰(花蓮電視牆託播)",
@@ -9639,8 +9639,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.974153,
-      "lng": 121.6117703
+      "lat": null,
+      "lng": null
     },
     {
       "name": "甜在心糖水舖",
@@ -9655,8 +9655,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9854016,
-      "lng": 121.6028719
+      "lat": null,
+      "lng": null
     },
     {
       "name": "炭火燒肉工房",
@@ -9671,8 +9671,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9773246,
-      "lng": 121.6064858
+      "lat": null,
+      "lng": null
     },
     {
       "name": "認真串國聯總店",
@@ -9687,8 +9687,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9904317,
-      "lng": 121.6034277
+      "lat": null,
+      "lng": null
     },
     {
       "name": "小時厚牛排-花蓮福町店",
@@ -9703,8 +9703,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9749726,
-      "lng": 121.6096016
+      "lat": null,
+      "lng": null
     },
     {
       "name": "經典牛排",
@@ -9719,8 +9719,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9853156,
-      "lng": 121.622362
+      "lat": null,
+      "lng": null
     },
     {
       "name": "地6攤牛排 城中店",
@@ -9735,8 +9735,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9792381,
-      "lng": 121.6078314
+      "lat": null,
+      "lng": null
     },
     {
       "name": "正一牛排",
@@ -9751,8 +9751,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9871434,
-      "lng": 121.6014001
+      "lat": null,
+      "lng": null
     },
     {
       "name": "田地小館",
@@ -9767,8 +9767,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.967106,
-      "lng": 121.6006172
+      "lat": null,
+      "lng": null
     },
     {
       "name": "莊太太家常現炒",
@@ -9783,8 +9783,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9737267,
-      "lng": 121.5881314
+      "lat": null,
+      "lng": null
     },
     {
       "name": "嘉徠排骨",
@@ -9799,8 +9799,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9797092,
-      "lng": 121.6047018
+      "lat": null,
+      "lng": null
     },
     {
       "name": "強蛋餅",
@@ -9815,8 +9815,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9708548,
-      "lng": 121.6106558
+      "lat": null,
+      "lng": null
     },
     {
       "name": "恰好食光",
@@ -9831,8 +9831,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9729054,
-      "lng": 121.6119871
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里麵好味道美食",
@@ -9847,8 +9847,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3313854,
-      "lng": 121.3144797
+      "lat": null,
+      "lng": null
     },
     {
       "name": "哈軒森 精緻熱炒",
@@ -9863,8 +9863,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4972919,
-      "lng": 121.3781028
+      "lat": null,
+      "lng": null
     },
     {
       "name": "漁家莊",
@@ -9879,8 +9879,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.496369,
-      "lng": 121.3692443
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蘭花町日本拉麵",
@@ -9895,8 +9895,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4984611,
-      "lng": 121.3773502
+      "lat": null,
+      "lng": null
     },
     {
       "name": "立川漁場 | 黃金蜆的故鄉",
@@ -9917,8 +9917,8 @@
         "蜆仔湯",
         "黃金蜆餅乾"
       ],
-      "lat": 23.864656,
-      "lng": 121.5222562
+      "lat": null,
+      "lng": null
     },
     {
       "name": "龍宮",
@@ -9934,8 +9934,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.026329,
-      "lng": 121.6303537
+      "lat": null,
+      "lng": null
     },
     {
       "name": "項鍊海岸工作室★餐廳★咖啡★弟朋★德菲兒",
@@ -9951,8 +9951,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.480455,
-      "lng": 121.508762
+      "lat": null,
+      "lng": null
     },
     {
       "name": "達基力部落屋",
@@ -9968,8 +9968,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1579774,
-      "lng": 121.6499448
+      "lat": null,
+      "lng": null
     },
     {
       "name": "崇德瑩農場",
@@ -9985,8 +9985,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.1478013,
-      "lng": 121.6616989
+      "lat": null,
+      "lng": null
     },
     {
       "name": "紅瓦屋老地方文化美食餐廳",
@@ -10002,8 +10002,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.6608101,
-      "lng": 121.4102567
+      "lat": null,
+      "lng": null
     },
     {
       "name": "炸彈蔥油餅",
@@ -10018,8 +10018,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.0282825,
-      "lng": 121.6041133
+      "lat": null,
+      "lng": null
     },
     {
       "name": "炸蛋蔥油餅 黃車",
@@ -10034,8 +10034,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9824123,
-      "lng": 121.6059945
+      "lat": null,
+      "lng": null
     },
     {
       "name": "液香扁食店",
@@ -10050,8 +10050,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9746221,
-      "lng": 121.6041084
+      "lat": null,
+      "lng": null
     },
     {
       "name": "戴記扁食",
@@ -10066,8 +10066,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9758862,
-      "lng": 121.6056215
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里麵（阿森麵店）",
@@ -10082,8 +10082,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3338147,
-      "lng": 121.3148932
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗溫泉區山產",
@@ -10098,8 +10098,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.496564,
-      "lng": 121.343607
+      "lat": null,
+      "lng": null
     },
     {
       "name": "傳統美食玉里麵",
@@ -10114,8 +10114,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3338458,
-      "lng": 121.3148811
+      "lat": null,
+      "lng": null
     },
     {
       "name": "055龍蝦海鮮",
@@ -10130,8 +10130,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8697025,
-      "lng": 121.5991373
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食七街碳烤",
@@ -10146,8 +10146,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9757965,
-      "lng": 121.6104957
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金城牛肉麵",
@@ -10162,8 +10162,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9794052,
-      "lng": 121.6062974
+      "lat": null,
+      "lng": null
     },
     {
       "name": "竹陽活海鮮/花蓮美食/花蓮小吃/花蓮海鮮餐廳/花蓮必吃/花蓮美食推薦/花蓮活海鮮/花蓮合菜",
@@ -10178,8 +10178,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9790731,
-      "lng": 121.6082912
+      "lat": null,
+      "lng": null
     },
     {
       "name": "芳村海鮮餐廳",
@@ -10194,8 +10194,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9833255,
-      "lng": 121.6063127
+      "lat": null,
+      "lng": null
     },
     {
       "name": "地6攤牛排-仁里店",
@@ -10210,8 +10210,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9667372,
-      "lng": 121.5926444
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮市好客文化會館",
@@ -10226,8 +10226,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9816916,
-      "lng": 121.6068018
+      "lat": null,
+      "lng": null
     },
     {
       "name": "麗池飯包",
@@ -10242,8 +10242,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.982166,
-      "lng": 121.60555
+      "lat": null,
+      "lng": null
     },
     {
       "name": "宜蘭香炸螃蟹(東大門店)",
@@ -10258,8 +10258,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9730767,
-      "lng": 121.6122326
+      "lat": null,
+      "lng": null
     },
     {
       "name": "玉里橋頭麵",
@@ -10274,8 +10274,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3347036,
-      "lng": 121.3154072
+      "lat": null,
+      "lng": null
     },
     {
       "name": "何童麵食",
@@ -10290,8 +10290,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.3343621,
-      "lng": 121.3130113
+      "lat": null,
+      "lng": null
     },
     {
       "name": "瑞穗綠茶肉圓",
@@ -10306,8 +10306,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4979625,
-      "lng": 121.377426
+      "lat": null,
+      "lng": null
     },
     {
       "name": "派出所前麵",
@@ -10322,8 +10322,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4968052,
-      "lng": 121.3774872
+      "lat": null,
+      "lng": null
     },
     {
       "name": "吉蒸牧場",
@@ -10338,8 +10338,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4834969,
-      "lng": 121.3987568
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鮮堡漢堡—花蓮瑞穗店",
@@ -10354,8 +10354,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4973476,
-      "lng": 121.3779224
+      "lat": null,
+      "lng": null
     },
     {
       "name": "口福海鮮餐廳",
@@ -10370,8 +10370,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.4930956,
-      "lng": 121.505827
+      "lat": null,
+      "lng": null
     },
     {
       "name": "壽豐早餐",
@@ -10386,8 +10386,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.8692436,
-      "lng": 121.5100585
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鯉魚潭樹屋餐廳",
@@ -10402,8 +10402,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.9231708,
-      "lng": 121.5062123
+      "lat": null,
+      "lng": null
     },
     {
       "name": "如意亭美食館",
@@ -10419,8 +10419,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 23.746663,
-      "lng": 121.4550293
+      "lat": null,
+      "lng": null
     },
     {
       "name": "花蓮公正包子店",
@@ -10441,8 +10441,8 @@
         "小籠包",
         "鍋貼"
       ],
-      "lat": 23.9734447,
-      "lng": 121.6059897
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蜜語 Mi Yu",
@@ -10457,8 +10457,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "波提娜麗咖啡 Portinari",
@@ -10473,8 +10473,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 23.9803338,
-      "lng": 121.6094785
+      "lat": null,
+      "lng": null
     },
     {
       "name": "艾蘭哥爾藝文咖啡",
@@ -10489,8 +10489,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "時光二手書店咖啡",
@@ -10505,8 +10505,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 23.9828122,
-      "lng": 121.6069807
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Ohma Kaffee",
@@ -10534,8 +10534,8 @@
           "description": "香氣濃郁的手作肉桂捲，口感蓬鬆柔軟"
         }
       ],
-      "lat": 23.9910732,
-      "lng": 121.6111949
+      "lat": null,
+      "lng": null
     },
     {
       "name": "浮室 so wash",
@@ -10550,13 +10550,13 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 23.974248,
-      "lng": 121.607336
+      "lat": null,
+      "lng": null
     },
     {
       "name": "清心福全",
-      "lat": 24.0117572,
-      "lng": 121.6192493,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10566,8 +10566,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.9791921,
-      "lng": 121.6065999,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10577,8 +10577,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.9758902,
-      "lng": 121.6055046,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10588,8 +10588,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.3332728,
-      "lng": 121.3150903,
+      "lat": null,
+      "lng": null,
       "area": "玉里鎮",
       "categories": [
         "飲品"
@@ -10599,8 +10599,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.9060903,
-      "lng": 121.5298854,
+      "lat": null,
+      "lng": null,
       "area": "壽豐鄉",
       "categories": [
         "飲品"
@@ -10610,8 +10610,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.4970418,
-      "lng": 121.3774142,
+      "lat": null,
+      "lng": null,
       "area": "瑞穗鄉",
       "categories": [
         "飲品"
@@ -10621,8 +10621,8 @@
     },
     {
       "name": "清心福全",
-      "lat": 23.667961,
-      "lng": 121.4245342,
+      "lat": null,
+      "lng": null,
       "area": "光復鄉",
       "categories": [
         "飲品"
@@ -10632,8 +10632,8 @@
     },
     {
       "name": "可不可熟成紅茶",
-      "lat": 23.9869869,
-      "lng": 121.6017084,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10643,8 +10643,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.9780247,
-      "lng": 121.6086786,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10654,8 +10654,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.9771004,
-      "lng": 121.6072207,
+      "lat": null,
+      "lng": null,
       "area": "花蓮市",
       "categories": [
         "飲品"
@@ -10665,8 +10665,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.3346107,
-      "lng": 121.314601,
+      "lat": null,
+      "lng": null,
       "area": "玉里鎮",
       "categories": [
         "飲品"
@@ -10676,8 +10676,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.907444,
-      "lng": 121.5303388,
+      "lat": null,
+      "lng": null,
       "area": "壽豐鄉",
       "categories": [
         "飲品"
@@ -10687,8 +10687,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.966905,
-      "lng": 121.5927368,
+      "lat": null,
+      "lng": null,
       "area": "吉安鄉",
       "categories": [
         "飲品"
@@ -10698,8 +10698,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 23.4976405,
-      "lng": 121.3777292,
+      "lat": null,
+      "lng": null,
       "area": "瑞穗鄉",
       "categories": [
         "飲品"
@@ -10709,8 +10709,8 @@
     },
     {
       "name": "鮮茶道",
-      "lat": 24.0348979,
-      "lng": 121.6035516,
+      "lat": null,
+      "lng": null,
       "area": "新城鄉",
       "categories": [
         "飲品"
@@ -10720,8 +10720,8 @@
     },
     {
       "name": "一芳",
-      "lat": 23.3344905,
-      "lng": 121.3144574,
+      "lat": null,
+      "lng": null,
       "area": "玉里鎮",
       "categories": [
         "飲品"
@@ -10731,8 +10731,8 @@
     },
     {
       "name": "一芳",
-      "lat": 23.973542,
-      "lng": 121.5817689,
+      "lat": null,
+      "lng": null,
       "area": "吉安鄉",
       "categories": [
         "飲品"

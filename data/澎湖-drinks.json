@@ -1,8 +1,8 @@
 [
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "馬公市",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "馬公市",
     "categories": [
       "飲品"

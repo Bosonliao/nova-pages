@@ -1,8 +1,8 @@
 [
   {
     "name": "熊好茶飲店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "壽豐鄉",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "好茶園",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "瑞穗鄉",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "小賴好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "花蓮幸福堂",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "花蓮市",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "庭好茶坊",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "壽豐鄉",
     "categories": [
       "飲品"

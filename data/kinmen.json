@@ -14,8 +14,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4320647,
-      "lng": 118.3155101
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金東秘境探索一日遊",
@@ -31,8 +31,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "烈嶼小金門一日遊",
@@ -49,8 +49,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4279737,
-      "lng": 118.2351192
+      "lat": null,
+      "lng": null
     },
     {
       "name": "太武山生態文化一日遊",
@@ -66,8 +66,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4570217,
-      "lng": 118.404337
+      "lat": null,
+      "lng": null
     },
     {
       "name": "大膽島烈嶼雙重奇遇一日遊",
@@ -81,8 +81,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.3847078,
-      "lng": 118.1700481
+      "lat": null,
+      "lng": null
     },
     {
       "name": "鱟生態與海岸落日一日遊",
@@ -97,8 +97,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "南竿戰地文化一日遊",
@@ -116,8 +116,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "name": "北竿芹壁聚落一日遊",
@@ -135,8 +135,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "name": "東引國境之北一日遊",
@@ -155,8 +155,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "name": "莒光藍眼淚生態一日遊",
@@ -173,8 +173,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "南竿深度文化美食一日遊",
@@ -190,8 +190,8 @@
       "tags": [
         "一般路線"
       ],
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金馬雨天戰地坑道與博物館探秘",
@@ -207,8 +207,8 @@
       "tags": [
         "雨天路線"
       ],
-      "lat": 24.3900267,
-      "lng": 118.319946
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金馬樂齡聚落散步與老街漫遊",
@@ -223,8 +223,8 @@
       "tags": [
         "樂齡路線"
       ],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門牛肉麵到閩式燒餅美食地圖",
@@ -240,8 +240,8 @@
       "tags": [
         "景點加美食"
       ],
-      "lat": 24.4900913,
-      "lng": 118.4131208
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・金門夏日水彈槍與貢糖行",
@@ -256,8 +256,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 24.34877912595629,
-      "lng": 118.3285644254523
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・金門美食芋頭米粉與冰菓室行",
@@ -272,8 +272,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 24.4350673,
-      "lng": 118.3162915
+      "lat": null,
+      "lng": null
     },
     {
       "name": "食尚玩家・馬祖三島二日精華行",
@@ -289,8 +289,8 @@
       "tags": [
         "食尚玩家"
       ],
-      "lat": 26.160243,
-      "lng": 119.9516652
+      "lat": null,
+      "lng": null
     }
   ],
   "spots": [
@@ -301,8 +301,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門莒光樓，城樓式紀念建築",
-      "lat": 24.4249101,
-      "lng": 118.3190217
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -311,8 +311,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門珠山聚落，薛氏宗祠古厝群",
-      "lat": 24.4014828,
-      "lng": 118.3205759
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -321,8 +321,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門軍事坑道，花崗岩地下碼頭",
-      "lat": 24.3900267,
-      "lng": 118.319946
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -331,8 +331,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門水頭古厝洋樓群，得月樓",
-      "lat": 24.4094809,
-      "lng": 118.299865
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -341,8 +341,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門八二三戰史館，砲戰歷史",
-      "lat": 24.4431889,
-      "lng": 118.4324028
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -351,8 +351,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門古寧頭戰史館，戰役歷史",
-      "lat": 24.4829757,
-      "lng": 118.3209361
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -361,8 +361,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門天摩山步道，觀景與軍事遺跡",
-      "lat": 24.5267481,
-      "lng": 118.4181221
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -371,8 +371,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門船型堡，反登陸軍事工事",
-      "lat": 24.4991413,
-      "lng": 118.4469445
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -381,8 +381,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門成功洋樓，最大私人洋樓",
-      "lat": 24.4372225,
-      "lng": 118.3900819
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -391,8 +391,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門山后古厝群，閩南建築博物館",
-      "lat": 24.5038116,
-      "lng": 118.4404129
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -401,8 +401,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門馬山觀測站，離廈門最近點",
-      "lat": 24.5277161,
-      "lng": 118.4088789
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -411,8 +411,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門大橋，連接大小金門跨海大橋",
-      "lat": 24.4279737,
-      "lng": 118.2351192
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -421,8 +421,8 @@
       "rating": null,
       "reviews": null,
       "description": "烈嶼九宮坑道，花崗岩地下碼頭",
-      "lat": 24.4237909,
-      "lng": 118.2626189
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -431,8 +431,8 @@
       "rating": null,
       "reviews": null,
       "description": "烈嶼沙溪堡，海岸防禦據點",
-      "lat": 24.4279737,
-      "lng": 118.2351192
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -441,8 +441,8 @@
       "rating": null,
       "reviews": null,
       "description": "烈嶼湖井頭戰史館，戰役歷史",
-      "lat": 24.4279737,
-      "lng": 118.2351192
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -451,8 +451,8 @@
       "rating": null,
       "reviews": null,
       "description": "烈嶼西方村，海岸聚落散步",
-      "lat": 24.4279737,
-      "lng": 118.2351192
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -461,8 +461,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門風獅爺，聚落守護神像",
-      "lat": 24.4568312,
-      "lng": 118.3740465
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -471,8 +471,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門瓊林坑道，民防地下坑道",
-      "lat": 24.4551445,
-      "lng": 118.3730578
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -481,8 +481,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門太武山海印寺，百年古刹",
-      "lat": 24.4625978,
-      "lng": 118.4185443
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -491,8 +491,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門建功嶼，退潮才可步行抵達",
-      "lat": 24.4274351,
-      "lng": 118.300075
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -501,8 +501,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門大膽島，前線軍事島嶼觀光",
-      "lat": 24.3847078,
-      "lng": 118.1700481
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -511,8 +511,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門水試所，鱟魚生態展示",
-      "lat": 24.4248229,
-      "lng": 118.3149995
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -521,8 +521,8 @@
       "rating": null,
       "reviews": null,
       "description": "金門慈湖，鸕鶿歸巢賞鳥勝地",
-      "lat": 24.4645634,
-      "lng": 118.2985306
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -531,8 +531,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖福澳港，南竿主要港口",
-      "lat": 26.1563246,
-      "lng": 119.9444207
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -541,8 +541,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖酒廠，老酒與八八坑道窖藏",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -551,8 +551,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖八八坑道，戰備坑道與酒窖",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -561,8 +561,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖故事館，戰地政務時期歷史",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -571,8 +571,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖北海坑道，花崗岩坑道划船",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -581,8 +581,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖南竿鐵堡，花崗岩海上堡壘",
-      "lat": 26.1420059,
-      "lng": 119.9208984
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -591,8 +591,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖津沙，百棟石頭屋聚落",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -601,8 +601,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖福山公園，枕戈待旦地標",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -611,8 +611,8 @@
       "rating": null,
       "reviews": null,
       "description": "南北之星快船，南北竿海上交通",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -621,8 +621,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖北竿島，芹壁與塘后沙灘",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -631,8 +631,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖芹壁，石頭屋聚落與海景",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -641,8 +641,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖坂里沙灘，北坂最美沙灘",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -651,8 +651,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖塘后道沙灘，連島沙洲海灘",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -661,8 +661,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖北海坑道，花崗岩坑道划船",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -671,8 +671,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖壁山觀景，俯瞰北竿全景",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -681,8 +681,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖東引島，國之北疆與燈塔",
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -691,8 +691,8 @@
       "rating": null,
       "reviews": null,
       "description": "東引中柱港，東引主要港口",
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -701,8 +701,8 @@
       "rating": null,
       "reviews": null,
       "description": "東引國之北疆，台灣最北端地標",
-      "lat": 26.3656992,
-      "lng": 120.4904831
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -711,8 +711,8 @@
       "rating": null,
       "reviews": null,
       "description": "東引安東坑道，花崗岩軍事坑道",
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -721,8 +721,8 @@
       "rating": null,
       "reviews": null,
       "description": "東引烈女義坑，海蝕崖傳說景點",
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -731,8 +731,8 @@
       "rating": null,
       "reviews": null,
       "description": "東引燈塔，國定古蹟英式燈塔",
-      "lat": 26.3696747,
-      "lng": 120.4962417
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -741,8 +741,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖東莒島，燈塔與聚落秘境",
-      "lat": 25.9604777,
-      "lng": 119.9723303
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -751,8 +751,8 @@
       "rating": null,
       "reviews": null,
       "description": "東莒燈塔，台灣第一座花崗岩燈塔",
-      "lat": 25.9604777,
-      "lng": 119.9723303
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -761,8 +761,8 @@
       "rating": null,
       "reviews": null,
       "description": "東莒福正聚落，石頭屋與沙灘",
-      "lat": 25.9604777,
-      "lng": 119.9723303
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -771,8 +771,8 @@
       "rating": null,
       "reviews": null,
       "description": "東莒大埔石刻，明代摩崖碑文",
-      "lat": 25.9604777,
-      "lng": 119.9723303
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -781,8 +781,8 @@
       "rating": null,
       "reviews": null,
       "description": "西莒坤坵沙灘，方形礫石海灘奇景",
-      "lat": 25.9604777,
-      "lng": 119.9723303
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -791,8 +791,8 @@
       "rating": null,
       "reviews": null,
       "description": "南竿介壽市場，馬祖最大傳統市場",
-      "lat": 26.1554823,
-      "lng": 119.9513411
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -801,8 +801,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖阿妹的店，鼎邊糊在地小吃",
-      "lat": 26.1555536,
-      "lng": 119.9514061
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -811,8 +811,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖勝利堡，軍事據點改建展示",
-      "lat": 23.69781,
-      "lng": 120.960515
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -821,8 +821,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖831軍中茶室，特種行業歷史",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -831,8 +831,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖刺鳥咖啡，獨立書店與海景",
-      "lat": 26.1679237,
-      "lng": 119.9516813
+      "lat": null,
+      "lng": null
     },
     {
       "county": "金馬",
@@ -841,8 +841,8 @@
       "rating": null,
       "reviews": null,
       "description": "馬祖神農居，海鮮火鍋風味餐",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     }
   ],
   "souvenirs": [
@@ -850,57 +850,57 @@
       "name": "金門貢糖",
       "area": "金門金城鎮",
       "description": "金門特產貢糖，聖祖最出名",
-      "lat": 24.4327047,
-      "lng": 118.3197642
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門高粱酒",
       "area": "金門金寧鄉",
       "description": "金門酒廠特產高粱酒",
-      "lat": 24.4432428,
-      "lng": 118.317192
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門一條根",
       "area": "金門",
       "description": "金門特產一條根藥膏茶包",
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門牛肉乾",
       "area": "金門金湖鎮",
       "description": "金門特產牛肉乾伴手",
-      "lat": 24.4376913,
-      "lng": 118.4279933
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門砲彈菜刀",
       "area": "金門金城鎮",
       "description": "金門特產砲彈鋼刀紀念品",
-      "lat": 24.4320647,
-      "lng": 118.3155101
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬祖老酒",
       "area": "馬祖南竿",
       "description": "馬祖特產老酒和陳年高粱",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬祖繼光餅",
       "area": "馬祖南竿",
       "description": "馬祖特產繼光餅和漢堡",
-      "lat": 26.1534361,
-      "lng": 119.9306863
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬祖淡菜乾",
       "area": "馬祖北竿",
       "description": "馬祖特產淡菜乾海鮮伴手",
-      "lat": 26.2245753,
-      "lng": 119.9982607
+      "lat": null,
+      "lng": null
     }
   ],
   "food": [
@@ -917,8 +917,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4333518,
-      "lng": 118.3199478
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿萱素食",
@@ -933,8 +933,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4409267,
-      "lng": 118.408141
+      "lat": null,
+      "lng": null
     },
     {
       "name": "清水荷花素食餐廳",
@@ -949,8 +949,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.9911547,
-      "lng": 119.4542045
+      "lat": null,
+      "lng": null
     },
     {
       "name": "初原麵場(金門金寧店)",
@@ -966,8 +966,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4402742,
-      "lng": 118.3379024
+      "lat": null,
+      "lng": null
     },
     {
       "name": "愜意甜點工作室-金門甜點 金門伴手禮 金門名產 金門下午茶 金門網紅打卡點 附近美食",
@@ -983,8 +983,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4872235,
-      "lng": 118.4136505
+      "lat": null,
+      "lng": null
     },
     {
       "name": "Soban Vegan Restaurant",
@@ -999,8 +999,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4811092,
-      "lng": 118.4279933
+      "lat": null,
+      "lng": null
     },
     {
       "name": "福圓素食",
@@ -1028,8 +1028,8 @@
           "description": "入味素食臭豆腐，深受在地人喜愛"
         }
       ],
-      "lat": 24.4306569,
-      "lng": 118.3204722
+      "lat": null,
+      "lng": null
     },
     {
       "name": "清源素食",
@@ -1044,8 +1044,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4306127,
-      "lng": 118.3197542
+      "lat": null,
+      "lng": null
     },
     {
       "name": "林炳煌（天恩素食）",
@@ -1073,8 +1073,8 @@
           "description": "素食飯食，在地人的日常選擇"
         }
       ],
-      "lat": 24.4307637,
-      "lng": 118.3205749
+      "lat": null,
+      "lng": null
     },
     {
       "name": "良品貝果 涼麵｜金門素食",
@@ -1089,8 +1089,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4329612,
-      "lng": 118.3172382
+      "lat": null,
+      "lng": null
     },
     {
       "name": "19house炙燒牛排金門店",
@@ -1106,8 +1106,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4378353,
-      "lng": 118.3285367
+      "lat": null,
+      "lng": null
     },
     {
       "name": "紫微庭園美食",
@@ -1136,8 +1136,8 @@
           "description": "金門特色炒泡麵，加入豬肉、雞蛋拌炒，簡單美味"
         }
       ],
-      "lat": 24.4518694,
-      "lng": 118.3532671
+      "lat": null,
+      "lng": null
     },
     {
       "name": "早到晚到-金門店",
@@ -1153,8 +1153,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4421482,
-      "lng": 118.3273509
+      "lat": null,
+      "lng": null
     },
     {
       "name": "圓頭肉乾-金城榮泰店 | 金門美食 金門牛肉麵 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳 restaurant",
@@ -1170,8 +1170,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4336821,
-      "lng": 118.3191769
+      "lat": null,
+      "lng": null
     },
     {
       "name": "高坑牛肉食樂苑餐廳 預約制",
@@ -1187,8 +1187,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4669402,
-      "lng": 118.3939397
+      "lat": null,
+      "lng": null
     },
     {
       "name": "天佑蔬食",
@@ -1203,8 +1203,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4412931,
-      "lng": 118.4148557
+      "lat": null,
+      "lng": null
     },
     {
       "name": "圓頭肉乾金門農牧概念館-金門美食 金門牛肉麵 金門牛肉火鍋 金門牛肉乾 金門名產 金門伴手禮 金門必吃 附近餐廳",
@@ -1220,8 +1220,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.34877912595629,
-      "lng": 118.3285644254523
+      "lat": null,
+      "lng": null
     },
     {
       "name": "馬家麵線",
@@ -1237,8 +1237,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4391352,
-      "lng": 118.3339992
+      "lat": null,
+      "lng": null
     },
     {
       "name": "良金牧場貞節牌坊店",
@@ -1254,8 +1254,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.431278,
-      "lng": 118.3186983
+      "lat": null,
+      "lng": null
     },
     {
       "name": "祥富素食館",
@@ -1270,8 +1270,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4411338,
-      "lng": 118.3224069
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金拌麵",
@@ -1287,8 +1287,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4485731,
-      "lng": 118.3841778
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金許園-山外創始店",
@@ -1304,8 +1304,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4394562,
-      "lng": 118.4129752
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海福花園飯店",
@@ -1321,8 +1321,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4666914,
-      "lng": 118.3901019
+      "lat": null,
+      "lng": null
     },
     {
       "name": "嘉年華冰菓室",
@@ -1338,8 +1338,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4357494,
-      "lng": 118.2383966
+      "lat": null,
+      "lng": null
     },
     {
       "name": "謙和清心素食",
@@ -1354,8 +1354,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.9911547,
-      "lng": 119.4542045
+      "lat": null,
+      "lng": null
     },
     {
       "name": "湶民水果創作料理",
@@ -1371,8 +1371,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.441336,
-      "lng": 118.3381525
+      "lat": null,
+      "lng": null
     },
     {
       "name": "雨川食堂｜金門戰地滋味",
@@ -1388,8 +1388,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4320647,
-      "lng": 118.3176075
+      "lat": null,
+      "lng": null
     },
     {
       "name": "良金牧場工廠總店",
@@ -1405,8 +1405,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4373446,
-      "lng": 118.4065035
+      "lat": null,
+      "lng": null
     },
     {
       "name": "三言兩語鮮茶咖啡美食館",
@@ -1422,8 +1422,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4421986,
-      "lng": 118.4147599
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蔡師傅手工麵線",
@@ -1439,8 +1439,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4274044,
-      "lng": 118.258712
+      "lat": null,
+      "lng": null
     },
     {
       "name": "好媽媽健康素食屋",
@@ -1455,8 +1455,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4410868,
-      "lng": 118.4161797
+      "lat": null,
+      "lng": null
     },
     {
       "name": "仁化素食燒餅",
@@ -1471,8 +1471,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4410023,
-      "lng": 118.3157135
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海洋餐廳",
@@ -1488,8 +1488,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.450049,
-      "lng": 118.334646
+      "lat": null,
+      "lng": null
     },
     {
       "name": "肉坊｜個人燒肉計畫｜金寧店",
@@ -1505,8 +1505,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4478236,
-      "lng": 118.3103138
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金許園餐廳",
@@ -1522,8 +1522,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4151707,
-      "lng": 118.3180254
+      "lat": null,
+      "lng": null
     },
     {
       "name": "張記牛肉麵館",
@@ -1539,8 +1539,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4426149,
-      "lng": 118.4146545
+      "lat": null,
+      "lng": null
     },
     {
       "name": "閩式燒餅專賣店",
@@ -1556,8 +1556,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4900913,
-      "lng": 118.4131208
+      "lat": null,
+      "lng": null
     },
     {
       "name": "聯泰餐廳",
@@ -1573,8 +1573,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.454425,
-      "lng": 118.332637
+      "lat": null,
+      "lng": null
     },
     {
       "name": "米香屋廣東粥",
@@ -1590,8 +1590,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4344457,
-      "lng": 118.3195026
+      "lat": null,
+      "lng": null
     },
     {
       "name": "合泉購物中心",
@@ -1607,8 +1607,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4494554,
-      "lng": 118.3854582
+      "lat": null,
+      "lng": null
     },
     {
       "name": "阿芬海產店",
@@ -1624,8 +1624,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4482424,
-      "lng": 118.4700513
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金牪餐廳 (附設販賣部週三正常營業)",
@@ -1641,8 +1641,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4334127,
-      "lng": 118.438636
+      "lat": null,
+      "lng": null
     },
     {
       "name": "陽翟老街(軍中樂園拍攝場景)",
@@ -1658,8 +1658,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4794407,
-      "lng": 118.4272544
+      "lat": null,
+      "lng": null
     },
     {
       "name": "海園餐廳｜芋頭特色料理",
@@ -1675,8 +1675,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4246998,
-      "lng": 118.2604751
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金青安齋素食",
@@ -1691,8 +1691,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4401714,
-      "lng": 118.4165152
+      "lat": null,
+      "lng": null
     },
     {
       "name": "記德海鮮餐廳",
@@ -1708,8 +1708,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4475262,
-      "lng": 118.3110846
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門牛家莊（酒糟牛肉料理）創立於2002年",
@@ -1725,8 +1725,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "喬安牧場伯玉旗艦店",
@@ -1742,8 +1742,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4407237,
-      "lng": 118.3398862
+      "lat": null,
+      "lng": null
     },
     {
       "name": "聯成廣東粥",
@@ -1759,8 +1759,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4355111,
-      "lng": 118.3188969
+      "lat": null,
+      "lng": null
     },
     {
       "name": "金門 阿公ㄟ手工豆花（雙週一公休）",
@@ -1776,8 +1776,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4318288,
-      "lng": 118.319223
+      "lat": null,
+      "lng": null
     },
     {
       "name": "新天地海產店",
@@ -1793,8 +1793,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4478177,
-      "lng": 118.4695218
+      "lat": null,
+      "lng": null
     },
     {
       "name": "沙美老街",
@@ -1810,8 +1810,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4906075,
-      "lng": 118.4122725
+      "lat": null,
+      "lng": null
     },
     {
       "name": "信源海產店-湖下店",
@@ -1827,8 +1827,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4564867,
-      "lng": 118.305801
+      "lat": null,
+      "lng": null
     },
     {
       "name": "標記小吃店",
@@ -1844,8 +1844,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4298384,
-      "lng": 118.3193627
+      "lat": null,
+      "lng": null
     },
     {
       "name": "榕榕園麵館",
@@ -1861,8 +1861,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4430393,
-      "lng": 118.4147016
+      "lat": null,
+      "lng": null
     },
     {
       "name": "曉園輕旅附設如荷自在蔬食茶堂",
@@ -1877,8 +1877,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4365796,
-      "lng": 118.3888567
+      "lat": null,
+      "lng": null
     },
     {
       "name": "天惠素食",
@@ -1893,8 +1893,8 @@
       "category": "素食",
       "_sort": 3,
       "dishes": [],
-      "lat": 24.433635,
-      "lng": 118.3314082
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蚵嗲之家",
@@ -1910,8 +1910,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4314402,
-      "lng": 118.3184601
+      "lat": null,
+      "lng": null
     },
     {
       "name": "三層樓芋頭餐館（三層樓芋頭冰）",
@@ -1927,8 +1927,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.446508,
-      "lng": 118.252173
+      "lat": null,
+      "lng": null
     },
     {
       "name": "妙香小吃店",
@@ -1944,8 +1944,8 @@
       "tags": [],
       "_sort": 3,
       "dishes": [],
-      "lat": 24.4401856,
-      "lng": 118.2601418
+      "lat": null,
+      "lng": null
     },
     {
       "name": "蘿熙咖啡",
@@ -1960,8 +1960,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 24.4493726,
-      "lng": 118.3766352
+      "lat": null,
+      "lng": null
     },
     {
       "name": "獅鄉 LionTownship",
@@ -1976,8 +1976,8 @@
       "rating": null,
       "reviews": null,
       "dishes": [],
-      "lat": 24.4317886,
-      "lng": 118.319098
+      "lat": null,
+      "lng": null
     }
   ]
 }

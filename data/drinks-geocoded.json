@@ -5,8 +5,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區愛四路1號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -17,8 +17,8 @@
       "storeName": "基隆深溪店",
       "address": "基隆市信義區深溪路128號",
       "area": "信義區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -29,8 +29,8 @@
       "storeName": "百三店",
       "address": "基隆市七堵區百三街44號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -41,8 +41,8 @@
       "storeName": "明德店",
       "address": "基隆市七堵區明德一路117號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -53,8 +53,8 @@
       "storeName": "安一店",
       "address": "基隆市中山區安一路66號",
       "area": "中山區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -65,8 +65,8 @@
       "storeName": "中華店",
       "address": "基隆市中山區中華路5巷12號",
       "area": "中山區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -77,8 +77,8 @@
       "storeName": "復興店",
       "address": "基隆市中山區復興路160號",
       "area": "中山區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -89,8 +89,8 @@
       "storeName": "海大店",
       "address": "基隆市中正區中正路782號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -101,8 +101,8 @@
       "storeName": "中船店",
       "address": "基隆市中正區中船路88號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -113,8 +113,8 @@
       "storeName": "義一店",
       "address": "基隆市中正區義一路12號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -125,8 +125,8 @@
       "storeName": "仁四店",
       "address": "基隆市仁愛區仁四路58號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -137,8 +137,8 @@
       "storeName": "孝三店",
       "address": "基隆市仁愛區忠二路39號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -149,8 +149,8 @@
       "storeName": "深溪店",
       "address": "基隆市信義區深溪路106號",
       "area": "信義區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -161,8 +161,8 @@
       "storeName": "暖暖店",
       "address": "基隆市暖暖區東勢街1-15號",
       "area": "暖暖區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -173,8 +173,8 @@
       "storeName": "麥金店",
       "address": "基隆市安樂區麥金路202號",
       "area": "安樂區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -185,8 +185,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區愛三路28號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -197,8 +197,8 @@
       "storeName": "成功店",
       "address": "基隆市仁愛區成功一路130號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -209,8 +209,8 @@
       "storeName": "復興店",
       "address": "基隆市中山區復興路156號",
       "area": "中山區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -221,8 +221,8 @@
       "storeName": "中船店",
       "address": "基隆市中正區中船路60號1樓",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -233,8 +233,8 @@
       "storeName": "海豐店",
       "address": "基隆市中正區新豐街306號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -245,8 +245,8 @@
       "storeName": "七堵店",
       "address": "基隆市七堵區明德一路196號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -257,8 +257,8 @@
       "storeName": "百福店",
       "address": "基隆市七堵區百三街60號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -269,8 +269,8 @@
       "storeName": "武崙店",
       "address": "基隆市安樂區基金一路135巷21弄1號B1之6",
       "area": "安樂區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -281,8 +281,8 @@
       "storeName": "暖暖店",
       "address": "基隆市暖暖區源遠路165之10號",
       "area": "暖暖區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -293,8 +293,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區仁三路80號1樓",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -305,8 +305,8 @@
       "storeName": "基隆仁三店",
       "address": "基隆市仁愛區仁三路47號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -317,8 +317,8 @@
       "storeName": "七堵百福店",
       "address": "基隆市七堵區百三街32號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -329,8 +329,8 @@
       "storeName": "基隆仁二店",
       "address": "基隆市仁愛區仁二路99號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -341,8 +341,8 @@
       "storeName": "基隆孝三店",
       "address": "基隆市仁愛區孝三路96號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -353,8 +353,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區愛四路22號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -365,8 +365,8 @@
       "storeName": "基隆七堵店",
       "address": "基隆市七堵區自治北街2號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -377,8 +377,8 @@
       "storeName": "基隆安一店",
       "address": "基隆市安樂區安一路104號",
       "area": "安樂區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -389,8 +389,8 @@
       "storeName": "基隆暖暖店",
       "address": "基隆市暖暖區東勢街1-19號",
       "area": "暖暖區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -401,8 +401,8 @@
       "storeName": "基隆新豐店",
       "address": "基隆市中正區新豐街365號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -413,8 +413,8 @@
       "storeName": "海洋大學店",
       "address": "基隆市中正區北寧路2號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -425,8 +425,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區愛三路26號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -437,8 +437,8 @@
       "storeName": "基隆義二店",
       "address": "基隆市中正區義二路27號",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -449,8 +449,8 @@
       "storeName": "基隆孝一店",
       "address": "基隆市仁愛區孝一路65號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -461,8 +461,8 @@
       "storeName": "基隆深溪店",
       "address": "基隆市信義區深溪路121號",
       "area": "信義區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -473,8 +473,8 @@
       "storeName": "基隆仁三店",
       "address": "基隆市仁愛區仁三路78號",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -485,8 +485,8 @@
       "storeName": "基隆廟口店",
       "address": "基隆市仁愛區愛三路68號1樓",
       "area": "仁愛區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -497,8 +497,8 @@
       "storeName": "基隆義二店",
       "address": "基隆市中正區義二路14號1樓",
       "area": "中正區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -509,8 +509,8 @@
       "storeName": "基隆百福店",
       "address": "基隆市七堵區福三街41號",
       "area": "七堵區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -523,8 +523,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段167號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -535,8 +535,8 @@
       "storeName": "宜蘭幾米公園店",
       "address": "宜蘭縣宜蘭市宜興路一段236號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -547,8 +547,8 @@
       "storeName": "宜蘭東港店",
       "address": "宜蘭縣宜蘭市東港路二段426號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -559,8 +559,8 @@
       "storeName": "宜蘭泰山店",
       "address": "宜蘭縣宜蘭市泰山路235號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -571,8 +571,8 @@
       "storeName": "宜蘭舊城南店",
       "address": "宜蘭縣宜蘭市舊城南路38號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -583,8 +583,8 @@
       "storeName": "羅東維揚店",
       "address": "宜蘭縣羅東鎮維揚路72號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -595,8 +595,8 @@
       "storeName": "羅東站前店",
       "address": "宜蘭縣羅東鎮公正路69號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -607,8 +607,8 @@
       "storeName": "羅東公正店",
       "address": "宜蘭縣羅東鎮公正路289-3號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -619,8 +619,8 @@
       "storeName": "羅東興東店",
       "address": "宜蘭縣羅東鎮中山路三段219號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -631,8 +631,8 @@
       "storeName": "羅東中正南店",
       "address": "宜蘭縣羅東鎮中正南路133號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -643,8 +643,8 @@
       "storeName": "礁溪店",
       "address": "宜蘭縣礁溪鄉礁溪路五段2號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -655,8 +655,8 @@
       "storeName": "礁溪中山店",
       "address": "宜蘭縣礁溪鄉中山路二段180號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -667,8 +667,8 @@
       "storeName": "頭城青雲店",
       "address": "宜蘭縣頭城鎮青雲路三段50號",
       "area": "頭城鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -679,8 +679,8 @@
       "storeName": "頭城金面店",
       "address": "宜蘭縣頭城鎮青雲路二段367號",
       "area": "頭城鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -691,8 +691,8 @@
       "storeName": "蘇澳中山店",
       "address": "宜蘭縣蘇澳鎮中山路一段151號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -703,8 +703,8 @@
       "storeName": "蘇澳江夏店",
       "address": "宜蘭縣蘇澳鎮江夏路75號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -715,8 +715,8 @@
       "storeName": "蘇澳馬賽店",
       "address": "宜蘭縣蘇澳鎮大同路25號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -727,8 +727,8 @@
       "storeName": "冬山店",
       "address": "宜蘭縣冬山鄉冬山路一段1090號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -739,8 +739,8 @@
       "storeName": "五結店",
       "address": "宜蘭縣五結鄉五結路二段516號",
       "area": "五結鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -751,8 +751,8 @@
       "storeName": "三星店",
       "address": "宜蘭縣三星鄉三星路四段458號",
       "area": "三星鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -763,8 +763,8 @@
       "storeName": "壯圍店",
       "address": "宜蘭縣壯圍鄉壯五路323號",
       "area": "壯圍鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -775,8 +775,8 @@
       "storeName": "宜蘭店",
       "address": "宜蘭縣宜蘭市中山路三段201號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -787,8 +787,8 @@
       "storeName": "宜蘭2店",
       "address": "宜蘭縣宜蘭市神農路一段19號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -799,8 +799,8 @@
       "storeName": "宜蘭舊城店",
       "address": "宜蘭縣宜蘭市舊城南路40號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -811,8 +811,8 @@
       "storeName": "羅東店",
       "address": "宜蘭縣羅東鎮民生路120號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -823,8 +823,8 @@
       "storeName": "礁溪店",
       "address": "宜蘭縣礁溪鄉礁溪路五段70號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -835,8 +835,8 @@
       "storeName": "宜蘭五結店",
       "address": "宜蘭縣五結鄉五結路二段440號",
       "area": "五結鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -847,8 +847,8 @@
       "storeName": "蘇澳店",
       "address": "宜蘭縣蘇澳鎮中山路一段76號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -859,8 +859,8 @@
       "storeName": "頭城店",
       "address": "宜蘭縣頭城鎮青雲路三段169號",
       "area": "頭城鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -871,8 +871,8 @@
       "storeName": "壯圍店",
       "address": "宜蘭縣壯圍鄉壯五路294號",
       "area": "壯圍鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -883,8 +883,8 @@
       "storeName": "冬山義成店",
       "address": "宜蘭縣冬山鄉義成路三段403號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -895,8 +895,8 @@
       "storeName": "宜蘭神農店",
       "address": "宜蘭縣宜蘭市神農路一段8號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -907,8 +907,8 @@
       "storeName": "宜蘭羅東店",
       "address": "宜蘭縣羅東鎮公正路33號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -919,8 +919,8 @@
       "storeName": "宜蘭礁溪店",
       "address": "宜蘭縣礁溪鄉德陽路17號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -931,8 +931,8 @@
       "storeName": "宜蘭宜大店",
       "address": "宜蘭縣宜蘭市進士路二段518號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -943,8 +943,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段52號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -955,8 +955,8 @@
       "storeName": "宜蘭礁溪店",
       "address": "宜蘭縣礁溪鄉礁溪路五段56號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -967,8 +967,8 @@
       "storeName": "羅東公正店",
       "address": "宜蘭縣羅東鎮公正路204號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -979,8 +979,8 @@
       "storeName": "宜蘭東港店",
       "address": "宜蘭縣宜蘭市東港路二段237號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -991,8 +991,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段196號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1003,8 +1003,8 @@
       "storeName": "羅東公正店",
       "address": "宜蘭縣羅東鎮公正路322號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1015,8 +1015,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段163號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1027,8 +1027,8 @@
       "storeName": "羅東公正店",
       "address": "宜蘭縣羅東鎮公正路45號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1039,8 +1039,8 @@
       "storeName": "羅東民權店",
       "address": "宜蘭縣羅東鎮民權路151號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1051,8 +1051,8 @@
       "storeName": "頭城店",
       "address": "宜蘭縣頭城鎮青雲路三段82號",
       "area": "頭城鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1063,8 +1063,8 @@
       "storeName": "宜蘭羅東店",
       "address": "宜蘭縣羅東鎮興東路103號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1075,8 +1075,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段185號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1087,8 +1087,8 @@
       "storeName": "羅東民權店",
       "address": "宜蘭縣羅東鎮民權路169號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1099,8 +1099,8 @@
       "storeName": "宜蘭民權新店",
       "address": "宜蘭縣宜蘭市民權新路193號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1111,8 +1111,8 @@
       "storeName": "羅東民權店",
       "address": "宜蘭縣羅東鎮民權路21號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1123,8 +1123,8 @@
       "storeName": "羅東中華店",
       "address": "宜蘭縣羅東鎮中華路116號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1135,8 +1135,8 @@
       "storeName": "冬山南興店",
       "address": "宜蘭縣冬山鄉冬山路一段986巷12號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1147,8 +1147,8 @@
       "storeName": "宜蘭中山店",
       "address": "宜蘭縣宜蘭市中山路三段199號",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1159,8 +1159,8 @@
       "storeName": "宜蘭復興店",
       "address": "宜蘭縣宜蘭市復興路一段127號1樓",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1171,8 +1171,8 @@
       "storeName": "宜蘭員山店",
       "address": "宜蘭縣員山鄉員山路一段203號",
       "area": "員山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1183,8 +1183,8 @@
       "storeName": "宜蘭壯圍店",
       "address": "宜蘭縣壯圍鄉壯五路293號",
       "area": "壯圍鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1195,8 +1195,8 @@
       "storeName": "羅東夜市店",
       "address": "宜蘭縣羅東鎮興東路8-1號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1207,8 +1207,8 @@
       "storeName": "羅東站前店",
       "address": "宜蘭縣羅東鎮公正路44號1樓",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1219,8 +1219,8 @@
       "storeName": "羅東羅商店",
       "address": "宜蘭縣羅東鎮中山路四段299號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1231,8 +1231,8 @@
       "storeName": "宜蘭冬山店",
       "address": "宜蘭縣冬山鄉冬山路一段1080號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1243,8 +1243,8 @@
       "storeName": "蘇澳江夏店",
       "address": "宜蘭縣蘇澳鎮江夏路34號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1255,8 +1255,8 @@
       "storeName": "宜蘭五結店",
       "address": "宜蘭縣五結鄉利成路一段17號",
       "area": "五結鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1267,8 +1267,8 @@
       "storeName": "宜蘭頭城店",
       "address": "宜蘭縣頭城鎮青雲路三段226號",
       "area": "頭城鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1279,8 +1279,8 @@
       "storeName": "宜蘭礁溪店",
       "address": "宜蘭縣礁溪鄉中山路二段160號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1291,8 +1291,8 @@
       "storeName": "羅東中正北店",
       "address": "宜蘭縣羅東鎮中正北路14號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1303,8 +1303,8 @@
       "storeName": "宜蘭復興店",
       "address": "宜蘭縣宜蘭市復興路二段17號1樓",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1315,8 +1315,8 @@
       "storeName": "宜蘭家樂福店",
       "address": "宜蘭縣宜蘭市民權路二段38巷2號B2",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1327,8 +1327,8 @@
       "storeName": "宜蘭東港店",
       "address": "宜蘭縣宜蘭市東港路二段380號1F",
       "area": "宜蘭市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1339,8 +1339,8 @@
       "storeName": "宜蘭礁溪店",
       "address": "宜蘭縣礁溪鄉中山路二段198號",
       "area": "礁溪鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1351,8 +1351,8 @@
       "storeName": "三星上將店",
       "address": "宜蘭縣三星鄉上將路三段145號",
       "area": "三星鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1363,8 +1363,8 @@
       "storeName": "羅東南昌店",
       "address": "宜蘭縣羅東鎮站前南路183號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1375,8 +1375,8 @@
       "storeName": "羅東竹林店",
       "address": "宜蘭縣羅東鎮復興路二段115號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1387,8 +1387,8 @@
       "storeName": "五結利成店",
       "address": "宜蘭縣五結鄉利成路一段1號",
       "area": "五結鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1399,8 +1399,8 @@
       "storeName": "宜蘭蘇澳店",
       "address": "宜蘭縣蘇澳鎮中山路一段20號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1411,8 +1411,8 @@
       "storeName": "蘇澳馬賽店",
       "address": "宜蘭縣蘇澳鎮大同路65號1樓",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1423,8 +1423,8 @@
       "storeName": "南澳站前店",
       "address": "宜蘭縣蘇澳鎮大通路48號",
       "area": "蘇澳鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1435,8 +1435,8 @@
       "storeName": "冬山店",
       "address": "宜蘭縣冬山鄉冬山路17號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1447,8 +1447,8 @@
       "storeName": "冬山義成店",
       "address": "宜蘭縣冬山鄉義成路三段373號",
       "area": "冬山鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1459,8 +1459,8 @@
       "storeName": "宜蘭羅東店",
       "address": "宜蘭縣羅東鎮民權路67號",
       "area": "羅東鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1473,8 +1473,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路204號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1485,8 +1485,8 @@
       "storeName": "埔心中興店",
       "address": "桃園市楊梅區中興路103號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1497,8 +1497,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路186號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1509,8 +1509,8 @@
       "storeName": "楊梅環南店",
       "address": "桃園市楊梅區環南路180號1樓",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1521,8 +1521,8 @@
       "storeName": "楊梅環東店",
       "address": "桃園市楊梅區環東路470號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1533,8 +1533,8 @@
       "storeName": "楊梅文化店",
       "address": "桃園市楊梅區文化街238號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1545,8 +1545,8 @@
       "storeName": "楊梅青山店",
       "address": "桃園市楊梅區青山一街11號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1557,8 +1557,8 @@
       "storeName": "楊梅水美店",
       "address": "桃園市楊梅區楊新路二段11號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1569,8 +1569,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路10-1號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1581,8 +1581,8 @@
       "storeName": "埔心中興店",
       "address": "桃園市楊梅區中興路81號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1593,8 +1593,8 @@
       "storeName": "楊梅梅獅店",
       "address": "桃園市楊梅區梅獅路二段182號1樓",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1605,8 +1605,8 @@
       "storeName": "楊梅富岡店",
       "address": "桃園市楊梅區中正路84號1樓",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1617,8 +1617,8 @@
       "storeName": "桃園楊梅店",
       "address": "桃園市楊梅區大成路122號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1629,8 +1629,8 @@
       "storeName": "桃園楊梅埔心店",
       "address": "桃園市楊梅區中興路109號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1641,8 +1641,8 @@
       "storeName": "楊梅新農店",
       "address": "桃園市楊梅區新農街521號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1653,8 +1653,8 @@
       "storeName": "楊梅文化店",
       "address": "桃園市楊梅區文化街167號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1665,8 +1665,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路164號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1677,8 +1677,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路118號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1689,8 +1689,8 @@
       "storeName": "楊梅文化店",
       "address": "桃園市楊梅區文化街181號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1701,8 +1701,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路10號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1713,8 +1713,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路96號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1725,8 +1725,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路142號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1737,8 +1737,8 @@
       "storeName": "楊梅文化店",
       "address": "桃園市楊梅區文化街187號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1749,8 +1749,8 @@
       "storeName": "楊梅大成店",
       "address": "桃園市楊梅區大成路145號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1761,8 +1761,8 @@
       "storeName": "埔心文化店",
       "address": "桃園市楊梅區文化街228號",
       "area": "楊梅區",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1775,8 +1775,8 @@
       "storeName": "苗栗中正店",
       "address": "苗栗縣苗栗市中正路1077號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1787,8 +1787,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路86-2號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1799,8 +1799,8 @@
       "storeName": "苗栗為公店",
       "address": "苗栗縣苗栗市為公路156號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1811,8 +1811,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市建國路77號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1823,8 +1823,8 @@
       "storeName": "頭份斗煥坪店",
       "address": "苗栗縣頭份市中正一路718號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1835,8 +1835,8 @@
       "storeName": "竹南中正店",
       "address": "苗栗縣竹南鎮中正路263-1號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1847,8 +1847,8 @@
       "storeName": "竹南光復店",
       "address": "苗栗縣竹南鎮光復路133號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1859,8 +1859,8 @@
       "storeName": "苗栗苑裡店",
       "address": "苗栗縣苑裡鎮為公路85號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1871,8 +1871,8 @@
       "storeName": "苗栗公館店",
       "address": "苗栗縣公館鄉館中村大同路231-5號",
       "area": "公館鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1883,8 +1883,8 @@
       "storeName": "苗栗中正店",
       "address": "苗栗縣苗栗市中正路1062號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1895,8 +1895,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路105號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1907,8 +1907,8 @@
       "storeName": "苗栗為公店",
       "address": "苗栗縣苗栗市為公路222號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1919,8 +1919,8 @@
       "storeName": "公館大同店",
       "address": "苗栗縣公館鄉玉泉村大同路362號",
       "area": "公館鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1931,8 +1931,8 @@
       "storeName": "三義勝興店",
       "address": "苗栗縣三義鄉中正路170-5號",
       "area": "三義鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1943,8 +1943,8 @@
       "storeName": "大湖富興店",
       "address": "苗栗縣大湖鄉富興村八寮灣25號",
       "area": "大湖鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1955,8 +1955,8 @@
       "storeName": "竹南民治店",
       "address": "苗栗縣竹南鎮民治街42號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1967,8 +1967,8 @@
       "storeName": "竹南龍山店",
       "address": "苗栗縣竹南鎮龍山路三段171號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1979,8 +1979,8 @@
       "storeName": "竹南中華店",
       "address": "苗栗縣竹南鎮中華路105號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -1991,8 +1991,8 @@
       "storeName": "竹南光復店",
       "address": "苗栗縣竹南鎮光復路204號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2003,8 +2003,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮博愛街160號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2015,8 +2015,8 @@
       "storeName": "卓蘭中山店",
       "address": "苗栗縣卓蘭鎮中山路89號",
       "area": "卓蘭鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2027,8 +2027,8 @@
       "storeName": "苑裡站前店",
       "address": "苗栗縣苑裡鎮為公路58號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2039,8 +2039,8 @@
       "storeName": "苑裡世界店",
       "address": "苗栗縣苑裡鎮新興路118號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2051,8 +2051,8 @@
       "storeName": "銅鑼中正店",
       "address": "苗栗縣銅鑼鄉中正路162-1號",
       "area": "銅鑼鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2063,8 +2063,8 @@
       "storeName": "頭份中正店",
       "address": "苗栗縣頭份市中正一路507號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2075,8 +2075,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市建國路85號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2087,8 +2087,8 @@
       "storeName": "後龍三民店",
       "address": "苗栗縣後龍鎮三民路121號",
       "area": "後龍鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2099,8 +2099,8 @@
       "storeName": "通霄中山店",
       "address": "苗栗縣通霄鎮通西里中山路165號",
       "area": "通霄鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2111,8 +2111,8 @@
       "storeName": "頭屋尖豐店",
       "address": "苗栗縣頭屋鄉尖豐路128號",
       "area": "頭屋鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2123,8 +2123,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市建功里府前路133號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2135,8 +2135,8 @@
       "storeName": "南苗中正店",
       "address": "苗栗縣苗栗市高苗里中正路886號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2147,8 +2147,8 @@
       "storeName": "苗栗正發店",
       "address": "苗栗縣苗栗市北苗里正發路35號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2159,8 +2159,8 @@
       "storeName": "苗栗至公店",
       "address": "苗栗縣苗栗市至公路140號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2171,8 +2171,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市忠孝里建國路57號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2183,8 +2183,8 @@
       "storeName": "頭份中正店",
       "address": "苗栗縣頭份市頭份里中正路190號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2195,8 +2195,8 @@
       "storeName": "頭份中正二店",
       "address": "苗栗縣頭份市和平里中正路12號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2207,8 +2207,8 @@
       "storeName": "頭份信義店",
       "address": "苗栗縣頭份市民族里信義路89號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2219,8 +2219,8 @@
       "storeName": "頭份文化店",
       "address": "苗栗縣頭份市文化里文化街155號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2231,8 +2231,8 @@
       "storeName": "頭份斗煥坪店",
       "address": "苗栗縣頭份市中正二路198號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2243,8 +2243,8 @@
       "storeName": "竹南光復店",
       "address": "苗栗縣竹南鎮照南里光復路182號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2255,8 +2255,8 @@
       "storeName": "竹南民族店",
       "address": "苗栗縣竹南鎮竹南里民族街69-2號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2267,8 +2267,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮中華里博愛街279號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2279,8 +2279,8 @@
       "storeName": "三義店",
       "address": "苗栗縣三義鄉廣盛村中正路168號",
       "area": "三義鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2291,8 +2291,8 @@
       "storeName": "苑裡店",
       "address": "苗栗縣苑裡鎮苑南里為公路67號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2303,8 +2303,8 @@
       "storeName": "通霄店",
       "address": "苗栗縣通霄鎮通西里中山路145號",
       "area": "通霄鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2315,8 +2315,8 @@
       "storeName": "銅鑼中正店",
       "address": "苗栗縣銅鑼鄉銅鑼村中正路162號",
       "area": "銅鑼鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2327,8 +2327,8 @@
       "storeName": "公館店",
       "address": "苗栗縣公館鄉館中村大同路225號",
       "area": "公館鄉",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2339,8 +2339,8 @@
       "storeName": "後龍店",
       "address": "苗栗縣後龍鎮北龍里成功路7號",
       "area": "後龍鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2351,8 +2351,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市建功里府前路99號1樓",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2363,8 +2363,8 @@
       "storeName": "苗栗頭份建國店",
       "address": "苗栗縣頭份市蟠桃里建國路二段130號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2375,8 +2375,8 @@
       "storeName": "苗栗竹南光復店",
       "address": "苗栗縣竹南鎮照南里光復路139號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2387,8 +2387,8 @@
       "storeName": "苗栗苑裡店",
       "address": "苗栗縣苑裡鎮苑南里和平路128號1樓",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2399,8 +2399,8 @@
       "storeName": "頭份尚順店",
       "address": "苗栗縣頭份市東庄里東民一街2號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2411,8 +2411,8 @@
       "storeName": "頭份文化店",
       "address": "苗栗縣頭份市山下里文化街186號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2423,8 +2423,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市福麗里至公路156號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2435,8 +2435,8 @@
       "storeName": "苗栗為公店",
       "address": "苗栗縣苗栗市清華里為公路138號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2447,8 +2447,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮照南里博愛街22號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2459,8 +2459,8 @@
       "storeName": "頭份尚順店",
       "address": "苗栗縣頭份市東民二街6號1樓",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2471,8 +2471,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路173號1樓",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2483,8 +2483,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮博愛街155號1樓",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2495,8 +2495,8 @@
       "storeName": "苑裡為公店",
       "address": "苗栗縣苑裡鎮為公路62號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2507,8 +2507,8 @@
       "storeName": "苗栗頭份尚順店",
       "address": "苗栗縣頭份市東民二街10號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2519,8 +2519,8 @@
       "storeName": "苗栗苑裡店",
       "address": "苗栗縣苑裡鎮天下路55號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2531,8 +2531,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路99號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2543,8 +2543,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市建國路185號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2555,8 +2555,8 @@
       "storeName": "竹南光復店",
       "address": "苗栗縣竹南鎮光復路177號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2567,8 +2567,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路138號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2579,8 +2579,8 @@
       "storeName": "苗栗中正店",
       "address": "苗栗縣苗栗市中正路1071號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2591,8 +2591,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市建國路178號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2603,8 +2603,8 @@
       "storeName": "頭份尚順店",
       "address": "苗栗縣頭份市東民二街1號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2615,8 +2615,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮博愛街74號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2627,8 +2627,8 @@
       "storeName": "苗栗苑裡店",
       "address": "苗栗縣苑裡鎮為公路48號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2639,8 +2639,8 @@
       "storeName": "苗栗新苗店",
       "address": "苗栗縣苗栗市新苗街91號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2651,8 +2651,8 @@
       "storeName": "頭份中央店",
       "address": "苗栗縣頭份市中央路146號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2663,8 +2663,8 @@
       "storeName": "苗栗後龍店",
       "address": "苗栗縣後龍鎮中龍里中北街250之7號",
       "area": "後龍鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2675,8 +2675,8 @@
       "storeName": "苗栗新中正店",
       "address": "苗栗縣苗栗市中正路925號1樓",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2687,8 +2687,8 @@
       "storeName": "竹南立達店",
       "address": "苗栗縣竹南鎮照南里立達街6號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2699,8 +2699,8 @@
       "storeName": "苑裡為公店",
       "address": "苗栗縣苑裡鎮苑南里為公路73號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2711,8 +2711,8 @@
       "storeName": "頭份中正店",
       "address": "苗栗縣頭份市中正路43號1樓",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2723,8 +2723,8 @@
       "storeName": "頭份建國店",
       "address": "苗栗縣頭份市建國路63號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2735,8 +2735,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮博愛街139號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2747,8 +2747,8 @@
       "storeName": "苗栗中苗店",
       "address": "苗栗縣苗栗市中山路596號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2759,8 +2759,8 @@
       "storeName": "苗栗竹南店",
       "address": "苗栗縣竹南鎮照南里博愛街44號1樓",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2771,8 +2771,8 @@
       "storeName": "苗栗竹南科專店",
       "address": "苗栗縣竹南鎮科專七路448號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2783,8 +2783,8 @@
       "storeName": "苗栗中正店",
       "address": "苗栗縣苗栗市中正路921號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2795,8 +2795,8 @@
       "storeName": "苗栗府前店",
       "address": "苗栗縣苗栗市府前路173號",
       "area": "苗栗市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2807,8 +2807,8 @@
       "storeName": "竹南博愛店",
       "address": "苗栗縣竹南鎮照南里博愛街188號",
       "area": "竹南鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2819,8 +2819,8 @@
       "storeName": "頭份中正店",
       "address": "苗栗縣頭份市中正路55號",
       "area": "頭份市",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"
@@ -2831,8 +2831,8 @@
       "storeName": "苑裡店",
       "address": "苗栗縣苑裡鎮苑南里天下路71號",
       "area": "苑裡鎮",
-      "lat": 0,
-      "lng": 0,
+      "lat": null,
+      "lng": null,
       "cat": "飲品",
       "categories": [
         "飲品"

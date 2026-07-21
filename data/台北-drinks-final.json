@@ -1,8 +1,8 @@
 [
   {
     "name": "50嵐",
-    "lat": 25.0580299,
-    "lng": 121.5539934,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.033859,
-    "lng": 121.5073254,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0800707,
-    "lng": 121.5922492,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0512565,
-    "lng": 121.5634285,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.083065,
-    "lng": 121.5464284,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0718252,
-    "lng": 121.6087946,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0286792,
-    "lng": 121.5056136,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0309343,
-    "lng": 121.517766,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0021627,
-    "lng": 121.5391108,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0714649,
-    "lng": 121.5140301,
+    "lat": null,
+    "lng": null,
     "area": "大同區",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.089649,
-    "lng": 121.5269073,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.1189142,
-    "lng": 121.5263526,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0681132,
-    "lng": 121.6173776,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -144,8 +144,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.0440228,
-    "lng": 121.5822978,
+    "lat": null,
+    "lng": null,
     "area": "南港區",
     "categories": [
       "飲品"
@@ -155,8 +155,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 25.035409,
-    "lng": 121.4990433,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -166,8 +166,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0432341,
-    "lng": 121.5047749,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -177,8 +177,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0667175,
-    "lng": 121.5305477,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -188,8 +188,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0327693,
-    "lng": 121.5381856,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -199,8 +199,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0822382,
-    "lng": 121.5470883,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -210,8 +210,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0011795,
-    "lng": 121.5549113,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -221,8 +221,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0159441,
-    "lng": 121.532562,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -232,8 +232,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0434075,
-    "lng": 121.5810288,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -243,8 +243,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0483673,
-    "lng": 121.5319004,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -254,8 +254,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.044597,
-    "lng": 121.5164595,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -265,8 +265,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.1375149,
-    "lng": 121.5419382,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -276,8 +276,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0864631,
-    "lng": 121.5255745,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -287,8 +287,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.118344,
-    "lng": 121.5256166,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -298,8 +298,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.9817185,
-    "lng": 121.5612676,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -309,8 +309,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0366704,
-    "lng": 121.578219,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -320,8 +320,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 25.0545093,
-    "lng": 121.5422461,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -331,8 +331,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0460826,
-    "lng": 121.5135511,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -342,8 +342,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0481609,
-    "lng": 121.5189875,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -353,8 +353,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0276564,
-    "lng": 121.5632884,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -364,8 +364,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0209575,
-    "lng": 121.5547481,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -375,8 +375,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.9999498,
-    "lng": 121.5557425,
+    "lat": null,
+    "lng": null,
     "area": "景福社區",
     "categories": [
       "飲品"
@@ -386,8 +386,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0888289,
-    "lng": 121.5184173,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -397,8 +397,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.140716,
-    "lng": 121.5001766,
+    "lat": null,
+    "lng": null,
     "area": "北投區",
     "categories": [
       "飲品"
@@ -408,8 +408,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0442563,
-    "lng": 121.5688992,
+    "lat": null,
+    "lng": null,
     "area": "宏國忠孝社區",
     "categories": [
       "飲品"
@@ -419,8 +419,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.9910081,
-    "lng": 121.5413271,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -430,8 +430,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.1181144,
-    "lng": 121.5066098,
+    "lat": null,
+    "lng": null,
     "area": "北投區",
     "categories": [
       "飲品"
@@ -441,8 +441,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.042717,
-    "lng": 121.5065662,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -452,8 +452,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0443148,
-    "lng": 121.5083422,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -463,8 +463,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0302412,
-    "lng": 121.5166026,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -474,8 +474,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.0946134,
-    "lng": 121.5219953,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -485,8 +485,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 25.04339,
-    "lng": 121.5242337,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -496,8 +496,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0528512,
-    "lng": 121.5347039,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -507,8 +507,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0243502,
-    "lng": 121.5286414,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -518,8 +518,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0155836,
-    "lng": 121.5323643,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -529,8 +529,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0432116,
-    "lng": 121.5686849,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -540,8 +540,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0307041,
-    "lng": 121.5178186,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -551,8 +551,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0443691,
-    "lng": 121.5161432,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -562,8 +562,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0419144,
-    "lng": 121.5072442,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -573,8 +573,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0685173,
-    "lng": 121.6147407,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -584,8 +584,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 24.9931339,
-    "lng": 121.5414466,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -595,8 +595,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.1073559,
-    "lng": 121.527664,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -606,8 +606,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 24.9989475,
-    "lng": 121.5569749,
+    "lat": null,
+    "lng": null,
     "area": "景福社區",
     "categories": [
       "飲品"
@@ -617,8 +617,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0400749,
-    "lng": 121.5768921,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -628,8 +628,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.048549,
-    "lng": 121.5419949,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -639,8 +639,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 25.0515201,
-    "lng": 121.5215187,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -650,8 +650,8 @@
   },
   {
     "name": "八曜和茶",
-    "lat": 25.0094602,
-    "lng": 121.5143976,
+    "lat": null,
+    "lng": null,
     "area": "永和區",
     "categories": [
       "飲品"
@@ -661,8 +661,8 @@
   },
   {
     "name": "麻古茶坊",
-    "lat": 25.0413131,
-    "lng": 121.5657454,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -672,8 +672,8 @@
   },
   {
     "name": "麻古茶坊",
-    "lat": 25.0517243,
-    "lng": 121.5354699,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -683,8 +683,8 @@
   },
   {
     "name": "麻古茶坊",
-    "lat": 25.0488248,
-    "lng": 121.5420434,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -694,8 +694,8 @@
   },
   {
     "name": "麻古茶坊",
-    "lat": 25.0447048,
-    "lng": 121.5156984,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -705,8 +705,8 @@
   },
   {
     "name": "龜記茗品",
-    "lat": 25.04853,
-    "lng": 121.4473122,
+    "lat": null,
+    "lng": null,
     "area": "新莊區",
     "categories": [
       "飲品"
@@ -716,8 +716,8 @@
   },
   {
     "name": "龜記茗品",
-    "lat": 25.0628654,
-    "lng": 121.4975459,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -727,8 +727,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 24.990079,
-    "lng": 121.5408945,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -738,8 +738,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 25.083208,
-    "lng": 121.546422,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -749,8 +749,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 25.0431917,
-    "lng": 121.5688409,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -760,8 +760,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 25.0762704,
-    "lng": 121.5756049,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -771,8 +771,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 25.0272517,
-    "lng": 121.5228528,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -782,8 +782,8 @@
   },
   {
     "name": "五桐號",
-    "lat": 25.0490995,
-    "lng": 121.5420184,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -793,8 +793,8 @@
   },
   {
     "name": "一沐日",
-    "lat": 25.0520637,
-    "lng": 121.5215053,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -804,8 +804,8 @@
   },
   {
     "name": "一沐日",
-    "lat": 25.0157279,
-    "lng": 121.5330003,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -815,8 +815,8 @@
   },
   {
     "name": "一沐日",
-    "lat": 25.0301827,
-    "lng": 121.5541264,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -826,8 +826,8 @@
   },
   {
     "name": "一沐日",
-    "lat": 25.051855,
-    "lng": 121.5298001,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -837,8 +837,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 24.991987,
-    "lng": 121.5414055,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -848,8 +848,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0791682,
-    "lng": 121.5694606,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -859,8 +859,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0640016,
-    "lng": 121.5110053,
+    "lat": null,
+    "lng": null,
     "area": "大同區",
     "categories": [
       "飲品"
@@ -870,8 +870,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0896254,
-    "lng": 121.5267475,
+    "lat": null,
+    "lng": null,
     "area": "士林夜市",
     "categories": [
       "飲品"
@@ -881,8 +881,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0546514,
-    "lng": 121.5345777,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -892,8 +892,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0492104,
-    "lng": 121.5422718,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -903,8 +903,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0441017,
-    "lng": 121.5160212,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -914,8 +914,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.043478,
-    "lng": 121.5314628,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -925,8 +925,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0512222,
-    "lng": 121.5348917,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -936,8 +936,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0515606,
-    "lng": 121.5215056,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -947,8 +947,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0460857,
-    "lng": 121.5138598,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -958,8 +958,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0766407,
-    "lng": 121.5766719,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -969,8 +969,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0131827,
-    "lng": 121.5346733,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -980,8 +980,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 25.0415087,
-    "lng": 121.5655482,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -991,8 +991,8 @@
   },
   {
     "name": "茶的魔手",
-    "lat": 25.0300916,
-    "lng": 121.554274,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -1002,8 +1002,8 @@
   },
   {
     "name": "茶聚",
-    "lat": 25.0528584,
-    "lng": 121.5349725,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -1013,8 +1013,8 @@
   },
   {
     "name": "茶聚",
-    "lat": 25.0548823,
-    "lng": 121.604735,
+    "lat": null,
+    "lng": null,
     "area": "南港區",
     "categories": [
       "飲品"
@@ -1024,8 +1024,8 @@
   },
   {
     "name": "茶聚",
-    "lat": 25.051414,
-    "lng": 121.5153232,
+    "lat": null,
+    "lng": null,
     "area": "大同區",
     "categories": [
       "飲品"
@@ -1035,8 +1035,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.0531263,
-    "lng": 121.5452175,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -1046,8 +1046,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.1374809,
-    "lng": 121.5420629,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1057,8 +1057,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.0454229,
-    "lng": 121.5159988,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1068,8 +1068,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.0279872,
-    "lng": 121.5060637,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1079,8 +1079,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.0498594,
-    "lng": 121.5941744,
+    "lat": null,
+    "lng": null,
     "area": "南港區",
     "categories": [
       "飲品"
@@ -1090,8 +1090,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 24.988638,
-    "lng": 121.5663808,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -1101,8 +1101,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 25.043721,
-    "lng": 121.5083161,
+    "lat": null,
+    "lng": null,
     "area": "萬華區",
     "categories": [
       "飲品"
@@ -1112,8 +1112,8 @@
   },
   {
     "name": "COMEBUY",
-    "lat": 24.9988819,
-    "lng": 121.558248,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -1123,8 +1123,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 24.998198,
-    "lng": 121.5588889,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -1134,8 +1134,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0313272,
-    "lng": 121.5171783,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1145,8 +1145,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0435508,
-    "lng": 121.5313518,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1156,8 +1156,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0880069,
-    "lng": 121.5235919,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1167,8 +1167,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.088008,
-    "lng": 121.523483,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1178,8 +1178,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0943527,
-    "lng": 121.5260995,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1189,8 +1189,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.1360532,
-    "lng": 121.50396,
+    "lat": null,
+    "lng": null,
     "area": "北投區",
     "categories": [
       "飲品"
@@ -1200,8 +1200,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0445744,
-    "lng": 121.5154879,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1211,8 +1211,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0459059,
-    "lng": 121.5152918,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1222,8 +1222,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0523996,
-    "lng": 121.5606899,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -1233,8 +1233,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 25.0211546,
-    "lng": 121.5549732,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -1244,8 +1244,8 @@
   },
   {
     "name": "鮮茶道",
-    "lat": 25.0304698,
-    "lng": 121.5543863,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -1255,8 +1255,8 @@
   },
   {
     "name": "鮮茶道",
-    "lat": 25.045368,
-    "lng": 121.5160539,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1266,8 +1266,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0337255,
-    "lng": 121.5073037,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1277,8 +1277,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0414309,
-    "lng": 121.5655164,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -1288,8 +1288,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0331696,
-    "lng": 121.5431951,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -1299,8 +1299,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0319465,
-    "lng": 121.5185899,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1310,8 +1310,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0478852,
-    "lng": 121.5422436,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -1321,8 +1321,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0879888,
-    "lng": 121.5258364,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1332,8 +1332,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0898791,
-    "lng": 121.5234578,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1343,8 +1343,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 25.0768301,
-    "lng": 121.5765818,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -1354,8 +1354,8 @@
   },
   {
     "name": "老虎堂",
-    "lat": 25.0899595,
-    "lng": 121.526047,
+    "lat": null,
+    "lng": null,
     "area": "士林夜市",
     "categories": [
       "飲品"
@@ -1365,8 +1365,8 @@
   },
   {
     "name": "日出茶太",
-    "lat": 25.0535254,
-    "lng": 121.5349345,
+    "lat": null,
+    "lng": null,
     "area": "中山區",
     "categories": [
       "飲品"
@@ -1376,8 +1376,8 @@
   },
   {
     "name": "日出茶太",
-    "lat": 25.0284409,
-    "lng": 121.5684598,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -1387,8 +1387,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 25.0529923,
-    "lng": 121.5608799,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -1398,8 +1398,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 25.1185186,
-    "lng": 121.528925,
+    "lat": null,
+    "lng": null,
     "area": "士林區",
     "categories": [
       "飲品"
@@ -1409,8 +1409,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 25.0279409,
-    "lng": 121.5643585,
+    "lat": null,
+    "lng": null,
     "area": "信義區",
     "categories": [
       "飲品"
@@ -1420,8 +1420,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 24.9903336,
-    "lng": 121.5409763,
+    "lat": null,
+    "lng": null,
     "area": "文山區",
     "categories": [
       "飲品"
@@ -1431,8 +1431,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 25.0491456,
-    "lng": 121.5661571,
+    "lat": null,
+    "lng": null,
     "area": "松山區",
     "categories": [
       "飲品"
@@ -1442,8 +1442,8 @@
   },
   {
     "name": "一芳",
-    "lat": 25.0217687,
-    "lng": 121.5427599,
+    "lat": null,
+    "lng": null,
     "area": "大安區",
     "categories": [
       "飲品"
@@ -1453,8 +1453,8 @@
   },
   {
     "name": "一芳",
-    "lat": 25.0339308,
-    "lng": 121.5299223,
+    "lat": null,
+    "lng": null,
     "area": "中正區",
     "categories": [
       "飲品"
@@ -1464,8 +1464,8 @@
   },
   {
     "name": "一芳",
-    "lat": 25.0769292,
-    "lng": 121.5771045,
+    "lat": null,
+    "lng": null,
     "area": "內湖區",
     "categories": [
       "飲品"
@@ -1475,8 +1475,8 @@
   },
   {
     "name": "一芳",
-    "lat": 25.0894856,
-    "lng": 121.526847,
+    "lat": null,
+    "lng": null,
     "area": "士林夜市",
     "categories": [
       "飲品"

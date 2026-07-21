@@ -1,8 +1,8 @@
 [
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "珍薪藝好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "又一村好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "竹南鎮",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"

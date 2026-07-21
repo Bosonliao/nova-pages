@@ -1,8 +1,8 @@
 [
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "寶山鄉",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "育伸麻古商行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "(市招)找好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "東好茶行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "北區",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "幸福堂國際有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "竹北市",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "竹北市",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "是好茶點心坊",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"

@@ -1,8 +1,8 @@
 [
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大林鎮",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "朴子市",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "大發好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "西區",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大林鎮",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "民雄茶魔江厝店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "民雄鄉",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "尚好茶葉",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "竹崎鄉",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "大林茶魔一店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大林鎮",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "懂好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "東區",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "第一好茶阿里山產業有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中埔鄉",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "第一好茶阿里山旗艦店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中埔鄉",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "好茶山茗茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "民雄鄉",
     "categories": [
       "飲品"

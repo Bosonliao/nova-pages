@@ -1,8 +1,8 @@
 [
   {
     "name": "50嵐 公館店",
-    "lat": 25.0206231,
-    "lng": 121.5284432,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "迷客夏 台大店",
-    "lat": 25.018549,
-    "lng": 121.5331553,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "八曜和茶 永康店",
-    "lat": 25.0324642,
-    "lng": 121.5297302,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "麻古茶坊 信義店",
-    "lat": 25.0367876,
-    "lng": 121.5667712,
+    "lat": null,
+    "lng": null,
     "area": "信義",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "龜記 中山店",
-    "lat": 25.0519468,
-    "lng": 121.5351156,
+    "lat": null,
+    "lng": null,
     "area": "中山",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "五桐號 西門店",
-    "lat": 25.0479469,
-    "lng": 121.5089408,
+    "lat": null,
+    "lng": null,
     "area": "萬華",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "一沐日 大安店",
-    "lat": 25.0392771,
-    "lng": 121.547839,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "可不可熟成紅茶 公館店",
-    "lat": 25.0175383,
-    "lng": 121.5315591,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "茶魔 士林店",
-    "lat": 25.0875231,
-    "lng": 121.5261265,
+    "lat": null,
+    "lng": null,
     "area": "士林",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "季緣 中正店",
-    "lat": 25.0444594,
-    "lng": 121.5133411,
+    "lat": null,
+    "lng": null,
     "area": "中正",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "UG樂己 內湖店",
-    "lat": 25.0840784,
-    "lng": 121.5951744,
+    "lat": null,
+    "lng": null,
     "area": "內湖",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "茶聚 松山店",
-    "lat": 25.0501858,
-    "lng": 121.5766022,
+    "lat": null,
+    "lng": null,
     "area": "松山",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "COMEBUY 忠孝店",
-    "lat": 25.0415919,
-    "lng": 121.549007,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -144,8 +144,8 @@
   },
   {
     "name": "清心福全 中正店",
-    "lat": 25.0393602,
-    "lng": 121.512874,
+    "lat": null,
+    "lng": null,
     "area": "中正",
     "categories": [
       "飲品"
@@ -155,8 +155,8 @@
   },
   {
     "name": "CoCo都可 台大店",
-    "lat": 25.0178219,
-    "lng": 121.5329791,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -166,8 +166,8 @@
   },
   {
     "name": "迷客夏 信義店",
-    "lat": 25.0369707,
-    "lng": 121.5679069,
+    "lat": null,
+    "lng": null,
     "area": "信義",
     "categories": [
       "飲品"
@@ -177,8 +177,8 @@
   },
   {
     "name": "50嵐 信義店",
-    "lat": 25.0361808,
-    "lng": 121.5672882,
+    "lat": null,
+    "lng": null,
     "area": "信義",
     "categories": [
       "飲品"
@@ -188,8 +188,8 @@
   },
   {
     "name": "八曜和茶 中山店",
-    "lat": 25.0564571,
-    "lng": 121.5228956,
+    "lat": null,
+    "lng": null,
     "area": "中山",
     "categories": [
       "飲品"
@@ -199,8 +199,8 @@
   },
   {
     "name": "五桐號 大安店",
-    "lat": 25.0336901,
-    "lng": 121.5327188,
+    "lat": null,
+    "lng": null,
     "area": "大安",
     "categories": [
       "飲品"
@@ -210,8 +210,8 @@
   },
   {
     "name": "龜記 信義店",
-    "lat": 25.0405782,
-    "lng": 121.5652929,
+    "lat": null,
+    "lng": null,
     "area": "信義",
     "categories": [
       "飲品"

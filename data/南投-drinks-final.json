@@ -1,8 +1,8 @@
 [
   {
     "name": "50嵐",
-    "lat": 23.9105486,
-    "lng": 120.6926719,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 24.0437488,
-    "lng": 121.1568645,
+    "lat": null,
+    "lng": null,
     "area": "仁愛鄉",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 23.816354,
-    "lng": 120.8541743,
+    "lat": null,
+    "lng": null,
     "area": "水里鄉",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 23.7569684,
-    "lng": 120.6831499,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 23.9646098,
-    "lng": 120.968221,
+    "lat": null,
+    "lng": null,
     "area": "埔里鎮",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 23.8385388,
-    "lng": 120.7018653,
+    "lat": null,
+    "lng": null,
     "area": "名間鄉",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.9606562,
-    "lng": 120.6813437,
+    "lat": null,
+    "lng": null,
     "area": "草屯鎮",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.8998701,
-    "lng": 120.684683,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.9779583,
-    "lng": 120.6814349,
+    "lat": null,
+    "lng": null,
     "area": "草屯鎮",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.8142543,
-    "lng": 120.8551522,
+    "lat": null,
+    "lng": null,
     "area": "水里鄉",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.7579246,
-    "lng": 120.6844099,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.8043898,
-    "lng": 120.7154109,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.7620039,
-    "lng": 120.6963953,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -144,8 +144,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.8270302,
-    "lng": 120.784326,
+    "lat": null,
+    "lng": null,
     "area": "集集鎮",
     "categories": [
       "飲品"
@@ -155,8 +155,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 23.9706302,
-    "lng": 120.9499055,
+    "lat": null,
+    "lng": null,
     "area": "埔里鎮",
     "categories": [
       "飲品"
@@ -166,8 +166,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 23.9640387,
-    "lng": 120.9687616,
+    "lat": null,
+    "lng": null,
     "area": "埔里鎮",
     "categories": [
       "飲品"
@@ -177,8 +177,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 24.1254284,
-    "lng": 120.6753127,
+    "lat": null,
+    "lng": null,
     "area": "南區",
     "categories": [
       "飲品"
@@ -188,8 +188,8 @@
   },
   {
     "name": "麻古茶坊",
-    "lat": 23.9082356,
-    "lng": 120.6848533,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -199,8 +199,8 @@
   },
   {
     "name": "龜記茗品",
-    "lat": 23.9142736,
-    "lng": 120.6776462,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -210,8 +210,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 23.9759977,
-    "lng": 120.6836665,
+    "lat": null,
+    "lng": null,
     "area": "草屯鎮",
     "categories": [
       "飲品"
@@ -221,8 +221,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 23.7576959,
-    "lng": 120.6840677,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -232,8 +232,8 @@
   },
   {
     "name": "可不可熟成紅茶",
-    "lat": 23.9646804,
-    "lng": 120.9680818,
+    "lat": null,
+    "lng": null,
     "area": "埔里鎮",
     "categories": [
       "飲品"
@@ -243,8 +243,8 @@
   },
   {
     "name": "茶的魔手",
-    "lat": 23.7580374,
-    "lng": 120.6867045,
+    "lat": null,
+    "lng": null,
     "area": "竹山鎮",
     "categories": [
       "飲品"
@@ -254,8 +254,8 @@
   },
   {
     "name": "茶的魔手",
-    "lat": 23.8332311,
-    "lng": 120.6365392,
+    "lat": null,
+    "lng": null,
     "area": "名間鄉",
     "categories": [
       "飲品"
@@ -265,8 +265,8 @@
   },
   {
     "name": "鮮茶道",
-    "lat": 23.9066454,
-    "lng": 120.6853777,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -276,8 +276,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 23.9044164,
-    "lng": 120.6857224,
+    "lat": null,
+    "lng": null,
     "area": "南投市",
     "categories": [
       "飲品"
@@ -287,8 +287,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 23.9654767,
-    "lng": 120.9678481,
+    "lat": null,
+    "lng": null,
     "area": "埔里鎮",
     "categories": [
       "飲品"

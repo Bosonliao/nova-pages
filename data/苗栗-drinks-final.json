@@ -1,8 +1,8 @@
 [
   {
     "name": "50嵐",
-    "lat": 24.5476443,
-    "lng": 120.8163227,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 24.6865358,
-    "lng": 120.8790803,
+    "lat": null,
+    "lng": null,
     "area": "竹南鎮",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 24.6940489,
-    "lng": 120.9125957,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "50嵐",
-    "lat": 24.5053511,
-    "lng": 120.8270188,
+    "lat": null,
+    "lng": null,
     "area": "公館鄉",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.3117612,
-    "lng": 120.8266175,
+    "lat": null,
+    "lng": null,
     "area": "卓蘭鎮",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.551174,
-    "lng": 120.82109,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.5477058,
-    "lng": 120.8161267,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.6146341,
-    "lng": 120.7870788,
+    "lat": null,
+    "lng": null,
     "area": "後龍鎮",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.4386396,
-    "lng": 120.6576218,
+    "lat": null,
+    "lng": null,
     "area": "苑裡鎮",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.4106807,
-    "lng": 120.7681601,
+    "lat": null,
+    "lng": null,
     "area": "三義鄉",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.6902557,
-    "lng": 120.9088313,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.6833431,
-    "lng": 120.9382624,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.4326742,
-    "lng": 120.8692083,
+    "lat": null,
+    "lng": null,
     "area": "大湖鄉",
     "categories": [
       "飲品"
@@ -144,8 +144,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.5068739,
-    "lng": 120.8265313,
+    "lat": null,
+    "lng": null,
     "area": "公館鄉",
     "categories": [
       "飲品"
@@ -155,8 +155,8 @@
   },
   {
     "name": "清心福全",
-    "lat": 24.5277168,
-    "lng": 120.8193581,
+    "lat": null,
+    "lng": null,
     "area": "公館鄉",
     "categories": [
       "飲品"
@@ -166,8 +166,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.5591544,
-    "lng": 120.8174723,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -177,8 +177,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.6881891,
-    "lng": 120.8793619,
+    "lat": null,
+    "lng": null,
     "area": "竹南鎮",
     "categories": [
       "飲品"
@@ -188,8 +188,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.4893466,
-    "lng": 120.6780302,
+    "lat": null,
+    "lng": null,
     "area": "通霄鎮",
     "categories": [
       "飲品"
@@ -199,8 +199,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.6148936,
-    "lng": 120.7897408,
+    "lat": null,
+    "lng": null,
     "area": "後龍鎮",
     "categories": [
       "飲品"
@@ -210,8 +210,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.4429786,
-    "lng": 120.6524636,
+    "lat": null,
+    "lng": null,
     "area": "苑裡鎮",
     "categories": [
       "飲品"
@@ -221,8 +221,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.4118555,
-    "lng": 120.7695508,
+    "lat": null,
+    "lng": null,
     "area": "三義鄉",
     "categories": [
       "飲品"
@@ -232,8 +232,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.6937844,
-    "lng": 120.913021,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -243,8 +243,8 @@
   },
   {
     "name": "CoCo都可",
-    "lat": 24.504897,
-    "lng": 120.8270852,
+    "lat": null,
+    "lng": null,
     "area": "公館鄉",
     "categories": [
       "飲品"
@@ -254,8 +254,8 @@
   },
   {
     "name": "迷客夏",
-    "lat": 24.6966296,
-    "lng": 120.9033635,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -265,8 +265,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 24.5509499,
-    "lng": 120.815949,
+    "lat": null,
+    "lng": null,
     "area": "苗栗市",
     "categories": [
       "飲品"
@@ -276,8 +276,8 @@
   },
   {
     "name": "茶湯會",
-    "lat": 24.6847365,
-    "lng": 120.9074676,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"
@@ -287,8 +287,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 24.6879202,
-    "lng": 120.8793353,
+    "lat": null,
+    "lng": null,
     "area": "竹南鎮",
     "categories": [
       "飲品"
@@ -298,8 +298,8 @@
   },
   {
     "name": "大苑子",
-    "lat": 24.6963774,
-    "lng": 120.9089691,
+    "lat": null,
+    "lng": null,
     "area": "頭份市",
     "categories": [
       "飲品"

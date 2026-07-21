@@ -1,8 +1,8 @@
 [
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "綠島鄉",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "臺東市",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "臺東市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "好茶多冷飲店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "臺東市",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "上好茶園",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "臺東市",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "台東市",
     "categories": [
       "飲品"

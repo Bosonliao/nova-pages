@@ -1,8 +1,8 @@
 [
   {
     "name": "茶聚商行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "羅東鎮",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "好茶舖茶園",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "大同鄉",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "鮮茶道-東港店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "宜蘭市",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "老虎堂國際有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "羅東鎮",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "宜蘭市",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "五桐號商行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "羅東鎮",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "羅東鎮",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "五結鄉",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "宜蘭市",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "友泉好茶食品行",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "礁溪鄉",
     "categories": [
       "飲品"

@@ -1,8 +1,8 @@
 [
   {
     "name": "台灣好茶葉店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "板橋區",
     "categories": [
       "飲品"
@@ -12,8 +12,8 @@
   },
   {
     "name": "拾豆有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -23,8 +23,8 @@
   },
   {
     "name": "好茶饌茶館",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "坪林區",
     "categories": [
       "飲品"
@@ -34,8 +34,8 @@
   },
   {
     "name": "鮮茶道股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -45,8 +45,8 @@
   },
   {
     "name": "玖仰茶食文化有限公司永康分公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "板橋區",
     "categories": [
       "飲品"
@@ -56,8 +56,8 @@
   },
   {
     "name": "清心福全股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -67,8 +67,8 @@
   },
   {
     "name": "珍煮丹",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "土城區",
     "categories": [
       "飲品"
@@ -78,8 +78,8 @@
   },
   {
     "name": "爵世好茶",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "樹林區",
     "categories": [
       "飲品"
@@ -89,8 +89,8 @@
   },
   {
     "name": "茶湯會股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中和區",
     "categories": [
       "飲品"
@@ -100,8 +100,8 @@
   },
   {
     "name": "好茶屋企業社",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "新店區",
     "categories": [
       "飲品"
@@ -111,8 +111,8 @@
   },
   {
     "name": "廖老大連鎖茶坊 中正南路店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -122,8 +122,8 @@
   },
   {
     "name": "三重麻古正義北店",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "三重區",
     "categories": [
       "飲品"
@@ -133,8 +133,8 @@
   },
   {
     "name": "好茶（茶飲專賣店）",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "中和區",
     "categories": [
       "飲品"
@@ -144,8 +144,8 @@
   },
   {
     "name": "迷客夏國際股份有限公司",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "樹林區",
     "categories": [
       "飲品"
@@ -155,8 +155,8 @@
   },
   {
     "name": "好茶坊",
-    "lat": 0,
-    "lng": 0,
+    "lat": null,
+    "lng": null,
     "area": "新店區",
     "categories": [
       "飲品"
