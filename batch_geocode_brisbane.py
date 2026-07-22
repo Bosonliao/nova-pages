@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Batch geocode all shops in west-end-brisbane.html using Google Geocoding API."""
 
 import re
@@ -13,7 +13,7 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 HTML_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "west-end-brisbane.html")
-API_KEY = "AIzaSyDJ6wyZ9FIBZ0VOWMuj_KNP78yi93LK3NA"
+API_KEY = "REDACTED"
 
 def geocode(name):
     """Query Google Geocoding API for a shop name in West End Brisbane."""

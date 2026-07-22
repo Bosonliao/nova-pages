@@ -1,19 +1,18 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
-輕量版 Geocoding — 逐筆查詢逐筆寫入，避免一次讀全部 JSON。
-"""
+頛???Geocoding ?????亥岷??撖怠嚗??甈∟??券 JSON??"""
 import json, os, sys, time, urllib.request, urllib.parse
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
-API_KEY = 'AIzaSyDJ6wyZ9FIBZ0VOWMuj_KNP78yi93LK3NA'
+API_KEY = 'REDACTED'
 RATE = 0.15
 
 def geocode(name, area, city_file):
     city = city_file.replace('.json', '')
-    addr = ' '.join(p for p in [name, area, city, '台灣'] if p)
+    addr = ' '.join(p for p in [name, area, city, '?啁'] if p)
     url = 'https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s&language=zh-TW' % (
         urllib.parse.quote(addr), API_KEY)
     try:

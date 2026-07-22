@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
-批次用 Google Geocoding API 查詢所有餐廳/景點的經緯度座標。
-v2: 安全寫入 — 先收集所有結果，每個城市檔案查完再寫一次。
-支援斷點續傳。
-"""
+?寞活??Google Geocoding API ?亥岷???撱??舫???蝺臬漲摨扳???v2: 摰撖怠 ?????????瘥?撣?獢摰?撖思?甈～??舀?琿?蝥??"""
 import json, os, sys, time, urllib.request, urllib.parse
 
 os.environ['PYTHONIOENCODING'] = 'utf-8'
@@ -11,7 +8,7 @@ sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
-API_KEY = 'AIzaSyDJ6wyZ9FIBZ0VOWMuj_KNP78yi93LK3NA'
+API_KEY = 'REDACTED'
 PROGRESS_FILE = os.path.join(os.path.dirname(__file__), 'geocode_progress.json')
 RATE_LIMIT = 0.15  # 150ms between calls (~6.6 QPS, safe under 10 QPS)
 SAVE_EVERY_CITY = True
@@ -29,7 +26,7 @@ def save_progress(prog):
 
 def geocode(name, area, city_file):
     city_name = city_file.replace('.json', '')
-    parts = [name, area, city_name, '台灣']
+    parts = [name, area, city_name, '?啁']
     addr = ' '.join(p for p in parts if p)
     url = f'https://maps.googleapis.com/maps/api/geocode/json?address={urllib.parse.quote(addr)}&key={API_KEY}&language=zh-TW'
     try:
@@ -120,29 +117,29 @@ def main():
                          and f not in ['meta.json', 'cities.json', 'search_results_temp.json']])
     
     pending = [f for f in city_files if f not in done_files]
-    print(f'城市檔案: {len(city_files)} 個')
-    print(f'已完成: {len(done_files)} 個')
-    print(f'待處理: {len(pending)} 個')
-    print(f'已查座標: {prog["total_done"]} 筆')
-    print(f'失敗: {prog["errors"]} 筆')
+    print(f'??瑼?: {len(city_files)} ??)
+    print(f'撌脣??? {len(done_files)} ??)
+    print(f'敺??? {len(pending)} ??)
+    print(f'撌脫摨扳?: {prog["total_done"]} 蝑?)
+    print(f'憭望?: {prog["errors"]} 蝑?)
     print()
     
     if not pending:
-        print('全部完成！')
+        print('?券摰?嚗?)
         return
     
     grand_total = 0
     for idx, fname in enumerate(pending):
-        print(f'[{idx+1}/{len(pending)}] 處理 {fname}...')
+        print(f'[{idx+1}/{len(pending)}] ?? {fname}...')
         count = process_city(fname, prog)
         grand_total += count
-        print(f'  累計: {grand_total} 筆 (總進度: {prog["total_done"]})')
+        print(f'  蝝航?: {grand_total} 蝑?(蝮賡脣漲: {prog["total_done"]})')
         print()
     
-    print(f'\n=== 全部完成 ===')
-    print(f'本次查得: {grand_total}')
-    print(f'總計查得: {prog["total_done"]}')
-    print(f'失敗: {prog["errors"]}')
+    print(f'\n=== ?券摰? ===')
+    print(f'?祆活?亙?: {grand_total}')
+    print(f'蝮質??亙?: {prog["total_done"]}')
+    print(f'憭望?: {prog["errors"]}')
 
 if __name__ == '__main__':
     main()

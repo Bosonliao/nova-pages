@@ -1,4 +1,4 @@
-"""
+﻿"""
 Fetch real popular dishes for restaurants using Google Places API.
 Uses Place Details API to get reviews mentioning dishes, and place photos.
 """
@@ -8,11 +8,11 @@ import time
 import sys
 import os
 
-API_KEY = "AIzaSyDGWjX9c3wxL_aNEZbPbzKrGn7GbAe6s0k"
+API_KEY = "REDACTED"
 
 def search_place(name, area, city):
     """Find a place using Google Places Text Search."""
-    query = f"{name} {area} {city} 台灣"
+    query = f"{name} {area} {city} ?啁"
     url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
     params = {
         "query": query,
@@ -61,13 +61,13 @@ def extract_dishes_from_reviews(reviews, restaurant_name):
     
     # Common dish keywords to look for
     dish_keywords = [
-        "飯", "麵", "湯", "鍋", "粥", "粄", "糕", "餅", "捲", "捲餅",
-        "炸", "烤", "滷", "炒", "煎", "蒸", "燉", "煮", "涼拌",
-        "雞", "豬", "牛", "羊", "魚", "蝦", "蟹", "鴨", "鵝",
-        "豆腐", "蛋", "青菜", "沙拉", "甜點", "飲品", "茶", "咖啡",
-        "拉麵", "壽司", "生魚片", "定食", "咖哩", "火鍋",
-        "水餃", "包子", "餃子", "燒餅", "油條", "豆漿",
-        " 牛肉麵", "滷肉飯", "雞肉飯", "排骨飯", "爌肉飯",
+        "憌?, "暻?, "皝?, "??, "蝎?, "蝎?, "蝟?, "擗?, "??, "?脤?",
+        "??, "??, "皛?, "??, "??, "??, "??, "??, "瘨潭?",
+        "??, "鞊?, "??, "蝢?, "擳?, "??, "??, "暾?, "曀?,
+        "鞊?", "??, "??", "瘝?", "??", "憌脣?", "??, "?",
+        "?熊", "憯賢", "????, "摰?", "?", "?恍?",
+        "瘞湧?", "??", "擗?", "??", "瘝寞?", "鞊撚",
+        " ??暻?, "皛瑁?憌?, "??憌?, "?爸憌?, "??憌?,
     ]
     
     for review in reviews:
@@ -92,7 +92,7 @@ def extract_dishes_from_reviews(reviews, restaurant_name):
         clean_name = dish.strip()
         dishes.append({
             "name": clean_name,
-            "desc": f"Google 評論中 {count} 次提及的推薦品項"
+            "desc": f"Google 閰?銝?{count} 甈⊥????刻??"
         })
     
     return dishes
@@ -116,7 +116,7 @@ def get_dishes_for_restaurant(name, area, city):
         for d in popular[:3]:
             dishes.append({
                 "name": d.get("name", ""),
-                "desc": d.get("description", "Google 推薦品項")
+                "desc": d.get("description", "Google ?刻??")
             })
     
     return dishes[:3] if dishes else None
@@ -180,3 +180,4 @@ if updated > 0:
 
 print(f"\nDone. Updated: {updated}, Failed: {failed}")
 print("Saved both files.")
+
